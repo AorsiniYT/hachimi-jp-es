@@ -1,0 +1,173 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es la noche antes de la noche más sagrada del\naño... Visiones de comida están cruzando por mi\nmente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pollo frito, pavo, pastel de carne y el pastel más\ndelicioso..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Entrenador, ¡es hora de la cena! ¡Esta noche\ncomemos oden! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "(<i>¡Crash!</i> Ese es el sonido de Super Creek\ndestruyendo mis sueños de vacaciones.)"
+    },
+    {
+      "name": "Super Creek",
+      "text": "...¿Pasa algo?",
+      "choice_data_list": [
+        "Tenía otra cosa en mente..."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh, lo siento. Es que ahora hace mucho frío."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Casi está helando afuera, así que pensé que el\noden nos calentaría..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hoy <i>hace</i> particularmente frío. Super Creek\nsimplemente está siendo tan considerada como\nsiempre."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Mmm, supongo que todos realmente quieren comer\npastel en esta época del año."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Me preguntaba hace un tiempo si realmente era\nnecesario.",
+      "choice_data_list": [
+        "¿Qué quieres decir?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Bueno... Una vez, estaba ayudando en el centro de\ncuidado infantil de mi familia. Llevé a uno de los\nniños al parque..."
+    },
+    {
+      "name": "Niño A",
+      "text": "¡Hmph! ¡No me importa si mamá viene a buscarme o\nno!"
+    },
+    {
+      "name": "Niño A",
+      "text": "¡Solo quiero mi pastel! ¡Eso es todo!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "No creo que ese niño realmente quisiera pastel."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Simplemente quería tener una cena festiva alegre\ncon su familia."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Por eso elegí oden esta noche. Pensé que podrías\nencontrarlo más reconfortante."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Debería haber elegido otra cosa en su lugar?",
+      "choice_data_list": [
+        "Estoy más que contento con el oden.",
+        "Estoy más que contento con el oden."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Hehe, ¡gracias! Calentémonos bajo el kotatsu y\ncomamos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En una noche en que todos los demás están comiendo\npastel, por alguna razón estamos picoteando oden."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero supongo que esto es lo que significa tener\nuna verdadera conexión con alguien."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Qué buena comida! ¿Comiste suficiente,\nEntrenador?",
+      "choice_data_list": [
+        "¡Sí!",
+        "¡Sí!"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Me alegra escucharlo! Ahora para el postre..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Traeré el pastel!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "(<i>¡Crash!</i> Ese es el sonido de Super Creek\ndestruyendo mis problemas de vacaciones.)"
+    },
+    {
+      "name": "Super Creek",
+      "text": "...¿Pasa algo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Qué giro argumental."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Mmm, ¡eso estuvo delicioso!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Eh, Entrenador, ¿podría hacerte una pregunta más?"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Dije antes que no importa lo que comas mientras\npases el día con las personas que te importan,\npero..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Eso aplica a todas las relaciones?",
+      "choice_data_list": [
+        "No estoy segura de entender..."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Bueno, si no fuéramos entrenador y Umamusume..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Habrías querido pasar esta ocasión conmigo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pienso por un rato pero soy incapaz de encontrar\nuna respuesta."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Entrenador?",
+      "choice_data_list": [
+        "¿Qué piensas, Super Creek?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Yo? Bueno... Mmm..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Quién sabe! Empiezo a sentir que no importa. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La habitación está llena de una calidez cómoda.\nDecido dejar la conversación en eso."
+    }
+  ]
+}

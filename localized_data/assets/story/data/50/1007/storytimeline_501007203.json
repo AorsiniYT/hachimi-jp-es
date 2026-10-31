@@ -1,0 +1,55 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "La carrera de hoy, el Kikuka Sho, es la más larga\nde los Clásicos.",
+      "color_text_info_list": [
+        "Kikuka Sho"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las carreras largas son el fuerte de Gold Ship,\nasí que me encantaría verla ganar esta, pero..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "<i>Bostezooo...</i>"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Este té está buenísimo... Y las hojas de otoño se\nven preciosas..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La forma en que se relaja, uno pensaría que está\naquí para unas vacaciones tranquilas.",
+      "choice_data_list": [
+        "¡No es momento para relajarse! ¡La carrera está\npor empezar!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ah, sí, la carrera."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Está bien. La mejor forma de ganar una carrera es\nentrar suelto y relajado."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Estaré allí tan pronto como termine mi té, no te\npreocupes. Oh, y hablando de eso..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Me pasas esas galletas de arroz?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Relajarse podría ser su forma de prepararse para\nla carrera, pero..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡En serio, me está estresando mucho!"
+    }
+  ]
+}

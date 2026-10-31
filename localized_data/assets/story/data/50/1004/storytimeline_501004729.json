@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Maruzensky",
+      "text": "Ay, qué lástima...",
+      "choice_data_list": [
+        "Lo siento...",
+        "Lo siento..."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "No hay por qué disculparse. ¡Está totalmente bien!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡A veces las cosas salen así! ¡Sacude esas\nmigajas, Entrenador!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡A veces las cosas salen así! ¡Sacude esas\nmigajas, Entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bueno, eso fue decepcionante."
+    }
+  ]
+}

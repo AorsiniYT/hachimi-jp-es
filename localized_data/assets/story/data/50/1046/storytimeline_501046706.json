@@ -1,0 +1,190 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mientras estoy afuera con Smart Falcon..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Oye, Entrenador. Viendo que todavía tenemos un\npoco de tiempo antes de tener que volver..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Hay algo que quiero hacer contigo. ¿Está bien?",
+      "choice_data_list": [
+        "¿Qué quieres hacer?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "En una palabra—¡reconocimiento de locaciones!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Cuando la gente ve un video musical de una Umadol\nnúmero uno, no solo esperan excelente\ncinematografía y edición..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Tampoco quedarán satisfechos a menos que filme en\nuna locación que resalte completamente mis\nencantos!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Si algún día quiero lanzar videos musicales lindos\ncomo esos, ¡tengo que empezar a aprender ahora\nmismo!",
+      "choice_data_list": [
+        "¡Ya veo! ¡Claro, entonces, por qué no!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Wuju! ¡Sabía que dirías que sí! ♪"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oh, cierto! ¡Como te tengo aquí, quiero saber qué\npiensas! ☆"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Cuál es la locación perfecta para mostrar mi\nlindura?",
+      "choice_data_list": [
+        "...¡Un acuario!",
+        "...¡Un cine!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Un acuario! ¡Eso grita \"lindo\"!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Podríamos llamarlo... \"Amor Acuático ☆\".\n¡Perfecto! ♪"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Muy bien! ☆ ¡Ya que decidimos, vámonos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así que Smart Falcon y yo nos dirigimos\ndirectamente al acuario local..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Wow! ¡Mira todos los pececitos lindos! ☆"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Mira este, Entrenador! ¡Sus aletas se ven como\nuna falda con volantes!",
+      "choice_data_list": [
+        "Es como un traje de Umadol.",
+        "Es como un traje de Umadol."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...¡Ah! ¡Eso es exactamente lo que estaba\npensando!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Las mentes brillantes piensan igual, ¿eh,\nEntrenador? ♪",
+      "choice_data_list": [
+        "Supongo que me estás contagiando."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ehehe! ¡Quizás!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Pero todavía nos falta camino! Voy a seguir\ntomando el centro del escenario..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Y definitivamente voy a cumplir mi sueño de\nconvertirme en la Umadol número uno más linda!",
+      "choice_data_list": [
+        "¡Hagámoslo!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Sí! ¡Cuento contigo! ♪"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "De todos modos, esa es una razón más para\nencontrar la locación perfecta."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Te dejo a cargo de tomar fotos de referencia! ☆\n¡Pero ten cuidado con los tanques donde no se\npermiten cámaras!",
+      "choice_data_list": [
+        "No pasas por alto nada...",
+        "No pasas por alto nada..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después, continuamos buscando buenas locaciones en\nel acuario hasta que Smart Falcon esté satisfecha."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Un cine! ¡Esa será nueva para mí!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "\"Amor Cinematográfico ☆\"... ¡Sí! ¡Ese es el nombre\nperfecto para la canción! ♪"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Muy bien! ☆ ¡Si ya decidimos, vámonos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así que Smart Falcon y yo nos dirigimos a un cine\nlocal."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...¡Okay! ¡Primero, necesitamos ver qué están\nproyectando!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "El ambiente de un cine cambia totalmente\ndependiendo de qué tipo de gente hay—familias,\ngrupos de amigos, parejas... ☆",
+      "choice_data_list": [
+        "¡Has pensado mucho en esto!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Por supuesto! ¡El secreto del reconocimiento de\nlocaciones está en el poder de observación!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oh, <i>Idol ☆ Glitter Saga</i> está en la tele! ¡Yo no\nsabía que ya había salido!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Trata sobre un duo de hermanas idols elegidas por\nlas estrellas, y su camino hacia el súper\nescenario...",
+      "choice_data_list": [
+        "...¿Quieres verla?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡¿En serio?! ¿P-podemos?",
+      "choice_data_list": [
+        "Podríamos, ya que estamos aquí."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Wow! ¡Gracias, Entrenador! ☆"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Terminemos primero el reconocimiento de\nlocaciones, y luego podemos disfrutar el resto del\ndía juntos! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de disfrutar tanto el reconocimiento como\nla película, vuelvo al campus con una Smart Falcon\nmuy contenta."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, Tosen Jordan recibe una carta de una fan."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡No puede ser! ¡Una carta de fan, para mí?! ¡Es\ncomo si ya fuera una estrella!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Jeje, esto es, como, tan vergonzoso. Me pregunto\nqué escribieron..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...!",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Perdón, me voy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Unos treinta minutos después, Tosen Jordan\nregresa, tarareando para sí misma."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Me di un capricho! Nuevo color de labios, esmalte\nde uñas brillante. ¿Y qué más...",
+      "choice_data_list": [
+        "¿Fuiste de compras?",
+        "¿Fuiste de compras?"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Uh, sí! ¡Compré montones de cosméticos!\nSimplemente no pude evitarlo."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "O sea, la persona que escribió la carta de fan?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Dijeron que brillo!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Entonces, como, si así es como mis fans me ven,\nentonces en serio no puedo descuidar mi\nmaquillaje!",
+      "choice_data_list": [
+        "No creo que se refirieran a \"brillar\" en ese\nsentido..."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Eh? ¿Qué quieres decir?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le digo a Tosen Jordan que sospecho que se\nreferían a que brilla cuando trabaja duro."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿En serio? ¿Y eso es algo?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...¡No! Estoy <i>bastante</i> seguro de que estaban\nhalagando mi cara golpeada!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "O sea, sabes que mis uñas y mi maquillaje son,\ncomo, lo que me caracteriza, ¿verdad?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Algunos dicen que soy demasiado llamativa, pero\n<i>¡me da igual!</i> Como si me importara lo que\ndigan."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Así soy yo! ¡Les mostraré a los fans que me\napoyan cuánto brillo de verdad!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hablando con la cabeza en alto, Tosen Jordan\nciertamente parece estar brillando mucho."
+    }
+  ]
+}

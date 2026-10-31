@@ -1,0 +1,336 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "De vuelta de un paseo, Mejiro McQueen y yo pasamos\npor el distrito comercial."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Oh? Una gran multitud se ha reunido por allí."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Los ganadores del primer premio reciben una\nhamburguesa de zanahoria deluxe, el segundo un\nfardo de zanahorias y el tercero una sola\nzanahoria."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡No dejes pasar esta oportunidad! ¡Compra un\nboleto ahora y gira para tener la oportunidad de\nganar!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Una rifa... Parece divertido. ¿Crees que haya una\nforma segura de ganar?",
+      "choice_data_list": [
+        "Lo único en lo que puedes contar es con tu suerte."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Solo mi suerte?! Entonces no hay razón para\ndudar."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ni el rango ni la habilidad adquirida son\nrelevantes si solo es cuestión de suerte."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "En situaciones como esta, no puede haber\nfavoritismo. ¡Oh, qué emoción!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Conseguiré mi boleto de rifa lo antes posible.\nPuedo comprar algunas cintas o algo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Y así recibimos un boleto de rifa."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ahora, solo tenemos una oportunidad. Concentremos\ntoda nuestra energía en esto, Entrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras las dos rezamos por buena suerte,\nagarramos la palanca juntas y giramos la tómbola\nde la rifa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de la abertura..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Santo cielo! ¡Tenemos una ganadora del gran\npremio! ¡Ven a recoger el cupón para tus\nvacaciones en aguas termales! ¡Felicitaciones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Qué? ¿Esto es realmente verdad?!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Lo logramos, Entrenador! ¡Ganamos el premio\nmayor!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Un vale de viaje para dos. ¡Ya puedo imaginarlo!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Mirando las hojas de otoño, comiendo comida\ndeliciosa, disfrutando de un baño caliente, y..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "E-e-espera un momento!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "(¡Acabo de ganar un cupón para un viaje a aguas\ntermales! ¡Este es un evento inimaginable!)"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "(No debo adelantarme; no es apropiado. ¡Lo sé!\n¡Debería confiarle esto a mi entrenador!)"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Ahem! Ahora que lo pienso, no estoy restringida\nen la forma en que elijo usar estos vales."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Aquí, Entrenador. Úsalos como quieras."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "(Esta es la mejor opción. Mantengo la cortesía\nadecuada, y el Entrenador con suerte—)",
+      "choice_data_list": [
+        "No, tú deberías tenerlos. Tú eliges."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿¿¿Eh?! E-e-esto me pone en una posición incómoda!\nNo... Espera, ¿¡qué?!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "(¡Estúpida! ¿Por qué intentas devolvérmelo?! Ahora\nparece que soy la única que desea este viaje.)"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "(Ya que ha llegado a esto...)"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Los reservaré para después.",
+      "choice_data_list": [
+        "¿Reservar?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Sí. En aras de la equidad, te los estoy confiando."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Decidiré cómo usarlos solo después de una\ndeliberación exhaustiva. Es un privilegio inmenso,\ndespués de todo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella está haciendo un drama de esto más de lo\nnecesario. Aún así, termino guardando el cupón en\nsu lugar."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otra ganadora del primer\npremio! ¡Felicitaciones! ¡Recibes una hamburguesa\nde zanahoria de lujo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Vaya, una hamburguesa de zanahoria! Se ve\ndeliciosa."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "P-pero...",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Deberías tenerla. Si la como, ganaría pe— Quiero\ndecir, me sentiría terriblemente culpable."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Quieres comerla, ¿verdad? No hay necesidad de\nnegarte el placer.",
+      "choice_data_list": [
+        "Eh, no, no realmente..."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Por favor, admite que quieres comerla! Si no,\nterminaré tomándola yo, ¿sabes?",
+      "choice_data_list": [
+        "Adelante."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡No me digas \"adelante\"! ¿Por qué tú..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Muy bien, entonces la comeremos juntas. Si cada\nuna toma la mitad, serán la mitad de calorías pero\ntoda la delicia."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No, podría ser el doble de delicia. O tal vez...\n¿el doble de felicidad?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "N-no me importa. Solo estoy un poco alterada por\nganar algo tan bueno."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al final, dividimos amistosamente la hamburguesa y\nla comemos juntas."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos una ganadora del segundo premio! ¡Es tu\ndía de suerte! ¡Te vas a casa con un haz de\nzanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Segundo premio... Es un resultado regular, sin\nembargo, extrañamente, siento una sensación de\nlogro."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Quién podría haber imaginado que un solo pedazo\nde papel podría cambiarse por tanta comida? Es un\nlogro a su manera, ¿no crees?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Eso, puedo aceptarlo. Ahora, vámonos.",
+      "choice_data_list": [
+        "...Espera, ¿y las zanahorias?!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Eh? Oh, es cierto. No debo olvidar el premio\nreal."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Aunque, esa no es la razón por la que quería jugar\nla rifa."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Simplemente quería tener la oportunidad de\ndemostrar mi brillo. Eso es todo..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Aceptar el premio me pondría en una posición\nincómoda. Solo mira cuántas hay."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al final, decidimos hacer que el montón de\nzanahorias se entregue a la finca de la familia\nMejiro. Días después, yo recibo una invitación\nescrita a un \"banquete de zanahorias.\""
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Miren aquí! ¡Has ganado el tercer premio! ¡Aquí\nestá tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Solo una zanahoria... Eso es bastante deprimente."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Así que este es el límite de mi potencial... Una\nsola zanahoria..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Por cierto, Entrenador. ¿Sabes qué estación sigue\nal invierno?",
+      "choice_data_list": [
+        "Primavera. Pero, ¿por qué preguntas?",
+        "Primavera. Pero, ¿por qué preguntas?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Mira, una boutique a solo unas tiendas de aquí. Si\ncompro ropa de primavera allí, puede que consiga\notro boleto de rifa."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Entonces, no tendría más remedio que jugar la rifa\nde nuevo... Disculpe.",
+      "choice_data_list": [
+        "¡Espera un momento!",
+        "¡Espera un momento!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le impido que gaste más dinero. Parece muy\nfrustrada por el resultado de la rifa."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Oh, mala suerte! ¡Parece que sacaste un boleto\nvacío! Toma este paquete de pañuelos como premio\nde consolación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Pañuelos... Jeje... Es justo lo que quería.",
+      "choice_data_list": [
+        "¿Para qué?",
+        "¿Para qué?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Para secar mis lágrimas de arrepentimiento. Oh,\npensé que había esperado el momento perfecto.",
+      "choice_data_list": [
+        "Toma, usa mi pañuelo."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡No, gracias! Yo... ¡Prefiero un pañuelo\ndesechable!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro McQueen parece tan desanimada que me\npregunto si el pequeño paquete tendrá suficientes\npañuelos para ella."
+    }
+  ]
+}

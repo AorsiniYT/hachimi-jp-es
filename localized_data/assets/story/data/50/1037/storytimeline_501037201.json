@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fan A",
+      "text": "¿Así que a quién estás viendo en la carrera de\nhoy?"
+    },
+    {
+      "name": "Fan B",
+      "text": "¿Incluso tienes que preguntar? Considerando la\nalineación actual, ¡obviamente es Eishin Flash!"
+    },
+    {
+      "name": "Fan A",
+      "text": "Sí, verdad. Ella es la única opción lógica, ¿eh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es el día del Keisei Hai, y la cantidad de\natención que Eishin Flash está recibiendo es\nbastante alta comparada con la competencia."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "La audiencia parece estar favoreciéndome no por mi\nhabilidad, sino por defecto.",
+      "choice_data_list": [
+        "Eso no cambia el hecho de que esperan grandes\ncosas de ti.",
+        "Eso no cambia el hecho de que esperan grandes\ncosas de ti."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Eso es verdad, y por eso, quiero cumplir sus\nexpectativas."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "De hecho... Debería poder hacerlo naturalmente\nsolo siendo yo misma."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Esta carrera no es más que un punto de control en\nmi camino. No puedo permitirme tropezar aquí.",
+      "choice_data_list": [
+        "Corre como normalmente lo haces, y estarás bien.",
+        "Corre como normalmente lo haces, y estarás bien."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Sí, eso es correcto. Haré lo que deba hacerse."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Después de esto será la primera carrera de la\nTriple Corona Clásica —el Satsuki Sho."
+    }
+  ]
+}

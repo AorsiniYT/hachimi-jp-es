@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Special Week se acerca a mí durante el\nentrenamiento con una expresión seria en su\nrostro."
+    },
+    {
+      "name": "Special Week",
+      "text": "Eh... Entrenador? Uh... Esto es realmente difícil\npara mí decir, pero..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Uh, gané un poco de peso recientemente... Estoy\nrealmente avergonzada.",
+      "choice_data_list": [
+        "¡No te avergüences! ¿Por qué no hacemos un poco de\nentrenamiento extra?",
+        "¡No te avergüences! ¿Por qué no hacemos un poco de\nentrenamiento extra?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Yay, eso suena genial! ¡Gracias!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Entrenaré duro y estaré de vuelta en forma para\ncorrer en un abrir y cerrar de ojos! ¡Estamos en\nesto juntos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Special Week se enfoca en su carrera por un tiempo\ny logra alcanzar su peso objetivo con éxito."
+    }
+  ]
+}

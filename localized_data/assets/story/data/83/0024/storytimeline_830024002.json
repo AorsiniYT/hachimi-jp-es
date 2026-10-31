@@ -1,0 +1,186 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy estoy visitando un hipódromo para revisarlo\npara <chrname>."
+    },
+    {
+      "name": "Reportera",
+      "text": "¡He escuchado las buenas noticias, Oguri! Parece\nque van a hacer un evento para celebrar el\nlanzamiento de tu peluche! ¡Felicidades!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "E-em, gracias."
+    },
+    {
+      "name": "Reportera",
+      "text": "¡Tu familia debe estar muy orgullosa de su pequeña\nestrella! Me encantaría obtener la exclusiva sobre\nsu conmovedora reacción. ¿Cuándo están disponibles\npara una entrevista?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Bueno, mis padres están en mi pueblo natal, así\nque—"
+    },
+    {
+      "name": "Reportera",
+      "text": "¡Oh, no me importa hablar por teléfono! Así que,\nsi me dieras el número de teléfono de tu\nfamilia..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "E-el número? Um, es cero—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Entrevista o no, pedir información personal es\ninaceptable. Como miembro de la academia, no puedo\nquedarme de brazos cruzados.",
+      "choice_data_list": [
+        "Por favor, contacten a la academia si tienen\nalguna pregunta adicional."
+      ]
+    },
+    {
+      "name": "Reportera",
+      "text": "¿Eh, y tú quién eres? E-esa insignia... ¡Ja, ja,\ndebes ser de la academia, eh? Bueno, ¡me voy\nentonces!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Gracias por salvarme. Tuve la sensación de que esa\nreportera no tenía buenas intenciones.",
+      "choice_data_list": [
+        "Deberías rechazar a los reporteros en el momento\nen que pienses que es sospechoso."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí, lo sé..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pero esa reportera me llamó estrella."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Y me dijo que las estrellas tienen la obligación\nde responder porque eso es lo que sus fans\nquerrían."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pensé que si me negaba a responder..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Quizás estaría decepcionando a todos. ¿No es\ncierto?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es claro que ella valora mucho a sus fans... pero\neso hace que lo que estoy a punto de decir sea aún\nmás importante.",
+      "choice_data_list": [
+        "Necesitas ser firme al rechazarlos.",
+        "Necesitas ser firme al rechazarlos."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pero...",
+      "choice_data_list": [
+        "Tus verdaderos fans también se preocupan por <i>ti</i>.",
+        "Tus verdaderos fans también se preocupan por <i>ti</i>."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡...!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Tienes razón... Tome y Shige solían decirme que yo\nera su tesoro."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Supongo que eso significa que debo protegerme...\npara poder proteger su tesoro."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Vale, entiendo de dónde vienes. Me aseguraré de\nrechazar la próxima vez."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Me pregunto si realmente podré hacerlo bien,\npero.",
+      "choice_data_list": [
+        "Si no puedes hacerlo tú misma, pide ayuda a un\nadulto.",
+        "Te enseñaré una frase especial."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Vale, haré eso."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Entonces contaré contigo cuando llegue el momento.",
+      "choice_data_list": [
+        "¿Yo?",
+        "¿Yo?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí. La forma en que manejaste la conversación\nantes fue muy impresionante. Además, casualmente\neres de la academia."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Así que... ¿Podría pedirte ayuda de nuevo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me sorprende su petición franca. Todo lo que dijo\nes verdad, pero...",
+      "choice_data_list": [
+        "Eres muy directa... casi demasiado.",
+        "Eres muy directa... casi demasiado."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí, lo he escuchado. Mi mamá a menudo me elogiaba\npor eso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más tarde, veo a Oguri Cap preguntando francamente\na otros adultos de la academia varias preguntas."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...¿Una frase especial?",
+      "choice_data_list": [
+        "Por favor, contacten a la academia."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Eso... ¡es exactamente lo que le dijiste a la\nreportera!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Y la reportera salió corriendo en cuanto escuchó\nesas palabras. Mmm..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Justo cuando termina de hablar, una mujer corre\nhacia nosotros."
+    },
+    {
+      "name": "Personal",
+      "text": "¡Oh, ahí estás, Oguri! Sobre el peluche—"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Por favor, contacten a la academia respecto a esa\npregunta!"
+    },
+    {
+      "name": "Personal",
+      "text": "Oh. Espera, ¿qué?! ¿No teníamos programada una\nreunión sobre la fabricación de tu peluche hoy?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Oh. Sí, es cierto... L-lo siento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que le tomará un poco más de trabajo antes\nde que pueda usar su frase especial correctamente."
+    }
+  ]
+}

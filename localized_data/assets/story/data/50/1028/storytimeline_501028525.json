@@ -1,0 +1,456 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "TV",
+      "text": "Y así, los jóvenes Umayama y Musunoumi continúan\nentrenando hasta altas horas de la noche con el\nfuturo de su establo de sumo firmemente sobre sus\nhombros..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "<i>Suspiro...</i> ¡Eso fue muy emotivo! <i>¡Dosukoi! La\nJuventud del Sumo</i> es una película excelente! ♪"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Entrenador, ¡gracias por dejarnos usar tu TV!",
+      "choice_data_list": [
+        "No hay problema."
+      ]
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Qué te pareció la película, Biko? ¿La rivalidad\nentre Umayama y Musunoumi no te emocionó?"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Muy bien, Bono! ¡Ven a por mí!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Embísteme con todas tus fuerzas!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "...¿Qué?!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡No te contengas! ¡Corre hacia mí y empújame tan\nfuerte como puedas!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Mmm... No creo que sea una buena idea. Podrías\nlastimarte."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Pero quiero luchar contigo a toda fuerza! ¡Quiero\nser como Umayama y Musunoumi!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Quiero volverme fuerte, igual que como ellos se\nhicieron grandes! ¡Préstame tu fuerza, Bono!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Mmm, sé que quieres volverte más fuerte, pero me\ntemo que podría hacerte volar por el techo si\nrealmente te embisto..."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¿Ngh?! ¡No quiero que eso pase! Muy bien, entonces\n¡compitamos en algo en lo que no tengas que\ncontenerte!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¿Qué tal si hacemos un concurso de comer? Podemos\ncompetir ya sea en velocidad o en cantidad. ¡Puedo\nhacer ambas!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Un concurso de comer? Eso sí suena más seguro..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Qué opinas, Entrenador?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un concurso de comer <i>es</i> más seguro, pero siento\nque cambiar tanto la competencia hace que pierda\nsu intención original. Aún así, necesito\nresponder.",
+      "choice_data_list": [
+        "¡Competir en velocidad!",
+        "¡Competir en cantidad!",
+        "¡Cancelarlo!"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Muy bien! ¡Yo prepararé la comida!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Normalmente usan perros calientes en los concursos\nde comer rápido, pero no tenemos, ¡así que usemos\nperros de yakisoba!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Muy bien! ¡El primero en comer diez gana! ¡No\nperderé, Biko!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, empiezan a engullir perros de yakisoba... Y\nel ganador es..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Guau, gané?"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Maldición! Estaba seguro de que podía comer más\nrápido..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ambos empezaron fuertes, pero Hishi Akebono obtuvo\nun segundo aliento a mitad de camino y devoró\nrápidamente hasta la victoria!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Rayos! ¡No puedo competir contigo cuando se trata\nde comer!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Biko..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Creo que solo gané porque tengo la boca grande, ¡y\npude dar bocados más grandes! ♪"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "...¿Mmm? ¡Es verdad! ¡Tienes mandíbulas enormes!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Por cierto, todavía tengo un poco de hambre."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Y tú te ves bastante deliciosa, Biko!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Qué?! N-no, ¡no lo soy! ¡No me comas!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Oh, vuelve aquí! ¡Déjame sazonarte con salsa de\nsoja! ♪"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Basta ya, Bono! ¿Qué crees que estás—¡ajaja!\n¡L-as cosquillas no son justas!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Jejeje! Es solo un pequeño truco para realzar el\nsabor. ¡Cosquillas, cosquillas! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los resultados de la competencia se van por la\nventana, junto con las carcajadas cristalinas de\nlas dos."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡SÍ! ¡La victoria es mía!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Felicidades, Biko! ¡Fuiste muy rápida!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hishi Akebono luchó bien, pero la tenacidad de\nBiko Pegasus se impone."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Jeje! ¡Comer rápido es mi especialidad! ¡La he\nestado perfeccionando durante años!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Sería una falta de respeto comer mientras ves <i>El\nGuardián de la Zanahoria,</i> ¿sabes?..."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Así que adquirí el hábito de devorar toda mi\ncomida. A mi mamá no le hizo mucha gracia, eso\nsí..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Debes amar realmente a Carrot Ranger! ¡Comer\nrápido es tu arma! ☆"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Mi arma... ¡Sí, eso es! Ahora, ¡a perfeccionarla\naún más!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Ayudaré haciendo montones y montones de perros de\nyakisoba para ti!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Siempre eres tan confiable, Bono! ¡Eres igualita\nque la Dra. Veggie!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Muy bien, ¡convirtámonos en los comedores rápidos\nmás rápidos que han existido!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Sí! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No creo que estén en la misma sintonía, pero en\nfin... Les advierto que mastiquen bien la comida y\nsuperviso su competencia."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Muy bien! ¡Yo prepararé la comida!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Hice montones de empanadas de carne, así que coman\ntodas las que quieran."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Guau! ¡Se ven calientes y humeantes y deliciosas!\n¡Empecemos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Empiezan a engullir empanadas de carne... Y el\nganador es..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Eso estuvo sabroso! ☆ Uf, ¡estoy llena!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "N-no puedo comer otro bocado..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hishi Akebono consigue una victoria aplastante con\nsu técnica de devorar tres bollos a la vez."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Lo siento, Bono!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "...¿Por qué?"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Quería tener una batalla intensa contigo, igual\nque Umayama y Musunoumi... Pero te fallé."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Perdón por no ser lo suficientemente buena para\nser tu rival! Ugh, ¡qué vergüenza!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Biko..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Entonces vuelve más fuerte y gana la próxima vez,\nCarrot Ranger!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "...¡Conozco esa frase! Es del episodio donde\nCarrot Ranger se enfrentó a su rival definitiva,\n¡Cucumber Ranger!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "\"Cada vez que batallas conmigo, me vuelvo más\nfuerte... Así que te digo a ti, Carrot Ranger!\""
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "\"Ven a desafiarme tantas veces como quieras,\n¡mientras la llama de la justicia arda en tu\ncorazón!\""
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Ahora lo entiendo..."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Umayama y Musunoumi eran Carrot Ranger y Cucumber\nRanger todo este tiempo!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Son muy similares, ¿verdad? ¡Pero Biko, recuerda\nesto!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Puedes desafiarme de nuevo en cualquier momento.\n¡Siempre estaré feliz de aceptar el desafío!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "...¡Lo haré! ¡Y la próxima vez, lo arreglaremos\ncon arroz!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al final, el vínculo de Hishi Akebono con Biko\nPegasus se fortalece aún más gracias a su pequeña\ncompetencia."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Eso es cincuenta y cinco! Entrenador, ¡otra\nempanada de carne, por favor! ♪"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "U-otra para mí... también... Urgh.",
+      "choice_data_list": [
+        "¡Competidores, bajen sus empanadas de carne!"
+      ]
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "...!",
+      "choice_data_list": [
+        "¡La vencedora es Akebono!"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Yupi, gané! Um, ¿estás bien, Biko? ¿Te duele la\npancita?"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Afortunadamente, la competencia se detuvo con mi\nestómago al 95% de capacidad, así que estaré\nbien..."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Pero estoy muy enojada conmigo misma! ¡Podría\nhaber cabido medio bollo más antes de alcanzar mi\nlímite!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Entonces, ¿qué tal si comemos postre en su lugar?"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¿¡Qué?!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Todavía tengo hambre, ¡así que comamos hasta que\nambas estemos llenas!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Dime si tienes alguna petición y yo lo haré para\nti! ¡Oh! ¿Qué te parece un balde entero de tofu de\nalmendra?"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "B-Bono, ¡ten piedad! ¡Solo intentaba sonar dura!\n¡En realidad estoy tan llena que voy a explotar!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿En serio? ¡Pero apuesto a que tu estómago de\npostre aún está vacío!",
+      "choice_data_list": [
+        "¡C-creo que eso es suficiente, Akebono!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso, su concurso de comer llega a su fin, con\nHishi Akebono como la ganadora clara."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Mmm! ♪ ¡Son tan regordetes, esponjosos y\nsabrosos!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Tú hiciste estos, Bono?! ¡De verdad que son\nesponjosos!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Jeje! ♪ Como ya estaba cocinando, ¡decidí cocinar\nal vapor algunos dumplings de sopa y shumai!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Quieres un poco?"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Oh! ¡Definitivamente! ¡Me encantaría ayudarte!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "<i>Suspiro...</i> ¡Todo estuvo tan delicioso! ¡La comida\nchina es tan rica y llena de sabor! ¡Me encanta!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Eheje! Comimos un montón. Estoy demasiado llena\npara levantarme..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿A ti también te gustaron, Entrenador? ¡Qué comida\ntan rica y satisfactoria! ♪",
+      "choice_data_list": [
+        "¿Qué pasó con su competencia?"
+      ]
+    },
+    {
+      "name": "Bono y Biko",
+      "text": "¡Oh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Las dos se distrajeron tanto con la comida que\nolvidaron por completo llevar la cuenta."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¿¡Qué?! Pero ¿por qué?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me preocupa que las dos se pierdan en el calor del\nmomento y se lastimen, pero no quiero ser grosero\ny decirlo demasiado directo.",
+      "choice_data_list": [
+        "¡Porque ya están compitiendo entre sí!"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Ohhh! ¡Muy bien!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Eso suena genial... Pero ¿qué quieres decir?"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Mmm, creo que el Entrenador está hablando de\nnuestros sentimientos."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Quieres luchar y forcejear conmigo con todas tus\nfuerzas."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Y eso es exactamente como empezó todo cuando\nUmayama desafió a Musunoumi."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "<i>¡Ah!</i> ¿Entonces esto significa lo que creo que\nsignifica?"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Sí. Significa que ya diste el primer paso para\nvolverte más fuerte, Biko."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡B-bueno, entonces!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Jeje! ¿Por qué no salimos a correr para ver si es\nverdad?"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Por supuesto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, la competencia se cancela y las dos se\ndirigen juntas a la pista."
+    }
+  ]
+}

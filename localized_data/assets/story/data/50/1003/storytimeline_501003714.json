@@ -1,0 +1,124 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Tokai Teio sufre una lesión durante el\nentrenamiento y yo la llevo a la enfermería."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Dije que estoy bien! ¡Estás preocupándote por\nnada!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Esta cosa sanará en un santiamén! ¡Estaré de\nvuelta en acción mañana!",
+      "choice_data_list": [
+        "Necesitas descansar primero."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...No."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "No quiero."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡No dejaré que esto me detenga! Si digo que puedo\nhacerlo, entonces―"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ay!",
+      "choice_data_list": [
+        "Por favor, no lo empeores.",
+        "¿De verdad crees que puedes correr en este estado?",
+        "¿De verdad crees que puedes correr en este estado?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ay!",
+      "choice_data_list": [
+        "Por favor, no lo empeores.",
+        "¿De verdad crees que puedes correr en este estado?",
+        "¿De verdad crees que puedes correr en este estado?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...Hum.",
+      "choice_data_list": [
+        "Al menos tómalo con calma por hoy."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...Bien, pero <i>solo</i> hoy."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "<i>Snif...</i> Y solo porque me lo pediste."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡No dejaré que algo tonto como una lesión me\ndetenga!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me aseguro de que Tokai Teio tome un descanso\nadecuado hoy."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Puedo! ¡Sé que puedo!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Ves?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡AY!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...",
+      "choice_data_list": [
+        "Mientras descanses hoy, sanará."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...Bien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tokai Teio pasa todo el día de muy mal humor."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Mira, entrenador! ¡Estoy bien!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Soy la invencible Tokai Teio, ¿recuerdas?!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Eres mi entrenador! ¡Tienes que creer en mí!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡No importa cuántas veces caiga, siempre me\nlevanto de nuevo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, Teio aparece para practicar\nluciendo aún más formidable que antes."
+    }
+  ]
+}

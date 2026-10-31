@@ -1,0 +1,160 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mayano Top Gun",
+      "text": "<i>Haa... Haa...</i> ¡Esto es!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Ahora... ¡Puedo vencer a Brian!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Qué demonios?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Tch! ¡Otra vez esto?!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Hmph. Es como si ni siquiera estuviera en su\nradar."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Qué diablos está miran—"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "...¿Eh?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Qué <i>está</i> mirando Brian?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Oye, Entrenador? ¿Puedo pedirte algo?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Por favor, déjame correr contra Brian una vez más\n—lo antes posible.",
+      "choice_data_list": [
+        "¿Aunque acabas de vencerla?"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Sí. No estoy muy segura de por qué, pero sé que\ntengo que..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "No puedo evitar sentir que tiene que ser lo antes\nposible..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Mayano... ¿Sentiste eso en la carrera de hoy?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "S-sí."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Ya veo. Entonces, supongo que tengo que decírtelo."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "El Arima Kinen es tu última oportunidad.",
+      "choice_data_list": [
+        "¿Qué quieres decir?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Brian ha decidido que el Arima será su última\ncarrera antes de dejar de correr."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Tch... ¡Todavía es demasiado pronto para que deje\nde correr!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿¡Hishiama!?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Pero... ¿por qué? Eso no tiene sentido."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Ella no tiene que... Brian fue increíble hoy."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Ella no puede detenerse ahora... ¡No aceptaré eso!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Aunque gané hoy, todavía no siento que la haya\nvencido realmente."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "No puede ser solo yo. ¡Quiero que ella también se\nemocione por mi causa!",
+      "choice_data_list": [
+        "¿Quieres emocionarla?"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "...Sí, quiero. Más que nada."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Algunos corredores son tan brillantes que el\npúblico ni siquiera puede ver a los otros\ncorredores. Ellos emocionan a todos."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Quiero convertirme en una corredora que pueda\nemocionar a <i>ella</i> así!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Oye, Entrenador?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Hishiama dijo que la última carrera de Brian será\nel Arima Kinen, ¿verdad?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Eso significa que tienes hasta el Arima Kinen para\nentrenarme a la perfección.",
+      "choice_data_list": [
+        "Entendido."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Gracias. Ehehe, no puedo esperar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella pone su mira en el Arima Kinen: una carrera\ncontra el increíble oponente que tanto desea\nemocionar. Eso significa que necesitamos incluirla\nen el calendario G1."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella tiene una oportunidad este verano y otra en\notoño. Tiene que correr en una carrera G1 de larga\ndistancia similar a la Arima o en una carrera G1\nde media distancia.",
+      "choice_data_list": [
+        "El Takarazuka Kinen y el Tenno Sho de otoño..."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Entonces correré en esas. Correré tan rápido como\npueda... y me pondré aún mejor."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Siento que eso es lo que tengo que hacer."
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una noche durante el campamento..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "He estado reflexionando, Entrenador. ¿Este\npensamiento te ha asaltado alguna vez?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "La gente dice que el gobernante del mar, Poseidón,\ny el poder que otorga son meramente cosas de\ncuentos de hadas.",
+      "choice_data_list": [
+        "E-em, sí...",
+        "E-em, sí..."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Pero Poseidón <i>sí</i> existe."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Adelante, escucha por ti mismo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡FSSSHH! ¡FSSSHH!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Chap, chap...</i>"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿No puedes escuchar algo emergiendo de lo\nprofundo?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Poseidon ha venido a desencadenar la próxima etapa\nde mi evolución."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Chapoteo, chapoteo...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sí que suena como pasos en el agua. Pero no pueden\npertenecer a Poseidon..."
+    },
+    {
+      "name": "???",
+      "text": "¡Je, je, je!"
+    },
+    {
+      "name": "???",
+      "text": "Tu dios del mar no existe. Pero..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡El Pájaro Fantasma sí existe!",
+      "color_text_info_list": [
+        "Pájaro Fantasma"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Gah! ¡Eres tú?!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Es verdad! Soy la más fuerte del mundo, miembro\nde la Generación Dorada, y voy pisándote los\ntalones!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡El Condor Pasa, el Pájaro Fantasma, ha\naterrizado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una corredora superestrella con aclamación mundial\nahora se erige ante nosotros."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella es una de las Umamusume de la Generación\nDorada a la que T.M. Opera O ha puesto sus ojos."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Sé quién eres, Opera O. ¡Eres la que aspira a ser\nla gobernante suprema!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Pero en esta batalla real, serás tú quien reciba\ntodos los ataques. Será un mundo de dolor."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿C-cómo sabes esto?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Tengo una vista de pájaro sobre todo. No hay nada\nque ocurra sin que yo lo sepa."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Así que te daré algunos consejos. Entonces podrás\nluchar con la cabeza alta y salir victorioso, ¡no\nimporta cuánta gente te persiga!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Oooh! ¿Prestas tu fuerza a la Soberana, eh? ¡Muy\nagradecido!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Entonces, ¿qué hacemos primero? ¿Alguna carrera en\npareja?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Vamos a luchar."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "...¿Perdón?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Si quieres aprender a pelear, no hay nada mejor\nque la lucha libre! Ve a ponerte tu atuendo de\nring."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No estoy del todo seguro por qué, pero Opera O\ntermina luchando contra El Condor Pasa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Ding!</i>"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ok, Ópera O, tráelo! ¡Pelea como la soberana que\ndices ser!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Qué vas a hacer cuando todos te estén\nacorralando?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Prueba a recibir esto, para empezar! ¡Ráfaga del\nCóndor!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Condor Pasa desata una ráfaga de golpes de\nkarate! T.M. Opera O, en el extremo receptor..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Jajaja! ¡Es pan comido!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Con mi experto baile escénico, puedo esquivar\ncualquier y todos los ataques por el margen más\nestrecho!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Ves? ¡Así es como lucha un verdadero gobernante!\nIncluso si me encuentro bajo una andanada de fuego\nde cañón, puedo usar mi energía conservada para\nalcanzar la victoria total!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Así es, ¿verdad, El? ¡Esto es lo que querías\ntransmitir!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Interesante. Seguro, ese estilo sí conserva\nenergía, pero..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Así no lucha un gobernante!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Una soberana solo corre y corre, colándose hacia\nla victoria?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ngh! ¿Qué?!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Incluso si ganas, no puedes llamar a eso victoria.\nEsa no es lucha de gobernante... ¡Esa es una\ntáctica para cobardes!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Aaagh?! ¡Cobarde! ¡Nunca me han asociado con un\ntítulo tan humillante!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Haber llegado a ser la Señora Cobarde en mi\nbúsqueda de fuerza—oh, cómo he caído."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Te mostraré el tipo de lucha en el que deberías\nesforzarte!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Vamos, Opera O! ¡Dame tu mejor movimiento final!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Mi... técnica Soberana definitiva?! ¿La que puede\nobliterar seis galaxias en un instante?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esto se ha vuelto demasiado ridículo para que me\nmeta. Decido sentarme y solo mirar."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Je! Jejeje... Como desees. No te arrepientas\ncuando te desintegres en polvo."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Prepárate para mi movimiento supremo! ¡La\nSoberana Principal Galaxion!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡BOOOOM!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella desata una técnica explosiva que desafía\ntodas las palabras!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Mnrrrgh!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Qué?! ¿Recibiste el golpe de frente?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Cómo puedes seguir en pie?! Más importante, ¿por\nqué no esquivaste? Eres más que capaz."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Por qué? ¡Porque así es como lucha un gobernante!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Recibe todo lo que te lancen... y gana. Un\nverdadero campeón no huye, incluso cuando seas tú\ncontra todos."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Recibir un golpe en la barbilla mantiene a los\nfans en vilo! ¡Contraatacar los hace rugir!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Demuestra que tienes los músculos más fuertes y\nsupera todos y cada uno de los golpes! ¡Eso es lo\nque hace un verdadero campeón!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Fiuuuush!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Qué?! Ella desapareció..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Aaaagh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡PLAF!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Condor Pasa estrella a T.M. Opera O contra la\narena con un placaje potente y de alta velocidad."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Ding, ding, ding!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El partido ha terminado, y se han aprendido\nlecciones importantes."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Te agradezco, El. Mis ojos finalmente se han\nabierto después de ese golpe impecable."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Incluso si toda mi competencia me señala, debo\nenfrentarlos de frente. Eso es lo que hace a la\nSoberana."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "No... Así es como el <i>Centurial</i> Overlord lucha. ¿Lo\nhago correcto esta vez?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Sí. Intentar mantener la distancia solo significa\nque tienes miedo de que te pasen."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Los fuertes no les importa si ganan por un pelo,\nporque saben de hecho que nadie los superará."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Y dicho esto, ¡hasta luego!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Sí! Juro convertir tus enseñanzas en un brillante\nexito en la pista!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, el Pájaro Fantasma regresa al mar."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Argh! <i>¡Gulp!</i> ¡Ptoo! No debería haber intentado\nnadar de regreso!"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, durante el entrenamiento, siento que\nalguien me está mirando. Me giro para verificar,\nsolo para encontrar..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una mujer desconocida está observando nuestra\nsesión atentamente. Supongo que es solo una fan o\nespectadora y trato de restarle importancia."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero... se queda ahí parada, incluso después de\nque el entrenamiento termina. ¿Me estaba\nesperando?",
+      "choice_data_list": [
+        "Disculpe, ¿puedo ayudarla en algo?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Oh, disculpe. ¿Molestó su sesión de entrenamiento?",
+      "choice_data_list": [
+        "No, solo estábamos terminando."
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¡Qué alivio! En realidad esperaba pedirte un par\nde preguntas, si tienes un minuto."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Mi nombre es Etsuko Otonashi. Soy una periodista\nde <i>Twinkle Monthly.</i>"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Me encantó verles entrenar. Quisiera escribir una\nhistoria sobre ustedes, si les parece bien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece una persona educada y suena sincera. Para\nno mencionar, un artículo bien escrito le traería\nmás fans a <chrname>.",
+      "choice_data_list": [
+        "Nos encantaría."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Muchas gracias. Entonces, empecemos... ¿Qué\ncriterios consideras al desarrollar tu régimen de\nentrenamiento?",
+      "choice_data_list": [
+        "Pienso mucho en cuáles son los objetivos de mi\npupila y cómo puedo ayudarla a alcanzarlos."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Entiendo. Así que en resumen, tu rol como\nentrenador es...",
+      "choice_data_list": [
+        "¡Ayudar a mi pupila a cumplir sus sueños!"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Eso... Eso es simplemente...",
+      "choice_data_list": [
+        "Eh..."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡ESO ES SIMPLEMENTE ASOMBROSO!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Parece que estás listo para hacer cualquier cosa\npara ayudar a tu pupila a alcanzar sus sueños!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Entrena cuando y donde ella quiera, la lleva a\nonsen, y busca agua en arroyos remotos para ella.",
+      "choice_data_list": [
+        "(¡No recuerdo haber dicho eso!)"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Ah... ¡Qué dedicación...! ¡Estoy tan conmovida!\n¡Prometo que mi artículo inculcará una pasión\nardiente en todos los que lo lean!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, creo que me gané el favor de una <i>aliada muy\n</i>inspirada."
+    }
+  ]
+}

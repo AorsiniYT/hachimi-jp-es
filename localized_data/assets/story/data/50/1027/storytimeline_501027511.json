@@ -1,0 +1,201 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras camino al cine, veo a Mejiro Ryan\nen la zona mirando a su alrededor frenéticamente."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Uy... ¿Dónde está McQueen?",
+      "choice_data_list": [
+        "¿Esperando a alguien?",
+        "¿Esperando a alguien?"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Aaaagh! ¿E-Entrenador?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras Ryan tiembla del susto, algunas entradas\nde cine se le caen de las manos. Rápidamente las\nrecojo."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Ah! Espera, eso es...",
+      "choice_data_list": [
+        "¿\"La Chica Pony y el Príncipe Lobo\"?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Creo que ese es el título de la versión de acción\nreal de un popular manga de romance..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Eh! Verás, estas son solo..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡McQueen es fanática del director, ya ves! Así que\nyo, bueno, voy a hacerle compañía—"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Disculpas por llegar tarde! Un recado tomó más\ntiempo de lo que anticipé..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Has leído el manga varias veces en anticipación,\n¿verdad? ¡Vamos, apresurémonos!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Espera! McQueen!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Eh, ¡de todos modos! Escuché que esta es una\npelícula muy elegante. Muy artística—¡e\ninspiradora!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Verdad, McQueen?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ciertamente... Podemos decir que lo es."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Mira! ¡McQueen está de acuerdo conmigo!",
+      "choice_data_list": [
+        "En ese caso, quizás yo también debería verla.",
+        "En ese caso, quizás yo también debería verla.",
+        "¿No está a punto de empezar tu película?"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Mira! ¡McQueen está de acuerdo conmigo!",
+      "choice_data_list": [
+        "En ese caso, quizás yo también debería verla.",
+        "En ese caso, quizás yo también debería verla.",
+        "¿No está a punto de empezar tu película?"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Huh? Oh, eh, eso es..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ryan. Ahora no es el momento para estar inventando\nexcusas."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Q-qué quieres de—"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Entrenador, por favor, hazle el favor a Ryan de\nsentarte separado de nosotras."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A petición de Mejiro McQueen, consigo un asiento a\nuna distancia considerable de ellas."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Guau! ¡Realmente fue tan artístico e inspirador\ncomo dijeron!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Verdad, Entrenador?",
+      "choice_data_list": [
+        "Eh... ¿Lo fue?"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡S-sí, lo fue! ¡Y McQueen está de acuerdo conmigo!\n¡¿Verdad?!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Perdón?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Oh! Sí, ¡claro! Eh... esa última declaración de\namor, por ejemplo!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Sí, sí! ¡Esa escena estuvo muuy buena!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Cuando él dijo: \"Nunca te dejaré ir\", y luego, a\nmedida que sus labios se acercaban..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Fue tan román—¡quiero decir, inspirador! ¡Sí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hago un voto silencioso de nunca volver a\nmencionar esto para que Mejiro Ryan salve las\napariencias."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Ah! Tienes razón, ¡debemos apresurarnos!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Uf... Gracias a Dios. Creo que mi entrenador se lo\ncreyó."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Bueno, si eso es lo que piensas, Ryan."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Termino viendo una película diferente. Después, yo\nsalgo del cine para encontrar..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Estuvo muuy buena! ¡Especialmente la escena al\nfinal donde revelan su amor!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "S-sí, entiendo. Ahora, por favor, serénate."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Y luego... ¡ya sabes! ¡La... escena de b-beros!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "La habría visto si no estuviera ocupada tratando\nde evitar que te salieras de tu asiento..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "<i>¡Desmayo!</i> ¡Oh, Dios mío!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ryan, ¡debemos irnos! ¿Y si tu entrenador regresa\ny te ve?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "O-oh, tienes razón. ¡No puedo dejar que nadie me\nvea así!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Muy bien. ¡Vamos a tomar un té y hablar más sobre\nla película!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Muy bien. Pero solo si regresamos antes del\ntoque de queda. ¿Trato hecho?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Observándolas desde atrás, me hago la promesa de\nnunca hablar de esto."
+    }
+  ]
+}

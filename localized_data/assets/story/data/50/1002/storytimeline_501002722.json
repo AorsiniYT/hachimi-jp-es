@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Noto a Silence Suzuka mientras camino por el\npasillo. Se ve bastante indispuesta."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Ay... Mi cabeza...",
+      "choice_data_list": [
+        "¿Estás bien?",
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Oh, Entrenador. Estoy bien. Solo tengo un poco de\ndolor de cabeza.",
+      "choice_data_list": [
+        "¿Por qué no descansas un rato?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Eh? P-pero..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Pensaba que una buena carrera me haría sentir\nmejor. No quie—"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Ay! Ughhh..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Silence Suzuka se agarra la cabeza con dolor."
+    }
+  ]
+}

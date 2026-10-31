@@ -1,0 +1,155 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Biwa Hayahide",
+      "text": "Bien. Es un buen momento. Mi precisión también ha\nmejorado mucho."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Creo que ya es hora de tomar un descanso. Ya sea\nhablando o corriendo, tenemos que asegurarnos de\ntener suficiente energía para ello."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...¿Hm? Esto <i>es</i> la cafetería, ¿verdad? ¿Por qué se\nve tan diferente?",
+      "choice_data_list": [
+        "Tal vez la hayan decorado para las fiestas."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Oh!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Jaja! Es cierto. ¡Ni siquiera me di cuenta de que\nya era esa época del año!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Parece que están sirviendo pollo asado y pastel de\ntemporada. ¡Oh! ¡Mira, también tienen pizza por\nallá!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No veo ningún curry, pero supongo que tiene\nsentido, jeje.",
+      "choice_data_list": [
+        "¿Curry?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Eh, sé que no es exactamente un plato tradicional\npara esta época del año..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Pero en mi casa, siempre solíamos hacer lo que a\ntodos nos gustaba para la cena de fiestas."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Le pedía a mi mamá que me hiciera un pastel de\nfrutas, y Brian me pedía que le hiciera curry."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Por supuesto, ella siempre lo pedía a última hora,\npero el tema es que se tarda horas en guisar las\nverduras para su tipo de curry favorito.",
+      "choice_data_list": [
+        "(Hablando de eso...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si recuerdo correctamente, el Arima Kinen cae en\nun feriado bastante especial este año.",
+      "choice_data_list": [
+        "¿Qué tipo de regalo le vas a dar a Brian?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Oh..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jaja. Bueno, veamos... Supongo que le daré la\nmejor carrera de todas."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Quiero enfrentarla en la Twinkle Series y correr\ncontra ella en forma perfecta."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Y prevaleceré con mi ecuación ganadora.",
+      "choice_data_list": [
+        "No puedes dejarla ganar, ¿eh?",
+        "No puedes dejarla ganar, ¿eh?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Por supuesto que no. Tengo mi orgullo que\npreservar como su hermana mayor."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Por cierto... ¿cuáles son tus comidas favoritas?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Aprovechemos el día y comamos nuestras favoritas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Biwa Hayahide y yo tenemos una comida\nmaravillosamente alegre juntas."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hay tanta nieve alrededor. Realmente crea la\natmósfera festiva perfecta.",
+      "choice_data_list": [
+        "Hasta estás vestida un poco como Santa.",
+        "Hasta estás vestida un poco como Santa."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jaja, tienes razón. Encajo perfectamente, ¿verdad?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ahora bien, Entrenador, dile a Santa qué deseas\npara este año. ¡Tal vez yo misma te lo traiga!",
+      "choice_data_list": [
+        "¡Deseo que ganes!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Muy bien. Pronto tendrás tu deseo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella me sonríe con confianza."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Biwa Hayahide y yo tenemos una comida\nmaravillosamente alegre juntas."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Entonces... ¿Por qué me trajiste aquí de nuevo?",
+      "choice_data_list": [
+        "Pensé que tal vez te gustaría un pastel de frutas."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Mmm..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Deberías pensar en ti mismo de vez en cuando\ntambién. Eres demasiado indulgente conmigo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Comprémos dos pasteles y llevémoslos a casa. Uno\npara mí y otro para ti."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Biwa Hayahide y yo cada una obtenemos un pastel y\nlos disfrutamos juntas."
+    }
+  ]
+}

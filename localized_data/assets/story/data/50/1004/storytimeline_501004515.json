@@ -1,0 +1,204 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy, Maruzensky está siendo entrevistada para un\nartículo de revista."
+    },
+    {
+      "name": "Reportera",
+      "text": "...A continuación, hablemos de ese atuendo de\ncarrera tan característico tuyo."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oh, esto? ¡Heehee, por supuesto! ♪"
+    },
+    {
+      "name": "Reportera",
+      "text": "Es un diseño muy popular entre los fans. ¿Cuál es\ntu propia impresión de él?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Es mi favorito! Este atuendo saca el 100% de mis\ncualidades encantadoras."
+    },
+    {
+      "name": "Reportera",
+      "text": "Ya veo. ¿Hay algo en particular que te guste de\nél?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Bueno, veamos... El diseño, el corte... ¡Hay\nmontones de cosas buenas entre las que elegir!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Pero lo mejor es el color: ¡ese rojo intenso!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Le tengo apego a este color desde hace mucho\ntiempo. Por eso Tata también es rojo. ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "De hecho, quizás sea al revés... Siempre he\nquerido un coche igual que Tata, así que quizás\npor eso me encanta el color rojo."
+    },
+    {
+      "name": "Reportera",
+      "text": "¿Tata?",
+      "choice_data_list": [
+        "Es el apodo del coche de Maruzensky."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, lo siento. Me emocioné un poco y se me olvidó\nmencionarlo. ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Cuando era más joven, me llevaron a un salón del\nautomóvil..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Había un supercoche rojo brillante allí, y era\ntan genial, que me enamoré al instante!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Me juré a mí misma entonces y allí que cuando por\nfin tuviera mi propio coche, definitivamente sería\nese."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Después de eso, seguí mirando las fotos en los\ncatálogos, soñando con el día en que pudiera\nconseguir mi licencia de conducir."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Ahora ese sueño se ha hecho realidad, y estoy\nsiempre sonriendo cuando tengo la oportunidad de\nsalir a la calle! ♪"
+    },
+    {
+      "name": "Reportera",
+      "text": "Entonces, ¿aún tienes los mismos sentimientos\nprofundos por este coche que tenías entonces?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Así es. Y por eso espero poder animar al público\ncon mi carrera, igual que Tata me anima a mí."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Quiero darle a todos la misma sensación fabulosa\nde un coche potente! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La entrevista procede muy bien."
+    },
+    {
+      "name": "Reportera",
+      "text": "Muchas gracias. Ahora, ¿podemos tomar unas fotos?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Claro que sí, sin problema! ¡Les mostraré mis\nmejores poses!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oh, cierto! De todas las personas que conozco, tú\ndebes conocerme mejor, Entrenador..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oh! De todas las personas que conozco, tú debes\nconocerme mejor, Entrenador..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Qué debería mostrar en la sesión de hoy?",
+      "choice_data_list": [
+        "Una velocidad que nadie puede igualar.",
+        "Tu sonrisa brillante y natural."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ya veo... Brillo más cuando me divierto durante\nuna carrera, ¿verdad?"
+    },
+    {
+      "name": "Reportera",
+      "text": "¿Qué hacemos? ¿Podemos usar la pista de carreras?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Por qué no vamos ahora mismo? ¡Ustedes, los\nperiodistas, pueden acompañarnos y disfrutar de la\nvelocidad! ♪"
+    },
+    {
+      "name": "Reportera",
+      "text": "Eh, ¿quieres decir que tú nos conducirás?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Woo-hoo! ¡No me canso de la velocidad de Tata!"
+    },
+    {
+      "name": "Reportera",
+      "text": "Um, ¿no es un poco rápido? ¡Ah! ¡Ahh! ¡AAAAHHH!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su expresión mientras conduce a toda velocidad con\nlos periodistas acurrucados atrás realmente es la\nmás radiante..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Mi sonrisa? Bueno, como siempre digo, lo más\nimportante es divertirse.",
+      "choice_data_list": [
+        "¡Qué ganas de verla!",
+        "¡Qué ganas de verla!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Sin duda! ¡Te daré una sonrisa que te dejará\nboquiabierto!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Sin duda! ¡Te daré una sonrisa que te dejará\nboquiabierto!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Soy yo, el único e inigualable Hot Rod!<i>¡Sonrían!</i>\n♪"
+    },
+    {
+      "name": "Reportera",
+      "text": "¡Me encanta! ¡Qué gran expresión!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más tarde, Maruzensky y yo revisamos el artículo."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Esta foto hace que mi sonrisa se vea radiante!\n¡No soy nada mal, si lo digo yo misma! ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oh, mira aquí! ¡Mencionaron al Entrenador!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oh, mira aquí! ¡Mencionaron al Entrenador!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Dice que mi hermosa sonrisa debe deberse a la\nrelación de confianza que tengo con mi entrenador!\n♪",
+      "choice_data_list": [
+        "Heh, me da un poco de vergüenza.",
+        "Heh, me da un poco de vergüenza."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "No seas tan modesto. ¡La razón por la que sonrío\ntanto es porque tú me apoyas! ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "No seas tan modesto. ¡La razón por la que sonrío\ntanto es porque tú me apoyas! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La sonrisa de Maruzensky ahora es tan deslumbrante\ncomo la de la foto."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es hora de los Clásicos de primavera. El\nentrenamiento intenso queda descartado por ahora,\npero..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Woooo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Derby Japonés. Incapaces de resistir esta\noportunidad única en la vida, apuntamos a las\nestrellas. ¿Y el resultado?"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Manhattan Cafe domina en el Derby Japonés! Se\nerige orgullosa en lo alto del rascacielos\nindestructible!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¿Pero su cuerpo aguantará? Se ve exhausta y su\npisada es inestable, pero... a pesar de todo,\n¡cumple con las expectativas de todos!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Entrenador...",
+      "choice_data_list": [
+        "Lo hiciste genial, Cafe...",
+        "Lo hiciste genial, Cafe..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Está tan agotada que me duele solo mirarla. Y aún\nasí, Manhattan Cafe lo ha logrado."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "<i>Haa... Resuello...</i>"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Vaya, vaya. Y después de que te dije que no valía\nla pena esforzarnos tanto. Nunca he sido ignorada\ntan completamente. Pensarías que soy completamente\ninvisible."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Entrenador, necesito que te esfuerces tanto con tu\ntratamiento como ella se esforzó en sí misma.\nVamos a administrar suplementos 3a, 8b y 6d_2 en\nese orden.",
+      "choice_data_list": [
+        "¡Entendido!",
+        "¡Entendido!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Necesitarás tres días de descanso. Pero dado que\nhemos reducido tu entrenamiento, estoy segura de\nque estarás bien."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Lo siento, Tachyon..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ja, ja, es un poco tarde para disculpas, ¿no\ncrees?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Pero como corriste de todos modos, mantén la\ncabeza alta. Supongo que obtuviste lo que querías\nde todo esto, después de todo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le brindamos a Manhattan Cafe el mejor cuidado\nposterior posible, y parece que podremos encarar\nla temporada de otoño con grandes esperanzas."
+    }
+  ]
+}

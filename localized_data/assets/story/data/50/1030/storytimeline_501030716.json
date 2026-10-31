@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Rice Shower y yo llegamos a la cafetería para el\nalmuerzo."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Rebanadas de pastel de manzana! Se ven tan\ndeliciosas..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pero... no debería...",
+      "choice_data_list": [
+        "¿Por qué no?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Um... En cuentos infantiles de todo el mundo, hay\nmuchos malos codiciosos que comen demasiado."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Yo también como mucho... ¿Y si me vuelvo mala?",
+      "choice_data_list": [
+        "Tienes mucho tiempo antes de que eso pase."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Q-quizás..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pero... Voy a resistir. ¡No quiero convertirme en\nuna mala!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, empiezo a notar que Rice Shower\nvigila cuidadosamente sus porciones."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El campamento de verano terminó, junto con todos\nnuestros planes programados."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Muchas gracias, Entrenador. Mi cuerpo se siente un\npoco mejor ahora..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gracias al cuidado especial que Manhattan Cafe\nrecibió durante el verano, sus síntomas se ven un\npoco mejor."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En el autobús de regreso a casa..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hola. ¿Lograste algún progreso con Cafe este\nverano?",
+      "choice_data_list": [
+        "...Aprendí algunas cosas."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le cuento lo que aprendí sobre la amiga de\nManhattan Cafe."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Interesante. Así que ella puede ser útil a menudo,\npero a veces exhibe comportamiento extraño."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "O sea... No, espera. Si pensamos en términos de\npresión externa, o tal vez un impulso de\nautolesión, entonces..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agnes Tachyon se pierde en un mar de pensamientos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pase lo que pase, el otoño espera. Resistimos a\ntravés de la primavera, sabiendo que teníamos el\notoño hacia el que trabajar."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de entrenar con Rice Shower..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Nnng...",
+      "choice_data_list": [
+        "¿Estás bien?",
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "He estado teniendo esta pesadilla últimamente...\nEstoy rodeada de sombras negras, y todas me hablan\nen un idioma que no conozco..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Sigo teniéndolo... así que ahora le tengo miedo a\ndormir... <i>Suspiro...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que está teniendo muchos problemas. Ojalá\npudiera hacer algo para ayudar."
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras trabajamos duro entrenando para\nla próxima NHK Mile Cup..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Disculpe. ¿Tienen un momento?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh! ¡Hola, Tazuna!",
+      "choice_data_list": [
+        "¿Qué podemos hacer por usted?"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Disculpas por el corto aviso, Taiki Shuttle, pero\nte han solicitado para una entrevista."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Oh, ¿una entrevista?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Imagino que esta reportera ve un gran potencial en\nti, considerando tu historial actual. ¡Están muy\nansiosos por presentarte en un segmento!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Eso es increíble! ¡Sería un verdadero honor!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Taiki Shuttle está entrando en el centro de\natención—prueba de que sus talentos son genuinos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que ha dado su primer paso para convertirse\nen la próxima Umamusume del Año.",
+      "choice_data_list": [
+        "Entendido. Aceptamos."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Gracias! Se lo haré saber."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Está bien, haré lo mejor que pueda!"
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "¿Podemos tomar algunas fotos tuyas en acción a\ncontinuación?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Claro, por supuesto! ¡Vamos!"
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "¡Maravilloso! El vigor que muestras hacia tu\noficio es comparable a los mejores de los mejores."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Etsuko Otonashi, una reportera de Twinkle Monthly,\nha notado a Taiki Shuttle.",
+      "color_text_info_list": [
+        "Otonashi"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al parecer, tiene un ojo excepcionalmente bueno\npara detectar talentos emergentes en la escena de\ncarreras."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Uf! ¿Sacaste algunas buenas fotos?"
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "Sí. ¡Cada una de estas fotos captura perfectamente\ntu fuerza, Taiki Shuttle!"
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "El poder en tus saltos, la elegancia en tu\nmovimiento, la fuerza detrás de cada paso...\nSeguiré tus futuras hazañas con el aliento\ncontenido."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Puedes apostar a que correré con todo el corazón!\n¡Porque voy a ser la próxima Umamusume del Año!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los ojos de la reportera se abren al escuchar las\npalabras de Taiki."
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "Oh... Pero tu aptitud es para carreras de corta\ndistancia, ¿verdad?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Claro que sí. ¿Por qué preguntas?"
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "Eh, bueno... ¿No lo sabes?"
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "Nunca ha habido una sola velocista seleccionada\ncomo Umamusume del Año."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Quéaa?! ¿Es eso verdad?"
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "Me temo que sí. Carreras como el Arima Kinen,\nTenno Sho y la Japan Cup atraen mucha más atención\ndel público.",
+      "color_text_info_list": [
+        "Arima Kinen",
+        "Japan Cup"
+      ]
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "Restringir tu alcance solo a carreras de corta\ndistancia podría plantear un problema..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus preocupaciones reflejan las mías después de la\ncarrera debut de Taiki Shuttle."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero conociendo a Taiki..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡No me digas! ¡Muy interesante!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Pero no creo que eso sea un problema!"
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "¿Oh?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "No es como si hubiera alguna regla diciendo que <i>no\npuedo</i>ser elegida. Así que no hay problema,\n¿verdad?"
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "Bueno, ciertamente. Aunque no hay precedente,\ntécnicamente no es imposible..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Entonces eso lo resuelve! No voy a cambiar mi\nplan."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Si no se ha hecho, seré la primera!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡La primera velocista en ser coronada Umamusume\ndel Año! ¡Ahora, eso no suena bien?"
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "Oh, vaya..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El entusiasmo de Taiki Shuttle es verdaderamente\nun caso especial—la falta de un precedente es solo\nuna cuestión trivial para ella."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus palabras renuevan mi convicción.",
+      "choice_data_list": [
+        "¡Estamos ante un desafío, pero demos lo mejor de\nnosotros!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Sí! ¡Déjalo en mis manos!"
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "Eso es..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Eh? ¿Qué es?"
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "Eso es..."
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "¡Simplemente increíble!"
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "El camino espinoso por delante nunca ha sido\nconquistado—¡y sin embargo, ustedes dos continúan,\nabandonando el concepto de miedo mismo!"
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "Inspirador ver a una entrenadora superar cualquier\nobstáculo por su aprendiz, ya sea espinas que\npican o salsa picante que hiere.",
+      "choice_data_list": [
+        "(No recuerdo haber dicho todo eso...)"
+      ]
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "¡Permítanme seguirlas en su viaje! ¡Mantendré un\nregistro de cada paso!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Gracias! ♪ ¡Asegúrate de no perder detalle!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Porque tengo un sueño increíble para mostrarte..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Y seguro que te hará feliz!"
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "Jeje. ¡Sí, tengo muchas ganas de que llegue!"
+    }
+  ]
+}

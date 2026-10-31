@@ -1,0 +1,31 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "A partir de hoy, mi aprendiz y yo asumiremos la\nSerie Twinkle. La Umamusume que se une a mí en\neste viaje no es otra que...",
+      "color_text_info_list": [
+        "Serie Twinkle"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Hola! ¡Soy Haru Urara!",
+      "color_text_info_list": [
+        "Haru <col=29>Urara"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Me encanta correr! ¡Es tan emocionante y\ndivertido!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Creo que será aún más divertido si puedo quedar\nen primer lugar! ¡Así que voy a intentar con todas\nmis fuerzas ganar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, <chrname> y yo damos nuestros primeros pasos para\ncompetir en la Serie Twinkle!"
+    }
+  ]
+}

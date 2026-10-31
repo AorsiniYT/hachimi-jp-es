@@ -1,0 +1,222 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estoy a punto de comenzar el entrenamiento con\nMihono Bourbon. Ella usualmente termina de\nprepararse mucho antes de que debamos empezar,\npero hoy es diferente."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Un minuto restante hasta que comience el\nentrenamiento. Gracias por esperar, Entrenador.",
+      "choice_data_list": [
+        "Es raro verte llegar tan justo.",
+        "Es raro verte llegar tan justo."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Sí. Ya ves—"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ya te encontré!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Bourbon! ¡Nuestra discusión no ha terminado!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "De hecho. Sin embargo, ya es hora de que mi\nentrenamiento comience. Por lo tanto, no puedo\ndebatir por más tiempo.",
+      "choice_data_list": [
+        "¿Hay algún tipo de disputa?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Eso es correcto! El tema en cuestión es por qué\nella sigue rompiendo nuestras máquinas\nexpendedoras!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Como representante de clase, es mi\nresponsabilidad prevenir la destrucción de la\npropiedad escolar!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Cualquier maquinaria con la que entro en contacto\nse descompone sin excepción. La causa es\ndesconocida. No se hace con intención."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Sé que no tienes intención de romperlas! ¡Pero\naún hay espacio para la discusión!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sakura Bakushin O extiende los brazos ampliamente\ncomo para prevenir que Mihono Bourbon se escape."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para ser justos, <i>es</i> bastante extraño poder romper\nmáquinas solo con tocarlas. Una investigación\npodría valer la pena."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero por ahora, el problema en cuestión es que las\nmáquinas expendedoras están fuera de servicio. Tal\nvez necesitemos algún tipo de contramedida."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Me estás escuchando, Bourbon?! ¡Quiero escuchar\ntambién los pensamientos de tu entrenador sobre el\ntema!",
+      "choice_data_list": [
+        "Supongo que no es bueno que nadie pueda usar las\nmáquinas expendedoras, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Oh? Sí, tienes razón en eso."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Sí, Entrenador. Reconozco que la situación es muy\n\"inconveniente.\""
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Las máquinas expendedoras son esenciales cuando\nuno no puede rellenar su botella de agua o comprar\nuna bebida en la tienda."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Pero... no puedo usarlas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No podemos permitir que las cosas continúen así.\nSi estoy con ella, está bien, pero si no estoy...",
+      "choice_data_list": [
+        "Pídele a un amigo que use la máquina por ti a\npartir de ahora.",
+        "Intenta usar algún tipo de herramienta para tocar\nla máquina."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Un amigo... He determinado que esa opción es\ndifícil."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Primero, hay muy pocas personas a las que puedo\nllamar amigos."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Segundo, esos pocos amigos no necesariamente\nestarán cerca cuando—"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Entonces solo llámame! No importa la hora, no\nimporta el lugar, ¡llegaré en un santiamén!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿...?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Como representante de clase, no puedo abandonar a\nun estudiante que lo necesite! ¡Y además, somos\namigos!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...¿Lo somos?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Por supuesto que lo somos! ¿No estás orgulloso de\ntener a la representante de clase como amiga?!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...No particularmente. Pero sí... somos amigos..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Jeje... Puedo imaginar lo emocionado que estás por\neso, pero no te quedes ahí repitiéndolo. Me vas a\nhacer sonrojar."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Entendido. Te llamaré cuando necesite usar una\nmáquina expendedora, Bakushin O."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Sí, déjalo en mis manos, el modelo a seguir\nperfecto para todos los estudiantes—la\nrepresentante de clase, Sakura Bakushin O!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Mi amiga."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Desde entonces..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Empiezo a notar a Mihono Bourbon cerca de máquinas\nexpendedoras a veces, buscando inquieta a su\namiga, Sakura Bakushin O."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Una herramienta... ¿quizás algo como pinzas?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ya veo! ¡Eres muy listo!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Puedes usarlas para poner tu dinero y todo eso\nsin tocar realmente la máquina! ¡Vamos a probarlo\ndespués!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Entendido. Haré como el Entrenador ordene."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, Mihono Bourbon intenta usar pinzas\npara operar una máquina expendedora."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Eh, ¿qué es todo esto? ¿Por qué estás usando\npinzas, Bourbon?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Quieres comprar algún jugo o algo? ¡Yo presionaré\nlos botones por ti!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Jeje... No necesitas esas pinzas, Bourbon. Yo te\nayudaré—"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Ah... perdón. No puedo alcanzar el botón de\narriba... ¿Me puedes ayudar a subir?"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Desde entonces, la gente cercana siempre termina\nayudándome."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Basándome en esta experiencia, he determinado que\npedir ayuda es más eficiente que usar pinzas.",
+      "choice_data_list": [
+        "¡Me parece un buen plan!"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "De hecho."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "A pesar de mi falta de habilidades de\ncomunicación, alguien me ayudará si pido."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Me aseguraré de registrar esto en mis registros de\nmemoria."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Mihono Bourbon tiene montones de amigos\ndispuestos a ayudarla—solo que no se había dado\ncuenta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y ahora, ella sabe lo importante que es confiar en\nlos demás."
+    }
+  ]
+}

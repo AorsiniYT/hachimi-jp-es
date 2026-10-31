@@ -1,0 +1,603 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, llevo a <chrname> a la enfermería para un chequeo."
+    },
+    {
+      "name": "???",
+      "text": "¡Oh! Una jugadora—quiero decir, ¡una estudiante!\n¡Hola!"
+    },
+    {
+      "name": "???",
+      "text": "¿Estás herida? ¿Enferma? ¿Estresada? ¡Sea lo que\nsea, yo lo curo todo!",
+      "choice_data_list": [
+        "¡¿Quién eres?!"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Bueno, considerando que estás en la enfermería de\nla academia, diría que eso me convierte en tu\nconfiable enfermera escolar! ¡Sí, solo una\nempleada escolar promedio!",
+      "choice_data_list": [
+        "...No, ¿no lo eres?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¡Ajaja! Supongo que no puedo engañarte. Supongo\nque debría empezar dándote mi nombre."
+    },
+    {
+      "name": "???",
+      "text": "¡Ejem! ¡Permíteme presentarme!"
+    },
+    {
+      "name": "???",
+      "text": "Soy la (probable) salvadora de todas las\nUmamusume, la (autoproclamada) legendaria\nacupunturista con el toque mágico..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡La única e insustituible Sasami Anshinzawa! ¿Ves?\n¡No te preocupes! ☆",
+      "choice_data_list": [
+        "..."
+      ],
+      "color_text_info_list": [
+        "Sasami Anshinzawa"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "E-em..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Caramba! ¡Seguro que pareces preocupada! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No importa! ¡No importa! Ya nos hemos presentado,\nasí que acuéstate y déjame poner estas agujas a\ntrabajar!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡E-espera! Ah, l-lo siento... No soy buena con el\ndolor..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Jajaja! ¡No hay por qué tener miedo! Todo lo que\nvoy a hacer es deslizar estas agujas\nextraordinarias precisamente en tus puntos de\nchakra."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces, voilà, presto! ¡Algo indescriptible\nsucederá!",
+      "choice_data_list": [
+        "(Esto es indescriptiblemente sospechoso...)"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Y permíteme asegurarte, ¡no hay absolutamente nada\nsospechoso en esto! ¡Nunca ha ido menos que\nperfectamente!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Para mi maestro.",
+      "choice_data_list": [
+        "¡¿Para tu maestro?! ¡¿Y para ti?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No te preocupes! Esta es mi primera vez, así que\ntécnicamente, ¡tampoco he fallado nunca con un\npaciente!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y no es como si no tuviera experiencia! Pasé diez\naños bajo un maestro legendario, ¡haciendo\nrecados—quiero decir, entrenando!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Ves? ¡No te preocupes! ☆",
+      "choice_data_list": [
+        "(¡Tenemos que salir de aquí, ya!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "De ninguna manera vamos a hacer esto. Tomo a <chrname> y me\ndirijo a la puerta, cuando..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡E-espera! ¿A dónde vas?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Eres Rice Shower, ¿verdad? La corredora que dijo\nsayonara a su yo inútil del pasado, y hola a traer\nfelicidad a todos!",
+      "choice_data_list": [
+        "¿Has oído hablar de ella?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿He oído hablar de ella? ¡Por supuesto! ¡Soy una\ngran fan!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Es precisamente por eso que estoy aquí! ¡Para\ndarte mi apoyo! ¡Déjame ayudarte!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Solo dame una oportunidad! ¡Por faaaavor!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Eh, em... ¿Qué debería hacer, Big Brother?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Eh, em... ¿Qué debería hacer, Big Sister?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por favor! ¡Por faaavor con zanahoria encima!\n¡Incluso te dejaré elegir qué chakra activo!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>¡Estoy segura </i>de que no voy a fallar!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... más o menos segura.",
+      "choice_data_list": [
+        "¿<i>Segurísima</i>?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Digo, es seguro! Eso es <i>bueno,</i> ¿no? En fin, ¡no\nte obsesiones con los detalles!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vamos a lo bueno! ¿Qué chakra debería activar?\n¿Quieres un impulso a tus habilidades? ¿Tu salud?\n¿O tal vez tu <i>encanto?</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Huelo peligro en el aire, pero calculo que\npodría—y enfatizo <i>podría</i>—haber una oportunidad de\nobtener algo especial con este tratamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Qué deberíamos hacer?",
+      "choice_data_list": [
+        "Activar el chakra de fuerza.",
+        "Activar el chakra de la victoria.",
+        "Activar el chakra de la salud.",
+        "Activar el chakra del encanto.",
+        "Esto es demasiado sospechoso. Salgamos de aquí\nmientras podamos."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Entonces quieres que active el\nchakra de fuerza?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces, empecemos! ¿Estás lista? ¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, detente."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjalo en mis manos! ¡Es hora de\nlocalizar ese chakra! ¡Ollie, ollie, todos libres!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡¿Hyaa?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pinchazo Perfecto!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermano mayor..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermana mayor..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Soy... aún yo? ¡Me siento como si hubiera\nrenacido!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Haa...</i> Estás bromeando... ¡En realidad funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<chrname> está desbordando de tanto poder ¡casi es\nirreconocible!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y pagó! ¡Este es un gran salto hacia\nlograr nuestra meta!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermano Mayor..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermana mayor..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Justo como pensé... Realmente soy inútil. Por\nfavor... perdóname..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de <chrname> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Supongo que eso es todo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿mira la hora? ¡Debería irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saber mejor que probar nuestra suerte. No soy\nla que sufre, y sin embargo estoy llena de\nremordimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Entonces quieres que active el\nchakra de la victoria?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces, empecemos! ¿Estás lista? ¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, detente."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjalo en mis manos! ¡Es hora de\nlocalizar ese chakra! ¡Ollie, ollie, todos libres!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡¿Hyaa?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pinchazo Perfecto!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermano Mayor..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermana mayor..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Soy... aún yo? ¡Me siento como si hubiera\nrenacido!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Haa...</i> Estás bromeando... ¡En realidad funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Puedo percibir una enorme mejora en las\nhabilidades de <chrname>!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y pagó! ¡Este es un gran salto hacia\nlograr nuestra meta!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermano Mayor..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermana mayor..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Justo como pensé... Realmente soy inútil. Por\nfavor... perdóname..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de <chrname> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Supongo que eso es todo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿mira la hora? ¡Debería irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saber mejor que probar nuestra suerte. No soy\nla que sufre, y sin embargo estoy llena de\nremordimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Entonces quieres que active el\nchakra de la salud?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces, empecemos! ¿Estás lista? ¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, detente."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjalo en mis manos! ¡Es hora de\nlocalizar ese chakra! ¡Ollie, ollie, todos libres!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡¿Hyaa?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pinchazo Perfecto!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermano mayor..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermana mayor..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Soy... aún yo? ¡Me siento como si hubiera\nrenacido!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Haa...</i> Estás bromeando... ¡En realidad funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Todo el cuerpo de <chrname> está irradiando un brillo\nsaludable! ¡Es la imagen absoluta de la salud!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y pagó! ¡Este es un gran salto hacia\nlograr nuestra meta!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermano Mayor..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermana mayor..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Justo como pensé... Realmente soy inútil. Por\nfavor... perdóname..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de <chrname> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Supongo que eso es todo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿mira la hora? ¡Debería irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saber mejor que probar nuestra suerte. No soy\nla que sufre, y sin embargo estoy llena de\nremordimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. ¿Entonces quieres que active el\nchakra del encanto?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces, empecemos! ¿Estás lista? ¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, detente."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjalo en mis manos! ¡Es hora de\nlocalizar ese chakra! ¡Ollie, ollie, todos libres!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡¿Hyaa?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pinchazo Perfecto!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermano mayor..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermana mayor..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Soy... aún yo? ¡Me siento como si hubiera\nrenacido!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Haa...</i> Estás bromeando... ¡En realidad funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡<chrname> está desbordando de encanto! ¡Seguro que llama\nla atención dondequiera que vaya!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Arriesgamos y pagó! ¡Este es un gran salto hacia\nlograr nuestra meta!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermano mayor..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermana mayor..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Justo como pensé... Realmente soy inútil. Por\nfavor... perdóname..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La condición de <chrname> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Supongo que eso es todo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿mira la hora? ¡Debería irme! ¡Adiós! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí saber mejor que probar nuestra suerte. No soy\nla que sufre, y sin embargo estoy llena de\nremordimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Oh, venga! ¡No seas así!",
+      "choice_data_list": [
+        "Rechazar.",
+        "Replantearlo."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú! Espero que sepas que los intrusos <i>serán</i>\nprocesados."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me han descubierto!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¡me voy de aquí! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Detente ahí mismo!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Oh? Bueno... Supongo que todo salió bien al\nfinal... ¿Verdad?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Esto solo significa que voy a tener que trabajar\nduro por mi cuenta si quiero convertirme en una\nmejor versión de mí!",
+      "choice_data_list": [
+        "Eso es.",
+        "Eso es."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo curiosidad sobre quién es realmente este\npersonaje Anshinzawa, pero no sirve de nada\nreflexionar sobre ello. Lo mejor es olvidar el día\nde hoy y seguir adelante."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Has cambiado de opinión, eh? No te preocupes,\n¡eso pasa!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Adelante, dime qué chakra quieres que active\nentonces!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Bueno?! ¡No nos dejes en suspenso! Espera un\nsegundo... ¿Cuánto tiempo llevo aquí?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú! Espero que sepas que los intrusos <i>serán</i>\nprocesados."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me han descubierto!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¡me voy de aquí! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Detente ahí mismo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La situación da un giro brusco antes de que pueda\ntomar una decisión."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Qué fue todo eso? <chrname> y yo nos miramos perplejos."
+    }
+  ]
+}

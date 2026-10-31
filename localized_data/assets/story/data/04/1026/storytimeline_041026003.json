@@ -1,0 +1,304 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Han pasado varias semanas desde que comencé a\nsupervisar el entrenamiento secreto de Mihono\nBourbon."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "<i>Haa... Haa...</i>",
+      "choice_data_list": [
+        "Ánimo, solo un poco más para llegar.",
+        "Ánimo, solo un poco más para llegar."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Haaah... Nuevo récord personal.",
+      "choice_data_list": [
+        "Lo hiciste muy bien.",
+        "Lo hiciste muy bien."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Gracias por tu apoyo. Cuando mi resistencia se\nrecupere por completo, pasaré al entrenamiento de\nintervalos. Ahora me dirijo a la pista de\nentrenamiento.",
+      "choice_data_list": [
+        "Vamos a agregar una vuelta extra a partir de hoy."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Entendido. Ajustando el plan para incluir\nmodificaciones."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Resistencia recargada. Comenzando el sprint en\nrampa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mihono Bourbon se va corriendo sin decir otra\npalabra. A pesar del entrenamiento riguroso, nunca\nmuestra señal de debilidad.",
+      "choice_data_list": [
+        "(Desde la perspectiva de un entrenador, no hay\nduda de que está más naturalmente dotada para\ndistancias de sprint. Y sin embargo...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al ver la fuerza y la tenacidad en su carrera,\nsiento un sentido de orgullo dentro de mí.",
+      "choice_data_list": [
+        "(¡Persigue tus sueños, Mihono Bourbon!)"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Solo es cuestión de tiempo antes de que esté lista\npara distancias medias y largas... Solo queda un\nobstáculo."
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "Así que eres tú quien ha estado dando lecciones de\nresistencia detrás de mi espalda."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un día, los cambios en el estado de Mihono Bourbon\nllaman la atención de su entrenador. Después de\nhacer dos más dos, me llama."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Esta persona no está involucrada con mis carreras\nnocturnas. He estado haciendo todo por mi propia\nvoluntad."
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "Bourbon, realmente crees que voy a creer eso\ncuando ustedes dos se han estado reuniendo cada\nnoche. Apuesto a que este entrenador se apiadó de\nti.",
+      "choice_data_list": [
+        "¿Qué? No es así..."
+      ]
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "Escucha, he oído hablar de sus ambiciosos\nobjetivos. Pero tú y yo sabemos los riesgos\ninvolucrados. ¿Realmente crees que voy a dejar que\ncorra esas carreras?"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Si puedo objetar, mi propósito para inscribirme\naquí es la Triple Corona. No aceptaré nada menos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Exasperado por su terquedad, el entrenador suelta\nun largo suspiro."
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "...Bien. Entonces muéstrame si tienes lo que se\nnecesita. El Kikuka Sho es de 3.000 metros. Vamos\na ver si puedes correr esa distancia ahora mismo.",
+      "choice_data_list": [
+        "(Ella no puede manejar esa clase de distancia\ntodavía.)"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Entendido.",
+      "choice_data_list": [
+        "¿¡?!"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Voy a demostrar mis habilidades ante ti."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos movemos al curso para el intento de 3,000\nmetros de Mihono Bourbon. Sin embargo, en su nivel\nactual, no estoy segura de que pueda terminar, y\nmucho menos terminar <i>rápido</i>.",
+      "choice_data_list": [
+        "(Espero que esté bien...)"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "(1.600 metros completados a tiempo. 1.400 metros\nrestantes. Se detectó una ingesta de aire\nirregular. No se puede mantener un ritmo\nconstante...)"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Agh."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mi instinto era correcto. Alrededor de la marca de\n2.000 metros, la velocidad de Mihono Bourbon\ncomienza a disminuir. Es prácticamente una\narrastre cuando llega a la línea de meta."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "Solo ríndete ya. Deja de hacer esto contigo misma.\nNo estás hecha para distancias largas.",
+      "choice_data_list": [
+        "(Es cierto que las carreras de larga distancia no\nson su fuerte. Pero aún así...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de pasar varias semanas con Mihono\nBourbon, cualquiera puede ver cuán decidida está a\nparticipar en la serie de la Triple Corona\nclásica.",
+      "choice_data_list": [
+        "Creo que debemos respetar sus deseos."
+      ]
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "¿No puedes ver que todo lo que está haciendo es\nlastimarse? ¿Por qué es tan difícil para ti\nentender?",
+      "choice_data_list": [
+        "Pero—"
+      ]
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "Uf, no importa, no hay sentido en hablar contigo.\nBourbon, dime ¿cómo te sientes? Estoy segura de\nque entendiste la realidad de la situación cuando\ncorrías."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Cómo me siento..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mihono Bourbon, con vacilación, abre la boca para\nhablar."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...La Triple Corona es innegociable. Este es un\nobjetivo que debo ver hasta el final."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Por favor, entiende que no puedo darme por vencida\nahora."
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "..."
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "...Si eso es lo que quieres, entonces así sea. No\npuedo apoyar tu decisión de buena fe. Nuestro\ncontrato de entrenamiento termina hoy."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "... ...Entiendo."
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "...Tenía grandes expectativas de ti, Bourbon. Me\nhas decepcionado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sacudiendo la cabeza, el entrenador da la espalda\ny se va."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...",
+      "choice_data_list": [
+        "...¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Estoy experimentando actualmente \"confusión\"\ndebido a la pérdida de mi entrenador."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Es cierto que, a pesar de mi entrenamiento\nsuplementario, no pude correr 3.000 metros."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Me he basado en todas mis proyecciones en la\nTriple Corona. ¿He estado malcalculando mi carrera\nde carreras?",
+      "choice_data_list": [
+        "Tengo fe en ti. Tienes lo que se necesita para\ntener éxito."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su perseverancia para someterse a un entrenamiento\ntan exigente sin una sola queja no es un logro\npequeño."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más bien, es un testimonio de la fuerza de\nvoluntad de Mihono Bourbon y su deseo de lograr la\nClásica Triple Corona.",
+      "choice_data_list": [
+        "No importa lo que digan los demás, estoy de tu\nlado.",
+        "No importa lo que digan los demás, estoy de tu\nlado."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...",
+      "choice_data_list": [
+        "Llegaremos a la meta juntos.",
+        "Llegaremos a la meta juntos."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los ojos de Mihono Bourbon se abren de par en par."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Juntos...",
+      "choice_data_list": [
+        "No quiero que te rindas.",
+        "No quiero que te rindas."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "(Estas palabras... me suenan familiares...)"
+    },
+    {
+      "name": "Joven Mihono Bourbon",
+      "text": "Haaah... nngh... Padre... Fallé... de nuevo..."
+    },
+    {
+      "name": "Padre de Mihono Bourbon",
+      "text": "Puedes que no tengas mucha resistencia. Pero lo\nque tienes es el corazón para seguir adelante.\nMientras no te detengas, todo estará bien."
+    },
+    {
+      "name": "Padre de Mihono Bourbon",
+      "text": "Llegaremos a la meta juntos."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "(Este entrenador suena igual que mi padre)."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...",
+      "choice_data_list": [
+        "...¿Mihono Bourbon?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incapaz de soportar el silencio incómodo durante\nmás tiempo, llamo su atención. Ella estudia mi\nrostro durante un momento antes de hablar."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Tu plan de entrenamiento personalizado me permitió\nlograr los primeros 1.600 metros hoy, lo que es\nmás de lo que podía manejar antes."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Siento que iré lejos contigo como mi entrenador."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "A partir de ahora, estoy a tu cuidado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y entonces, la llamada \"cibernética\" de la\nAcademia Tracen agarra mi mano con firmeza, pero\ncon calidez."
+    }
+  ]
+}

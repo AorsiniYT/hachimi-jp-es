@@ -1,0 +1,199 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Vendedor",
+      "text": "Aquí están sus cincuenta litros de crema fresca.\n¡Gracias por su compra!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Gracias! ¡Hasta pronto! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hoy estoy libre, así que la academia me ha pedido\nque acompañe a algunos estudiantes en su viaje al\nmercado de agricultores."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Esta crema nos ayudará a hacer un pastel\nabsolutamente genial! ☆"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Oh, ya veo! Como princesa, ¡espero aprender mucho\nhoy! ♪"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Haré que mi príncipe se vuelva a enamorar\nperdidamente con un pastel de boda casero!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Eso suena verdaderamente genial! ☆ ¡Te enseñaré\ntodo lo que necesitas saber!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cincuenta litros de crema es todo un espectáculo,\npara ser honesto.",
+      "choice_data_list": [
+        "¿Qué vas a hacer con todo eso?",
+        "¿Qué vas a hacer con todo eso?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Vamos a usarlo todo para hacer un pastel de boda\ngigantesco. ¡Porque si vas a hornear, ¿por qué no\nhornear en grande?! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras intento calcular qué tan grande va a ser\neste pastel..."
+    },
+    {
+      "name": "Agricultor",
+      "text": "¡Oye! ¡Cuidado!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Eh? Ese es uno de los agricultores. ¿Qué está\npasando?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Bum, bum, bum!</i>"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Aaaah! ¡Es un toro! ¡Y viene hacia acá!",
+      "choice_data_list": [
+        "¡Sal de ahí!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un toro con los ojos inyectados en sangre carga\nhacia nosotros. No hay tiempo para dudar. Mientras\nintento desesperadamente poner a los estudiantes a\nsalvo..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Oh, cielos! ¡Qué tipo más arisco!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¿¡Akebono?! ¿Por qué solo estás ahí parada?! ¡Te\nharán volar!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Estaré bieeen! ¡Vamos, cariño, muéstrame lo que\ntienes!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Alley-oop!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Hishi Akebono agarra al toro de frente, luego\nlevanta su masivo cuerpo del suelo!"
+    },
+    {
+      "name": "Toro escapado",
+      "text": "¡MUU?! ¡MUUUUUUUUU?!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡¿Cómo es que es tan poderosa?! ¡Hasta el toro\nestá confundido!",
+      "choice_data_list": [
+        "¡Esos movimientos! ¿Son del sumo?!"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Genial. ♪ Allá, allá, Sr. Toro. Sé un buen chico y\ncálmate ahora."
+    },
+    {
+      "name": "Toro escapado",
+      "text": "Muu..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Lo está calmando con un abrazo!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Perdón por la espera! ☆ ¡Tuve que llevar al Sr.\nToro de vuelta a su casa!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Eso fue increíble, Akebono! ¡Me siento tan\ninspirada ahora mismo!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Quizás algún día sea lo suficientemente fuerte\npara detener un auto descontrolado con mi príncipe\ndentro!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Por favor! ¡Enséñame tus formas! ¡Acéptame como\ntu discípula!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Claro, no hay problema! Primero, si quieres\nponerte más grande, el sustancioso hot pot que\ncomen los luchadores de sumo probablemente sea el\ncamino a seguir."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Después de que terminemos de hornear, ¡celebremos\ntu iniciación con un poco de hot pot y pastel!",
+      "choice_data_list": [
+        "¡Esa es mucha comida!",
+        "¿Por qué no entrenar como un verdadero luchador de\nsumo?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Les digo que toda esa comida parece demasiado para\nsolo dos personas."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Oh, puede que tengas razón. Tengo un apetito\nbastante grande, pero Kawakami podría tener\nproblemas con esas porciones..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Oh! ¿Por qué no invitamos a todos de nuestro\ndormitorio a comer con nosotros?"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Gran idea! ¡Haré todo lo que pueda para ayudar! ♪"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Ooh, no puedo esperar para cocinar! ¡Vamos a\ncomprar algunos ingredientes en el camino a casa!\n☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sigo al entusiasta par y los ayudo a elegir\ningredientes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, todos en el Dormitorio Ritto se\nagarran el estómago con dolor. Está bastante claro\nque Hishi Akebono se excedió de nuevo con su\ncocina."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Va a tomar más de una noche para que la Princesa\nKawakami alcance el nivel de Hishi Akebono en el\nalzamiento de toros."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le digo que si va en serio, probablemente sería\nmejor que practique algunas técnicas reales de\nluchador de sumo."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ya veo... Hablando de eso, ¿quién te enseñó tus\nmovimientos, Akebono?"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Oh, siempre he sido fanática del sumo. De niña,\nlos veía entrenando en la tele, ¡luego intentaba\nimitar sus movimientos!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Oh, cierto! ¡Puedo enseñarte algunas de las cosas\nmás fáciles ahora mismo!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Por favor, hazlo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, las dos caminan con paso de sumo todo el\ncamino de regreso a la escuela..."
+    }
+  ]
+}

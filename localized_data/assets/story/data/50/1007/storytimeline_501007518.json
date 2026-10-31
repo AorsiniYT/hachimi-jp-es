@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día escucho la voz de Gold Ship viniendo del\ntecho y decido investigar."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡HAAAA!",
+      "choice_data_list": [
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "<i>Haa... Haa...</i> No te preocupes... Estás a salvo\nahora."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Una vez más, he logrado proteger la academia de la\namenaza más allá de las estrellas..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Aunque me agotó bastante... Recuperarme va a tomar\nun tiempo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No sé sobre la amenaza más allá de las estrellas,\npero el agotamiento de Gold Ship parece real. Le\ntoma un tiempo recuperar su forma."
+    }
+  ]
+}

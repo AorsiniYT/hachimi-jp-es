@@ -1,0 +1,110 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Haru Urara se lesionó durante la sesión de\nentrenamiento de hoy, así que la llevo rápidamente\na la enfermería."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "<i>¡Uf!</i> ¡Gracias a Dios! ¡Es solo una lesión normal!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "El doctor tenía una cara tan seria, que me\npreocupó que podría estar enferma y necesitar una\ninyección!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Las inyecciones duelen mucho más que esto.\nHonestamente, creo que aún puedo correr, ¡sin\nproblemas!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Así que continuemos con la práctica, Entrenador!",
+      "choice_data_list": [
+        "Por favor, solo descansa y recuperate.",
+        "¡No entrenar significa no entrenar!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Qué! ¿Descansar? ¡Pero me siento bien! ¿Por qué?",
+      "choice_data_list": [
+        "Estoy preocupado por ti..."
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Ah, ya veo. Estás preocupado por mí. ¡Okay!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Entonces descansaré! Porque, si tú no eres feliz,\nyo no soy feliz!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Solo siéntate y relájate, Urara... Solo siéntate y\nrelájate..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Ugh, ¡pero quiero <i>hacer</i> algo! ¡Descansar es tan\nmalo como recibir una inyección!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Haru Urara parece extremadamente aburrida, pero al\nmenos está en el camino de la recuperación."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Eek! ¿Por qué?",
+      "choice_data_list": [
+        "Si empeora, dolerá mucho más que una inyección."
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Eh? ¡Ni hablar! Nada duele más que las\ninyecciones. ¡Qué tontería!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Mira esto! Puedo caminar sin probl―"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Uf! ¡Ay, ay, ay!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debido a sus movimientos imprudentes, sus lesiones\nempeoran. Estará fuera de combate durante varios\ndías."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Eh? ¿Por qué estás tan callado, Entrenador?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Uh-oh... No me digas... ¿estás siendo serio?!",
+      "choice_data_list": [
+        "Lo soy."
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Oh no! ¡No puede ser!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡No me importa si me aburro! Un dolor peor que una\ninyección suena mucho, mucho, <i>mucho</i> peor!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Descansaré y estaré de pie antes de que te des\ncuenta!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Y cuando eso pase, voy a correr como el viento!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Toma tiempo antes de que sus lesiones sanen, pero\neventualmente vuelve a la normalidad."
+    }
+  ]
+}

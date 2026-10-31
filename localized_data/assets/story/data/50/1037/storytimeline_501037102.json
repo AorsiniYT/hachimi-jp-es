@@ -1,0 +1,257 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "La mañana de Año Nuevo es tranquila y serena..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hasta que la paz es de repente destrozada por\nalgunas noticias impactantes!"
+    },
+    {
+      "name": "TV",
+      "text": "¡Amanecer de la Era Definitiva! Corredoras\nrenombradas vuelven a correr bajo los reflectores!"
+    },
+    {
+      "name": "TV",
+      "text": "¡Noticias de última hora! Un grupo de corredoras\nque regresaron a la pista ayer después de una\nlarga pausa acaban de terminar una conferencia de\nprensa."
+    },
+    {
+      "name": "TV",
+      "text": "¡Todas han anunciado su intención de volver a las\npistas de G1 este año!"
+    },
+    {
+      "name": "TV",
+      "text": "Cada una es una contendiente feroz con un\nhistorial ilustre a sus espaldas."
+    },
+    {
+      "name": "Entrevistador",
+      "text": "¡Fuji Kiseki! ¿Por qué decidiste anunciar tu\nparticipación en el G1 en este momento?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Mmm... Es una pregunta difícil... Si tuviera que\ndecirlo, es porque queremos ser un obstáculo."
+    },
+    {
+      "name": "Entrevistador",
+      "text": "...¿Perdón?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Todas las que estamos aquí nos unimos a las\ncarreras para plantear un desafío monumental a\nnuestras compañeras más jóvenes."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Sabemos que están ahí afuera—las estamos esperando\ny emocionadas por el desafío."
+    },
+    {
+      "name": "TV",
+      "text": "¡Esta nueva y emocionante era recién está\ncomenzando! ¡Las carreras de este año prometen ser\nalgo especial!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Un obstáculo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eishin Flash parece conmocionada después de ver el\nreporte de noticias."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No puede ser... Esto no puede estar pasando..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Me estás diciendo que debo enfrentar a rivales de\nsu calibre una vez más?",
+      "choice_data_list": [
+        "Has crecido, Flash."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Tienes razón. He tenido un buen desempeño en mis\ncarreras hasta ahora."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sin embargo, conozco la plena extensión de sus\ncapacidades, y no estoy segura de poder superarlas\nesta vez..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Las carreras serán aún más feroces con su\nparticipación. Mis posibilidades de ganar\nseguramente disminuirán..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Pero dicho esto..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Solo prometí mostrarles a mis padres cuánto he\ncrecido."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Parece que podría no ser capaz de cumplir mi\npromesa con ellos...",
+      "choice_data_list": [
+        "Oye, cálmate un poco."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "'¿Un poco'? ¿Cuánto es exactamente?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Y qué quieres decir con 'cálmate'? ¿No parezco\ncalmada en este momento?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El impacto de la noticia está enviando a Eishin\nFlash a una espiral rápida. Un cambio de escenario\nle haría bien ahora mismo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decido llevarla a hacer nuestra primera visita al\nsantuario del año, pero..."
+    },
+    {
+      "name": "Transeúnte A",
+      "text": "¡Oye, viste las noticias?! ¡Las carreras de este\naño van a estar increíbles!"
+    },
+    {
+      "name": "Transeúnte B",
+      "text": "No me digas. Veré cada segundo de ellas. Aunque me\nda pena por las corredoras más jóvenes."
+    },
+    {
+      "name": "Transeúnte B",
+      "text": "Quiero decir, solo piensa en lo difícil que será\npara las corredoras que acaban de entrar en su año\nclásico correr contra rivales así."
+    },
+    {
+      "name": "Transeúnte A",
+      "text": "Caray, eso es cierto... Esas pobres recién\nllegadas..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...",
+      "choice_data_list": [
+        "P-pensemos en otra cosa."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Otra cosa... ¿Como qué, exactamente?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eishin Flash ha mostrado un gran interés en la\ncultura japonesa antes, así que ¡eso podría ser\njusto lo que necesitamos ahora mismo!",
+      "choice_data_list": [
+        "¡Pasemos el Año Nuevo holgazaneando!",
+        "¡Vamos a escribir nuestros deseos!",
+        "¡Vamos a intercambiar tarjetas de Año Nuevo!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...¿Eso es realmente algo para entusiasmarse\ntanto?",
+      "choice_data_list": [
+        "¡Lo más importante es llevar a cabo tu plan con\nintención!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Supongo que eso tiene sentido... Todo depende de\nla intención de uno, después de todo."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Falcon me recomendó previamente que probara\n'holgazanear' también, así que lo intentaré."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Gracias por la sugerencia. Me refrescaré con una\nsiesta de quince minutos.",
+      "choice_data_list": [
+        "¡Disfruta!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Tuve un sueño maravilloso en el que un pájaro\nllamado Mambo voló hacia el Monte Fuji y..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eishin Flash se ve mucho mejor después de una\nsiesta rápida en mi oficina."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sé sobre esta tradición. Debemos escribir en una\nplaca de madera llamada 'tableta de oración',\n¿correcto?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "He estado interesada en esta costumbre por un\ntiempo, pero como solo podemos hacerlo una vez al\naño, no he tenido la oportunidad de probarlo.",
+      "choice_data_list": [
+        "¡Una razón más para hacerlo, entonces!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "De acuerdo. Creo que ese es el puesto por allá..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Escribí: 'Deseo llevar a cabo mi horario\nperfectamente.'",
+      "choice_data_list": [
+        "Constante, ¿no es así?",
+        "Constante, ¿no es así?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Vivo por esas palabras. ¿Qué escribiste?",
+      "choice_data_list": [
+        "Tuve la sensación de que sabía lo que escribirías,\nasí que..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le muestro mi placa, en la que escribí: 'Espero\nque Eishin Flash pueda llevar a cabo su horario\nperfectamente sin esforzarse demasiado.'"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡Jeje! Me viste a través... No estoy nada\nsorprendida."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mi alivio es inmenso cuando Eishin Flash\nfinalmente esboza una pequeña sonrisa."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...¿Ahora? Pero pensé que la costumbre en Japón\nera enviar tarjetas de Año Nuevo con anticipación\nal Año Nuevo.",
+      "choice_data_list": [
+        "Sí, pero puedes dar tu primer saludo del año en\ncualquier momento durante las fiestas."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Quieres decir que no sería un error cultural\nintercambiar tarjetas en persona?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Muy bien. Preparemos algunas tarjetas de\ninmediato."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vamos a comprar tarjetas de Año Nuevo, escribimos\nmensajes y las intercambiamos en el acto. Cuando\nle entrego mi tarjeta a Eishin Flash...",
+      "choice_data_list": [
+        "Es... ¡una mariquita muy realista!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Qué opinas? Soy bastante buena replicando fotos\nen papel si lo digo yo misma."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Esperaba tener la oportunidad de mostrarte esto,\nasí que esto es perfecto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me muestra su tarjeta de Año Nuevo con orgullo. En\nella hay un dibujo anatómicamente correcto de una\nmariquita con la frase 'Que la fortuna te\nacompañe' en japonés."
+    }
+  ]
+}

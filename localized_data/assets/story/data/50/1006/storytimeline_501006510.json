@@ -1,0 +1,216 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mientras hago algunas compras en el centro\ncomercial en mi día libre, veo a Oguri Cap y\nTamamo Cross mirando por aquí."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Oh, Entrenador.",
+      "choice_data_list": [
+        "¿Ustedes dos están haciendo compras juntas?"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Jejeje, seguro que sí. ¡Pero no es una compra\nordinaria!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Estamos haciendo un viaje por el carril de la\nmemoria! Vamos, Oguri, ¡suelta la lengua!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Grrrr.</i>"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "...¡Oye! ¡Todo eso nos dice es cuánta hambre\ntienes!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "<i>Suspiro...</i> Supongo que tengo que explicarlo yo\nmisma."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Al parecer, hay una feria de comida de Kansai en\ncurso, así que nosotras dos vamos a echarle un\nvistazo juntas!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Lo que ella dijo. Así que tendrás que\ndisculparnos. Nuestro okonomiyaki nos espera."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Oye, no tan rápido! ¿Qué soy, tu portavoz?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡E-eh, detente! ¡No avances tan rápido! ¡Vas a\nperderte de nuevo, Oguri!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las dos se van apresuradamente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un corto tiempo después..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hum... Esta feria está más lejos de lo que pensé.\nSe siente como si hubiéramos estado caminando por\nmillas."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Oh, Entrenador. Nos volvemos a encontrar. Qué\ncoincidencia, dado lo grande que es este centro\ncomercial.",
+      "choice_data_list": [
+        "¿Tú y Tamamo Cross se han separado?",
+        "¿Tú y Tamamo Cross se han separado?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Tama? No, ella está... Espera. ¿Tama?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Podría esto significar... que Tama se ha\nperdido?!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Ella podría sentirse sola. Rápido, tenemos que\nencontrarla!",
+      "choice_data_list": [
+        "Busquemos en todo el centro comercial.",
+        "¿Por qué no intentamos ir a la feria de comida?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí, definitivamente la encontraremos así.\nApresurémonos."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Disculpe, ¿ha visto a una Umamusume con un acento\nde Kansai?"
+    },
+    {
+      "name": "Dependiente A",
+      "text": "Mmm... No puedo decir que eso me suene."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Estás seguro? Ella es aproximadamente tan rápida\ncomo yo."
+    },
+    {
+      "name": "Dependiente A",
+      "text": "Um... No puedo realmente decir qué tan rápido es\nalguien solo parado aquí."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Oh, cierto. Bueno, avísame si ves a alguien así."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hum. No puedo encontrarla en ninguna parte. Me\npregunto a dónde podría haber ido."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Gruñido.</i>"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Argh! Toda esta prisa me está dando hambre..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Eso es lo que creo que era?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Lo sabía! ¡Por eso te dije que no fueras\nadelante!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Tama, ¡allí estás! Me alegra tanto que estés a\nsalvo."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Aunque... Resulta que tú eres la que me encontró."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Tenemos tus rugidos estomacales ensordecedores\npara agradecer por eso. Mientras tengas hambre,\npodría localizarte en un instante."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Es así? Supongo que un estómago vacío no es\nsiempre algo malo."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Oye, no te pongas tan engreída ahora."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Muy bien. Estamos juntas de nuevo y tengo hambre.\nHora de ese okonomiyaki."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Quieres unirte a nosotras, Entrenador? Estoy\nsegura de que sería divertido que los tres\ncomiéramos juntos."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Siempre en tus propios términos, ¿verdad?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "No discutiré, sin embargo. ¡Estoy muriendo de\nhambre después de todo ese caminar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después, los tres comemos okonomiyaki juntos."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Buen punto. Quizás ella se fue adelante."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pero ese es adonde nos dirigíamos en primer lugar.\nY yo todavía no he llegado allí..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las cosas podrían complicarse si dejo a Oguri Cap\nsola. Decido llevarla a la feria de comida."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Uf... Qué alivio. Mira, Tama está por allí."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Oh, allí estás! Espera, ¿por qué tu entrenador\nestá aquí también?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Explico que Oguri Cap había estado caminando en\ncírculos, así que decidí traerla aquí yo misma."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "<i>Suspiro...</i> Es mi culpa por quitarle los ojos de\nencima. No sé cómo alguien puede perderse tan\nrápido, pero aún así."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "No te culpes. Todos se pierden de vez en cuando."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "De todos modos, mientras estés a salvo, eso es lo\nque importa. Estoy aquí para ti."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Oye, tú eres la que desapareció, no yo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su aguda respuesta resuena en toda la feria de\ncomida de Kansai."
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Maruzensky",
+      "text": "¡Estoy tan emocionada por el paseo de hoy,\nTrainer! ¡Pisemos el acelerador a fondo!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Estoy tan emocionada por el paseo de hoy,\nTrainer! ¡Pisemos el acelerador a fondo!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Y allá vamos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los neumáticos chirrían mientras el auto deportivo\nrojo brillante de Maruzensky arranca.",
+      "choice_data_list": [
+        "¿No vas un poco rápido?!",
+        "¿No vas un poco rápido?!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oh, esto no es nada!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Estamos a punto de entrar en la autopista... y\nsiento la necesidad de velocidad!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El auto se lanza a la autopista."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Solo estamos comenzando! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Estamos acelerando aún más!",
+      "choice_data_list": [
+        "Aaaaah!",
+        "Aaaaah!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Veamos lo que este bebé puede hacer! ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Mira estas habilidades locas para tomar curvas!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Yujuu!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡El auto deportivo derrapa en la curva!",
+      "choice_data_list": [
+        "¡Cuidado!",
+        "¡Cuidado!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Tranquilo por allá!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Lo tengo todo bajo control!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡El auto gana aún más velocidad!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Woohoo! ¡Subamos la intensidad de esta fiesta!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "O sea, <i>¡después de </i>todo estamos dando un paseo en\nauto! ¡Jeje! ♪",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Hm? ¿Pasa algo, Trainer?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Hm? ¿Pasa algo, Trainer?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Hola? ¿Hay alguien en casa?",
+      "choice_data_list": [
+        "Uuugh..."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oye, ¿estás bien? ¿Voy muy rápido para ti?",
+      "choice_data_list": [
+        "¡Llevémoslo al límite!",
+        "Tomemos un descanso..."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Sí! ¡Ahora sí estás hablando!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Rompamos a través, Trainer!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Rompamos a través, Trainer!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Rompamos a través hacia el otro lado de la\nbarrera del sonido, quiero decir! ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Juntos, podemos ir a cualquier parte!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Juntos, podemos ir a cualquier parte!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Qué vista..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Es la primera vez que vengo a un lugar así. Nunca\nhe visto nada igual."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Supongo que esto es lo que significa ir a\ndondequiera que el viento te lleve..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ese mismo viento lleva el susurro hechizado de\nMaruzensky a mi oído."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Sí, entiendo. Nunca es bueno excederse, ¿verdad?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hay una área de descanso justo adelante. Nos\ndetendremos allí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Maruzensky estaciona en el área de descanso.",
+      "choice_data_list": [
+        "(Ugh... Me está dando vueltas la cabeza...)"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Estás bien, Trainer?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Estás bien, Trainer?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Te conseguí una bebida.",
+      "choice_data_list": [
+        "Gracias. ¡Ahh, eso viene bien!",
+        "Gracias. ¡Ahh, eso viene bien!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Usa también ese pañuelo. Lo mojé con agua fría."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hay un pañuelo que se ve elegante en la mesa."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Póntelo en la cara. Debería ayudarte a sentirte\nmejor.",
+      "choice_data_list": [
+        "¿Estás segura? Se ve caro.",
+        "¿Estás segura? Se ve caro."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡No te preocupes! ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Te tomaste la molestia de acompañarme en el paseo\nhoy."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Es lo correcto que yo te cuide bien a cambio! ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Es lo correcto que yo te cuide bien a cambio! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y Maruzensky continúa cuidándome, con el calor de\nuna verdadera amiga."
+    }
+  ]
+}

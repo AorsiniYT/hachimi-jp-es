@@ -1,0 +1,153 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día después del Kikuka Sho, después de que\nAgnes Tachyon declarara su compromiso con los\ndesafíos de su último año..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Aparecer en vivo en TV como la campeona de la\nTriple Corona?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Recibimos una oferta para aparecer en un programa\nde noticias matutino."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Mmm, solo tomará diez minutos, y se realizará en\nel campus. Pero lo más importante... será\ntransmitido en vivo.",
+      "choice_data_list": [
+        "...¿Lo más importante?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ah, no importa. Solo estoy pensando en voz alta.\nDe cualquier modo, me alegraría que apareciéramos\nen el programa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así..."
+    },
+    {
+      "name": "Entrevistador",
+      "text": "¡Por favor, den la bienvenida a Agnes Tachyon,\nganadora de la Triple Corona, y a su entrenador, <username>!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "La carrera parece haber generado montones de\nemoción, y debo admitir que también fue un gran\npaso para mí."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Sin embargo, es solo un paso. Más bien, siento que\nfinalmente he llegado a la línea de salida."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "En otras palabras... ¡la Triple Corona fue solo la\nprimera de mis hazañas!"
+    },
+    {
+      "name": "Entrevistador",
+      "text": "¿Significa eso que podemos esperar saltos aún\nmayores en el futuro?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿No es obvio? El potencial al que apuntamos aún\nestá lejos."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Más bien, ahora más que nunca, hay investigación\npor hacer y carreras por ganar!"
+    },
+    {
+      "name": "Entrevistador",
+      "text": "¡Wow! ¡No puedo esperar para ver cómo se\ndesarrolla tu carrera!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Oh, sí! Por todos los medios, permíteme observar\nla actividad de tu amígdala."
+    },
+    {
+      "name": "Entrevistador",
+      "text": "Y tu entrenador también, ¿podría compartir algunas\npalabras sobre su perspectiva del futuro?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Durante el último año y medio, Agnes Tachyon no ha\nescatimado esfuerzos en la Twinkle Series (aunque\nespero que explique esos esfuerzos más a menudo)."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así que, de aquí en adelante..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Muy bien, entonces, escuchemos tus planes para mis\ncarreras del último año. Estoy todo oídos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella me hizo una promesa. Lo que significa que mi\npostura debe permanecer igual.",
+      "choice_data_list": [
+        "¡Seguiré creyendo en Tachyon!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...!"
+    },
+    {
+      "name": "Entrevistador",
+      "text": "¡Gracias por tus apasionadas palabras! Bueno,\nseguro que tienes mucho sobre tus hombros, ¿no\ncrees, Tachyon?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Sí, por supuesto. Te llevaré hasta el final.\nDéjalo en mis manos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Oooooh!"
+    },
+    {
+      "name": "Entrevistador",
+      "text": "Ahora que hemos vislumbrado el vínculo entre las\ndos, ¡hagamos una última ronda de aplausos!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Oh, espera, espera, espera! ¡Aún no he dicho lo\nmás importante!",
+      "choice_data_list": [
+        "(¿Lo más importante?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No acordamos ningún anuncio por adelantado.\n¿Podría ser sobre su próxima meta o planes del\núltimo año? Espero con la respiración contenida."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Para todos los que están viendo esto en vivo,\nespero que estén emocionados, porque mi entrenador\ny yo ahora..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Reclutando cobayas... Ejem. ¡Reclutando sujetos de\nprueba!",
+      "choice_data_list": [
+        "...?!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Se necesitan más experimentos si deseamos\ndescubrir los límites del potencial de las\nUmamusume. Así que ¡no duden en unirse a nosotros!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Por favor, contacten a mi entrenador para\ncualquier consulta. Él puede ser contactado\nveinticuatro horas al día, siete días a la semana\nen..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Por favor, contacten a mi entrenador para\ncualquier consulta. Ella puede ser contactada\nveinticuatro horas al día, siete días a la semana\nen..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Antes de que pueda decir algo más, rápidamente la\nescolto fuera del lugar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero como ella dijo, la Triple Corona fue solo el\nprincipio. Nuestros días de avanzar están lejos de\nterminar."
+    }
+  ]
+}

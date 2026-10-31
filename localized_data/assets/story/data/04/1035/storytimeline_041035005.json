@@ -1,0 +1,174 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Winning Ticket ha estado subiendo la intensidad en\nlos entrenamientos recientes."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡FIIIN! ¡Winning Ticket se lleva el primer\nluuuugar!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿¡Lo viste?! ¡Mi victoria sobresalienteee! ¡La\ngloria es toda mía, entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque algunos días están llenos de risas y\nalegría..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Yo-yo perdí... No..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ug... ¡Waaaaah! ¡Esto apesta! ¡Voy a reentrenar\ndesde cerooo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Otros días están llenos—no, ahogados—de lágrimas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tanto las victorias como las derrotas siguen\nacumulándose. Y hoy..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Nooooo! ¡Perdí!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Lo siento, entrenador! ¡Tengo que seguir\nentrenando más y más!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Eso es! ¡Entrenaré muchísimo! ¡Entrenamiento a\ntoda velocidad! Primero, una vuelta a la\npista—¡NO! ¡Una vuelta a Japón!",
+      "choice_data_list": [
+        "¡Espera!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ticket se está quemando como siempre, así que me\napresuro a darle un régimen de entrenamiento\nadecuado."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Entendido! ¡Gracias! ¡Voy a salir a la pista\nahora mismo!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Usaré esta derrota... para impulsarme hacia el\nDerbiii!"
+    },
+    {
+      "name": "Fellow Trainer",
+      "text": "Oye, ¿cómo vas? Tu estudiante está tan\nentusiasmada como dicen.",
+      "choice_data_list": [
+        "Ella siempre está a toda máquina. Tengo suerte de\ntenerla."
+      ]
+    },
+    {
+      "name": "Fellow Trainer",
+      "text": "No lo dudo, pero... Esa derrota en el\nentrenamiento muestra que aún es un poco\nirregular."
+    },
+    {
+      "name": "Fellow Trainer",
+      "text": "De hecho, no es solo eso... Es demasiado abierta\ncon sus sentimientos.",
+      "choice_data_list": [
+        "¿Qué tiene de malo eso?"
+      ]
+    },
+    {
+      "name": "Fellow Trainer",
+      "text": "Su estado de ánimo anima a las otras corredoras.\nVen su ráfaga de velocidad y sienten que deben\nesforzarse más."
+    },
+    {
+      "name": "Fellow Trainer",
+      "text": "Ella necesita ocultar su poder y adormecer a sus\noponentes para que sean descuidados. Es una\ntáctica importante en la pista."
+    },
+    {
+      "name": "Fellow Trainer",
+      "text": "Ay, caray. Estoy diciendo demasiado a un\nentrenador rival. Oye, no te preocupes por eso...\nNos vemos."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿¡Hola? ¡Entrenador! ¡Oh no! ¿Tu espíritu abandonó\ntu cuerpo?! ¡No! ¡Entrenadooor!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy pensando tanto en lo que dijo ese\nentrenador, que parece haber preocupado a\nTicket...",
+      "choice_data_list": [
+        "Lo siento, estaba un poco perdido en mis\npensamientos.",
+        "Lo siento, estaba un poco perdido en mis\npensamientos."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿¡Whahuh?! ¡Estás de vuelta de entre los muertos!\n¡Es un milagro! ¡Oooh! ¡Gracias a Dios!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Espera, ¿en qué estabas pensando? ¡Dime, dime! ¡Te\nayudaré a pensar más! ¡Nnngh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella siempre da lo mejor de sí, así que quiero\nhacer más para ayudarla a ganar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero, ¿debería seguir el consejo y enseñarle a\nocultar sus cartas?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ummm, hnnng... ¡No lo soporto! ¿¡De qué te\npreocupas?!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Qué puedo hacer para ayudar a mi compañera más\nespecial...? Debe haber algo!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Ufff, aaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, al verla intentarlo tan\ndesesperadamente, como siempre lo hace, finalmente\nentiendo.",
+      "choice_data_list": [
+        "(No, no debería tomar el consejo.)",
+        "(No, no debería tomar el consejo.)"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Eh? ¿Entrenador? Oh, hola... Te ves renovado de\nalguna manera.",
+      "choice_data_list": [
+        "Ya sé qué hacer.",
+        "Ya sé qué hacer."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Guau, en serio? Eso es... ¡genial! ¡Realmente\ngenial! ¡Wuu-huuu!",
+      "choice_data_list": [
+        "(¡Tienes que hacer lo que mejor sabes hacer!)",
+        "(¡Tienes que hacer lo que mejor sabes hacer!)"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Estoy lista para ir. ¡Hablemos de mi próximo\nrégimen! ¡Escucharé a toda potencia lo que digas!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Después de todo, ¡tú realmente me ves! ¡Piensas en\nmí! ¡Por eso confío en ti!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡No hay duda cuando estoy contigo! ¡Ni un poco!\n¡Puedo avanzar a toda máquina sin guardarme nada!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como si fuera la primera vez, veo la confianza que\nbrilla en sus ojos... Y me determino a entenderla\nde verdad."
+    }
+  ]
+}

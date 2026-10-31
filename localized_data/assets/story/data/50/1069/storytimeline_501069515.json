@@ -1,0 +1,289 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Entrenador! Me gustaría permiso para emprender un\nviaje de entrenamiento especial!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque no tenemos carreras o sesiones de fotos\nhoy, Sakura Chiyono O se acerca a mí con su\natuendo de carrera característico para hacer una\npetición desconcertante.",
+      "choice_data_list": [
+        "¿Por qué quieres hacer eso?",
+        "¿Por qué quieres hacer eso?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Porque quiero convertirme en una dama que encarne\nlos ideales japoneses tradicionales!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Pedí que mi atuendo de carrera característico\nfuera diseñado con estética japonesa y un motivo\nde flor de cerezo..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Pero no soy muy femenina... ni como una samurái...",
+      "choice_data_list": [
+        "(Esos dos no parecen relacionados...)"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Me gustan los postres japoneses y la lucha de\nsumo, pero solo gustarme no me hace digna de usar\nmi atuendo de carrera característico!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Es por eso que quiero que el Escuadrón Yamato\nNadeshiko me ponga a prueba!",
+      "choice_data_list": [
+        "¿El... qué?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Oh, Grass y Yaeno, me refiero! Siempre pienso en\nellas como siendo súper refinadas, así que las\nllamo el Escuadrón Yamato Nadeshiko."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Estoy segura de que entre las dos, pueden hacerme\nuna mujer japonesa adecuada!",
+      "choice_data_list": [
+        "No necesitas ir tan lejos..."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Pero quiero ir tan lejos!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Ponerme mi atuendo de carrera característico me\nrecuerda cómo me sentí cuando entré a la academia."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Atravesé las puertas tan orgullosa y segura de que\neste sería el lugar donde explotaría en plena\nfloración..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Mi atuendo de carrera característico es la\nencarnación de ese deseo que hice, así que quiero\nusarlo con confianza!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Y una vez que tenga esa confianza, estoy segura\nde que realmente floreceré con él!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque la idea todavía parece un poco extraña, sus\nintenciones son buenas, así que aparto tiempo en\nsu agenda para que haga su entrenamiento especial."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Oh, a propósito, quería preguntar... ¿Cuál de\nellas crees que debería pedir ayuda? ¿Grass o\nYaeno?",
+      "choice_data_list": [
+        "Pídele a Grass Wonder, el epítome de la gracia y\nbelleza japonesa.",
+        "Pídele a Yaeno Muteki, la guerrera disciplinada."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Sí, la forma de hablar y los modales de Grass son\ntan precisos y maravillosos. Ojalá pudiera ser\ncomo ella... ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "E... ¡disculpe!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Gracias por aceptar ayudarme, Grass! Ahora, en\ncuanto al entrenamiento de hoy, ¿qué—"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Maruzensky, la Bestia."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Tú y yo ambas estamos persiguiendo al mismo gran\noponente."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Pero, ¿esa tu espada está afilada? ¡Permíteme\nprobar tus habilidades!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Gyaaaah?!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "...Solo bromeaba."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Q-qué?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hehe. Parecías tan nerviosa, así que decidí\nhacerte una pequeña broma para aligerar el\nambiente."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "O-oh, ¡ya veo! ¡Así que era una broma!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Jaja. Eso me sorprendió. Debí haber sabido que no\neras tan aterradora."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hehe. Escuché que te gustan los postres japoneses,\nasí que pensé que podríamos tomar algunos con té\nverde. Ahora, ¿hablamos?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Yo también estoy en mi viaje para convertirme en\nuna mujer japonesa adecuada, así que discutamos\nlos métodos mediante los cuales podemos alcanzar\nnuestros ideales."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ellas se deleitan con postres y té... O más bien,\nrealizan una ceremonia del té bajo la tutela de\nGrass Wonder y pasan el tiempo tranquilamente."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Buenos días, mi querido Entrenador!",
+      "choice_data_list": [
+        "Hoy estás hablando diferente..."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Hehe. Oh, ¿de verdad? Quizás me he acercado a ser\nuna mujer japonesa adecuada. ♪"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Qué te parece si vamos a visitar algunos\nsantuarios y templos algún día? Grass me informó\nde algunos agradables que podemos ir a ver."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, la fácilmente influenciable Sakura Chiyono\nO parece haber adoptado la forma de hablar de\nGrass Wonder. Se le queda por un buen rato después\nde su reunión."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Yaeno! Estoy segura de que entrenar con ella no\nserá fácil, ¡pero tendré que venir preparada!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así..."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Todavía soy inexperta y no estoy en posición de\nenseñarte."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Sin embargo, entiendo bien tu deseo de fuerza. Por\nlo tanto, te instruiré lo mejor que pueda."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Fuerza... ¡Sí, eso es! Gracias por aceptar\nayudarme. ¡Empecemos!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Antes de comenzar nuestro entrenamiento, debemos\nlimpiar a fondo el espacio que vamos a usar para\nmostrar aprecio por él..."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Recorramos los pisos cien veces. Seguramente\nentonces estarán limpios."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡E-está bien!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "<i>Haa... Resuello...</i> ¡Terminamos!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Uf... Bien hecho. Ahora, sobre el entrenamiento\nreal..."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Antes de comenzar, hagamos cien golpes para que tu\ncuerpo se acostumbre al ejercicio."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡E-está bien!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Hya, hya... <i>Haa!</i>"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "<i>¡Haa! Resuello...</i> U... un cien golpes... ¡hechos!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Un trabajo maravilloso. Ahora, en cuanto al\nentrenamiento real..."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "No haremos ninguno."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Está bien!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Espera, qué?! ¡Ya nos estamos rindiendo?!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "<i>¡Gasp!</i> ¿Esto significa... que no hay esperanza\npara mí?!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Todo lo contrario. Hoy lo hiciste bien, así que no\nveo necesidad de entrenamiento. Ya eres bastante\nfuerte."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Qué? ¿Fuerte? ¿Yo? Pero estoy tan sin aliento."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "La fuerza de la que hablo es tu fortaleza mental.\nEn tu corazón está la resiliencia para seguir\nesforzándote por ser quien quieres ser..."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Una vez que te des cuenta de eso por ti mismo,\npodrás caminar con confianza sin tener que\naprender de alguien como yo."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Yaeno..."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "El mundo de las artes marciales está lleno de\npeligros, pero si realmente deseas entrar en él...\nno dudes en contactarme de nuevo."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Si ese tiempo llega alguna vez, te daré la\nbienvenida con los brazos abiertos. Muchas gracias\npor hoy."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡No, <i>gracias</i>!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sakura Chiyono O hace una reverencia con\nelegancia, el perfil de su rostro irradiando un\npoco más de confianza que antes."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras salíamos con Curren Chan..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Guau, guau, guau! ¡Mira todos los peluches! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Curren Chan señala hacia una máquina de agarre\nllena de peluches de Umamusume.",
+      "choice_data_list": [
+        "Son realmente adorables.",
+        "Son realmente adorables."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Oye. ¿No crees que un peluche súper lindo es\nperfecto para una chica súper linda?"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Oye. ¿No crees que un peluche súper lindo es\nperfecto para una chica súper linda?"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Si tuviera algunos de esos conmigo, creo que sería\n¡mucho más linda!",
+      "choice_data_list": [
+        "Vale. ¡Vamos a conseguir algunos!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Hurra!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Jeje. ¡No puedo esperar a ver cuánto te esforzarás\npor mí! ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Jeje. ¡No puedo esperar a ver cuánto te esforzarás\npor mí! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡No hay forma de que fracase ahora!"
+    }
+  ]
+}

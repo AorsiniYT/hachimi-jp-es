@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Tengo algo que decir, así que escucha."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Arruiné el cierre de la última carrera. Duele\nadmitirlo, pero es verdad."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Esta vez será diferente. No voy a humillarme así\nde nuevo.",
+      "choice_data_list": [
+        "¡Muéstrale al mundo que eres número uno!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Sí, lo haré. ¡Los dejaré a todos boquiabiertos!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡El lugar número uno es mío! ¡Nadie va a robármelo\nde nuevo!"
+    }
+  ]
+}

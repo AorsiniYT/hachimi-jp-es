@@ -1,0 +1,310 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Agnes Tachyon",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Más rápido, más rápido! ¡Este no es el límite!\n¡Aún no estoy ni cerca de alcanzarlo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Desde el día que decidió correr en el Gekkei Hai,\nAgnes Tachyon ha estado batiendo récords\npersonales a diario."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Tachyon ya era rápida, pero ahora es como loca de\nrápida!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¡Está realmente motivada! ¡El Gekkei Hai va a ser\nmuy emocionante!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus piernas, como si se hubieran liberado de una\ngran carga, saltan por la pista con gran vigor. Ha\ndespertado su talento."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Uf!",
+      "choice_data_list": [
+        "¡Me impresionas, Tachyon!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Sí, se te nota en la cara."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque, debo admitir que el cambio repentino me\nparece un poco desconcertante.",
+      "choice_data_list": [
+        "¿Pasó algo recientemente?",
+        "¿Pasó algo recientemente?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Si tengo que responder, solo tomé una decisión. Lo\nmismo que haces tú y todos los demás. No es nada\nespecial."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Muy bien, ¡una vuelta más! Tómate tu tiempo,\n¿vale?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En cualquier caso, está claro que Agnes Tachyon ha\nexperimentado un cambio considerable de actitud.",
+      "choice_data_list": [
+        "(¡Es mi trabajo apoyar su decisión!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ahora que muestra motivación para el Gekkei Hai,\npaso la noche despierto, pensando en cómo puedo\nayudar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Soy su entrenador. <i>Tiene</i> que haber algo que pueda\nhacer.",
+      "choice_data_list": [
+        "(...¡Ya sé!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Saco la lista de corredores para el evento y\nempiezo a revisar todos sus archivos pasados...\nPara cuando miro por la ventana, ya ha amanecido."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Veamos... condiciones climáticas, condiciones de\nla pista, estrategias de carrera, la lista de\ncompetidores, su linaje, sus rivales, pistas\nfavorables y desfavorables..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Hiciste todo esto en una noche? Difícil de creer\nque tuvieras tiempo para dormir.",
+      "choice_data_list": [
+        "Bueno... Perdí la noción del tiempo..."
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Je, je, je, ¿te gustó tanto ver mi determinación?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "De todos modos, datos tan minuciosos serán de gran\nayuda para el Gekkei Hai!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Es una carrera increíblemente importante para\nreunir datos de calidad. ¡Debemos estar\ncompletamente preparados!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agnes Tachyon estudia minuciosamente los datos que\nrecopilé.",
+      "choice_data_list": [
+        "(¡Mis esfuerzos no fueron en vano!)",
+        "(¡Mis esfuerzos no fueron en vano!)"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Hum? ¿Hay algo más? Te ves muy feliz.",
+      "choice_data_list": [
+        "¿Hay algo más que pueda hacer por ti?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Vaya, vaya! Hoy estás muy motivado, ¿verdad?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "En ese caso... Supongo que no rechazarás estar\nconfinado durante diez días. Es absolutamente\nnecesario para mi próximo experimento. Je, je, je."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mi boca empieza a moverse antes de que termine de\npensar las cosas... Si es para ver hasta dónde\npuede llegar, siempre estaré de acuerdo.",
+      "choice_data_list": [
+        "¡Por supuesto!",
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Prometo probar cualquier mezcla y aceptar\ncualquier experimento que venga. Cualquier plan\nque se le ocurra, lo cumpliré."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Je, je, jajaja! ¡Tú... tú te has vuelto loco\nahora! Lo del confinamiento era una broma, ¡por\nsupuesto! Eso es ilegal, ¿sabes?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Bueno, ahora... je, je, je. Me pregunto qué te ha\nentrado?!",
+      "choice_data_list": [
+        "(¡Ese día me impresionaste, eso es todo!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Intento describir lo que sentí al verla ese día\npero me quedo sin palabras.",
+      "choice_data_list": [
+        "(Ese día, en la pista...)"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Más rápido, más rápido! ¡Este no es el límite!\n¡Aún no estoy ni cerca de alcanzarlo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La forma en que disparó a través de la pista, cada\nzancada resonante impulsándola hacia adelante...\nNo podía quitar la vista de su deslumbrante\nactuación.",
+      "choice_data_list": [
+        "¡Estoy dispuesto a hacer cualquier cosa!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...¿Qué?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le digo que mientras podamos ir más allá de los\nlímites de las Umamusume juntos, haré cualquier\ncosa por ella. En respuesta, ella curiosamente se\nqueda en silencio."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le digo que mientras podamos ir más allá de los\nlímites de las Umamusume juntos, haré cualquier\ncosa por ella. En respuesta, ella curiosamente se\nqueda en silencio."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...",
+      "choice_data_list": [
+        "...¿Tachyon?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...Vaya.",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ah, sí, ¡por supuesto! No has cambiado... ni\nsiquiera un poco."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Yo también quiero ver qué hay más allá de tus\nlímites."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Yo también quiero ver qué hay más allá de tus\nlímites."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...Eso es lo que dijiste cuando me reclutaste. ¿Lo\nrecuerdas?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ese día, para convertirte en mi entrenador, te\nbebiste tres botellas enteras de solución de\nprueba."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...Je, je, jajaja! Me sorprendiste, sabes. Este\nconejillo de indias es en serio, pensé."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus ojos tienen la mirada de alguien que rememora\nun recuerdo querido."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Sí... Ese día, bajo el sol poniente, tus ojos\nestaban llenos de locura."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...No, eso no es del todo correcto. Permíteme\ncorregirme."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella me mira directamente a los ojos."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Incluso ahora, tus ojos están llenos de locura.",
+      "choice_data_list": [
+        "...?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Parece que soy el tipo que tiene afinidad por lo\nexcéntrico."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella suelta un pequeño suspiro."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Vaya, justo cuando pensé que había tomado mi\ndecisión. ¿Puede ser esto más embarazoso?",
+      "choice_data_list": [
+        "¿De qué se trata?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Mientras el potencial no sea cero, no puedo\nrenunciar, ¿verdad?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Dado el caso, conejillo de indias, necesitaré tu\ncooperación adicional con mis experimentos.",
+      "choice_data_list": [
+        "¡Como ya dije, ¿de qué estás hablando?!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "El hecho de que eres responsable de buena parte de\nlos problemas que están por ocurrir.",
+      "choice_data_list": [
+        "?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ese día, ella se salta el entrenamiento después de\ntres semanas de asistencia perfecta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Entrenador, tengo algo que decirte. Buenas\nnoticias, de hecho."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Me retiré del Gekkei Hai.",
+      "choice_data_list": [
+        "¿Qué?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin más explicaciones, ella se retira a los\nconfines de su laboratorio."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Gekkei Hai transcurre rápidamente sin ella."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La inesperada decisión unilateral de Agnes Tachyon\nse está comentando por todos lados."
+    }
+  ]
+}

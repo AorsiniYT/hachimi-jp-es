@@ -1,0 +1,281 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día, mientras el Tenno Sho de primavera se\nacerca...",
+      "color_text_info_list": [
+        "Tenno Sho"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Hm?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ah, Taishin."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué pasa? Te ves agotado."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Oh, bueno... Jeje. Tienes un ojo agudo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No es nada importante. Simplemente no dormí lo\nsuficiente anoche. Por eso estoy aquí en tu\nquerido rincón de siesta de la tarde."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ajá..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Oye, ¿tienes nuevos datos sobre Narita Brian?",
+      "choice_data_list": [
+        "¿Hm? ¿Narita Brian?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Sí."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Si hay alguien que pueda hacer que ese idiota\nentre en pánico, probablemente sea Brian.",
+      "choice_data_list": [
+        "Ah, ¿la malvada Hayahide?",
+        "Ah, ¿la malvada Hayahide?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Tal vez."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "De todos modos, volviendo a Brian. ¿Ha habido\nalguna gran noticia sobre ella últimamente?",
+      "choice_data_list": [
+        "Déjame ver..."
+      ]
+    },
+    {
+      "text": "Hago algo de investigación y me encuentro con\nnoticias sobre el reciente Satsuki Sho."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Primer lugar en el Satsuki Sho, ¿eh? Y ella rompió\nel récord de la pista mientras lo hacía."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No la llaman la Bestia por nada."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Hayahide debe haber escuchado sobre esto...",
+      "choice_data_list": [
+        "¿Y comenzó a sentir la presión?",
+        "¿Y comenzó a sentir la presión?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Sí."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Dime..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Cómo alguien, eh... saca un tema, normalmente?",
+      "choice_data_list": [
+        "(¡Taishin está cuidando a su amiga!)"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Oye. Quita esa sonrisa de tu cara. Estás\ninterpretando demasiado esto."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Solo dame una respuesta ya!",
+      "choice_data_list": [
+        "Deberías salir a comer con ella."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Empleado de la tienda de ramen",
+      "text": "¡Bienvenido! ¡Toma asiento donde quieras!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Eh, gracias."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Taishin... ¿Sería seguro asumir que no eres un\ncliente habitual aquí?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Eh? Obviamente. Casi nunca salgo a comer."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Me imaginé que era el caso. Entonces... ¿cómo\ndecirlo..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Por qué me invitaste aquí?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Bueno..."
+    },
+    {
+      "name": "Empleado de la tienda de ramen",
+      "text": "¡Hola! ¿Qué van a querer?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué? Oh, eh..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Dos ramen de verduras, extra zanahorias—oh, y con\nmenos fideos para uno de ellos..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ahora que lo pienso, vi una grabación del Nikkei\nSho. Fuiste muy impresionante."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Eh? Oh, eh... gracias."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tu persecución en la recta final me dio\nescalofríos. Tuve que ajustar mi ecuación\nincontables veces para tener en cuenta tu sprint\nfinal."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Entonces, como, ¿crees que soy fuerte?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Hm? Bueno... Supongo que eso es lo que resume."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Oh."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Siempre te he considerado un verdadero dolor de\ntrasero, sabes."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Qué?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Siempre lo has sido... y aún lo eres."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ah, veo hacia dónde va esto ahora."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Podría ser que estés tratando de ofrecerme una\npalabra de ánimo?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué? ¡Ni hablar!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Es solo... No tiene sentido que un raro engreído\ncomo tú se desinfle y pierda confianza... o lo que\nsea."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Interesante."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Supongo que tienes un punto."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Urp... ¿Por qué me dieron tanto? Les dije que\nfueran ligeros con los fideos."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Estás bien?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Definitivamente no... Ugh, nunca comeré allí otra\nvez."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿En serio? Qué lástima."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Esperaba que pudiéramos ir de nuevo algún día."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Sí, lo que sea."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Dime, Taishin."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Crees en mis formas molestas? O, supongo, lo que\ntú llamas mi \"ser un dolor de trasero\""
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Creo en eso?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sí. ¿Tienes fe en mí?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Bueno..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Sí, tengo fe. Porque realmente eres un dolor de mi\ntrasero."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Pfft... ¡Jajaja!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ya veo. Gracias."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(\"Fe,\" ¿eh?)"
+    },
+    {
+      "text": "En la agradable brisa de primavera esa noche, una\nleve sonrisa se extiende por el rostro de Narita\nTaishin."
+    }
+  ]
+}

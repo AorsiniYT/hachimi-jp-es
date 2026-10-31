@@ -1,0 +1,123 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Qué reñida competencia entre estas fantásticas\ncorredoras senior!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Para no quedarse atrás por su hermana, Biwa\nHayahide nos ha mostrado que es igual de poderosa!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Buen trabajo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jeje, tú también."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Voy a ganar la próxima, sin embargo. Luego."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Por cierto..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Es ridículo que digan que eres \"tan poderosa\" como\nBrian. Por supuesto que lo eres. ¿No saben quién\neres?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Gracias."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "He vuelto.",
+      "choice_data_list": [
+        "¡Lo hiciste genial!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Gracias. Yo también lo creo. Pude correr a mi\nmejor nivel hoy."
+    },
+    {
+      "text": "Mientras veo a Biwa Hayahide sonriendo con\norgullo, una sensación de arrepentimiento me\nllena.",
+      "choice_data_list": [
+        "(Si solo hubiéramos sabido que esta carrera sería\nen Hanshin desde el principio...)"
+      ]
+    },
+    {
+      "text": "Entonces quizás ella habría podido dar una\nactuación aún mejor. Ella podría haber..."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Esto es increíble, gente! Narita Brian no solo ha\nganado la carrera, ¡ha establecido un nuevo\nrécord!"
+    },
+    {
+      "text": "Ella podría haber establecido incluso un nuevo\nrécord..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Entrenador! ¿En qué estás pensando tan\nseriamente?",
+      "choice_data_list": [
+        "Estaba pensando en cómo estuviste tan cerca de un\nresultado aún mejor.",
+        "Estaba pensando en cómo estuviste tan cerca de un\nresultado aún mejor."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Oh?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jeje. Ciertamente es importante no volverse\ncomplaciente. Y estoy de acuerdo—no estoy\nsatisfecha con mi actuación hoy tampoco."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Como soy ahora, definitivamente no puedo ser\nllamada la mejor de mi generación."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Es por eso que quiero ponerme a prueba en el\nTakarazuka Kinen próximo.",
+      "color_text_info_list": [
+        "Takarazuka Kinen"
+      ]
+    },
+    {
+      "text": "El Takarazuka Kinen... Solo las mejores y más\nfamosas Umamusume son invitadas a participar en\nél. No solo eso...",
+      "choice_data_list": [
+        "El Takarazuka Kinen se lleva a cabo en Hanshin,\n¿verdad?",
+        "El Takarazuka Kinen se lleva a cabo en Hanshin,\n¿verdad?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Correcto. La longitud de la carrera es diferente,\npero sí, también se lleva a cabo aquí en el\nHipódromo de Hanshin."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Aún estás molesta por el cambio de sede?",
+      "choice_data_list": [
+        "Un poco..."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Vaya. No tiene sentido preocuparse por eso. No es\ncomo si algo se pudiera haber hecho al respecto."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Enfoquémonos en la próxima carrera. Primero,\ndebemos buscar contra quién es más probable que me\nenfrente en el Takarazuka Kinen..."
+    },
+    {
+      "text": "Hago lo mejor para dejar mis preocupaciones atrás\ny cambiar de marcha para comenzar a prepararme\npara el Takarazuka Kinen junto con Biwa Hayahide."
+    },
+    {
+      "text": "¡Esta vez, me aseguraré de que ella pueda\nrealmente correr a su máximo potencial!"
+    }
+  ]
+}

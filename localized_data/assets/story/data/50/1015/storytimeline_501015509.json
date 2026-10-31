@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "T.M. Opera O y yo estamos en medio de una sesión\nde entrenamiento, cuando..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "<i>Jadeando... Resoplando...</i> Dentro del flujo de un\nuniverso en constante cambio... mi brillo es\ninmutable... incluso contra el pantano... del\ncansancio...",
+      "choice_data_list": [
+        "Tomemos un descanso."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "No, Entrenador... Las fuerzas divinas han colocado\nesta prueba ante mí. Por la aflicción de este\nsufrimiento, soy puesto a prueba."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ahora... correr! ¡Debo correr! ¡La majestad del\nOverlord debe ser conocida!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de una resolución tan audaz, su\nagotamiento solo aumenta. Necesitaré ajustar su\ncalendario de carreras para que pueda descansar."
+    }
+  ]
+}

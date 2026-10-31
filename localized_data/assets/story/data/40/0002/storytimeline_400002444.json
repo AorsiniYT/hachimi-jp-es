@@ -1,0 +1,31 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Finalmente he reunido suficientes miembros para\nformar un equipo, y ahora podemos entrar en la\nCopa Unity."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nuestro nivel de entrenamiento aumentará según\nnuestra clasificación en la Copa Unity, así que\nespero ganar tantas carreras como sea posible."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero primero, necesito decidir un nombre para el\nequipo. Creo que el nombre que se me ocurrió,\nEquipo Zanahoria, tiene un buen sonido."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vamos a nombrar a nuestro equipo...",
+      "choice_data_list": [
+        "Equipo Zanahoria"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lleno nuestro nombre en el formulario como \"Equipo\nZanahoria\". Eso lo hace oficial.",
+      "color_text_info_list": [
+        "Equipo Zanahoria"
+      ]
+    }
+  ]
+}

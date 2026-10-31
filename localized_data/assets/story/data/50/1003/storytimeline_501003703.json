@@ -1,0 +1,216 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Tokai Teio y yo vamos de regreso a casa después de\ncomprar, cuando..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Oye, Entrenador. ¿Recuerdas esa tarea que Prez me\ndio?",
+      "choice_data_list": [
+        "¿Averiguar lo que tu entrenador significa para ti?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Sí! ¡De hecho, tengo una idea!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Estaba charlando con Scarlet el otro día, y..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ya veo. Lo que tu entrenador significa para ti..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Estoy totalmente atascada con eso! ¿Qué dirías,\nScarlet?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Suena como un problema agradable de tener. Todavía\nestoy intentando encontrar un entrenador."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Pero supongo que si tuviera que dar una respuesta,\ndiría..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Un entrenador es alguien que me ayudaría a\nalcanzar mis sueños. Mi compañero más valioso."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Oh?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Los entrenadores se dedican a apoyar a sus\nalumnos, y nosotros nos dedicamos a cumplir sus\nexpectativas a cambio."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Trabajando juntos, podemos escalar más alto. Algo\nasí, en cualquier caso."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Wow, ¿en serio? Ya veo..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Qué es esa cara? No estarás pensando en hacer\nalgo raro, ¿verdad?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡De ninguna manera! ¡Para nada! Solo guardaré esto\nen la vieja mollera para después. ¡Gracias! ♪"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Qué piensas de lo que dijo, Entrenador?",
+      "choice_data_list": [
+        "Es una respuesta modelo."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Verdad? ¡Por supuesto que la estudiante modelo\ndiría algo así! Así que estaba pensando..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Podría ajustarla un poco, ponerlo en mis propias\npalabras, y decírselo a Prez! ¡¿Qué te parece?!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Soy genial o qué? ♪",
+      "choice_data_list": [
+        "Eso seguramente va contra las reglas.",
+        "Eso seguramente va contra las reglas.",
+        "Preferiría que realmente miraras a <i>a mí.</i>",
+        "Preferiría que realmente miraras a <i>a mí.</i>"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Soy genial o qué? ♪",
+      "choice_data_list": [
+        "Eso seguramente va contra las reglas.",
+        "Eso seguramente va contra las reglas.",
+        "Preferiría que realmente miraras a <i>a mí.</i>",
+        "Preferiría que realmente miraras a <i>a mí.</i>"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Bleh. Lo sé..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Pero usé <i>mi</i> cerebro para averiguarlo!",
+      "choice_data_list": [
+        "¿Crees que ella estará complacida con la respuesta\nde alguien más?",
+        "¿Crees que ella estará complacida con la respuesta\nde alguien más?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Bueno, no... Pero no creo que haya forma de que\ntampoco se entere.",
+      "choice_data_list": [
+        "Ese no es el punto."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Hmph! ¿Entonces qué es?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Teio me mira con decepción. Le digo que si desea\nsuperar a Rudolf, tendrá que seguir su ejemplo en\nmás que solo carreras."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Urk...",
+      "choice_data_list": [
+        "¿Es la Prez a la que admiras una tramposa?",
+        "¿Es la Prez a la que admiras una tramposa?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...Tienes razón. Su conciencia está tan\nbrillantemente limpia que duele mirarla."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...Lo siento. Averiguaré la respuesta por mí\nmisma.",
+      "choice_data_list": [
+        "¡Busquemos una respuesta que realmente la deje\nboquiabierta!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡De acuerdo! Y Entrenador?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Gracias por regañarme! ¡Lo aprecio!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ver a Tokai Teio entender lo que hizo mal y\ndisculparse me da la sensación de que ha crecido\nun poco."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Eh?",
+      "choice_data_list": [
+        "Esas palabras son lo que Scarlet cree, no tú.",
+        "Esas palabras son lo que Scarlet cree, no tú."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Bueno, sí. Pero sigue siendo una gran respuesta,\n¿verdad?",
+      "choice_data_list": [
+        "Pero ese no soy <i>yo</i> para ti...",
+        "Pero ese no soy <i>yo</i> para ti..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le digo que estoy sorprendida y entristecida de\nque ni siquiera considere cómo se siente realmente\npor mí."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡E-espera! ¡No quise decir eso!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Aaah! ¡No mires tan triste! ¡No era eso lo que\nquería decir!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por alguna razón, Tokai Teio es la que parece\nestar al borde de las lágrimas ahora."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "<i>Snif...</i> Lo siento, Entrenador."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Intentaré pensar en lo que significas para mí\nadecuadamente esta vez.",
+      "choice_data_list": [
+        "¡Busquemos una respuesta que realmente la deje\nboquiabierta!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡De acuerdo! Y Entrenador?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Gracias por detenerme! ¡Lo aprecio!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ver a Tokai Teio entender lo que hizo mal y\ndisculparse me da la sensación de que ha crecido\nun poco."
+    }
+  ]
+}

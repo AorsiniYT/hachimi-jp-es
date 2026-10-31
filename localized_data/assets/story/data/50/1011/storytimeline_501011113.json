@@ -1,0 +1,366 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, no mucho antes de la carrera debut de\nGrass Wonder..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Voy al curso de entrenamiento para preparar todo\nantes de que llegue Grass Wonder. Pero cuando\nllego..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Uf... Eso bastará."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Todo calentado y listo! ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ok... ¡hagámoslo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Maruzensky, una Umamusume que se ha ganado\nincontables epítetos, sale disparada con una\nráfaga de velocidad cegadora que parece sin\nesfuerzo.",
+      "color_text_info_list": [
+        "Maruzensky"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La he visto en la tele, en revistas y en internet\nmontones de veces antes, pero verla correr en\npersona... Su forma es <i>impresionante.</i>"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Jeje! ¡Eso fue fantabuloso!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dado que tiende a tomar la delantera de inmediato\nen sus carreras, Maruzensky generalmente se\nclasifica como una corredora de punta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero parece menos una estrategia consciente y más\nque es tan increíblemente rápida que nadie más\npuede ponerse por delante de ella."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Todo revolucionado... así que ahora piso el\nacelerador a fondo!",
+      "choice_data_list": [
+        "(¡Tiene una fuerza increíble!)",
+        "(¡Tiene una fuerza increíble!)"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Una temible \"Bestia,\" de pies a cabeza. Se merece\ncompletamente el apodo.",
+      "choice_data_list": [
+        "¡Grass! No sabía que estabas aquí.",
+        "¡Grass! No sabía que estabas aquí."
+      ],
+      "color_text_info_list": [
+        "Bestia"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Acabo de llegar, de hecho. Estoy lista para\ncomenzar cuando tú quieras."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No tenemos tiempo que perder admirándonos."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Enfoquémonos plenamente en nuestros propios\nesfuerzos.",
+      "choice_data_list": [
+        "¡Por supuesto!",
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "El espíritu de lucha de Grass Wonder arde\nbrillante y nunca vacila, ni siquiera en presencia\nde la Bestia."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Conduzco su entrenamiento con un sentido de\npropósito reforzado para ayudarla a llegar a la\ncima."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Otro día..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Grass Wonder participa en un ensayo con otras\nUmamusume programadas para debutar al mismo tiempo\nque ella."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "<i>Haa...</i>"
+    },
+    {
+      "name": "Special Week",
+      "text": "G-gua... ¡La aceleración de Grass es increíble!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Qué miedo!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Cuando le sale esa mirada de \"¡te atrapé!\" en los\nojos, Grass es la última persona contra la que\nquiero enfrentarme..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿En serio? ¡Esa mirada me pone a mil!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Bueno, la mayoría no somos masoquistas, a\ndiferencia de ti."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡¿Qué dices?!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Solo quedan 200! ¡Grass va liderando!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "<i>jade... jade... jade...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Grass Wonder deja atrás al resto de la competencia\ny se lleva el primer lugar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡1,600 metros de césped en solo un minuto y\ntreinta y cuatro segundos... Es difícil creer que\nesto sea obra de una corredora de tercer año!",
+      "color_text_info_list": [
+        "tercer año"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los reporteros que vinieron al ensayo también se\nfijan en Grass Wonder."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Hooooly moly...! ¡Fantástico! ¿Cómo se llamaba?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Es Grass Wonder."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "No podría estar más feliz de verlas disfrutar de\neste ensayo entre las Umamusume que están por\ndebutar."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Oh, Symboli Rudolf! ¡Hoy pude tomar tantas fotos\ngeniales! ¡Especialmente de esa última corredora!",
+      "color_text_info_list": [
+        "Symboli Rudolf"
+      ]
+    },
+    {
+      "name": "Reportera A",
+      "text": "¿Quién de esta generación tiene más potencial en\ntu opinión?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Bueno, va sin decir que cada Umamusume tiene un\ngran potencial."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Para empezar, está El Condor Pasa. Ella se jacta\nde ser la corredora más fuerte del mundo y hace un\nesfuerzo inspirador para seguir mejorando."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Luego está Seiun Sky. Ella suele mantenerse fuera\nde los reflectores, pero una vez que está en la\npista, ves cuántos trucos tiene guardados."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Otra digna de mencionar es Special Week. A pesar\nde los desafíos que parece enfrentar para\nadaptarse a su nuevo entorno, nadie puede negar la\nbrillantez de su habilidad."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Mhm! ¡Sí, sí! ¡Esos nombres han salido mucho\núltimamente!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Seguro que sí. Pero no olvidemos a Grass Wonder."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Oh! ¡La Umamusume de la carrera de hace rato! Lo\nque me recuerda..."
+    },
+    {
+      "name": "Reportera A",
+      "text": "Un minuto y treinta y cuatro segundos en una\ndistancia de 1600 metros... ¡Eso es lo mismo que\ncierta actuación récord en el Asahi Hai F.S.!",
+      "color_text_info_list": [
+        "Asahi Hai F.S."
+      ]
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Seguro que nadie podría ver ese tiempo y no\nrecordar a la legendaria Bestia, Maruzensky!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Sí... Ah que lo mencionas, las similitudes son una\ncoincidencia bastante notable."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Sí, sí! ¡Y sabes qué significa?"
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Grass Wonder podría ser la próxima Maruzensky!\n¡Incluso podrías llamarla la \"Sucesora de la\nBestia\"!",
+      "color_text_info_list": [
+        "Sucesora de la Bestia"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Graaass! ¡Gran carrera! ¡Tu tiempo fue increíble!"
+    },
+    {
+      "name": "Special Week",
+      "text": "...Grass?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Eh? Oh..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Gracias, Spe."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "La... \"Sucesora de la Bestia\", ¿dices?"
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Claro que sí! ¡Todos en la cabina de prensa lo\ndecían después de verla correr hoy! ¡Ella tiene lo\nque se necesita para estar a la altura de esas\nexpectativas!"
+    },
+    {
+      "name": "Reportera A",
+      "text": "Maruzensky es tan dominante que solo con decir su\nnombre trae tantos momentos legendarios a la\nmente."
+    },
+    {
+      "name": "Reportera A",
+      "text": "Y entre nosotros, fue precisamente esa \"Hot Rod\"\nquien me inspiró a convertirme en una gran\nfanática de las Umamusume!",
+      "color_text_info_list": [
+        "Hot Rod"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Totalmente comprensible."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "No solo es invicta, sino que en solo ocho carreras\ndesde su debut, logró una suma sin precedentes de\n61 cuerpos en sus márgenes de victoria combinados."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Esa ventaja abrumadora ha inspirado a la gente a\nreferirse a sus carreras como \"viajes en\nsolitario\", dándole una reputación tan\nintimidante..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...incluso ha resultado en que Umamusume se\nretiren de sus carreras programadas solo porque\nsaben que Maruzensky participará."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Lo sé, verdad?! ¡Escuché que casi tuvieron que\ncancelar una carrera porque no había suficientes\nparticipantes!"
+    },
+    {
+      "name": "Reportera A",
+      "text": "Es bueno que no llegara a eso, pero aún así... ¡El\nhecho de que nunca se haya encontrado en una\ncarrera con un número de corredoras de dos dígitos\nes una hazaña loca en sí misma!"
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Por eso la gente empezó a llamarla la Bestia en\nprimer lugar... Pero ahora, Grass Wonder ha\nentrado en escena!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...Hmm."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Ya es tan fuerte, y ni siquiera ha debutado!\n¡Caray, ni siquiera ha sido <i>reclutada aún!</i>"
+    },
+    {
+      "name": "Reportera A",
+      "text": "Y lo que es más, ¡tiene esa confianza serena\ninquebrantable! ¡Hace que sus victorias parezcan\ntan sin esfuerzo que otras corredoras no pueden\nesperar competir!"
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Está a la altura de Maruzensky! ¡Creo que la\nSucesora de la Bestia sería el apodo perfecto para\nella!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Haces un punto intrigante."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Como podrías suponer por mi elección de nombrarla\ncomo ejemplo, también tengo grandes esperanzas en\nGrass Wonder."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Pero digo eso porque..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Oye Grass, ¿vas a volver a la residencia después\nde esto? Podríamos ir junt—"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Lo siento, Spe, pero no puedo."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Voy a pasar por el gimnasio, así que por favor ve\ntú sin mí."
+    },
+    {
+      "name": "Special Week",
+      "text": "¿H... eh?! ¡Vas al gimnasio a esta hora?!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Pero digo eso porque..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "La propia Grass Wonder lleva una determinación\ninquebrantable para llegar a la cima."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "...La Sucesora de la Bestia."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Debería sentirme honrada de ser mencionada en la\nmisma categoría que ella. Pero..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "El título de \"Sucesora\" no es adecuado para\nalguien que está en la cima."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Nunca podría conformarme con eso."
+    }
+  ]
+}

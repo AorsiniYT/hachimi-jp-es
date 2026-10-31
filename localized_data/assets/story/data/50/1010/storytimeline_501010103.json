@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy es el inicio del campamento de verano, donde\nlas Umamusume se entrenan para mejorar sus\nhabilidades."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Oye, Entrenador..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Escuché que los campamentos de verano japoneses\ntienen peleas de almohadas por la noche! ¿¡Es\nverdad!?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Entrenamiento agotador durante el día, luego\npeleas de almohadas cuando el sol se pone. Los\ncampamentos japoneses seguro que son salvajes...",
+      "choice_data_list": [
+        "(No creo que sea una regla estricta...)"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Pero eso no será un problema para mí! Mira, voy a\nser la primera velocista en la historia en\nconvertirme en ¡Umamusume del Año!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Voy a arrasar en mi entrenamiento <i>y</i> en mis peleas\nde almohadas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así comienza un emocionante campamento de verano\ncon Taiki Shuttle!"
+    }
+  ]
+}

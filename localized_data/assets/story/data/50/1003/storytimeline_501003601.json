@@ -1,0 +1,49 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tokai Teio",
+      "text": "Inhalar... y exhalar. Muy bien."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Uf. ¡Ejercicios de respiración, terminados!\nGracias por esperar, Entrenador!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Estoy lista para ganar hoy!",
+      "choice_data_list": [
+        "Pareces muy animado.",
+        "Pareces muy animado."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Jeje. Sí, un poco. ♪"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Voy a quedar bien esta vez. De hecho, ¡incluso\nquedaré primero!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "O sea, para mí, es pan comido. ¿Tú también lo\ncrees, verdad?",
+      "choice_data_list": [
+        "Sí.",
+        "Sí."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Bien. ¡Eso me gusta escuchar, Entrenador!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Bueno, me voy. ¡A la victoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todo entusiasmado, Tokai Teio se dirige hacia la\npista."
+    }
+  ]
+}

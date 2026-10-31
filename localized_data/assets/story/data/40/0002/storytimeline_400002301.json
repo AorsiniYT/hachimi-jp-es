@@ -1,0 +1,100 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, salgo a buscar algunos snacks ricos en\nproteínas para el entrenamiento de nuestro equipo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo...",
+      "choice_data_list": [
+        "(¡No encuentro nada adecuado!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Justo cuando estoy a punto de caer en el pozo de\nla desesperación, una voz aguda atraviesa mis\npensamientos."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "¿Qué estás haciendo? Estás en el camino de todos.",
+      "choice_data_list": [
+        "¡Sra. Kashimoto! Bueno, eh..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le explico vacilantemente la situación."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Así que, en resumen, buscas snacks baratos,\nfáciles de encontrar y ricos en proteínas que\nvengan en porciones pequeñas..."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Creo que los palitos de kinako serían una buena\nelección, entonces.",
+      "choice_data_list": [
+        "¡Oh! ¡Eso suena perfecto!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dado que el kinako es simplemente polvo de soja\ntostada, es rico en proteínas, y los palitos son\nun tamaño perfecto para snacks para llevar."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Es un poco lejos, pero hay una tiendecita tres\ncuadras más abajo y a la derecha que los tiene."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Venden bolsas de tamaño económico con porciones\nindividualmente empaquetadas, y tienen un precio\nmuy justo."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Solo ten en cuenta que el kinako tiende a secar la\nboca, así que asegúrate de preparar suficientes\nbebidas para tus corredoras también."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me quedo boquiabierta ante la rapidez con la que\nla Sra. Kashimoto fue capaz de encontrar una\nsolución a mi problema.",
+      "choice_data_list": [
+        "Vaya, es increíble lo rápido que se te ocurrió\neso."
+      ]
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Es un hábito mío. No puedo evitar recordar\ncualquier tienda y ubicación que encuentre que los\nvenda.",
+      "choice_data_list": [
+        "¿Eres fanática de los palitos de kinako?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un rastro de oscuridad cruza la expresión\nnormalmente fría de la Sra. Kashimoto ante mi\npregunta."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Una Umamusume que entrené una vez los adoraba."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "..."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Disculpa. Debo irme."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Se va antes de que pueda detenerla."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su expresión al despedirse es tan dolorosa que no\npuedo evitar recordarla mucho después de que se\nfue..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La buena noticia es que los palitos de kinako que\nella recomendó son un éxito con el equipo, y tengo\nun nuevo snack para agregar a sus dietas."
+    }
+  ]
+}

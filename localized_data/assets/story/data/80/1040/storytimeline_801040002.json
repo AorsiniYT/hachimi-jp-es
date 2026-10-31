@@ -1,0 +1,49 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, en la plaza central..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Huh, parece que tengo un mensaje de mi agente.\nVeamos... necesitan que haga algunas tomas de\ndetalle después de esto, ¿eh?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Urk, ¡pero tengo entrenamiento entonces! ¿Por qué\nestos conflictos de programación siguen pasando...",
+      "choice_data_list": [
+        "Pareces bastante ocupada. ¿Todo bien?",
+        "Pareces bastante ocupada. ¿Todo bien?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Oh, eres tú. Gracias por la preocupación, pero fui\nyo quien decidió asumir todo esto, así que está\nbien."
+    },
+    {
+      "name": "Gold City",
+      "text": "Mi carrera se acerca pronto, sin embargo, así que\nvoy a tener mucho en mi plato...",
+      "choice_data_list": [
+        "¡Concéntrate en lo que tienes a mano por ahora!",
+        "¿Te gustaría una bebida energética?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...Sí, tienes razón. No tengo tiempo para ser\nindecisa."
+    },
+    {
+      "name": "Gold City",
+      "text": "Solo tengo que hacer las cosas una por una... Está\nbien, puedo con esto. Gracias por el consejo."
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Eh? ¿En serio? Eres un salvavidas. Presentarse a\nuna sesión como un zombi no grita precisamente\nprofesional."
+    },
+    {
+      "name": "Gold City",
+      "text": "Genial, ahora estoy lista para conquistar el\nmundo. Gracias de nuevo por la bebida. Haré lo\nmejor que pueda en la sesión y en mi carrera."
+    }
+  ]
+}

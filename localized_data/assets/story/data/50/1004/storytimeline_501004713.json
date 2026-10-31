@@ -1,0 +1,111 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Maruzensky",
+      "text": "Me equivoqué..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Pero una lesión menor como esta sanará en un abrir\ny cerrar de ojos",
+      "choice_data_list": [
+        "Deberías descansar adecuadamente, aunque sea una\nlesión menor",
+        "Hay esa resistencia juvenil. ¡Vamos a regresar al\nentrenamiento"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Eres un preocupón, Entrenador"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Eres un preocupón, Entrenador"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Pero eso solo muestra cuánto te importo. Y aquí\nestoy, haciéndote preocupar de nuevo...",
+      "choice_data_list": [
+        "Está bien",
+        "Está bien"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "No, no está bien. No quiero estresarte"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Desde lo más profundo de mi joven y trendy\ncorazón, lo siento"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agotada por todas las emociones, Maruzensky\ndescansa para poder estar lista para la próxima\ncarrera"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Claro que sí! ♪ Dame más charla de motivación,\nEntrenador",
+      "choice_data_list": [
+        "Maruzensky, la Umamusume más atrevida del planeta,\nni siquiera tiene la palabra 'cansada' en su\ndiccionario"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, Entrenador, eres un halagador"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, Entrenador, eres un halagador"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Jeje, ahora me has animado. Es hora de regresar al\nentrenamiento"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Te mostraré mi mejor, más <i>rápida y fresca </i>carrera"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ay, ay, ay",
+      "choice_data_list": [
+        "¿Maruzensky"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus síntomas habiendo empeorado, decidimos que\ndebería descansar hasta que su lesión sane"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Uno, dos, tres, cuatro. Esto es fácil, dame más"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Cinco, seis, siete, ocho. Estoy lista, no puedo\nesperar"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Qué crees, Entrenador",
+      "choice_data_list": [
+        "Eres increíble",
+        "Eres increíble"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Qué crees, Entrenador",
+      "choice_data_list": [
+        "Eres increíble",
+        "Eres increíble"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Verdad. Y aquí tienes un paso aún más\nimpresionante solo para ti"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Maruzensky se ve feliz mientras continúa trotando"
+    }
+  ]
+}

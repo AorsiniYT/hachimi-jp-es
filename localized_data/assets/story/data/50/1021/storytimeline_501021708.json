@@ -1,0 +1,59 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Síiii! ¡Conseguí el primer lugar!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Viste cómo volaba en ese último tramo?! ¡Acabas\nde probar el verdadero poder de White Lightnin'!",
+      "choice_data_list": [
+        "¡Fuiste genial!",
+        "¡Lo hiciste genial!",
+        "¡Intentemos ganar también nuestra próxima carrera!"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Viste cómo volaba en ese último tramo?! ¡Acabas\nde probar el verdadero poder de White Lightnin'!",
+      "choice_data_list": [
+        "¡Lo hiciste genial!",
+        "¡Lo hiciste genial!",
+        "¡Intentemos ganar también nuestra próxima carrera!"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Claro que sí! ¡Me siento increíble ahora mismo!\n¡Esto merece una celebración!",
+      "choice_data_list": [
+        "¿Qué te gustaría comer? Lo que quieras, yo invito.",
+        "¿Qué te gustaría comer? Lo que quieras, yo invito."
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Espera, ¿en serio?! ¡Puedo elegir <i>cualquier\ncosa?!</i> ¡No me voy a contener, así que mejor\npreparen la billetera!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Primero, tengo que comer okonomiyaki. Luego, es\nhora de takoyaki. Después, hay que agarrar udon y\nvísceras a la parrilla..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Un momento... ¡Eso es lo que siempre pido! Jeje,\nbueno, no hay que excederse. ¡Divirtámonos!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Por supuesto! Y no solo hablo de la próxima\ncarrera, sino de la que sigue, ¡y la que sigue a\n<i>esa</i> también!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Muy bien! ¡Entrenemos mientras la adrenalina aún\nestá corriendo!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡No voy a parar hasta que digan que soy la mejor\nde Japón!"
+    }
+  ]
+}

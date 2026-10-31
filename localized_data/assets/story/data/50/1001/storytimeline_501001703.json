@@ -1,0 +1,57 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de un día fuera juntos, Special Week y yo\nregresamos a la academia."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Gracias por hoy, Entrenador!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Jeje, me estoy acostumbrando a salir contigo así."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Pero aún hay tantas cosas que quiero que hagamos\njuntos! Como...",
+      "choice_data_list": [
+        "¿Ir a un parque de diversiones?",
+        "¿Ir de excursión?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Ooh, sí! ¡Un parque de diversiones!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Pensar en cómo reaccionarías en una montaña rusa o\nen una casa embrujada realmente me dan ganas de\nir."
+    },
+    {
+      "name": "Special Week",
+      "text": "No soy muy buena con las cosas aterradoras, pero\nhay algo en la emoción de todo eso..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Oh, pero ¡no te atrevas a aparecer detrás de mí en\nla casa embrujada!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Ooh, excursión! ¡Ni siquiera se me ocurrió!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Eso definitivamente me ayudaría a entrenar tanto\nmi cuerpo como mi alma!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Oh, ya sé! ¡Empaquemos algunos almuerzos para\npoder comer mientras admiramos el paisaje\nmontañoso!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Déjame el almuerzo a mí! Puede que no lo sepas,\npero hago estas salchichitas geniales que parecen\npulpos! ¡Jeje!"
+    }
+  ]
+}

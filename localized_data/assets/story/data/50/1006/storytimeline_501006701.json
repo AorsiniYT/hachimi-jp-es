@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Oguri Cap",
+      "text": "Oh, hola, Entrenador.",
+      "choice_data_list": [
+        "Pareces bastante animada.",
+        "Pareces bastante animada."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Tal vez fue porque tuve una cena muy abundante\nanoche, y luego me fui a la cama un poco más\ntemprano de lo usual."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "En mi pueblo, siempre decían: 'Acostarse temprano\ny levantarse temprano hace a una persona sana,\nrica y sabia.'"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hacer ejercicio en la mañana también ayuda mucho."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Deberías unirte alguna vez!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es un alivio ver a Oguri Cap tan llena de vida."
+    }
+  ]
+}

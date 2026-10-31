@@ -1,0 +1,45 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hechizados por la actuación de Agnes Tachyon en el\nOsaka Hai, muchos fans han venido hoy a animarla."
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Agnes Tachyon corre en la carrera hoy!"
+    },
+    {
+      "name": "Fan B",
+      "text": "Quizás haya escuchado ese nombre. ¿Quién es, ya me\nolvidé?"
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Es rara! Pero por alguna razón, no puedo evitar\nquerer animarla."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Bueno, bueno, hay bastantes aficionados presentes.",
+      "choice_data_list": [
+        "¡Cuántos más, mejor!",
+        "¡Cuántos más, mejor!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Sí. Es una excelente oportunidad para profundizar\nen la investigación sobre la importancia del apoyo\ndel público."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Aun así..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Estamos aquí en una carrera GI con el pleno apoyo\ndel público! ¡Todos los procedimientos están en\norden! ¡Je-je-je!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Hasta dónde podremos llegar hoy? ¡Mi cuerpo se\nestremece de anticipación!"
+    }
+  ]
+}

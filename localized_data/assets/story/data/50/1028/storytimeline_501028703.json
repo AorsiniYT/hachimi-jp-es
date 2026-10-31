@@ -1,0 +1,186 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estoy de regreso a casa con Hishi Akebono después\nde un día fuera cuando surge el tema del taller de\ncerámica al que asistimos."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Reservé una segunda sesión para nosotros! Solo\npude terminar el diseño la última vez, pero esta\nvez, voy a hacer realmente la olla!",
+      "choice_data_list": [
+        "¡Seguro que lo logras!"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Sí! ¡Ehehe! Me pregunto qué tipo de chanko\ndebería hacer en ella cuando esté lista? ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es nuestra segunda lección; tras aprender lo\nbásico, Hishi Akebono empieza en el torno, pero\npronto comete errores y los repite una y otra vez."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "<i>Suspiro...</i> ¡Hora del descanso!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Girar el barro es mucho más difícil de lo que\npensé. Se veía fácil, pero conseguir la presión y\nlos movimientos correctos es súper complicado!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Aún así, está saliendo mejor que cuando empecé por\nprimera vez. Apuesto a que cuanto más practique,\nmás cerca estaré de crear mi olla perfecta!",
+      "choice_data_list": [
+        "No dejas que nada te desanime, ¿eh, Akebono?",
+        "No dejas que nada te desanime, ¿eh, Akebono?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Hum? ¿Qué hay para desanimarse? La práctica hace\nal maestro, y estoy mejorando cada vez más ¡cuanto\nmás intento! ¡No tengo tiempo para enojarme!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Okay, el descanso terminó! ¡Hora de volver al\ntrabajo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No llegamos a hornear la olla de Hishi Akebono,\nasí que eso tendrá que esperar hasta la próxima\nvez. El día siguiente..."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Por favor, préstame tu ayuda!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Oh, ¿qué pasa? ¡Haré lo que sea para ayudar!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡¿En serio?! ¡Gracias! ¡Tengo una situación de\ncrisis en mis manos!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Tengo... tengo que preparar un almuerzo a tiempo\npara la excursión de mañana!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Excursión? No sabía que había una excursión\nmañana."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡La hay! No para nosotras, pero ves, tengo una\namiga cuyo hijo..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ya veo... Así que los padres están muy ocupados...\n¡Tenemos que preparar ese almuerzo para llevar!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Como aliada de la justicia, no puedo simplemente\nquedarme quieta y no hacer nada! Pero soy terrible\ncocinando, así que no hay manera de que pueda\narmar un almuerzo decente!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Solo déjame esto a mí, Biko! ¡Te enseñaré todo lo\nque necesitas saber!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Oho! ¡Te debo mi vida, Bono!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Aaah! ¡Quemé los huevos otra vez! ¡Y el salmón se\ndesintegró por completo!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Está bien! Solo corta las partes quemadas y\nmezcla el resto con el arroz!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Gah! ¡Mi mano resbaló y vertí un montón de azúcar\nsobre la carne!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Preparar la carne con azúcar ayuda a ablandarla,\n¡así que lo estás haciendo genial! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hishi Akebono ayuda y tranquiliza a Biko Pegasus\nen cada paso del camino."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La comida que hace está perfectamente bien, pero\ndespués de cometer tantos errores seguidos, Biko\nPegasus empieza a parecer un poco decaída."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Guh! ¡Este no es un enemigo fácil! Mis disculpas,\nsoy muy mala en esto!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Creo que lo estás haciendo bien! ☆ Tuvimos que\nhacer cambios en algunos de nuestros platos, pero\naún así salieron ¡ricos!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Pero si sigo cometiendo tantos errores, dudo que\npueda lograr esto mañana... A este ritmo, ¡mi\nalmuerzo será terrible!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Estarás bien, ¡no te preocupes! Todavía tenemos\ntiempo, y además, todos cometen errores cuando\nintentan algo nuevo.",
+      "choice_data_list": [
+        "¿Tú también solías cometer errores?",
+        "Tú también tuviste que practicar mucho, ¿eh?",
+        "Tú también tuviste que practicar mucho, ¿eh?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Estarás bien, ¡no te preocupes! Todavía tenemos\ntiempo, y además, todos cometen errores cuando\nintentan algo nuevo.",
+      "choice_data_list": [
+        "¿Tú también solías cometer errores?",
+        "Tú también tuviste que practicar mucho, ¿eh?",
+        "Tú también tuviste que practicar mucho, ¿eh?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Por supuesto! ¡Metí la pata muchas veces antes de\nfinalmente poder hacer las cosas bien."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Solo logré llegar hasta aquí porque nunca me\nrendí! ¡Tú también tienes que seguir así, Biko! ☆"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Ahora lo entiendo! Es lo mismo que ser un aliado\nde la justicia... ¡No debes rendirte! ¡SÍ! ¡Voy a\nseguir practicando duro!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Sí! ¡Tú puedes!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, Biko Pegasus prepara el almuerzo\nsin problemas. Así se resuelve la crisis y\nentiendo de dónde provienen la resistencia y\ndeterminación de Hishi Akebono."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Lo hice! ¡Practiqué más veces de las que podía\ncontar! Y cuando era niña, metí la pata mucho más\nveces de las que lo hice bien."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Pero seguí intentándolo porque quería comer comida\nrica, y sabía que esa sería la recompensa\nesperándome al final de mi agotador viaje! ☆"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Ciertamente... Algunos enemigos no pueden ser\nderrotados fácilmente. Pero es el deber de un\nhéroe enfrentarse a ellos en amarga batalla una y\notra vez hasta que sean derrotados!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Eso es exactamente correcto! ¡Sigamos así! ¡Te\ndaré toda la ayuda que necesites! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con la ayuda de Hishi Akebono, Biko Pegasus logra\nempacar el almuerzo sin problemas. La crisis se\nresuelve y aprendo el poder de la resiliencia y la\ndeterminación."
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Biwa Hayahide",
+      "text": "...¿Ella está aquí?"
+    },
+    {
+      "name": "Reportera",
+      "text": "¡Ah, Biwa Hayahide! Felicitaciones por tu premio\nURA para la división senior!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Muchas gracias. Es verdaderamente un honor\nrecibir tales elogios."
+    },
+    {
+      "name": "Reportera",
+      "text": "Los receptores del premio URA de este año son\nverdaderamente impresionantes, tú y Hishi Amazon\nincluidas.",
+      "color_text_info_list": [
+        "★★★"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sí, estoy de acuerdo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hishi Amazon tiene el logro espectacular de\nconvertirse en la Campeona de la Triple Tiara."
+    },
+    {
+      "name": "Reportera",
+      "text": "Es una lástima que tu hermana no esté presente.\nDesde el Satsuki Sho, estaba seguro de que sería\ninvitada..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "..."
+    },
+    {
+      "name": "Reportera",
+      "text": "¡Oh! ¡Disculpa mi divagación! Eh... Yo..."
+    },
+    {
+      "name": "Reportera",
+      "text": "¡No puedo esperar a verte correr de nuevo, así que\nestoy rezando para que tu pierna sane pronto!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ah..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Lo aprecio."
+    },
+    {
+      "text": "El entrenamiento se reanuda después de las\nvacaciones. Un día, después del entrenamiento..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Aún no son las seis.",
+      "choice_data_list": [
+        "Bueno, es invierno.",
+        "Bueno, es invierno."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Aún puedo correr.",
+      "choice_data_list": [
+        "Cuidar tu salud también es parte de tu\nentrenamiento."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Pff..."
+    },
+    {
+      "text": "Es genial que tenga espíritu, pero el aire frío\ndel invierno puede dar lugar a una variedad de\nproblemas."
+    },
+    {
+      "text": "Tomando eso en consideración, he tenido especial\ncuidado con los tiempos de calentamiento y\nenfriamiento.",
+      "choice_data_list": [
+        "Quiero asegurarme de que no te lesiones.",
+        "Quiero asegurarme de que no te lesiones."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Tan preocupadizo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Bien. Pero no puedo ponerme más fuerte descansando\ntodo el tiempo. Lo sé muy bien."
+    },
+    {
+      "text": "Después de limpiar, escolto a Narita Brian de\nvuelta a su dormitorio. En el camino..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Ah."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Oye, Hermana. ¿Vas de regreso?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Oh, ¿estuviste entrenando hasta ahora? Estás\ntrabajando muy duro, ¿eh?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "En realidad, terminamos temprano por la nerviosa\nNellie de aquí.",
+      "choice_data_list": [
+        "¡El entrenamiento fue el mismo de siempre!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hmph..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jeje. Parece que ustedes dos forman un buen\nequipo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Brian normalmente no está dispuesta a escuchar lo\nque otros tienen que decir."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Escucho. Si me hará más fuerte."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Mi entrenador no es un inútil. Eso me quedó claro\ndesde que superamos la Serie Twinkle el año\npasado."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Seguro que aún no entiendo completamente qué es la\nfuerza."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Así que quiero aprender. Y quiero la fuerza para\ncompetir contra los oponentes más difíciles.",
+      "choice_data_list": [
+        "Y estoy aquí para apoyarte.",
+        "Y estoy aquí para apoyarte."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Sí."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Ustedes dos son serios sobre correr hasta el\namargo final."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Eres exactamente el tipo de persona contra la\nque quería competir"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Estás bien, Hermana?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...A-Ah. No es nada, perdón..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Oye, Brian. ¿Qué tal un partido de práctica?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Espero con ansias el día en que pueda enfrentarme\ncontra ti como rival. Aún no puedo hacer la\ndistancia de una carrera regular, pero quizás si\nfuera cor—"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Gracias, pero no. Ahora mismo, aún estoy\ntrabajando en mí misma, y te considero uno de los\noponentes más fuertes que tengo que derrotar."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Si es una carrera lo que quieres, ¿qué mejor lugar\nque un G1?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Ya veo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Perdón por hacerte esperar. Nos vemos luego."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...",
+      "choice_data_list": [
+        "Sería bueno si pudieras competir contra Biwa\nHayahide este año.",
+        "Sería bueno si pudieras competir contra Biwa\nHayahide este año."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Sí. Como ya sabes, mi hermana es fuerte."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Pero no voy a perder. Planeo dejar a todos en el\nG1 en el polvo!"
+    }
+  ]
+}

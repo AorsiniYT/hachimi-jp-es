@@ -1,0 +1,96 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una pila de cartas llega para Curren Chan. Todas\nparecen ser cartas de fans."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Wow! ¿Todas son para mí? ¡Estoy tan feliz! ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Oye, Hermano. ¿Está bien si leo mis cartas aquí?"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Oye, Hermana. ¿Está bien si leo mis cartas aquí?"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Creo que podrían ser demasiadas para llevar de\nvuelta a mi habitación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me imagino que tres cajas llenas de cartas de fans\nciertamente ocuparían un poco de espacio en su\ndormitorio.",
+      "choice_data_list": [
+        "Por supuesto."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Gracias. ♪ Entonces me tomaré mi tiempo y las\nleeré una por una. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hay tantas cartas. Leerlas todas va a tomar algún\ntiempo. Debería conseguirle una bebida."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hiervo agua y le preparo un té. Cuando intento\ndárselo..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Todas las cartas de fans están aquí en esta\nhabitación, ¿verdad?",
+      "choice_data_list": [
+        "Sí.",
+        "Sí."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Todas las cartas de fans están aquí en esta\nhabitación, ¿verdad?",
+      "choice_data_list": [
+        "Sí.",
+        "Sí."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Bien. Supongo que esa es la última, entonces.",
+      "choice_data_list": [
+        "¿¡Ya las leíste todas!?",
+        "¿¡Ya las leíste todas!?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Sí. Después de todo, son cartas de mis fans."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Si fuera mi fan, querría que mi carta fuera leída\nlo antes posible."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hehe. Debería hacer una publicación en Umastagram\ndiciendo que las he leído todas. Hm..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "\"#PublicaciónDeRespuesta #GraciasATodos\"\n\"#MamáDeHaruko #IntentaréEseMasaje\" \"#SraSeisei\n#CambiasteElColorDeTuBolígrafoJajaja\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Curren Chan responde a sus fans con gran\nvelocidad y detalle."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siento que estoy empezando a entender por qué sus\nfans la quieren tanto."
+    }
+  ]
+}

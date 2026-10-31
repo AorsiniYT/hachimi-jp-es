@@ -1,0 +1,95 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Aplausos, aplausos, aplausos!</i>"
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Vaya, Yukino Bijin estuvo increíble! La verdad,\nno tenía idea de que pudiera correr así."
+    },
+    {
+      "name": "Espectador A",
+      "text": "Bueno, participó en el Oka Shō y el Oaks japonés.\nCualquiera que logre eso tiene que ser fuerte."
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Sigue así, Yukino Bijin!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Lo haré! ¡Montones de gracias!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Viste, entrenadora?",
+      "choice_data_list": [
+        "¡Vaya aplausos que te dieron!",
+        "¡Vaya aplausos que te dieron!"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Ya sé! Todos aquí son tan amables."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Supongo que solo tengo que preocuparme por correr\nbien."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Debí verme bien segura de mí misma ahí afuera!",
+      "choice_data_list": [
+        "¿Con seguridad?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Sí. ¿Te acuerdas de que me ayudaste a relajarme\nantes de la carrera?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Después de soltar todo ese estrés, siento que por\nfin pude ser yo misma ahí afuera."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Estoy... realmente orgullosa de lo que hice hoy.",
+      "choice_data_list": [
+        "¡Estuviste increíble!",
+        "¡Estuviste genial!"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ehehe.",
+      "choice_data_list": [
+        "¿Ahora puedes lograrlo de nuevo en el Shuka Sho?!"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Claro que sí!"
+    },
+    {
+      "name": "Transeúnte A",
+      "text": "Yukino es una monada. Con esa carita, cada vez va\na ser más popular."
+    },
+    {
+      "name": "Transeúnte B",
+      "text": "Hablando de eso, ¿viste el peluche que acaban de\nsacar? ¡Tengo que conseguir uno!"
+    },
+    {
+      "name": "Transeúnte B",
+      "text": "¡Ay, sí! ¡Deberíamos llevárselos en su próxima\ncarrera! ¡Me subí al tren de la emoción y no\npienso bajarme! ¡Chucu-chuuu!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡De acuerdo!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Voy a ganar el Shuka Sho!"
+    }
+  ]
+}

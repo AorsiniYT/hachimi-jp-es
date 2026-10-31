@@ -1,0 +1,223 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es el día de las carreras de clasificación..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Hoy es el día! <i>¡Sé que </i>esta vez voy a ganar!",
+      "choice_data_list": [
+        "Alguien está de buen humor.",
+        "Alguien está de buen humor."
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Bueno, sí! He entrenado <i>tan</i> duro, y comido <i>tantas</i>\nzanahorias, ¿¡cómo no <i>podría</i> estarlo?!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Aunque, puede que haya comido demasiadas\nzanahorias, hehe. ¡Estoy segura de que está bien!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Así que aquí es donde has estado."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Estamos aquí para animarte, Urara!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡King! ¡Spe! ¡Gracias por venir, chicos!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Entrenaste con la poderosa King Halo en persona,\nsolo tienes que salir allá y ganar ahora."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí, no hay problema! ¡Definitivamente ganaré\nesta!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Sé que puedes hacerlo! Solo recuerda tu\nentrenamiento, y ¡volarás por la pista!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Recordar mi entrenamiento... ¡Ok!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Solo pensaré en todas las veces que te llenaste\nla cara con snacks! ¡O la vez que tropezaste y te\ncubriste de barro!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡N-no tienes que recordar <i>esas</i> partes del\nentrenamiento!"
+    },
+    {
+      "name": "Anunciadora",
+      "text": "La tercera carrera de clasificación comenzará en\nbreve. Corredores, por favor diríjanse a la puerta\nde salida."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ah, esa soy yo! ¡Mejor me voy!",
+      "choice_data_list": [
+        "¡Buena suerte!",
+        "¡Buena suerte!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Gracias! ¡No dejes de mirarme, ¿vale? ¡Nos vemos\ndespués de la carrera!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por fin, la carrera de clasificación de Haru Urara\ncomienza."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Las corredoras están corriendo por el curso de\ntierra, sin duda con la Twinkle Series en sus\nmentes!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¿Ahora quién es esta que va en la retaguardia?\n¡Por supuesto, es Haru Urara!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¿Podría estar conservando su energía... no lo\nparece! ¡Está dando todo de sí, pero aún así va\nrezagada detrás del grupo!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Puedes hacerlo, Urara!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Dale todo lo que tienes!"
+    },
+    {
+      "name": "Granjero",
+      "text": "¡Vamos, Urara, vamos!"
+    },
+    {
+      "name": "Vecina",
+      "text": "¡Muéstrales de qué estás hecha!",
+      "choice_data_list": [
+        "¡Vamos, Urara!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todos los que han tenido sus espíritus elevados\npor el optimismo contagioso de Haru Urara se han\nreunido para animarla."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras la carrera llega a su conclusión..."
+    },
+    {
+      "name": "Locutor",
+      "text": "...¡Y cruza la línea! ¡Nuestra ganadora ha\nterminado, seguida poco después por el resto del\ngrupo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿El trabajo duro de la siempre animosa corredora\ndará frutos al fin? La colocación final de Haru\nUrara es..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Wuju! ¡Noveno lugar! ¡Nunca me había ido tan bien\nantes!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Felicitaciones, Urara! Esa fue una carrera\nasombrosa."
+    },
+    {
+      "name": "King Halo",
+      "text": "En efecto. Diste todo de ti, hasta el mismo final."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Supongo que esa es la emocionante cosa sobre las\ncarreras. ¡Nunca sabes qué va a pasar!"
+    },
+    {
+      "name": "Granjero",
+      "text": "Buen trabajo hoy, Urara. ¡Aquí, estas zanahorias\nson por cortesía de la casa!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿¡En serio?! ¡Yippee! ¡Esto es justo lo que\nnecesito para prepararme para la próxima carrera!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Haru Urara termina novena de diez\ncorredoras."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Bueno, eso se encarga de las carreras de\nclasificación. ¡Qué divertido!",
+      "choice_data_list": [
+        "Tu trabajo duro dio frutos.",
+        "Tu trabajo duro dio frutos."
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Ehehe, todavía no puedo creerlo. ¡Noveno lugar!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Pero sé <i>que la próxima </i>vez voy a quedar en primer\nlugar! ¡No puedo esperar a los próximos\ntryouts...!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ser tan optimista frente a la derrota no es tan\nsimple como ella lo hace parecer."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Quizás eso es lo que hace a Haru Urara tan\nconvincente para las personas que la rodean...\nincluyéndome a mí.",
+      "choice_data_list": [
+        "Entonces, ¿quieres apuntar al primer lugar con\nmigo?",
+        "Entonces, ¿quieres apuntar al primer lugar con\nmigo?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿¡Guau?! ¡Vas a ayudarme a entrenar más?!",
+      "choice_data_list": [
+        "¡Por eso te estoy reclutando!",
+        "¡Por eso te estoy reclutando!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Reclutándome...?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿¡Qué?! ¿¡Quieres reclutar <i>¡A MÍ?!</i>¿¡En serio?!",
+      "choice_data_list": [
+        "En serio."
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Yippee! ¡Entonces eso significa que puedo correr\nen la Twinkle Series!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Si hago mi debut allí, ¡podré correr en todo tipo\nde carreras!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Y quedaré en primer lugar en cada una! Oooh, ¡no\npuedo esperar!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Gracias por reclutarme! ¡Haré que valga la pena y\nganaré montones y montones de carreras!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con ese decreto, mi viaje con la infinitamente\noptimista Haru Urara comienza."
+    }
+  ]
+}

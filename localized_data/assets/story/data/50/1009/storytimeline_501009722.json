@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet no parece sentirse muy bien."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ngh... Ugh...",
+      "choice_data_list": [
+        "¿Estás bien?",
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Estoy bien. Solo es un dolor de cabeza."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Me quedé despierto estudiando anoche, así que\nprobablemente sea por eso."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "No es nada por lo que debas preocuparte. Una vez\nque tome un poco de medicina, estaré bien como—"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Ay!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ugh, ¡caramba! ¡Esto me está poniendo nervioso!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet se lamenta por su dolor de cabeza."
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "<i>Suuu...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Han pasado tres días desde que me dejaron en esta\nisla desierta. Las pocas provisiones que traje se\nhan acabado hace mucho y, desafortunadamente, mi\nteléfono sigue sin señal de servicio.",
+      "choice_data_list": [
+        "(No puedo... seguir...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Qué descanso tan terrible resultó ser. Nunca debí\nhaberme inscrito en ese tour de la isla. O, al\nmenos, debí haber memorizado cuándo salía el <i>barco\nde regreso.</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No puedo volver el tiempo. Esta es mi realidad.\nCierro los ojos, el corazón se llena de\narrepentimiento. Nunca podré ayudar a las\nUmamusume a alcanzar su máximo potencial..."
+    },
+    {
+      "name": "???",
+      "text": "¡Oye! ¿Estás bien?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El sonido de la voz de alguien me devuelve a este\nplano mortal. No la reconozco, pero quienquiera\nque sea, su voz es tan suave y cálida."
+    },
+    {
+      "name": "???",
+      "text": "Debes haber pasado por un momento muy difícil,\n¿eh? Bueno, no tienes que preocuparte más. Aquí,\nbebe. ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La amable desconocida me ayuda a sentarme y me\npone una taza en los labios. Esta voz benevolente,\nesta sensación de seguridad, este abrazo fuerte y\nsólido... Seguramente, he encontrado...",
+      "choice_data_list": [
+        "(Una diosa...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de terminar el agua, esas manos cálidas me\ntraen un tazón de sopa de miso. Mientras devoro\ncon ansias la deliciosa sopa, mi conciencia, que\nantes estaba confusa, comienza a aclararse."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y resulta que mi \"diosa\" es en realidad Hishi\nAkebono."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Jajaja, mírate devorarla. Me alegra haber traído\nun poco de sopa de miso casera conmigo."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Pero qué sorpresa fue esto. Nunca pensé que\nencontraría a una entrenadora de la escuela\ndesmayada en la playa."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Acabo de contactar con el ferry de regreso por\nradio, así que no te preocupes. Ambos estaremos de\nvuelta en casa en un abrir y cerrar de ojos. ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esta no es la primera vez que veo esa sonrisa\namigable. De repente, me transporto al reciente\nTracen Meet, donde los estudiantes que aún no han\ndebutado compiten..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Adivina qué, todos. ¡A partir de esta mañana, mido\noficialmente más de 180 centímetros de altura!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡WOOOO!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Para celebrar, voy a darlo todo en esta carrera."
+    },
+    {
+      "name": "Locutor",
+      "text": "Cada corredora ha entrado en su puerta. La carrera\nde 1.200 metros en césped del Tracen Meet...\ncomienza."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "Hishi Akebono sigue creciendo más y más. Tiene que\nser la Umamusume más grande en Tracen ahora,\n¿verdad?"
+    },
+    {
+      "name": "Skilled Trainer B",
+      "text": "Creo que sí. Y sabe cómo usar ese gran cuerpo en\nlas carreras... He oído que muchos entrenadores\ntienen puestos los ojos en ella."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Guaaaaah!"
+    },
+    {
+      "name": "Locutor",
+      "text": "Al cruzar la meta con una gran ventaja, es Hishi\nAkebono. ¡Ha tomado el primer lugar en la carrera\nde hoy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todavía recuerdo cómo se llevó a la competencia\ncon su velocidad y fuerza. Pero... ¿qué hace aquí?"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Por qué, recogiendo kombu, tonta? Soy amiga del\nviejo pescador, así que me dejó subir con él."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Verás, el kombu de aquí está lleno de montones de\n<i>minerales, </i>lo que lo hace perfecto para un\ncaldo de buono dashi."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Hablando de comida, debes estar muerto de hambre.\n¿Por qué no preparo algo para ti en un momento?",
+      "choice_data_list": [
+        "Espera, ¿aquí?",
+        "Espera, ¿aquí?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Claro! ☆ Traje mi kit de cocina al aire libre\nconmigo después de todo. ♪ Oh, y creo que tengo\nalgunas hierbas silvestres también... ¡Lo sé!\nPrepararemos un caldo caliente de mariscos."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Imagina todos esos deliciosos pescaditos\nabsorbiendo todo ese caldo... Mi estómago gruñe\nsolo de pensarlo."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Esto lo decide. ¡Mejor empezar el fuego! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como una campista experta, Hishi Akebono arma su\nolla en un abrir y cerrar de ojos. Va a encender\nel fuego..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ay, caliente, caliente. Jajaja... Empezar un fuego\nnunca se vuelve más fácil, ¿eh... Ah, un cangrejo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Antes de darme cuenta, tiene una montaña de\nmariscos delante de ella, que prepara en un abrir\ny cerrar de ojos."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Mmm... ¡Ahora huele bien! Lástima que no trajera\nfideos udon para remojar el caldo extra."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, ante nosotros se sienta un delicioso caldo\nde mariscos."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Bueno, ¡coman! ☆ Estoy segura de que sabe aún más\nbuono.",
+      "choice_data_list": [
+        "Tan... tan bueno"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ajaja, me alegra escucharlo"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me zampo el caldo como en trance. Cuando\nfinalmente miro hacia arriba desde mi tazón, veo a\nHishi Akebono sonriendo mientras me observa comer."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Es buono!",
+      "choice_data_list": [
+        "Súper buono"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ehehe... Puedo decirlo por tu cara. Me encanta ver\na la gente disfrutar de mi comida. Si tan solo\npudiera encontrar un entrenador que lo entienda..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Pero cuando se lo explico a los que me están\nbuscando, todos me miran como si tuviera tres\ncabezas."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Y por eso, todavía no tengo un entrenador..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ah, espera un minuto. ¿Y tú? ¿Te <i>gustaría </i>ser mi\nentrenador?",
+      "choice_data_list": [
+        "¿¡Qué?!"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Si dices sí, verás... Te haré sopa de miso todos\nlos días"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dejando a un lado la oferta de la sopa de miso...\nSu carrera <i>sí</i> dejó una impresión en mí, y tengo\nque admitir que tiene un encanto único.",
+      "choice_data_list": [
+        "(<i>Tengo</i> curiosidad por verla crecer.)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mi mente está decidida, asiento con la cabeza,\nseñalizando mi aprobación."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Genial! ¿¡De verdad?! ¡Hurra! ♪"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ehehe, me alegra haber venido aquí hoy. No puedo\nesperar para empezar a entrenar contigo"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Lo sé! Para celebrar, ¿qué tal si hago tu comida\nfavorita? ¿Qué te gustaría? ¿Qué? ¿Qué?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "encantada por su entusiasmo, le digo mis comidas\nfavoritas sin pensarlo dos veces... Y así, mis\ndías con Hishi Akebono han comenzado."
+    }
+  ]
+}

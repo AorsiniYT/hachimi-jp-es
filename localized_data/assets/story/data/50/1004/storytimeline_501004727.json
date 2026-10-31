@@ -1,0 +1,39 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Maruzensky",
+      "text": "¡Increíble! ¡Lo lograste! ¡Eso estuvo fuera de\nserie!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Gracias, Entrenador! ♪",
+      "choice_data_list": [
+        "Pero... hay tantos..."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Gracias, Entrenador! ♪",
+      "choice_data_list": [
+        "Pero... hay tantos..."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡No te preocupes! Si me quedo sin espacio en mi\nhabitación, siempre puedo usarlos para decorar a\nTata!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Son regalos tuyos, así que cuidaré muy bien de\ntodos ellos!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Son regalos tuyos, así que cuidaré muy bien de\ntodos ellos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡No podría haber salido mejor!"
+    }
+  ]
+}

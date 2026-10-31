@@ -1,0 +1,188 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Estoy paseando con Meisho Doto, cuando escucho un\nsusurro llamándome..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Disculpe! Sé que es repentino, pero ¿tiene un\nmomento?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Creo que esta billetera pertenece a Doto... Aquí,\npor favor tome esto, pero ¡no diga nada!",
+      "choice_data_list": [
+        "Pero ella está justo a nuestro lado."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "S-sí, hola. Estoy justo aquí..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "S-sí, soy <i>muy</i> consciente de eso, pero... Nghhh...\nYo nunca podría entregarle algo directamente a una\nUmamusume con estas sucias manos de otaku."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Quiero decir, ¡solo respirar el mismo aire está\nafectando totalmente mi pulso!"
+    },
+    {
+      "text": "Tranquilizo a Agnes Digital de su estado de pánico\ninducido, reunificando exitosamente la billetera\ncon su dueña."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Estoy tan feliz de que te hayas molestado en\ndevolvérmela. Ohhh, muchas gracias."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Además... Me gustaría saber si quieres algo a\ncambio. Debería... devolver el... favor."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Eep?! Yo, yo no puedo aceptar nada! Tus palabras\nde gracias son suficientes, ¡si no demasiado!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "E-e-e-eso no puede ser suficiente! Seguro, debe\nhaber... algo que pueda hacer..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Asdfsdfg?!! Detente... ¡eres demasiado <i>linda!</i>\nDebo encerrar esa expresión en el santuario de mi\nmente para siempre."
+    },
+    {
+      "text": "Esta conversación no va a ninguna parte. Tal vez\nsi le ofergo algo que a Agnes Digital le\ngustaría...",
+      "choice_data_list": [
+        "¿Qué tal si les tomo una foto a las dos?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Qué? Eso no infringirá ninguna ley, ¿verdad?!\n¿Esto realmente, realmente, realmente <i>realmente</i>\nestá permitido?"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Eep... ¡una foto! Lo haré... lo mejor que pueda!"
+    },
+    {
+      "text": "Cambiamos de ubicación para conseguir un buen\nángulo, pero Meisho Doto está rígida como una\nroca."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Hwah... Uh... Uh... Uh!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Hnngh! ¡Es tan tímida que podría morir—una diosa\nvive entre nosotros! ¡La ternura irradia de cada\nporo!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿H-huuuh?! ¿A-adorable?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡OmiGOSH!!! ¡Mira su sonrojo! Apenas puede\ncontener su emoción, ¡y ella lo sabe!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "E-espera, ¿me estoy sonrojando?! ¡Esto es tan\nvergonzoso!",
+      "choice_data_list": [
+        "Muy bien, ¡veamos si podemos conseguir una\nsonrisa!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Uwahh! ¡E-está bien!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Eh... ¿así? Hm... hm?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Aghskdlf! Ese intento desesperado de sonrisa...\nDoto, ¡eres tan tan tan adooooorable!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Q-q-qué? ...Espera, ¿q-q-qué?!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡No p-puedo sonreír?! ¿Q-q-qué hago ahooora?!",
+      "choice_data_list": [
+        "Intenta imaginar una sonrisa en tu cabeza.",
+        "¿Por qué no das un pequeño paseo?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh... e... está bien! Eh... ¡Allá voy!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡HAAAAH ja ja ja!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡ESPERA! ¿E-e-eso, por casualidad, es tu imitación\nde Opera O?!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡E-e-eso es! Disculpas por la molestia, pero su\nsonrisa y risa fueron lo más memorable para mí!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Haaah ja ja ja! ¡HAAAH JA JA JA!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Bueno... ¿e-estoy sonriendo ahora?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Tan preciosa... Te seguiría por siempre... N-no es\nque no te estuviera siguiendo ya!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡HAAAH HA—<i>¡Tos, arcada!</i>"
+    },
+    {
+      "text": "Reír demasiado deja a Meisho Doto con un ataque de\ntos, pero logra completar la foto."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡E-está bien! ¡Despejaré mi mente con un poco de\ncarrera!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Kyaaaaghgh!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "...C-creo que me excedí un poco.<i>Haa... Resuello...</i>\nEstoy en mi límite."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Whoa whoa! Mis piernas se enredaron... ¡Oh no!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Hwaaugh!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh no, ¡lo siento muchísimo, <i>mucho</i>! No quería\nabrazarte... ¡Lo siento muchísimo por esto!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Ack, gugh, ¡no! Esto es tabú! Hemos cruzado la\nlínea que nunca debió ser cr... cr... cr..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Heh... hehe! ¡No! Esto está mal! ¡Tan mal! Pero no\npuedo dejar de sonreír! ♪"
+    },
+    {
+      "text": "Qué escena tan conmovedora. Les tomo una foto del\nmomento para dárselas."
+    }
+  ]
+}

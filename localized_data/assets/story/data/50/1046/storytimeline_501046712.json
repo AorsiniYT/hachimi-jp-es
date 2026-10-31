@@ -1,0 +1,45 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Smart Falcon no aparece para el entrenamiento de\nhoy. Preocupado, voy a buscarla..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Hm, hm, hm! ¡Sííí! ♪"
+    },
+    {
+      "text": "La veo saliendo de la tienda de música frente a la\nestación.",
+      "choice_data_list": [
+        "Alguien parece estar de buen humor.",
+        "Alguien parece estar de buen humor."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oh, hola, Entrenador! ¡Sí, estoy de un humor\nfabuloso!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Acabo de comprar el lanzamiento más reciente de\nGold ☆ White! ¡Son mi grupo de ídolas favorito!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Este álbum en particular es tan lindo! Desde las\ncanciones hasta el arte del álbum, hasta sus\natuendos! <i>Suspiro...</i> Simplemente son los\nmejores...",
+      "choice_data_list": [
+        "...¿Tanto que te olvidaste del entrenamiento?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Ah!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "E-ehehe... ☆ Lo siento, Entrenador..."
+    },
+    {
+      "text": "Smart Falcon se disculpa dulcemente. Sin embargo,\neso no es suficiente para sacarla de problemas. Le\ndoy una buena regañina."
+    }
+  ]
+}

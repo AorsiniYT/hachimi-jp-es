@@ -1,0 +1,167 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, después de que Haru Urara tiene varias\nvictorias en su haber..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Uno, dos! ¡Uno, dos! ¡Uno, dos..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Entrenador! ¡Terminé mi carrera! ¿Qué sigue?",
+      "choice_data_list": [
+        "¡Tomemos un descanso!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Vale, vale!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Recientemente, Haru Urara ha estado trabajando aún\nmás duro que antes. Me pregunto si hay algo que\npueda hacer para recompensar sus esfuerzos..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Quiero un premio! ¡Llévame a las aguas termales\ncomo premio algún día!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Oh, ahora recuerdo!",
+      "choice_data_list": [
+        "Oye, ¿qué tal un viaje a las aguas termales,\nUrara?",
+        "Oye, ¿qué tal un viaje a las aguas termales,\nUrara?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿¡De verdad?! ¡Vamos, vamoooos!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Pero por qué allá?",
+      "choice_data_list": [
+        "Ganaste un viaje en el sorteo, ¿recuerdas?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Eh? ¿En el sorteo? ¿Cuándo fue eso, otra vez?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "No recuerdo realmente, pero <i>¡yay!</i> ¡Voy a ir a las\naguas termales!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Aguas termales! ¡Aguas termales! ¡Urara, la la\nla!♪",
+      "choice_data_list": [
+        "Entonces, ¿a cuál de tus amigas quieres invitar?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Eh? ¿Qué quieres decir?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Quiero ir <i>contigo!</i>",
+      "choice_data_list": [
+        "¿Yo?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Antes de que siquiera sepa qué está pasando..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bañándome en las aguas termales..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "<i>¡Uf!</i> ♪ El agua se sintió increíble, ¿eh,\nEntrenador? ♪"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Pudiste relajarte? ¿Te sientes renovado?",
+      "choice_data_list": [
+        "¡Sí, completamente!",
+        "¡Sí, completamente!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Hmmm..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Guau! ¡Sí, se te nota! ¡Debes haber metido todo\nel cuerpo!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Vale, ¡ahora pasemos a tu habitación!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Te daré un masaje! ¡Mi familia dice que doy los\nmejores masajes!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Siempre trabajas tan duro, Entrenador! Estoy\nsegura de que tus hombros agradecerían un poco de\nalivio.",
+      "choice_data_list": [
+        "Me encantaría, pero... ¿por qué haces esto?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Hoy es un premio para los dos!",
+      "choice_data_list": [
+        "¿Para mí también?",
+        "¿Para mí también?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí! Porque si yo trabajo duro, ¡eso significa que\ntú también!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Así que tratémonos hoy!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Te daré un masaje, y mientras, ¡divirtámonos\ncharlando!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Y... je..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Tu sonrisa será <i>mi</i> premio!",
+      "choice_data_list": [
+        "Gracias, Urara. Eso es muy dulce."
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Jejé! ♪"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Espero que te guste tu premio!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, ambos nos relajamos y disfrutamos\nnuestros premios."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siento que Haru Urara y yo hemos formado un\nvínculo irremplazable durante este tiempo juntos."
+    }
+  ]
+}

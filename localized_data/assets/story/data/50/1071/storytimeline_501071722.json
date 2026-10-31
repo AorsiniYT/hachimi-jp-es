@@ -1,0 +1,35 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "No estoy segura de qué es, pero tengo la sensación\nde que Mejiro Ardan no se siente ella misma hoy...",
+      "choice_data_list": [
+        "¿Cómo te sientes?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Oh... Veo que puedes notar que algo anda mal."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "La verdad, desperté con un leve dolor de cabeza\nesta mañana."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "No es motivo de preocupación, pero. He\nexperimentado cosas peores que—Ngh...",
+      "choice_data_list": [
+        "Tómalo con calma, ¿vale?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Gracias por tu preocupación, Entrenador. Veré si\nmi condición mejora antes de reanudar el\nentrenamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Ardan fuerza una sonrisa, pero el dolor de\ncabeza continúa molestándola por un tiempo."
+    }
+  ]
+}

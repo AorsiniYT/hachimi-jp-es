@@ -1,0 +1,301 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Recientemente, un nuevo juego llamado \"Uma\nRiddles\" se ha puesto de moda entre los\nestudiantes de la academia."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Consiste en resolver una serie de acertijos\ndejados por la escuela, y Sakura Bakushin O\ndecidió aceptar el desafío después de que un\ncompañero le recomendara intentarlo."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Aaagh! ¡No tengo la más remota idea!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Siendo una estudiante modelo, ¡debería estar\nliderando la carga para resolver este misterio!\n¡Pero no estoy llegando a ninguna parte!",
+      "choice_data_list": [
+        "¿Necesitas una mano?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Oooh! Aunque estaría extremadamente agradecida,\nno daría un buen ejemplo, ¿verdad?",
+      "choice_data_list": [
+        "Podrías inspirar a otros a través de tu\ndisposición a cooperar con tu entrenador.",
+        "Podrías inspirar a otros a través de tu\ndisposición a cooperar con tu entrenador."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Oh, entonces no hay problema! ¡Es hora de poner a\nprueba mi destreza como representante de clase!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Oh! Parece que puedo \"recibir una pista de\nNakayama\"?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Nakayama... Nakayama... Nakayama debe ser...",
+      "choice_data_list": [
+        "¿Nakayama Festa, tal vez?",
+        "¿Quizás algo que ver con Nakayama Racecourse?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ya veo! Hay una chica popular llamada Nakayama\naquí en la academia.",
+      "choice_data_list": [
+        "¿Por qué no le pides la pista directamente?",
+        "¿Por qué no le pides la pista directamente?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Nuestro primer obstáculo en el camino a la meta!\n¡Con mis agallas y espíritu de lucha, la\nencontraré!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Te encontré, Nakayama! ¡Okay! ¡Dame la tercera\npista de Uma Riddle!",
+      "choice_data_list": [
+        "Ella no entenderá de qué hablas si solo dices\neso..."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "No, entiendo. Te refieres al mensaje \"recibir una\npista de Nakayama\", ¿verdad? En realidad, soy la\nNakayama de la que habla el mensaje."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Pero no te lo daré tan fácilmente."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿¡Eh?! ¿¡Por qué?!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Tendrás que batallar contra mí por la pista. Si\nganas, te diré lo que quieres saber.",
+      "choice_data_list": [
+        "¿Y si ella pierde?"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Déjame ver... En tu caso, ¿qué te parece ser\nsuspendida de tus deberes como representante de\nclase por un día?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Lo haré!",
+      "choice_data_list": [
+        "¿¡Sin dudar?!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡No necesitas preocuparte! ¡Mi destreza como\nrepresentante de clase definitivamente me ayudará\na alcanzar la victoria!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Genial. Esos son los ojos de alguien dispuesto a\napostarlo todo."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Te dejaré decidir los detalles. ¡Hagamos de esta\nuna batalla para recordar!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Espera... lo siento. ¿Podrías repetir lo que\nacabas de decir?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Claro! ¡Mi destreza como representante de clase\ndefinitivamente me ayudará a alcanzar la victoria!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Destreza... de representante de clase?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Exacto! ¡Siempre me conduzco con la mentalidad y\nel comportamiento que corresponden a una\nrepresentante de clase!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Nakayama! ¡Hagamos una competencia para decidir\nquién tiene lo que se necesita para ser llamado\nrepresentante de clase!",
+      "choice_data_list": [
+        "Puedes negarte, Nakayama, está bien.",
+        "Puedes negarte, Nakayama, está bien."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "No, nunca me echaría atrás ante alguien con la\ndeterminación de arriesgarlo todo."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Además, ¡cuanto más abrumadoramente desfavorables\nsean las probabilidades, más me entusiasmo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así comienza la competencia por el título de\nrepresentante de clase definitiva."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las dos batallan para ver cuál de ellas puede\nhablar y comportarse más como una representante de\nclase en una variedad de situaciones..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sakura Bakushin O domina las primeras rondas, pero\nNakayama Festa muestra gran tenacidad, resultando\nen una feroz batalla que se mantiene tensa hasta\nel final."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "<i>Haa... Haa...</i> ¡La victoria es mía!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Je, es mi derrota... Tu fuerza como representante\nde clase es profunda."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Como prometí, la pista es tuya. ¡Sigue con el buen\ntrabajo, Representante de Clase!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gracias a la pista de Nakayama Festa, Bakushin O\nfinalmente pudo resolver todos los Uma Riddles."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A salvo de ser suspendida de sus deberes como\nrepresentante de clase, ella permanece de buen\nhumor."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ya veo! Ser estudiante de Tracen se trata de\ncarreras. ¡Y cuando se trata de carreras, el\nhipódromo es el lugar para estar!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Je je, ¡una excelente deducción!",
+      "choice_data_list": [
+        "Está fuera del recinto escolar aunque...",
+        "Está fuera del recinto escolar aunque..."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Al contrario! Si ves el hipódromo como otro lugar\nde aprendizaje, ¡podría considerarse parte de la\nescuela!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Voy a ir al Nakayama Racecourse este fin de\nsemana! ¡La pista debe estar por allí!",
+      "choice_data_list": [
+        "Muy bien..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque no estoy tan seguro de su razonamiento, no\nsería mala idea echar un vistazo al Nakayama\nRacecourse."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Además de resolver el acertijo, podría ser una\nbuena oportunidad para aprender sobre el hipódromo\nen sí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, ese fin de semana..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Je je je! ¡Aquí está! ¡Nakayama Racecourse!",
+      "choice_data_list": [
+        "Ya que estamos aquí, ¿por qué no damos una vuelta?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Okay! ¡Haremos eso mientras investigamos el Uma\nRiddle!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Mira! ¡Echa un vistazo a la recta final antes de\nla línea de meta!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Esa colina es el obstáculo final. Si yo Bakushin\nsubo y llego a la línea de meta en primer lugar..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Apuesto a que se sentiría increíble!",
+      "choice_data_list": [
+        "Es por eso que necesitas trabajar en mantener tus\nniveles de energía."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Pero por supuesto! ¡Trabajaré aún más duro!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Aseguraré que el nombre de Sakura Bakushin O\ndecore los sagrados pasillos del Nakayama\nRacecourse por generaciones venideras!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Pero no podré tener éxito así!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Tengo que volver a la academia y entrenar!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Explotando hacia un futuro glorioso! ¡Bakushiiin!",
+      "choice_data_list": [
+        "¿¡C-cómo va eso de resolver los acertijos?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que mis palabras caen en oídos sordos\nmientras observo a Sakura Bakushin O desaparecer\nde la vista."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡BAKU-SHIN! ¡BA-KU-SHIIIN!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Hmm, terminemos aquí por hoy."
+    },
+    {
+      "name": "Compañera A",
+      "text": "¡Oh! ¡Representante de Clase! ¡Buen trabajo hoy!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Gracias! ¡Ustedes también!"
+    },
+    {
+      "name": "Compañera B",
+      "text": "¿No dijiste que ibas al Nakayama Racecourse? ¿Te\nrendiste?"
+    },
+    {
+      "name": "Compañero C",
+      "text": "Bueno, el Nakayama Racecourse no es el Nakayama\ndel Uma Riddle de todos modos, así que..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Umamusume Adivina... ¿\"Nakayama\"?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡OHHH! ¡Se me olvidó por completo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al final, no hubo suficiente tiempo para que\nSakura Bakushin O resolviera completamente los Uma\nRiddles."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero la información que obtuvo en el Nakayama\nRacecourse la ayudó a crecer un poco."
+    }
+  ]
+}

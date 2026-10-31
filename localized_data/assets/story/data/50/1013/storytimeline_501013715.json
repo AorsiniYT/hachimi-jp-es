@@ -1,0 +1,67 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Pensé que Mejiro McQueen regresaría a su\ndormitorio después del entrenamiento hoy, pero,\nextrañamente, ha regresado aquí."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Entrenador, necesito seguir fortaleciéndome. Por\nfavor, ¿extenderás la sesión de entrenamiento de\nhoy?",
+      "choice_data_list": [
+        "¿Pasó algo?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...En mi camino de regreso, me encontré con Ryan,\nquien dijo que estaba a punto de comenzar a\nentrenar."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No puedo permitirme descansar sabiendo que ella\nestá ahí afuera esforzándose más."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Mi objetivo es mantener siempre una ventaja\nmagnífica. No puedo permitirme quedarme atrás.",
+      "choice_data_list": [
+        "¡Bueno, persigamos esa meta, entonces!",
+        "No puedo permitirlo. Una extensión no probaría ser\neficiente."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Muchas gracias! Me alegra que entiendas cómo me\nsiento."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Mantenme bajo observación constante. No intentaré\nhacer lo imposible, pero haré todo lo posible."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dentro de límites razonables, Mejiro McQueen y yo\ncontinuamos con nuestro entrenamiento por hoy."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Se podría decir que me estoy excediendo, pero\nsería más un desperdicio ignorar esta oleada\nactual de energía!",
+      "choice_data_list": [
+        "No hay necesidad de apresurar las cosas."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Apresurar las cosas? Eso no es..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No, tal vez he perdido un poco de mi compostura."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Perdería aún más el camino adelante si no puedo\npracticar la autodisciplina. La dignidad es uno de\nlos pilares fundamentales de la familia Mejiro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro McQueen atiende mi preocupación y regresa a\nsu dormitorio."
+    }
+  ]
+}

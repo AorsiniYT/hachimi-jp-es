@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estoy llenando algo de papeleo cuando la profesora\nde aula de Mayano Top Gun me informa que no se\npresentó a clase..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Oh, una estela de vapor... Apuesto a que sería\ndivertido montar en una de esas...",
+      "choice_data_list": [
+        "Pareces distraída.",
+        "Pareces distraída."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Oh, Entrenador..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "...No quiero ir a clase. Es tan aburrido."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Correr, comprar, hablar... Todas las cosas que\nsolía gustarme... Todas son tan aburridas."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Y mi cuerpo se siente cada vez más pesado..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Correr carreras consecutivas debe estar pasándole\nfactura. Mejor ajusto su calendario de carreras..."
+    }
+  ]
+}

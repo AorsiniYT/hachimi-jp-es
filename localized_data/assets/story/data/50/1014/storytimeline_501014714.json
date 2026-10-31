@@ -1,0 +1,111 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El Condor Pasa se lesiona durante el\nentrenamiento, así que la llevo a la enfermería."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Una lesión así no es nada para la corredora más\nfuerte del mundo!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡No hay necesidad de tu preocupación! Tu tiempo se\naprovecha mejor preparándote para mi regreso\ninevitable a las carreras.",
+      "choice_data_list": [
+        "Sí... No me voy a ninguna parte."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "P-pero Entrenador. ¡Dije que estoy bien!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Deberías volver a tu oficina—¡Ack! Ay.",
+      "choice_data_list": [
+        "Te estás excediendo, ¿verdad?",
+        "Te estás excediendo, ¿verdad?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Uhhh... bueno..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Creo que solo fui un poco descuidada...",
+      "choice_data_list": [
+        "No, fue mi culpa.",
+        "Verdad. No estabas lo suficientemente motivada."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Creo que solo fui un poco descuidada...",
+      "choice_data_list": [
+        "No, fue mi culpa.",
+        "Verdad. No estabas lo suficientemente motivada."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡No way! ¡Es mi culpa!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Solo soy débil... Soy... Soy..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Aaaugh! ¡Quiero ser aún más <i>fuerte! ¡Lo necesito!</i>",
+      "choice_data_list": [
+        "Enfoquémonos primero en sanar.",
+        "Enfoquémonos primero en sanar."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Entiendo! ¡Perdón por todas las molestias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de un descanso muy necesario, El Condor\nPasa está completamente recuperada y rebosante de\ndeterminación."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Sí... reflexión, introspección—búsqueda del\nalma..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Mi papá se va a enojar mucho con esto...",
+      "choice_data_list": [
+        "Solo ten más cuidado de ahora en adelante."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Entendido! ¡Voy a tener super cuidado durante el\nentrenamiento de ahora en adelante..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿No... lo suficientemente motivada?!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Grrr! ¿¡Yo?! ¿No lo suficientemente motivada?!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Di que no es verdad! ¡Dime que no es así! ¡Esa no\nsoy yo!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Okay! ¡Estoy motivada, Entrenador! ¡Puedes contar\nconmigo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con esa declaración, se recupera de su lesión en\nunos días y se desempeña mejor en el entrenamiento\nque nunca."
+    }
+  ]
+}

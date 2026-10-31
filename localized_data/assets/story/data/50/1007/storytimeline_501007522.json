@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gold Ship",
+      "text": "Entrenador... Hemos tenido una buena carrera, pero\ntengo miedo de que estoy lista...",
+      "choice_data_list": [
+        "¿Qué diablos quieres decir?",
+        "¿Qué diablos quieres decir?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Aprecio la preocupación, pero esto es algo que\ntengo que manejar yo misma. ¡Por favor, olvida que\ndije algo!",
+      "choice_data_list": [
+        "No digas eso. Quiero ayudar.",
+        "No digas eso. Quiero ayudar."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Eres demasiado amable para tu propio bien. Pero\ncomo insistes, te diré. La cosa es..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Tengo un gran grano en la frente, y duele como el\ninfierno."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "<i>Suspiro...</i> ¿Crees que mi vida volverá a ser la\nmisma?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me alegra que no sea nada que amenace su vida,\npero está muy preocupada por su piel. Tomo nota\npara ser más comprensivo con eso en el futuro."
+    }
+  ]
+}

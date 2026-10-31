@@ -1,0 +1,210 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy, he venido a la pista a ver una carrera.\nParece que Kitasan Black va a competir..."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "¡Disculpe! ¿Por casualidad ha visto a Kita?"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Ella aún no ha llegado al hipódromo. Los miembros\ndel personal también la están buscando."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Nunca debí haber arreglado encontrarme con ella en\nel hipódromo... ¡Y si le pasó algo en el camino?!",
+      "choice_data_list": [
+        "Intentaré buscar afuera."
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "¡Yo también iré!",
+      "choice_data_list": [
+        "¿No necesitas prepararte para la carrera?",
+        "¿No necesitas prepararte para la carrera?"
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Ah, sí... Tienes razón..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Satono Diamond se queda atrás mientras yo me voy a\nbuscar a Kitasan Black."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Casi estamos! ¡No te rindas ahora! ¡Una vez más!\n¡Halaaa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Encuentro a Kitasan Black en la orilla del río.\nElla está sosteniendo una cuerda, y al final de\nella hay un camión que está sumergido en el río."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "<i>Haa... Haa...</i> ¡Solo necesitamos jalar un poco más!",
+      "choice_data_list": [
+        "¡La carrera está a punto de comenzar!",
+        "¡La carrera está a punto de comenzar!"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¿¡Huh?! ¡Ya?!"
+    },
+    {
+      "name": "Anciano",
+      "text": "¡Espera, estás compitiendo! ¡Más te vale que vayas\nrápido!"
+    },
+    {
+      "name": "Conductor del camión",
+      "text": "Sí, podemos manejar esto nosotros solos. ¡Vete!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡No way! ¿No dijiste que tienes que entregar la\nmercancía de este camión dentro de la hora?!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Déjame ayudar un poco más! ¡Llegaré a la carrera\nantes de que empiece, lo prometo!",
+      "choice_data_list": [
+        "Muy bien, pero la próxima vez que diga que\nnecesitas irte, ¡<i>¡tienes que irte!</i>",
+        "Muy bien, pero la próxima vez que diga que\nnecesitas irte, ¡<i>¡tienes que irte!</i>"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Entendido! ¡Muchas gracias! ¡Ok, hora de jalar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero no importa cuánto lo intenten, el camión\natascado en el lecho fangoso del río no se\nmueve..."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "No puedo... rendirme... Estamos tan... cerca!",
+      "choice_data_list": [
+        "¡No hay tiempo que perder!"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "No puede ser... ¿Realmente va a terminar así?!"
+    },
+    {
+      "name": "???",
+      "text": "...ayúdame..."
+    },
+    {
+      "name": "???",
+      "text": "¡Déjame ayudar también!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Dia?! ¿Qué estás haciendo aquí?!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "¡No hay tiempo para explicaciones! ¡Solo tengo que\nagarrar aquí y jalar, ¿verdad?!"
+    },
+    {
+      "name": "Anciano",
+      "text": "¿Otra Umamusume? ¡Tal vez podamos lograrlo!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Esta vez seguro se moverá! ¡Vamos todos!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Hala!",
+      "choice_data_list": [
+        "¡Hala!"
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "¡Hala!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con la inmensa fuerza de las dos Umamusume, las\nllantas empiezan a rodar, y finalmente sacamos el\ncamión!"
+    },
+    {
+      "name": "Conductor del camión",
+      "text": "¡Whoaaa! ¡Parece que después de todo podré hacer\nmi entrega a tiempo! ¡Muchas gracias!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "No hay problema. ¡Todos estamos aquí para\nayudarnos mutuamente! ¡Eso es lo que mi papá\nsiempre dice!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "¡Lo logramos, Kita!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Lo siento mucho, Dia. No quería causarte problemas\njusto antes de nuestra carrera..."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "No eres la única. Yo te causé todo tipo de\nproblemas cuando estaba enferma."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Además, te extrañaría si no estuvieras en la\ncarrera. Yo también quiero correr contigo, ¿sabes?"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "No eres la única que esperaba con ansias el día de\nhoy."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Dia!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Yay! ¡Démoslo todo! ¡Es una carrera por el primer\nlugar entre tú y yo, Dia!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "¡Eso es una promesa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La pareja empieza a correr bajo el cielo azul. Han\nsuperado el desastre, y ahora—con la vista puesta\nen la pista—juran correr con todo lo que tienen."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "...Gracias. ¡Realmente salvaste el día, Dia!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Hehe. Bueno, ¡supuse que te habías metido en algo!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Oye, eso también aplica para ti! ¡Y aún tienes\npuesto tu uniforme de carrera!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Bueno, ¡simplemente no podía quedarme sentada\nsabiendo que podrías estar en problemas, ¿verdad?!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "...Hehe. Supongo que realmente somos bastante\nsimilares, ¿no?"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Sí. ¡Si alguna vez estás en apuros, sabes que\nvendré corriendo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de hacer un voto de firme amistad, las dos\nsalen corriendo. ¿Qué tipo de carrera harán? Mi\ncorazón late con anticipación."
+    }
+  ]
+}

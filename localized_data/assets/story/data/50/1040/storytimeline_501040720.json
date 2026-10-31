@@ -1,0 +1,540 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día, llevo a <chrname> a la enfermería para una\nrevisión."
+    },
+    {
+      "name": "???",
+      "text": "¡Oh! Un cliente—digo, ¡una estudiante! ¡Hola!"
+    },
+    {
+      "name": "???",
+      "text": "¿Estás herida? ¿Enferma? ¿Estresada? ¡Sea lo que\nsea, yo lo curo todo!",
+      "choice_data_list": [
+        "¿Quién eres tú?!"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Bueno, considerando que estás en la enfermería de\nla academia, diría que eso me convierte en tu\nconfiable enfermera escolar. ¡Sí, solo una\nempleada escolar común y corriente!",
+      "choice_data_list": [
+        "...¿No lo eres?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¡Ajajá! Supongo que no hay manera de engañarte.\nSupongo que debería empezar dándote mi nombre."
+    },
+    {
+      "name": "???",
+      "text": "¡Ahem! ¡Permíteme presentarme!"
+    },
+    {
+      "name": "???",
+      "text": "¡Soy la (probable) salvadora de todas las\nUmamusume, la (autoproclamada) acupunturista\nlegendaria con el toque mágico..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡La única e inigualable Sasami Anshinzawa! ¿Ven?\n¡No hay de qué preocuparse! ☆",
+      "choice_data_list": [
+        "...? ¿Acaso esta carrera no fue hecha básicamente\npara mí?!"
+      ],
+      "color_text_info_list": [
+        "Sasami Anshinzawa"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Sí, um... <i>¿quién?</i>"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Caramba! ¡Pareces preocupada! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No importa! ¡No importa! Ya nos presentamos, así\nque acuéstate y déjame poner estas agujas a\ntrabajar."
+    },
+    {
+      "name": "Gold City",
+      "text": "Oh, para lo que sea que sea esto, tendrás que\npasar por mi agencia."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Jajaja! ¡No hay que tener miedo! Lo único que\nharé es deslizar estas agujas extraordinarias con\nprecisión en tus puntos de chakra."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y luego, abracadabra! ¡Algo indescriptible\nsucederá!",
+      "choice_data_list": [
+        "(Esto es indescriptiblemente sospechoso...)"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y permíteme asegurarte que no hay absolutamente\nnada sospechoso en esto! ¡Nunca ha salido nada\nmenos que perfecto!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Para mi maestro.",
+      "choice_data_list": [
+        "¡¿Para tu maestro?! ¡¿Y para ti?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No te preocupes! Esta es mi primera vez, así que,\ntécnicamente, ¡tampoco he fallado nunca con un\npaciente!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y no es como si no tuviera experiencia! Pasé diez\naños bajo un maestro legendario, trayéndole el\nté—digo, ¡entrenando!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Ven? ¡No hay de qué preocuparse! ☆",
+      "choice_data_list": [
+        "(¡Tenemos que salir de aquí, ya!)"
+      ]
+    },
+    {
+      "text": "De ninguna manera vamos a hacer esto. Tomo a <chrname> y me\ndirijo a la puerta, cuando..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡E-espera! ¿A dónde vas?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Eres Gold City, ¿verdad?! No solo hermosa, sino\ntambién una atleta que se esfuerza por convertirse\nen la corredora que quiere ser.",
+      "choice_data_list": [
+        "¿Has oído hablar de ella?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿He oído hablar de ella? ¡Por supuesto que sí!\n¡Soy una gran fan!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Es precisamente por eso que estoy aquí! ¡Para\ndarte mi apoyo! ¡Déjame ayudarte!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Solo dame una oportunidad! ¡Por faaavor!"
+    },
+    {
+      "name": "Gold City",
+      "text": "<i>Suspiro...</i> ¿Qué opinas, Entrenador? ¿Deberíamos\nllamar a la policía?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por favor! ¡Por faaavor con zanahoria encima!\n¡Hasta te dejaré elegir qué chakra activo!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Estoy <i>seguro</i> de que no voy a fallar!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... más o menos segura.",
+      "choice_data_list": [
+        "¿<i>Muy</i> seguro?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Quiero decir, es el lado seguro! Eso es\n<i>bueno,</i>¿verdad? De todos modos, no te quedes\natascado en los detalles!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vayamos a lo bueno! ¿Qué chakra debería activar?\n¿Quieres un impulso a tus habilidades? ¿A tu\nsalud? ¿O tal vez a tu <i>encanto?</i>"
+    },
+    {
+      "text": "Huelo peligro en el aire, pero calculo que podría\n—y enfatizo <i>podría</i>— haber una oportunidad de\nconseguir algo especial con este tratamiento."
+    },
+    {
+      "text": "¿Qué hacemos?",
+      "choice_data_list": [
+        "Activar el chakra de fuerza.",
+        "Activar el chakra de la victoria.",
+        "Activar el chakra de salud.",
+        "Activar el chakra de encanto.",
+        "Esto es demasiado sospechoso. Salgamos de aquí\nmientras podamos."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra de fuerza?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? ¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjalo en mis manos! ¡Hora de localizar\neso chakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ven? ¡No hay de qué\npreocuparse! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Ahhh?!"
+    },
+    {
+      "text": "¡Perfecta Punción!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Vaya. Parece que esto realmente funciona. ¡Debe\nser genuina!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Oye, ¿puedo tener tu contacto? Definitivamente voy\na hacer esto en mi próximo día libre."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Haa...</i> No puede ser... ¿¡De verdad funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Nooo way! ¡No puedo creerlo! ¡Soy un genio total!"
+    },
+    {
+      "text": "<chrname> está rebosante de tanto poder que casi no la\nreconozco."
+    },
+    {
+      "text": "¡Arriesgamos y ganamos! ¡Este es un gran salto\nhacia el logro de nuestra meta!"
+    },
+    {
+      "name": "Gold City",
+      "text": "...Entrenador. Pásame mi teléfono."
+    },
+    {
+      "name": "Gold City",
+      "text": "Tengo que llamar a mi manager. Podría necesitar...\nestar ausente del trabajo por unos días."
+    },
+    {
+      "text": "El estado de <chrname> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Ya está, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿miren la hora? ¡Debería irme! ¡Adiós! ☆"
+    },
+    {
+      "text": "Debí haber sabido mejor que tentar a la suerte. Yo\nno soy la que sufre, y aun así estoy llena de\narrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra de la victoria?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? ¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjalo en mis manos! ¡Hora de localizar\neso chakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ven? ¡No hay de qué\npreocuparse! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Ahhh?!"
+    },
+    {
+      "text": "¡Perfecta Punción!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Vaya. Parece que esto realmente funciona. ¡Debe\nser genuina!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Oye, ¿puedo tener tu contacto? Definitivamente voy\na hacer esto en mi próximo día libre."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Haa...</i> No puede ser... ¿¡De verdad funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Nooo way! ¡No puedo creerlo! ¡Soy un genio total!"
+    },
+    {
+      "text": "¡Puedo sentir una gran mejora en las habilidades\nde <chrname>!"
+    },
+    {
+      "text": "¡Arriesgamos y ganamos! ¡Este es un gran salto\nhacia el logro de nuestra meta!"
+    },
+    {
+      "name": "Gold City",
+      "text": "...Entrenador. Pásame mi teléfono."
+    },
+    {
+      "name": "Gold City",
+      "text": "Tengo que llamar a mi manager. Podría necesitar...\nestar ausente del trabajo por unos días."
+    },
+    {
+      "text": "El estado de <chrname> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Ya está, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿miren la hora? ¡Debería irme! ¡Adiós! ☆"
+    },
+    {
+      "text": "Debí haber sabido mejor que tentar a la suerte. Yo\nno soy la que sufre, y aun así estoy llena de\narrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra de salud?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? ¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjalo en mis manos! ¡Hora de localizar\neso chakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ven? ¡No hay de qué\npreocuparse! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Ahhh?!"
+    },
+    {
+      "text": "¡Perfecta Punción!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Vaya. Parece que esto realmente funciona. ¡Debe\nser genuina!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Oye, ¿puedo tener tu contacto? Definitivamente voy\na hacer esto en mi próximo día libre."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Haa...</i> No puede ser... ¿¡De verdad funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Nooo way! ¡No puedo creerlo! ¡Soy un genio total!"
+    },
+    {
+      "text": "¡El cuerpo entero de <chrname> irradia un brillo saludable!\n¡Es la imagen absoluta de la salud!"
+    },
+    {
+      "text": "¡Arriesgamos y ganamos! ¡Este es un gran salto\nhacia el logro de nuestra meta!"
+    },
+    {
+      "name": "Gold City",
+      "text": "...Entrenador. Pásame mi teléfono."
+    },
+    {
+      "name": "Gold City",
+      "text": "Tengo que llamar a mi manager. Podría necesitar...\nestar ausente del trabajo por unos días."
+    },
+    {
+      "text": "El estado de <chrname> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Ya está, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿miren la hora? ¡Debería irme! ¡Adiós! ☆"
+    },
+    {
+      "text": "Debí haber sabido mejor que tentar a la suerte. Yo\nno soy la que sufre, y aun así estoy llena de\narrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra de encanto?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? ¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjalo en mis manos! ¡Hora de localizar\neso chakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ven? ¡No hay de qué\npreocuparse! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Ahhh?!"
+    },
+    {
+      "text": "¡Perfecta Punción!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Vaya. Parece que esto realmente funciona. ¡Debe\nser genuina!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Oye, ¿puedo tener tu contacto? Definitivamente voy\na hacer esto en mi próximo día libre."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Haa...</i> No puede ser... ¿¡De verdad funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Nooo way! ¡No puedo creerlo! ¡Soy un genio total!"
+    },
+    {
+      "text": "¡<chrname> está rebosante de encanto! ¡Hará que todos\nvuelvan la cabeza dondequiera que vaya!"
+    },
+    {
+      "text": "¡Arriesgamos y ganamos! ¡Este es un gran salto\nhacia el logro de nuestra meta!"
+    },
+    {
+      "name": "Gold City",
+      "text": "...Entrenador. Pásame mi teléfono."
+    },
+    {
+      "name": "Gold City",
+      "text": "Tengo que llamar a mi manager. Podría necesitar...\nestar ausente del trabajo por unos días."
+    },
+    {
+      "text": "El estado de <chrname> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Ya está, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿miren qué hora es? ¡Debería irme! ¡Adiós!\n☆"
+    },
+    {
+      "text": "Debí haber sabido mejor que tentar la suerte. No\nsoy la que sufre, pero estoy llena de\narrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Ay, vamos! ¡No seas así!",
+      "choice_data_list": [
+        "Rechazar.",
+        "Reconsider."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú! Espero que sepas que los intrusos <i>serán</i>\nprocesados!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me han descubierto!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¡me voy! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Oh, por Dios... ¿En serio era una criminal?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Gracias por manejar lo que fuera eso. Supongo que\nsiempre hay un truco en estas cosas.",
+      "choice_data_list": [
+        "De acuerdo.",
+        "De acuerdo."
+      ]
+    },
+    {
+      "text": "Tengo curiosidad sobre quién es realmente este\npersonaje de Anshinzawa, pero no sirve de nada\ndarle vueltas. Lo mejor es olvidar el día de hoy y\nseguir adelante."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Cambiaste de opinión, eh? No te preocupes, ¡eso\npasa!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Adelante, dime qué chakra quieres que active,\nentonces!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡¿Bueno?! ¡No nos dejes en suspenso! Espera un\nsegundo... ¿Cuánto tiempo llevo aquí?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú! Espero que sepas que los intrusos <i>serán</i>\nprocesados!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me han descubierto!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¡me voy! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "text": "La situación da un giro repentino antes de que\npueda tomar una decisión."
+    },
+    {
+      "text": "¿De qué se trató todo eso? <chrname> y yo nos miramos\nperplejos."
+    }
+  ]
+}

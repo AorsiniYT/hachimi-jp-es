@@ -1,0 +1,298 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "La primera carrera G1 de la Tiara tour ha\nterminado.",
+      "color_text_info_list": [
+        "G1"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es una experiencia única en la vida, y Daiwa\nScarlet probablemente está más agotada que nunca."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dado el caso, decido darle el día libre. O... ese\nera el plan, de todos modos."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Mira! ¡Scarlet y Vodka están compitiendo otra\nvez!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¡Guau! ¡Vodka, tú puedes! ¡Scarlet, dale tu todo!",
+      "choice_data_list": [
+        "¡...!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Tienes que </i>estar bromeando!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Vodka",
+      "text": "Jeje, ¡gané! ¡Eso hace ocho de trece!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Muy bien. Hora de volver. No tiene sentido\nagotarme aquí."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Hey! ¡Vuelve aquí! ¡No puedes irte mientras vas\nganando!",
+      "choice_data_list": [
+        "Tú también necesitas descansar.",
+        "Tú también necesitas descansar."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Entrenador..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...¡Hmph! Ni siquiera estoy tan cansada.\nHonestamente, estoy bien!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Estaba haciendo algo de entrenamiento en solitario\nesta mañana cuando ella me pidió que corriera con\nella.",
+      "choice_data_list": [
+        "¿Has estado entrenando desde la mañana?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Oh, rayos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La acompaño de vuelta a su dormitorio para\nasegurarme de que no haga más entrenamiento en\nsecreto."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ugh. ¡Estás actuando como un verdadero padre\nhelicóptero, ¿sabes?! No necesito que me cuiden..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Oh? Eso es..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿De verdad planeas intentarlo?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Por eso estoy aquí."
+    },
+    {
+      "name": "Vodka",
+      "text": "Por favor... Dame un consejo."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Vaya, vaya. Nunca pensé ver a Vodka inclinarse así\nante nadie, y mucho menos ante Brian."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ella está recibiendo consejos de una veterana,\n¿eh. Hmm...",
+      "choice_data_list": [
+        "...¿No te dije que descansaras?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ugh... ¡Bien! ¡Has hecho tu punto!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Me pregunto si Air Groove ya habrá vuelto..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet se aleja a toda velocidad hacia su\ndormitorio con entusiasmo sospechoso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, todos están revolucionados con\nlas noticias impactantes sobre el Japanese Oaks,\nla segunda carrera de la Triple Tiara."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Vodka no va a correr en el Japanese Oaks? ¿En su\nlugar correrá en el Derby?!",
+      "color_text_info_list": [
+        "Derby"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡De <i>ninguna</i> manera! ¿Ella se retira de la Tiara\ntour? ¿Qué pasó con derrotarme?!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "No puedo creerlo. Ella realmente está huyendo de\nnuestro concurso."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Toda esa charla sobre ser genial, y ella\nsimplemente cambia su gira, ¡así como así! Eso\nestá lejos de ser genial..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Por Dios... Toda esa energía que acumulé... Todo\npara nada..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Golpe!</i>",
+      "choice_data_list": [
+        "<i>¿¡Scarlet!?</i>"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Eh? ¿Dónde estoy?",
+      "choice_data_list": [
+        "Estás en la enfermería."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Oh... Supongo que debo haberme desmayado allí."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Exactamente. Has estado saliendo furtivamente del\ndormitorio para entrenar de nuevo, ¿verdad?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿¡Air Groove?!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Deberías dar gracias a tus estrellas de la suerte\nde que había gente alrededor. ¿Te imaginas si te\nhubieras desmayado completamente sola?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Sí... Tienes razón. Lo siento."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Y en cuanto a ti, Entrenador... Debes mantener la\ncabeza fría en todo momento. Entrar en pánico como\nlo hiciste allí no ayudará a Scarlet en nada."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Su futuro en tus manos—y harías bien en\nrecordarlo."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ahora, si me disculpas, me he tomado la libertad\nde llamar a tu compañera de cuarto para que te\nrecoja."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Mi compañera de cuarto? No puedes referirte a..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Por qué te desmayaste? No estás dando un muy buen\nejemplo, Señorita Estudiante Modelo."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Hmph! ¡Cállate, tú!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Además, ¡eres tú la que es patética!"
+    },
+    {
+      "name": "Vodka",
+      "text": "...¿Qué?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Te rendiste en la Tiara tour, ¿verdad? Pensaste\nque no podrías obtener el primer lugar conmigo en\nla contienda."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "De hecho, lo diré. ¡Te rendiste a la mitad, como\nuna cobarde!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Ni de broma!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡...!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Estoy corriendo el Derby para abrirme paso a un\nnivel completamente nuevo de genialidad!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡No soy una cobarde! ¡Tú simplemente no tienes\nidea!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Además, ¡eso es muy rico viniendo de ti! ¿No eres\ntú la que no para de hablar de ser número uno sin\nsiquiera saber qué significa eso?!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>¡E-e-excúsame! </i>¿Qué se supone que significa eso?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Exactamente! ¡Dímelo tú! ¡¿Qué se siente al ser\nnúmero uno?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Es solo quedar en primer lugar? Entonces deberías\ncorrer en carreras que sabes que puedes ganar,\n¿verdad?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡No me hagas reír! ¡Eso no es lo que significa ser\nnúmero uno en absoluto!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Entonces, ¿qué <i>significa</i>? ¿Acaso lo sabes?!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Yo... Eso es..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Mira. Ni siquiera tienes una respuesta."
+    },
+    {
+      "name": "Vodka",
+      "text": "Tu \"número uno\" no tiene sentido... Solo palabras\nvacías."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Estás equivocada."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Estás equivocada! ¡Mi sueño no es así!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero al final, Daiwa Scarlet no encuentra las\npalabras para refutar a Vodka."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mordiéndose el labio, reflexiona sobre lo que\nsignifica ser \"número uno.\""
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Maruzensky",
+      "text": "¡Oye, Entrenador! ¿Viste correr?",
+      "choice_data_list": [
+        "¡Estuviste magnífica!",
+        "¡Estuviste magnífica!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oye, Entrenador! ¿Viste correr?",
+      "choice_data_list": [
+        "¡Estuviste magnífica!",
+        "¡Estuviste magnífica!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Jeje! Es solo porque me divertí mucho corriendo\ncon Grass! ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Y estoy igual de feliz de ver cuánto ha crecido!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡No puedo dejar de pensar en la posibilidad de\ncorrer con ella de nuevo en el futuro!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ahora, me pregunto en qué carrera debería correr a\ncontinuación para mostrarle a todos lo que tengo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hay varias opciones, pero ella querrá una carrera\ndonde pueda disfrutar compitiendo contra otras\ncorredoras excelentes...",
+      "choice_data_list": [
+        "¡Vamos a por el Tenno Sho de otoño!",
+        "¡Vamos a por el Tenno Sho de otoño!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Esa es una gran idea! Es la distancia perfecta, y\nyo me gusta Tokio porque se siente como en casa!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Genial! No puedo esperar para correr en el Tenno\nSho de otoño!",
+      "color_text_info_list": [
+        "otoño"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Maruzensky."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oh, Grass! ¡Esa fue una gran carrera!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sí, fue una carrera realmente buena..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Pero aunque di lo mejor de mí, no pude alcanzarte."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sigo pensando en qué podría haber hecho diferente.\nEs terriblemente frustrante..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Aún así, cuando miro tus ojos ahora, veo tu\ndeterminación claramente. De hecho, está\n<i>creciendo.</i>"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Tienes razón. Voy a seguir entrenando y asegurarme\nde que algún día, yo sea la que gane."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Jeje. Es divertido ayudarse mutuamente a mejorar,\n¿verdad?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Claro que sí! Me alegra mucho que tú también\nhayas tenido una carrera divertida."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Dado que lo disfrutamos tanto, estoy segura de que\nla gente que estaba viendo debió haberlo\ndisfrutado también."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Puede haber gente por ahí que esté ansiosa por\ncorrer con nosotros ahora mismo!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Jeje! ¡También estoy ansiosa por correr contra\nellas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de una gran carrera con Grass Wonder, ¡el\nsiguiente objetivo de Maruzensky es el Tenno Sho\nde otoño!",
+      "color_text_info_list": [
+        "Tenno Sho de otoño"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "..."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Qué gran carrera! Estaba animando tan fuerte que\npensé que podría perder la voz!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¡Ojalá pudiera correr en una carrera así también!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Sí... ¡Ojalá pudiera también!"
+    }
+  ]
+}

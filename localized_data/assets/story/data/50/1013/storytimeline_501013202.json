@@ -1,0 +1,64 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Espectador A",
+      "text": "¡Vaya, qué ganas tengo de ver esto! ¡El Kikuka\nSho!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Y esta vez, va a haber un enfrentamiento entre la\nfamilia Mejiro, ¿verdad?!"
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Así es! Espero que hayas traído un abanico,\nporque esta carrera se va a poner caliente!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Están muy emocionados... Los escucho desde aquí.",
+      "choice_data_list": [
+        "Es porque es una carrera de Triple Corona.",
+        "Es porque es una carrera de Triple Corona."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "En efecto. Una oportunidad codiciada por todas las\nUmamusume..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Más allá de eso, para mí, es la oportunidad de\ncompetir realmente contra Ryan."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Es extraño. Mucho antes de esto, las dos solíamos\ncompetir entre nosotras, pero entonces no había\nespectadores."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ahora, todas las miradas están sobre nosotras..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Estoy segura de que todos en la familia Mejiro\ntambién nos están viendo.",
+      "choice_data_list": [
+        "¡Entonces tendrás que correr con dignidad!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Sí. No debo avergonzarme."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Incluso si mi oponente es Ryan—"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No. <i>Especialmente</i> porque mi oponente es Ryan,\nalguien a quien respeto, debo obtener una victoria\n¡magnífica!"
+    }
+  ]
+}

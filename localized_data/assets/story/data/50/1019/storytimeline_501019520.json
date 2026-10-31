@@ -1,0 +1,305 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Agnes Digital",
+      "text": "Hmmmm... Qué elegir... Qué elegir...",
+      "choice_data_list": [
+        "¿No sabes qué almorzar?",
+        "¿No sabes qué almorzar?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Sí, no sé si elegir el de Falco o el de Vodka.",
+      "choice_data_list": [
+        "¿A qué te refieres exactamente?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Por qué me miras así? Pidieron cosas diferentes\ndel menú, así que no sé cuál de los dos debería\nelegir."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Poder comer exactamente lo mismo que mis oshis\ncada día es un lujo que solo se permite en esta\nsagrada institución, la Academia Tracen.",
+      "choice_data_list": [
+        "<i>¿Cada</i> día?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Por supuesto! Ayer comí lo de Ryan, y anteayer lo\nde Tamamo. ¡Oh, pero no te preocupes! ¡Me aseguro\nde mantener una dieta equilibrada!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Si elijo el de Spe o el de Oguri, siempre tengo\ncuidado de pedir una porción más manejable."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Comer el mismo almuerzo que mis oshis es un método\noficial para expandir infinitamente la\nimaginación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Quiero intervenir, pero eso solo alargaría la\nconversación, así que me quedo callada y le paso\nuna bandeja de almuerzo."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Uy, uy! ¿Quieres hacer geek del almuerzo conmigo?\n♪ Oye, ¿por qué no eliges tú por mí?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Cuyo almuerzo crees que se ve mejor? ¿El de Falco\no el de Vodka?",
+      "choice_data_list": [
+        "El almuerzo de Smart Falcon",
+        "El almuerzo de Vodka"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Ah, el almuerzo de Falco! Le gusta que sus platos\nse vean fotogénicos."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Vale, Falco siempre come su ensalada primero, así\nque seguiré su ejem—"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oye, Digital! ¿Puedo sentarme a tu lado?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Fwah! ¿Falco? Eh? Uhh, en realidad podemos\nmovernos."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Nooo, eso no es lo que quiero! Estoy preguntando\nsi <i>podemos comer juntos.</i>"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Eres su entrenadora, ¿verdad? No te importa que me\nuna, ¿verdad?",
+      "choice_data_list": [
+        "¡Para nada!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Ehehehe, gracias! ♪"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Ah, tal como pensé! Tienes lo mismo que yo. Vi tu\nbandeja y me dio curiosidad."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Ay, ay, ay! ¡Perdón por copiarte!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Es tu forma de mostrar respeto? ¡Me siento muy\nhalagada! ☆ ¡Oye, quiero tomarme un selfie!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Una fan me dijo antes que quiere entrar a la\nAcademia Tracen, así que pensé que sería bueno\npublicar fotos para mostrarle cómo es la vida en\nel campus."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Haces esto por tu fan? ¡Ohhh! ¡Eres toda una\nmodelo Umadol! Sublime... ¡al máximo!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Entonces, ¿puedo publicar una foto tuya y de tu\nalmuerzo en Umatter también?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Pwah! ¿Una foto con-con-conmigo? Quiero decir, si\nes para una de tus fans, entonces supongo que será\nen servicio a una camarada, pero..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Jejé, entonces hagámonos una juntas! ♪"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Uy, esta se ve buena!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Me pregunto si verá mi publicación. Sabes, me dijo\nque también es buena corriendo en tierra."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Por eso quería responder a su carta mostrando\nalgunos métodos de entrenamiento. Oye, Digital,\n¿cómo entrenas usualmente?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "No sé si esto será útil o no, pero... Intento\ncorrer en la pista de práctica de tierra cuando\nestá <i>firme y cuando </i>está pesada."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Así que haces entrenamiento especial en pistas\ncon mal agarre! Es difícil mantener una buena\nforma en esas condiciones, ¿verdad?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "No solo eso, consigo que mucha gente corra\nconmigo... Me ayuda a practicar lidiar con la\ntierra y la arena que vuelan hacia mí desde\nadelante."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Ah, ya entiendo! Soy una corredora delantera, así\nque normalmente no tengo que lidiar con eso."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Tienes muy bien organizado tu entrenamiento en\ntierra! Hmmm, mejor que me cuide la espalda."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡No, no, no! ¡Todavía estás en una liga totalmente\ndiferente a la mía!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡No creas que puedes engañarme para que baje la\nguardia! ☆ Ya te marqué como mi rival."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Ggk... Ghk... Nghhh! Y-yo... no... merezco..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, Agnes Digital y Smart Falcon pasan\nun almuerzo fructífero hablando sobre cómo\npractican para carreras en tierra."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Bien! ¡Vamos a degustar el almuerzo de Vodka!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "\"¡Oye! ¿Qué idea es esta, sentarte a mi lado?!\""
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "\"No es que me siente a tu lado porque quiera. Este\nes el único asiento libre. Nada más.\"",
+      "choice_data_list": [
+        "¿Estás... doblándoles la conversación?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Lo captaste por completo! ¡Realmente eres un\nfanático después de mi propio corazón!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Me sumerjo tanto imaginando las conversaciones de\nVodka mientras disfruto la misma comida que ella!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Fwhoa! Vodka acaba de robarle un camarón a\nScarlet... \"¡Disculpe! ¿Cree que está bien\narrebatar la comida de otros?!\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, Agnes Digital pasa todo el\nalmuerzo imaginando un diálogo entre Vodka y Daiwa\nScarlet... como una verdadera superfan."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Ufff! ¡Estoy llenísima! ¡Eso sí es un almuerzo\nsatisfactorio!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Oye, Digital, ¿tienes un segundo? Hay algo que me\ngustaría consultarte."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Estabas imitándonos en la cafetería?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Eeek! ¡Lo-lo-lo siento muchísimo! ¡Lo compensaré!\n¡Haré... haré harakiri!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿¡Harakiri!? ¿¡Por qué!?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Porque la estás asustando muchísimo. Mira cómo\ntiembla..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "<i>Haa... Haa...</i> Una pelea real entre Scarlet y\nVodka, justo frente a mí... Guehehe."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Esto no es una pelea! Solo la estoy llamando la\natención por ponerte en aprietos, ¿verdad?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...No es que esté enojada ni nada. Solo pensé que\nera increíble que pudieras oírnos desde esa\ndistancia. ¡Tu oído debe ser asombroso!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Oh, solo estaba imaginando lo que pensé que\npodrías estar diciendo... No pude oír su\nconversación en absoluto."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡¿Solo lo estabas imaginando?! ¡Pero acertaste por\ncompleto en toda la conversación! ¿Estás segura de\nque no estabas leyendo los labios o algo?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "N-no, fue realmente solo mi imaginación. Um, por\ncierto... ¿cómo es que ustedes se dieron cuenta de\nlo que estaba haciendo?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Como si nadie pudiera notarlo, estabas\nprácticamente gritándole a tu entrenador.",
+      "choice_data_list": [
+        "Supongo que estabas tan metido en ello que no te\ndiste cuenta.",
+        "Supongo que estabas tan metido en ello que no te\ndiste cuenta."
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Lo siento mucho! ¡No merezco vivir!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Tienes que disculparte cada vez? ¡No es para\ntanto!"
+    },
+    {
+      "name": "Vodka",
+      "text": "De todos modos, ¿realmente recreaste toda nuestra\nconversación solo con imaginarlo? Eso es bastante\nasombroso."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Creo que solo demuestra cuán exhaustivamente\nella nos ha investigado."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡En ese caso, déjame hacer mi propia\ninvestigación! ¡Ven a correr conmigo, Digital! ¡La\nmejor forma de entender a tu oponente es\nenfrentarte a ellos!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Hey, eso no es justo! ¡No puedes acapararla! ¡Yo\ntambién quiero correr con Digital!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Qué? ¡Deja de intentar meterte!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Una carrera contra mí ayudaría a Digital a ponerse\nseria. ...Oh, pero ya veo. Tienes miedo de que yo\nte vaya a ganar, ¿verdad?"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Como si! ¡Esa es totalmente mi frase! Bien, las\ntres podemos correr!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿L-las tres? ¡Tengo asientos VIP a una batalla\nentre Scarlet y Vodka?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "WOOHOOOOOAGHKJ!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agnes Digital está que se sale... y la sesión de\ncarrera en grupo después de clases resulta ser una\npráctica muy fructífera."
+    }
+  ]
+}

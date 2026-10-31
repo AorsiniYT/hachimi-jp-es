@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Algo en la forma en que Rice Shower se mueve\nmientras entrena parece raro..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Haa... Haa...</i>",
+      "choice_data_list": [
+        "¿Te sientes bien?",
+        "¿Te sientes bien?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "L-lo siento... Creo que me esforcé demasiado en la\núltima carrera..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "L-lo siento... Creo que me esforcé demasiado en la\núltima carrera..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "E-em, pero... ¡Estoy bien! ¡No hay por qué\npreocuparse por mí!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "E-em, pero... ¡Estoy bien! ¡No hay por qué\npreocuparse por mí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que aún está cansada de su última carrera.\nYo podría estar exigiéndole demasiado, así que\nserá mejor estar pendiente de ella."
+    }
+  ]
+}

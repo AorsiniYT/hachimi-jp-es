@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Sí! ¡Soy la número uno! La más rápida, la más\nfuerte—la verdadera número uno!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Más te vale que hayas estado viéndome quedar en\nel primer lugar!",
+      "choice_data_list": [
+        "¡Lo lograste, Scarlet! ¡Eres la número uno!",
+        "¡Lo lograste, Scarlet! ¡Eres la número uno!",
+        "¡Ahora vamos a por un primer puesto aún mejor!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Más te vale que me hayas estado viendo tomar el\nprimer lugar!",
+      "choice_data_list": [
+        "¡Lo lograste, Scarlet! ¡Eres la número uno!",
+        "¡Lo lograste, Scarlet! ¡Eres la número uno!",
+        "¡Ahora aspiremos a un primer lugar aún mejor!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡E-en tanto lo entiendas! ¡Asegúrate de grabar la\nimagen de mi victoria en tu mente!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Jeje! ♪ ¡La próxima vez también seré la primera,\npase lo que pase!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿E-excúseme?! ¡Se supone que deberías estar\nllenándome de elogios!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Me aseguraré de que mi próxima victoria sea aún\nmás grande!"
+    }
+  ]
+}

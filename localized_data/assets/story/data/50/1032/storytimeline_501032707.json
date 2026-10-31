@@ -1,0 +1,95 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de rezar en un santuario con Agnes\nTachyon..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Uf..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No voy a quejarme de haber venido hasta este\nsantuario..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Sea lo que sea por lo que hayas rezado, parece lo\nsuficientemente importante como para buscar la\nintervención de un poder superior."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Pero si ya terminaste, diría que podemos irnos.",
+      "choice_data_list": [
+        "¿Estás cansada?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No, solo un poco desanimada."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Quizás los macrófagos en mí están holgazaneando y\ndejando mis restos apoptóticos sin atender."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Era un chiste sin contexto, por supuesto."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Además, si mis macrófagos realmente no estuvieran\nhaciendo su trabajo, no sería solo una cuestión de\nmi estado de ánimo."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "<i>Suspiro...</i> Supongo que en realidad no importa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que algo la ha dejado realmente desanimada.\nMe gustaría hacer algo para animarla, pero...",
+      "choice_data_list": [
+        "¡Voy a rezar una vez más!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Eh? No me digas que planeas rezar para que yo me\nsienta mejor."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Crees que eso va a cambiar algo?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Pero de nuevo, tú eres el tipo simple."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "En cualquier caso, no puedo permanecer en este\nestado de aturdimiento para siempre..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Creo que realizaré un experimento para animarme."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella sonríe juguetona, indicando que quizás ha\nvuelto a su yo habitual."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No te detendré si eso te hace feliz."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Pero, no te hagas ilusiones conmigo hoy."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Probablemente no vamos a obtener información útil\nmientras me sienta así, no importa lo que\nhagamos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agnes Tachyon suelta un gran suspiro. Parece que\nno puede volver a su estado normal."
+    }
+  ]
+}

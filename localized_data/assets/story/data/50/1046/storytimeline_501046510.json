@@ -1,0 +1,265 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Al pasar por el escenario al aire libre de la\nacademia, veo a Smart Falcon y Agnes Tachyon\nabsortas en conversación."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Ehehe! ☆ ¡Estoy tan feliz! ¡Pregúntame lo que\nquieras saber! ♪"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Je-je... Pero por supuesto, Falco.",
+      "choice_data_list": [
+        "Parecen que se están divirtiendo.",
+        "Parecen que se están divirtiendo."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oh, Entrenador! ¡Oye, escucha esto!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Estaba haciendo un poco de autopromoción—ya\nsabes, dejando que todos sepan que estoy\ntrabajando duro para convertirme en la mejor\nídolo! ☆"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Y entonces Tachyon me dijo que quería escuchar\ntodos los detalles. ♪",
+      "choice_data_list": [
+        "¿Ah, sí?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Sí... ese es un hecho indiscutible. Sin embargo,\nno hay necesidad de entrar en los detalles\ntécnicos."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Solo deseo analizar su potencial de velocidad. ¡El\npoder latente que yace dormido en la carne de cada\nUma Musume!",
+      "choice_data_list": [
+        "...?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Hay una diferencia medible en los efectos de las\nendorfinas que secreta? ¿Las velocidades de\nconducción de sus impulsos nerviosos son de alguna\nmanera únicas?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Quiero comenzar mi investigación sobre Falco!\n¡Inmediatamente!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿¡Qué?! Pero si quieres estudiarme aquí y ahora...\ne-eso solo puede significar..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Debes ser una gran fan! ♪",
+      "choice_data_list": [
+        "¿<i>Eso</i> es tu conclusión aquí?",
+        "¿<i>Eso</i> es tu conclusión aquí?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Bueno, sí—¡porque yo soy igual! ¡Estudio todo\nsobre mis ídolos favoritos como parte de mi\ninvestigación para ser la mejor ídolo! ☆"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Si quieres estudiarme tanto, debe significar que\nrealmente te he cautivado!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Siendo ese el caso, tal vez debería darte un trato\nextra especial."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Oho... ¿Un trato extra especial, dices?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Puedo tomar eso como una oferta... de cooperar\ncon mi investigación?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Por supuesto! ¡Quiero cumplir las expectativas de\nmis fans y aumentar mi poder de ídolo aún más!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Lo que significa... ¡que estaré con Tachyon por un\ntiempo, Entrenador!",
+      "choice_data_list": [
+        "¡Buena suerte aumentando tu poder de ídolo!",
+        "¡Buena suerte aumentando tu poder de ídolo!",
+        "¿Qué tipo de \"investigación\" vas a hacer\nexactamente?",
+        "¿Qué tipo de \"investigación\" vas a hacer\nexactamente?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Lo que significa... ¡que estaré con Tachyon por un\ntiempo, Entrenador!",
+      "choice_data_list": [
+        "¡Buena suerte aumentando tu poder de ídolo!",
+        "¡Buena suerte aumentando tu poder de ídolo!",
+        "¿Qué tipo de \"investigación\" vas a hacer\nexactamente?",
+        "¿Qué tipo de \"investigación\" vas a hacer\nexactamente?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Je-je... Entonces, como primer paso, ¿por qué no\nvamos a la enfermería para darte un chequeo médico\ncompleto?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, los acompaño a la enfermería y\nvuelvo a mi oficina."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Pisotón, pisotón, pisotón—¡choque!</i>"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "<i>Haa... Haa...</i> Entrenador...",
+      "choice_data_list": [
+        "¡Estás completamente sin aliento! ¿Qué pasó?!",
+        "¡Estás completamente sin aliento! ¿Qué pasó?!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "La cosa es que... Cuando llegamos a la\nenfermería..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Vale, Falco. Apúrate y toma asiento, por favor."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Claro! ☆ ¿Te refieres a esta silla negra grande,\nverdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Clonc!</i>"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Espera—¿qué es esto?! ¡¿Por qué no puedo\nmoverme?!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Je-je-je... Es para mi investigación. Dijiste que\nme darías un trato extra especial, ¿verdad?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "De acuerdo con tus palabras, ¡voy a usar tu\ncuerpo... en un experimento biológico!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿¡E-experimento?! No. De ninguna manera.\n¡Absolutamente no!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Rasg!</i>"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...¡Oh! ¡Pensar que pudiste quitar las ataduras\npor la fuerza!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡AHAHAHA! ¡Fascinante! ¡Así que este es el poder\nde una Uma Musume—no, de una ídolo con la espalda\ncontra la pared!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...Y después de eso, ¡me escapé tan rápido como\npude!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Urghhh... Supongo que no sirve de nada intentar\naumentar mi poder de ídolo simplemente yendo con\nlo que los fans quieran."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es una historia difícil de tragar de muchas\nmaneras, pero... dejando aparte el poder de ídolo,\nparece que ella ha crecido más fuerte en términos\nde fuerza pura..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oh, yo también quiero saber! ¡Cuéntanos, Tachyon!\n☆"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Je-je. No hay necesidad de tener tanta prisa."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Serás <i>plenamente</i> consciente de los detalles antes\nque te des cuenta."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿¡E-eh?! \"Dolorosamente consciente...\""
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Mmm... Tachyon, lo que acabas de decir..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Es exactamente como lo que dijo el asesino en el\nepisodio nueve de <i>Shining ☆ Idol Detective</i> !",
+      "choice_data_list": [
+        "¿Q-qué es eso?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Es esta súper interesante serie de misterio\nprotagonizada por mi ídolo favorita!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Hay una escena donde el personaje principal, la\ndetective ídolo, habla con el malo."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Y justo ahora, Tachyon sonó exactamente como el\nmalo en esa escena. ...¿No estarás escondiendo\nalgo, verdad, Tachyon?!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡AHAHAHA! ¡Pensar que la inspiración podría tomar\nesta forma!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Bueno, parece que me han descubierto. En ese caso,\n¡voy a aplicar estas ataduras aquí y ahora!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿¡A-ataduras?! No. De ninguna manera.\n¡Absolutamente no!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Fuuuush!</i>",
+      "choice_data_list": [
+        "¡Qué velocidad!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Je-je... ¡AHAHAHA! Como esperaba, ¡mi suposición\nfue correcta!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Esa reacción! ¡Esa velocidad! ¿El pensamiento\nrápido sacó tu potencial físico oculto?!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Parece que puedo obtener más datos útiles si me\nlimito a la observación por ahora!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Smart Falcon ha superado una crisis (?)\ncon la agudeza nacida de sus estudios diarios de\nídolo."
+    }
+  ]
+}

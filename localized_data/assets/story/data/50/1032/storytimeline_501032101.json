@@ -1,0 +1,221 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es Año Nuevo. Como de costumbre, comparada con\notras Umamusume, el entusiasmo de Agnes Tachyon\nhacia las carreras es bastante bajo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aun así, establecimos como meta para este año\nganar la Triple Corona Clásica."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sé que su falta de entusiasmo no se debe a una\nfalta de motivación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de todo, si su objetivo es alcanzar\nvelocidades aún más altas, tendrá que inscribirse\nen algunas carreras para lograrlo.",
+      "choice_data_list": [
+        "(¡Estoy segura de que inscribirse en carreras la\nayudará a mejorar aún más!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cojo un pincel y algo de tinta para intentar hacer\ncaligrafía motivacional."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Feliz Año Nuevo, Entrenador!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Es muy típico de ti insistir en que tengamos una\nreunión tan temprano en el año nuevo. Aunque..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella nota la caligrafía en la que estoy\ntrabajando."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Qué tenemos aquí? \"La Triple Corona Clásica.\"",
+      "choice_data_list": [
+        "Es nuestra meta para este año.",
+        "Es nuestra meta para este año."
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Ah, cierto! ¡Recuerdo que me lo dijiste! ¡Las\nperspectivas se ven positivas!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Aunque, como he estado diciendo, no puedo\ngarantizar que realmente vaya a inscribirme en\nalguna carrera.",
+      "choice_data_list": [
+        "(Realmente quiero respetar su posición, pero al\nmismo tiempo...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si va a correr, ahora sería el momento para que\nempecemos a mover las cosas.",
+      "choice_data_list": [
+        "(¡Tengo que convencerla!)"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hm. ¿Estás diciendo que sería un desperdicio no\nutilizar las carreras clásicas, correcto?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Si es así, tienes un punto válido. Competir con\nUmamusume poderosas podría ser la clave para un\nnuevo avance en mi investigación."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Aunque, como he dicho en el pasado, o en realidad\nhace un momento, yo—",
+      "choice_data_list": [
+        "¡Pero las carreras también son el lugar perfecto\npara la recolección de datos!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...¡Je, je! ¿Eres tan persistente? ¿De verdad\ndeseas que corra tanto?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sonriendo, se lleva la mano a la barbilla y se\nsumerge en profundos pensamientos."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...Bueno, puede que tengas razón. Bien. Haré los\narreglos para el Satsuki Sho entonces.",
+      "choice_data_list": [
+        "¿¡Lo harás?!"
+      ],
+      "color_text_info_list": [
+        "Satsuki Sho"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Es un deseo sincero de mi querido conejillo de\nindias—Entrenador! Me dolería rechazarte una y\notra vez."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Además, ¡la oportunidad de recopilar datos es una\npropuesta atractiva!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Mientras estamos en ello, ¿deberíamos intentar\npensar en estrategias para el Yayoi Sho así como\npara el Satsuki Sho?",
+      "choice_data_list": [
+        "(¡En realidad está mostrando interés en algo más\nallá de la investigación!)"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Quita esa expresión de sorpresa de tu cara. No soy\nel personaje unidimensional que crees que soy."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Incluso una rata de laboratorio recibe golosinas,\nsi sabes a lo que me refiero. De todos modos, ¿qué\nvamos a hacer ahora?",
+      "choice_data_list": [
+        "¡Pensemos en nuestra estrategia para las carreras!",
+        "¡Celebremos con un poco de mochi!",
+        "¡Oremos en el santuario para tener buena suerte!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Je, je! ¡Entonces comenzaremos nuestra reunión de\nestrategia!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Primero, determinemos los posibles contendientes\npara el Yayoi Sho de este año."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Una vez que hayamos aprendido sus fortalezas,\ndebilidades y personalidades, podemos ingresar\nesos datos en la simulación y realizar escaramuzas\nen RV!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Pero también está la imaginería motora, que,\nestadísticamente hablando, está demostrado que\ncontribuye al exito en varios asuntos. Podríamos\nni siquiera necesitar ejecutar simulaciones."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Un sprint de cincuenta metros o incluso una\ncarrera de vallas sería bueno... Pero espera, ¿y\nsi compilamos todos los datos de las chicas en una\nentidad similar a un quimera?",
+      "choice_data_list": [
+        "¿¡Una quimera?!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Si configuramos los ajustes para mezclar\naleatoriamente partes de sus cuerpos, ¿qué\nhíbridos crearíamos? ¡Incluso podríamos combinar\nsus órganos internos!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Oh, qué emocionante! ¡Apresurémonos al\nlaboratorio! Te nombro mi asistente por el día!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Paso el resto del día monitoreando su\ninvestigación y evitando que rompa cualquier\ncódigo ético científico."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Hmm? ¿Quieres relajarte y saborear el ambiente de\nAño Nuevo juntos?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Estás seguro? Sabes que no estoy acostumbrada a\neste tipo de cosas.",
+      "choice_data_list": [
+        "¡Solo esta vez no hará daño!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Bueno, supongo que es cierto. El alto contenido de\nazúcar resultará valioso como fuente de energía\npara el cerebro y el entrenamiento."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No, espera. ¿Por qué ir a tales extremos con este\nmétodo ineficiente de ingestión cuando puedo\nsimplemente tomar glucosa directamente?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Sí, eso lo resuelve. Conejillo de indias, ¡tráeme\nalgunas tabletas de glucosa de las tiendas de por\nallá!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Mientras estás en ello, ¡consigue también algunos\nsuplementos de vitamina B9 y hierro! ¡Oh, y\netanol!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, sin más, paso el resto del Año Nuevo\nhaciendo sus mandados personales."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Oren en el santuario, dices? Para ser franca, no\nestoy muy familiarizada con la costumbre."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No me malinterpretes, lo encuentro bastante\ninteresante. Al final, se reduce a una\nreafirmación de sentimientos, ¿verdad?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Espera un momento... Si haces un deseo, esto\npodría presentarme una oportunidad para observar\nsu efecto placebo de cerca!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Sí! ¡La primera visita al santuario de Año Nuevo\nno suena nada mal! ¿Qué estás esperando? ¡Vamos!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Y también debemos conseguir papeles de la suerte\nmientras estamos en ello! ¡Una gran fortuna o una\ngran desgracia sería ideal!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras estamos en el santuario, ella me acosa\nsin descanso sobre los deseos que hice."
+    }
+  ]
+}

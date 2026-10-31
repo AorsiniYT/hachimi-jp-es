@@ -1,0 +1,111 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "La primera carrera de T.M. Opera O, su primera\noportunidad para mostrar su forma de correr, ha\nllegado."
+    },
+    {
+      "name": "???",
+      "text": "Finalmente es hora de mi primera carrera... Espero\nque todo esté bien...",
+      "color_text_info_list": [
+        "★★★"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Debería estar bien siempre que empiece bien...\nPero... Pero, aún así... Ohhh...",
+      "choice_data_list": [
+        "¿Opera O? ¿Probando un nuevo estilo?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¡Hyeeek! Lo siento mucho... Pero no soy Opera O.",
+      "color_text_info_list": [
+        "Opera O"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Mi nombre es Meisho Doto... Soy... una de sus\namigas...",
+      "color_text_info_list": [
+        "Meisho Doto"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ella podría no verme como una amiga, pero igual\nvine... para, bueno, para animarla...",
+      "choice_data_list": [
+        "¿Sabes dónde está?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Umm, bueno... No creo que ella haya llegado aún.\nPor eso estoy preocupada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que llega tarde en su primer día... Muy\ntarde."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Saludos, Entrenador. ¿Esperándome? Estoy segura de\nque sí."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "A propósito te he hecho esperar, ya ves. ¡Haaah ha\nha!",
+      "choice_data_list": [
+        "¿Pasa algo?",
+        "¿Pasa algo?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Cómo podría haber? Planeé esta llegada tardía."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Como la estrella, ¿qué tan grosero sería robar al\nelenco de apoyo de la atención que merecen al\nsubir al escenario primero?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella sabe que ha hecho algo mal..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ahh, mi primera carrera! ¡El día finalmente ha\nllegado para revelar mi belleza y zancada a las\nmasas!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Pero una primera carrera no es todo lo que voy a\nlograr!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Una leyenda... Un seguimiento... Y amor!",
+      "choice_data_list": [
+        "No nos volvamos locos ahora."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Amor... Eres increíble, Opera O..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Algunas personas se dejan llevar por la confianza\nsola."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Partamos, Entrenador! La era está esperando a su\nnueva estrella brillante."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "No te preocupes por el resultado. Comienza los\npreparativos para la conferencia de prensa\nposterior a la carrera inmediatamente."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Debe haber suficiente asientos para acomodar a\ntodos los reporteros de medios que acuden! ¡Haaah\nha ha ha!"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "He traído a Oguri Cap a observar una carrera como\nparte de su entrenamiento."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "La pista tiene forma de bola de arroz... Qué\nfascinante.",
+      "choice_data_list": [
+        "Puedes comprar una bola de arroz real dentro,\n¿sabes?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "He oído que el Nakayama Racecourse tiene una gran\nselección de comida. No puedo esperar para verlo\npor mí mismo.",
+      "choice_data_list": [
+        "Demos una vuelta por las tiendas hasta que la\ncarrera empiece."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los ojos de Oguri Cap brillan de emoción mientras\ncaminamos por el área de concesiones."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "La carrera empezará pronto. ¿Crees que tenemos\ntiempo para mirar algunas más?",
+      "choice_data_list": [
+        "Deberíamos ir ahora para asegurarnos de conseguir\nun buen lugar.",
+        "¡Disfrutemos la carrera <i>y</i> la comida!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pero... Está bien. Supongo que la carrera <i>es</i> la\nrazón por la que estamos aquí, después de todo."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Todavía hay comida por ver... pero está bien.\nVamos a las gradas."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Mira eso! ¡Aquí está Akemichi King, subiendo por\ndetrás!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Akemi... ¿\"Pollo\"?"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Noppo Tetora va justo detrás de ella!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "No... ¿\"pa-ta-ta\"?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pollo... Papa... Frita... Caliente...",
+      "choice_data_list": [
+        "¿Oguri? ¿Oguri?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Mmrgh... No te preocupes, no es nada. Simplemente\nveamos la carrera."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pollo... Papa... Es difícil descartar a cualquiera\nde los corredores..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque Oguri Cap claramente está luchando con\nalguna prueba, hago lo que ella dice y permanezco\nen silencio a su lado."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "La carrera está casi terminando. ¿El ganador será\nPollo... o Papa?"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Akemichi King se lleva la victoria! ¡Akemichi\nKiiiiing!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Ahhh, ¡entonces ganó Pollo! Justo como predije."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Oguri Cap logró resistir la tentación\ngastronómica y concentrarse en la carrera."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Papa también corrió asombrosamente. Podría\naprender algunas cosas de—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Grr...</i>"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Tengo hambre."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Yo invito a Oguri Cap a cenar por ver la carrera\ncon tanta atención."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí, por supuesto."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Todavía hay algunos lugares que tengo en mente.\nVeamos tantos como podamos antes de que la carrera\nempiece."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Voy por los puestos de concesión con Oguri Cap.\nEstá tan animada, que parece una persona\ncompletamente nueva."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "La carrera está por empezar. Está bien,\n¡preparémonos para concentrarnos!",
+      "choice_data_list": [
+        "Estás muy entusiasmada.",
+        "Estás muy entusiasmada."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí. Mi mente está más aguda ahora que tengo el\nestómago lleno."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Ahora puedo predecir qué hará el corredor en\nsegundo lugar, o quién saldrá desde atrás... Cosas\nasí.",
+      "choice_data_list": [
+        "¿Quién crees que va a ganar?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Buena pregunta. Juzgando por la situación\nactual..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los dos discutimos nuestras predicciones sobre los\nresultados de las carreras."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Luego, después de la carrera final..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Tenía razón otra vez... Verás, ella se mantuvo en\nel lado exterior de la pista todo el tiempo."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Parece más fácil correr por el exterior en este\nrecorrido, así que supuse que ella tendría la\nventaja.",
+      "choice_data_list": [
+        "Ese es un gran análisis.",
+        "Ese es un gran análisis."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí. Debería ir bastante bien cuando corra aquí."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Creo que haré que tú, la gente de mi ciudad y\ntodos mis fans se sientan orgullosos."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Es por eso que tengo que seguir poniendo todo de\nmí en mi..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Entrena...miento... <i>Bostezo...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella puede haber puesto demasiada energía en el\nanálisis después de comer. Parece estar al borde\nde un coma alimenticio."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dejamos las gradas, soñando con el día en que la\nmultitud coree el nombre de Oguri Cap."
+    }
+  ]
+}

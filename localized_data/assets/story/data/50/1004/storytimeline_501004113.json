@@ -1,0 +1,306 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Maruzensky ha estado entrenando duro para el Asahi\nHai F.S.",
+      "color_text_info_list": [
+        "Asahi Hai F.S."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Entonces, ¿qué sigue en el entrenamiento?",
+      "choice_data_list": [
+        "Lo estás haciendo genial. Sigamos con lo que\nfunciona.",
+        "Lo estás haciendo genial. Sigamos con lo que\nfunciona."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Nuestra meta es una carrera G1, así que ¿no sería\nbueno entrenar un poco más duro?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Hola, Maruzen!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Oh?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Estaba viéndote entrenar! ¡Eres tan increíble\ncomo siempre!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Espero no molestar, pero también estuve observando\ntu entrenamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estos jóvenes estudiantes brillantes aún se les\niluminan los ojos cuando hablan con Maruzensky."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Desde que se transfirió a la academia, Special\nWeek se ha convertido rápidamente en una promesa,\nconocida tanto por su habilidad como por su\namabilidad.",
+      "color_text_info_list": [
+        "Special Week"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y Grass Wonder puede parecer callada a primera\nvista, pero su potencia al correr ya se considera\nde primer nivel.",
+      "color_text_info_list": [
+        "Grass Wonder"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Tu zancada fue potente y tu aceleración fluida,\npero sobre todo..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Parecías estar divirtiéndote muchísimo!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Jeje! ¡Las altas expectativas de todos son lo que\nme impulsa a darlo todo!"
+    },
+    {
+      "name": "Special Week",
+      "text": "De hecho, Maruzensky, tengo un favor que\npedirte..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Quieres correr conmigo, ¿verdad?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Wow! ¡Eso es! ¡Me conoces demasiado bien!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Tus ojos brillan tanto, que es fácil decirlo."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Y, Grass, puedes ser callada, pero también estás\nrebosante de entusiasmo.",
+      "color_text_info_list": [
+        "Grass"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "E-em, sí... Jeje, perdón por la intromisión."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Entrenador, ¿puedo salir a correr con estas dos un\nrato?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Entrenador, ¿puedo salir a correr con estas dos un\nrato?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Creo que competir con cada una por turnos sería un\ngran entrenamiento.",
+      "choice_data_list": [
+        "Por supuesto.",
+        "Por supuesto."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Gracias! ¡Entonces me voy!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Spe, Grass, ¡su mayor tiene <i>mucho</i> que enseñarles!",
+      "color_text_info_list": [
+        "Spe"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Ya estoy tomando notas!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Vamos! ¡Pongámonos a mil, amigas!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Ponernos a qué?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡La escuchaste, Grass! ¡Pongámonos a mil!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Em... esperaba aprender sobre <i>correr.</i>"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Ah, volver a ser joven! ¡Corramos hacia la puesta\nde sol como en el final de una película de\ncrecimiento!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Sí! ¡Hacia la puesta de sol, Grass!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Pero el sol todavía está justo sobre nuestras\ncabezas..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Me divertí muchísimo entrenando hoy!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Me preguntaba si estaba bien que yo corriera, sin\ntener un sueño y todo eso..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Pero ahora me encanta correr adelante y abrir\ncamino para las estudiantes más jóvenes! ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Todo gracias a ti, Entrenador, por siempre\nvigilarme. ♪",
+      "choice_data_list": [
+        "Me alegra verte disfrutar.",
+        "Me alegra verte disfrutar."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Todo gracias a ti, Entrenador, por siempre\nvigilarme. ♪",
+      "choice_data_list": [
+        "Me alegra verte disfrutar.",
+        "Me alegra verte disfrutar."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Jeje, ¡y yo me aseguraré de que te diviertas mucho\na cambio!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...¿Oh? ¿Qué es esa multitud de allá? ¿Está\npasando algo genial?"
+    },
+    {
+      "name": "Reportera A",
+      "text": "¿Estás diciendo que pretendes convertirte en la\nmejor Umamusume?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Sí, estoy preparada para dedicar mi corazón y alma\na guiar a todas las Umamusume hacia adelante."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Ey, Rudolf! ¿Estás dando una entrevista?",
+      "color_text_info_list": [
+        "Rudolf"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ah, Maruzensky. Iba de regreso a los dormitorios,\npero entonces aparecieron estos reporteros."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Symboli Rudolf, la presidenta del consejo\nestudiantil de la Academia Tracen, es una de las\nestrellas de la Serie Twinkle.",
+      "color_text_info_list": [
+        "Symboli Rudolf",
+        "Academia Tracen"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Está invicta hasta ahora y, como Maruzensky, atra\nmucha atención."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Veo que eres tan popular como siempre! Pero yo no\nvoy a quedarme quieta y dejarte ganar! ♪"
+    },
+    {
+      "name": "Reportero B",
+      "text": "¡El Hot Rod y el Emperador... No puedo creer que\nhayamos atrapado a estas dos corredoras tan\nrenombradas juntas así!",
+      "color_text_info_list": [
+        "Emperador"
+      ]
+    },
+    {
+      "name": "Reportera C",
+      "text": "Symboli Rudolf, por favor dinos qué opinas sobre\nMaruzensky."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Creo que va a ayudar a que la Serie Twinkle sea\nmuy emocionante."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Espero grandes cosas de ella."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Yo solo corro por diversión, pero no puedo evitar\nsentirme feliz al escuchar eso."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¿Crees que es probable que eventualmente veamos un\nenfrentamiento entre las dos?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...¿Un enfrentamiento?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "No es algo descartable."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Si ambas avanzamos, nuestros caminos seguramente\nse cruzarán. No tengo duda de que llegará el día\nen que corramos juntas."
+    },
+    {
+      "name": "Reportero B",
+      "text": "¡Lo estamos esperando!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...¡Jeje!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Pasa algo?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "No... Solo lo estaba imaginando."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oye, Entrenador, ¡entrenemos un poco más hoy!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oye, Entrenador, ¡entrenemos un poco más hoy!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Estaba pensando en ir a dar un paseo en auto, pero\nahora me apetece correr. ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Vamos, no queremos interrumpir la entrevista.\n¡Vámonos!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Je... ¿De repente le apetece correr, eh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las habilidades y la diversión de Maruzensky solo\naumentan mientras se prepara para el Asahi Hai\nF.S."
+    }
+  ]
+}

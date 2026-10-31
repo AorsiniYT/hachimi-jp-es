@@ -1,0 +1,142 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fan A",
+      "text": "Gold City corre hoy. No puedo esperar a ver cómo\nle va contra las corredoras mayores.",
+      "color_text_info_list": [
+        "mayores"
+      ]
+    },
+    {
+      "name": "Fan B",
+      "text": "Oh, por favor, solo estás aquí para mirar su linda\ncara, ¿verdad?",
+      "choice_data_list": [
+        "¡...!"
+      ]
+    },
+    {
+      "name": "Fan A",
+      "text": "¿Es tan obvio? Estoy emocionada de ver cómo le va,\npero en realidad solo quería verla en persona. ¿Tú\ntambién, verdad?"
+    },
+    {
+      "name": "Fan B",
+      "text": "Nah, yo animo a Tamamo Cross. ¿Viste esa carrera\nque ganó por un margen enorme?"
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Sí! ¡Es tan buena que da miedo! Me pregunto cómo\nle irá hoy?",
+      "choice_data_list": [
+        "¡También pon atención a la carrera de City!"
+      ]
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Whoa, ¿quién eres?! Espera... ¿Gold City?!"
+    },
+    {
+      "name": "Fan B",
+      "text": "Guau, es tan preciosa..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Gracias. Ya basta, Entrenador. Vámonos.",
+      "choice_data_list": [
+        "¡Pero!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Dije vámonos."
+    },
+    {
+      "name": "Gold City",
+      "text": "Así que Tamamo superó su barrera entonces. Bien\npor ella."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero para mí, todavía se trata solo de mi\napariencia...",
+      "choice_data_list": [
+        "City..."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Estoy bien. Necesito concentrarme en mi carrera."
+    },
+    {
+      "name": "Gold City",
+      "text": "Así que solo... no digas nada."
+    },
+    {
+      "text": "Los comentarios que escuchó no son la imagen\ncompleta. Los fans también están emocionados de\nverla correr. Pero escuchar eso no sería mucho\nconsuelo para ella ahora, así que en su lugar...",
+      "choice_data_list": [
+        "Solo mantén la cabeza alta y corre siendo tú\nmisma."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡He estado esperando esto, City! ¡Finalmente\npodemos correr una contra la otra!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Este momento ha tardado mucho en llegar. Has\ntenido mucho éxito para llegar aquí, pero todo eso\ntermina hoy."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Es mi trabajo devolverte a la realidad! ¡No te\npongas a llorar porque soy demasiado fuerte cuando\nesto termine!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Como si llorara..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿...?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "No sé si pasó algo, pero pareces bastante\ndesmotivada para alguien que se prepara para\ncorrer."
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Pasa algo? ¿O soy yo?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Oye! ¡Deja de poner esa cara tan seria!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Más te vale no medias tintas ahí afuera, ¿vale? Y\ntampoco te metas en mi camino!"
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "name": "Gold City",
+      "text": "No saldría ahí si solo fuera para hacer el\nridículo."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Si todavía hay una oportunidad..."
+    },
+    {
+      "name": "Gold City",
+      "text": "...Entonces tengo que hacerlo."
+    }
+  ]
+}

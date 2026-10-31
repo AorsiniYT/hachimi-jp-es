@@ -1,0 +1,73 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy, Gold Ship y yo visitamos un santuario."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Uf... ¡Y arriba! ¡Y abajo! ¡Y izquierda! ¡Y\nderecha!",
+      "choice_data_list": [
+        "¿Q-qué estás haciendo?",
+        "¿Q-qué estás haciendo?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Bailando, obviamente! ¿No te das cuenta?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Bailar es cómo nos comunicamos con los espíritus!\n¡Ha sido así desde tiempos antiguos!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Casi soy un oráculo, así que si bailo, los\nespíritus probablemente también moverán el\nesqueleto!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Así que aquí estoy, bailando! Uno y dos y tres y\ncuatro y—"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Qué dicen, espíritus? \"Dormir mucho, comer\nmucho\"?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Oh, soy una experta en eso! ¡No hay momento como\nel presente para poner ese consejo en práctica!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Después de todo, ¿quién soy yo para desobedecer a\nlos espíritus?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gold Ship sigue el consejo de los espíritus al pie\nde la letra, y su condición mejora bastante."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Quéaa?! \"Escucha a tu entrenador\", ¿dices?",
+      "choice_data_list": [
+        "Bueno, escuchaste a los espíritus.",
+        "Bueno, escuchaste a los espíritus."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Oh, no, no, no! <i>El</i> Golshi no recibe órdenes de\nnadie!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Eso incluye a los espíritus todopoderosos!\n¡Adiós!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡A LA LIBERTAD!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tal vez sea porque ignoró lo que dijeron los\nespíritus, pero la condición de Gold Ship no\nmejora en absoluto..."
+    }
+  ]
+}

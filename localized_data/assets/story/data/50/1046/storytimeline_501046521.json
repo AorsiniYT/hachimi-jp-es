@@ -1,0 +1,25 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Smart Falcon",
+      "text": "<i>Bostezo...</i> Buenos días, Entrenador...",
+      "choice_data_list": [
+        "Alguien se ve con sueño.",
+        "Alguien se ve con sueño."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ehe. Me quedé despierta hasta tarde viendo un\nprograma de música. Sabes, es mucho mejor verlo en\nvivo que una grabación."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Quedarse despierta un poquito por el bien de la\ninvestigación Umadol está bien, ¿verdad? ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de la actitud animada, Smart Falcon parece\nextremadamente privada de sueño..."
+    }
+  ]
+}

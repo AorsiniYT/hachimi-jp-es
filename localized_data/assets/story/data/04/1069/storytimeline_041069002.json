@@ -1,0 +1,206 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Días después llega el Tracen Meet, evento interno\npara que los estudiantes superen sus límites; esta\nvez la competencia está más encendida."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Es una Maruzensky desbocada, con Symboli Rudolf\npersiguiéndola! ¿Será un empate entre estos dos?\n¡Dejan atrás al pelotón!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Qué suerte tenemos de ver un espectáculo así <i>en\nla escuela?</i> Oh, ¡están en la última curva!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "..."
+    },
+    {
+      "name": "Maruzensky y Rudolf",
+      "text": "Hahhh!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡I-increíble! ¡Simplemente increíble! ¿Podrá el\nEmperador alcanzarla? ¿El Hot Rod se escapará con\nla victoria? ¡Están en los últimos 100 metros de\nesta batalla del siglo!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡...!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Viendo a Sakura Chiyono O salir de las gradas con\nuna mueca de disgusto en el rostro, siento que\nquiero seguirla."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuando finalmente la encuentro, está absolutamente\nempapada.",
+      "choice_data_list": [
+        "¿¡Estás bien?!",
+        "¿¡Estás bien?!"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Oh! E-Entrenador. Eh, estoy bien. Solo me sentía\nun poco <i>mal,</i> así que me salpicé con un poco de\nagua.",
+      "choice_data_list": [
+        "¿Te sentías... \"bleh\"?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Sí, o más bien... ¿meh? ¿O \"hnghh\"? Sabes, cuando\ntu corazón y cabeza están como <i>whoo...</i>"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Ese tipo de... sentimiento..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Lo siento. Para ser honesta, no hay nada lindo\nen cómo me siento."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "La carrera fue asombrosa. Se sintió tan\nemocionante como un G1. La multitud contuvo el\naliento, abrumada por el espectáculo..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Viendo una carrera así, yo... me sentí como..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Nunca podría estar a su altura."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡E-eh, algo así, de todos modos! Ahaha! ¡Lo\nsiento, no tiene sentido!",
+      "choice_data_list": [
+        "No lo sabes hasta que lo intentas.",
+        "No lo sabes hasta que lo intentas."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "No... no estoy segura de eso."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "E-e es que, desde el día que quedé cautivada por\nMaruzen, empecé a hacer todo lo posible."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "M-me sentía como si estuviera creciendo, y mis\ntiempos realmente mejoraron. ¡Mi forma incluso\nrecibió cumplidos de mi instructor..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "No era mucho, pero me estaba\nacercando—¡acercándome a ella! Realmente creía\neso, pero..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Después de todo ese trabajo duro, toda esa\nmejora, me di cuenta de algo!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Todavía estamos a mundos de distancia."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Saca la carta de antes de su bolsillo y la hace\nañicos.",
+      "choice_data_list": [
+        "¡...!"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Ah... L-lo siento! Yo, um... ¡tengo que irme!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Recoge los pedazos uno por uno y los tira al bote\nde basura, luego sale corriendo antes de que pueda\ndetenerla."
+    },
+    {
+      "name": "Letter",
+      "text": "Si algún día pudiera correr a tu lado frente a\nmiles, sería un sueño hecho realidad."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Veo un vistazo de su carta, escrita en letras\ngrandes, ordenadas pero temblorosas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Durante los próximos días, no puedo dejar de\npreocuparme por Sakura Chiyono O, pero lucho por\nencontrar la mejor manera de abordarla."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Querías hablar sobre Chiyo? ¿De qué se trata,\nRudolf?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Debes ser consciente ya, pero... desde nuestro\nentrenamiento, ella ha estado desanimada. Hishi\nAmazon me alertó sobre esto."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "La vigilé por unos días, y parecía que su mente\nestaba en otra parte. Su rostro también se veía\nenfermizo."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "La admiración y la desesperación son dos caras de\nla misma moneda. Muchos abandonan la academia\nentre lágrimas… \"Nunca te alcanzaré\" lo escucho\nsiempre."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Como tú, imagino."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...Je. Siempre preocupándote, ¿eh?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Es cierto que ella podría no ser la más dotada.\nPero ella lo sabe."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Es por eso que está en la pista cada mañana,\nmonitoreando su condición, devanándose los sesos\nsobre cómo puede mejorar."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Lo que quiero decir es, ella mira sus debilidades\na los ojos cada día. Se necesita un corazón fuerte\npara hacer eso... Así que estará bien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tiene un punto. Aceptar tus propias debilidades\nsuena fácil, pero sorprendentemente pocos pueden\nhacerlo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy segura de que parte de esa tenacidad\nproviene de la propia personalidad de Chiyono O,\npero el factor más grande debe ser..."
+    },
+    {
+      "name": "Letter",
+      "text": "Si algún día pudiera correr a tu lado frente a\nmiles, sería un sueño hecho realidad.",
+      "choice_data_list": [
+        "(Ella tiene a Maruzensky a quien admirar.)"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Simplemente no está lista para lanzarse y\nlastimarse aún. Una vez que lo esté, estará en\nnuestros talones en poco tiempo."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...Ya veo. Perdona mi ignorancia, entonces."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sakura Chiyono O podría doblarse, pero no se\nquebrará. Con solo un poco más de valor, se pondrá\nde pie corriendo con una sonrisa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin darme cuenta, estoy bajando las escaleras\ncorriendo y saliendo a buscarla."
+    }
+  ]
+}

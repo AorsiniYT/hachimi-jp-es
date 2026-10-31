@@ -1,0 +1,277 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mientras camino por la plaza central, veo a Narita\nTaishin escuchando música en un banco."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué es esto? No recuerdo que esto estuviera en\nlas listas. ¿Es nuevo o algo así?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ah, así que esto es lo que está de moda ahora."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Oh, eres tú. ¿Qué quieres?",
+      "choice_data_list": [
+        "¿Qué tipo de música escuchas?",
+        "¿Qué tipo de música escuchas?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "La verdad no me importa. Solo pongo lo que sea\npopular.",
+      "choice_data_list": [
+        "¿Qué canciones te gustan?",
+        "¿Qué canciones te gustan?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Nada en particular."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Las canciones son todas iguales. Solo me gusta\ndejarlas reproducirse."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Sí que cambio de géneros, aunque. Si no, me aburro\nde escuchar lo mismo.",
+      "choice_data_list": [
+        "Entonces, ¿dirías que podrías vivir sin música?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No exactamente. Supongo que prefiero tener algo\nsonando de fondo."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Pero no importa qué sea."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Seguimos hablando de música mientras caminamos."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "La música es solo ruido que ayuda a pasar el\ntiempo."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No es como que escucharla afecte mis emociones o\nalgo así. No soy una niña.",
+      "choice_data_list": [
+        "Te sorprenderías. A veces la música puede\nrealmente conmoverte."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Oh, por favor. Tienes la cabeza en las nubes. De\nninguna manera es verdad."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Y si lo es, entonces muéstrame algo que me\n\"conmueva\". ¿Qué tienes?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin es exigente. ¿Con qué tipo de\nmúsica conectaría?",
+      "choice_data_list": [
+        "R&B en vivo.",
+        "Pop sekaikei."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿R&B en vivo? ¿Quieres que vaya a un club por eso\no algo? Aunque nunca he escuchado R&B antes..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Pero los clubes no suelen estar llenos? Odio las\nmultitudes y los lugares ruidosos.",
+      "choice_data_list": [
+        "Algunos están menos llenos y son bastante\ntranquilos.",
+        "Algunos están menos llenos y son bastante\ntranquilos."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Bien. Llévame a uno así. Pero me voy si no me\ngusta, ¿entendido?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así que la llevo a un club de música que está\ntocando la última música R&B."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Guau, esto es..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin se mece con un ritmo intenso pero\nsuave que nunca antes había escuchado."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...",
+      "choice_data_list": [
+        "¿Cómo estuvo?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Extraño, en realidad... Era ruidoso, pero bastante\nagradable al oído..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Supongo que aún hay un mundo de música por ahí que\nnunca he escuchado."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Los sonidos se mezclaban como si estuvieran\nexplotando desde las suelas de mis pies."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Heeeey, Taishiiin!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Ugh!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Taishin! ¡Guau, tú también estás aquí?! ¡Eso es\ngenial!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Alguien me invitó, pero no tengo idea de qué está\npasando!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Sí, eso suena más o menos."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Pero es bastante increíble! Me encanta cómo fue\ncomo <i>¡bum, bum! ¡Bam,bam!</i>"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Y luego sientes este gran sentimiento \"wooooo!\"\ndentro de ti! ¿Lo entiendes, Taishin?!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ugh, <i>obviamente</i> lo entiendo, pero tú no."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "De todos modos, me voy a casa ahora, entrenador."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Supongo... que hoy no estuvo tan mal."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Nos vemos."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Taishin, esperaaaa! ¡Hablemos más y hablemos en\nserio sobre la música!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Literalmente <i>¡cállate! </i>A diferencia de la música\nque acabamos de <i>escuchar, eres </i>ruidoso y molesto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin se va apurada. Parece que el nuevo\nritmo le ha añadido un poco de energía a su paso."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué es eso? ¿Algo de subcultura? No lo entiendo."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ah que lo recuerde, el planetario está organizando\nalgún tipo de evento para eso ahora mismo."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Escucha música pop mientras miras la Tierra desde\nel espacio, o algo así.",
+      "choice_data_list": [
+        "¿Quieres ir?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Supongo que podríamos echar un vistazo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así que visitamos el planetario."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Las letras son algo misteriosas. Cosas sobre\ntransitoriedad, deseos mundanos y iluminación..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Todas nuestras preocupaciones y dudas son meras\nondas en el agua... ¿Eso es todo lo que somos?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El show de música celestial termina mientras\nNarita Taishin contempla la vida."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No puedo describirlo realmente, pero como..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Oh? No sabía que tú también estabas aquí,\nTaishin."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Hayahide? ¿Te gusta este tipo de cosas?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No, el evento solo coincidió con mi visita aquí\npara investigar cuerpos celestes."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sin embargo, encontré que había algunas\ninconsistencias lógicas dentro de las letras."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Piénsalo. Simplemente no es posible que las\nemociones del planeta más grande del universo\nlleguen a la Tierra en un instante."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Deberías abordarlo menos literalmente."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Se trata de cómo te sientes. Tal vez nos estamos\nenfocando en lo incorrecto."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Menos literalmente? Taishin, no suenas como tu yo\nsensible habitual hoy."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Has cambiado tus creencias o algo?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No exactamente. Supongo que podrías decir..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Mis vibraciones son un poco diferentes. Así es\ncomo me siento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin parece haber ganado una nueva\nperspectiva al sumergirse en el mundo de la última\nmúsica pop."
+    }
+  ]
+}

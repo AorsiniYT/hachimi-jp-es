@@ -1,0 +1,179 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Las pruebas—donde las Umamusume de todos los\norígenes conocen a sus entrenadores destinados."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me acerco a un santuario cercano para hacer un\ndeseo rápido con la esperanza de conocer a la\nmejor Umamusume absoluta."
+    },
+    {
+      "name": "???",
+      "text": "¡Guau! ¿¡Mis ojos me engañan, o ese emblema\nbrillante es lo que creo que es?!"
+    },
+    {
+      "name": "???",
+      "text": "¡Así que el día fatídico finalmente ha llegado!\n¡Mi entrenador ha aparecido ante mí!",
+      "choice_data_list": [
+        "Si es dinero lo que buscas, no tengo ninguno."
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¿Eh? ¿Quién te crees que soy? ¡Soy una Umamusume\nrespetable! ¡Nunca haría algo tan nefasto!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Oh, cierto. No me he presentado. ¡Lo siento!\n¡Llámame Matikanefukukitaru!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "He estado esperando y esperando a <i>el Elegido</i> para\nque aparezca. ¡Finalmente! ¡Toda esa espera ha\nvalido la pena!",
+      "choice_data_list": [
+        "¿El Elegido? ¿De qué estás hablando?",
+        "¿El Elegido? ¿De qué estás hablando?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Estoy hablando de nada menos que tú, por\nsupuesto!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Hace apenas unas horas, la gran Shiraoki me reveló\nque debía venir a este santuario y probar mi\nsuerte sacando un papel de la suerte."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Y sorpresa, sorpresa—¡dijo que \"conocería al\nElegido\" en este mismo lugar!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Fue entonces cuando apareciste, justo como decía\nque lo harías!",
+      "choice_data_list": [
+        "Creo que tienes a la persona equivocada."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Espera, no te muevas! ¡Tengo a la persona\ncorrecta—lo sé!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Piénsalo por un momento! ¡Soy una Umamusume, y tú\neres un entrenador! ¿¡No es demasiado perfecto\npara ser solo una coincidencia?!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Nuestro encuentro estaba destinado—predestinado a\nsuceder y divinado por la gran Shiraoki en\npersona!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡No es hora de perder el tiempo! Debemos aceptar\nel desafío y tomar nuestro futuro corriendo en la\nSerie Destello—¡tú y yo, juntos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Realmente va a hacerme su entrenador si no digo\nnada.",
+      "choice_data_list": [
+        "Lo siento, pero no puedo ser tu entrenador sin\nconocerte primero.",
+        "Lo siento, pero no puedo ser tu entrenador sin\nconocerte primero."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Justo. ¡Eso tiene sentido!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Entendido! En ese caso, ¡por favor escúchame!\n¡Hay un evento donde puedo mostrarte quién soy\nrealmente!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡En las próximas pruebas, te probaré mi valía como\ncorredora!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Te haré arrepentir de no haberme reclutado aquí y\nahora, ¡solo espera y verás!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Y cuando eventualmente cambies de opinión, ¡ese\nes cuando comenzaremos el entrenamiento! ¡Pero por\nahora, tengo que irme! ¡Gran fortuna me espera!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con esa exclamación final, la joven llamada\nMatikanefukukitaru salió corriendo hacia el\nhorizonte."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, me dirijo a la pista de carreras\ny veo a todas las Umamusume esperanzadoras\nprofundamente concentradas en el entrenamiento\npara las próximas pruebas."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Demos lo mejor de nosotros! ¿¡Entendido, Suzuka?!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Ummm... ¿Por qué me trajiste aquí? ¿Qué estamos\nhaciendo en la pista de carreras?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡La adivinación de zanahorias de hoy dijo que\ntendría suerte durante la práctica de carrera en\npareja! ¡Así que tienes que practicar conmigo!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Bueno... Si eso es todo lo que pides, supongo que\nno haría daño ayudar..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Ese es el espíritu! ¡Gracias un montón! ¡Te daré\nun pequeño amuleto después como regalo! ¡Hace que\nsepare todos tus palillos desechables\nperfectamente por la mitad!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Muy bien... Ya que el número de la suerte de hoy\nes 39, ¡hagamos treinta y nueve vueltas alrededor\ndel circuito!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Qué? ¿Te das cuenta de que una vuelta son dos\nkilómetros, verdad? Treinta y nueve vueltas serían\nmás de sesenta kilómetros..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡No hay problema! ¡El número de la suerte nunca\nmiente!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡E-eh! ¡No vamos a hacer esto de verdad, verdad?!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "<i>Haa... Haa...</i> Rayos... Quizás treinta y nueve fue\ndemasiado..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>Resuello... resuello...</i> Te lo dije... Y correr a\ntoda velocidad desde el principio definitivamente\nno ayudó..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Pero corrimos esta distancia precisamente porque\nnos pusimos un listón tan alto! ¡Todo gracias al\nnúmero de la suerte de hoy!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Pero solo corrimos cuatro vueltas..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Bien, ¡sigamos ahora! Las zanahorias me dijeron\nque nadar es el mejor entrenamiento para hacer\ndespués, ¡así que a la piscina vamos!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡El número de la suerte de hoy es 39, así que\nnademos de ida y vuelta en la piscina treinta y\nnueve veces!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Te lo pido... Basta con tu número de la suerte..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Qué encuentro tan extraño—quizás incluso\nfatídico—! ¿Realmente Matikanefukukitaru tiene lo\nnecesario para demostrar su valía en las pruebas?"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, después de que Grass Wonder tiene varias\nvictorias en su haber..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Entrenador, ¿puedo tener un momento de tu tiempo?",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Pensaba que ahora que la Twinkle Series se ha\ncalmado, podría ser un buen momento para cumplir\nesa promesa.",
+      "choice_data_list": [
+        "¿Quieres decir... ir a ese viaje a las aguas\ntermales que ganamos en la rifa?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sí. Si tu agenda lo permite, ¿estarías dispuesto a\nacompañarme?",
+      "choice_data_list": [
+        "¡Suena genial!",
+        "¡Suena genial!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Inmediatamente acepto ir. Las oportunidades para\nrelajarse y desahogarse así no se presentan todos\nlos días."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Aquí estamos, Entrenador."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Se dice que este onsen natural alivia la fatiga,\nel estrés mental, el dolor muscular y los hombros\ntensos.",
+      "choice_data_list": [
+        "Has hecho tu tarea.",
+        "Has hecho tu tarea."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "He encontrado que estar informado sobre un destino\nhace el viaje más disfrutable."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "De hecho, las aguas termales han sido parte de la\ncultura japonesa desde los tiempos del Kojiki y el\nNihon Shoki."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Todo era tan interesante, así que leí todo lo que\npude. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella es tan diligente como siempre, incluso de\nvacaciones. Entramos juntos a la posada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Remojándome en el onsen..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Uf... El agua fue maravillosa."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "El calor reconfortante parece haber lavado cada\núltimo rastro de mi agotamiento de las carreras. ♪",
+      "choice_data_list": [
+        "Me alegra escucharlo."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "...Eh, Entrenador?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No puedo evitar sentir que sería un desperdicio\nvolver a nuestras habitaciones ahora. ¿Podríamos\nsalir a caminar?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ahhh... Este lugar realmente tiene una vista\nmaravillosa de las estrellas.",
+      "choice_data_list": [
+        "Esta vista es increíble.",
+        "Esta vista es increíble."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Seguro que sí! ♪ La vista desde el baño al aire\nlibre fue tan magnífica..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Me hizo querer verla de nuevo contigo, Entrenador."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "El cielo es como arena, un polvo de estrellas de\ninnumerables luces, y en algún lugar allá\nafuera... Como si devolviera mi mirada, una\nestrella parece brillar para mí.",
+      "choice_data_list": [
+        "¿Y esa es?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Un poema escrito por Shiki Masaoka."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Justo como él, mientras miro el cielo nocturno,\nsiento que hay una estrella brillando para mí\ntambién."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Creo que esa estrella eres tú, Entrenador.",
+      "choice_data_list": [
+        "¿Yo?",
+        "¿Yo?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sí."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "El empinado camino que recorro ha estado lleno de\nobstáculos. El viaje no ha sido fácil."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "La única razón por la que pude superarlo sin\narrepentimientos es porque has estado ahí para\nguiarme."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Vigilándome, iluminando el camino hacia\nadelante...",
+      "choice_data_list": [
+        "Es porque <i>tú</i> eres mi estrella, Grass.",
+        "Es porque <i>tú</i> eres mi estrella, Grass."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Justo como todas las estrellas brillantes sobre\nnosotros, hay innumerables Umamusume apuntando a\nla cima."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero solo había una luz que captó mi mirada y se\nnegó a soltarla. Vino de la Umamusume llamada\nGrass Wonder."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Entonces, ¿somos las estrellas del otro? Entonces\npodríamos considerar nuestro encuentro como\ndestino."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿O es algo exagerado decir?",
+      "choice_data_list": [
+        "No, es un honor.",
+        "No, es un honor."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Muchas gracias, Entrenador."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Mientras estemos ahí para iluminar los caminos del\notro, ninguno de nosotros se extraviará."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Mi determinación me impulsará hacia adelante, como\nsiempre."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No importa cuán empinada sea la subida, tú y yo\nascenderemos juntos, Entrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siento que Grass Wonder y yo hemos formado un\nvínculo irremplazable durante este tiempo juntos."
+    }
+  ]
+}

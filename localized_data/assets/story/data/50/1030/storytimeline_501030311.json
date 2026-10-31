@@ -1,0 +1,254 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Rice Shower",
+      "text": "<i>Haa... Haa...</i>",
+      "choice_data_list": [
+        "¡Felicitaciones!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ehehe... gracias, hermano mayor."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ehehe... gracias, hermana mayor."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Podía escuchar las voces de todos mientras corría."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Tú puedes! \"¡Vamos, Rice, vamos!\" Todos me\nanimaban a seguir."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Jeje, esto no está bien. Prometí que haría sonreír\na todos..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Pero <i>yo</i> soy la que no puede dejar de sonreír!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Snif...</i> Estoy tan feliz de haber podido correr en\nel Takarazuka Kinen!",
+      "choice_data_list": [
+        "Todos los demás se sienten de la misma manera."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...¿En serio?"
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Riiiice! ¡Gracias!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Este fue el mejor Takarazuka Kinen de todos!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...¡Wow! ¡Hay caras felices por todos lados!",
+      "choice_data_list": [
+        "Todos están sonriendo por ti.",
+        "Todos están sonriendo por ti."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Por... mí?",
+      "choice_data_list": [
+        "Eres la rosa azul de todos.",
+        "Eres la rosa azul de todos."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Jeje... no hay manera. La rosa azul trae\nfelicidad, no desgracia, como lo hago yo."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Se necesitaría alguien realmente especial para\nhacer sonreír a todos como—",
+      "choice_data_list": [
+        "Tú <i>eres</i> realmente especial."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Oh! Eso significa... Yo... lo hice..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Traje felicidad a todos!",
+      "choice_data_list": [
+        "Gracias, Rice."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Nnng... ¡Waaaaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella estalla en lágrimas, hombros temblando,\nmientras el público la aplaude cálidamente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En la noche..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Inhalar... exhalar...</i>",
+      "choice_data_list": [
+        "¿Las lágrimas se secaron todas?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Je, sí. No puedo seguir llorando para siempre."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Tengo que sonreírle a todos mientras estoy en el\nescenario, después de todo."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "De esa manera puedo mostrarles cuán agradecida\nestoy de tener su apoyo."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Y que esta noche, les traeré felicidad a todos."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...¿Eso es demasiado?",
+      "choice_data_list": [
+        "No lo creo."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Gracias a Dios! Si tú lo dices, entonces estoy\nsegura de que está bien."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Gracias a Dios! Si tú lo dices, entonces estoy\nsegura de que está bien."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Bueno, ¡me voy! Tengo que ir a ver a todos.",
+      "choice_data_list": [
+        "Buena suerte allá afuera."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...¡Gracias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Rice Shower presenta su mejor actuación de\nconcierto de ganadores hasta ahora."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, una gran foto de ella adorna la\nportada del periódico."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así florece en el césped de Yodo una hermosa\nrosa azul—una nueva estrella, Rice Shower."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡H-Hermano mayor! ¡Quiero correr en el Arima\nKinen!",
+      "choice_data_list": [
+        "¡Ya decidiste?!",
+        "¡Ya decidiste?!"
+      ],
+      "color_text_info_list": [
+        "Arima Kinen"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡H-Hermana mayor! ¡Quiero correr en el Arima\nKinen!",
+      "choice_data_list": [
+        "¡Ya decidiste?!",
+        "¡Ya decidiste?!"
+      ],
+      "color_text_info_list": [
+        "Arima Kinen"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Sí! Verás, escuché..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Bourbon y McQueen están corriendo allí!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Así que también quiero unirme! ¡Será la carrera\ndefinitiva!",
+      "choice_data_list": [
+        "Muy bien, hagámoslo."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Yay! ¡Gracias!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Yay! ¡Gracias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como el Takarazuka Kinen, el Arima Kinen es una\ncarrera en la que solo los corredores más\npopulares pueden participar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pensar, que ahora ella puede decir que quiere\nparticipar sin preocuparse por los requisitos. Lo\nque significa...",
+      "choice_data_list": [
+        "Has crecido.",
+        "Has crecido."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Eh? ¿He crecido de estatura?",
+      "choice_data_list": [
+        "No es eso lo que quise decir."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Entonces, ¿qué quieres decir?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "D-dime, hermano mayor!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "D-dime, hermana mayor!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rice Shower pasa el resto del día siguiéndome,\nmolestándome por una respuesta."
+    }
+  ]
+}

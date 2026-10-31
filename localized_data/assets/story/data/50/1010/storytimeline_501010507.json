@@ -1,0 +1,35 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Entrenador! ¡Esto es <i>increíble!</i>",
+      "choice_data_list": [
+        "¿Qué pasó?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Recibí una carta de fan! ¡Dijo que ver mis\ncarreras y conciertos la hizo muy feliz!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Esta es una noticia fantástica! ¡Estoy encantada\nde que alguien me esté apoyando!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Sé exactamente qué hacer! ¡Voy a acercarme a esta\nfan y darle un gran abrazo!",
+      "choice_data_list": [
+        "¡Espera, espera, espera!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh! ¿Quieres unirte, Entrenador?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Desesperadamente detengo a Taiki Shuttle antes de\nque se vaya."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Winning Ticket",
+      "text": "Ahhh... Ughhh..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Puedo ver a Winning Ticket caminando hacia mí, con\nun aspecto inusualmente sombrío."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Oh, Entrenador! Escucha, ¡realmente necesito\ncontarte algo!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Verás... Fui a esta pastelería nueva y genial.\nPero... ¡pero!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Justo cuando llegué... ¡se <i>habían agotado!</i>",
+      "choice_data_list": [
+        "¿Tenías tantas ganas de probarlo?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Por <i>supuesto</i> que quería probarlo! Se agotaron\njusto antes de que llegara al frente de la\nfila—¡es tan frustrante!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡También hice fila durante una hora, pero no\nobtuve nada! ¡Todavía estoy temblando de la cabeza\na los pies!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ojalá hubiera llegado antes... Soy tan tonta—una\ngran, gran tontaaaa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los tristes llantos de Winning Ticket resuenan por\ntoda la calle."
+    }
+  ]
+}

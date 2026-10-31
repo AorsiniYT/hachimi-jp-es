@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Rice Shower",
+      "text": "Tengo que hacerlo bien en esta carrera si quiero\ncorrer en el Tenno Sho de primavera."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Así que aquí voy."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Tú puedes, Rice. ¡Tú puedes!",
+      "choice_data_list": [
+        "¡Sí, puedes!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Jeje, ¡correcto! ¡Volveré pronto, Big Brother!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Jeje, ¡correcto! ¡Volveré pronto, Big Sister!"
+    }
+  ]
+}

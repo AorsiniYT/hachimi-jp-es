@@ -1,0 +1,55 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Bien, eso es todos! Todos tienen sus cosas,\n¿verdad?"
+    },
+    {
+      "name": "Residentes del Dormitorio Rito",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Jeje. Me gusta escuchar eso. ¡Estamos listos para\nir, conductor!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "<i>Zzz...</i>"
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "<i>Zzz...</i>"
+    },
+    {
+      "name": "Residentes del Dormitorio Rito",
+      "text": "<i>Zzz...</i>"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Jeje. Están tan callados en comparación con cuando\npartimos por primera vez."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Supongo que es natural que estén cansados después\nde toda la diversión que han tenido."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Cómo te sientes, Entrenador? Si tienes sueño,\npuedes descansar también."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Mira, mi hombro está perfectamente disponible\npara soportar tu cabeza!",
+      "choice_data_list": [
+        "No seas tonto."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Jajaja! Vamos, no te avergüences."
+    },
+    {
+      "text": "...De todos modos, así termina el campamento de\nverano sofocante de este año."
+    }
+  ]
+}

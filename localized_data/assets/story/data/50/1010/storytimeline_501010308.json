@@ -1,0 +1,159 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Caray, Suzuka es más rápida que un rayo!\nSimplemente no pude seguirle el ritmo."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Pero fue muy emocionante! ¡Me divertí muchísimo!",
+      "choice_data_list": [
+        "¡Corriste magníficamente!",
+        "¡Corriste magníficamente!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Buen partido hoy, Taiki."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh, Suzuka!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Puede que haya perdido esta vez, ¡pero la próxima\nserá una historia completamente diferente!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Ya veo... Bueno, no pienso soltar el liderazgo."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Pero corriste increíblemente bien hoy. Fuiste tan\npoderosa... y tu velocidad fue completamente\nhechizante."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿De verdad lo crees? ¡Eso significa mucho!\n¡Gracias! ♪"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No... Debería ser yo quien da las gracias."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Qué?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Vine aquí para agradecerte."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Cuando corríamos, tu velocidad me impactó hasta el\nnúcleo..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Me ayudó a darme cuenta de algo."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Así que... gracias."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Um, claro..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Si así te sientes, entonces me alegra mucho haber\npodido ayudar!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Pero yo tampoco voy a caer la próxima vez! ¿A\ndónde crees que irás después?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "En realidad... Voy a Hong Kong. Hay algo que no\nquiero perder de vista."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿¡En serio?! ¡Eso es tener aguante! ¡Eres algo\nmás, Suzuka!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Eso significa que no te veré por un tiempo.\n¿Cuáles son tus planes, Taiki?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Hmm... Voy a seguir corriendo en más y más\ncarreras. ¡Quiero ver qué tan rápido puedo ir!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡La siguiente es el Yasuda Kinen!",
+      "color_text_info_list": [
+        "Yasuda Kinen"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso, el Mile Championship llega a su fin."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Tal velocidad abrumadora..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Pero... ¡Llegaré allí algún día!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Acabo de hablar por teléfono con mi familia!\n¡Estaban emocionadísimos con las buenas noticias!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Pero la verdadera sorpresa aún está por venir!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Cuando me convierta en Umamusume del Año, ellos\ntendrán aún <i>más</i> de qué disfrutar!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Qué opinas, Entrenador? ¿Crees que lo hice lo\nsuficiente bien para ser Umamusume del Año?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Creo que ella ha hecho todo lo que puede hacer\ncomo velocista."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero no se puede negar que hay otras Umamusume que\nhan tenido un desempeño excepcional este último\naño...",
+      "choice_data_list": [
+        "Esperemos el anuncio en enero."
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Uy, ¡creo que no puedo con la tensión!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Pero el entrenamiento seguro me distraerá! Si\nsigo corriendo, ¡enero estará aquí en un abrir y\ncerrar de ojos!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Muy bien! ¡Tengo más carreras que hacer hasta que\nsea Umamusume del Año!",
+      "choice_data_list": [
+        "Espera, ¡ya es de noche!",
+        "Espera, ¡ya es de noche!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Continuamos entrenando diligentemente para el\npróximo Yasuda Kinen, esperando el anuncio de la\npróxima Umamusume del Año..."
+    }
+  ]
+}

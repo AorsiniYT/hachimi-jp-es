@@ -1,0 +1,85 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El Arima Kinen está aquí, pero... Maruzensky no\nestá."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Veo solo un destello de vacilación en los ojos de\nGrass Wonder, y luego vuelve a actuar su yo\nprimario y ensayado."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Bueno, ahora que todos los preparativos están\ncompletos, es casi la hora."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Echo un vistazo a sus pies y noto que tiene sus\nzapatos de entrenamiento puestos.",
+      "choice_data_list": [
+        "¿No deberías cambiarte a tus tacos de carrera?",
+        "¿No deberías cambiarte a tus tacos de carrera?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Ah!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "M-mis disculpas. Me los pondré de inmediato."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin los pasos de Maruzensky a seguir, Grass Wonder\nparece insegura de a dónde ir."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aun así, la multitud ruge—porque las puertas deben\nabrirse, y el Arima Kinen debe continuar."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oye, Grass."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hola, Sei. ¿Cómo te sientes?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Decente, supongo. Lo de siempre."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Je. Así que estás en tu mejor condición, entonces."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Mantendré mi guardia en alto."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...¿Eh? Oye, Grass. Esto..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Qué es?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Nah, olvídalo."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Nos vemos en la pista."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Yo también debería irme."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es el último día del campamento de verano, y Biwa\nHayahide ha mejorado tanto que casi es una\ncorredora diferente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pensé que también podría haber ganado más\nconfianza, pero..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Entonces, ¿Ticket es su mayor amenaza?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "En este punto, no estoy segura de si alguna vez\nalcanzaré a esas dos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Apenas puedo oír lo que murmura mientras mira una\nenorme nube de tormenta. Claramente aún está\nansiosa.",
+      "choice_data_list": [
+        "(Winning Ticket and Narita Taishin...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo la sensación de que necesito idear una nueva\nforma de animarla y sacarla de este bajón."
+    }
+  ]
+}

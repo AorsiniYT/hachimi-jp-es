@@ -1,0 +1,282 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Con el nuevo año, el mundo de las carreras de\nnivel superior se abre ante nosotros.",
+      "color_text_info_list": [
+        "superior"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "De hecho, algunas carreras grandes como el Tenno\nSho de primavera y el Takarazuka Kinen están a la\nvuelta de la esquina.",
+      "choice_data_list": [
+        "(¡Ojalá Gold Ship pueda seguir fuerte este año!)"
+      ],
+      "color_text_info_list": [
+        "Takarazuka Kinen"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con mis esperanzas altas para el futuro, empiezo\npreparando una sesión de entrenamiento para Gold\nShip... pero ella no aparece."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No tengo más remedio que buscar por la academia\npara encontrarla. Después de un tiempo..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Así que tengo una pregunta para ti, Tickezo.",
+      "color_text_info_list": [
+        "Tickezo"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Aunque ahora seamos estudiantes, eventualmente\ntendremos que salir al mundo real. ¿Qué crees que\nnecesitaremos cuando llegue el momento?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Buena pregunta. Mmmmmm... No sé."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡La respuesta es simple: necesitamos poder de la\npersona normal!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿¡Qué!? ¿Qué es el \"poder de la persona normal\"?!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Te lo diré! Es la habilidad para encajar en la\nsociedad como un engranaje y ponerse a trabajar en\nun santiamén..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "No puedes andar causando problemas, ¿sabes? Tienes\nque hacer lo que haga flotar las cabras de la\ngente."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Eso tiene sentido! ¡No querríamos hundir ninguna\ncabra!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Exacto. Ahora que el prefacio está fuera del\ncamino, quiero probar mi propio poder de la\npersona normal."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Es hora de ponerme rapidísimo!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Rápido, ven conmigo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No puedo perder de vista a Gold Ship, así que hago\nlo posible por seguirles el ritmo."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Miren, una estación de tren. El campo de batalla\nde la gente normal."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿C-campo de batalla?! ¿Cómo es eso?!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿No es obvio? Hay reglas para montar en tren. No\nimporta lo que te pase dentro de esas paredes, no\npuedes armar un escándalo."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Puedes estar muriéndote de hambre o tener el\nrepentino impulso de silbar, pero tienes que\naguantar ese sufrimiento. Eso es lo que hace la\ngente normal."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Guau! ¡La gente normal la tiene difícil!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hoy, nos ponemos en su lugar. Es hora de demostrar\nque podemos encajar en la sociedad."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Te reto a ver quién aguanta más tiempo en\nsilencio en el tren!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡E-estás retado! Suena difícil, pero ¡haré lo\nmejor que pueda!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Y tú, Entrenador! ¡No creas que no me di cuenta\nde que estuviste ahí parado, espiándonos todo el\ntiempo!",
+      "choice_data_list": [
+        "¡Atrapada!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Depende de ti ver esta batalla hasta el final!\nDetermina al ganador de nuestro concurso, y por lo\ntanto, quién encaja mejor en la sociedad!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así es como me vi envuelto en supervisar la\nbatalla de Gold Ship contra Winning Ticket."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Clac, clac... Clac, clac...</i>"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Quince segundos después..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "...T-tengo que concentrarme... Cangrejo, camarón,\ncalamar, pulpo..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Nngh... ¡Soy una persona normal! ¡Soy una persona\nnormal!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Treinta segundos después..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Vieira, dorada, camarón, delfín... ¡Mierda! ¡Los\ndelfines son mamíferos!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "La gente normal no entra en pánico. Mantén la\ncalma, tranquilo y sin prisa, suave y constante!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuarenta y cinco segundos después..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Cómo pudo una experta en biología marina como yo\ncometer un error tan novato?! ¡La vergüenza! ¡La\nveergüeeenza...!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Tengo que quedarme quieto! Quieto,\nquieto,<i>¡quieto!</i> ¡Ngrghhh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Finalmente, después de solo un minuto..."
+    },
+    {
+      "name": "Gold Ship y Winning Ticket",
+      "text": "¡GAAAAAH! ¡No puedo aguantar más!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las puertas apenas han comenzado a abrirse cuando\nellas se están saliendo a empujones al andén."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡N-no podía <i>respirar</i> ahí adentro! Pensé que estaba\nperdida, ¡segurísimo!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Sí, nunca daré por sentado el respirar otra vez!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Y si hay una cosa más que se quedará conmigo\ndespués de hoy..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Es que los delfines son mamíferos! ¡Esa es una\nconfusión que no volveré a cometer!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La competencia termina antes de que pueda declarar\nun ganador..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gold Ship vs. Winning Ticket: ¡empate!\n(Continuará...)",
+      "color_text_info_list": [
+        "Winning Ticket"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esa noche, Gold Ship tiene otro extraño sueño."
+    },
+    {
+      "name": "???",
+      "text": "\"Gold Ship, descansando bajo las olas...\""
+    },
+    {
+      "name": "???",
+      "text": "\"Tu presa se acerca... Territorio radiante,\ninexplorado espera tu llegada...\""
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Mmm... ¿Qué fue eso?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ah, ya sé. Probablemente fue otro sueño sobre esa\ncosa del Edén."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Pero hombre, sé que he escuchado esa voz en algún\nlugar..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Mmm... Me da una sensación extrañamente\nnostálgica..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Buenos días, Gold Ship. Bastante tarde para\nlevantarse hoy, ¿no?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Buenos dí―hm?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "(Curioso... McQueen me da la misma sensación de\nnostalgia que mi sueño...)",
+      "color_text_info_list": [
+        "McQueen"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Es como el olor de las esteras de tatami en la\ncasa de mi abuelo..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Cómo dijiste?! ¡Espero que no estés hablando de\n<i>mí!</i>"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "(No, espera. McQueen huele un poco diferente...)"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "(Si tuviera que decirlo, mi sueño me recordó más a\ncomo... el olor de calcetines sucios después de un\ndía duro de trabajo.)"
+    }
+  ]
+}

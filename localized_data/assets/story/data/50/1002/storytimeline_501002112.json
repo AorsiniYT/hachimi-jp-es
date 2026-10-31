@@ -1,0 +1,207 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día en la residencia, hay un programa de viajes\nen la TV."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Guau! ¡Eso sí que es bonito!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Aguas termales escondidas, ¿eh? Seguro que suena\ncomo un viaje que vale la pena."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "(Hehe. Spe está de tan buen humor hoy.)"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "(Hm... Hablando de aguas termales...)"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Entrenador?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Recuerdas cómo gané ese cupón de vacaciones en\naguas termales en la rifa del distrito comercial?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ah que lo pienso, sí recuerdo..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿A quién debería invitar? Las vacaciones son\nocasiones especiales, después de todo..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Crees que podrías guardarme este cupón, por\nfavor?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pensando en ello, he estado guardando ese cupón a\nsalvo desde entonces."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No podía decidir qué quería hacer con él en ese\nentonces, pero..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Creo que lo sé ahora. ¿Te gustaría ir conmigo?",
+      "choice_data_list": [
+        "¿Me estás invitando?",
+        "¿Me estás invitando?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Sí. Me encantaría que vinieras."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Remojándome en el agua termal..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Eso fue maravilloso. Estaba tan tranquilo, y el\nagua estaba agradable y caliente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El agua termal era tan relajante como dice ella.\nCasi pierdo la noción del tiempo mientras me\nrelajaba allí.",
+      "choice_data_list": [
+        "Puede que me haya remojado un poco demasiado. Me\nsiento un poco mareado."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Oh no..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Hehe... Sé qué podemos hacer para ayudarte a\nrefrescarte.",
+      "choice_data_list": [
+        "¿De verdad?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Sí, estaba pensando en cómo me gustaría salir a\ncaminar afuera."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Te gustaría acompañarme?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Caminé con Silence Suzuka por un camino rural que\nparece extenderse por millas."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿No se siente genial la brisa?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Se ve tan feliz, que no puedo evitar preguntarme\nsi la razón por la que quería irse de vacaciones\nera para disfrutar de la exuberante naturaleza\nalrededor del posada.",
+      "choice_data_list": [
+        "Es tan abierto por aquí.",
+        "Es tan abierto por aquí."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Verdad? Parece que este camino podría continuar\npara siempre."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Apuesto a que si empezara a correr, podría ver\ntodo tipo de paisajes nuevos...",
+      "choice_data_list": [
+        "No vas a salir corriendo de repente, ¿verdad?",
+        "No vas a salir corriendo de repente, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Oh... No. Solo lo estaba imaginando."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Sí tengo ganas de salir a correr..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Pero ahora mismo, esto es exactamente donde quiero\nestar."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Quiero quedarme a tu lado, caminando juntos al\nmismo ritmo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me sorprendo por un momento con su inesperado\nanuncio."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Recuerdas cuando nos conocimos? El paisaje en ese\nentonces era justo como este."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Desde entonces, he corrido tanto, y he visto\ntantos paisajes diferentes."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "A veces corría tan rápido que ni siquiera podía\nver lo que había a mi alrededor.",
+      "choice_data_list": [
+        "...Sí.",
+        "...Sí."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "El camino que hemos recorrido para llegar hasta\naquí es justo como este por el que estamos\ncaminando ahora —irregular, áspero y cualquier\ncosa menos fácil de transitar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y durante tres años, no hemos hecho más que correr\npor él con determinación."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Quizás por eso me siento así."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Como que está bien tomar las cosas con calma de\nvez en cuando, y simplemente avanzar un paso a la\nvez..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Todo mientras disfruto de nuevos paisajes contigo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus ojos brillan como estrellas fugaces en el\ncielo nocturno.",
+      "choice_data_list": [
+        "Tienes razón.",
+        "Tienes razón."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Espero poder ver más paisajes nuevos en el futuro."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Y espero que aún estés a mi lado cuando lo haga."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pasamos el resto del paseo por esa interminable,\ncarretera rural irregular intercambiando solo unas\npocas palabras de vez en cuando."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siento que Silence Suzuka y yo hemos formado un\nvínculo irremplazable durante este tiempo juntas."
+    }
+  ]
+}

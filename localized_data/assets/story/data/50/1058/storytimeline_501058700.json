@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Meisho Doto",
+      "text": "<i>Bostezo...</i>"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Oh no! ¡Lo siento mucho por eso! Debo no estar\nsuficientemente concentrada para haber bostezado!",
+      "choice_data_list": [
+        "¿Pasa algo? Pareces cansada."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Uuugh... Bueno... Estuve despierta toda la noche\nayer reflexionando en mi cabeza."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Estoy tratando de entender por qué siempre\ntropiezo en pasillos, me caigo por las escaleras y\nresbalo en rampas haciendo triple salto mortal..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Había tanto para reflexionar, continué hasta la\nmañana... ¡Lo siento mucho por haber permitido que\nesto pasara!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Meisho Doto no ha dormido lo\nsuficiente."
+    }
+  ]
+}

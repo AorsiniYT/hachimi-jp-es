@@ -1,0 +1,20 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Legendary Bard",
+      "text": "¡Ay de mí... Una derrota trágica! Sin embargo, los\ncontratiempos son la esencia de una buena\nhistoria. El poderoso enemigo tendrá su merecido\nen el próximo encuentro."
+    },
+    {
+      "name": "Legendary Bard",
+      "text": "Comprendí que esta derrota se debe a mi bondad de\nrey; mi compasión es excesiva. Me arrepiento de la\npasividad y busco tomar el trono de mi generación."
+    },
+    {
+      "name": "Legendary Bard",
+      "text": "Así, avanzo mis piezas hacia el Derby Japonés, un\nlugar adecuado para fortalecer aún más mi nombre!",
+      "color_text_info_list": [
+        "Derby Japonés"
+      ]
+    }
+  ]
+}

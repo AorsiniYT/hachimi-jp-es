@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Durante una evaluación física programada\nregularmente..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ahh... ¡Lo sabía! ¡Es exactamente lo que pensé!",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Bueno, se trata de mi peso, ¿ves?..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No ha subido en absoluto, ¡a pesar de darme el\ngusto con dulces!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Y a pesar de que ya no entreno tan excesivamente\ncomo solía!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Seguramente es porque he estado obteniendo los\nnutrientes adecuados del plan de comidas que\nhiciste para mí."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Permíteme expresar mi gratitud una vez más por tu\nmeticulosa guía, Entrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro McQueen y yo renovamos nuestra\ndeterminación para seguir trabajando duro juntos."
+    }
+  ]
+}

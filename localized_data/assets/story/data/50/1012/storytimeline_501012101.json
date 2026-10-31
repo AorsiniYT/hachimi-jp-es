@@ -1,0 +1,256 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Feliz Año Nuevo, Profe! ¡Brindo por otro bueno!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es primero de enero, y Hishi Amazon ha venido a mi\noficina a saludarme por el año nuevo."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "En fin, ¡comencemos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella comienza a alinear una variedad de mochi en\nmi escritorio, uno tras otro."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "He traído algunos mochi de frijol dulce, mochi de\nartemisa—oh, y estos tienen azúcar morena, así que\nten cuidado de no hacer un desastre."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Y no puedes comenzar el año sin algo de kagami\nmochi! ¡Mira, la mandarina encima todavía tiene su\nhoja y todo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los kagami mochi tradicionalmente se decoran con\nnaranjas amargas, no mandarinas, pero me lo guardo\npara mí y solo aprecio su consideración."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La selección de mochi es maravillosa y no deja\nnada que desear. Es tan propio de Hishi Amazon ser\ntan atenta y considerada.",
+      "choice_data_list": [
+        "¡Todo se ve delicioso!"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Je, ¿verdad? Estos fueron hechos en la competencia\nde mochi que tuvimos en el Dormitorio Miho. La\nhacemos para los estudiantes que deciden quedarse\nen el campus durante las vacaciones."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡En el momento en que mis residentes del\ndormitorio supieron que te traería estos, pusieron\ntodo de sí para hacerlos!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Tengo que dar el ejemplo y hacer de este año uno\npara recordar para que tengan algo a lo que\naspirar!",
+      "choice_data_list": [
+        "(Hablando de eso...)"
+      ],
+      "color_text_info_list": [
+        "★★★"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ya es hora de definir qué carreras queremos\nperseguir este año."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le pregunto si preferiría correr la gira de la\nTriple Corona o la gira de la Tiara y espero su\nrespuesta."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡¿Huh?! Oh, ¡tienes razón! ¡Casi olvido que esas\ncosas de giras existían!",
+      "choice_data_list": [
+        "¿Qué?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Jaja, perdón por eso. ¡Solo tengo uno contra uno\nen la mente, sabes!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Hm, la Tiara o la Triple Corona... Esa es una\ndecisión difícil..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Pero siento que el Kikuka Sho es un poco demasiado\nlargo para mí.",
+      "color_text_info_list": [
+        "Kikuka Sho"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Si recuerdo bien, la recta final del Hipódromo\nNakayama es corta pero extremadamente empinada..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Mi especialidad es cerrar la brecha durante la\nhora once, así que podría estar mejor en Hanshin."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Supongo que pondrá el Oka Sho primero en mi lista.\nMuy bien, ¡hora de desatarse en la gira de la\nTiara!",
+      "color_text_info_list": [
+        "Oka Sho"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Pero espera ahora! ¡Brian definitivamente elegirá\nla gira de la Triple Corona, ¿verdad?",
+      "color_text_info_list": [
+        "Brian"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Ya ha sido elegida por las noticias como la mejor\nopción para la campeona de la Triple Corona, y las\nlargas distancias son su fuerte!",
+      "choice_data_list": [
+        "Eso es cierto..."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Me pregunto si podría tener un verdadero uno\ncontra uno con ella si voy por la gira de la\nTriple Corona en su lugar..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Ngh..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Argh! ¡No sé qué hacer!",
+      "choice_data_list": [
+        "¡S-solo toma un respiro profundo!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su compromiso de hacer de este año un buen año la\nha hecho sufrir un raro ataque de intensa\nindecisión."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Podría ser mejor tener un cambio de ritmo antes de\nrevisar el tema de su calendario de carreras.",
+      "choice_data_list": [
+        "¿Qué tal si hacemos algunos fideos udon?",
+        "Tomemos las cosas con calma por ahora.",
+        "¡Hagamos algunas actividades divertidas de Año\nNuevo!"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Hacer udon? ¿Ahora? ¿Qué, como una forma de\ndistraerme o algo?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Me gusta esa idea! ¡Hacer udon seguramente me\nhará sentir mejor!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Tenemos ingredientes de vuelta en el dormitorio,\nasí que iré a agarrarlos rápido!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así es como de repente terminamos haciendo\nfideos udon..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Guh! ¡Aún no he terminado! ¡Nadie quiere udon\nblando!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Voy a hacer estos los fideos más masticables y\nelásticos que alguien haya tenido! ¡Raaargh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Terminamos con algunos fideos muy masticables de\nhecho."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Tomar las cosas con calma?! ¡Nadie tiene el\ntiempo para—",
+      "choice_data_list": [
+        "Tomemos un pequeño descanso para que puedas\ndespejar tu mente."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Quiero decir, entiendo eso, pero..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "En realidad... Acabo de darme cuenta de que les\ndigo lo mismo a mis residentes del dormitorio para\ncalmarlos..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Bien, okay! ¡Voy a vaciar mi cabeza por completo!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "...El clima está realmente agradable hoy."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Hombre, holgazanear así me está dando sueño..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "<i>Zzz...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, pasamos el resto de nuestro día\nrelajándonos."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Qué, ahora? ¿Y olvidar toda la conversación seria\nque acabamos de tener?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "...Bueno, probablemente debería. Todo este\nalboroto no me está haciendo ningún bien. ¡Muy\nbien, eso es suficiente por ahora!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Allá voy, Profe! Me encantan los juegos de Año\nNuevo. He jugado algunos antes."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Qué quieres hacer? ¿Hacer girar trompos? ¿Volar\nuna cometa? ¿Intentar una ronda de fukuwarai? ¿O\nqué tal un juego de mesa?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Qué?! ¡Saqué <i>otro</i> uno?! ¡No estoy llegando a\nninguna parte, maldición!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡No me rindo, sin embargo! ¡No se acaba hasta que\nse acaba! ¡Voy a sacar un seis a continuación\nseguro! ¡Lo sé!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Traqueteo, traqueteo...</i>"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Es un uno!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, pasamos todo el día relajándonos y jugando\njuegos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decidimos hablar sobre nuestra agenda para el año\notro día."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Puede que haya tenido un comienzo un poco difícil,\npero mi año nuevo con Hishi Amazon ha comenzado\noficialmente!"
+    }
+  ]
+}

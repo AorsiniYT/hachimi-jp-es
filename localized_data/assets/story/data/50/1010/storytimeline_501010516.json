@@ -1,0 +1,68 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras paso por la residencia..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Hola, Entrenador! ¡Vamos a tener una barbacoa\ntradicional!",
+      "choice_data_list": [
+        "¿Una barbacoa?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Sí, señor! ¡Mi gente me envió unos jugosos\nbistecs!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "La carne de EE. UU. es tan suculenta y tierna. ¡El\njugo tiene un sabor real!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Comida como esta es mejor servida con un montón de\ngente comiendo. ¡Esa es la famosa hospitalidad\njaponesa!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Así que estás listo para la fiesta, Entrenador?\nMejor sube a bordo, porque vamos a despegar al\ncielo carnoso!",
+      "choice_data_list": [
+        "No puedo, perdón. ¡Pero que tengas un vuelo\nseguro!",
+        "¡Estoy lista para despegar!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Una dieta segura? ¿Estás diciendo que necesito\ncuidar mi salud?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Hm, creo que <i>debería</i> estar cuidando lo que como.\nDemasiada carne y podría ser la grasa de un\nfilete..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Muy bien, intentaré controlarlo. ¡Puedo\narreglármelas con solo dos o tres libras de\nbistec!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de sus esfuerzos por reducir, Taiki\nShuttle come una cantidad considerable de carne,\ndejando su estómago lleno y su vitalidad alta."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Muy bien, ¡mejor agárrate fuerte! Porque vamos a\ncompetir para ver quién puede devorar la mayor\ncantidad de bistec!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Y no te preocupes por comer demasiado! ¡Lo\nenviaron al por mayor!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Apuesto a que todos están listos para comer y\ncorrer hoy. ¿O es comer hasta caer? De cualquier\nmanera, ¡comamos hasta que revienten nuestras\nbarrigas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Terminamos devorando una montaña de carne juntos.\nMi estómago logra permanecer intacto, pero espero\nque mi peso se dispare hacia arriba."
+    }
+  ]
+}

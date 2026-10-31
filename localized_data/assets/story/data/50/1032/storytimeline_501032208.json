@@ -1,0 +1,48 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fan A",
+      "text": "¡No puedo esperar para ver a Agnes Tachyon!"
+    },
+    {
+      "name": "Fan B",
+      "text": "Es rara, pero parece que hay más en ella de lo que\nparece."
+    },
+    {
+      "name": "Fan A",
+      "text": "Sí, te entiendo completamente. Me encanta cómo\ncorre."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡El lugar está lleno de aficionados de Agnes\nTachyon!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Claramente, el Tenno Sho de otoño no es aclamado\ncomo la carrera de media distancia definitiva sin\nmotivo."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "En contraste con las gradas animadas, la pista de\ncarreras está llena de tensión contenida.",
+      "choice_data_list": [
+        "¿Así que estás nervioso?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Para nada! La sobreexcitación es perjudicial para\nla capacidad de concentración."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Estoy completamente relajada. Pero aún quiero\naprovechar al máximo esta oportunidad."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Siento que hoy puedo correr muy bien."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Costó mucho llegar hasta aquí. ¡Es por eso que no\nestoy guardando nada!"
+    }
+  ]
+}

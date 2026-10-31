@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Oguri Cap",
+      "text": "Hay algunos corredores realmente grandes\nparticipando en esta carrera. No la llaman el\nCampeonato de Millas por nada."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pero no importa—no perderé. Mientras dé todo lo\nque tengo, seguramente ganaré."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy segura de que Oguri Cap podrá lograrlo.\nGanar esta carrera solidificará tanto sus\nhabilidades como su popularidad.",
+      "choice_data_list": [
+        "¡Conquistemos esta carrera!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Sí! ¡Hagámoslo!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Voy a ser la campeona de la carrera de\nmillas—¡solo espera y verás!"
+    }
+  ]
+}

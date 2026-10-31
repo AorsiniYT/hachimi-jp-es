@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Vaya—encontraste oro! ¡Y te veías tan cool\nmanejando los controles!",
+      "choice_data_list": [
+        "¡Fue pan comido!",
+        "¡Fue pan comido!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Oh, ¿en serio? ¿Quieres decir que también hay\npastel ahí?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Bueno, como eres tan profesional en esto, ¡la\npróxima vez asegúrate de agarrar algo de pastel\ntambién!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Hiciste hoy muy especial, así que gracias! ¡No lo\nolvidaré nunca!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡No podría haber salido mejor!"
+    }
+  ]
+}

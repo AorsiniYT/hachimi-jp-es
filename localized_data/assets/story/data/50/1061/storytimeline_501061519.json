@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Veo un destello de King Halo comprando en la\ntienda de la escuela."
+    },
+    {
+      "name": "King Halo",
+      "text": "...Espera, ¿por qué tengo un perforador? Estaba\nbuscando pudín..."
+    },
+    {
+      "name": "King Halo",
+      "text": "<i>Suspiro...</i> También perdí el almuerzo. ¿Qué diablos\nestoy haciendo?",
+      "choice_data_list": [
+        "¿Preocupado por algo?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Oh, eres tú, Entrenador. No, no estoy\npreocupándome por nada en particular."
+    },
+    {
+      "name": "King Halo",
+      "text": "Solo me preguntaba cómo regañar mejor a las\nestudiantes más jóvenes que se resfriaron y\nfaltaron a clases."
+    },
+    {
+      "name": "King Halo",
+      "text": "La idea de <i>que mis </i>juniores descuiden su bienestar\nfísico es simplemente imperdonable."
+    },
+    {
+      "name": "King Halo",
+      "text": "Por ellos, incluso <i>yo</i> me siento mal... Uy."
+    },
+    {
+      "name": "Monólogo",
+      "text": "King Halo suspira, con expresión abatida."
+    }
+  ]
+}

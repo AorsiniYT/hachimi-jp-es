@@ -1,0 +1,248 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Ha pasado algún tiempo desde que comenzamos a\nentrenar en serio, y la fecha de la carrera debut\nde Sky finalmente ha sido decidida."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Woo hoo! Por fin—¡la Serie Twinkle! ¡Hasta <i>yo</i> me\nemociono un poco! ¡Sigamos trabajando duro!",
+      "choice_data_list": [
+        "Bromas aparte, hagamos un plan."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Jaja. Veo que te has acostumbrado a manejarme."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pero entiendo tu punto. Después de todo, la clave\npara un buen viaje de pesca es preparar un cebo de\ncalidad. En ese sentido... ¡vamos a dar un paseo!",
+      "choice_data_list": [
+        "¿Un paseo?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Sí. Una buena idea no va a aparecer de la nada\nforzándote a buscar respuestas, ¿verdad? En\ncambio, ¿por qué no nos dejamos bañar por el\ncálido sol?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Quién sabe? Tal vez escuchemos información útil,\no obtengamos inspiración inesperada en el camino."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Sky y yo comenzamos a vagar sin rumbo por\nel campus."
+    },
+    {
+      "name": "Special Week",
+      "text": "K-King, ¡mira el programa de mi próxima carrera!\n¡Tiene los estilos de carrera de todas mis\ncompetidoras listados!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Guau! ¿¡Es esto lo último en tecnología\nprecognitiva?! ¡La ciudad sí que es asombroooosa!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Eh, no es exactamente así. Ese documento solo\nmuestra predicciones basadas en información de\ncarreras anteriores en las que han participado."
+    },
+    {
+      "name": "Special Week",
+      "text": "¿¡En serio!? ¡N-no tenía idea!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "El programa de la carrera, huh? Lo olvidé.\nBasándome en mis carreras anteriores, apuesto a\nque \"puntera\" está escrito junto a mi nombre.",
+      "choice_data_list": [
+        "Sí. Eso me da una idea..."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Oh? Entrenador, esa es tu cara de maquinar,\n¿verdad? ¿Se te ocurrió algo justo ahora?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿¡Hacer practicas todos los días?! ¿¡Contra las\noponentes en mi carrera debut?! ¿¡Y quieres que\ncorra como cierre tardío en lugar de puntera?!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Ah, espera un segundo! Las probabilidades de que\neso funcione son tan buenas como que yo llegue a\ntiempo a la práctica!",
+      "choice_data_list": [
+        "Entonces bastante buenas, entonces.",
+        "Entonces bastante buenas, entonces."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Qué. Dijiste. Tú?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Esto es horrible! ¡Esto es una tiranía! ¡No puedo\ncorrer bajo estas condiciones! ¡Perderé mi\nmotivación mucho antes de siquiera terminar!",
+      "choice_data_list": [
+        "Me parece bien.",
+        "Me parece bien."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...¿Eh? Hm, estás tramando algo, ¿verdad?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Muy bien, ¡como si tuviera elección! Tú ganas,\n¿vale? ¡Lo haré!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "A cambio... te asegurarás de que yo lo consiga,\n¿verdad?"
+    },
+    {
+      "text": "Sky pasa los próximos días practicando contra los\noponentes de su próxima carrera debut."
+    },
+    {
+      "name": "Umamusume Rival",
+      "text": "<i>Jadeando, jadeando...</i> Me sorprendes, Sky. ¿De\nverdad vas a correr atacando al final?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Bueno, creo que estoy empezando a pensar que no es\ntan malo? Quiero decir, ¡se siente bastante genial\nirrumpir en la delantera durante la recta final!"
+    },
+    {
+      "name": "Umamusume Rival",
+      "text": "No te equivocas... Pero no has podido robar la\ndelantera ni siquiera una vez, ¿sabes? Sigues\nquedándote sin resistencia."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ahí está el problema. Esa es mi tarea. Como puedes\nver, mi resistencia no es nada del otro mundo...\nJeje."
+    },
+    {
+      "text": "Poco a poco, empieza a correr un rumor por toda la\nacademia."
+    },
+    {
+      "text": "\"Seiun Sky va a correr atacando al final, pero su\nresistencia es su mayor debilidad.\""
+    },
+    {
+      "text": "¡Incluso el programa de carreras ahora la lista\ncomo una que ataca al final, el día de su carrera\ndebut finalmente llega!"
+    },
+    {
+      "text": "<i>¡Pum!</i>"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Y los corredores salen de la puerta, cada uno de\nellos corredores emergentes compitiendo por la\ngloria en su carrera debut! Liderando en primer\nlugar está..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Yaaaaah!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡S-Seiun Sky! ¡Es Seiun Sky tomando la delantera!\nVa a toda máquina, dejando atrás a la segunda en\nel polvo!"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "¿¡Seiun Sky yendo al frente?! ¿¡No se suponía que\nera de ataque tardío?! ¿Los nervios de su debut la\nafectaron?"
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "Un arranque desesperado... Lo normal para una\nnovata. Supongo que es un rival menos a quien\nvigilar. Parece que las demás corredoras llegaron\na la misma conclusión."
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "Además, la mayor debilidad de Sky es su falta de\nresistencia. No hay forma que mantenga este ritmo\nhasta el final."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Eso es lo que pensarías, ¿verdad?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Todo mi entrenamiento de resistencia fue en\nrealidad para poder mantener este \"arranque\ndesesperado\"."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Y entonces... sin darme cuenta, esto se convirtió\nen mi ritmo normal de carrera al frente."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Las corredoras han tomado la tercera curva!\n¡Seiun Sky no da señales de reducir la velocidad!"
+    },
+    {
+      "name": "Spectating Trainers",
+      "text": "¿¡Qué?!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "(¡Ja, <i>eso es </i>lo que me gusta escuchar!)"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "(¿El cuerpo con el que naces lo decide todo? ¿Tu\ntalento? ¿Tu pedigrí? Nah, todo eso es muy\naburrido.)"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "(¡Las carreras son divertidas porque nada de eso\nimporta!)"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "<i>Jadeando...</i> ¡Todos picaron el anzuelo! ¡Haaaaah!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Seiun Sky vuela por la recta final! ¡Es el\nejemplo perfecto de una puntera! ¡Qué sorpresa!\nCon una ventaja de cinco cuerpos, ¡esta carrera\nestá terminada!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Oye, ¿¡escuchaste eso, Entrenador?! En vez de\nalboroto, hay confusión! ¡En vez de vítores, hay\ngritos! ¡No me canso de esto! ♪"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Ahora <i>esto</i> es como debería ser una carrera. Lo\nentiendes, y te respeto por eso."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Entonces, ¿cuál es nuestro próximo gran trofeo?\nContigo a mi lado, ganarlas todas quizás ya no sea\nun sueño imposi—"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡DETÉNTE justo ahí! ¡No permitiré que eso pase!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿¡Whoa!? King y Spe... ¿Vinieron a ver?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Síp, lo vimos todo! ¡Felicidades por el primer\nlugar!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Eres realmente increíble. ¡Pero no voy a perder\nante ti!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Exacto! La próxima vez, tendrás una rival de\nprimera clase... ¡yo! Te daré el derecho a sufrir\nuna derrota total a mis manos."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Hm... Suena a mucho trabajo"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pero, bueno... cuanto más grande es el trofeo, más\nrazón para pescarlo."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Verdad, Entrenador?"
+    },
+    {
+      "text": "Y así, emprendo con Seiun Sky un viaje por el\nvasto mar de las carreras, buscando nuestro\npróximo gran trofeo."
+    }
+  ]
+}

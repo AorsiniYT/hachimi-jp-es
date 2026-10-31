@@ -1,0 +1,96 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fan A",
+      "text": "Wow... Gold City realmente es tan bonita. Estuve\nhipnotizada todo el tiempo."
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Pero también es una corredora increíble!"
+    },
+    {
+      "name": "Gold City",
+      "text": "...!"
+    },
+    {
+      "name": "Fan B",
+      "text": "Honestamente pensé que solo era apariencia al\nprincipio, ¡pero corre bastante bien!"
+    },
+    {
+      "name": "Fan B",
+      "text": "Hombre, ¡este año los Clásicos seguro tienen una\nalineación interesante! ¡No puedo esperar al\nDerby!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Nada mal, City! Un buen comienzo."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Entonces, ¿por qué estoy yo aquí sentada viendo?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Por qué no estoy allá también?!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "...Necesito correr."
+    },
+    {
+      "name": "Gold City",
+      "text": "...",
+      "choice_data_list": [
+        "Pareces feliz.",
+        "Pareces feliz."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Bueno, sabes, la gente está por ahí elogiando mi\ncarrera esta vez."
+    },
+    {
+      "name": "Gold City",
+      "text": "Parece que cambiar de tour fue la elección\ncorrecta."
+    },
+    {
+      "name": "Gold City",
+      "text": "Algunas personas se decepcionaron, pero por eso,\nahora están prestando atención a mi habilidad."
+    },
+    {
+      "name": "Gold City",
+      "text": "Si sigo corriendo así, lo lograré, ¿verdad?"
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Verán a la verdadera yo, no solo a una muñeca\nbonita!",
+      "choice_data_list": [
+        "¡Mantengamos este impulso y ganemos el Derby!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Eso es. Si me convierto en la campeona del Derby,\nseré considerada la mejor de mi generación."
+    },
+    {
+      "name": "Gold City",
+      "text": "Lo que significa...",
+      "choice_data_list": [
+        "¡Tendremos que trabajar exhaustivamente con el\npoco tiempo que nos queda!",
+        "¡Tendremos que trabajar exhaustivamente con el\npoco tiempo que nos queda!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Sí!"
+    }
+  ]
+}

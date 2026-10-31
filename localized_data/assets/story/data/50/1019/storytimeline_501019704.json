@@ -1,0 +1,289 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de un día fuera, Agnes Digital y yo nos\ndirigimos al evento de lanzamiento del libro de\nfotos."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡King y su séquito son tan increíbles! ¡Realmente\nsaben cómo lanzar un chiste!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Habría estado perfectamente feliz solo viendo a\nlos tres actuar en vivo, pero también nos están\nbendiciendo con una sesión de charla?! ¡Tengo que\nenviar una carta de agradecimiento al organizador!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Hola, Digital. ¿Tienes un segundo?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Hwah! ¿¡K-King!?"
+    },
+    {
+      "name": "King Halo",
+      "text": "Tengo algo que me gustaría preguntarte. ¿Te\nimportaría acercarte?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿¿¿En seriooo?! <i>¿Quieres que </i>yo sustituya?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que un miembro del séquito de King Halo no\nse siente muy bien, así que ella ha pedido que\nAgnes Digital sustituya."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "N-no hay forma de que... yo pueda asumir un papel\ntan grande..."
+    },
+    {
+      "name": "King Halo",
+      "text": "Pero seguramente conoces todas las canciones, dado\nque siempre apareces para apoyar mis actuaciones."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "P-pero... no estoy preparada. ¿Qué pasa si subo y\narruino tu glorioso evento?!"
+    },
+    {
+      "name": "Umamusume de ojos de gato",
+      "text": "Entiendo lo que ella dice, <i>King. Es </i>mucho pedir\nlanzárselo a alguien de la nada."
+    },
+    {
+      "name": "King Halo",
+      "text": "Ugh... Entonces, ¿eso significa... vamos a tener\nque cancelar?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "<i>...Twitch.</i>",
+      "choice_data_list": [
+        "¡Puedes hacerlo!"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Entrenador?",
+      "choice_data_list": [
+        "¿Vas a ignorar a tu oshi en su momento de\nnecesidad?",
+        "¿Vas a ignorar a tu oshi en su momento de\nnecesidad?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "No..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡No! ¡Por supuesto que no!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡King! Si realmente estás de acuerdo conmigo,\nentonces... por favor, ¡déjame sustituir!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Maravilloso!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Recuerda, el escenario de allá arriba es mío!\n¡Todo lo que necesitas hacer es disfrutar lo más\nque puedas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, el mini concierto comienza con Agnes\nDigital actuando en perfecta sincronía con King\nHalo y su séquito."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El público está disfrutando la actuación. A mitad\nde camino, la música cambia a una sección\ninstrumental, y capto la mirada de Agnes Digital.\nElla parece querer que haga algo...",
+      "choice_data_list": [
+        "¡Di-gi-taaaaan!",
+        "¡Rey! ¡Rey!",
+        "[Agitar varitas luminosas]"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Ohhh! ¡Muchas gracias!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Es muy amable de tu parte animarme! ¡Ni siquiera\nse suponía que debía estar aquí arriba!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "...Pero no te preocupes por mí. Un concierto es\npara mostrar tu amor a tus favoritas. Seguro, tus\nánimos deberían estar dirigidos a otro lado."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Así que no se contengan, todos! ¡Griten fuerte y\nllénenlo de todo su amor!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Listos... ¡Vamos!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡KING HALOOO!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Ohohoho! Muy bien, les concederé una respuesta\ntan buena como esa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, King Halo realiza una presentación\nque emociona aún más al público."
+    },
+    {
+      "name": "King Halo",
+      "text": "Buen trabajo animando a la multitud, Digital. Te\nlo agradezco de verdad, en serio. Te daré un\nagradecimiento adecuado en otra ocasión."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Ufff...! Me alegra mucho que el mini concierto\nhaya salido bien.",
+      "choice_data_list": [
+        "¡Hiciste un gran trabajo manejando a la multitud!",
+        "¡Hiciste un gran trabajo manejando a la multitud!"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "He estado practicando mi interacción con el\npúblico por un tiempo, ya que pensé que algún día\npodría tener la oportunidad de hacer un concierto\nganador."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Incluso cuando estoy en el escenario, quiero\nhacer brillar a mis Umas!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Y no creas que no me di cuenta de que animabas\ncomo una profesional allí. ¡Contigo en el público,\nprobablemente no tenga de qué preocuparme!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Con tú en la multitud y yo en el escenario,\npodemos animar a las Umamusume juntos!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡King! ¡No podemos esperar más! ¡Dales lo que\nquieren!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Jeje... ¡Bueno, si insistes! ¿Cuál es mi nombre?"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡El Rey!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¿Qué es más resonante que cualquier otra cosa?"
+    },
+    {
+      "name": "Umamusume de ojos de gato",
+      "text": "¡La hermosa y resplandeciente voz de King!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Cuéntame sobre este escenario!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Es brillantemente deslumbrante! ¡King está más\nindicada para el centro de atención que nadie!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Así es! ¡Soy la Umamusume de primera categoría\ndefinitiva!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡King Halo!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Ohohoho! ¡Solo estamos comenzando! ¡Ríndanse a mi\nembriagador encanto!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Fuiste el sustituto perfecto, Digital. Te lo\nagradezco de verdad, en serio. Te daré un\nagradecimiento adecuado en otra ocasión."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "<i>Desmayo...</i> Recibí un cumplido de King... ¡Desde\nahora, reconozco este día como el Día de King\nHalo!",
+      "choice_data_list": [
+        "¡Suena genial!",
+        "¡Suena genial!"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡No creas que no me di cuenta de ti durante la\nAlabanza de King!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Sabes, ¡todos los fans vinieron aquí anticipando\nuna experiencia que solo King y su séquito podrían\noffrecer!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Y... ahora sé que puedo confiar en ti para liderar\nlos ánimos desde las gradas en mis propios\nconciertos ganadores."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Con tú en la multitud y yo en el escenario,\npodemos animar a las Umamusume juntos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Enciendo las varitas luminosas que Agnes Digital\nme dejó y las sostengo con ambas manos."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Ohhh, qué hermoso mar de luces! ¡Bueno, todos,\npintemos al público con el color de King!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todas las luces en la multitud cambian\ninmediatamente, reflejando los colores de King\nHalo."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Guau, qué hermoso! La consideración de todos es\nverdaderamente maravillosa."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡En ese caso, tendré que responder de igual\nmanera!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, King Halo atiende a sus fans\nhaciéndolos aún más emocionados."
+    },
+    {
+      "name": "King Halo",
+      "text": "Buen trabajo animando a la multitud, Digital. Te\nlo agradezco de verdad, en serio. Te daré un\nagradecimiento adecuado en otra ocasión."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Ufff...! Parece que pudimos preservar el honor de\nKing.",
+      "choice_data_list": [
+        "¡Gran trabajo!",
+        "¡Gran trabajo!"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Debería decírtelo a ti."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Pude ver desde el escenario la emoción que\npusiste en agitar tus varitas luminosas!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Sentí tu deseo de mostrarle a tu favorita la\nvista más espectacular!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Y... ahora sé que puedo confiar en ti para liderar\nlos ánimos desde las gradas en mis propios\nconciertos ganadores."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Con tú en la multitud y yo en el escenario,\npodemos animar a las Umamusume juntos!"
+    }
+  ]
+}

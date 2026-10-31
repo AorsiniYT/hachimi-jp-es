@@ -1,0 +1,73 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tokai Teio",
+      "text": "Argh... ¡¿Por qué no puedo entrenar?!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Es solo una lesión pequeñita! ¡No es gran cosa!",
+      "choice_data_list": [
+        "Estoy preocupado por eso, así que no.",
+        "Bien, veamos qué tienes."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Oh, vamos! ¡No es nada!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Sabes, apuesto a que mi mamá estaría totalmente de\nacuerdo con eso, ¡siempre y cuando vaya con\ncuidado!",
+      "choice_data_list": [
+        "Bueno, yo no soy tu mamá.",
+        "Bueno, yo no soy tu mamá."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ugh, ¡lo sé! Solo digo que no es algo tan grande!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de atender su lesión, le digo a Teio que\ntome el resto del día libre, solo por precaución."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Sí! ¡Eso me gusta escuchar!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Vale! Entonces, vamos a por esa estrella―"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ay!",
+      "choice_data_list": [
+        "¿Duele?!",
+        "¿Duele?!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...Urgh. ¡Dije que estoy bien! ¿Podrías darte\nprisa e irte a preparar?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eso definitivamente no va a pasar. Le digo que\ntome el resto del día libre."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Heheh. ¡Entonces volvamos a ello!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Voy a dar un espectáculo aún mejor que de\ncostumbre!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de atender su lesión, dejo que Teio\ncomience a entrenar de nuevo."
+    }
+  ]
+}

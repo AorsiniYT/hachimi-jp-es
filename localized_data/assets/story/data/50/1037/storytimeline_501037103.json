@@ -1,0 +1,52 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy es el inicio del campamento de verano, donde\nlas corredoras entrenan para mejorar sus\nhabilidades. En cuanto a Eishin Flash..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Te gustaría comenzar nuestra sesión de\nentrenamiento?",
+      "choice_data_list": [
+        "Oh, ya te has cambiado.",
+        "Oh, ya te has cambiado."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sí. Deseo comenzar nuestra sesión en treinta\nminutos, así que me cambié con anticipación."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Oye, hay una casa de la playa por allá! ¡Vamos a\nechar un vistazo! ♪"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Oh, vamos. ¿Viniste aquí a jugar o a entrenar?\nAunque... ¡Creo que iré contigo! ♪",
+      "choice_data_list": [
+        "¿Quieres relajarte un poco también?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Pude obtener suficiente descanso en el autobús."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Para no mencionar, la Japan Cup estará llena de\ncorredoras de último año."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Esta será una oportunidad para enfrentar a una\ncompetencia formidable a la que normalmente no\npodría enfrentar en esta época del año..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Por lo tanto, debo esforzarme para pulir mi forma\nmás allá de la perfección."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Es casi hora de ir. Que comience el campamento de\nverano."
+    }
+  ]
+}

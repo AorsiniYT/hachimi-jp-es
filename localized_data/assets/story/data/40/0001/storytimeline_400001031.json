@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Ha sido un largo y difícil camino llegar hasta\naquí, pero finalmente es hora de que comience el\nURA Finale."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La batalla para ver quién se alzará en la cima en\neste escenario brillante... está a punto de\ncomenzar!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Estupendo! Veo que acabas de despedir a tu\npupila!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Puede que yo haya preparado el escenario, pero\nustedes serán las estrellas! ¡Por favor, hagan de\nesta carrera un éxito!",
+      "choice_data_list": [
+        "¡La haremos memorable en los libros de historia!"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Maravilloso! ¡Que los talentos de tu Umamusume\nbrillen intensamente en la pista!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso, las preliminares del URA Finale\n¡comienzan!"
+    }
+  ]
+}

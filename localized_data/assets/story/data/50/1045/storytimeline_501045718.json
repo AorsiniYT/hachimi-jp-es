@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Super Creek",
+      "text": "¡Oh, Entrenador! Buenos días.",
+      "choice_data_list": [
+        "¡Buenos días! ¿Cómo estuvo tu día libre?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "La verdad, me siento muy renovada."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Tú también pareces muy enérgica. Jeje, debes haber\ndescansado bien también."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Tu saludo animado y tu sonrisa alegre están\nlevantando mi ánimo aún más!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "No nos esforcemos demasiado y vayamos a nuestro\npropio ritmo hoy. Y, como siempre, ¡démoslo todo!\n♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Super Creek está ligera de pies y parece bien\ndescansada."
+    }
+  ]
+}

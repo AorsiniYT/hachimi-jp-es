@@ -1,0 +1,222 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Por fin, el viaje de Mejiro McQueen para competir\nen la Twinkle Series comienza.",
+      "color_text_info_list": [
+        "Mejiro McQueen",
+        "Twinkle Series"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Yo también estoy súper emocionada. Pero primero,\nnecesito ir a la cafetería a comer algo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>Suspiro...</i> Qué olor tan maravilloso."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Tiene un peso, pero también es delicado."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Sí, es agradable y fuerte. Quizás ni siquiera\nnecesite azúcar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "(Esa es Mejiro Ryan, miembro de la reconocida\nfamilia Mejiro. Es atlética y irradia energía.)",
+      "color_text_info_list": [
+        "Mejiro Ryan"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "La cafetería de la academia es bastante elaborada,\n¿verdad? Hay tantos sabores en el menú."
+    },
+    {
+      "name": "Monólogo",
+      "text": "(Esta es Mejiro Dober, también de la familia\nMejiro. Es un poco exigente.)",
+      "color_text_info_list": [
+        "Mejiro Dober"
+      ]
+    },
+    {
+      "name": "Umamusume A",
+      "text": "M-mira, mira. ¡Son de la familia Mejiro!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¡Tienen una conversación de alta categoría! ¡Justo\ncomo pensé que serían!",
+      "choice_data_list": [
+        "(Ahora que las miro de nuevo, ¡realmente tienen un\naura impresionante!)",
+        "(Ahora que las miro de nuevo, ¡realmente tienen un\naura impresionante!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y por último, pero no menos importante, mi\naprendiz—Mejiro McQueen."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vista así, realmente puedo sentir el aire noble\nque emana."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Pero, ¿estás segura de que no quieres un crepe de\npudín de chocolate, McQueen?",
+      "color_text_info_list": [
+        "McQueen"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Huh? ...¡Sí, estoy segura!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Estoy perfectamente bien! Y-yo traje mi propio\npostre especial, ¡ya verás!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿Postre especial?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "S-sí. Lo hice yo misma con nueces en lugar de\nharina."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Bajo en azúcar y alto en proteínas, es muy\nnutritivo. Sobre todo, el sabor exquisito lo\nconsolida como un postre excepcional."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Oh, eso es maravilloso. En ese caso, seguro que no\nte importará que yo también coma uno de esos\ncrepes."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Por supuesto, adelante."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Observo más de cerca el postre que tiene Mejiro\nMcQueen y me doy cuenta de que es de una receta\nque yo le enseñé una vez."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece estar trabajando duro para alcanzar sus\nmetas, como siempre.",
+      "choice_data_list": [
+        "Estás dando lo mejor de ti, ¿verdad?",
+        "Estás dando lo mejor de ti, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Oh, Entrenador!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Oh, es el entrenador de McQueen. ¡Hola!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Tienes razón. McQueen ha estado trabajando duro\nsin parar últimamente."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Habiéndose puesto como meta conquistar el Tenno\nSho, es natural que yo trabaje duro para\nalcanzarlo.",
+      "color_text_info_list": [
+        "Tenno Sho"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Para colmo, mi debut es muy pronto, lo que\nsignifica que debo prepararme y concentrarme aún\nmás.",
+      "choice_data_list": [
+        "¡Vamos a darlo todo!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Sí, por supuesto. Espero que me acompañes con la\nintención de hacer lo mismo."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Aún así, pasará mucho tiempo antes de que compitas\nen el Tenno Sho, ¿verdad?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿No deberías apuntar primero a los Classics?",
+      "color_text_info_list": [
+        "Classics"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Sí, considera conquistar el Tenno Sho mi meta\ndefinitiva."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Antes de eso, planeo tener éxito en los Classics y\navanzar constantemente hacia el Tenno Sho."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ahh. Entonces supongo que nos veremos en los\nClassics."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Solo para que lo sepas, ¡no voy a perder! ¡He\ntenido puestos los ojos en la Triple Corona de los\nClassics desde hace mucho tiempo!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Sí, sé muy bien lo duro que has estado trabajando."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Por lo tanto, yo tampoco te daré cuartel. ¡Le daré\ntodo a los Classics!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Sí, ¡ambos demos lo mejor de nosotros! ...Oh,\nparece que Dober regresó.",
+      "color_text_info_list": [
+        "Dober"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Whoa, increíble! ¡Realmente hay pudín de\nchocolate encima del crepe!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Q-qué dijiste?!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Gracias por traerme uno también, Dober!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "No fue molestia. No había nadie más en la fila.\nBueno, creo que voy a proceder a comer."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>Glups...</i>",
+      "choice_data_list": [
+        "Al final deseaste haber comprado uno, ¿verdad?",
+        "Al final deseaste haber comprado uno, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ah, uh, no, ¡no es eso!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡No estoy luchando por contenerme ni nada por el\nestilo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En cualquier caso, Mejiro McQueen y yo hemos\ncomenzado a apuntar al Tenno Sho en serio."
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin parece más gruñona de lo normal."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Ugh, maldición! ¡Voy a EXPLOTAR!",
+      "choice_data_list": [
+        "¿Qué pasó?",
+        "¿Qué pasó?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡A <i>quién le </i>importa lo que pasó?! ¡Ugh! ¡Solo\npensarlo me da rabia!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras navego por su ira, logro que Narita\nTaishin explique qué pasa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al parecer, una Umamusume que perdió contra ella\nen un scrimmage reciente se burló de su estatura."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ella dijo algo como: \"Tuviste suerte esta vez.\nPero si no creces, no podrás mantener esta racha,\nenanita.\""
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ugh... Perder apesta—lo entiendo. Pero qué mal\ndeportismo.",
+      "choice_data_list": [
+        "Eso es horrible.",
+        "Eso es horrible."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "En serio. Simplemente no tengo un respiro... Eso\nme ha estado molestando todo este tiempo."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Basta! Hoy voy a correr vueltas hasta caer."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Me dirijo a la pista. Adiós."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y con eso, sale corriendo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me encuentro con Narita Taishin más tarde y la\nayudo a entrenar."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Haa... Haa...</i>",
+      "choice_data_list": [
+        "¿Te sientes mejor?",
+        "¿Te sientes mejor?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Para nada. Aún tengo la sangre hirviendo."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Sabía que una sesión de entrenamiento normal no\nsería suficiente para mí. Voy a entrenar un poco\nmás, así que tú sigue adelante sin mí.",
+      "choice_data_list": [
+        "En realidad, creo que deberías dejarlo por hoy.",
+        "En realidad, creo que deberías dejarlo por hoy.",
+        "Está bien, pero no te excedas.",
+        "Está bien, pero no te excedas.",
+        "¡Sí! ¡O todo o nada!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Sabía que una sesión de entrenamiento normal no\nsería suficiente para mí. Voy a entrenar un poco\nmás, así que tú sigue adelante sin mí.",
+      "choice_data_list": [
+        "En realidad, creo que deberías dejarlo por hoy.",
+        "En realidad, creo que deberías dejarlo por hoy.",
+        "Está bien, pero no te excedas.",
+        "Está bien, pero no te excedas.",
+        "¡Sí! ¡O todo o nada!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Perdón? ¿Por qué rayos haría eso?!",
+      "choice_data_list": [
+        "Porque sería malo que te esfuerces demasiado y te\nenfermes."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Pero!",
+      "choice_data_list": [
+        "Solo estarás demostrando que esa otra Umamusume\ntenía razón.",
+        "Solo estarás demostrando que esa otra Umamusume\ntenía razón."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le digo que descansar adecuadamente y olvidarlo es\nla mejor forma de devolverle el golpe a su rival."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Supongo que tienes razón."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Bien. Iré a casa a dormir un poco."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Odio seguir tu consejo, pero odio aún más la idea\nde que ella se regodee a mi costa."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "En fin, me voy."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, la ira de Narita Taishin ha\ndesaparecido completamente. Parece que descansar\nadecuadamente le hizo mucho bien."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿No excederme? Pfft. Como si un entrenamiento a\nmedias me fuera a servir de algo.",
+      "choice_data_list": [
+        "Deberías canalizar esa energía en tu próxima\ncarrera.",
+        "Deberías canalizar esa energía en tu próxima\ncarrera."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Entrenar a la perfección y conquistar su próxima\ncarrera se sentirá mucho mejor que dejar que su\nira la consuma ahora."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al explicarle esto a Narita Taishin, una sonrisa\nmaliciosa se dibuja en su rostro."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Eso es permiso para aplastar a esa estúpida\nperdedora bajo mi talón y humillarla en nuestro\npróximo entrenamiento?",
+      "choice_data_list": [
+        "Eh, no exactamente..."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Bueno, lo haré de todas formas. Mi furia no se\ndetendrá a menos que lo haga."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Sí. Suena como un plan."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Solo mira! ¡Voy a asegurarme de que nunca vuelva\na hablarme mal!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con su espíritu de lucha encendido, Narita Taishin\ntraza un plan para poner a la perdedora en su\nlugar."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Pues claro!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡No me voy a sentir mejor con solo un trote\nrelajado por el parque!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Correré hasta olvidarme por completo de ella!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Raaahhh!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Sí! Ya me siento bastante bien."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Muy bien, ¡una vuelta más!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La ira de Narita Taishin es un combustible\npotente, y ella continúa su entrenamiento en\nsolitario durante mucho tiempo después."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Argh!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No es suficiente. ¡Aún estoy furiosa como nunca!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Pero ya no puedo moverme..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ugh..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin se agota y se sienta allí en el\nacto, incapaz de ponerse de pie..."
+    }
+  ]
+}

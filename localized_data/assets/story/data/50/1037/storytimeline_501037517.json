@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Me topo con Eishin Flash, pero se ve molesta por\nalguna razón.",
+      "choice_data_list": [
+        "Oye, ¿qué pasa?",
+        "Oye, ¿qué pasa?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Oh, no es nada importante."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Buscaba un ingrediente en particular para poder\nhacer un plato que solía comer en casa, pero...",
+      "choice_data_list": [
+        "¿No lo tenían en stock?",
+        "¿No lo tenían en stock?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No, lo tenían. Excepto..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "El caviar es muy caro en Japón... Está muy por\nencima de lo que puedo permitirme con mi\npresupuesto."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "<i>Suspiro...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No se equivoca sobre el precio, y\ndesafortunadamente no puedo ofrecerme a\ncomprárselo. Eishin Flash se aleja desolada."
+    }
+  ]
+}

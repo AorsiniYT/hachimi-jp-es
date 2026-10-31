@@ -1,0 +1,208 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Increíble! Absolutamente increíble! Por favor,\nden un aplauso para la ganadora de este año del\nArima Kinen!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Fan A",
+      "text": "Guau, Mayano Top Gun fue absolutamente increíble.\nPor un momento, pensé que iba a vencer a Brian."
+    },
+    {
+      "name": "Fan B",
+      "text": "Jeje. Entonces aún tienes mucho que aprender. La\ndiferencia de habilidad entre ellas es enorme."
+    },
+    {
+      "name": "Fan B",
+      "text": "De todos modos, es bastante capaz. Podría tener\nuna oportunidad... en el Arima del próximo año."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Estás bien, Mayano? Pareces sentir dolor...",
+      "choice_data_list": [
+        "¡Mayano!"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Gracias a Dios. Eres su entrenador, ¿verdad?\nParece que se ha esforzado demasiado. Necesita\ndescansar inmediatamente..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Está bien... Estoy bien. Es solo que..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Fue muy divertido!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿¡Huh!?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Personal",
+      "text": "Muy bien, sigamos. Si tienen una pregunta que les\ngustaría hacer, por favor levanten la—"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Ooh! ¡A mí, a mí, a mí!"
+    },
+    {
+      "name": "Personal",
+      "text": "Okay. ¿Qué tal tú—¡Mayano Top Gun?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Charlatanería, charlatanería...</i>"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Hola, Brian! ¿En qué carrera vas a correr a\ncontinuación?!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Quiero correr contra ti de nuevo!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Hasta el final de esa carrera justo ahora, no supe\nqué hacer ni qué esperar... Mi corazón latía\nfuerte todo el tiempo..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Fue tan, tan, tan emocionante!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hmph. Siguiente pregunta, por favor..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Oye, espera! ¡No es justo! ¡No evadas mi\npregunta!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Oh?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Qué acabas de decir? ¿Crees que estoy intentando\nevitar <i>a ti</i>?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Sí, porque lo haces! ¡Estás evitando mi desafío!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Aunque seas tan poderosa y brillante!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Es porque te preocupa que realmente te pierda\ncontra mí la próxima vez?"
+    },
+    {
+      "name": "Reportera A",
+      "text": "E-eh... Mayano Top Gun... Sabes que acabas de\nperde—"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Pero voy a ganar la próxima vez!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Finalmente siento que puedo brillar. ¡No hay forma\nde que me conforme con dejar que las cosas\nterminen aquí!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Reportero B",
+      "text": "P-pero... la próxima vez no será diferente. Hay\nuna clara diferencia de habilidad entre los dos—"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "The Hanshin Daishoten.",
+      "color_text_info_list": [
+        "Hanshin Daishoten"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "...!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ahí tienes tu respuesta. Siguiente pregunta."
+    },
+    {
+      "name": "Personal",
+      "text": "Eh... ¡Entonces está bien! ¿Hay alguna otra\npregunta?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Eh... Eso estuvo bastante genial, Mayano."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Debería haber esperado que hicieras algo\ntemerario. Realmente no conoces el miedo. O eso,\no—",
+      "choice_data_list": [
+        "Ella es valiente."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Jaja! ¡Te ha atrapado por completo!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Pero eso es algo bueno. Tendré que recordar a los\ndos."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Entrenadorrrr!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Escucha, escucha! Quiero correr en el próximo\nHanshin Daishoten.",
+      "choice_data_list": [
+        "Me lo imaginaba."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Eh, cómo supiste? ¡¿Telepatía?! ¿O es que somos\nalmas gemelas?!",
+      "choice_data_list": [
+        "Lo descubrí por lo emocionada que estabas."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "...!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Ehehe! Por supuesto que te darías cuenta."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Ok! Definitivamente voy a ganarle a Brian en el\nHanshin Daishoten! ☆"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Enfrentaré cualquier turbulencia de frente—porque\nasí es como vuelo!"
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "¡Uoooooo!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Ohohoho! ¡Lo sabía! ¡Sabía que me convertiría en\nla campeona del Derby de este año!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¿Cómo podría ser alguien más? ¡Ohohoho! ¡Ohohoho!",
+      "choice_data_list": [
+        "¡Tal como esperaba!",
+        "¡Tal como esperaba!"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Jeje, ¡por <i>supuesto! Soy una </i>Umamusume de primera,\n¡después de todo!"
+    },
+    {
+      "name": "Fotógrafa",
+      "text": "¡Disculpe! ¿Le importaría mirar hacia acá y posar\npara una foto?"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Por supuesto! Ahora, todos sabrán quién soy..."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡...!"
+    },
+    {
+      "name": "King Halo",
+      "text": "...",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "...Oh, nada. Es solo que un fondo que se vea más\nvictorioso sería más apropiado, ¿no crees?"
+    },
+    {
+      "name": "King Halo",
+      "text": "Claro, frente a la pista de carreras podría ser\nconvencional, pero ¿no me quedaría mejor estar\nparada en un escenario decorado de manera\nespléndida?"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Todos, ha habido un cambio de planes! La sesión\nde fotos en este lugar ha terminado!"
+    },
+    {
+      "name": "King Halo",
+      "text": "En cambio, les concedo el derecho de capturar mi\nbrillo mientras actúo en el escenario!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Eso es todo! ¡Que tenga un buen día!"
+    },
+    {
+      "name": "Fotógrafa",
+      "text": "¿Qué? ¡Espera un segundo! ¡Por favor, espera!"
+    },
+    {
+      "name": "Periodista",
+      "text": "Ugh, típico privilegiado. No podemos simplemente\ncambiar nuestros horarios. ¡Qué poco considerado!"
+    },
+    {
+      "name": "Periodista",
+      "text": "Ella también fue tan arrogante sobre su victoria,\ncomo si estuviera destinada a ser. ¡Esto era el\nDerby, por todos los cielos! Un poco de modestia\nno vendría mal."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Puedo escuchar a los fotógrafos y periodistas\nquejándose..."
+    },
+    {
+      "name": "King Halo",
+      "text": "Ahora, todos sabrán quién soy—"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡...!"
+    },
+    {
+      "name": "King Halo",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero algo ha captado la atención de King Halo. Yo\nsigo su mirada y encuentro..."
+    },
+    {
+      "name": "Special Week",
+      "text": "<i>¡Snif!... ¡Snif!...</i>"
+    },
+    {
+      "name": "Special Week",
+      "text": "Lo siento, mamá... No pude convertirme en la mejor\nde Japón...."
+    },
+    {
+      "name": "Special Week",
+      "text": "Yo-yo..."
+    },
+    {
+      "name": "Periodista",
+      "text": "¡Hey! ¿A dónde se fue la ganadora? ¿En serio nos\niba a hacer entrevistarla en el concierto?!"
+    },
+    {
+      "name": "Fotógrafa",
+      "text": "<i>Suspiro...</i> Preparé todo aquí para nada, ¿eh..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "..."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Entrenador! ¡Llegas tarde! Deberías saber mejor\nque hacerme esperar a <i>mí</i>.",
+      "choice_data_list": [
+        "Lo siento.",
+        "Lo siento."
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "\"Lo siento\" no es lo que quiero escuchar. Lo juro,\n¿no puedes complacerme un poco más? Acabo de ganar\nel Derby, sabes."
+    },
+    {
+      "name": "King Halo",
+      "text": "Soy una Umamusume de primera, lo que significa que\ntienes que empezar a actuar como un entrenador de\nprimera—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Zzz, zzz.</i>"
+    },
+    {
+      "name": "King Halo",
+      "text": "Hmph... Es mi madre."
+    },
+    {
+      "name": "King Halo",
+      "text": "Jeje. Me pregunto si está lista para reconocerme\ndespués de ver mi victoria."
+    },
+    {
+      "name": "King Halo",
+      "text": "Bueno, supongo que debería ver qué tiene que\ndecir. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Bip.</i>"
+    },
+    {
+      "name": "King Halo",
+      "text": "¿Hola? ¿Mamá? Jeje, supongo que no viste el Derby—"
+    },
+    {
+      "name": "La madre de King Halo",
+      "text": "Sí, lo vi. Fue bastante increíble."
+    },
+    {
+      "name": "La madre de King Halo",
+      "text": "Ha pasado un buen tiempo desde que vi a alguien\ncapturar los corazones de la multitud con su\ncarrera como Special Week."
+    },
+    {
+      "name": "King Halo",
+      "text": "...¿Eh?"
+    },
+    {
+      "name": "King Halo",
+      "text": "Pero yo soy la que ganó..."
+    },
+    {
+      "name": "La madre de King Halo",
+      "text": "Eso es. Tuviste suerte, así que deberías terminar\nen este punto culminante antes de que las cosas se\nvuelvan agrias."
+    },
+    {
+      "name": "La madre de King Halo",
+      "text": "¿Y qué diablos fue esa hazaña que hiciste durante\nla conferencia de prensa? No puedes simplemente\nalejarte de los medios así."
+    },
+    {
+      "name": "King Halo",
+      "text": "P-pero..."
+    },
+    {
+      "name": "La madre de King Halo",
+      "text": "Abandonar tus responsabilidades solo porque\nganaste es lo que haría un niño."
+    },
+    {
+      "name": "King Halo",
+      "text": "...",
+      "choice_data_list": [
+        "¡Pero había una razón!"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "..."
+    },
+    {
+      "name": "La madre de King Halo",
+      "text": "Si sigues con este comportamiento, el futuro no\nserá bondadoso contigo."
+    },
+    {
+      "name": "La madre de King Halo",
+      "text": "No sobrevivirás a menos que arregles tu actitud."
+    },
+    {
+      "name": "La madre de King Halo",
+      "text": "Vuelve a casa antes de que te avergüences aún más."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Bip! ¡Clic!</i>"
+    },
+    {
+      "name": "King Halo",
+      "text": "..."
+    },
+    {
+      "name": "King Halo",
+      "text": "Entrenador. Continuaremos al Kikuka Sho. Planeo\ndejar mi marca allí también."
+    },
+    {
+      "name": "King Halo",
+      "text": "No voy a permitir que las cosas terminen como\nestán ahora."
+    },
+    {
+      "name": "King Halo",
+      "text": "¿Qué sabe ella? <i>Voy a</i> sobrevivir. <i>Y no seré una\n</i>desgracia."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Continuaré brillando a lo largo de los Classics\ncomo la estrella que soy!"
+    },
+    {
+      "name": "King Halo",
+      "text": "No perderé ante nadie, ya sea Seiun Sky o Special\nWeek."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Soy King Halo! ¡Una Umamusume con talento!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Y merezco ser reconocida! ¡Ohohoho!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, su risa no tiene el mismo espíritu\nque de costumbre."
+    }
+  ]
+}

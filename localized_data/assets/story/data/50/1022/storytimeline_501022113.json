@@ -1,0 +1,256 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras Fine Motion avanza con su\nentrenamiento..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Bzzzt... Bzzzt...</i>"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "\"Disculpa por escribirte de la nada, Entrenador.\nTengo una petición, si no te importa.\""
+    },
+    {
+      "name": "Fine Motion",
+      "text": "\"¿Te molestaría convertirte en mi familia?\""
+    },
+    {
+      "name": "Personal de comedor",
+      "text": "¡Bienvenido! ¿Cuántos son hoy?"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Dos, por favor..."
+    },
+    {
+      "name": "Personal de comedor",
+      "text": "...¿Todo bien?"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¿Oh? ¿No necesitas verificar nuestra relación\nfamiliar? Este es mi hermanastro."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¿Oh? ¿No necesitas verificar nuestra relación\nfamiliar? Esta es mi hermanastra."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¿Verdad, querido hermano? ♪ ¡Seguro que podemos\ncomer aquí, ya que somos familia!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¿Verdad, querida hermana? ♪ ¡Seguro que podemos\ncomer aquí, ya que somos familia!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Por fin entiendo la situación. Parece que ella\nha tomado el término \"restaurante familiar\" para\nsignificar que solo la familia puede comer allí.",
+      "choice_data_list": [
+        "Eh, Fine...",
+        "Eh, Fine..."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ahaha, por supuesto. Sé que no necesitas ningún\nrequisito para entrar a un restaurante familiar.",
+      "choice_data_list": [
+        "...¿Los necesitas?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Dado que los amigos pueden ir juntos, sería raro\nque la entrada estuviera restringida a familias,\n¿verdad? Aún así, me preguntaba por qué se llaman\nasí."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Entonces pensé que las familias podrían recibir\nalgún tipo de servicio especial, así que quise\nprobar mi teoría. Pensé que era una idea bastante\ningeniosa."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Oh, cierto! Como agradecimiento por acompañarme\naquí, déjame invitarte a una \"bebida misteriosa.\"\n♪"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Groove me contaba sobre un niño que presionó todos\nlos botones de la máquina de soda—espera, ¿ella\ndecía que eso estaba mal? ¡Eh, estará bien! ♪",
+      "color_text_info_list": [
+        "Groove me contaba sobre un niño que presionó todos\nlos botones de la máquina de soda—espera, ¿ella\ndecía que eso estaba mal? ¡Eh, estará bien! ♪"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras me preparo para mi \"regalo de\nagradecimiento,\" echo un vistazo al restaurante."
+    },
+    {
+      "name": "Equipo de seguridad",
+      "text": "...",
+      "choice_data_list": [
+        "(¡Guau!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "El equipo de seguridad de Fine Motion está sentado\nen una mesa cercana. Parece que ella requiere\nprotección incluso cuando sale a comer."
+    },
+    {
+      "name": "Monólogo",
+      "text": "De vuelta del restaurante..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Mira, Entrenador! ¡Hice esta compra yo solita!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Aprendí todos los pasos para hacer compras—desde\nencontrar mi billetera hasta intercambiar dinero\npor productos. ¡Este fue mi primer intento\nexitoso!",
+      "choice_data_list": [
+        "¡Buen trabajo!"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Gastar la mesada en snacks es algo típico de la\njuventud, ¿verdad? ¿Me llamarías ahora una\nestudiante completa?",
+      "choice_data_list": [
+        "Claro."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Hurra! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Fine Motion está extasiada por comprar snacks. La\nestoy mirando con una sonrisa cuando..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ah, me emocioné de nuevo. Mis amigos también\nacababan de hablarme de esto."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Dijeron que sonrío en los momentos más extraños."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Me di cuenta de que debía estar haciendo sentir\nincómoda a la gente y me prometí tener cuidado,\npero... debo admitir que se me olvidó.",
+      "choice_data_list": [
+        "Creo que querían decir que es maravilloso que\nencuentres alegría en tantas cosas."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...Aah, ahaha. Sí, entiendo. ¡Qué interpretación\nexquisita!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Bueno, entonces! Después de terminar estos\nsnacks, ¿te gustaría dar un pequeño paseo?"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Estoy verdaderamente agradecida contigo por\nentrenarme con tanto cuidado."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Cuando vivía en el castillo, mi familia y mi\nequipo de seguridad siempre estaban ideando todo\ntipo de formas de evitar que me aburriera."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Sus esfuerzos son los que hicieron nacer mi amor\npor todo lo divertido! Todos mis recuerdos están\nllenos de amor y afecto!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Nunca siquiera imaginé querer irme—ni siquiera una\nvez."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Sabes, en realidad tengo una hermana mayor que es\nuna corredora activa."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Cuando me dijo que se iba del castillo para\nperseguir su carrera, me preguntó si quería ir con\nella."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "La rechacé en ese momento. Creía que cumplir con\nmi deber era más importante."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ese deber... es convertirme en un pilar de la\nprosperidad de Irlanda.",
+      "choice_data_list": [
+        "Un pilar de prosperidad..."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "En efecto. Si considero esencial cumplir con ese\ndeber, estoy preparada para dejar todo y regresar\na casa en un instante.",
+      "choice_data_list": [
+        "(!)"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Solo estoy hablando de mi dedicación, por\nsupuesto. Si me dijeran que regrese a casa de\ninmediato... seguramente intentaría persuadirlos\npara que reconsideren."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Todavía hay tanto que quiero aprender sobre\nJapón! Creo que es algo espléndido viajar por el\nmundo y verlo con tus propios ojos."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "No es suficiente solo con conocer el mundo\nintelectualmente. Al tocar, confirmar y\nexperimentar, finalmente he aprendido qué es la\nverdadera disfrute.",
+      "choice_data_list": [
+        "Las carreras son iguales.",
+        "Las carreras son iguales."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Tienes razón! ¡Son una experiencia increíble que\npuedes sentir con tus propias piernas!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Es algo que no puedes comprender a menos que\ncorras con todo lo que tienes. Las carreras reales\nson mucho más divertidas de lo que jamás soñé.",
+      "choice_data_list": [
+        "Y aún hay vistas aún más maravillosas esperándote."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¿Quieres decir... aún más maravillosas que lo que\nhe visto hasta ahora?"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Pero todo ya es tan asombroso.",
+      "choice_data_list": [
+        "Lo mejor está por venir.",
+        "Lo mejor está por venir."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella aún no sabe cómo es una carrera de alto\nnivel. Lo que vea desde los escenarios más altos\nsin duda le quitará el aliento."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ya veo. Mi corazón puede latir aún más fuerte..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Vistas maravillosas, ¿eh?"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Me pregunto qué tipo de carrera necesito correr\npara verlas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras Fine Motion murmura esas palabras, sus\nojos brillan en el resplandor vespertino del sol\nponiente."
+    }
+  ]
+}

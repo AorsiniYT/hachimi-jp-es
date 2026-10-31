@@ -1,0 +1,206 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Hoy hay un evento de encuentro con fans de King\nHalo y otras estudiantes de su año."
+    },
+    {
+      "name": "Chica",
+      "text": "¡Buena suerte en tu próxima carrera, King!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Gracias. Planeo ganar, así que asegúrate de verla."
+    },
+    {
+      "name": "King Halo",
+      "text": "Solo mira cómo brillan esos ojitos tan lindos.",
+      "choice_data_list": [
+        "Lo mejor no es defraudarlas, ¿verdad?",
+        "Lo mejor no es defraudarlas, ¿verdad?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Por supuesto. ¿Cómo podría una primera como yo\nandar aplastando los sueños de los niños?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "King, ya es casi la hora."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Estás lista para rugir?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Nuestros fans vinieron hasta aquí para vernos, así\nque mostrémosles nuestra gratitud."
+    },
+    {
+      "name": "King Halo",
+      "text": "¿De qué se trata todo eso de rugir y gratitud?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Olvidaste el mini-concierto después del\nencuentro?"
+    },
+    {
+      "name": "King Halo",
+      "text": "¿¡Huh?! ¿¡Un mini-concierto!?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Juzgando por tu reacción... No me digas..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Pero ahora que lo pienso, te perdiste la práctica\nporque surgió algo."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Aún así, dijiste que practicarías por tu cuenta.",
+      "choice_data_list": [
+        "¿Lo olvidaste?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¡C-claro que no! ¡Solo lo archivé en mi memoria\npara más tarde!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Pero esto no es bueno... ¡No he practicado el\nbaile, y mucho menos memorizado la letra!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh vaya, esto es problemático. ¿Qué hacemos\nentonces?"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Y justo decía que no aplastaría los sueños de\nnadie!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Es problemático! Pero ¡no hay de qué preocuparse!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡El más fuerte del mundo, El Condor Pasa, está\naquí! ¡Nunca te abandonaré!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡El Condor Pasa!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡No hay problema! ¡Te pondré al día ahora mismo!\n¡Con mi instrucción, nuestro gran final está\nasegurado!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¿¡Ahora mismo!? ¡Ese plan es demasiado simple!\nSeguro que toma tiempo aprenderlo todo.",
+      "choice_data_list": [
+        "Veamos qué piensa Grass Wonder.",
+        "Confiemos en El Condor Pasa."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿¡Quéeee!? ¿¡Me ignoran!?"
+    },
+    {
+      "name": "King Halo",
+      "text": "Bueno, si dos cabezas piensan mejor que una,\nsupongo que tres serían aún mejor. ¿Qué crees que\ndebemos hacer, Grass?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Bueno, este centro comercial sí tiene una tienda\nde música..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Y si cambiamos la canción por una que las tres ya\nsepamos?"
+    },
+    {
+      "name": "King Halo",
+      "text": "¿¡Cambiar la canción!? ¡Es una idea maravillosa!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Nnngh... Es decepcionante, pero supongo que es\nmejor que aprenderlo desde cero."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡King! ¡Grass! ¡Elegimos una canción que las tres\nya sepamos cantar y bailar!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Sí, hagámoslo! ¡Compraré el CD cuando encontremos\nalgo adecuado!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Grass, El Condor Pasa, les debo una!"
+    },
+    {
+      "text": "Un rato después..."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Las tres estamos aquí para dar una actuación\ninolvidable! ¡Aquí vamos, <i>Umapyoi Legend!</i>"
+    },
+    {
+      "text": "Wooooo!"
+    },
+    {
+      "text": "Gracias a su rapidez mental, King Halo y los demás\nlograron elegir la canción correcta y complacer a\nsus seguidores."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Muy bien, entendido! El Condor Pasa, ¡por favor!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Vale! ¡Cuenta conmigo!"
+    },
+    {
+      "text": "Quince minutos después..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Y así, el evento principal de hoy es..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Un combate de exhibición entre El Condor Pasa y\nKing Halo!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¿En serio vamos a hacer esto?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Si lo piensas, ¡no hay forma de que aprendas una\ncanción completa tan rápido!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Entonces, en lugar de un mini-concierto, ¡es hora\nde lucha libre!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Sé que eres nuevo en esto, pero no te preocupes!\nYo te mantendré seguro y al público entusiasmado!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ahora, muéstrame lo que tienes!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Vale! No estoy realmente segura de <i>qué</i>\ntengo,¡pero!"
+    },
+    {
+      "name": "Fans",
+      "text": "¡Buena suerte allá afuera, ustedes dos!"
+    },
+    {
+      "text": "El mini-concierto planeado se ha convertido en un\ncombate de lucha libre profesional. Sin embargo,\nsorprendentemente, ¡ha sido bien recibido por los\nseguidores!"
+    }
+  ]
+}

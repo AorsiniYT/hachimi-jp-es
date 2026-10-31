@@ -1,0 +1,150 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Pasamos por una tienda de crepas en nuestro camino\na casa."
+    },
+    {
+      "name": "Vodka",
+      "text": "Crepas...",
+      "choice_data_list": [
+        "¿Quieres una?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Eh?! ¿Para qué querría una crepa?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Son esponjosas, se derriten en la boca y son algo\nlindas... Comida para débiles."
+    },
+    {
+      "name": "Vodka",
+      "text": "Son demasiado dulces para alguien como yo..."
+    },
+    {
+      "name": "Dependiente",
+      "text": "¿Podría interesarle nuestra Crepa de Crema Doble\nMiel Chocolate Banana? ¡Es nuestro artículo más\npopular!"
+    },
+    {
+      "name": "Vodka",
+      "text": "<i>Gulp...</i>"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡A-anyway! ¡Vamos a buscar carne! ¡Carne! ¡A lo\ngrande o a casa!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Está ese lugar de kebabs en el parque en el\ncamino de regreso! ¡Vamos allí!"
+    },
+    {
+      "name": "Vodka",
+      "text": "...¡Eso es definitivamente mejor que las crepas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella obviamente quiere una crepa... Pero también\nsiento que sería inmaduro desenmascararla y\narruinar su bravuconería...",
+      "choice_data_list": [
+        "¿Te importa si compro una?",
+        "Vamos a buscar kebabs."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Qué?! ¿Vas a comprar una crepa?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "O sea..."
+    },
+    {
+      "name": "Vodka",
+      "text": "E-eres un adulto. ¿No te da vergüenza comer en un\nlugar como este?",
+      "choice_data_list": [
+        "Es que realmente quiero una ahora mismo."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "...Hmph. Muy bien, está bien."
+    },
+    {
+      "name": "Vodka",
+      "text": "Normalmente no como cosas así, pero tomaré una yo\ntambién si la quieres tanto."
+    },
+    {
+      "name": "Vodka",
+      "text": "Disculpe, señorita. ¿Podemos ver un menú?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Mi amiga aquí reeeeeealmente quiere una crepa, y\nno para de hablar de eso... Jeje. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ambos pedimos crepas diferentes de acuerdo a\nnuestros gustos."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Mmmmm! ¡Está tan bueno! ¡Pero demasiado dulce!\n¡Ugh! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vodka come su crepa, viéndose extremadamente\nsatisfecha."
+    },
+    {
+      "name": "Vodka",
+      "text": "Uhhh... ¡C-claro!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Exacto. Los kebabs son claramente la mejor comida\npara una Umamusume!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Vamos, Entrenador! ¡La carne nos espera!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así que vamos al puesto de kebabs en el parque..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Disculpe! ¡Dos de sus kebabs más sencillos, por\nfavor!",
+      "choice_data_list": [
+        "Y algo de dondurma también."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Eh? ¿Vas a tomar helado también? Es mucha comida.",
+      "choice_data_list": [
+        "Comer un montón también es bastante genial, ¿no?",
+        "Comer un montón también es bastante genial, ¿no?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Oh! ¡Ya veo!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Según esa lógica, ¡yo también tengo que tomar!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Disculpe! ¡Añada dos dondurmas!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Jeje. ¡Esto es un festín digno de un rey! ¡A\ncomer! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Capaz de comer tanto carne como dulces, Vodka\nparece muy complacida."
+    }
+  ]
+}

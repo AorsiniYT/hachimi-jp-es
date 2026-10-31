@@ -1,0 +1,297 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Eishin Flash",
+      "text": "Mm. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En mi día libre, estoy caminando por la ciudad un\nfin de semana y me encuentro con una inusualmente\nalegre Eishin Flash.",
+      "choice_data_list": [
+        "¡Flash!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Oh, entrenador. No esperaba verte aquí.",
+      "choice_data_list": [
+        "¿Qué estás haciendo?",
+        "¿Qué estás haciendo?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Solo tomando notas de las pastelerías que visité\nhoy. Todas eran excelentes a su manera, así que\nquería anotar sus rasgos especiales mientras\nestaban frescos en mi mente.",
+      "choice_data_list": [
+        "Realmente te gusta el pastel, ¿eh.",
+        "Realmente te gusta el pastel, ¿eh."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Bueno, como sabes, mi familia tiene una\npastelería. En mi ciudad, convertí en hobby ir a\ndiferentes tiendas y aprender sobre el oficio."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No se trataba solo del sabor. Revisaba el diseño\ninterior, la variedad de pasteles ofrecidos,\nubicación, la clientela—quince criterios en total."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Así que sí, me gusta el pastel, pero sería más\npreciso decir que me gustan las pastelerías.",
+      "choice_data_list": [
+        "Ya veo..."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Todavía hay otra tienda en mi itinerario. Bueno,\nun café, no una pastelería."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Es mi destino principal para hoy—el Café Moon.\nEstá justo a la vuelta de la esquina, dos calles\ndetrás de ti y a través de la zona\nresidencial—unos quince minutos a pie.",
+      "choice_data_list": [
+        "¿Te importa si te acompaño?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Podría ser una buena oportunidad para conocerla\nmejor. Rara vez hablamos de algo más que\nentrenamiento."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Si tienes tres horas libres."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pronto aprendo lo que quiere decir cuando una\nlarga fila serpenteando hacia una cierta tienda\naparece a la vista...",
+      "choice_data_list": [
+        "Guau, solo mira esa fila.",
+        "Guau, solo mira esa fila."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sí, es un café popular, así que alrededor de las\n3:35 un sábado hay en promedio una fila de\ncuarenta y cinco minutos."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...He considerado el tiempo de espera en mis\nplanes, pero ¿está bien para ti?",
+      "choice_data_list": [
+        "Claro, no me importa."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Bueno, entonces hagamos fila."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hemos estado en fila por diez minutos, y ella no\nha dicho una palabra... Como estamos atrapados\naquí, decido usar la oportunidad para hacer\nconversación.",
+      "choice_data_list": [
+        "Entonces, de los pasteles que probaste hoy, ¿cuál\nte gustó más?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin respuesta—quizás prefiera el silencio.\nConsidero disculparme cuando..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "He decidido. Mi favorita fue la <i>Sachertorte</i>—un\ntipo de pastel de chocolate— en la quinta tienda\nque visité."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "El fondant de chocolate estuvo particularmente\nbien hecho. La textura era un poco firme, pero se\nseparó justo cuando le di un mordisco."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "El fondant también puede ser suave, pero lo\nprefiero con más crujiente."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "El toque ácido de la <i>Aprikose</i>—albaricoque—también\nequilibró bien los sabores."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Y por eso fue el mejor pastel que he comido\nhoy. ¿Mi respuesta es satisfactoria?"
+    },
+    {
+      "name": "Personal de café",
+      "text": "Estamos listos para sentar a nuestro próximo\ncliente."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Ya? ...Oh, han pasado cincuenta y cinco minutos.\nPerdí la noción del tiempo."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...¿Vamos?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Llamemos a alguien en diez minutos. Ya decidí qué\nvoy a pedir, pero tú tómate tu tiempo.",
+      "choice_data_list": [
+        "¿Qué vas a pedir?",
+        "¿Qué vas a pedir?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Los tartares de temporada son lo que les\ncaracteriza, así que pediré el tartar de temporada\ny el set de café."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pienso pedir lo mismo que ella, cuando un elemento\ndel menú llama mi atención.",
+      "choice_data_list": [
+        "Ooh, mira. \"¡Solo hoy! Set Especial.\""
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...¿Podría ver?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "\"Un pastel original de nuestra tienda hermana. No\nanunciado en ningún lugar debido a suministro\nlimitado. ¡Si ves esto, considérate afortunado!\""
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Ya veo. Un original... No, ya decidí el tartar\npara hoy."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella siempre se aferra a su plan, y parece que\nelegir qué pedir no es la excepción. Bueno, en ese\ncaso..."
+    },
+    {
+      "name": "Personal de café",
+      "text": "¿Estamos listos para pedir?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Oh, eh...",
+      "choice_data_list": [
+        "Un set especial y un set de tartar."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Ah..."
+    },
+    {
+      "name": "Personal de café",
+      "text": "Muy bien. Volveré con su pedido."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Entrenador...",
+      "choice_data_list": [
+        "¡No puedo esperar!",
+        "¡No puedo esperar!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Sí."
+    },
+    {
+      "name": "Personal de café",
+      "text": "Perdón por hacerlos esperar. Un set de tartar de\ntemporada y nuestro set especial solo por un día."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "El especial es... un pastel de chocolate y\ncaramelo de dos capas. Está bellamente construido,\ncasi como un viejo castillo alemán..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Estoy segura que se derretirá en tu boca...",
+      "choice_data_list": [
+        "Aquí, hagamos mitad y mitad."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Eh? ¿Por qué lo estás cortando en dos? Sería más\nparejo si lo centras—espera, ¿quieres decir mitad\npara mí?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Oh, ¿por eso pediste el set especial? Pero ese es\ntu pedido. Yo no podría—",
+      "choice_data_list": [
+        "No tenemos todo el día. Aquí."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Ah... Bien, si insistes."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡Mm! Es... rico. Cada bocado se siente tan pesado,\npero no hasta el punto de ser demasiado dulce.\nEs..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡Delicioso! Sabe a <i>glücklich...</i>felicidad."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Para igualar, puedes tener mitad de mi tartar.\nEspera, mediré el centro exacto y—",
+      "choice_data_list": [
+        "N-no tienes que ser tan preciso."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No, eso no servirá. Tengo cinta métrica, así que\npuedo lograrlo perfecto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de disfrutar nuestro dulce tiempo\njuntos..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Eso estuvo delicioso."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Incluso más de lo que esperaba. La próxima vez,\ntendré que extender mi tiempo asignado en treinta\nminutos y pedir otro artículo.",
+      "choice_data_list": [
+        "Me alegra que lo hayas pasado bien.",
+        "Me alegra que lo hayas pasado bien."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Y todo debido a un evento no planeado.",
+      "choice_data_list": [
+        "¿Qué quieres decir?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Me refiero a cómo nos encontramos antes. Sin ti,\nno habría sacado tanto provecho de venir aquí."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Es solo... No puedo convencerme de admitir que los\nmejores resultados dependen de pura coincidencia.\nAsí que en cambio, mi mejor curso de acción es..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Hacer planes para hacer otra ronda de visitar\npastelerías pronto... ¿Te gustaría acompañarme?",
+      "choice_data_list": [
+        "¡Me encantaría!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Gracias. Lo anotaré en mi agenda."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bueno, creo que hoy logré acercarme un poco más a\nella."
+    }
+  ]
+}

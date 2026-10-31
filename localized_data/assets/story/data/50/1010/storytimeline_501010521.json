@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Taiki Shuttle",
+      "text": "Nnh... Es un atraco..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh! Solo mira esa recompensa...",
+      "choice_data_list": [
+        "¿Todo bien?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Mhm... La cosa es que estas películas del oeste\nque renté deben devolverse pronto."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Pensé que sería un verdadero desperdicio no verlos\ntodos, así que me quedé despierto toda la noche.\n<i>Bostezo...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Taiki Shuttle parece privada de sueño durante el\nresto del día..."
+    }
+  ]
+}

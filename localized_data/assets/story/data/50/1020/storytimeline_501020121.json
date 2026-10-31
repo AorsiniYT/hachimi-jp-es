@@ -1,0 +1,205 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hemos estado preparándonos cuidadosamente para el\nArima Kinen, y el trabajo duro de Seiun Sky ha\nestado dando sus frutos. Un día..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oye, ¿está bien si llego tarde a la práctica hoy?",
+      "choice_data_list": [
+        "¿Vas a pedir permiso para faltar?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Tch, no es como si estuviera faltando. Qué mal\nchiste.",
+      "choice_data_list": [
+        "Perdón. ¿Por qué vas a llegar tarde?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "En realidad... Abuelo viene al campus hoy."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Estaba hablando de cuánto quería visitar, aunque\nsea por un rato, así que..."
+    },
+    {
+      "name": "???",
+      "text": "¡SKY!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿¡Huh?! ¿Quién es—"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Espera, Abuelo?! ¿Por qué estás tan temprano?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El abuelo de Sky irrumpe en mi oficina con una\ngran risa y un montón de canastas en sus brazos."
+    },
+    {
+      "name": "El Abuelo de Sky",
+      "text": "¡Jajaja! ¡Sabía que nunca me presentarías a tu\nentrenador de otra manera!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Egh, ¡me conoces demasiado bien!",
+      "choice_data_list": [
+        "Ehm..."
+      ]
+    },
+    {
+      "name": "El Abuelo de Sky",
+      "text": "¡Mucho gusto! Soy el abuelo de Sky. Gracias por\ncuidarla bien!"
+    },
+    {
+      "name": "El Abuelo de Sky",
+      "text": "¡Jajaja! ¡Me gusta la mirada en tus ojos! Sky debe\nestar muy feliz de tenerte cuidando de ella. ¡Ven\nacá, tú!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡A-Abuelo! Espera un—erf."
+    },
+    {
+      "name": "El Abuelo de Sky",
+      "text": "¡Mi preciosa pequeña Sky! ¡La mejor nieta del\nmundo, eres!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La atrae para un abrazo e inmediatamente empieza a\ndesordenarle el pelo."
+    },
+    {
+      "name": "El Abuelo de Sky",
+      "text": "De todos modos, ¡traje regalos! Los elegí todos yo\nmismo de la granja. Tengo todos tus favoritos,\nSky."
+    },
+    {
+      "name": "El Abuelo de Sky",
+      "text": "¡Me alegra que estés bien! ¡Sigue así, ¿me oyes?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...",
+      "choice_data_list": [
+        "Como un huracán humano.",
+        "Como un huracán humano."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Exacto! ¡Es una nube de tormenta andante! Es\nsalvaje, no puede estarse quieto, y—para <i>colmo—es\nruidoso.</i>"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Y ni una pizca de decoro. Por eso no quería que se\nconocieran...",
+      "choice_data_list": [
+        "Pero aún lo quieres.",
+        "Pero aún lo quieres."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Eh?",
+      "choice_data_list": [
+        "Tu cola se movía."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡B-basta de Abuelo! ¡Empecemos a entrenar ya!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más tarde, más visitantes se acercan durante\nnuestro descanso."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Hola, Sei!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Te trajimos algo para beber."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Oye, ustedes dos! ¡Qué amables!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Pero no están ocupados? Pensaría que tienen mucho\nen la cabeza con el Arima Kinen próximamente."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Está bien! De hecho, me siento—"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Spe, no caigas en sus trampas usuales."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Ah!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Tch, así que no vas a confesar? Está bien de\ncualquier manera."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "...Supongo que estás en perfecta forma?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Si dijera que no, ¿me darías un respiro? ¡Jeje!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Para nada. Si ese fuera el caso, con gusto te\nvencería."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Whoa... ¡Sabía que eras despiadada!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Pero creo totalmente que estás haciendo un buen\ntrabajo, Sei!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Estoy segura de que vas a darlo todo en la final\nde este año. ¡Por eso yo también estoy trabajando\nduro!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Te estaré esperando en el Hipódromo de Nakayama."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Esos dos piensan demasiado bien de mí.",
+      "choice_data_list": [
+        "Bueno, eres bastante interesante.",
+        "Bueno, eres bastante interesante."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Hm... Por alguna razón, eso no suena como algo\nbueno."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ahora bien, ¿volvemos al entrenamiento o...\npodemos terminar temprano y comer algo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con el ánimo de ambas rivales y su abuelo, hoy\naviva el fuego mientras nos preparamos para el\nArima Kinen."
+    }
+  ]
+}

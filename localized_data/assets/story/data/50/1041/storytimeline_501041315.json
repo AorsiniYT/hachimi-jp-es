@@ -1,0 +1,76 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Entrenador, lo logré! ¡Le gané por mucho a Flower\ny tomé el primer lugar!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Esto es <i>verdadera</i> evidencia de que soy nueva y\nmejorada!",
+      "choice_data_list": [
+        "¡Lo hiciste genial!",
+        "¡Lo hiciste genial!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Entrenador, ahora que he ganado, ¿por fin estás\nconvencido?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Por fin te he demostrado que soy tanto una\nrepresentante como una Umamusume ejemplar capaz de\ncorrer cualquier carrera?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por supuesto que estoy convencido. Ella ha tenido\nun desarrollo increíble como velocista en estos\ntres años. Ahora quizás podamos..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Así que, deberíamos hacer mi próxima carrera—",
+      "choice_data_list": [
+        "¿Intentamos correr el Mile Championship?",
+        "¿Intentamos correr el Mile Championship?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Oye! Otra vez con las carreras cortas—"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿¡Eh?! ¡Espera un segundo! ¿El Mile Championship\nno es una...?",
+      "choice_data_list": [
+        "¡Vamos por 1,600 metros!",
+        "¡Vamos por 1,600 metros!"
+      ],
+      "color_text_info_list": [
+        "Mile Championship"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es 400 metros más largo que su especialidad...\n¡pero sé que puede ganarlo!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Maravilloso! ¡Estoy tan feliz de finalmente\nparticipar en una!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡1,600 metros! Suena muy bien, igual que\n\"representante de clase!\""
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Definitivamente estaré a la altura de tus\nexpectativas, Entrenador!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Tomemos la corona!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así decidimos que nuestra próxima carrera sería\nel Mile Championship!"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Como se acerca el Día de San Valentín, Eishin\nFlash y yo visitamos una chocolatería para ver qué\nes popular este año."
+    },
+    {
+      "name": "Clientes",
+      "text": "¡Disculpe! ¡Yo estaba primero en la fila! ¡Oye,\ndeja de empujar!"
+    },
+    {
+      "name": "Employees",
+      "text": "¿Todos los clientes interesados en comprar\nchocolates, por favor formen aquí—de manera\n<i>ordenada</i>, por favor!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Qué caos...",
+      "choice_data_list": [
+        "Sí...",
+        "Sí..."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No parece que vayamos a poder navegar a nuestro\nritmo. Qué lástima..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Ya compré lo que quería en línea, así que\nvolvamos."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "He presenciado esa misma escena muchas veces desde\nmi llegada a Japón, pero aún me parece curioso.",
+      "choice_data_list": [
+        "¿Por qué? ¿Las cosas son diferentes en Alemania?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "También celebramos el Día de San Valentín, pero\nlas flores son el regalo principal de elección."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Además, solo las parejas se dan y reciben\nregalos... La costumbre de dar 'chocolates\nobligatorios' no existe."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Mi padre le regalaba rosas a mi madre cada año sin\nfalta.",
+      "choice_data_list": [
+        "Así que la idea de dar un regalo a alguien\nespecial es la misma.",
+        "Así que la idea de dar un regalo a alguien\nespecial es la misma."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Es un poco diferente, creo. En Alemania, el regalo\nno se da como una confesión de amor."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Ah que lo piense, ¿por qué la gente confiesa su\namor a otro en el Día de San Valentín en primer\nlugar?",
+      "choice_data_list": [
+        "Tal vez porque el día en sí lo hace más fácil."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Explico cómo es más fácil prepararse cuando has\nelegido una fecha para confesar, especialmente en\nel Día de San Valentín—el día del amor."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Mmm, así que esencialmente crea un pretexto...\nCreo que tengo una comprensión general de la idea\nahora."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sin embargo, una confesión de amor cambiaría\nirreversiblemente el statu quo establecido entre\ndos personas."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Como tal, sería más considerado expresar tu\naprecio a alguien regularmente en lugar de hacer\nuna muestra espontánea de afecto.",
+      "choice_data_list": [
+        "¿Por ejemplo?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...No tengo ejemplos por ahora. ¿Puedo tener un\npoco de tiempo para pensarlo?",
+      "choice_data_list": [
+        "Oh, no tienes que pensarlo tanto..."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No, pero deseo pensarlo yo misma. ...De todos\nmodos, volvamos a casa por ahora."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, llega el Día de San Valentín."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Entrenador."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Por favor, acepta esto. Es un pastel de chocolate.",
+      "choice_data_list": [
+        "Oh. ¿Gracias?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Por qué lo dijiste como una pregunta? Esto es un\nregalo perfectamente estándar de Día de San\nValentín.",
+      "choice_data_list": [
+        "Pero dijiste que dar regalos obligatorios no es\ncostumbre para ti..."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "He pensado mucho en el asunto desde entonces y me\ndi cuenta de que dar regalos es una manera fácil\nde expresar los sentimientos de uno."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Ergo, decidí participar en la costumbre. Sin\nembargo, esto está destinado a transmitir mi\ngratitud hacia ti y no es una confesión de ninguna\nmanera."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "He llegado a darme cuenta de por qué la gente se\nda chocolate el Día de San Valentín, sin embargo.",
+      "choice_data_list": [
+        "¿Y por qué es eso?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Porque quieren ver lo sorprendido que estará su\nreceptor, así como lo preocupado que se pondrá por\nla intención del regalo."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Es broma, por supuesto. Jeje."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Entrenador. Mi profesor quiere hablar contigo.\n¿Estás libre ahora?",
+      "choice_data_list": [
+        "¡Sí!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Entonces esperaré aquí y revisaré mi horario de\nentrenamiento mientras ustedes dos hablan."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su profesor hace charla trivial conmigo sobre lo\nmaravillosa que es Flash como estudiante."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Bien. Todo parece bien."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Ah, hola de nuevo."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Me voy ahora. Nos vemos mañana a las nueve para\ndiscutir mi horario.",
+      "choice_data_list": [
+        "¡Claro! Nos vemos entonces."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Eh..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Recuerdas la conversación que tuvimos antes sobre\nexpresar tu agradecimiento a alguien de manera\nregular?",
+      "choice_data_list": [
+        "Ah, ¿la que tuvimos el Día de San Valentín?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Al final, creo que lo mejor sería mostrarle tus\nsentimientos directamente."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sin embargo, solo ser amable no será suficiente.\nDebes darle algo."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Por ejemplo, imagina que le das una flor a alguien\nque normalmente no las tiene en su casa."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Esa flor se convertirá en parte de su vida diaria\npero, inevitablemente, se marchitará y será tirada\nen algún momento."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "En ese momento, la persona se dará cuenta de un\nnuevo estilo de vida potencial: uno con flores."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Y tal vez, solo tal vez... también pensará en la\npersona que le dio esa flor."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Eso es todo. Por favor, disculpe."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de que Eishin Flash se va, noto un dulce\naroma floral en el aire.",
+      "choice_data_list": [
+        "(¿Una rosa?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus pétalos carmesí profundos se ven tan suaves\ncomo el terciopelo mientras se mece en la brisa."
+    }
+  ]
+}

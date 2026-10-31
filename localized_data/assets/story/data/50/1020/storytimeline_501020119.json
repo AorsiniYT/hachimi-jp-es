@@ -1,0 +1,365 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, Seiun Sky no se presenta para el\nentrenamiento matutino. Parece que ni siquiera ha\nvenido a la escuela...",
+      "choice_data_list": [
+        "(¿Hay algo que pueda hacer?)",
+        "(¿Hay algo que pueda hacer?)"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Por eso he estado usando mi cabeza para ganar.\nBastante obvio, ¿eh?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Si a eso le llamas pensar <i>en demasiados </i>escenarios\ny cómo los manejarías..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy segura de que ella todavía está tratando de\nmejorar, así que tengo que averiguar algo que\npueda ayudarla!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más tarde esa noche, está tranquilo y en\nsilencio..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Llegas tarde. Pensé que vendrías más temprano.",
+      "choice_data_list": [
+        "¿Ni una mordida?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ni una sola. Todo lo que he sacado es alga."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El sonido de las olas rompiendo suavemente\ninterrumpe el silencio. Sin decir una palabra,\nlanzo mi línea al lado de la suya, y ella empieza\na abrirse poco a poco."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Obviamente, no estaba siendo seria antes. No\nestoy cansada de correr."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Solo estaba pensando... ¿cómo se supone que\nsuperaré todos estos obstáculos y limitaciones que\ntengo?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Cómo se supone que venceré a otras Umamusume que\nsolo siguen mejorando y mejorando, cuando yo ya\nestoy en mi cima?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Así que pensé que si iba a pescar... una buena\nestrategia podría venir a la mente."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Allá atrás... No estaba siendo real, ¿sabes?",
+      "choice_data_list": [
+        "Sí, lo sé.",
+        "Sí, lo sé."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Jaj. Así que me viste completamente."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Creo que King también lo hizo, al menos un\npoco. Ella solo es impaciente."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pero... realmente estoy atascada."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Caray, pescar fue inútil. No puedo pensar en nada.\n¡Solo estoy mirando el agua!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Me rindo, me doy por vencida, ¡estoy ondeando la\nbandera blanca! ...No realmente."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Solo estoy... tan agotada."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Eso es tan agotador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Recuerdo cuando ella dijo eso antes. Esas palabras\niban dirigidas a sí misma—no a mí o nadie más."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Quizás ya era marea alta para mí. Mi tiempo ha\nterminado, así que debería tirar la toalla."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Es milagroso suficiente que alguien tan débil como\nyo haya podido llegar tan lejos."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Incluso corrí en los Clásicos como el abuelo\nsiempre quiso."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Debería darme una palmada en la espalda y decir,\n\"¡Buen trabajo, niña!\"",
+      "choice_data_list": [
+        "Tienes razón, <i>has</i> trabajado mucho.",
+        "Tienes razón, <i>has</i> trabajado mucho."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Sí... ¿Verdad? ¡Ya he tenido una carrera lo\nsuficientemente buena!",
+      "choice_data_list": [
+        "Correcto. Eres una de las grandes.",
+        "Correcto. Eres una de las grandes."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pero... no puedo olvidarlo."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ese momento en que la percepción de todos sobre mí\ncambió."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡La sorpresa, el alboroto! ¡Los vítores y gritos!\n¡Ese momento en que el mundo se volvió del revés!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Quiero sentir esa emoción una vez más!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Aunque nunca volveré a atrapar nada, no puedo\nolvidar ese momento. Así que sigo lanzando mi\nlínea.",
+      "choice_data_list": [
+        "Sky..."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ella preguntó si ya no quiero ganar..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Por supuesto que todavía quiero ganar, obviamente.\nEs por eso que he estado corriendo todo este\ntiempo."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pero, sabes... ya no lo sé."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Es como si hubiera una pared frente a mí, con un\nletrero que dice, \"Hasta aquí llegas.\""
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Hasta ahora, he estado cavando debajo o escalando\nlas paredes."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pero está claro que no hay forma de que supere\nesta una. Tengo miedo incluso de correr hacia\nella."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Sí... Tengo miedo. No quiero saber que se acabó\npara mí..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella baja la cabeza, pero alcanzo a ver un\ndestello de lágrimas en sus ojos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque siempre actuó despreocupada, como si nada\nla afectara, siempre ha estado luchando contra\nesta incertidumbre...",
+      "choice_data_list": [
+        "Lo siento por no darme cuenta."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Nah... No hay nada por lo que debas disculparte."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Soy la única que puede hacer algo al respecto..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Al final, la única persona en la que puedes\nconfiar... eres tú misma."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eso es exactamente lo que ella dijo una vez.\nClaro, es cierto que su propia fuerza es lo que la\nllevará adelante, pero..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Urgh! Ni siquiera puedo atrapar un maldito\npescado..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "<i>Suspiro...</i> ¡En serio! Soy tan perdedora ahora.",
+      "choice_data_list": [
+        "Has hecho todo lo que podías.",
+        "Has hecho todo lo que podías."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Sí... Y no importa cuántas veces lance mi línea,\nno consigo nada.",
+      "choice_data_list": [
+        "¡Entonces es mi turno ahora!",
+        "¡Entonces es mi turno ahora!"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Eh? ¿Qué haces—por qué estás entrando en el agua?\n¡E-espera un momento!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Salpicadura!</i>"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Whoa! Entrenador, ¿estás bien?!",
+      "choice_data_list": [
+        "¡Voy a arrearlos hacia ti! ¡Toma la red!",
+        "¡Voy a arrearlos hacia ti! ¡Toma la red!"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "E-eh, e-espera, ¿qué? Uh... ¿está bien?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Persigo a los peces hacia donde Sky está\nesperando, y luego..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Atrapé un pececillo.",
+      "choice_data_list": [
+        "¡Mejor que nada!"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "O sea... ¿esto realmente cuenta como una captura?\nNi siquiera usé mi caña."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Espera un momento... Lo siento, mis pensamientos\nestán por todas partes."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Qué... fue eso ahora?",
+      "choice_data_list": [
+        "¡Si puedes ser valiente incluso cuando tienes\nmiedo, puedes hacer un cambio!"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Oh! ¿Así que te sumergiste en el mar para\nmostrarme eso? Claro... porque..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pfft... ¡Ahaha! ¡No te entiendo en absoluto!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Jaja, eso no es nada propio de ti! Vaya,\nrealmente me sorprendiste."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "O sea... no tienes que ir a tales extremos si solo\nquieres darme valor."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Cómo va a hacer que esta pared a la que me\nenfrento desaparezca lo que hiciste?",
+      "choice_data_list": [
+        "Ni siquiera has <i>intentado</i> derribarla aún."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...!",
+      "choice_data_list": [
+        "Sé valiente. Quiero que la derribes."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pero, ¿y si no funciona? ¿Y si esto solo se\nconvierte en un recuerdo doloroso?",
+      "choice_data_list": [
+        "Por poderosa que seas ahora, definitivamente\npuedes derribarla.",
+        "Por poderosa que seas ahora, definitivamente\npuedes derribarla."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le entrego los materiales que he estado\nrecopilando desde esta mañana."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Esto es... ¿mi registro de entrenamiento hasta\nahora? Todas las carreras que corrí hasta el\nTakarazuka Kinen están aquí..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Jaj. ¿Incluso anotaste todas las veces que me\nsalté? Definitivamente soy un dolor de cabeza,\n¿eh?",
+      "choice_data_list": [
+        "Todavía tienes muchas sorpresas en ti.",
+        "Todavía tienes muchas sorpresas en ti."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Volveré a entrenar. Pero en cuanto a correr... no\npuedo prometer nada."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Podría asustarme y huir... ¿Estás bien con eso?",
+      "choice_data_list": [
+        "Creo en ti."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...¿Puedes dejarme sola por un rato? Prometo que\nvolveré antes del toque de queda."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy segura de que Sky sacará algo de esto.\nConfiada en que volverá a correr, la dejo con sus\npensamientos."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Psh... ¿Crees en mí, eh?"
+    }
+  ]
+}

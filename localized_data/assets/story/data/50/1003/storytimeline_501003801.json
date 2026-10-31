@@ -1,0 +1,186 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día, vi a Tokai Teio en una racha de mala\nsuerte."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "<i>Suspiro...</i> ¿Dónde me equivoqué?",
+      "choice_data_list": [
+        "¿Qué pasó?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Bueno, verás, Entrenador..."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Hey, Teio! Quiero preguntarte algo."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Una pregunta, ¿para mí? ¡Claro, responderé\ncualquier duda que tengas."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Bien... Iré directo al grano. ¿Cuál es el secreto\nde tu fuerza, Teio?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Guau, no te andas con rodeos. ¿Por qué preguntas?"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Bueno... Corrí en un partido de práctica\nrecientemente, pero no estaba contento con mi\nrendimiento en absoluto."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Me gustaría poder hacer que la multitud se\nentusiasme como tú, Teio."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Así que pensé que tal vez si pudieras darme algún\nconsejo, podría convertirme en una gran corredora\ncomo tú."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Así que crees que soy grande... Entiendo,\nentiendo. Y quieres que te enseñe el secreto de mi\ntenacidad de Teio!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Je, je... Recuerdo haber preguntado algo así\ntambién."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Nah, solo hablaba conmigo mismo. ♪ Hmmm, ¿qué me\ndijo el presidente al final?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ah, sí! «Todos poseen sus propias fuerzas únicas,\nque a través del esfuerzo riguroso pueden\nllevarlos a la grandeza.»"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Eh... ¿Qué?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Y eso es lo que pasó. Mi discurso no tuvo efecto\nen ella."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Todos se ponen emocionales cuando el presidente lo\ndice, aunque...",
+      "choice_data_list": [
+        "Creo que tus propias palabras podrían funcionar\nmejor.",
+        "Creo que tus propias palabras podrían funcionar\nmejor."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Mis propias palabras..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Sí, tienes razón. Pensándolo bien,Kita se inspiró\nal ver <i>mis</i>carreras."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Bien! No sé si sonaré tan impresionante como el\npresidente, pero..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Intentaré hablar desde el corazón!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ah, ahí estás! ¡Hola, Kita!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¿Eh? Oh... ¿Teio?!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Lo siento por antes. No entendí lo que decías,\npero es mi culpa. Debería estudiar más..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "No, fui yo quien se equivocó allí. Solo copié las\npalabras del presidente."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Así que esta vez, he venido a decirte el secreto\nde mi tenacidad de Teio, sin rodeos. ♪"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Todo lo que puedo decir es: no te rindas ante tus\nsueños. No importa lo que te haga caer."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Tomé la decisión de aferrarme a mi sueño y seguir\ncorriendo con él. Nunca rendirme. Y <i>eso</i> es el\nsecreto de mi tenacidad Teio!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "El secreto es... no rendirse jamás."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "T-Teio... Juro que me convertiré en fuerte como\ntú. ¡Nunca me rendiré!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Wow, solo mira a Teio... Es tan genial."
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Me siento tan inspirada después de escuchar sus\npalabras."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Je, je... Mira eso. Mis juniors me admiraban\ntotally."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡<i>Fui</i> bastante genial si lo digo yo mismo! ♪¿Estás\nde acuerdo, verdad? ¿No fui el más genial?",
+      "choice_data_list": [
+        "Tan genial como la presidenta del consejo\nestudiantil.",
+        "Sigue haciendo tu mejor esfuerzo para ganar su\nadmiración."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Ves? Y no tuve que usar las palabras del\npresidente para inspirar a todos. ♪"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Pero eso no es el final de esto. Necesito trabajar\nmás duro y superarla."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Te necesitaré hasta entonces, Entrenador."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Sí, sí. Tengo que trabajar duro. ♪"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Hey, tengo una idea. ¿Qué tal si doy mi propia\nconferencia todos los días?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Je, je. Debo impartir las enseñanzas de mi fuerza\nsecreta para que todos lo sepan.",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Hey, ¿por qué te callas? ¿Hay algo mal con lo que\ndije? ¡Vamos! ¡Dime, Entrenador!"
+    }
+  ]
+}

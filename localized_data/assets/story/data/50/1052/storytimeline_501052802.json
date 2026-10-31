@@ -1,0 +1,139 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Haru Urara",
+      "text": "Ehehe, ¡el viento se siente genial! ¡Podría\nentrenar aquí por horas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hemos venido aquí para un cambio ocasional de\nritmo. Viendo a Haru Urara correr y saltar con\nemoción, me tranquiliza saber que esta fue una\nbuena idea."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como proclamó, ya está entrenando bajo el cielo\nazul despejado."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Mira, una ardilla!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...A pesar de varias de estas distracciones,\nafortunadamente se mantiene en la tarea y completa\nsu rutina de entrenamiento matutina."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ay!",
+      "choice_data_list": [
+        "¡¿Qué pasó?!",
+        "¡¿Qué pasó?!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡¿Qué hago?! ¡Olvidé traer el almuerzo! ¡La carne,\nlas verduras... todo!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Hoy entrenamos al aire libre? ¡Entonces hagamos\nun asado para el almuerzo!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Deja la carne y las verduras en mis manos! ¡Y,\nEntrenador, tú trae las herramientas!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Yujuu! ¡Esto será muy divertido!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Miramos en silencio sombrío el solitario set de\nasado abandonado junto al arroyo.",
+      "choice_data_list": [
+        "Supongo que no nos queda más que volver a..."
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Vamos a pescar!",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Vi algunos en el arroyo antes! ¡Espérame, voy a\npescar algunos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin esperar una respuesta, Haru Urara sumerge sus\npies en la corriente. Preocupado de que pueda\nescurrirse, la sigo rápidamente."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Guau! ¡Los pececitos son muy rápidos!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Jajaja! ¡No pueden superarme! ¡Esperen!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Haaah! ¡¿Vieron eso?! ¡No pude atraparlos en\nabsoluto!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Los pececitos eran tan rápidos, como, <i>zumb</i> y<i>¡fiu!</i>\nQuiero ser tan rápido como ellos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de los mejores esfuerzos de Haru Urara,\nlos peces siguen evadiendo su agarre. Noto que\ndebe estar cansada y sugiero que yo tome el\nrelevo, pero..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡No estoy cansada en absoluto! ¡No te preocupes!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella... no parece estar forzando una sonrisa. De\nhecho, su expresión parece aún más brillante que\ncuando empezamos."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Es más divertido cuando hay un desafío!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Notaste? ¡Me estoy acercando a los pececitos,\npoco a poco!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ahora mismo, toqué ligeramente a uno...! ¡Mi\ncorazón se volvió loco!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Me alegra mucho que no sea fácil. O si no, la\ndiversión se acabaría demasiado rápido."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Muy bien! ¡Voy a intentarlo de nuevo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Eso es. Ella siempre ha sido así. No es que lo\nhaya olvidado, pero experimentarlo de nuevo en\npersona...",
+      "choice_data_list": [
+        "No te apresures. ¡Observemos con cuidado!",
+        "No te apresures. ¡Observemos con cuidado!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ajaja, lo logré! ¡Atrapé uno!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella se gira hacia mí, con una sonrisa que no\npuedes evitar querer animar sin parar."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Yujuu! ¡Soy número uno!"
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Taiki, eres increíble! ¡Has mejorado mucho desde\nel año pasado!"
+    },
+    {
+      "name": "Fan B",
+      "text": "¡Eso fue electrizante! ¡Vi todo el evento con el\naliento contenido!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Gracias, gracias! ¿Fue lo suficientemente\nemocionante para todos?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Bueno, ¡no planeo detenerme pronto! ¡Voy a seguir\ncorriendo así!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "<i>Vítores.</i>"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Sí! ¡Segundo G1 sprint en el bolsillo!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Podía ver los ojos de todos brillando claramente!\n¡No hay duda de que me amaban!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Y apenas estoy comenzando!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Estas piernas mías aún no han terminado!",
+      "choice_data_list": [
+        "¡Mantengamos el ritmo!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Muy bien!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Ahora que terminamos aquí, tengo un presentimiento\nsobre cuál será nuestra próxima carrera!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Naturalmente, vamos a cerrar el año con la misma\ncarrera del año pasado—la batalla para decidir al\nRey Otoñal de la Milla...",
+      "choice_data_list": [
+        "¡Es el Mile Championship!",
+        "¡Es el Mile Championship!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Yujuu! ¡Finalmente llegó! ¡La carrera por el Rey\nde la Milla!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Voy a gobernar como rey de la primavera <i>y</i>el\notoño!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Nadie va a robar mi trono!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con la elevada meta de dominación total sobre las\nmillas G1 dobles y el sprint G1 otoñal, Taiki\nShuttle enfoca su atención en el Mile\nChampionship!"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Smart Falcon",
+      "text": "¡Woo! ♪ ¡Buenos días, Entrenador!",
+      "choice_data_list": [
+        "¿Descansaste mucho?",
+        "¿Descansaste mucho?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Sí! ¡Tuve un gran día libre!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Flash me dio un poco de su pastel de stollen, y lo\ncomimos mientras veíamos a mi artista favorita en\nUMATV!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Estoy súper cargada! ¡Próxima parada, principal\nUmadol! ☆"
+    },
+    {
+      "text": "Smart Falcon parece completamente recargada\ndespués de un buen descanso."
+    }
+  ]
+}

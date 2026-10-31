@@ -1,0 +1,51 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Heeey, Entrenador! ¡Obtuve un lugar!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Jeje! Quizás no fui primera, pero esa carrera sí\nfue emocionante!",
+      "choice_data_list": [
+        "¡Sigamos así!",
+        "No podemos permitirnos ponernos complacientes.",
+        "No podemos permitirnos ponernos complacientes."
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Jeje! Quizás no fui primera, pero esa carrera sí\nfue emocionante!",
+      "choice_data_list": [
+        "¡Sigamos así!",
+        "No podemos permitirnos ponernos complacientes.",
+        "No podemos permitirnos ponernos complacientes."
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Jeje! ¡Estoy exactamente contigo!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Voy a conseguir el primer lugar en mi próxima\ncarrera, y luego organizar una gran fiesta para\ncelebrar!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Así que pásate cuando pase, Entrenador!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Oh... Tienes razón en eso. De lo contrario, nunca\nsaldré victorioso!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡No puedo conformarme con solo ser lo\nsuficientemente bueno!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡En cuanto obtenga el primer lugar, voy a\norganizar una fiesta para celebrar! ♪"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Haru Urara",
+      "text": "¡Entrenador! ¡Feliz Año Nuevo!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Eh, gracias por todo lo que hiciste por mí el año\npasado! Y... eh..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "...¡Olvidé lo demás! Jeje!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "En fin, ¡Feliz Año Nuevo! Pasemos un gran año\njuntos!",
+      "choice_data_list": [
+        "¡Sí!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Muy bien, ¿y ahora qué se supone que debemos\nhacer?",
+      "choice_data_list": [
+        "¿Has hecho algún propósito?",
+        "¿Has hecho algún propósito?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿\"Propósito\"? ¿Qué es eso?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Propósito... propósito... ¡Ah! ¡Como revolución!\nSí, claro, ¡venceré a alguien!",
+      "choice_data_list": [
+        "Solo necesitas pensar en una meta para el año\nnuevo."
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ah, una meta! ¡Ya tengo una!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Quiero correr y ganar mucho!",
+      "choice_data_list": [
+        "¡Esa es una gran meta!",
+        "¡Esa es una gran meta!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Jeje, yo también lo creo! \"¡Mantén lo tonto,\nSally!\"",
+      "choice_data_list": [
+        "...¿Quieres decir \"Manténlo simple, estúpido\"?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí, eso es! ¿No es eso lo que dije?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Pero, sabes, correr mucho es fácil. Ganar es mucho\nmás difícil."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Así que por favor descubre qué debo hacer para\nganar más!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Eres mi entrenador de carrera, así que también\neres mi entrenador <i>ganador</i>! Je. ¿Qué crees?",
+      "choice_data_list": [
+        "¡Puedes contar conmigo!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Qué debe hacer Haru Urara para alcanzar su meta?",
+      "choice_data_list": [
+        "¡Usa tu espíritu de lucha para superar tus\ndebilidades!",
+        "¡El sueño ayudará en el crecimiento!",
+        "¡Inventa tu propia técnica definitiva original!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Mmm... Debilidades, ¿eh? ¿Como qué?",
+      "choice_data_list": [
+        "Algo como estudiar, quizás..."
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Bleeeh! ¿Por qué tengo que estudiar?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si no recuerda \"manténlo simple, estúpido\", su\nestudio es pésimo... Como entrenadora, debo\nentrenar su cuerpo y mente.",
+      "choice_data_list": [
+        "¡Lo importante es mantener un espíritu de lucha!",
+        "¡Lo importante es mantener un espíritu de lucha!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Un espíritu de lucha! ¿Es realmente tan fuerte?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Lo suficientemente fuerte como para eliminar\ntodas mis deficiencias?!",
+      "choice_data_list": [
+        "¡Por supuesto!",
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Entonces, entonces..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Mientras tenga un espíritu de lucha, puedo hacer\ncualquier cosa?!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Te escucho alto y claro, Entrenador! ¡Voy a\natrapar un montón de espíritus de lucha!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Hmph! ¡Vengan a mí, espíritus de lucha! ¡Y entren\nen mi vientre!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, Haru Urara concentra su espíritu\nde lucha en estudiar. Si obtiene algo de su sesión\nde estudio aparte de espíritu de lucha... es un\nmisterio."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Eh? ¿Necesito dormir? Pero ya duermo mucho,\n¿sabes?",
+      "choice_data_list": [
+        "¡Entonces necesitas dormir aún más!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es el inicio del año nuevo, así que descansar lo\nsuficiente significa que estará sana el resto del\naño."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Oh! ¡Ya entiendo! ¡Tengo que luchar contra mi yo\nanterior!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Okay! ¡Es hora de batallar contra mí misma!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Voy a dormir más que nunca!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "<i>...Ronquido...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, Haru Urara toma una larga siesta y\nle da descanso a su cuerpo."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿¡Mi propia técnica definitiva original?!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "E-eso suena... <i>¡genial!</i> ¡Quiero una! ¡Quiero una!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí, hagámoslo! Okay, veamos..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Algo como: ¡AMOR A LA ZANAHORIA de Haru Urara! ¡LA\nTOMADORA DEL PRIMER LUGAR de Haru Urara!",
+      "choice_data_list": [
+        "S-suena bien."
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿En serio? Suenan geniales, ¿verdad?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Oye, Entrenador! ¿Cuál es tu técnica definitiva?!",
+      "choice_data_list": [
+        "Eh..."
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Estoy segura de que tienes una súper-duper\nincreíblemente impresionante, ¿verdad?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Vamos, puedes decírmelo! ¡Prometo no decírselo a\nnadie!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, pasamos todo el día inventando la\ntécnica definitiva de Haru Urara. Estoy segura de\nque hubo algún beneficio..."
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Recibo una llamada telefónica de Seiun Sky. Ella\nquiere verme, así que voy a donde quiere reunirse."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Dun duh-duh duuun! ¡Felicitaciones! Has sido\nelegido como el héroe!",
+      "choice_data_list": [
+        "¿El héroe?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Así es! Has sido seleccionado para participar en\nel nuevo juego caliente <i>¡Ayuda a la Princesa Sei a\nEscapar!</i> ¡Comienza ahora mismo!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Como el héroe, debes rescatar a la princesa de\nlas garras del Señor Demonio!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...¡Mira! Ese es el Señor Demonio muuuy aterrador\njusto allí. Ella está tratando de secuestrarme."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Sky! Por faaavor ¡sal! ¡Mi mismo destino depende\nde esto!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Solo un momento! ¡Unos pocos segundos! Déjame\ntenerte para que la suerte sea mía—¡nada más!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Sal, Sky—quiero decir, su majestad! Le suplico,\n¡guíeme a los valles de la gran fortuna!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Escuchas eso? Por alguna razón, Fukukitaru quiere\nhacer un amuleto de la buena suerte conmigo!",
+      "choice_data_list": [
+        "¿Por qué querría hacer eso?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Aparentemente, lo vio todo en una adivinación.\nDecía algo como, \"¡Un amante de las siestas suave\ny relajado te traerá gran suerte!\"",
+      "choice_data_list": [
+        "¿Por qué no simplemente pasas el rato con ella por\nun tiempo?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Ni hablar! ¡Piénsalo por un segundo! Si paso\ntiempo con ella y la buena suerte realmente llega\na ella..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Alabado seas, gran Sky! ¡Alabado! ¡Comparte tu\nsuerte conmigo para siempre!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Eres <i>verdaderamente la diosa </i>de la gran fortuna!\n¡Qué te quedes a mi lado como la segunda Shiraoki\npor el resto de mi vida—y en mi próxima vida\ntambién!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Aaaaagh! ¡Ayúdame!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Eso es lo que pasará—¡lo juro! ¡Sin duda!",
+      "choice_data_list": [
+        "¿De verdad crees eso?",
+        "¿De verdad crees eso?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Sí. ¿Realmente estoy destinada a terminar atrapada\nen la habitación de Fukukitaru junto con todos sus\notros talismanes y baratijas?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Me pondrá en un estante estrecho y me hará\nmantener los brazos en alto como una estatua de\ngato de la suerte mientras ella reza por mí todos\nlos días... Ugh, no quiero eso!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Así que, <i>Entrenador—no, ¡héroe! </i>¡Rescátame, por\nfavor!",
+      "choice_data_list": [
+        "¿Qué quieres que haga?",
+        "¿Qué quieres que haga?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Las reglas son simples—solo dime, Princesa Sei,\n¿qué tengo que hacer para escapar del Señor\nDemonio de la Fortuna!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Vamos, héroe! ¡Cuento contigo! Podemos superar\nesto si trabajamos juntos!",
+      "choice_data_list": [
+        "Intentemos el engaño...",
+        "Usa tus habilidades de corredora principal."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oh, <i>ahora eso sí es </i>mi estilo... pero voy a\nnecesitar algunos detalles.",
+      "choice_data_list": [
+        "Tienes que dejarte atrapar."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ooooh <i>¿en serio?</i>"
+    },
+    {
+      "text": "Y así, nuestra reunión comienza mientras\nelaboramos una estrategia para sacar a Seiun Sky a\nsalvo."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Muy bien, nuestro plan está listo...\nProbablemente. ¡Vamos!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Ah! ¡Allí estás, Sky! ¡Mi amuleto más afortunado!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Eep!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Oh nooo... Me enconttrrró..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Je, ¡la buena fortuna finalmente es mía! ¡Ven,\nSky! ¡Ven a mí!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Muy bieeen... Caramba, supongo que tengo que\naceptar que es mi destino ser..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡LIBRE! ¡Hah!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡¿Qué?! ¡La fortuna se me escapó de los dedos?!\nV-vuelve a mí, Skyyy!"
+    },
+    {
+      "text": "Seiun Sky se aleja a toda velocidad cuando\nMatikanefukukitaru baja la guardia, escapando con\néxito."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Dun duh-duh duuun! ¡Me salvaste del Señor Demonio\nde la Fortuna! ¡Y conseguiste la puntuación más\nalta!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Pero fuiste un héroe bastante despiadado,\nhaciéndome que me atraparan primero y todo eso. La\nverdad no me lo esperaba.",
+      "choice_data_list": [
+        "Pero aun así, confiaste en mí.",
+        "Pero aun así, confiaste en mí."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Allá vas de nuevo, haciendo un drama por cosas.\nSolo estaba siguiendo las reglas, nada más."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Hice un buen trabajo, ¿eh? Especialmente\nconsiderando que mi héroe me hacía hacer cosas\ndescabelladas. Sí, gran trabajo por mi parte."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Aun así, <i>fue</i> todo porque confié en que vencerías\nel juego, jeje."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oooh... Bueno, está bien tener un plan simple,\npero ¿no es eso un poco <i>demasiado</i> simple?",
+      "choice_data_list": [
+        "Tienes que darlo todo y hacer lo que mejor sabes\nhacer.",
+        "Tienes que darlo todo y hacer lo que mejor sabes\nhacer."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ajá, ya veo. ¿Qué tal si damos algunos detalles?"
+    },
+    {
+      "text": "Seiun Sky y yo tenemos una reunión estratégica\nsencilla y elaboramos un plan que mejor utiliza su\nconjunto de habilidades."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Muy bien! Así que solo tengo que aprovechar una\nbuena huida clásica!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Ahí estás! ¡Encontré—¡¿oh?! ¡Espera! ¡Mi fortuna!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Oye, oye, vamos! Si no te mueves, tu amuleto de\nla suerte se va a ir directo al atardecer!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Ngh! ¡No te voy a dejar escapar! ¡Agárrate\nfuerte, mi preciado amuleto! ¡Voy por ti ahora\nmismo!"
+    },
+    {
+      "text": "Y con eso, Matikanefukukitaru desesperadamente\npersigue a Seiun Sky..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Mira eso! Eres bastante rápido... pero ¿estás\nseguro de que puedes mantener el ritmo?"
+    },
+    {
+      "text": "Al final, Fukukitaru lucha por mantener su ritmo,\ny Sky escapa sin problemas."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Dun duh-duh duuun! Venciste el juego. Ese tu plan\nsalió muy bien y sin problemas."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Me sorprende cómo te atreves a aumentar el peligro\nasí, eso sí. Supongo que juegas juegos en difícil\ncon restricciones autoimpuestas además?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Aun así, no habríamos arruinado el ritmo de\nFukukitaru si no hubiéramos hecho las cosas de esa\nmanera.",
+      "choice_data_list": [
+        "Todo según el plan.",
+        "Todo según el plan."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Jeje, resultó ser la estrategia ganadora perfecta\npara nosotros."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Muy bien, entonces, como ganamos, ¡puedo poner\nalgunos puntos de experiencia en mi estadística\nfavorita! ¡Doot doot!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Da-dada-daaah! ♪ ¡Subí de nivel! ¡Jejé!"
+    }
+  ]
+}

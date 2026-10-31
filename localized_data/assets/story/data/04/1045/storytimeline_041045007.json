@@ -1,0 +1,270 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, durante el campamento de verano..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Uf... ¿Cómo te pareció, Entrenador?",
+      "choice_data_list": [
+        "¡Eso fue increíble! ¡Hagamos otra vuelta más!",
+        "¡Eso fue increíble! ¡Hagamos otra vuelta más!"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Genial!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El rendimiento de Super Creek ha sido excelente\núltimamente. Estoy segura de que mostrará un gran\nprogreso al final del campamento de entrenamiento\nde verano."
+    },
+    {
+      "name": "Super Creek",
+      "text": "...Oh, ya es tan tarde. El tiempo vuela cuando te\nenfocas con intensidad."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Jejeje, me siento muy bien últimamente. Aunque ya\nhe alcanzado los objetivos de hoy, siento que\npodría seguir corriendo. ♪",
+      "choice_data_list": [
+        "Pero creo que es mejor descansar ahora.",
+        "Pero creo que es mejor descansar ahora."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Sí, tienes razón. Todavía nos queda mucho tiempo\nen el campamento."
+    },
+    {
+      "name": "Super Creek",
+      "text": "...",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Jeje, no es nada. Estaba pensando en lo productiva\nque fui hoy."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Siento que realmente me estoy adaptando al plan\nque creaste para mí."
+    },
+    {
+      "name": "Super Creek",
+      "text": "No debería sorprenderme. Pensaste en todas mis\nnecesidades cuando lo hiciste.",
+      "choice_data_list": [
+        "Me alegra escuchar eso."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Y por eso creo que es hora de darte una recompensa\npor todo tu arduo trabajo. ♪",
+      "choice_data_list": [
+        "¿Una recompensa?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Sí! ♪ Hay un festival de verano no muy lejos de\naquí. ¿Te gustaría ir conmigo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de aceptar con gusto su invitación, nos\ndirigimos al festival."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Jeje, hay muchos niños aquí. Es tan agradable ver\na todos divirtiéndose."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Bueno, ¿por qué no vamos a echar un vistazo a los\npuestos nosotros mismos?... Pero hay tantos, no sé\npor dónde empezar."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh, y por supuesto, deberíamos comer algo después\nde todo ese entrenamiento."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Compremos algo, encontremos un lugar con una vista\nagradable y comamos. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Super Creek y yo nos paseamos, comprando una\nvariedad de cosas divertidas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El festival se va llenando cada vez más a medida\nque el atardecer se convierte en noche."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Hay tantas personas aquí ahora. Intentemos no\nsepararnos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En cuanto Creek termina su oración, se encuentra\nsiendo arrastrada por la multitud."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Oh! ¡Oh, cielos!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Entrenador! Deberíamos—",
+      "choice_data_list": [
+        "¡Toma mi mano!"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "...¡Genial!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agarro con fuerza la mano de Super Creek y logro\nllevarnos a un área abierta."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Creo que estaremos bien aquí. Estaba empeorando\nmucho allá atrás."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Pero me alegra que hayamos podido agarrarnos de la\nmano y no perdernos. Jeje... ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al mirar hacia abajo, me doy cuenta de que\nnuestras manos todavía están juntas.",
+      "choice_data_list": [
+        "¡L-lo siento!",
+        "¡L-lo siento!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rápidamente suelto su mano."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Jeje, no hay necesidad de ponerte nerviosa. Tú me\ndijiste que te agarrara la mano.",
+      "choice_data_list": [
+        "Eh, de todos modos, ¿dijiste algo antes?",
+        "Eh, de todos modos, ¿dijiste algo antes?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh, ¿lo hice?"
+    },
+    {
+      "name": "Super Creek",
+      "text": "...Bueno, podemos hablar más tarde. El takoyaki se\nestá enfriando."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras comemos takoyaki, miramos el océano\nnocturno iluminado por la luna y las estrellas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos sentamos en silencio, con solo el sonido de\nlas olas marcando el paso del tiempo. Finalmente,\nSuper Creek rompe el silencio."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Sobre ese momento antes...",
+      "choice_data_list": [
+        "¿Ese momento?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Sí... cuando me pediste que te agarrara la mano."
+    },
+    {
+      "name": "Super Creek",
+      "text": "En realidad, yo... iba a decir lo mismo, pero tú\nme ganaste."
+    },
+    {
+      "name": "Super Creek",
+      "text": "La forma en que me alcanzaste... Me sentí que eras\n<i>muy</i> confiable.",
+      "choice_data_list": [
+        "¿¡De verdad?!",
+        "¿¡En serio?!"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Sí, definitivamente. Ya has crecido mucho desde el\ndía que nos conocimos. Estoy realmente orgullosa\nde ti."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras Creek me mira con suavidad, una fuerte\nmotivación se desborda dentro de mí. Lo único que\nquiero hacer es seguir trabajando duro para ella.",
+      "choice_data_list": [
+        "Miro a sus ojos."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Um... Entrenador... jeje."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Sé que este es un momento serio ahora, pero tienes\nsalsa de takoyaki en la cara.",
+      "choice_data_list": [
+        "(¿¡Ahora, de todas formas?!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Avergonzada, rápidamente meto mi mano en mi\nbolsillo para buscar mi pañuelo. Pero antes de que\npueda sacarlo..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Alto! No te muevas, solo un segundo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Super Creek calladamente me limpia las comisuras\nde la boca."
+    },
+    {
+      "name": "Super Creek",
+      "text": "...Ya está. Ahora estoy limpia."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Entrenador, ¿recuerdas cuando me preguntaste si\nhabía algo que quisiera de ti?"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Creo que ya lo sé. ¿Quieres escuchar?",
+      "choice_data_list": [
+        "¿Qué es?",
+        "¿Qué es?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Al ganar más y más experiencia, sé que te\nconvertirás en un entrenador aún mayor de lo que\nya eres."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Pero no importa cuánto crezcas... ¿me dejarás\nseguir cuidándote?",
+      "choice_data_list": [
+        "...Está bien."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Jeje... Gracias. Significa mucho para mí."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Y espero que sigamos pasando mucho, mucho tiempo\njuntos."
+    }
+  ]
+}

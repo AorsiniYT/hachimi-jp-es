@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Escucho invocaciones extrañas, posiblemente\nespirituales viniendo desde dentro de la sala de\nespera. Echar un vistazo para encontrar..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Gloria sea! ¡Gloria sea! Gloria sea..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡A la poderosa hoja de espinaca!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Uf. Me emocioné tanto que quizás me entusiasmé\n<i>mucho</i> más de lo normal con ese cántico.",
+      "choice_data_list": [
+        "Pareces emocionada.",
+        "Pareces emocionada."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Así es! ¡Voy a hacer uso de toda mi motivación,\nvalor y suerte en esta carrera!"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Ardan y yo estamos paseando por el parque\ncuando ella se detiene de repente y se queda\nembelesada mirando a una señora que observa el\nagua."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...! ¿Es esa? No, no puede ser...",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Oh, disculpe. Simplemente no puede ser—pero\ntambién, el parecido es tan increíble..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Debe <i>ser</i> ella. Esa dama es una actriz de teatro\nque vi actuar en mi juventud."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Creo que aún no se ha retirado... Recuerdo verla y\nquedar hipnotizada por su presencia en el\nescenario."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Pensar que la verría aquí de todos los lugares...\nQué sentimiento tan peculiar. Es como si estuviera\nreviviendo mi infancia.",
+      "choice_data_list": [
+        "¿Por qué no vas a saludarla?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Oh, pero... sería terriblemente grosero iniciar\nuna conversación con ella de la nada.\nEspecialmente considerando que está fuera de\nservicio en este momento...",
+      "choice_data_list": [
+        "Conociéndote, estará bien.",
+        "Conociéndote, estará bien."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Estás... seguro? Yo <i>sería</i> tan educado y\nrespetuoso como fuera posible, por supuesto..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Muy bien. Me permitiré ser una niña una vez\nmás... y revivir mis recuerdos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es raro ver a Mejiro Ardan tan contenta. Verla\nhablar con la actriz de teatro a lo lejos, no\npuedo evitar sonreír."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Gracias por su paciencia, Entrenador. Lo pasé\nmaravillosamente—",
+      "choice_data_list": [
+        "...?!"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Entrenador? ¿Pasa algo? Tienes una mirada\nbastante desconcertada..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¡Oh?! D-Dios mío, ¿qué estoy haciendo?"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Uf... No sé qué me poseyó...",
+      "choice_data_list": [
+        "¿Es porque te dejaste ser una niña otra vez?",
+        "¿Es porque te dejaste ser una niña otra vez?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "E-eso no puede ser correcto... Yo nunca fui el\ntipo de niña que expresaba su emoción físicamente."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "A menos que, no, seguramente no... ¿Fue ese\nmovimiento espontáneo de hace un momento la\nprimera vez que lo hago?",
+      "choice_data_list": [
+        "Esto es todo un fenómeno..."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "A mí también me ha tomado por sorpresa. Pensar que\nmi cuerpo se movería por sí solo así..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Aún así... dejando aparte los movimientos\ndesconcertantes, aparece que revivir recuerdos\nlejanos es algo maravilloso de verdad.",
+      "choice_data_list": [
+        "...Está bien dejar salir a tu niño interior a\nveces, ¿verdad?",
+        "...Está bien dejar salir a tu niño interior a\nveces, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Lo es. En aquel entonces, veía estos mundos\ndesplegándose en el escenario y sentía mi corazón\nlatiendo con emoción..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Ah... Entrenador, por favor no se burle de mí."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Ya no soy una niña. No tiene sentido consentir\nesos caprichos tan juveniles.",
+      "choice_data_list": [
+        "O podrías simplemente divertirte.",
+        "La nostalgia es algo que puedes disfrutar <i>porque</i>\nhas madurado.",
+        "La nostalgia es algo que puedes disfrutar <i>porque</i>\nhas madurado."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Ya no soy una niña. No tiene sentido consentir\nesos caprichos tan juveniles.",
+      "choice_data_list": [
+        "O podrías simplemente divertirte.",
+        "La nostalgia es algo que puedes disfrutar <i>porque</i>\nhas madurado.",
+        "La nostalgia es algo que puedes disfrutar <i>porque</i>\nhas madurado."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Divertirme... En realidad, en ese sentido, creo\nque estaría bien..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Pero si me divirtiera, creo que me sentiría más\ncómoda haciéndolo con compañía."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Jeje... Si está dispuesto a acompañarme,\nEntrenador, creo que me divertiré.",
+      "choice_data_list": [
+        "Juntos, entonces."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Jejeje. Realmente eres muy bueno saltando,\nEntrenador..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los dos nos relajamos dejando salir a nuestros\ninteriores tontos por un rato."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Sí, puedo ver la lógica en eso.",
+      "choice_data_list": [
+        "Demuestra que has salido de tu caparazón, por\ndecirlo así.",
+        "Demuestra que has salido de tu caparazón, por\ndecirlo así."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Sí. Dicho en esos términos, este tipo de\ncomportamiento sí indica un amor por—"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Ah, esto realmente es bastante vergonzoso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así descubro un lado de Mejiro Ardan que me toma\npor sorpresa—y es uno del que ni siquiera ella era\nconsciente."
+    }
+  ]
+}

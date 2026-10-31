@@ -1,0 +1,109 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estoy dando un paseo por un parque en mi día\nlibre, cuando..."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡HI-YAH!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me encuentro con Yaeno Muteki practicando artes\nmarciales.",
+      "choice_data_list": [
+        "Trabajando duro, ¿eh?",
+        "Trabajando duro, ¿eh?"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Eres de la academia... Sí, este entrenamiento es\nmi rutina diaria."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Sin embargo, mis habilidades aún palidecen en\ncomparación con cualquiera de mis maestros..."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Pensé que podría aplicar las antiguas artes\nmarciales que he estudiado también a las\ncarreras... Creí que si corría rápido, también\npodría golpear más rápido..."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Entré a la academia por esta razón, pero hacerlo\nsolo me abrió los ojos a lo mucho que aún me falta\npor recorrer.",
+      "choice_data_list": [
+        "¿Quiénes son tus maestros?",
+        "¿Quiénes son tus maestros?"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Mis abuelos. Son maestros del estilo Kongo\nYaegaki."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¿Qué puedo hacer para acercarme más a alcanzar su\nnivel?",
+      "choice_data_list": [
+        "Deberías concentrarte en qué tan rápido puedes\ngolpear.",
+        "Deberías concentrarte en qué tan fuerte puedes\ngolpear."
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...Entiendo. Concentraré mis esfuerzos en aumentar\nla velocidad de mis golpes, entonces."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Lo intentaré de inmediato... ¡HAH!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Fiuuu!</i>",
+      "choice_data_list": [
+        "¡¡R-rápido!!",
+        "¡¡R-rápido!!"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Hm. Concentrarme en la velocidad de mis golpes me\nha hecho darme cuenta de que necesito mejorar mi\nforma."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡Siento como si fuera un novato de nuevo, viendo\nlas cosas por primera vez! Continuaré este\nejercicio un poco más."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Yaeno Muteki continúa estoicamente practicando sus\ngolpes."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...Entiendo. Concentraré mis esfuerzos en aumentar\nla fuerza de mis golpes, entonces."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Lo intentaré de inmediato... ¡HAH!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Pum!</i>",
+      "choice_data_list": [
+        "¡¡F-fuerte!!",
+        "¡¡F-fuerte!!"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Hm. Concentrarme en la fuerza de mis golpes me ha\nhecho darme cuenta de cuánta energía consume cada\ngolpe."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Sin embargo, ese es exactamente el punto del\nentrenamiento. ¡Me siento aún más motivado para\ncontinuar ahora!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Yaeno Muteki continúa estoicamente practicando sus\ngolpes."
+    }
+  ]
+}

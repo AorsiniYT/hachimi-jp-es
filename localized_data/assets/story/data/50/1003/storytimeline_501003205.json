@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy marca la tercera de las carreras Clásicas—la\nKikuka Sho."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Por un tiempo, parecía que ni siquiera iba a poder\nparticipar..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Pero lo logré! ¡Finalmente estoy en la Kikuka\nSho!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Jeje... Parece que todos nuestros esfuerzos\nvalieron la pena, ¿eh, Entrenador?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Muy bien, necesito motivarme! ¡Vine aquí para\nmostrarles de qué estoy hecha!",
+      "choice_data_list": [
+        "¡Sal ahí y domina!",
+        "¡Sal ahí y domina!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Sí, lo haré! La tercera de esas coronas será mía,\nya verás."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Haa... Haa...</i> ¡Jeje!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Me viste? ¿Viste cómo crucé la línea de meta en\nprimer lugar?",
+      "choice_data_list": [
+        "¡Sabía que lo harías genial!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Por supuesto! ¡De ninguna manera dejaría que\nalguien como Vodka me supere!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Pero no voy a bajar el ritmo! ¡Voy a quedar\nprimera en la siguiente carrera también!",
+      "choice_data_list": [
+        "¿Incluso en el Oka Sho, huh?",
+        "¿Incluso en el Oka Sho, huh?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Absolutamente!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿El primer obstáculo de la Triple Tiara? ¡Hum! ¡Lo\nsaltaré sin problemas!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Muy bien, sin tiempo para descansar. ¡Esto es solo\nel comienzo de mi carrera como número uno!"
+    }
+  ]
+}

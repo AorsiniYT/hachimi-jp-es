@@ -1,0 +1,52 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Nice Nature no ha aparecido para el entrenamiento.\nPreocupado, voy a buscarla."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Gaaah! Sé que pasa cada vez, pero no puedo\nesperar por esa frase de moda!"
+    },
+    {
+      "name": "Dueño de la Tienda de Electrodomésticos",
+      "text": "¡Lo sabes, Natie! Esa es la mejor parte de <i>The\nC-Team.</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Encuentro a Nice Nature viendo atentamente un\nprograma en una TV de exhibición en la tienda de\nelectrodomésticos."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Oh! ¡Ahí está la camioneta! ¡Ahí viene! ¿Va a\nsacar su cigarr—"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Qué—Entrenador! ¿Qué haces aquí?",
+      "choice_data_list": [
+        "...¡Compadezco al tonto que no usa su chándal!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Jaja, eso suena como algo que dirían en el\nprograma. Pero ¿por qué hablas de chánd...ales..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡AAAAH! ¡Hoy teníamos entrenamiento!",
+      "choice_data_list": [
+        "Ten más cuidado la próxima vez.",
+        "Ten más cuidado la próxima vez."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡R-recibido! Lo haré mejor de ahora en adelante..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Me encanta cuando un plan se concreta! ...La\npróxima vez, con suerte."
+    }
+  ]
+}

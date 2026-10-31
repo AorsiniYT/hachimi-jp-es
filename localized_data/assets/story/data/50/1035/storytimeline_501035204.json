@@ -1,0 +1,108 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fan A",
+      "text": "Tickezo ha estado apuntando al Japanese Derby\ndesde el principio, ¿verdad?"
+    },
+    {
+      "name": "Fan B",
+      "text": "¡No solo Tickezo—Taishin y Hayahide también!"
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Ah! ¡Supongo que podemos esperar un\nenfrentamiento bastante caliente entonces!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En algún momento durante la Twinkle Series, las\ntres amigas empezaron a ser llamadas \"BNW\"."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Muchos fans han llegado al Japanese Derby solo\npara ver al famoso trío en acción."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En medio de la emoción, Ticket está en espera en\nla sala de espera, cuando de repente me mira con\nuna expresión seria."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oye, Entrenador?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Crees que puedo inspirar a la gente igual que la\nUmamusume que vi en ese entonces?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Me animarán? ¿Se emocionarán cuando me vean\ncorrer?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No puede dejar de moverse, así que le muestro la\ntransmisión del Hipódromo de Tokio.",
+      "choice_data_list": [
+        "Mira esto, Ticket."
+      ]
+    },
+    {
+      "name": "Entrevistador",
+      "text": "Por fin, el Japanese Derby está a punto de\ncomenzar. ¡La pista está llena a rebosar de fans!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La cámara se mueve para mostrar al público\nesperando ansiosamente. Muchos fans sostienen\ncarteles grandes y pancartas para mostrar su\napoyo, y entre ellos está..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Oh! Ese dice \"¡Buena suerte, Tickezo!\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es una pancarta enorme, y es solo para Winning\nTicket."
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Heeey! ¡Tú puedes, Tickezo!"
+    },
+    {
+      "name": "Entrevistador",
+      "text": "¡Qué apasionados ánimos! ¡Estoy segura de que\nWinning Ticket debe estar emocionada al\nescucharlos!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Sí, lo estoy! ¡Los escucho, todos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras Ticket mira fijamente la pantalla, las\nlágrimas empiezan a acumularse en sus ojos."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "<i>Snif... Snif...</i> ¡Estoy tan feliz! ¡Todos están\nrealmente emocionados!",
+      "choice_data_list": [
+        "¡Muéstrales a todos tu pasión por el Derby!",
+        "¡Muéstrales a todos tu pasión por el Derby!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Haré lo mejor! <i>Más</i> que lo mejor!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡POR EL DEEERRRBYYYY!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como para igualar su entusiasmo, una gran ola de\nánimos se escucha en la transmisión justo en ese\nmomento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Finalmente, las puertas se abren y el Derby\ncomienza!"
+    }
+  ]
+}

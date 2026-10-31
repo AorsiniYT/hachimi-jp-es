@@ -1,0 +1,65 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "De camino a casa, veo a Symboli Rudolf\ndirigiéndose hacia la pista de práctica.",
+      "choice_data_list": [
+        "¿A dónde vas?",
+        "¿A dónde vas?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Estoy entrenando en solitario, por supuesto."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Con las cosas inusualmente tranquilas alrededor de\nla academia, no podía pensar en una mejor manera\nde pasar mi tiempo libre.",
+      "choice_data_list": [
+        "¿No acabamos de terminar el entrenamiento?",
+        "¿Acaso no terminamos de entrenar hace un momento?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Así es, pero no hay de qué preocuparse. El\nesfuerzo me resulta agradablemente estimulante.",
+      "choice_data_list": [
+        "Espérame, yo también voy.",
+        "No te muerdas más de lo que puedes tragar."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¡Ja, ja! Sabía que pensarías como yo."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Entonces entrenaremos todo el tiempo que podamos."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¡Juntas alcanzaremos alturas que nadie ha visto\njamás!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como era de esperar, las dos terminamos entrenando\nhasta que cerraron la pista."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Te preocupa que me exceda?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Toda Uma Musume tiene la responsabilidad de tomar\nen serio las palabras de su entrenador."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Muy bien. Consideraré el entrenamiento terminado\npor hoy."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "No sería bueno apuntar tan alto que termine\ncayéndome de bruces."
+    }
+  ]
+}

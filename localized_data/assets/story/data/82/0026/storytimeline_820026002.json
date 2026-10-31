@@ -1,0 +1,154 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Estoy caminando junto al río en mi día libre,\ncuando..."
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "<i>Haa... Haa...</i> ¡Estoy agotada!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Qué tal si tomamos un descanso? Ambas tenemos\ncarreras próximas, así que no podemos\nsobreesforzarnos.",
+      "choice_data_list": [
+        "Ustedes dos seguro que están trabajando duro.",
+        "Ustedes dos seguro que están trabajando duro."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Bueno, no planeaba exactamente dejarme llevar\ntanto, pero entonces..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Uf! Creo que eso será suficiente por hoy. Sé que\nme enfrento a algunas velocistas de verdad en mi\npróxima carrera, pero no quiero excederme..."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "¿Hum? Esa voz..."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Sabía que eras tú, Nature. ¿Estás regresando a la\nresidencia?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ahaha, sí. ¿Puedes creerlo? Todo este sudor por un\ntrote ligero... Eso es lo que obtengo por intentar\nhacer entrenamiento en solitario por una vez."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "...Ya veo. Bueno, lamento decir que no puedo\npermitirte regresar a la residencia."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Eh? ¿Por qué?"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Verás, estamos en medio de una... situación."
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Ikunoooo! ¡Estoy MUERTA DE HAMBRE! ¡No puedo\nesperar más!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Espera. ¿Nature?!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Parece que la espera valió la pena, Turbo."
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¿¡Hm?! La espera valió la <i>pena</i>?!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Ah, sí, veo que tuviste un momento de <i>ballena</i>\nesperando pacientemente para correr con Nature."
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Sí, eso es! ¡Estaba esperando como una ballena\nvarada! ¡Y ahora es hora de correr, Nature!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Eh, no, estaba a punto de regresar a la—¡gahhh!\n¡No me des esos ojos de cordero!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Y así es como terminé en esta situación. Para ser\njustos, esto ha sido un buen entrenamiento extra\npara mí hasta ahora."
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Sí! ¡También ha sido genial para mí! De hecho...\n¡Ya estoy lista! ¡Vamos a casa!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...¿¡Qué?! ¿Ya nos vamos de vuelta?! ¿Siempre\nentrenas en modo turbo así?!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Oh, vaya... Ahora hay alguien más frente a la\nresidencia. ¿Qué pasa esta vez?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...¡Espera! ¡Ustedes son los niños de donde hago\nvoluntariado! ¡Ahora qué está pasando aquí?!"
+    },
+    {
+      "name": "Niños Umamusume",
+      "text": "¡Tres, dos, uno! ¡Bienvenidos a la fiesta \"Go\nNature\" !",
+      "choice_data_list": [
+        "¿Fiesta \"Go Nature\"?"
+      ]
+    },
+    {
+      "name": "Umamusume Joven y Energética",
+      "text": "Eh, entonces... Escuchamos que vas a competir\ncontra corredores muy rápidos en tu próxima\ncarrera!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Todos los chicos querían mostrarte su apoyo, así\nque organizaron esta fiesta para ti!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Para mí? Espera... ¿Es por eso que me impediste\nir a los dormitorios antes?"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Heh, en efecto fuimos nosotras. Las dos nos\nofrecimos a distraerte y ganarles más tiempo.\nDespués de todo, también queremos apoyarte."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Nature, sabemos lo mucho que te has esforzado cada\ndía en la preparación para tu carrera."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Sí! Te habrás reído y dicho que no tenías ninguna\noportunidad cuando viste la lista de corredoras,\npero ¡no puedes engañarnos!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Espera, estoy teniendo un poco de problemas para\nprocesar todo esto... ¿Así que ustedes sabían que\nyo estaba practicando por mi propia cuenta? Oh,\nvaya...",
+      "choice_data_list": [
+        "Tienes unos amigos geniales.",
+        "Tienes unos amigos geniales."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "<i>Ufff...</i> No sé si deberías llamarlos \"geniales\" o\nsimplemente \"entrometidos.\""
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Aun así, no puedo creer que hayas hecho todo esto\npor mí. Al ver todo esto..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Hasta yo me veo obligada a pensar que debo ganar!\nY ¡eso no es nada propio de mí! ¡Gahhhh!"
+    },
+    {
+      "text": "A pesar de sus quejas descontentas, Nice Nature\nsonríe y se une a la fiesta. Parece que el apoyo\nextra la motivó aún más."
+    }
+  ]
+}

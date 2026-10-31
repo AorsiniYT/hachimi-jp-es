@@ -1,0 +1,101 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de hacer algunas compras en el centro,\nempiezo a dirigirme a casa."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "<i>Snif...</i> Zanahorias... C-compren sus zanahorias\naquí... Deliciosas... zanahorias...",
+      "choice_data_list": [
+        "¿Qué haces aquí?",
+        "¿Qué haces aquí?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Eh?! Oh, eres tú..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Bueno... El tendero es amigo mío..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Al parecer, la tienda está corta de personal, así\nque ofrecí ayudar..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Pero realmente la regué cuando estaba pidiendo más\nstock y escribí mal el número de unidades que\nnecesitábamos... por dos dígitos completos.\n<i>Snif...</i>"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "No sé qué voy a hacer con todas estas\nzanahorias...",
+      "choice_data_list": [
+        "Veamos si Tracen está interesado en tomarlas.",
+        "Tendrás más suerte vendiendo zanahorias donde haya\nmás gente."
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Aprobado! Tazuna verificó dos veces los números,\n¡y esto está bien dentro de nuestro presupuesto!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Abastecernos de reservas nunca es malo y sería de\ngran ayuda! ¡Por favor tráelas a la academia de\ninmediato!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "G-gracias. Nunca se me ocurrió preguntar en la\nescuela..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Las llevaré todas ahora mismo!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡H-up! ¿Q-quéaaaa?",
+      "choice_data_list": [
+        "¡E-espera, yo también ayudo!",
+        "¡E-espera, yo también ayudo!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Juntas, Meisho Doto y yo llevamos el enorme montón\nde zanahorias a la escuela."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh, eso tiene sentido... Intentaré con todas mis\nfuerzas atraer a más gente..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Zanahorias...! ¡Compren sus zanahorias aquí!\n¡Frescas, sabrosas... ¡Eep!"
+    },
+    {
+      "name": "Señorita A",
+      "text": "¿Estás bien, cariño?"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "S-sí. Eh, ¿te gustarían algunas zanahorias\nfrescas?"
+    },
+    {
+      "name": "Señorita A",
+      "text": "Vaya, ¿no eres simplemente la trabajadora más\naplicada? Creo que sí me gustarían, sí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Conmovidos por lo earnestamente que trabaja Meisho\nDoto a pesar de su error, la gente que pasa\nempieza a dirigirse a la tienda por docenas."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Uf... Parece que logramos venderlas todas."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Correr por ahí mientras veía adónde se dirigía la\nmayoría de la gente me recordó un poco a estar en\nuna carrera..."
+    }
+  ]
+}

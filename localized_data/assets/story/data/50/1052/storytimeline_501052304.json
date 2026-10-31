@@ -1,0 +1,99 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Haru Urara",
+      "text": "<i>Haa... Haa...</i> ¡No... no quedé en primer lugar!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Pero corrí muy rápido! ¿No fue increíble?!",
+      "choice_data_list": [
+        "¡Bien hecho!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Gracias! ¡Ni siquiera estoy cansada! ¡Sentí que\nsolo me estaba divirtiendo!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Quiero seguir compitiendo! Podré correr más\ndespués de mi primera carrera, ¿verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Probablemente sea buena idea participar en una\nvariedad de carreras para ganar experiencia de\ntodos modos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y mientras lo hace, estoy segura de que también\nencontrará una nueva carrera a la que realmente\nquiera aspirar.",
+      "choice_data_list": [
+        "¡Claro que sí! ¡Vas a correr muchísimo!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Eh? ¿Quéoo?",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Mira allá! ¡Mis amigos del distrito comercial\nestán aquí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sigo la mirada de Haru Urara y veo a sus amigos\ndel distrito comercial, todos reunidos."
+    },
+    {
+      "name": "Tendero Energético",
+      "text": "¡Urara está aquí! ¡Vamos, todos... <i>¡ahora!</i>"
+    },
+    {
+      "name": "Tenderos",
+      "text": "¡Felicidades por tu primera carrera!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Aleteo...</i>"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Guau! ¡Hicieron una pancarta para mí?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los tenderos sostienen una pancarta que dice\n\"¡Felicidades por tu primera carrera, Urara!\""
+    },
+    {
+      "name": "Tendero Amable",
+      "text": "¡Me emocioné tanto al verte correr tan rápido en\nla pista!"
+    },
+    {
+      "name": "Tendero Feliz",
+      "text": "¡Vamos a estar contigo hasta el final!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ay, gracias! ¡Voy a dar lo mejor de mí!"
+    },
+    {
+      "name": "Tenderos",
+      "text": "¡Sí! ¡Tú puedes!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Acaba de debutar, pero ya parece que le están\norganizando un festival. Parece que los tenderos\nrealmente aman a Haru Urara."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como esperan grandes cosas de Haru Urara, ¡prometo\nentrenarla bien!"
+    }
+  ]
+}

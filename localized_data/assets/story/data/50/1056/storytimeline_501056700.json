@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Matikanefukukitaru",
+      "text": "<i>Bostezo...</i> Sí, sí, señor...",
+      "choice_data_list": [
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Oh... Entrenador... Eres tú. Tiempo perfecto..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Qué tal una adivinación recién salida del horno,\nlista para ir? Pasé todo mi día libre pensándola.\n¡No pegué ojo!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Primero, haces el signo de paz así, ¿vale? Y luego\ntú..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "<i>Bostezo...</i> Lo olvidé..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Matikanefukukitaru no ha descansado\nnada..."
+    }
+  ]
+}

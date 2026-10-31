@@ -1,0 +1,202 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Ya están en la recta final! ¿Quién es ese que\nviene por el carril exterior?!"
+    },
+    {
+      "name": "Fan A",
+      "text": "Oh, vaya... Espera, ¿es Tosen Jordan?!"
+    },
+    {
+      "name": "Fan B",
+      "text": "¡No puede ser! ¿Cómo lo hizo...?"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Tosen Jordan toma la delantera! ¡Tosen Jordan\navanza con fuerza!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Jordan! Vaya... simplemente, ¡vaya!"
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Sí, así es, vamos!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Tosen Jordan se mantiene! ¡Todavía va en la\ndelantera!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¡Puedes hacerlo! ¡Lo tienes! ¡Vamos, vamos, vamos!"
+    },
+    {
+      "name": "Gyarus",
+      "text": "¡Corre! ¡Consíguelo, Jordaaaaan!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "HYAAAAAH!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Y Tosen Jordan lo logra! El primer lugar es para\nTosen Jordan!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Fan C",
+      "text": "¿Qué demonios...? No puede ser..."
+    },
+    {
+      "name": "Espectadora D",
+      "text": "¿En serio? ¿Quién podría haber previsto esto..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Jaja... ¡Ajajaja!",
+      "choice_data_list": [
+        "¡Eso fue espectacular, Jordan!",
+        "¡Eso fue espectacular, Jordan!"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Eh... Entrenador?! ¿Qué?! ¡No hagas eso!",
+      "choice_data_list": [
+        "¡Fuiste espectacularmente increíble! ¡Fue como un\nsueño!"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Tonta."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Por qué actúas tan sorprendida? Esto fue cosa\ntuya, ¿sabes?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "<i>Tú</i> creaste esta velocidad... <i>Tú</i> entrenaste a la\nmejor Umamusume de todas."
+    },
+    {
+      "name": "Espectadora E",
+      "text": "¡Eso fue in-cre-í-ble! ¡Tosen Jordan! ¡Lo\nlograste!"
+    },
+    {
+      "name": "Espectador F",
+      "text": "¡Fuiste muy rápida! ¡Lo grabé todo en video! O\nsea, ¡vaya! ¡Mañana estarás en la primera plana de\ntodos los periódicos!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Jaja... ¡Ajaja!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Más! ¡Más! ¡No te escucho! ¡Vierte esos elogios\nsobre mí!"
+    },
+    {
+      "name": "Gyarus",
+      "text": "¡Eres tan genial, Jordan!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Jaja... Esto es lo mejor. Nunca he estado tan...\nexcitada!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Oye, Entrenador, ven aquí. Tienes que absorberlo\ntodo."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Se siente increíble, ¿verdad? Todos nos están\nanimando."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "<i>Suspiro...</i>"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Oh, ¿tienes tu teléfono contigo?",
+      "choice_data_list": [
+        "Sí, ¿por qué?"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Bien, déjame verlo."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Okay, quédate justo ahí. Sin moverse."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Voy a subir esto a UmaTok más tarde, así que más\nte vale responder mis preguntas, ¿vale?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...Ejem."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tosen Jordan apunta la cámara del teléfono en mi\ndirección."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Así que, Entrenador, hoy tu pupila ganó el otoño\nTenno Sho."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Cómo te sientes?",
+      "choice_data_list": [
+        "¡Increíble!"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...Jeje. Sí, no es broma."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Y? ¿Qué más?",
+      "choice_data_list": [
+        "¡Mi pupila es la mejor de todas!",
+        "¡Mi pupila es la mejor de todas!"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Ah, eso está mejor. Y también..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Tengo al mejor entrenador del mundo! ...¡Allá!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras está en el círculo de ganadoras, Tosen\nJordan brilla con una sonrisa como el mismo sol."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nadie duda cuál será la noticia principal de\nmañana."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así de extraordinaria fue la actuación de Tosen\nJordan."
+    }
+  ]
+}

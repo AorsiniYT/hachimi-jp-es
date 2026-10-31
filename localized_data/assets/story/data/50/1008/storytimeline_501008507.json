@@ -1,0 +1,79 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Subo a la azotea buscando a Vodka..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Jeje... Hacer el tonto con cartas de fans no es\ncool, pero caray si me encanta."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Eh, qué es esto? ¿Se supone que soy yo?",
+      "choice_data_list": [
+        "¿Recibiste cartas de fans, eh?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Aghhh! ...Oh, Entrenador. Solo eras tú."
+    },
+    {
+      "name": "Vodka",
+      "text": "Y sí, yo también recibo cartas de fans a veces,\nsabes..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Esta tiene un dibujo mío adentro."
+    },
+    {
+      "name": "Vodka",
+      "text": "Jaja, aunque no se parece nada a mí."
+    },
+    {
+      "name": "Vodka",
+      "text": "Yo me veo mucho más cool que esto cuando estoy\ncorriendo."
+    },
+    {
+      "name": "Vodka",
+      "text": "Pero..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Seguro algún niño hizo todo lo posible por dibujar\nesto para mí."
+    },
+    {
+      "name": "Vodka",
+      "text": "Cosas como esta siempre me dicen más que un montón\nde escritos."
+    },
+    {
+      "name": "Vodka",
+      "text": "...¡En fin! Hora de ponerse en marcha.",
+      "choice_data_list": [
+        "¿A dónde?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿En serio? ¡A entrenar, obvio!"
+    },
+    {
+      "name": "Vodka",
+      "text": "No quiero defraudar al niño, ¿sabes?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Voy a ganar la próxima carrera por una milla y\nmostrarle a todos lo cool que realmente soy."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Oye! Si te quedas mirando al vacío, ¡te voy a\ndejar aquí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que la carta del joven fan ha puesto a\nVodka muy motivada."
+    }
+  ]
+}

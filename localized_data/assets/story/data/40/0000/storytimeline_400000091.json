@@ -1,0 +1,269 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "<i>Toc, toc...</i>"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¿Disculpe? Entrenador <username>? ¿Está ahí?",
+      "choice_data_list": [
+        "¡Estoy aquí!"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Oh, qué bien. Esperaba darte esto en persona."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Salió hoy mismo."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "El <i>Número Especial de Twinkle Monthly.</i>",
+      "color_text_info_list": [
+        "Número Especial de Twinkle Monthly"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Recientemente, muchos lectores han estado pidiendo\nuna recopilación de eventos en el mundo de las\ncarreras durante los últimos tres años."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Así que seguramente también se dan cuenta de lo\nimpactantes que han sido estos últimos tres años."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Han pasado tantas cosas.",
+      "choice_data_list": [
+        "Tienes razón en eso."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Como reportera, me siento muy afortunada de haber\npodido cubrir estos tres años."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Y también de haber podido conocerte."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Oh, y otra cosa más..."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¿Has visto la portada?",
+      "choice_data_list": [
+        "¿La portada?"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Sí, echa un vistazo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por insistencia de Otonashi, miro la portada y\nveo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una gran foto de <chrname> adorna la portada."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Cuando intentaba decidir quién debería ser la cara\nde esta edición especial..."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Solo un posible candidato vino a mi mente."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Y esa también fue la opinión del departamento\neditorial.",
+      "choice_data_list": [
+        "No sé qué decir."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Nosotros en Twinkle Monthly continuaremos\ncubriendo las hazañas de <chrname>. Y por supuesto..."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "También te seguiremos con gran interés."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Después de todas las entrevistas que he hecho\nhasta ahora, estoy convencida de que ustedes dos\nson la luz que guiará hacia adelante al mundo de\nlas carreras.",
+      "choice_data_list": [
+        "¡Entonces haré que brille aún más!",
+        "¡Entonces haré que brille aún más!"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "...!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Eso... E-e-eso e-e-es...",
+      "choice_data_list": [
+        "¿Estás... bien?"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Simplemente asombroso!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Quieres hacer que tu pupila brille aún más!\n¡Incluso si eso significa que solo serás la sombra\ndetrás de ella!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Dedicando todo tu tiempo a ella, incluso todo tu\ndinero y llevándola a carreras por todos lados\npara perseguir sus sueños!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Aah... ¡Eres exactamente tan increíble como me\nimaginé que serías!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por alguna razón, la reportera Otonashi pierde el\ncontrol de su emoción, como siempre."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero esta revista transmite sus verdaderos\nsentimientos. Se lo mostraré a <chrname> más tarde!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Para esta edición especial, probamos algo un poco\ndiferente.",
+      "choice_data_list": [
+        "¿Y qué es eso?"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Hehe, por favor voltea hacia atrás."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por insistencia de Otonashi, volteo a la segunda\nmitad de la revista."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y ahí veo..."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "\"Queridos <chrname> y Entrenador <username>.\""
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Verás, el departamento editorial ha recibido un\nbuen número de cartas de fans de lectores\ndirigidas a ustedes dos."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Viendo ese entusiasmo, decidimos crear una sección\nespecial mostrando todas esas palabras de apoyo."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Esta es prácticamente la primera vez que dedicamos\nvarias páginas únicamente a cartas de nuestros\nlectores.",
+      "choice_data_list": [
+        "¡Wow, gracias!"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Hehe! Asegúrate de transmitir esa gratitud a\ntodos los fans que veas en carreras y conciertos."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Si puedo ayudar a conectar a ustedes dos con sus\nfans, significa que estoy haciendo mi trabajo como\nreportera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Este artículo transmite los verdaderos\nsentimientos de la reportera Otonashi. Se lo\nmostraré a <chrname> más tarde!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¿Podrías saltar unas páginas adelante?",
+      "choice_data_list": [
+        "¿Unas páginas?"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Sí, echa un vistazo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por insistencia de Otonashi, vuelvo unas páginas\natrás y veo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un reportaje especial titulado \"Persiguiendo la\ngloria con <chrname> y su Entrenador.\""
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Es imposible hablar de los últimos tres años de\nlas carreras de Umamusume sin mencionar a ustedes\ndos."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Su historia merecía mucho más que un pequeño\nartículo. Así que negocié un poco con la\ndirectora."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Sabía que todos nuestros lectores se emocionarían\nal ver un reportaje especial sobre ustedes dos.",
+      "choice_data_list": [
+        "No sé qué decir."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Hehe. Por supuesto, yo no soy la excepción. Estoy\nmás emocionada que nadie por ver sus futuras\nhazañas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Este artículo transmite los verdaderos\nsentimientos de la reportera Otonashi. Se lo\nmostraré a <chrname> más tarde!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¿Has mirado el lado derecho de esa página ya?",
+      "choice_data_list": [
+        "¿El lado derecho?"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Sí, echa un vistazo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hay un pequeño reportaje especial titulado \"Un\nEntrenador y una Pupila Prometedores.\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incluye escenas de mis sesiones de entrenamiento\ncon <chrname> junto con los comentarios entusiastas de\nOtonashi."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "\"¡No puedo esperar a ver hasta dónde pueden llegar\nestos dos!\" ...Y lo decía en serio.",
+      "choice_data_list": [
+        "No sé qué decir."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Hehe, pretendo continuar cubriendo el camino que\nustedes dos tomen de aquí en adelante."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Este artículo transmite los verdaderos\nsentimientos de la reportera Otonashi. Se lo\nmostraré a <chrname> más tarde!"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Oguri Cap",
+      "text": "Ayer, recibí unos vegetales encurtidos de mi\npueblo, y mientras los comía, me sentí\nextrañamente animado.",
+      "choice_data_list": [
+        "Probablemente porque fue un regalo tan sincero.",
+        "Probablemente porque fue un regalo tan sincero."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Eso debe ser. Fue un recordatorio de todo el apoyo\nque recibo de mi pueblo."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Tengo la sensación de que voy a correr bien en mi\npróxima carrera. Ganaré esta —lo prometo."
+    },
+    {
+      "text": "Ver a Oguri Cap tan motivada me da grandes\nesperanzas para la próxima carrera."
+    }
+  ]
+}

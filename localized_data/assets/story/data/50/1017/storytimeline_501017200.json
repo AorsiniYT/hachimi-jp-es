@@ -1,0 +1,63 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Por fin, el debut de carreras de Symboli Rudolf\nestá aquí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de la hora temprana, el lugar está\nelectrizante. La atmósfera se siente más como una\ncarrera graduada que un simple debut.",
+      "color_text_info_list": [
+        "carrera graduada"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Woooo!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¡Jah! La carrera ni siquiera ha comenzado, y ya\npuedo sentir la emoción de la multitud desde aquí.",
+      "choice_data_list": [
+        "Eres a quien están esperando.",
+        "Eres a quien están esperando."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "De hecho. Todos los ojos están en mí, quizás más\nahora de lo que nunca estarán."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Solo hoy están libres para preguntarse cómo mido\nhasta el título de Emperador. Una vez que salga a\nla pista, me convertiré en una cantidad conocida."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Eso significa que mi desempeño hoy es crucial.\nCualquier cosa menos lo mejor los decepcionará.",
+      "choice_data_list": [
+        "Eso suena como mucha presión."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Seguramente sabes mejor que eso. ¿Quién crees que\nsoy?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Si algo, veo esto como una oportunidad."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Si la multitud está tan emocionada antes de\nsiquiera verme correr, imagina la fama que\ndisfrutaremos si me desempeño bien."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Así que no te preocupes. O más bien, debería\ndecir... no te defraudaré."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Hoy damos el primer paso en nuestro camino de\nconquista."
+    }
+  ]
+}

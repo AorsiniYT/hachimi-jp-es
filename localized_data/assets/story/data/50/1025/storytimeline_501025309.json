@@ -1,0 +1,224 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Es Manhattan Cafe! Se ha acercado sigilosamente\nal frente, y ha terminado en primer lugar!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡WHOOOAAAA!"
+    },
+    {
+      "name": "Locutor",
+      "text": "Corrió tan naturalmente que era prácticamente...\n<i>súper</i> natural. ¡La multitud está desconcertada\ncon este giro de acontecimientos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Fue una finalización firme como nunca antes había\nvisto de ella."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La rutina diaria que nos llevó a través de la\nprimavera y el verano finalmente ha dado frutos."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "¡Entrenador!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Mi amiga... ¡Mi amiga!",
+      "choice_data_list": [
+        "Felicitaciones. ¿Viste su rostro?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "No me acerqué tanto. Pero..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Estuve <i>casi</i> allí. Y incluso después de correr la\ncarrera de hoy, me siento completamente bien..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "¿Es <i>esto...</i> yo? Esto..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Susurra, como si no pudiera creerlo. Escucharla es\ntoda la prueba que necesito."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los fenómenos paranormales que atormentaron su\ncuerpo durante tanto tiempo finalmente se han ido."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Je, je, ¡ja, ja, ja! Sí, esto es bueno. ¡Esto es!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Todo está en línea con mis predicciones! Es como\nobtener la cantidad perfecta cada vez que abro una\nválvula de bureta!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿No crees, Cafe?!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Esto no significa que confiara en ti."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Pero como dices... Me alegro de no haberme\nesforzado demasiado en la <i>primavera. Puedes </i>ser\negoísta, pero..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "En algún lugar de allí, tú también pensaste en\nmí... Eso es lo que sentí hoy."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Mmm, ¿es seguro tomar eso como una expresión de\ngratitud?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Bueno, de todos modos. ¿Qué tal si continuamos\nasí?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Jajaja, ¡aquí es donde <i>aceleramos!</i>Más y más\nrápido!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Disfrutando de nuestra victoria, regresamos a mi\noficina y nos ponemos a trabajar en nuestro\npróximo plan."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Honestamente... No creo que haya nada malo con mi\ncuerpo. Ahora que he logrado correr todos los\n3,000 metros..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Creo que puedo lograrlo... a través de las\ncarreras de otoño, y las de invierno..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Vaya, vaya. Seguro que te has endurecido, ¿verdad,\nCafe?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Qué harás, Entrenador? El Kikuka Sho y los\nClásicos ya terminaron, pero..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Qué te parece esto? ¿Por qué no enfrentar a los\nmejores corredores de último año? La Japan Cup\nsería tu primera oportunidad...",
+      "choice_data_list": [
+        "Preferiría esperar un poco más para el Arima\nKinen.",
+        "Preferiría esperar un poco más para el Arima\nKinen."
+      ],
+      "color_text_info_list": [
+        "último año",
+        "Japan Cup"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hm, ¿y qué hay detrás de esa decisión?",
+      "choice_data_list": [
+        "Quiero que descanse al menos un poco."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Entrenador..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No es solo que quiera que descanse. Después de ver\nla carrera de hoy, estoy empezando a pensar que\nuna carrera un poco más larga sería lo mejor."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La Japan Cup es de 2,400 metros, mientras que el\nArima Kinen es de 2,500. Es solo una diferencia de\ncien metros, pero podría marcar toda la\ndiferencia.",
+      "color_text_info_list": [
+        "Arima Kinen"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Oh, una idea muy buena! Esos son los ojos de un\nespecialista en estrategia. Parece que mi\nintelecto se te está pegando."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Está bien... El Arima Kinen... No estoy segura de\nquién será mi competencia, sin embargo."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Allí es donde alcanzaré a mi amiga. Y deberíamos\npoder terminar este año realizando nuestro\nsueño..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Tu amiga, dices... Perseguir tus sueños es bueno y\ntodo, pero el Arima Kinen no es un paseo en el\nparque."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Competirás contra corredores en la cima de su\njuego. Es casi como... son formas de vida\ntotalmente diferentes..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Y este es el Arima Kinen del que hablamos...\nEspero que esos dos vayan a hacer acto de\npresencia.",
+      "choice_data_list": [
+        "¿Quién?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Los dos seniors actualmente mejor rankeados. Están\narrebatando el primer y segundo puesto en cada\ncarrera."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "..."
+    },
+    {
+      "name": "???",
+      "text": "¡Ah! ¡Aah!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Aaaah! Ja, ja, jaaa!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Eeeeek! Opera O, ¿q-qué fue eso justo ahora?\n¿Ibas a estornudar?",
+      "color_text_info_list": [
+        "Opera O"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Vaya, mis oídos arden. Alguien debe estar hablando\nmal de nosotros."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Pensé que era un fan cantando mis alabanzas, pero\nal parecer no. Estoy sintiendo algo ominoso por\naquí."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Eep? Cuando dices \"ominoso\"..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡La Twinkle Series! Uno que se esconde debajo del\nescenario teatral deslumbrante en el que bailamos."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Un <i>fantasma</i> incognoscible ha aparecido...Uno que\nbusca trastornar nuestra actuación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ahora que Manhattan Cafe está en una trayectoria\nhacia el Arima Kinen, nuevas rivales la esperan."
+    }
+  ]
+}

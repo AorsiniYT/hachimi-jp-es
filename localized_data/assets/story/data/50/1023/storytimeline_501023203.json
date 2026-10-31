@@ -1,0 +1,112 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Hoy es el Derby Japonés, y decenas de miles de\naficionados han llenado el Tokyo Racecourse para\neste evento."
+    },
+    {
+      "text": "Todos están aquí para ver a los tres mejores del\nSatsuki Sho del mes pasado—las llamadas \"BNW\".",
+      "color_text_info_list": [
+        "BNW"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"De dos grandes prospectos a tres, Biwa Hayahide,\nNarita Taishin y Winning Ticket han entrado en los\ncorazones de muchos como favoritas de los\naficionados.\""
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Guau, incluso nos dieron un acrónimo. \"BNW,\" ¿eh?",
+      "choice_data_list": [
+        "Ahora tienes muchos ojos puestos en ti.",
+        "Ahora tienes muchos ojos puestos en ti."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Mmm, ciertamente hubo más reporteros de lo\nhabitual en la sesión de entrenamiento público de\nla semana pasada, pero..."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Oye, ¿escuchaste sobre Tickezo?",
+      "color_text_info_list": [
+        "Tickezo"
+      ]
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¡Sí! Ha estado rechazando entrevistas y negándose\na hablar con aficionados, ¿verdad?"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Es raro. No está actuando como la Tickezo que\ntodos conocemos y amamos."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...",
+      "choice_data_list": [
+        "¿Hayahide?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Qué es?",
+      "choice_data_list": [
+        "Si estás preocupada por algo, háblame.",
+        "Si estás preocupada por algo, háblame."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No es nada serio. Solo me siento nerviosa, como\ncuando espero que me devuelvan mi examen."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Es como cuando no sabes la respuesta correcta a\nuna pregunta y no puedes dejar de pensar en ello."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Pero <i>sé</i> que mi ecuación ganadora debe llevar a una\nsolución. Y tengo la intención de encontrar la\nmejor respuesta que pueda en esta carrera."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(La extraña sensación que tuve en el Satsuki\nSho...)"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(La extraña sensación que he tenido <i>desde</i> el\nSatsuki Sho...)"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(¿Significa algo? O quizás...)"
+    },
+    {
+      "name": "Espectadora",
+      "text": "¡Tú puedes, Ticket! ¡Sé que puedes convertirte en\nla Campeona del Derby!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Eso es! ¡Solo mira cómo gano esto!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(...Mejor me concentro en la carrera ahora.)"
+    }
+  ]
+}

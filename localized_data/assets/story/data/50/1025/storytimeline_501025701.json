@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Manhattan Cafe",
+      "text": "Oh, Entrenador...",
+      "choice_data_list": [
+        "Te ves bien.",
+        "Te ves bien."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Sí... tuve un sueño emocionante anoche."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Había una escalera de caracol que se extendía\nhacia el cielo azul... y un mar dorado ondulante\nse extendía abajo..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Y corrí con mi amigo, tan lejos como nuestras\npiernas nos llevaran..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Espero poder ver esas vistas de nuevo... Jeje."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Parece que el sueño emocionante de Manhattan Cafe\nla ha hecho sentir completamente renovada!"
+    }
+  ]
+}

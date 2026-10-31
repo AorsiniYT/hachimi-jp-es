@@ -1,0 +1,235 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "¡Es un nuevo año, y los desafíos de Narita Taishin\ncomo corredora de año clásico finalmente han\ncomenzado!",
+      "choice_data_list": [
+        "(Siempre es tan difícil atrapar a Taishin...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero este año será importante, y quiero aprovechar\nla oportunidad para celebrar la ocasión con ella."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mantengo esa determinación ardiendo en mi corazón\ny, una vez que termino de decorar la oficina,\nsalgo para encontrar a Narita Taishin."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Eh? ¿Taishin?",
+      "color_text_info_list": [
+        "Taishin"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Oh! ¡La vi vagando por algún lugar antes del\nalmuerzo!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Pero no parece que haya vuelto aún!",
+      "choice_data_list": [
+        "¿En serio? Maldición..."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "<i>¡Haa!</i> ¡Noooo! ¡No estés triste! ¡Oh, por Dios!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Eh, eh!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ah, ¡lo sé! ¡Podría estar tomando una siesta por\nallá!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Bostezooo...</i> Dormí como un tronco—"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué demonios?! ¿Cuánto tiempo llevas aquí?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Y cómo supiste que estaba aquí para empezar?!",
+      "choice_data_list": [
+        "Ticket me dijo..."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ugh, esa tonta... Siempre interrumpe mis siestas,\ny ahora está chivata de mis escondites?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Eso es. La próxima vez, voy a darle un poco de\nsentido.",
+      "choice_data_list": [
+        "(¡Perdóname, Ticket!)"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Y? ¿Qué quieres?",
+      "choice_data_list": [
+        "Estaba pensando que podríamos hacer una resolución\nde Año Nuevo juntos."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Asco. Ni hablar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me estoy muriendo de hambre, y ni siquiera me va a\ndar un hueso! Pero si dejo que esto me afecte, no\nduraré como su entrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al menos, sería bueno pasar el Año Nuevo con ella,\nasí que intento sugerir algo que le interese.",
+      "choice_data_list": [
+        "¡Sentémonos bajo una mesa kotatsu y juguemos a\nalgunos juegos de carreras!",
+        "¡Tomemos otra siesta!",
+        "Tengamos nuestra reunión usual."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Habla de algo inesperado..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Eh, supongo que aún es mejor que hacer una\nresolución o lo que sea.",
+      "choice_data_list": [
+        "(¡Sí!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como a Narita Taishin le gusta jugar videojuegos,\nlogro atraparla—completamente. Rápidamente monto\nel kotatsu en mi oficina."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nuestra sesión de juegos comienza, cuando...",
+      "choice_data_list": [
+        "(¡No puedo creer que perdí diez de diez juegos...\n¡Me está aplastando!)"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Suspiro.</i>"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No uses tus items al azar. Tienes que pensar cuál\nes el mejor momento."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Tu toma de curvas no es mala, así que ¿por qué no\ncambias a un auto con estadísticas de velocidad\nmás altas?",
+      "choice_data_list": [
+        "¡Taishin! ¡Gracias!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ugh. ¿Por qué te pones tan emocional conmigo?\n¡Solo te doy consejos porque me estoy aburriendo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No sin algunos baches y obstáculos, pero\nterminamos pasando un Año Nuevo bastante divertido\njuntos."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Absolutamente no. Vine aquí porque quería dormir\nuna siesta <i>sola.</i>",
+      "choice_data_list": [
+        "¿Tomas siestas por la tarde aquí a menudo?",
+        "¿Tomas siestas por la tarde aquí a menudo?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Por qué diablos estás preguntando? ¿Qué, estás\nintentando controlar lo que hago en mi propio\ntiempo?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Pero para tu información, sí, lo hago. Me gusta\nhacer siestas. Dormir me permite escapar de todas\nlas cosas molestas del mundo."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Y me ayuda a crecer alto—"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "O sea... nada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una repentina ráfaga de aire frío pasa junto a\nnosotros."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Achú!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Uf.",
+      "choice_data_list": [
+        "Hace frío, así que ¿por qué no continuas tu siesta\nen mi oficina en su lugar?",
+        "Hace frío, así que ¿por qué no continuas tu siesta\nen mi oficina en su lugar?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Bien. Pero solo esta vez."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, cuido de Narita Taishin mientras se cubre\nla cabeza con una manta y se acurruca como un\ngatito en el sofá de mi oficina."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Quieres hablar sobre el entrenamiento? Sí,\nsupongo que está bien."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Bueno, entonces apresurémonos a tu oficina."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Oh, vaya. ¿Qué pasa con todas las decoraciones?",
+      "choice_data_list": [
+        "(¡Las olvidé por completo!)"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Hiciste todo esto para celebrar el Año Nuevo o\nalgo?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Uf...</i>"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Bien. Saca los snacks festivos.",
+      "choice_data_list": [
+        "Espera, ¿en serio?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Muévete antes de que cambie de opinión."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Esperas que alguien sostenga una reunión aquí con\nla habitación así?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin finalmente cede al ambiente\nfestivo, y pasamos un Año Nuevo divertido juntos."
+    }
+  ]
+}

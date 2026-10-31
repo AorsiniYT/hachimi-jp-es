@@ -1,0 +1,49 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hemos estado reuniendo miembros y el equipo está\nempezando a tomar forma. Un día..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me doy cuenta de que Rice Shower me está mirando\ncomo si quisiera decir algo.",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Oh, yo, um..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Bueno... Esta mañana se me ocurrió algo..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Y..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "En realidad, olvídalo"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rice Shower sale corriendo de mi oficina antes de\nque pueda detenerla."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Yo, um, se me ocurrió un nombre para nuestro\nequipo. Pensé que podría ser poético compararnos\ncon una flor en floración, así que, um..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Estaba pensando que podríamos llamarnos \"Flor\nazul\". ¿Qué te parece?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ese podría ser un buen nombre para el equipo.\nTendré que tomar nota de él."
+    }
+  ]
+}

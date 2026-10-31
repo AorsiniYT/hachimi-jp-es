@@ -1,0 +1,73 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Nuestro segundo campamento de verano ha llegado a\nsu fin."
+    },
+    {
+      "name": "Gold City",
+      "text": "...Lo único que queda es correr en la Japan Cup.",
+      "choice_data_list": [
+        "No puedo esperar.",
+        "No puedo esperar."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Sí.",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Qué?",
+      "choice_data_list": [
+        "Solo pensaba que realmente te has suavizado\núltimamente."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Qué, te gustaba el trato frío? Puedo empezar a\nmandarte si quieres.",
+      "choice_data_list": [
+        "No es eso lo que quiero decir..."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Parasol, por favor."
+    },
+    {
+      "name": "Gold City",
+      "text": "Y mis gafas de sol y agua sparkling. También trae\nguantes largos para protección UV."
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Qué estás haciendo haciéndome parar bajo el sol\nabrasador así?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Hago anuncios de protector solar. ¿Puedes imaginar\nlas pérdidas que sufriría si me quemo?",
+      "choice_data_list": [
+        "¡Los traeré de inmediato, señorita!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Jaja, solo bromeaba. No soy tan mandona, ni\nsiquiera en el trabajo."
+    },
+    {
+      "name": "Gold City",
+      "text": "...Aunque se sintió bastante bien escucharte decir\n\"señorita\". Jajaja."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, nuestro segundo campamento de verano\ntermina con Gold City riendo."
+    }
+  ]
+}

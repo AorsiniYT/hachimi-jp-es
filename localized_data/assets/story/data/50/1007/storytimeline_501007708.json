@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gold Ship",
+      "text": "¡RWAAAAAAAH! ¡PAZ, PAAAAAZ!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Mira, Entrenador! ¡Esa fue la carrera completa de\nGolshi! ¡Grábatelo en la mente!",
+      "choice_data_list": [
+        "¡Eso fue increíble!",
+        "Estuvo genial... ¡pero puedes apuntar aún más\nalto!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Verdad?! ¡Mi deslumbrante actuación y el\nconsiguiente aplauso atronador seguramente han\ncambiado el clima del mundo!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿No supondrás que las auroras boreales podrían\nhaberse desplazado a Japón como resultado, verdad?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Deberíamos celebrar nuestras nuevas luces\njaponesas con un plato de pescado elegante!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gold Ship agarra una caña de pescar y se dispone a\npescar. Me toma todo lo que tengo para detenerla."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Apunta aún más alto? ¿Te refieres... a los\ncielos?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Es una gran idea! ¡Acababa de aburrirme de estar\natada a la tierra!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Durante siglos, las Umamusume han soñado con\ncorrer por los cielos, pero nosotras seremos las\nque lo haremos realidad!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Pero primero, tenemos que explorar el terreno!\n¡Tomemos unos binoculares y veamos los aviones en\nsu hábitat natural!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Gold Ship me arrastra a observar aves... O\nmás bien, a observar aviones."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día en la pista de entrenamiento..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Qué debería hacer para entrenar hoy? Hm,\nconsiderando que el cielo está nublado..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Qué buen momento. ¡Tú allí! Me gustaría tu opinión\nsobre algo!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿En qué te enfocarás hoy? ¿Investigando un nuevo\nestilo de carrera, o toma de decisiones rápida?",
+      "choice_data_list": [
+        "Un estilo de carrera.",
+        "Toma de decisiones."
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Sí, una excelente elección! Las técnicas de\ncarrera de las Umamusume siempre están mejorando."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ya veo. El éxito o fracaso de una carrera depende\nde decisiones en fracciones de segundo, lo que\nhace que la velocidad del pensamiento sea\nrealmente importante."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Tomaré eso en consideración. Me pregunto qué\nresultados surgirán de este encuentro casual.",
+      "choice_data_list": [
+        "¿Por qué me preguntaste a mí?",
+        "¿Por qué me preguntaste a mí?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Jajaja! ¡Una pregunta magnífica!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "La casualidad y la serendipia son factores que no\npueden ignorarse en la investigación."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Es por eso que aproveché dos ocurrencias\ncasuales—tú y el cielo nublado."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Tú también deberías abrazar la casualidad para\nevitar caer en la rutina! ¡Hacerlo es el camino a\nla verdad!"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "He estado esperando a Rice Shower por algún tiempo\nahora. A medida que el sol comienza a ponerse..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "L-lo siento! Estaba buscando algo en el parque.",
+      "choice_data_list": [
+        "¿Perdiste algo?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Um... No perdí nada, pero otra chica en el parque\nsí."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ella perdió su sombrero y me pidió que la ayudara\na buscarlo."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Le dije que era mala suerte para mí ayudar,\npero..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ella seguía llorando, y no había nadie más\nalrededor.",
+      "choice_data_list": [
+        "¿Lo encontraste?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Sí... Lo encontramos bastante rápido, pero luego\nse lo llevó el viento, y tomó algún tiempo\nrecuperarlo."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pero... ella estaba tan feliz una vez que le\ndevolví el sombrero... Me hizo muy feliz también."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Aún así, sé que no es excusa para faltar al\nentrenamiento... Lo siento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le digo que hizo lo correcto, pero también que me\ncontacte la próxima vez que algo así ocurra."
+    }
+  ]
+}

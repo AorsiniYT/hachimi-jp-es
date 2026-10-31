@@ -1,0 +1,185 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Durante el descanso del almuerzo, me encuentro con\nEl Condor Pasa y Grass Wonder jugando un juego en\nla plaza central."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Oh, Entrenador! ¡Perfecto! ¡Ven a juzgar nuestro\npartido de lanzamiento de moneda!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Las reglas son sencillas. Yo lanzo la moneda, y\nGrass elige cara o cruz."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Perdón por surgir esto tan de repente. El estaba\ntan contenta de aprender a lanzar una moneda."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Serías tan amable de hacerle el juego por un\nrato?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, termino siendo algo forzadamente el árbitro\nde su juego."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Je je je! ¡Empecemos!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Muy bien, Grass! ¿Cara o cruz?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hmm, ¿qué elegir? Yo voy con... ¿cruz?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Pobrecita! ¡Es cara! ¡Gané!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Je je je! ¿Quieres ir tú ahora, Entrenador?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Puedo intentarlo yo primero otra vez?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como su entrenador, sé cuánto odia perder Grass\nWonder. ¿Este juego está a punto de convertirse en\nun campo de batalla?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Cuál es?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Quizás... cara esta vez?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡No! ¡Cruz!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Cruz?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Incorrecto!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Esa es mi décima victoria seguida!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No sé qué tiene la señora suerte contra ella, pero\nGrass Wonder no parece poder ganar en absoluto."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y una vez más, como su entrenador, puedo sentir\nque detrás de su calma hay un infierno que solo se\nvuelve más fuerte."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "El período de almuerzo está por terminar, así que\nhagamos una ronda final."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Una por todas las canicas! Listos, ¡vamos!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ah! ¿Qu-qué?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Condor Pasa tropieza antes de atrapar la\nmoneda, pero me permite ver que cayó en cruz."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Uf! ¡Casi la suelto! Ahora... ¿cuál es?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "La moneda es ca...",
+      "choice_data_list": [
+        "Darle una señal sigilosa.",
+        "Animarla."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Cara. La moneda cayó en cara."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La oportunidad de Grass Wonder para ganarlo todo\ntermina en fracaso."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Gracias por tu apoyo, Entrenador. Realmente\naprecié el gesto."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Pero... no tiene sentido ganar si no lo hago por\nmi cuenta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, la veo en la biblioteca leyendo\nun libro titulado <i>Probabilidad.</i>"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Je. Gracias, Entrenador."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Bueno... ¿por qué no cambiamos las cosas un poco?\n¿Cuál crees <i>tú</i> que es, El?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Seguro ya puedes sentir la diferencia entre cara y\ncruz."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Oh? ¿Una batalla de ingenio ahora? ¡Acepto!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Hmm, creo... ¡cruz!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Entonces... confiaré en tu palabra, El. La moneda\nes cruz, ¿no?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La batalla por todas las canicas termina con el\najuste táctico de Grass Wonder resultando en\nvictoria."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Je. Sabes, Entrenador, creo que en realidad puedo\nagradecerte a ti por esa victoria."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aparentemente, el concurso de Grass y El desata\nuna verdadera fiebre de lanzamiento de monedas en\nsu clase, y unos días después, veo a todos jugando\nafuera."
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una mañana, mientras paseo por la orilla del río,\nnoto a una corredora en el rincón de mi ojo."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "<i>Haa, respiro...</i> Ah, buenos días",
+      "choice_data_list": [
+        "Buenos días. Alguien está muy energizado hoy.",
+        "Buenos días. Alguien está muy energizado hoy."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Je, je, ¡por supuesto! ¿Cómo no iba a estarlo\ncuando hace un día tan agradable fuera?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Me siento como si pudiera correr vueltas para\nsiempre con este clima. De todos modos, te dejo\nque sigas con tu paseo. ¡Hasta luego!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nuestro breve intercambio ahora terminado, Mejiro\nRyan se va. Su trote parece ser más por diversión\nque por deporte, pero su forma es aún consistente.\nEs honestamente impresionante."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero ese pensamiento es rápidamente reemplazado\npor otro, más inmediato... ¿No debería ella ir a\nla escuela?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "<i>Haa, respiro...</i> ¡Ah!",
+      "choice_data_list": [
+        "(Quizás se dio cuenta de la hora.)"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Claro, claro! Quería probar esa nueva rutina de\ncorrer. ¡Mejor hago... no, cinco vueltas más!",
+      "choice_data_list": [
+        "¡Espera!"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Wow! Ah, eres tú de nuevo... ¿Qué pasa?",
+      "choice_data_list": [
+        "Vas a llegar tarde...",
+        "Vas a llegar tarde..."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Eh? ¿Tarde? ¿Para qué—aaah. ¡La escuela! Tengo\nque ir, y rápido."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ay, caramba, gracias por la advertencia. Estaba\ntan agradable esta mañana que me distraje\ncompletamente."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "De todos modos, tengo que ir corriendo. ¡Gracias\nde nuevo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Ryan se apresura hacia la escuela, una vez\nmás mostrando su forma de correr impecable."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ese mismo día, después de las clases..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Eh? ¡Eres la persona de esta mañana!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Espera, esa insignia... Ah, así es como supiste\nque llegaba tarde. ¡Eres un entrenador aquí, eh!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Gracias de nuevo por salvarme. Y no te preocupes,\nllegué a la escuela a tiempo.",
+      "choice_data_list": [
+        "Me alegra saberlo."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Me gustaría recompensarte de alguna manera, pero\n¿cómo... Ah, ya sé."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Eh, ¿puedes venir conmigo un segundo?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Bien! Finalmente estamos aquí. Como\nagradecimiento por ayudarme esta mañana..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Vamos a hacer ejercicio juntos!",
+      "choice_data_list": [
+        "<i>Esto</i> es cómo me estás agradeciendo."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Claro que sí! En cuanto a agradecimientos, esto\nes probablemente lo mejor que tengo."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Siempre me ha gustado mover mi cuerpo, verás. De\nhecho, el ejercicio puede ser la única cosa en la\nque soy buena."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Pero hey, eso solo me hace el mejor tipo de\nentrenador: el que te muestra lo divertido que\npueden ser los entrenamientos. ¡Incluso puedo\ncrear la rutina perfecta para ti!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ay... De repente ser invitado a hacer ejercicio\ndebe ser un poco extraño, ¿verdad? Lo siento,\npuedo pensar en algo más si lo deseas..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mi vacilación claramente hace que Mejiro Ryan se\nsienta deprimida. Decido dar un paso adelante.",
+      "choice_data_list": [
+        "Bueno, esta es ciertamente una oportunidad rara..."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡En serio?! ¡Genial! En ese caso, ¡vamos a\ncambiarnos y a bombear hierro!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Uf! ¿Cómo te va, Entrenador? ¿Ya sientes el\nardor?",
+      "choice_data_list": [
+        "Oh, sí... Lo siento, de verdad..."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Hey, no te preocupes si tienes problemas para\nseguir el ritmo. ¡Solo hemos estado despertando\ntus músculos!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Muy bien, ¡es hora del entrenamiento <i>real</i>! ¿Bien\nhidratado? ¡Genial! ¡Vamos a ponernos FUERTES!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Eso es todo! Una repetición más. Una más. ¿Eh?\n¿No puedes seguir? ¡Bien, solo una más para\nterminar el conjunto y... ¡Sí! Lo lograste."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Buen trabajo! ¿Lo sientes, Entrenador? Apuesto a\nque tu corazón, tus pectorales... ¡todo tu cuerpo\nestá gritando en gratitud!",
+      "choice_data_list": [
+        "S-sí... Tienes razón. Puedo oírlos."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Perfecto! Entonces gritemos de vuelta y mostremos\na tu cuerpo de lo que está hecho. ¡A la segunda\nronda!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Bien, Entrenador...! Esta es la recta final.\n¡Vamos! ¡Cuenta las repeticiones conmigo!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Uno.",
+      "choice_data_list": [
+        "Dos."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Tres. ¡Hurra! Lo lograste."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El agotamiento me consume... pero viene acompañado\nde un fuerte sentimiento de logro y orgullo.\nDespués de todo, ese fue un entrenamiento intenso.",
+      "choice_data_list": [
+        "¿Haces esto todos los días!",
+        "¿Haces esto todos los días!"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Bueno, el entrenamiento de hoy fue diseñado\npensando en ti. Diría que normalmente hago... unos\ncuatro veces más en total."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Pero cualquier ejercicio es buen ejercicio en lo\nque respecta a tus músculos! ¡Sigue adelante y\nverás resultados en poco tiempo!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Nada supera ver cómo tu tiempo disminuye, incluso\npor un solo segundo. Y cuando tu arduo trabajo se\nrefleja en la pista... ¡Eso es algo completamente\ndiferente!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ese momento en que eres el más rápido en la\npista... cuando cruzas la línea de meta antes que\nnadie..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Sentir cómo tus músculos arden y ese calor se\nextiende por todo tu cuerpo... No hay experiencia\nmejor que esa.",
+      "choice_data_list": [
+        "¿Es por eso que corres? ¿Para sentir eso?",
+        "¿Es por eso que corres? ¿Para sentir eso?"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Claro que sí!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Espero que no sea... demasiado decepcionante.",
+      "choice_data_list": [
+        "(...?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La reacción de Ryan a mi pregunta es un poco\ndesconcertante, pero antes de que pueda continuar,\notra Umamusume se acerca a ella."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Ryan! ¿Dónde estás... ah, ahí estás! Me figuré\nque estarías en el gimnasio!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Oh, Ines! ¿Qué pasa?"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Los entrenamientos están a punto de empezar,\nrecuerda! Pensé que estarías entrenando para eso,\nasí que ¡corramos juntas!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Guau, de verdad! ¡Eso sería increíble! ¿Quieres\nempezar ya mismo?"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Sabía que dirías sí! ♪ Voy a cambiarme!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Supongo que debería irme también. Buen trabajo\nhoy, ¡de verdad!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Hasta luego!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A juzgar por esa conversación, Mejiro Ryan está\ncorriendo en los entrenamientos... Lo que\nsignifica que podré ver cómo corre a su mejor\nnivel."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con algo que esperar, empaco y salgo del gimnasio\ncon un brinco en mi paso. O... lo haría si no\nestuviera tan dolorido."
+    }
+  ]
+}

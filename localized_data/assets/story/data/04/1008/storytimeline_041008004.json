@@ -1,0 +1,275 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es el día después del Tracen Meet. Por primera\nvez, Vodka no se presenta al entrenamiento."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Oh, hola, tú eres el entrenador de Vodka, ¿verdad?\nNo me digas... ¿ella no se ha presentado?",
+      "choice_data_list": [
+        "¿Sabes dónde podría estar?",
+        "¿Sabes dónde podría estar?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Mmm, probablemente esté en la orilla del río.\nDesde que leyó ese manga, siempre dice: 'si voy a\nestar melancólica, tiene que ser junto a un río'."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Siempre habla de lo genial que es... Je, qué\ntonta."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Puedo tener mis quejas sobre ella, pero no estoy\nen mi mejor versión cuando ella no está... Así que\npor favor, tráela de vuelta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de agradecer a Daiwa Scarlet, me apresuro\na la orilla del río."
+    },
+    {
+      "name": "Vodka",
+      "text": "Oh... ¿Qué hay, Entrenador.",
+      "choice_data_list": [
+        "Es hora de entrenar, ¿sabes?",
+        "Es hora de entrenar, ¿sabes?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Ugh, ya lo sé. Hoy me salto el entrenamiento—¡sin\nperos!",
+      "choice_data_list": [
+        "¿No dijiste que saltarse la práctica era patético?",
+        "¿No dijiste que saltarse la práctica era patético?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Ughhh, ¡cállate ya! Lárgate—¡déjame en paz!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Deja en paz a alguien tan... patético como yo!",
+      "choice_data_list": [
+        "¿Por qué crees que eres patética?",
+        "¿Por qué crees que eres patética?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Pensé que lo tenía. Lo di todo—¡iba a ser la\nestrella en ascenso que derribó a Narita Brian!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Pero... cuando empezamos a correr de verdad, sentí\nla enorme diferencia entre nosotras. ¡Sentí que me\niba a desmayar a la mitad!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Me dije a mí misma: 'No puedo hacerlo.'"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Pero esas corredoras con las que crecí... las del\nDerby—ni una sola de ellas se rindió nunca!",
+      "choice_data_list": [
+        "Vodka..."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Entrenador... ¿acaso no sirvo para nada?"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Si así soy antes de debutar, entonces cómo voy a\nser genial alguna vez?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es obvio que Vodka está perdiendo su confianza.\n¿Cómo puedo animarla?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Puedo tener mis quejas sobre ella, pero no estoy\nen mi mejor versión cuando ella no está... Así que\npor favor, tráela de vuelta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vaya, ¿por qué Daiwa Scarlet me dijo eso? Quizás\nquería decirle algo a Vodka...",
+      "choice_data_list": [
+        "Volvamos a la pista por ahora, Vodka."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Eh? No, como ya dije—"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Ey! ¡Deja de empujarme! ¿Qué estás haciendo?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Haa...</i> Ah, es Vodka."
+    },
+    {
+      "name": "Vodka",
+      "text": "...Scarlet."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Por qué estás aquí? Me dijiste que querías\ntomarte un descanso después del Meet."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Humph. Cambié mi horario. ¿Tienes algún problema\ncon eso?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Todo porque una tonta decidió enfrentarse a las\ngrandes ligas... Y a pesar del ritmo vertiginoso\nde su oponente, ella se mantuvo bien."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Y hasta aceleró en las rectas... Me hizo pensar:\n'No puedo permitirme quedarme atrás.'"
+    },
+    {
+      "name": "Vodka",
+      "text": "Scarlet, tú..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "De todos modos, ahora necesito volver al\nentrenamiento."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿De qué está hablando? Mirándome así... Mientras\ntanto, yo... ¡estoy aquí siendo súper patética!",
+      "choice_data_list": [
+        "No cambia el hecho de que lo intentaste. Eso ya es\ngenial.",
+        "No cambia el hecho de que lo intentaste. Eso ya es\ngenial."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Sí... ¡pero me rendí a la mitad!",
+      "choice_data_list": [
+        "No podemos cambiar el pasado. Lo que sí podemos\nhacer es concentrarnos en el futuro.",
+        "No podemos cambiar el pasado. Lo que sí podemos\nhacer es concentrarnos en el futuro."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿El futuro?",
+      "choice_data_list": [
+        "Depende de ti si quieres seguir siendo patético\nasí o superarlo.",
+        "Depende de ti si quieres seguir siendo patético\nasí o superarlo."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Depende... de mí... Yo... Yo..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Entrenador! ¡Tengo un favor que pedirte!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Por favor... ¡ayúdame a redimirme!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Desde entonces, Vodka ha tenido un resurgimiento\nde enfoque y motivación."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Allí estás, Scarlet! ¡Vamos, corramos!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Eh? No puedo, ya tengo planes—"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡No te preocupes por cosas sin importancia!\n¡Vamos, es solo una vuelta! ¿Lista? ¡Aquí vamos!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Espera! ¡Vuelve aquí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Varios días después..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Esperando con ansias, Brian!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Humph. Acepto. Te haré arrepentirte."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Vodka ha decidido desafiar a Narita Brian a una\nrevancha uno contra uno!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Humph!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Uuugh!"
+    },
+    {
+      "name": "Vodka",
+      "text": "(¡Santa mierdaaa! ¡Es rápida! ¿Cómo diablos se\nsupone que la alcance?)"
+    },
+    {
+      "name": "Vodka",
+      "text": "(Pero yo...)"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Aaaargh!"
+    },
+    {
+      "name": "Vodka",
+      "text": "(¡No me rendiré! ¡Nunca más!)"
+    },
+    {
+      "name": "Vodka",
+      "text": "(¡Haré lo que sea para ser genial!)"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Yaaaaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al final, Narita Brian gana la carrera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de la abrumadora diferencia de habilidad,\nVodka reúne cada onza de su fuerza para perseguir\na la formidable 'bestia'."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Nada mal. Hagámoslo de nuevo."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Oh! M-muchas gracias, Brian!",
+      "choice_data_list": [
+        "¡Te ves genial, Vodka!",
+        "¡Te ves genial, Vodka!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Entrenador... Jeje, ¡gracias!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Voy a ser aún más genial de ahora en adelante, así\nque observa con cuidado—¡porque no querrás\nperdértelo!"
+    }
+  ]
+}

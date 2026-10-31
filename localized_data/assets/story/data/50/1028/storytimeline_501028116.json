@@ -1,0 +1,388 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Hishi Akebono",
+      "text": "(A todos les gusta verme correr en mi tamaño\nactual, y a mí también me gusta correr tal como\nsoy ahora.)"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "(Y si ese es el caso, solo hay un camino para que\nyo elija.)"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "<i>Haa... Haa...</i> ¡Entrenador!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Ups! Quise decir, ¡Taiki!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Akebono!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Puede que haya perdido hoy, ¡pero esa fue una\ncarrera ardiente! ¡Lo pasé genial allá afuera!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Mi corazón todavía late como un temporal! ¡Solo\n¡espérame! ¡Seguro que ganaré la próxima carrera!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Jejeje!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Qué? ¿Dije algo gracioso?"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "No. Solo estaba pensando en cuánto disfrutas\ncorrer conmigo."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Ajaja! ¡Claro que sí! ¡Siempre es tan emocionante\ncorrer contra ti!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡He estado obsesionado contigo desde que te vi\ncorrer en el Sprinters S.!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Acababas de debutar en ese entonces, y yo estaba\nmuy emocionado de ver lo que traerías al\nhipódromo!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Y durante esa carrera..."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Hishi Akebono ha surgido al frente! ¡Qué carrera\nabrumadoramente poderosa!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Vaya, me dejaste completamente atónito!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Esto es tan emocionante!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Tu tamaño y poder hicieron esa carrera más\ncaliente que el sol!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Y fue entonces cuando me di cuenta de que eres la\nclave de todo!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Si corriera contra ti, podría emocionar y\nentusiasmar a mis fans y seguidores sin duda!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "No podía sacarme de la cabeza que <i>tenía</i> que correr\ncontigo, o de lo contrario sería inútil!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Piensas tan bien de mí?"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ya veo... ¡Entiendo lo que quieres decir!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Yo también me he sentido así antes!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh, Akebono! Correré en el Mile Ch., así que ¡más\nte vale que estés preparada porque—"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Sí! ¡Lo sé! ¡Yo tampoco perderé ante ti!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Regreso a la sala de espera y espero a que Hishi\nAkebono regrese. Poco después..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Entrenador!",
+      "choice_data_list": [
+        "¡Bienvenido de vuelta! Buen tra—"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin advertencia, ella me levanta sobre sus\nhombros, interrumpiéndome a mitad de mis\nfelicitaciones.",
+      "choice_data_list": [
+        "¡Guau?!"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Yaaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuando recupero la orientación, me doy cuenta de\nque ella me ha traído a la cocina donde hicimos\nuna transmisión de Umastalive hace un tiempo.",
+      "choice_data_list": [
+        "¿Qué está pasando?!",
+        "¿Qué está pasando?!"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Voy a hacer chanko!",
+      "choice_data_list": [
+        "¿Qué?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Conoces la receta que uso para hacer mi chanko,\nEntrenador?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La he ayudado a hacerlo antes, pero no creo que\nella me haya contado nunca los detalles.",
+      "choice_data_list": [
+        "No creo, no."
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Supongo que no! Creé mi propio chanko después de\nmucho ensayo y error cuando era niño."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Necesito ir a comprar algunos ingredientes, pero\nvolveré enseguida, ¿vale?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todavía no tengo idea de lo que está pasando, pero\nparece que Hishi Akebono tiene un plan en mente,\nasí que espero pacientemente su regreso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Clic-clic-clic... ¡Fiuuu!</i>"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Para hacer mi chanko..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Tienes que hacer albóndigas de pollo dulces usando\nmiso y azúcar, y hervirlas a fuego lento en caldo\npara extraer el sabor umami."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "El caldo debe ser ligero y hecho con alga kombu,\nsalsa de soja ligera, sake, mirin y una pizca de\nsal."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Por eso es tan importante empezar a hacer las\nalbóndigas tan pronto como hayas puesto el caldo a\nhervir!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de explicarme esto, Hishi Akebono coloca\nun bol lleno de pollo picado frente a sí misma y\nse pone a trabajar."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Mezcla el miso, el azúcar, el ajo y el jengibre,\nluego comienza a amasar la carne picada."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Una vez que se vuelva blanquecino, agrega agua y\nsake poco a poco y amasa un poco más."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Agregar agua facilita extraer el sabor umami en la\ncarne. ¡No olvides este buen punto! ♪"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Por último, agrega algunas zanahorias y almidón de\npapa, y ¡amasa un poco más!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En el momento en que Hishi Akebono dice eso, la\nolla de caldo en la estufa empieza a hervir."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Oh! ¡Justo a tiempo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hishi Akebono empieza a tomar cucharadas de la\nmezcla de albóndigas y a dejarlas caer en el caldo\ncon una mano bien practicada."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Bien, las albóndigas están listas!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Las albóndigas son la parte más importante de mi\nchanko, así que soy especialmente particular sobre\ncómo las hago!",
+      "choice_data_list": [
+        "Ya veo..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella siempre es tan tranquila en la cocina, así\nque no tenía idea de que era tan particular sobre\neste paso del proceso."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Muy bien. Las verduras también están listas, así\nque ahora solo tenemos que esperar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El aroma suave pero dulce del caldo empieza a\nemanar de la olla y llena la habitación."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Oh, ha empezado a hervir a fuego lento. ¡No\nfaltará mucho!",
+      "choice_data_list": [
+        "Entonces, ¿por qué de repente quisiste hacer\nchanko?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Hm? Oh, bueno..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "El chanko constituye el corazón de cada establo de\nsumo.",
+      "choice_data_list": [
+        "(Ah, cierto, hay diferentes casas de luchadores de\nsumo.)"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Cada establo tiene una receta diferente, y los\nluchadores se vuelven muy apegados al chanko de su\npropio establo."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "No importa cuán dura fuera el entrenamiento ese\ndía, siempre se sienten mejor después de un gran\ntazón de chanko."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Les ayuda a dar lo mejor de sí día tras día."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Y por eso..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Creo que se decepcionarían mucho si el sabor de su\nchanko cambiara.",
+      "choice_data_list": [
+        "Cierto."
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Hay algo que quiero ser para las personas que\nvienen a verme y mis amigos que corren contra\nmí..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Y ese es un chanko que ellos conocen y aman."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Cada vez que salgo del paddock, la gente me anima\ny se maravilla de lo grande que soy."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ellos aman mi estilo de carrera único, y sonríen\ncada vez que una carrera termina."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Y quiero seguir corriendo para todos los que me\nmiran con tan grandes expectativas."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Incluso si no puedo competir por mucho tiempo,\nquiero seguir corriendo a mi manera."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Quiero proteger el sabor único que solo yo tengo.",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Aquí tienes!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Come, Entrenador! ¡Sabe mejor cuando está fresco\ny caliente!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como una cucharada del chanko colocado frente a\nmí, luego otra."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las albóndigas son dulces, y el caldo es claro y\nrefrescante. Sabe igual que siempre, y como\nesperaba que fuera.",
+      "choice_data_list": [
+        "(Eso es lo que lo hace tan bueno...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debe dolerle mucho a Hishi Akebono pensar en cómo\nesto podría acortar su carrera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero hay algo más que quiere proteger que es más\nimportante para ella. Su determinación se nota\nfuerte y clara.",
+      "choice_data_list": [
+        "Ganemos la próxima carrera, pase lo que pase."
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "...!",
+      "choice_data_list": [
+        "Estaré contigo en cada paso del camino."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mantengo su mirada y prometo que haremos la mejor\ncarrera de todas."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Sí, vamos!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Muchas gracias, Entrenador!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Daré lo mejor de mí! ¡Correré con todas mis\nfuerzas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le doy a Hishi Akebono un asentimiento de\nreconocimiento—y de repente me alza en brazos.",
+      "choice_data_list": [
+        "¡Podemos con esto!"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A petición de Hishi Akebono, nuestra próxima\ncarrera será el Mile Championship."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ahí es donde se coronará al campeón de la milla de\notoño."
+    }
+  ]
+}

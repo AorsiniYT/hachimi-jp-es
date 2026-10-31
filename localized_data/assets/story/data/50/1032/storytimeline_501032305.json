@@ -1,0 +1,86 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Agnes Tachyon tiene una actuación estelar en el\nSatsuki Sho G1!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...Sí. Estos hallazgos no están nada mal. Muchos\npuntos están en línea con los resultados del\nexperimento de prueba, y mis preparativos han ido\nde maravilla. Mi trabajo duro ha dado frutos."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Sin embargo... al haber experimentado estos\nresultados directamente, ahora percibo un\npotencial latente aún mayor. Con esto—",
+      "choice_data_list": [
+        "¿Tachyon?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ah, eres tú, Entrenador. Solo estaba hablando\nsolo."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Lo más importante es que participé en las carreras\nYayoi Sho y Satsuki Sho, tal como dije."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Así que solo me falta una de las Clásicas...",
+      "choice_data_list": [
+        "¡El Japanese Derby!",
+        "¡El Japanese Derby!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Ja! Tú me ganaste la idea. Ese es el siguiente\npaso lógico. Aún así..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Para esta próxima ocasión, espero que me permitas\ntomar el mando. Las probabilidades para el Plan A\nno se ven muy favorables.",
+      "choice_data_list": [
+        "¿Plan A?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ah, eso es... para que yo lo sepa. No necesitas\npreocuparte por ello."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Lo que quiero decir es que no puedo prometer que\nvoy a correr. Espero que me entiendas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por alguna razón, su afirmación suena más enérgica\nde lo usual.",
+      "choice_data_list": [
+        "Yo... entiendo."
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Bien. Bueno, ¡el tiempo es esencial! Con todos los\ndatos que acabo de recopilar de mis competidores,\n¡debo darme prisa en reanudar mis experimentos!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Es hora de poner el Plan B en acción.",
+      "choice_data_list": [
+        "(...¿Algún tipo de nuevo experimento?)",
+        "(...¿Algún tipo de nuevo experimento?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella se aleja sola, dejándome preguntándome cuáles\npodrían ser sus verdaderas intenciones."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por ahora, lo que sí sé es que ella está decidida\na correr en el Japanese Derby."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero al final, todo dependerá de ella."
+    }
+  ]
+}

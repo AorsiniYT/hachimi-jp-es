@@ -1,0 +1,44 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, paso por una cafetería y veo a Fuji Kiseki\ncon una estudiante más joven de Tracen adentro.\nParece que acaban de terminar de comer."
+    },
+    {
+      "name": "Umamusume menor",
+      "text": "¡Ese pastel de caramelo y plátano de edición\nlimitada estaba tan delicioso!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Realmente lo era. Pero por rico que fuera..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Disfruté mucho más viéndote comer feliz que\ncomiendo el pastel."
+    },
+    {
+      "name": "Umamusume menor",
+      "text": "¡Aaah! ¡No te burles de mí así!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Me da pena despedirme, pero desafortunadamente\ndebo irme. Pasemos tiempo juntos de nuevo algún\ndía."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Uf...",
+      "choice_data_list": [
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Oh, Entrenador... Sí, estoy bien. Solo tengo un\npoco de acidez."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Me pasa de vez en cuando después de comer cosas\ndulces. Jaja... Urgh."
+    }
+  ]
+}

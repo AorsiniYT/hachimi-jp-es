@@ -1,0 +1,51 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Voy a buscar a Mihono Bourbon después de que no se\npresenta al entrenamiento, y la encuentro en la\ncafetería."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿Sazonar al gusto? ¿Cuántos mililitros de\ncondimento es \"al gusto\"?"
+    },
+    {
+      "name": "Señora de almuerzo",
+      "text": "¡Tanta como creas que es rica! Solo pon tanta como\nquieras.",
+      "choice_data_list": [
+        "¿Q-qué está pasando?",
+        "¿Q-qué está pasando?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Entrenador... Tengo un reporte. He confirmado que\nel plato de manzana que sirven en el almuerzo me\nayuda a recuperarme del cansancio."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Creando que ayudaría a mis actividades futuras,\nexaminé la receta, pero tengo problemas con\ntérminos que aparecen frecuentemente, como \"al\ngusto\" y \"un pellizco\"."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Tal redacción vaga es sinónimo de errores. No le\nencuentro sentido a esto."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Decidí pedirle a la persona a cargo de la cocina\nque me ayude a confirmar las cantidades exactas\npara que pueda concentrarme en el entrenamiento en\nsu lugar.",
+      "choice_data_list": [
+        "Pero ya llegas tarde al entrenamiento, ¿sabes?",
+        "Pero ya llegas tarde al entrenamiento, ¿sabes?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...¿Qué?!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Mis más sinceras disculpas. Estaba preocupada por\nlos errores y eso ha llevado a mi propio...\ncomportamiento erróneo..."
+    },
+    {
+      "text": "Ella parece arrepentirse de su mal cálculo, así\nque le digo que debería descansar hoy y\nretomaremos el entrenamiento mañana."
+    }
+  ]
+}

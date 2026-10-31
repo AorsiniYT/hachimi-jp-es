@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día durante el entrenamiento, Biwa Hayahide\nparece bastante preocupada por su mano."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ngh... No otra uña encarnada...",
+      "choice_data_list": [
+        "¿Duele?",
+        "¿Duele?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No, está bien. Solo se me acabó la crema de manos."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "La elegí específicamente porque los ingredientes\nson perfectos para mi piel, pero ahora hay\nescasez, así que mis manos están más ásperas de lo\nnormal."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Esto es bastante un dilema...",
+      "choice_data_list": [
+        "¿Por qué no buscamos otra crema de manos para ti?",
+        "¿Por qué no buscamos otra crema de manos para ti?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Qué? ¡Oh no, estoy bien! Estoy segura de que mi\ncrema de manos usual volverá a estar disponible\npronto."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Eh, esto no tiene nada que ver con mi carrera, así\nque no tienes que revisar mis manos ni nada,\n¿verdad?"
+    },
+    {
+      "text": "Biwa Hayahide parece bastante avergonzada por el\nestado de su piel."
+    }
+  ]
+}

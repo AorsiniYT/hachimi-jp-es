@@ -1,0 +1,167 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Otra impresionante victoria para Agnes Digital!\n¿Cuántos G1 planea llevarse?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Corremos en todos los hipódromos que podemos, y\nAgnes Digital sigue ganando y ganando."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su aclamación resuena por toda la ciudad."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Vaya, lo estamos rompiendo! ¿Quién hubiera\npensado que ganaría tanto?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Ni siquiera puedo caminar por la ciudad sin que la\ngente me reconozca y me llame por ese dulce\nnombre..."
+    },
+    {
+      "name": "Transeúnte A",
+      "text": "¡Oh! ¡Es Agnes Digital!"
+    },
+    {
+      "name": "Transeúnte A",
+      "text": "¿O debería decir... la Gobernante de la Milla!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Eh? ¿Gobernante de la Milla? ¿Qué pasó con la\nPolivalente?"
+    },
+    {
+      "name": "Niño A",
+      "text": "¡Miren! ¡Es la Gobernante de la Milla! ¡La\nGobernante de la Milla está aquí!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Q-qué está pasando?! ¿He entrado en alguna\nespecie de universo paralelo?! Se supone que yo\nsoy la Polivalente..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Curiosos, nos dirigimos a la biblioteca para\nrevisar sus registros de carreras."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Gracias por esperar. Entonces, revisé los\nregistros para verificar esa pregunta que\ntenías..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Basándome en tus logros, parece que \"Gobernante de\nla Milla\" es un título apropiado."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Un G1 de milla de tercer año, el Oka Sho, el NHK\nMile Cup, el Mile Championship, el February\nStakes, el Victoria Mile y el Yasuda Kinen...",
+      "color_text_info_list": [
+        "Oka Sho",
+        "NHK Mile Cup",
+        "Mile Championship"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Ganaste todas. Es un récord sin precedentes.\nHonestamente, deberían llamarte \"Heroína de la\nMilla\"."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Jeje, háblame más, señorita bibliotecaria... Y me\nencantan... tus gafas... jeje..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Eh? E-eemm...",
+      "choice_data_list": [
+        "¡Muchas gracias por tu ayuda!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Detengo la conversación para que no se desvíe.\nParece que sin saberlo conquistamos todas las\nreconocidas carreras de milla."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Soy yo? <i>¿Estoy </i>loca???",
+      "choice_data_list": [
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡No lo sé! Todos me llamaban la Polivalente, pero\nahora..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Quiero decir, no es que no me gusta que me llamen\nla Gobernante de la Milla. Es solo... podría darle\na la gente la impresión equivocada, ¿sabes?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Digitan está dispuesta a admirar en cualquier\ndistancia! Admirar y yo vamos juntos como Adán y\nEva, arriba y abajo, malas películas y reinas del\ngrito!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "No puedo especializarme en <i>millas y </i>ser una\ntodoterreno, así que tendré que elegir una y\nmantenerme en ella... ¿Pero cuál?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Alguien aparece mientras Agnes Digital reflexiona\nsobre su dilema..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh, si no es la Gobernante de la Milla!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Mira, Flower! ¡Es Digital! ¡Ha estado que <i>arde\núltimamente...</i>"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Hola, Agnes Digital. Veo todas tus carreras. Eh..."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Si no es molestia, ¿podría hacerte algunas\npreguntas algún día? Te tengo mucho respeto..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Mi cerebro?! ¡POR SUPUESTO! Mi mente es un libro\nabierto para ti, mi precioso ángel!",
+      "choice_data_list": [
+        "Eh, Digital..."
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Quién hubiera pensado que mi nueva reputación me\npermitiría conocer a Umas con las que apenas he\ntenido la oportunidad de interactuar antes?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Si ese es el caso, ¡creo que puedo permitirme\ndesviarme un poco! ¡Diablos, incluso podría\naprovecharlo!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Quiero decir, ¿no es esa parte de ser una\npolivalente desde el principio?! ¡¿Cómo pude\nolvidarlo?!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Puedo reclamar tantos títulos y conocer a tantas\nUmamusume como quiera!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Está decidido, Entrenador! ¡De aquí en adelante,\nseré la <i>Gobernante de </i>Todo!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "<i>Me gustan ambas, </i>así que ¿por qué rechazar lo que\nse ofrece? ¡Debería continuar y dominar todas las\ncarreras de todas las distancias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agnes Digital es mucho más que una corredora\nversátil. Se ha demostrado ser una de las más\nrápidas de la historia."
+    }
+  ]
+}

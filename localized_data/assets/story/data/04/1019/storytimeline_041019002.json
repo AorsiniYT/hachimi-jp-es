@@ -1,0 +1,308 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un entrenador sin aprendices tiene un trabajo:\nconocer a los nuevos estudiantes.",
+      "choice_data_list": [
+        "(Está bien, voy a <i>estudiar realmente</i> a los\ncorredores hoy)"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuando llego a las pistas, veo a Agnes Digital\ncorriendo en el circuito de tierra."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es pequeña, pero es robusta y parece tener mucha\nfuerza en las piernas. En un abrir y cerrar de\nojos, se lanza por la recta final y cruza la línea\nde meta.",
+      "choice_data_list": [
+        "(Parece experimentada... supongo que ya ha\ndebutado, entonces).",
+        "(Parece experimentada... supongo que ya ha\ndebutado, entonces)."
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Uf..."
+    },
+    {
+      "name": "Instructor",
+      "text": "Agnes Digital, ¡genial! Estabas en forma, como\nsiempre. A este nivel, estás más que lista para\nenfrentar las pruebas."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿¡Qué?! Las pruebas? ¿Ya?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Pero yo, eh... eso es un poco... ¿Podría tener más\ntiempo para pensarlo?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Voy a, eh, voy a deslizarme hacia el circuito de\ncésped..."
+    },
+    {
+      "name": "Instructor",
+      "text": "¡Ah! Si insistes. No te excedas, ¿de acuerdo?"
+    },
+    {
+      "name": "Instructor",
+      "text": "Pensar que entrena así todos los días... y luego\nse vuelve a hacer lo mismo en la otra pista. Está\ntrabajando el doble que cualquiera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras Agnes Digital se dirige hacia el césped,\nme sorprende lo ligera que es su zancada. ¡Pensé\nque era una corredora de tierra!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Saco mi cronómetro para verificar su tiempo y se\nme cae la mandíbula."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella es buena en césped <i>y</i> tierra, pero ni siquiera\nha corrido las pruebas, ¡y mucho menos debutar?",
+      "choice_data_list": [
+        "(Me pregunto qué la detiene...).",
+        "(Me pregunto qué la detiene...)."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mi curiosidad me lleva a acercarme a preguntarle\ndirectamente."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Je, je, je... Correr en el mismo suelo que mis\nídolos acaba de pisar es mágico."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Si puedo seguir sus huellas, estaré lista para\nseguirlos por cualquier circuito. Je, je, je, los\nseguiré hasta los confines de la tierra..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Ah, pero tengo que tener cuidado de no destacarme.\nNo sé qué habría hecho si accidentalmente acepté\nentrar en las pruebas.",
+      "choice_data_list": [
+        "¿Por qué?",
+        "¿Por qué?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Quiero decir, nunca me perdonaría si cometiera un\nerror tan novato..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Eh? ¿Quién dijo eso? ¿Tú?",
+      "choice_data_list": [
+        "Yo. Vimos a Daiwa Scarlet juntos."
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Oh, eres ese entrenador que estaba enamorado tan\nfuerte como yo. Parece que nos volvemos a\nencontrar."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Y cómo va todo? ¿La suerte está recompensando tus\nesfuerzos?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "He estado trabajando duro para acumular buena\nkarma, sabes. Rezando a mi santuario de\nmerchandising, dando gracias por mis dosis diarias\nde moe, llorando feamente por mis ídolos..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "P-pero más importante... ¿¡No me oíste, eh,\ndivagando?!",
+      "choice_data_list": [
+        "Sí...",
+        "Sí..."
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Ah... Entiendo. Entiendo cómo es."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Bueno, la razón por la que evito las pruebas es\nhonestamente bastante tsimple. Imagina a tus\nUmamusume favoritas por un momento."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Se especializan en césped o tierra, ¿verdad? Pero\nyo no tengo una eespecialidad, y tengo favoritas\nen ambos."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Esa es la parte más difícil... No puedo elegir una\nsin abandonar a la otra. Y realmente,\nreeeeealmente no quiero eso...",
+      "choice_data_list": [
+        "Entiendo..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las carreras clasificadas en los hipódromos\ncentrales son mayormente de césped, especialmente\nen los niveles más altos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Muchas corredoras inevitablemente se alejan de la\ntierra, así que entiendo lo que significa Agnes\nDigital.",
+      "choice_data_list": [
+        "¿Eres realmente apasionada de las carreras, eh?",
+        "¿Eres realmente apasionada de las carreras, eh?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Pues claro! ¡Me encanta ver ambos estilos! ¡Me\nencantan las Umas de césped <i>y</i> las de tierra! ¡Me\nencanta cada Uma Musume que haya corrido!",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Sabes, um, no es fácil ser una fanática, ¿¡okay?!\nTengo demasiados favoritos para ver solo un tipo\nde pista",
+      "choice_data_list": [
+        "¿Ver?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Claro! Pensé que tú estabas tan emocionada como\nyo. Quiero ver ambos. Tengo que hacerlo, pero..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Si corro en pista de césped, no podré ver a las\nUmamusume de tierra cerca. Si corro en tierra, no\npodré ver a las Umamusume de césped"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Aaaaahdk, cómo es que eso es justo?! No puedo\nencontrar una solución, así que he estado\nrechazando a todos los exploradores y las\ninvitaciones para las pruebas para ganar tiempo"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Solo quiero ser fanática. Ya sea en césped o en\ntierra, quiero absorber la gloria de cada una de\nlas Umamusume de la línea del frente"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hmm... No puedo evitar sentir que ella ve las\ncosas más como una fanática que como una corredora"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Pero al menos tú me entiendes. Sientes mi dolor,\n¿¡verdad?! Porque tú también amas a las Umamusume"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Intento calmar a Agnes Digital, luego tomo nota de\nla situación"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella quiere seguir a su Umamusume favorita, pero\ndebutar como corredora limitará el tipo de\ncarreras que puede unirse"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No puede elegir entre tierra o césped, así que ha\nestado evitando la pregunta rechazando ofertas de\nexploradores"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "<i>Suspiro...</i> Si tuviera una especialidad clara,\nsería mucho más fácil aceptar lo inevitable..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella ya ha pasado mucho tiempo pensando en\ncírculos. Tal vez lo que realmente necesita es una\nsegunda opinión",
+      "choice_data_list": [
+        "¿Qué tal si pedimos consejo a otros corredores?",
+        "¿Qué tal si pedimos consejo a otros corredores?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Eh? No podemos simplemente..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Miro hacia abajo en el curso, donde veo al Señor\nde las carreras de césped, T.M. Opera O, y a la\nídolo de las carreras de tierra, Smart Falcon",
+      "choice_data_list": [
+        "¡Vamos a pedir sus opiniones!"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "...¿Qué"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿¡QUÉ?! ¡Ese es el Señor y la Umadol!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Mi, qué miradas apasionadas. ¿Estás aquí para\nverme?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Les doy la bienvenida a ambos. Estoy siempre feliz\nde posar para fotos, responder preguntas, grabar\nentrevistas, cualquier cosa para mis fans\nadoradores",
+      "choice_data_list": [
+        "Bueno, queríamos preguntar por qué elegiste césped\nsobre tierra",
+        "Bueno, queríamos preguntar por qué elegiste césped\nsobre tierra"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Oh, esa es una pregunta bastante única. La\nrespuesta es simple, de verdad. Verás, elegí el\nescenario mejor adaptado para complementar mi\ngloria"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Oh, te conozco... Tú eres Digital. Gracias por\nanimarme en mi última actuación"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Me siento muy halagada de verte aquí en la pista.\n♪ Debes ser una fanática realmente grande",
+      "choice_data_list": [
+        "Ella esperaba preguntar por qué elegiste carreras\nde tierra",
+        "Ella esperaba preguntar por qué elegiste carreras\nde tierra"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Eh? La razón por la que elegí tierra sobre\ncésped. Hmm... Bueno... Me prometí a mí misma que\nsería mi mejor yo y haría lo que solo yo puedo. ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque su forma de expresarlo difiere, ambas\nrespuestas son esencialmente las mismas. Eligieron\nun estilo que mostraría sus talentos mejor"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ahora aplicar eso a Agnes Digital...",
+      "choice_data_list": [
+        "¿Te ayudó a decidir?",
+        "¿Te ayudó a decidir?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "...",
+      "choice_data_list": [
+        "Tierra a Agnes Digital"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "...",
+      "choice_data_list": [
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "...Así como la hierba sigue al viento, así también\nla suerte sigue a la virtud",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con esa nota críptica, se desmaya... ¿Acabo de\npresenciar a alguien desmayarse en la vida real?"
+    }
+  ]
+}

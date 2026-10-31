@@ -1,0 +1,110 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿¡Eh!? ¿Quieres salir a algún lugar... con <i>mí?</i>"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Sería un honor! ¡Por todos los medios—"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ah, disculpa. Tengo que tomar esta llamada."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Sí, aquí es Hayakawa. Correcto... Mmm... Bueno,\nsobre eso..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Lo siento... Hay un asunto urgente al que necesito\nasistir."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Eh... ¿Estaría bien si posponemos la cita?",
+      "choice_data_list": [
+        "¡Puedo esperar hasta que termines!"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Oh, Entrenador..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Jeje! ¡Gracias! ¡Eres tan amable!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡No te preocupes! ¡Terminaré todo en un abrir y\ncerrar de ojos!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "<i>Haa... Haa...</i> ¡Volví!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Pero pronto anochecerá, ¿eh? Lo siento..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Si salimos ahora, no podemos ir a ningún lugar muy\nlejano. Mmm..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tazuna y yo nos devanamos los sesos pensando a\ndónde podemos ir, cuando..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Rum...</i>"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "...¿Fuiste tú?",
+      "choice_data_list": [
+        "No creo que haya sido <i>solo</i> yo..."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Ehehe! ¡Sí, tienes razón! ¡Yo también tengo\nbastante hambre!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Acabo de pensar en un buen lugar para ir!\n¡Sígueme!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oh, qué bien! ¡Hay asientos libres!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La recomendación de Tazuna es este restaurante de\nramen de aspecto rústico."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Este es mi lugar favorito!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡El ramen es genial, por supuesto, pero los\ndumplings salteados son para morirse!",
+      "choice_data_list": [
+        "¡Bueno, considérame emocionado!"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Sí! ¡Comamos un montón hoy! Como somos dos,\n¡pidamos el combo jumbo!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Después, pasemos por el supermercado para que\npueda agarrar un poco de leche!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así pasamos el resto de la noche comiendo comida\ndeliciosa juntos."
+    }
+  ]
+}

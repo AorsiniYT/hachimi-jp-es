@@ -1,0 +1,192 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estoy caminando por el campus cuando escucho una\nvoz familiar."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Y así, la paz fue restaurada en todo el\nterritorio."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Mmm... La actuación todavía se siente un poco\ndemasiado cuadriculada.",
+      "choice_data_list": [
+        "¿Qué están haciendo ustedes dos?",
+        "¿Qué están haciendo ustedes dos?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ah—Entrenador. Nos han pedido que hagamos una obra\npara los niños locales."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Va a ser una leyenda heroica, al estilo RPG!\n¡Estamos practicando como locos!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Como nos han puesto a cargo, quiero hacer un buen\ntrabajo, pero parece que hemos sido demasiado\ncautelosos."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ooh! ¡Ooh! ¡Lo sé! Al final, podría hacer un\npress de cuerpo volador!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ajaja... Creo que no, El. ¿Estás tratando de dar\nun ejemplo peligroso para los niños?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ay, ay, ay! ¡Okay, okay! ¡Ya lo entendí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los dos continúan su ensayo por un tiempo después."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Uf... Escribir un guion entretenido es trabajo\nduro."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Por qué no simplificamos las líneas un poco más?\nEmpecemos de nuevo desde el principio."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡¿Otra vez?! Nggghhh... Seguro que le estás\nponiendo todo, Grass."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Por supuesto. Las experiencias que los niños\ntienen en sus años formativos son extremadamente\nimportantes."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Cuando yo era joven, siempre me conmovía y\ninspiraba el énfasis en la precisión dentro de la\ncultura japonesa."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Quiero que esta nuestra obra provoque el mismo\ntipo de respuesta.",
+      "choice_data_list": [
+        "¡Lo hará, estoy segura!"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Bueno, ¡por supuesto que yo también quiero eso!\n¡Quiero hacer que se sientan como yo me sentí\nviendo luchadores cuando era pequeño!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Jeje... Entonces, ¿por qué no hacemos otro ensayo?\nEntrenador, si tú interpretaras al antagonista..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus ensayos continúan todos los días hasta que\nllega el gran día de la función."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Argh... No te llaman el Rey Demonio por nada...\nHay que admitirlo... Fue un buen golpe...",
+      "choice_data_list": [
+        "¡Jua jua jua! ¡Y ahora, para el golpe final!"
+      ]
+    },
+    {
+      "name": "Niños",
+      "text": "¡Waaaahhh! ¡No te rindas! ¡Golpea a ese Rey\nDemonio!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "En efecto... No podemos permitirnos perder.\nDemasiadas personas dependen de nosotros."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Esto es por ellos! ¡Rayo Angelical!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Hiyaaah! ¡Onda Cóndor Chillón!",
+      "choice_data_list": [
+        "¡Gaaaah! ¡He sido derrotadooo!"
+      ]
+    },
+    {
+      "name": "Niños",
+      "text": "¡Yujuu!"
+    },
+    {
+      "name": "Chica",
+      "text": "¡Fuiste muy genial! La próxima vez que algo\nasustador pase, ¡voy a ser valiente también!"
+    },
+    {
+      "name": "Chico",
+      "text": "¡Yo también! ¡Voy a ser como un héroe y nunca\nperder! ¡Hombre, quiero ver esa obra de nuevo!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh, ¿en serio? Jejeje. Gracias. Me alegra que\ndisfrutaran la obra.",
+      "choice_data_list": [
+        "Parece que tu trabajo duro dio frutos.",
+        "Parece que tu trabajo duro dio frutos.",
+        "¿Qué tal un bis?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh, ¿en serio? Jejeje. Gracias. Me alegra que\ndisfrutaran la obra.",
+      "choice_data_list": [
+        "Parece que tu trabajo duro dio frutos.",
+        "Parece que tu trabajo duro dio frutos.",
+        "¿Qué tal un bis?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sí, y el tuyo también, Entrenador. Gracias."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No solo fue tu consejo inestimable, sino que tu\ninterpretación como antagonista es lo que hizo que\nnuestra obra fuera un éxito tan grande."
+    },
+    {
+      "name": "Chico",
+      "text": "¡Oye! ¡Oye! ¡Hagamos esa última parte juntos!"
+    },
+    {
+      "name": "Chica",
+      "text": "¡Vale! ...¡Esto es por ellos! ¡Rayo Angelical!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Jeje. Supongo que es nuestro turno para mirar."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Puede ser nuestra recompensa de misión, como en un\nvideojuego. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los niños en el público disfrutaron a fondo la\nobra."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Qué? Entendería si esto fuera un concierto, ¿pero\nun bis para una obra?"
+    },
+    {
+      "name": "Niños",
+      "text": "¡Por faaaavor! ¡Bis! ¡Bis!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "...Jeje. Bueno, si insisten."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Qué te parece, Entrenador? ¿Terminaremos con\nfuerza hoy?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Interpretamos los momentos destacados una vez más,\ny el telón cae sobre un gran espectáculo."
+    }
+  ]
+}

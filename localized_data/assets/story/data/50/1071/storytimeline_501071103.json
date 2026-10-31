@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "¡El campamento de verano finalmente ha llegado! Y\nmientras nos preparamos para alcanzar nuestras\nmetas de fin de verano..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¡Jeje! Finalmente hemos llegado a las\ninstalaciones del campamento de verano. Cuánto he\nesperado este día.",
+      "choice_data_list": [
+        "Seguro que pareces feliz de estar aquí.",
+        "Seguro que pareces feliz de estar aquí."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Bueno, mi condición casi siempre me impide\nparticipar en las actividades del campamento de\nverano en el grado que me gustaría."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Pero este año es diferente."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Has trabajado incansablemente en mis músculos,\nEntrenadora, y yo también me comprometo a exprimir\nal máximo esta experiencia de campamento."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Por lo tanto, Entrenador, le pido que me empuje a\nmis límites absolutos.",
+      "choice_data_list": [
+        "¡Puedes contar con ello!",
+        "¡Puedes contar con ello!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Y con eso, mi ardiente experiencia de campamento\nde verano con Mejiro Ardan está en marcha!"
+    }
+  ]
+}

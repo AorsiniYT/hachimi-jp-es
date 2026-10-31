@@ -1,0 +1,59 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "¡La Victoria Mile, el primer objetivo senior de\nVodka, finalmente está aquí!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Vamos a empezar. Es una carrera de una milla, así\nque si no tengo cuidado, se acabará antes de que\nme dé cuenta."
+    },
+    {
+      "name": "Vodka",
+      "text": "No hay tiempo para pensar en nada durante la\ncarrera. Pero hoy, siento que eso en realidad es\nperfecto para mí."
+    },
+    {
+      "name": "Vodka",
+      "text": "Necesito encontrar mi próximo objetivo... y mi\npróximo yo.",
+      "choice_data_list": [
+        "¿Crees que verás algo?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Sí. Siempre siento lo que es realmente importante\nbasándome en el instinto."
+    },
+    {
+      "name": "Vodka",
+      "text": "Las respuestas llegan a mí durante las carreras.\nEs como..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Cuando mis pensamientos desaparecen y estoy\ncorriendo con todas mis fuerzas, más o menos\nobtengo este enfoque de visión de túnel."
+    },
+    {
+      "name": "Vodka",
+      "text": "Por primera vez en mucho tiempo, estoy aquí con la\nmente clara. Todo lo que necesito hacer es correr\nrápido."
+    },
+    {
+      "name": "Vodka",
+      "text": "Esto no está tan mal... De hecho, siento que\npodría ser más fácil encontrar respuestas en\nmomentos como estos.",
+      "choice_data_list": [
+        "Muy bien. ¡Entonces, a buscar!",
+        "Muy bien. ¡Entonces, a buscar!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Correcto! Como siempre, le voy a dar todo."
+    },
+    {
+      "name": "Vodka",
+      "text": "Victoria, puedes ser la diosa de la victoria, pero\nya tengo suficientes bendiciones. ¡Voy a ganar\nesto a <i>mi</i> manera!",
+      "color_text_info_list": [
+        "Victoria"
+      ]
+    }
+  ]
+}

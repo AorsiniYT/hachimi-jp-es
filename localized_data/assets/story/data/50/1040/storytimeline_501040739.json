@@ -1,0 +1,65 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gold City",
+      "text": "Bien, ¡quedé! ¿Supongo que debería sentirme\naliviada?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero, no—no puedo permitirme estar satisfecha con\nesto. Ugh, ¡quería ganar!",
+      "choice_data_list": [
+        "Parecías estar divirtiéndote mucho.",
+        "Parecías estar divirtiéndote mucho.",
+        "Entonces ganarás la próxima vez, ¿verdad?",
+        "Entonces ganarás la próxima vez, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero, no—no puedo permitirme estar satisfecha con\nesto. Ugh, ¡quería ganar!",
+      "choice_data_list": [
+        "Parecías estar divirtiéndote mucho.",
+        "Parecías estar divirtiéndote mucho.",
+        "Entonces ganarás la próxima vez, ¿verdad?",
+        "Entonces ganarás la próxima vez, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Por supuesto que lo estaba—estaba corriendo!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Espera... Borra eso. ¿He empezado a sonar un poco\ntonta últimamente?",
+      "choice_data_list": [
+        "Solo estás siendo tú misma.",
+        "Solo estás siendo tú misma."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Uh... Dada la pregunta que hice, no estoy segura\nde que sea un cumplido."
+    },
+    {
+      "name": "Gold City",
+      "text": "Déjame repetirlo. La próxima vez, terminaré\nprimera y diré algo más \"yo\"!"
+    },
+    {
+      "name": "Gold City",
+      "text": "...!"
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Estás tratando de excitarme? No voy a subirme a\nesa ola."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero hacer pucheros es para perdedores, así que\nestá bien, diré lo que tú quieres escuchar."
+    },
+    {
+      "name": "Gold City",
+      "text": "La próxima vez, terminaré primera. ¡Así que más te\nvale ayudar me a dar mi mejor carrera!"
+    }
+  ]
+}

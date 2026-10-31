@@ -1,0 +1,114 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es Año Nuevo, y decidimos visitar un santuario\npara pedir un deseo de éxito en las próximas\ncarreras senior de Biwa Hayahide.",
+      "color_text_info_list": [
+        "senior"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No puedo creer que ya sea un nuevo año. El tiempo\nvuela, de verdad."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Por cierto, ¿viste el Asahi Hai F.S. el mes\npasado?",
+      "choice_data_list": [
+        "(The Asahi Hai Futurity Stakes...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Biwa Hayahide participó en ese G1 antes. Es una de\nlas carreras que determina al campeón del año\njunior."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Escuché que Narita Brian quedó en primer lugar."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "El tiempo realmente pasa rápido. Ya es una\ncorredora clásica."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Podría ser incluso tan pronto como <i>este año</i>..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Biwa Hayahide respira profundamente y la suelta\ncomo si se estuviera preparando para algo. Luego,\nse vuelve a mirarme de nuevo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "La batalla entre Brian y yo podría ser tan pronto\ncomo este año.",
+      "choice_data_list": [
+        "...!"
+      ],
+      "color_text_info_list": [
+        "Brian"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Necesitamos empezar a recopilar datos sobre Brian\nde inmediato. Dudo que se detenga con el tour de\nla Triple Corona Clásica.",
+      "choice_data_list": [
+        "Necesitamos estar listos para vencerla.",
+        "Necesitamos estar listos para vencerla."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Exactamente."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Oh, la fila se mueve. Mejor empezamos a pensar en\nqué queremos pedir."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Qué pedirás este año, Entrenador?",
+      "choice_data_list": [
+        "Para que tú estés sana.",
+        "Para que mejoremos tus habilidades para que puedas\nganar.",
+        "Para que pulamos tu técnica."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Estás rezando por mí y no por ti mismo? Realmente\npriorizas a nosotras las corredoras sobre ti mismo\ndemasiado."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Por qué no bebemos un poco de amazake después de\nque terminemos de rezar? Podemos hacer un pequeño\nbrindis de Año Nuevo por la salud de <i>ambos</i>."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, disfruto el comienzo del nuevo año con Biwa\nHayahide."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jeje, tienes razón. Eso es algo en lo que\nnecesitamos trabajar juntas."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hagamos un poco de entrenamiento cuando\nregresemos, para que podamos hacer que ese deseo\ntuyo se cumpla."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Biwa Hayahide y yo empezamos a entrenar\ndesde el primer día del nuevo año."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hm, ¿mi técnica? Siento que ya me ayudas\nsuficiente con mis habilidades de carrera..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Pero me encanta que nunca te confíes. Tomaré un\nejemplo de ti y rezaré por lo mismo, entonces."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, paso un agradable comienzo de año con Biwa\nHayahide."
+    }
+  ]
+}

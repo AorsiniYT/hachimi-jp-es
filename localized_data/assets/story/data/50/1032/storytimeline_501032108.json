@@ -1,0 +1,253 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "En un día particular previo al Fan Fest..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Una sesión de fotos?"
+    },
+    {
+      "name": "Organizador del Fan Fest",
+      "text": "¡Sí! ¡Es el evento principal del Fan Fest!\n¡Queremos que aparezcas pase lo que pase!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que algunos organizadores están recorriendo\nel campus buscando Umamusume."
+    },
+    {
+      "name": "Organizador del Fan Fest",
+      "text": "Como la sesión de fotos funciona por rotación,\nsolo te necesitaremos prestada por una hora. ¡Lo\nmás importante es que puedes saludar a tus fans!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hmph. Ya veo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El organizador parece rebosar de anticipación...\nPero desafortunadamente, Agnes Tachyon detesta,\npor encima de todo, cualquier cosa que considere\nuna pérdida de tiempo.",
+      "choice_data_list": [
+        "(Apuesto a que la va a rechazar...)"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Una sesión de fotos, eh? ¡Qué fascinante! ¿Por\nqué no? ¡Acepto tu propuesta!",
+      "choice_data_list": [
+        "¿¡Eh?!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Qué? ¿Por qué te sorprendes tanto?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y he aquí que Agnes Tachyon elige participar en la\nsesión de fotos durante el Fan Fest."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tan pronto como el organizador del evento se va,\nle pregunto por curiosidad por qué aceptó la\nsesión de fotos."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Últimamente, me he vuelto cada vez más curioso\nsobre los poderes que surgen de factores como el\n\"entusiasmo\" y la \"pasión\"."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es sorprendente que la amante de la ciencia Agnes\nTachyon muestre tanto interés en cosas\nemocionales.",
+      "choice_data_list": [
+        "Bueno, esto es nuevo."
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Simplemente sentí potencial de mis propias\nobservaciones de primera mano."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "El grado de esfuerzo muscular depende de factores\npsicológicos y fisiológicos. Se ha demostrado que\nel rendimiento motor está ligado a la actividad de\nla corteza cerebral y el sistema nervioso central."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡sistema nervioso!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "El efecto del aliento de la multitud depende de\nvarios factores psicológicos. En adolescentes, la\nrelación es estadísticamente significativa,\npero..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Si se puede llegar a la misma conclusión sobre las\nUmamusume... Ese es el objetivo de este estudio.",
+      "choice_data_list": [
+        "(¿De qué está hablando?)"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Bueno, en términos más simples, planeo acercarme a\nmis fans."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Esto, por supuesto, es por el bien de mi\ninvestigación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así es Agnes Tachyon..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El día del Fan Fest ha llegado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una multitud de fans, cautivados por su aparición\nen el Osaka Hai, se agolpan en la sesión de fotos."
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Tu actuación en el Osaka Hai fue increíble! ¡Te\nestaré animando!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ah, ¡lo aprecio!"
+    },
+    {
+      "name": "Fan B",
+      "text": "¡No puedo creer que te vea en persona! ¡Eres la\nmás genial!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡El placer es todo mío! ¡Ja-ja-ja!",
+      "choice_data_list": [
+        "(¿¡Esa es realmente Tachyon?!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque sé que es por el bien de la investigación,\nme quedo atónito ante lo desconocido."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eventualmente, la sesión de fotos llega a su fin."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Uf! ¡Eso fue algo agotador!",
+      "choice_data_list": [
+        "Lo hiciste bien allá arriba."
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Pude recopilar montones de datos observacionales.\nOportunidades como estas son tan difíciles de\nconseguir."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Un aumento agudo en la respiración y la frecuencia\ncardíaca, pupilas dilatadas... Cada individuo\ndemostró todas estas respuestas, aunque en grados\nvariables."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Creo que me ven como una especie de recompensa.\nHeh, simplemente fascinante. Me pregunto qué más\nhabrá reservado."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Sí, sí. Muy bien. Mi número de cobayos ha\naumentado. El fruto del trabajo de uno, se podría\ndecir!",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "En cuanto a cómo logra mantenerse tan fiel a sí\nmisma... me deja sin palabras."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Hm? No te preocupes, sigues siendo mi número uno\ncobayo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me doy cuenta de que ella dice esto por\nconsideración."
+    },
+    {
+      "name": "Monólogo",
+      "text": "De cualquier manera, los eventos de este Fan Fest\nparecen haberla estimulado."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "<i>Suspiro...</i> ¡Eso fue más cansado de lo que pensé!",
+      "choice_data_list": [
+        "Parecías estar disfrutándolo"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Pareció así? Supongo que no pude contenerme ante\nla idea de encontrar más sujetos de prueba."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Además, es una oportunidad tan rara poder observar\na personas elicitar tales respuestas emocionales\nde cerca!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Al posar sus ojos en mí, su respiración y\nfrecuencias cardíacas parecieron fluctuar\nvisiblemente, evidenciando estimulación a sus\nsistemas nerviosos de dopamina."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Se seguiría, entonces, que cuantas más carreras\ngane, más se estimulan sus sistemas de recompensa.\nA este ritmo, podría llegar un día en el que la\nsimple vista de mí provoque lágrimas."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Heh-heh-heh... Vaya, qué intrigante es este\nconcepto de fandom.",
+      "choice_data_list": [
+        "...Pero, ¿cómo te sentiste durante la sesión de\nfotos?",
+        "...Pero, ¿cómo te sentiste durante la sesión de\nfotos?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No me imagino acostumbrándome a ese tipo de cosas,\npero no fue tan malo como me imaginé."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Fue... en términos subjetivos, y en todos los\nsentidos de la palabra—burbujeante."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Bueno, en cualquier caso, no fue una experiencia\ndesagradable. Si algo, estuvo del lado agradable."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque no de la manera que imaginé, parece que\nella encontró su propia forma de disfrutar la\nsesión de fotos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella se ríe abruptamente."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Heh-heh-heh! ¡Ahora lo recuerdo! \"Y si miras el\nabismo el tiempo suficiente, el abyss te devolverá\nla mirada\", o algo así.",
+      "choice_data_list": [
+        "¿Significado?",
+        "¿Significado?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Bueno, esto es puramente especulativo, sin\nembargo..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Podría llegar un día en el que yo también pudiera\nconmoverme con el simple sonido de sus vítores."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Pero si tal fenómeno se correlaciona directamente\ncon una mejora en la velocidad, entonces es un\nprecio que estoy dispuesta a pagar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que este Fan Fest ha sido especialmente\nestimulante para Agnes Tachyon."
+    }
+  ]
+}

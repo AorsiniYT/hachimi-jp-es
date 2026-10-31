@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Super Creek me está mirando con una expresión de\nsueño..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Mmm... Oh, Entrenador, eres un dulce pequeño\npreciosura...",
+      "choice_data_list": [
+        "Eh... Creek?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "...¿Eh?"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh, lo siento. Parece que tenía la cabeza en las\nnubes por un momento..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Necesito recomponerme."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Trabajas tan duro para elegir todas estas carreras\npara mí... Yo necesito esforzarme más... para\nganarlas..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Super Creek murmura antes de deslizarse de nuevo\nen su ensueño somnoliento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...¿La he agobiado? Tal vez necesite reconsiderar\nsu calendario de carreras."
+    }
+  ]
+}

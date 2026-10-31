@@ -1,0 +1,221 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Gold Ship se vuelve hacia mí mientras pasamos por\nun parque de regreso a casa."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡T al rainer, o sea, \"Entrenador\"!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Hagamos un columpiado en esos columpios!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Vamos a cantar mientras nos columpiamos, y el\nprimero que se muerda la lengua pierde!",
+      "choice_data_list": [
+        "¿Qué clase de juego es ese?",
+        "¿Qué clase de juego es ese?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Hm?"
+    },
+    {
+      "name": "Chica Misteriosa",
+      "text": "¡A-alguien sálveme!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Santa guacamole! ¿¡El Apocalipsis está sobre\nnosotros!?"
+    },
+    {
+      "name": "Chica Misteriosa",
+      "text": "¿¡Huh!? Eh, no, no es nada tan serio..."
+    },
+    {
+      "name": "Chica Misteriosa",
+      "text": "¡Pero sigue siendo una emergencia! ¡Tienes que\nayudarme! ¡Mira allí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La niña, que no puede tener más de diez años,\nseñala con un dedo tembloroso a través del parque."
+    },
+    {
+      "name": "Hombre Sospechoso A",
+      "text": "¡Argh! ¿¡A dónde se fue!?"
+    },
+    {
+      "name": "Hombre Sospechoso B",
+      "text": "Estoy segura de que huyó en esta dirección... Oye,\n¡busca en el patio de juegos!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Guau, míralo. Literalmente son el Hombre\nSospechoso A y el Hombre Sospechoso B allí."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Espera... ¿Van tras <i>ti,</i> niña?"
+    },
+    {
+      "name": "Chica Misteriosa",
+      "text": "Sí... Por favor, no te alarmes, pero la verdad es\nque, bueno..."
+    },
+    {
+      "name": "Chica Misteriosa",
+      "text": "¡Soy una princesa de una tierra lejana, y ellos\nson asesinos enviados para matarme!",
+      "choice_data_list": [
+        "¿¡Qué!?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡¡No way!!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Entonces... ¿Podría ser? ¿Eres la heredera del\nperdido Reino Argent?!"
+    },
+    {
+      "name": "Chica Misteriosa",
+      "text": "...Huh?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "La historia recuerda cómo las veintiuna hijas del\nrey se dispersaron al escuchar las noticias de su\nmuerte prematura en medio del golpe de estado hace\ndoce años."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Oh princesa... Para pensar! ¡Para pensar que\nestás a salvo! ¡Es un honor conocerte!"
+    },
+    {
+      "name": "Chica Misteriosa",
+      "text": "Yo, erm, bueno...",
+      "choice_data_list": [
+        "(¡Golshi ha tomado por completo la conversación!)",
+        "(¡Golshi ha tomado por completo la conversación!)"
+      ]
+    },
+    {
+      "name": "Hombre Sospechoso A",
+      "text": "Ella no está aquí tampoco... Por Dios, ¿por qué\ndebe hacer esto cada vez?"
+    },
+    {
+      "name": "Hombre Sospechoso B",
+      "text": "¡Por favor salga, mi señora! ¡Sus lecciones debían\ncomenzar hace bastante tiempo! ¡Su padre va a\nestar furioso!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Parece que la niña es perseguida por una razón\ncompletamente diferente a la que dice."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡El deber ha llamado, y yo, el Caballero Dorado,\nme levantaré para enfrentarlo! ¡Princesa, no\ntemas! ¡La protegeré de estos malhechores!"
+    },
+    {
+      "name": "Chica Misteriosa",
+      "text": "..."
+    },
+    {
+      "name": "Chica Misteriosa",
+      "text": "...Buen encuentro, valiente caballero. ¡Como mi\nescudo, asegúrate de que no me hagan daño!",
+      "choice_data_list": [
+        "(¿¡Ella se prende al juego!?)"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Sí, Su Alteza! ¡Vivo para servir!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Ahora, Entrenador! ¡Mi fiel compañero de mano\nderecha—eh, eso es demasiado. ¡Mi fiel compañero\nde meñique derecho!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿¡Tienes un plan para mantener a Su Alteza a\nsalvo!? ¿Bueno? ¿¡Lo tienes!?",
+      "choice_data_list": [
+        "Creo que es mejor si los dejamos que la\nencuentren.",
+        "Creo que es mejor si los dejamos que la\nencuentren.",
+        "¡Para esconder un árbol, hay que hacerlo en el\nbosque!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿¡Tienes un plan para mantener a Su Alteza a\nsalvo!? ¿Bueno? ¿¡Lo tienes!?",
+      "choice_data_list": [
+        "Creo que es mejor si los dejamos que la\nencuentren.",
+        "Creo que es mejor si los dejamos que la\nencuentren.",
+        "¡Para esconder un árbol, hay que hacerlo en el\nbosque!"
+      ]
+    },
+    {
+      "name": "Chica Misteriosa",
+      "text": "¿Qué? ¡No quiero que me encuentren! ¡Si me\nencuentran, tendré que sentarme sola y\nestudiar—digo, quiero decir...!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Ugh! ¡Ves, por eso solo serás un meñique!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Princesa, dejemos a este meñique tranquilo hasta\nque le crezcan las uñas."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Ahora, súbete a mi espalda! ¡El Caballero Dorado\nte salvará!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Escuchen, malandros! ¡Quítense de en medio si no\nquieren salir heridos!"
+    },
+    {
+      "name": "Hombres Sospechosos",
+      "text": "¡Ack! ¿¡Qué diablos!? ¡¿Mi señora?! ¡Alto ahí!"
+    },
+    {
+      "name": "Chica Misteriosa",
+      "text": "¡Ajajaja! ¡Guau, señorita—ups, quiero decir,\nvaliente caballero! ¡Eres muy rápido!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Hyahaha! ¡Soy yo, el Caballero Dorado, arma letal\ndel Reino Argent!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Termino sin más remedio que unirme a los\nhombres y perseguir a Gold Ship mientras huye con\nla niña."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Guau! ¡Ese plan es perfecto! ¡No esperaba menos\ndel Sabio Entrenador!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Pero no hay tiempo que perder! ¡Princesa, por\naquí! ¡Rápido!"
+    },
+    {
+      "name": "Chica Misteriosa",
+      "text": "¿Huh? ¿A dónde vamos?"
+    },
+    {
+      "name": "Chica Misteriosa",
+      "text": "¡Oh, guau! ¿Esto es un hipódromo? ¡Nunca había\nestado en uno!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Bwahaha! ¡Nunca te encontrarán con toda esta\ngente alrededor, incluso si tienen un +1 en\ninvestigación!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Mira eso, Entrenador. Resulta que a veces sí\ntienes buenas ideas. ¡Te promuevo oficialmente de\nmeñique a pestaña!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de disfrutar las carreras por un rato,\nescoltamos a la niña de vuelta a su casa."
+    }
+  ]
+}

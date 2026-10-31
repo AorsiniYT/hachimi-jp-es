@@ -1,0 +1,55 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estoy relajándome en mi habitación en mi día\nlibre. Estoy a punto de desayunar, cuando..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Ding-dong! Abre, Train—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Traqueteo! ¡Estruendo!</i>"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Bueno, ya voy a entrar! Y...",
+      "choice_data_list": [
+        "(¡Tengo un mal presentimiento!)"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Muchas gracias por todo!",
+      "choice_data_list": [
+        "Eh..."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Me has enseñado tantas cosas desde que nos\nconocimos! Como... eh... tantas cosas nuevas!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Gracias a ti, mis adivinaciones ahora son mil\nporciento precisas! ¡Y mi carrera también ha\nmejorado aún más!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "La diosa de la victoria no solo está de mi lado,\n¡está a punto de ser también mi mejor amiga!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Todo es gracias a ti y al gran Shiraoki! ¡Doy las\ngracias! ¡Oh, cuán agradecida estoy!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Ahora, me despido de ti! He expresado mis\nsentimientos más íntimos, obligada a hacerlo como\nen mis sueños. ¡Es hora de ir a casa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No entiendo del todo lo que ella dice... pero creo\nque está satisfecha con mi guía hasta ahora!"
+    }
+  ]
+}

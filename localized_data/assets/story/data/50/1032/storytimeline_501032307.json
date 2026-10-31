@@ -1,0 +1,71 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Y es Agnes Tachyon cruzando la línea de meta, en\nuna tremenda demostración de dominio!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella puede ser la encarnación viviente de un\nenigma, pero su forma de correr nunca deja de\nasombrarme.",
+      "choice_data_list": [
+        "(¡Nunca me cansaré de verte correr!)",
+        "(¡Nunca me cansaré de verte correr!)"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Mmm, ya veo... Esto es... realmente fascinante.",
+      "choice_data_list": [
+        "¡Bien hecho! ¡Corriste como el viento!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Oh, Entrenador. Estás de buen humor."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al final, no corrió en el Japanese Derby, la\ncarrera que originalmente le sugerí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero eso no significa que deba abandonar el resto\nde nuestra agenda. Todavía quiero que corra en el\nKikuka Sho.",
+      "choice_data_list": [
+        "¡A continuación, entremos en el Kikuka Sho!",
+        "¡A continuación, entremos en el Kikuka Sho!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...Sí. Supongo que sí."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "El Kikuka Sho G1 es lo siguiente en tu agenda,\ndespués de todo."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Mmm. ¡Es un buen objetivo! Sin embargo..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "De aquí en adelante, me gustaría que no pusieras\ntanta fe en mí!",
+      "choice_data_list": [
+        "¡Otra vez?!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Sí, así es."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Qué quiere decir con eso? En cualquier caso,\nparece que nuestro objetivo no ha cambiado... por\nel momento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de esta incertidumbre que persiste en el\nfondo de mi mente, ¡nuestros días de entrenamiento\npara el Kikuka Sho comienzan en serio!"
+    }
+  ]
+}

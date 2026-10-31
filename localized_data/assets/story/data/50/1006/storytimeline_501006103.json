@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy es el primer día del campamento de verano y el\ncomienzo de una rutina de entrenamiento más\nrigurosa para mejorar el rendimiento."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Así que este es el dormitorio del campamento...\nSolo tengo una pregunta.",
+      "choice_data_list": [
+        "¿Cuál es?",
+        "¿Cuál es?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Hay un buffet libre aquí?",
+      "choice_data_list": [
+        "...¿Recuerdas que esto es un campamento de\nentrenamiento, verdad?",
+        "...¿Recuerdas que esto es un campamento de\nentrenamiento, verdad?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "No lo he olvidado. Y sé lo importante que es."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Si quiero ganar todas mis carreras, tendré que\nentrenar duro."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "No te preocupes. Voy a darlo todo. Es solo que...\nla comida también es importante."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así comienza un campamento de verano lleno de\nacción con Oguri Cap."
+    }
+  ]
+}

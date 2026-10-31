@@ -1,0 +1,113 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Espectador A",
+      "text": "¡Esa fue una carrera sobresaliente, Maruzensky!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Por eso te llamamos Hot Rod! ¡Felicitaciones por\nel primer lugar!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Muchas gracias! ¡Tus ánimos ayudaron a hacer de\nesto una gran carrera!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡También lideraré el grupo en la siguiente, así\nque sigan con esos ánimos, ¡amigos! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Jajajaja!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Eh? ¿Por qué se ríen? ¿Llamar a la gente\n\"hermano\" ya no está de moda?!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oye, Entrenador! ¿Viste mi victoria impecable?",
+      "choice_data_list": [
+        "¡Sí, qué carrera tan increíble!",
+        "¡Sí, qué carrera tan increíble!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oye, Entrenador! ¿Viste mi victoria impecable?",
+      "choice_data_list": [
+        "¡Sí, qué carrera tan increíble!",
+        "¡Sí, qué carrera tan increíble!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Jeje! Tú también lo pensaste, ¿eh? ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Jeje! Tú también lo pensaste, ¿eh? ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Pero es gracias a Rudolf que la carrera fue tan\nemocionante."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Esa intensidad que sentí durante nuestra\ncarrera... Definitivamente quiero sentirla de\nnuevo."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Yo espero lo mismo."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Esa fue una carrera brillante, Maruzensky."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Jeje, ¡gracias! ¡Tú también estuviste genial!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Dijiste que querías mostrar a las estudiantes más\njóvenes algo que valiera la pena perseguir,\n¿correcto?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "No me di cuenta de que me mostrarían algo <i>que\nincluso </i>yo querría perseguir..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Volvamos a encontrarnos en la hierba algún día. La\npróxima vez, será mi turno de <i>mostrarte a </i>ti."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Absolutamente! Seguiremos empujándonos hacia\nadelante, ¡como rivales!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¡Exactamente!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de una actuación admirable contra Symboli\nRudolf, ¡nuestro siguiente objetivo es el Yasuda\nKinen!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Maruzensky fue..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sí..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Ella fue increíble..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sí..."
+    }
+  ]
+}

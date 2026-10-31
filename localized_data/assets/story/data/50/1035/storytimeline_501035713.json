@@ -1,0 +1,119 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Llevo a Winning Ticket a la enfermería para que\nrevisen su lesión..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Aw, hombre... Parece que me excedí un poquito ..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Pero no es problema! ¡Esto es apenas un rasguño!\n¡Y ya lo traté adecuadamente!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Me enfocaré <i>súper</i> duro en recuperarme, así que se\nirá en un santiamén! ¡Volvamos a practicar,\nEntrenador!",
+      "choice_data_list": [
+        "En realidad, tomemos el resto del día libre para\nestar seguros.",
+        "Muy bien, ¡vamos a por ello!",
+        "Muy bien, ¡vamos a por ello!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Me enfocaré <i>súper</i> duro en recuperarme, así que se\nirá en un santiamén! ¡Volvamos a practicar,\nEntrenador!",
+      "choice_data_list": [
+        "En realidad, tomemos el resto del día libre para\nestar seguros.",
+        "Muy bien, ¡vamos a por ello!",
+        "Muy bien, ¡vamos a por ello!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡No, lo juro, estoy totalmente bien! ¡Tengo\npequeñas lesiones todo el tiempo por entrenar!",
+      "choice_data_list": [
+        "Aún así, estoy preocupado.",
+        "Aún así, estoy preocupado."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Wow! ¿E-estás realmente tan preocupado por mí?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Eso me hace m-muy feliz!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Gracias, Entrenador! Muy bien, haré como dices."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Descansaré y me curaré completamente! ¡Entonces\npodré ir con poder total al entrenamiento mañana!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Winning Ticket cede y acepta darse tiempo para\nrecuperarse antes de entrenar de nuevo."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Woo, eso es de lo que hablo! ¡Eres el mejor!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Muy bien! ¡Voy a correr a toda velocidad de\nvuelta a la pista de entrenamiento ahora mismo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡CRAC!</i>"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Aaagh!",
+      "choice_data_list": [
+        "¿Estás bien?!",
+        "¿Estás bien?!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "S-sí, ¡por supuesto! Estoy totalmente...\ntotalmente..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "...¡nada bien en aaaabsoluto! Esto... realmente...\n¡DUELE!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Terminamos recortando la práctica mientras me\naseguro que Winning Ticket obtenga todo el\ndescanso que necesita."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Muy bien! ¡Voy a correr a toda velocidad de\nvuelta a la pista de entrenamiento ahora mismo!",
+      "choice_data_list": [
+        "¡No te excedas!",
+        "¡No te excedas!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Entendido! ¡Gracias por preocuparte por mí! Si\nduele de nuevo, ¡te lo diré de inmediato!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Pero mi poder total no perderá ante ninguna\nlesión!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Te lo mostraré durante el entrenamiento! ¡Solo\nmírame!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Considerando la lesión de Winning Ticket, volvemos\na empezar el entrenamiento después de un breve\ndescanso."
+    }
+  ]
+}

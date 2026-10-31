@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras salía con Mayano Top Gun..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Whoooa! ¡Mira allí, Entrenador!",
+      "choice_data_list": [
+        "¿Qué es?",
+        "¿Qué es?"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Mira esos peluches!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Miro en la dirección en la que Mayano Top Gun está\nseñalando y veo una máquina de garra llena de\npeluches de Umamusume."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Mira esos adorables! ¡Son tan adorables! ¡Quiero\nuno!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Pero ya gasté mi asignación..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mayano Top Gun se ve desanimada, la luz\ndesapareciendo de sus ojos.",
+      "choice_data_list": [
+        "¿Quieres que gane uno para ti?",
+        "¿Quieres que gane uno para ti?"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡¿Harías eso por mí?! ¡Muy bien, entonces seré tu\npropio equipo de animación personal!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Vamos, vamos! ¡Tú puedes! ¡Vamos, Entrenadorrrr!\n♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡De ninguna manera puedo fallar!"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Guau! ¡Gracias, Entrenador!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Jeje, ¡el personaje principal del libro también\nconsiguió montones de peluches!",
+      "choice_data_list": [
+        "¿Me excedí un poco?"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡No, para nada! ¡Es como si mi sueño se hubiera\nhecho realidad! ¡Estoy muy feliz!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Y si logro llevar todos estos a casa sin soltar\nninguno..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Piensa en el efecto que tendrá en mis músculos\ncentrales! ¡Hablando de matar dos pájaros de un\ntiro!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡No podría haber salido mejor!"
+    }
+  ]
+}

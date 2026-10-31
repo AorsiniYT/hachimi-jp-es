@@ -1,0 +1,178 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Y la ganadora es Yukino Bijin! Con esa actuación\nferoz, ha logrado un regreso a casa verdaderamente\ngrandioso."
+    },
+    {
+      "name": "Umamusume local joven",
+      "text": "¡Guau! ¡Eso sí que fue algo! ¡Yukino es increíble!"
+    },
+    {
+      "name": "Umamusume local joven",
+      "text": "Es <i>realmente</i> espectacular..."
+    },
+    {
+      "name": "Umamusume local joven",
+      "text": "¡Yukino!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Ah!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...E-espera."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Bueno, sé que no conozco todos los detalles de tu\nsituación."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Y... correr en las grandes ligas puede ser\nbastante duro..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Pero ¡me he divertido mucho persiguiendo mi sueño!\nSolo quería que lo supieras."
+    },
+    {
+      "name": "Umamusume local joven",
+      "text": "Lo sé. Yo también soy una Umamusume, ¿sabes? Se\nnota solo con verte correr."
+    },
+    {
+      "name": "Umamusume local joven",
+      "text": "Te has esforzado para brillar así."
+    },
+    {
+      "name": "Umamusume local joven",
+      "text": "Creo que seguiré corriendo un poco más."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...!"
+    },
+    {
+      "name": "Umamusume local joven",
+      "text": "La verdad, quería rendirme porque pensaba que no\ntenía talento. Pero rendirse no tiene nada de\nespecial. Puedo hacerlo en cualquier momento."
+    },
+    {
+      "name": "Umamusume local joven",
+      "text": "Por ahora, quiero ser la segunda Estrella de\nMorioka... ¿O será que apunto demasiado alto?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Hehe."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Para nada! Nosotras, las Umamusume de Morioka,\nsomos pura valentía. ¡Seguro que puedes lograrlo!"
+    },
+    {
+      "name": "Residente A del pueblo natal de Yukino",
+      "text": "¡Ah, Yukie-poo y su entrenadora! ¡Así que aquí\nestaban!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Huh?"
+    },
+    {
+      "name": "Residente A del pueblo natal de Yukino",
+      "text": "¡Es hora de tu fiesta de celebración! ¡No podemos\nempezar sin la estrella del espectáculo!",
+      "choice_data_list": [
+        "¿Yo también estoy invitada?",
+        "¿Yo también estoy invitada?"
+      ]
+    },
+    {
+      "name": "Residente A del pueblo natal de Yukino",
+      "text": "¡Claro que sí! ¡Eres una estrella entre las\nestrellas! ¡Tienes que contarnos todo sobre cómo\nle va a Yukino en la ciudad!"
+    },
+    {
+      "name": "Residente A del pueblo natal de Yukino",
+      "text": "¡Te hemos reservado una habitación en la mejor\nposada del lugar! Ah, y tengo que preguntar... ¿te\ngusta beber?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Qué?!"
+    },
+    {
+      "name": "Residente B del pueblo de Yukino",
+      "text": "¡Esta siempre ha estado llena de energía desde\nchiquita! ¡Se colaba en todas las casas que podía!"
+    },
+    {
+      "name": "Residente C del pueblo de Yukino",
+      "text": "Veo que tu vaso está vacío, entrenadora. Esta es\nmi tienda, así que ¡déjame servirte más!"
+    },
+    {
+      "name": "Residente D del pueblo de Yukino",
+      "text": "¡Vaya, la gente de ciudad sí que es diferente!\nOye, ¿tienes a alguien especial?",
+      "choice_data_list": [
+        "Eh, bueno..."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Oigan, ustedes! ¡Dejen en paz a mi entrenadora!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Perdón, entrenadora. En serio son buena gente...\nSolo se descontrolan un poco cuando se trata de\nfestejar...",
+      "choice_data_list": [
+        "Tranquila, lo estoy disfrutando"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ugh. Eres demasiado amable..."
+    },
+    {
+      "name": "Residente E del pueblo de Yukino",
+      "text": "Oye, entrenadora, ¡Yukino es nuestro orgullo!\n¡Cuídala bien, ¿eh?!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...!"
+    },
+    {
+      "name": "Gente del pueblo",
+      "text": "¡Así es! ¡Es la Estrella de Morioka!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...Dios. Están más borrachos que una cuba.",
+      "choice_data_list": [
+        "Son buena gente",
+        "Son buena onda"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...Jaja. Sí que lo están. ¡Los quiero a todos!"
+    },
+    {
+      "name": "Residente F del pueblo de Yukino",
+      "text": "¡Entrenadora! ¿Sabes bailar?!"
+    },
+    {
+      "name": "Residente F del pueblo de Yukino",
+      "text": "¡Ven aquí! ¡Yo te enseño!",
+      "choice_data_list": [
+        "Em, bueno..."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Ah! ¡Espera un momento!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Pensé que esto era una fiesta de victoria?! ¡No\nobligues a mi entrenadora a hacer un espectáculo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, pasamos una noche acogedora en Morioka,\ncalentados por las risas de los locales."
+    }
+  ]
+}

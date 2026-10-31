@@ -1,0 +1,200 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Esta misma noche, un monstruo aterrador descenderá\nsobre ti..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡OoOoOh, y ahora, para maldecirte a tiííí!"
+    },
+    {
+      "name": "Directora",
+      "text": "...¡Y corte! ¡Esa repetición fue perfecta! ¡Vaya,\nqué alegría que te pedí que interpretaras este\npapel!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Muchas gracias! Haré lo posible por ayudar a\npromover el evento \"Noche de Terror Emocionante ☆\"\ndel parque."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hoy, el parque de atracciones está grabando un\ncomercial del evento, y Super Creek interpreta a\nuno de los monstruos que atacan a los visitantes\ndel parque..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "...¿Cómo es que tu entrenador y yo tenemos que ser\nfigurantes? Solo vinimos a ver.",
+      "choice_data_list": [
+        "¡Vamos, no defraudemos!",
+        "¡Vamos, no decepcionemos!"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Eh, supongo que este <i>sí</i> es el gran momento de\nCreek. ¡Claro, haré lo que pueda!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Muchas gracias a ambos. ¡Trabajemos todos juntos\npara que este sea el mejor comercial posible! ♪"
+    },
+    {
+      "name": "Directora",
+      "text": "Bien, lo siguiente es la escena donde los extras\nhacen una huida frenética! ¡Y cuatro... tres...\ndos... ¡Acción!"
+    },
+    {
+      "name": "Hombre Lobo",
+      "text": "Grrraaawwwr!"
+    },
+    {
+      "name": "Zombis",
+      "text": "Grughhhnnnn... Ughhh...."
+    },
+    {
+      "name": "Super Creek",
+      "text": "...Ahora, únete a mí... en el sueño eterno!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Eep! ¡No puedo creer que no sean reales! ¡Me\nestán dando los escalofríos!"
+    },
+    {
+      "name": "Zombis",
+      "text": "Nghhhh... Uwaghhhh..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡AAAAAH!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Oh, cielos! ¿Tamtam está bien?"
+    },
+    {
+      "name": "Directora",
+      "text": "¡A continuación, tenemos la escena del bosque!\n¡Aquí es donde el hombre lobo le da un gran\nmordisco a nuestra entrenadora de la academia!"
+    },
+    {
+      "name": "Hombre Lobo",
+      "text": "Grrrawwrrrr! Gahhh!",
+      "choice_data_list": [
+        "Arrrrghhh!"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Entrenador! Yo... yo..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡No puedo soportarlo más! ¡Sr. Hombre Lobo, por\nfavor, déjelos en paz!"
+    },
+    {
+      "name": "Hombre Lobo",
+      "text": "Grrr... Rawr?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡¿Qué estás haciendo?! ¡Se supone que debes ser\nuna momia loca!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Oh no, te has equivocado! Soy una <i>mamá,</i> no una\n¡momia! ¿Tuviste miedo? ¿Estás herido? Puedo\nenvolverte bien con una de mis vendas. ♪"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡¿Qué?! ¡No estoy asustado, estoy actuando!\nAdemás, no es como si me hayan mordido o algo así!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "No te preocupes. ¡Déjalo en manos de Mamá! Tengo\nun montón de abrazos con tu nombre escrito por\ntodas partes. ♪"
+    },
+    {
+      "name": "Hombre Lobo",
+      "text": "G-grrrr... Grawwwr!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "...¡Oh, cielos! Bueno, si no te vas a portar bien,\nentonces tendré que lanzarte una maldición de\n\"buen chico\"!"
+    },
+    {
+      "name": "Directora",
+      "text": "...¡Corten! ¡Corten, corten, corteeeeen!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "...¿Oh? ¡Ah! ¡Lo siento mucho! ¡Me olvidé por\ncompleto de que estábamos filmando y—"
+    },
+    {
+      "name": "Directora",
+      "text": "Eso.... fue... ¡INCREÍBLE!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Eh? ¿Cómo es eso? ¿Creek no se excedió con su\nimprovisación?!"
+    },
+    {
+      "name": "Directora",
+      "text": "¡Para nada! Será una obra emotiva sobre una momia\nque despierta su instinto maternal. ¡Qué actuación\nasombrosa! Este comercial será viral."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Oh, en serio? Simplemente no podía soportar\ndejarlos a los dos tan indefensos..."
+    },
+    {
+      "name": "Directora",
+      "text": "¡Es precisamente tu realismo lo que lo hizo tan\nefectivo! ¡Tú también lo crees, verdad,\nEntrenadora?",
+      "choice_data_list": [
+        "¡Nadie más podría dar una actuación así!",
+        "No estoy segura de que esto funcione como anuncio\npara el evento..."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Es así? Bueno, me alivia escucharlo."
+    },
+    {
+      "name": "Directora",
+      "text": "¡Sí, mantengamos este impulso! ¡Vale, vamos a\nretomar desde cuando nuestra momia despierta a sus\ninstintos maternales!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Entonces, um... <i>¿debería ir así?</i>"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Tamtam, qué buena chica eres. Allá, allá..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Ya ni siquiera estás actuando! ¡Eres más\naterradora que los monstruos de verdad!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El comercial, que termina siendo una muestra de\namor maternal, se vuelve viral unos días después.\nEscucho que el evento en sí resulta ser un éxito\nmasivo desde el primer día!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "S-sí, ¡tienes toda la razón! Perdón por irme y\nhacer lo mío."
+    },
+    {
+      "name": "Directora",
+      "text": "La verdad, yo <i>sí</i> quiero capturar una toma normal,\nde hecho! ...Comencemos desde la escena con el\nataque del hombre lobo!"
+    },
+    {
+      "name": "Hombre Lobo",
+      "text": "Grrrahhh!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡AAAAH! ¡ALGUIEN AYÚDEME!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "N-no puedo ¡Por favor no les hagas daño!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de innumerables repeticiones, el elenco y\nel equipo finalmente logran terminar el rodaje!"
+    }
+  ]
+}

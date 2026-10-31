@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Super Creek",
+      "text": "Eh, Entrenador... ¿Hay algo que te preocupe?"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Estás solo? ¿Te gustaría compañía? ¿Quieres\ntumbarte en mi regazo?",
+      "choice_data_list": [
+        "¿Q-qué es esto de repente?",
+        "¿Q-qué es esto de repente?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Es que nadie ha venido a que los mime\núltimamente..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Pero realmente quiero revolverle el pelo a\nalguien, o dar abrazos grandes, o llenar a la\ngente de cumplidos..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "<i>¡Ufff...!</i> Me siento tan poco querida. ¿No me\ndejarás que te mime?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Super Creek no se siente en su mejor\nmomento porque no ha podido mimar a nadie por un\ntiempo como suele hacerlo."
+    }
+  ]
+}

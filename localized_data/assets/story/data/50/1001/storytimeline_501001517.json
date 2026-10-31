@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "En la pista de entrenamiento después de un día de\nlluvia intensa..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Urgh... Entrenador...",
+      "choice_data_list": [
+        "¿Qué pasa?!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Me tropecé y caí directamente en un charco en mi\ncamino aquí..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Ugh! ¡Y hasta me había emocionado para asegurarme\nde que la lluvia no me detuviera!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gracias a eso, creo que he perdido toda mi\nmotivación..."
+    }
+  ]
+}

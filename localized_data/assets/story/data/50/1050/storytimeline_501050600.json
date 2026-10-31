@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Taishin",
+      "text": "Bien. Hora de irse."
+    },
+    {
+      "text": "¡Narita Taishin parece estar de buen humor hoy!",
+      "choice_data_list": [
+        "¡Te ves motivada!",
+        "¡Te ves motivada!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Eh? No realmente... Soy la misma de siempre."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No soy una idiota impulsiva como Ticket. Es una\npérdida de energía alterarse tanto."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Pero ganaré. Solo espera."
+    }
+  ]
+}

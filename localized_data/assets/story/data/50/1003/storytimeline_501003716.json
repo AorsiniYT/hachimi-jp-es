@@ -1,0 +1,92 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Tokai Teio dice que quiere cambiar de ritmo, así\nque la acompaño a un karaoke."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡El karaoke es muy divertido, ¿verdad? ¡Podemos\ncantar y bailar! ♪ Y sobre todo―"
+    },
+    {
+      "name": "Personal del Karaoke",
+      "text": "Disculpe. Aquí están sus tres bandejas de fiesta."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Los aperitivos aquí son increíbles!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Uf! ¡Estoy llena! Ok, a la siguiente canción..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...¿Eh? ¿Qué pasa, entrenador? ¿Hay algo en mi\ncara?",
+      "choice_data_list": [
+        "Quizás deberías bajar el ritmo un poco."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Por qué? ¿Crees que voy a subir demasiado de peso\no algo?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Estoy bien! ¡Está bien! ¡Tengo control completo y\ntotal sobre mi salud!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Nunca haría nada que dañe mis carreras!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Justo entonces, una canción de ritmo rápido\nempieza a sonar. Tiene una rutina de baile\nintrincada que a Teio le gusta mucho."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Oh! ¡Qué buen timing!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Si estás tan preocupado, entonces mira esto! ¡Te\nmostraré mi rutina de baile definitiva del Teio\nStep!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Jah... Joo... Paso y giro..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "<i>Haa... Haa...</i> Guau, mi cuerpo se siente\nrealmente... pesado..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ohhh nooo! ¡No, no, no, NO!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡¿Qué debería hacer?! ¡Aquí! ¡Tú come todo lo que\nqueda!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Y, eh, ¿puedes darme un entrenamiento especial\npara arreglar esto ¡lo antes posible?!",
+      "choice_data_list": [
+        "¡Déjalo en mis manos!",
+        "¡Déjalo en mis manos!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ughhh! ¡Definitivamente voy a recuperarme!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, Tokai Teio logra ponerse en forma\ny es capaz de nuevo de realizar con gracia su Teio\nStep."
+    }
+  ]
+}

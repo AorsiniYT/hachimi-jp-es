@@ -1,0 +1,75 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras estoy de compras en el distrito\ncomercial..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Maldición! ¡He comprado demasiadas cosas! ¿Y\nahora qué?",
+      "choice_data_list": [
+        "¿Pasa algo?",
+        "¿Pasa algo?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Maldición! ¡He comprado demasiadas cosas! ¿Y\nahora qué?",
+      "choice_data_list": [
+        "¿Pasa algo?",
+        "¿Pasa algo?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Hola, qué tal! ¡Qué gusto verte aquí! Bueno,\nverás, ¡esta noche tengo una fiesta!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "He estado emocionado desde esta mañana, y compré\nun montón de cosas para ella."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Pero mira! El camino a casa está lleno de gente,\n¡y estoy en un verdadero aprieto!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Tampoco tengo tiempo para tomar el camino largo.\nQuizás debería solo ir por la ruta usual...",
+      "choice_data_list": [
+        "¡Toma el camino largo y corre tan rápido como\npuedas!",
+        "¡Toma el camino largo y corre tan rápido como\npuedas!",
+        "¡Imagina que te abres paso entre la multitud\nmientras corres!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Tampoco tengo tiempo para tomar el camino largo.\nQuizás debería solo ir por la ruta usual...",
+      "choice_data_list": [
+        "¡Toma el camino largo y corre tan rápido como\npuedas!",
+        "¡Toma el camino largo y corre tan rápido como\npuedas!",
+        "¡Imagina que te abres paso entre la multitud\nmientras corres!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Esa es una idea excelente! Si pongo el motor a\nfondo, ¡debería lograrlo!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Yeehaw! ¡Hora de volver a casa!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Muy bien, compañero. ¡Vamos!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Pues no me digas! ¡Qué iluminado me siento!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Yeehaw! ¡Lo intentaré de verdad!"
+    }
+  ]
+}

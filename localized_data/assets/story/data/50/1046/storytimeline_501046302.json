@@ -1,0 +1,418 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una tarde, estamos caminando por el distrito\ncomercial después de una presentación callejera,\ncuando..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oh, mira, Entrenador! ¡Algo está pasando por\nallá!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El primer premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Primeros ganan una hamburguesa de zanahoria\ndeluxe! Segundo, un fardo de zanahorias. Tercero,\nuna zanahoria sola."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡No dejes pasar esta oportunidad! ¡Consigue un\nboleto ahora y gira para tener la oportunidad de\nganar!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Aja... Veo qué está pasando aquí.",
+      "choice_data_list": [
+        "¿Qué está pasando?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Esto es una prueba."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Una prueba de mi estrellato de Umadol!",
+      "choice_data_list": [
+        "...?!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Recuerdas cómo conseguí un boleto de rifa con ese\npostre antes? Solo un boleto..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "En otras palabras..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Esto es totalmente una prueba para ver si puedo\nconseguir el primer premio con solo una\noportunidad!",
+      "choice_data_list": [
+        "¿Una prueba de <i>quién?</i>"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡La Diosa del Estrellato!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡De cualquier manera! Cuando una Umadol es\nprobada, ¡simplemente tenemos que prevalecer!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Voy a demostrar que soy el mejor recipiente para\nsus bendiciones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Smart Falcon agarra con entusiasmo la palanca de\nla máquina de rifa..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Okay, poder estelar! ¡Hora de brillar! ☆ ¡Yah! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Y la gira! Una pequeña bola de plástico cae de la\nabertura del tambor..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Caramba! ¡Tenemos un ganador del primer premio!\n¡Ven a recoger el cupón para tus vacaciones en\naguas termales! ¡Felicitaciones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Lo... LOGRE! ☆☆"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Entrenador! ¿Lo viste?!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Eso es de lo que es capaz una verdadera Umadol!",
+      "choice_data_list": [
+        "¡Felicitaciones!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Gracias! ☆ ¿Ves? ¡Mi poder de Umadol es real!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ahhh, eso me alegró el día. ♪ De todos modos,\n¿deberíamos ir a casa?"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Disculpe! ¡No olvide su premio!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ah."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Un cupón de vacaciones en aguas termales...",
+      "choice_data_list": [
+        "Qué bien, ¿no?",
+        "Qué bien, ¿no?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Sí, estoy super feliz, pero... ¿cuándo deberíamos\nir?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Acabo de hacer esa declaración de que tomaré el\nprimer lugar en cada carrera..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Tendrá que ser después de que todas mis carreras\nterminen, supongo.",
+      "choice_data_list": [
+        "Entonces puedes guardarlo para usarlo como\nrecompensa final."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Sí, supongo que es lo mejor..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Espera un segundo! ¿Por qué hablas como si no\ntuviera nada que ver contigo? ¡Tú vienes conmigo,\n¿sabes?!",
+      "choice_data_list": [
+        "¿¡Qué!?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Si es una recompensa por todo nuestro trabajo\nduro, entonces tú también lo necesitas!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Estamos trabajando hacia el mismo sueño, ¿verdad?\n¡Estamos en esto juntos! ☆"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Además, si vamos una vez que todo esto termine,\ndefinitivamente ya seré una Umadol top."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Y una Umadol top necesita un guardaespaldas\nincluso en su tiempo libre, ¿verdad?",
+      "choice_data_list": [
+        "Así que <i>por eso</i> quieres que esté allí."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...Ehe, supongo que me atrapaste. ☆"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Caray, eres tan lento...",
+      "choice_data_list": [
+        "¿Qué dijiste?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Nada! ☆ ¡Realmente estoy ansiosa por nuestro\nviaje a aguas termales!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así que al final, termino guardando nuestro cupón\nde vacaciones por ahora."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Te llevas un filete de\nhamburguesa de zanahoria de lujo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Yay! Primer premio. ☆"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "No es el primer premio... ¡Pero aún así!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡El primer premio es lo mismo que el primer lugar!\nY la hamburguesa de carne de lujo tiene <i>de lujo</i>en\nel nombre!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "En otras palabras... ¡mi poder de Umadol es<i>de\nlujo!</i>"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Eso tiene sentido, ¿verdad?!",
+      "choice_data_list": [
+        "¡Sí!",
+        "¡Sí!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Yupi! ♪"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡La cena de esta noche va a ser super especial!\n¡Por la presente te invito al Show de Cena de\nFalco! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Disfruto de una cena lujosa esa noche, mientras\nescucho a una encantada Smart Falcon cantar."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te vas a casa con un haz de\nzanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Ay!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oh!",
+      "choice_data_list": [
+        "¿Oh?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Ay, síííí! ♪"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "En fin..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Wow! ¡Mira todas estas zanahorias! ☆ ¿Cómo puedo\ncomérmelas todas? ♪",
+      "choice_data_list": [
+        "(¿Acaso va a pretender que eso no pasó?!)"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Ya sé! Esto debería ser suficiente para..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Hola a tooodos! ☆ ¡Soy yo, Falco!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡La presentación callejera de hoy tiene un bono\nespecial! Todos los que vinieron a ver..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Reciben una zanahoria! ☆ ¡Entregada personalmente\npor su servidora! ♪"
+    },
+    {
+      "name": "Uma Musume Emprendedora S",
+      "text": "Una zanahoria..."
+    },
+    {
+      "name": "Uma Musume de pelo plateado O",
+      "text": "Una zanahoria..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Espero que se queden hasta el final! ¡Hagamos que\nsea un buen espectáculo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Podría ser solo mi imaginación, pero el público de\nhoy parece un poco más grande de lo normal, al\nfinal de cuentas."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Miren aquí! ¡Has ganado el tercer premio! ¡Aquí\ntienes tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...Entrenador.",
+      "choice_data_list": [
+        "¿Sí?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Hay algo realmente importante para mí como ídolo."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Y eso es... ser libre para cantar y bailar en\ncualquier lugar y en cualquier momento que mis\nfans deseen!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Por eso ganar esta zanahoria—o debería decir esta\nzanahoria <i>micrófono</i>..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ganar este micrófono de zanahoria significa..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡He sido reconocida como una ídolo maravillosa!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Gracias, Diosa de la Fama! ¡Voy a hacer lo mejor\npara estar a la altura de tus expectativas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Brillo...</i> ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como si respondieran a las palabras de Smart\nFalcon, las estrellas asomándose entre la puesta\nde sol parecen centellear."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Ohhh, mala suerte! ¡Parece que sacaste un premio\nvacío! ¡Toma este paquete de pañuelos como premio\nde consolación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡No perdí!",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Perder una rifa no es una verdadera derrota! ¡Así\nque aún estoy llena de potencial infinito!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Yo soy... ¿verdad? Tengo que serlo..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "O qué... ¿Acaso todo mi poder estelar vale esto?\nUn paquete de pañuelos?",
+      "choice_data_list": [
+        "Falco..."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Solo bromeaba! ☆"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Un pañuelo está totalmente bien para mí! ¡Si\ntienes suficientes pañuelos, puedes construir una\nmontaña!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Por eso... Aja... jaja..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella está poniendo cara de valiente, pero la\nsonrisa de Smart Falcon parece más que un poco\nforzada."
+    }
+  ]
+}

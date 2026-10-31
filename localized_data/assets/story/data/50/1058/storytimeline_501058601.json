@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Meisho Doto",
+      "text": "Lo sabía... Al final no estoy hecha para esto...\nProbablemente cometeré otro error extraño y\nperderé de nuevo..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Perder de nuevo... Uugh, no quiero eso. Porque...\na pesar de todo, a pesar de todo..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Quiero... ganar.",
+      "choice_data_list": [
+        "¡Sé que puedes lograrlo!",
+        "¡Sé que puedes lograrlo!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡G-gracias, Trainer!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "...¡Okay! ¡V-voy a ganar!"
+    }
+  ]
+}

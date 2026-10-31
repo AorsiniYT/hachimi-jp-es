@@ -1,0 +1,170 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Smart Falcon",
+      "text": "¡Hola, Entrenador! ¡Escucha esto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras hago mi ronda por la academia,\nveo a Smart Falcon corriendo hacia mí con una gran\nsonrisa en su rostro."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Voy a ser porrista en la próxima reunión de\nTracen! ☆",
+      "choice_data_list": [
+        "¿Quieres <i>decir la </i>reunión de Tracen?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Celebrada dos veces al año en la Academia Tracen,\nla reunión de Tracen es una carrera que siempre\natrae a una multitud. Es uno de los eventos más\ngrandes de la institución."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Sí! La única y auténtica. Habrá mucha gente\nviniendo a verlo."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Me pregunto si puedo hacer que todas esas personas\nsean mis fans si bailo para ellas. ¡Eh, eh! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más tarde, esa noche, me encuentro con ella por\nsegunda vez, pero su energía es drasticamente\ndiferente."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Vamos, vamos. Puedes hacerlo. Vamos, hazlo,\nhazlo...",
+      "choice_data_list": [
+        "¿Sucedió algo?",
+        "¿Sucedió algo?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy a punto de llamarla cuando noto que habla\ncon otra Umamusume."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "<i>Suspiro...</i> Realmente quería bailar, ¿sabes?"
+    },
+    {
+      "name": "Umamusume de carreras de tierra",
+      "text": "Sí... ¿Por qué nos pusieron en el deber de la\nbandera de todos modos?"
+    },
+    {
+      "name": "Umamusume de carreras de tierra",
+      "text": "\"Debes hacer carreras de tierra.\" Esto. \"Eres muy\nbuena girando una bandera.\" Eso. Es como si nunca\ntuviéramos voz en lo que hacemos. Nadie nos va a\nnotar a este ritmo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que las dos han sido asignadas al deber de\nla bandera en lugar de los papeles principales de\nporristas.",
+      "choice_data_list": [
+        "¿Cómo debo acercarme a ellas?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras trato de pensar en algo positivo que\ndecir..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Bueno, es lo que es, así que podemos aprovechar al\nmáximo y hacer nuestro mejor esfuerzo. ¡Vamos,\nvolvamos a practicar!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Así que la sostenemos de esta manera... y la\ngiramos de esa manera. Luego hacemos esto y...\n¡listo! Fácil como pie."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus banderas flotan en el cielo de la tarde.\nMientras veo a las dos portadoras de banderas\nmanejar los pesados postes con facilidad, comienzo\na entender por qué fueron asignadas a ese papel."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con su práctica ahora completa, la compañera de\nSmart Falcon se despide, dejándome libre para\nacercarme a la Umamusume que ahora está sola."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "<i>Uf...</i> Eso tomó mucha más energía de lo que\npensé... Estoy totalmente agotada.",
+      "choice_data_list": [
+        "Giraste esa bandera como una campeona.",
+        "Giraste esa bandera como una campeona."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Guau, Entrenador! ¿Cuándo llegaste aquí?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "<i>Suspiro...</i> Realmente quería mostrar mis\nmovimientos de baile divertidos en lugar de...\nesto.",
+      "choice_data_list": [
+        "Las portadoras de banderas también son\nimportantes."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Supongo que es cierto... Tal vez aún pueda\nimpresionar a la gente de esta manera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Smart Falcon sigue un poco dudosa, pero el día de\nla reunión de Tracen llega de todos modos."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Vamos! ¡Vamos! ¡Puedes hacerlo! ¡Vamos! ¡Hazlo!\n¡Hazlo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Smart Falcon agita su bandera junto a los\nbailarines, espera su momento y, al llegar, se\nlanza al centro y lo aprovecha."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Vamos! ¡Vamos! ¡PUEDES HACERLO! ¡Vamos! ¡Hazlo!\n¡HÁZLO!"
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Guau! ¡Mira a ella con la bandera! ¡Es increíble!"
+    },
+    {
+      "name": "Fan B",
+      "text": "¡Sí! La forma en que maneja eso... Nunca he visto\na alguien tan sincronizado con su bandera.",
+      "choice_data_list": [
+        "¡Eso es! ¡Lo estás haciendo!",
+        "¡Eso es! ¡Lo estás haciendo!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "...O eso pensé."
+    },
+    {
+      "name": "Fan B",
+      "text": "¡Hombre, estas porristas están locas! ¿Estás\nviendo esto? ¡Dime quién más podría hacer una\npirámide como esa!"
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Guau, tienes razón! ¡Y mira sus hermosas\nsonrisas! Son tan geniales y divertidas que no\npuedo quitarles los ojos. ♪"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "<i>Suspiro...</i> \"Las portadoras de banderas fueron\ngeniales, pero las porristas fueron las estrellas\ndel espectáculo\" es todo lo que escucho..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Sabía que no podía competir con ellas...",
+      "choice_data_list": [
+        "Hiciste lo mejor que pudiste, ¡y eso es lo que\nimporta!",
+        "Hiciste lo mejor que pudiste, ¡y eso es lo que\nimporta!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Pero probablemente no recordarán quién soy. Tal\nvez puedan recordar el patrón de la bandera, pero\nno quién la ondeó..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Algunos resultados requieren tiempo y esfuerzo\npara lograrse, y convertirse en una Uma Doll de\nprimer nivel podría ser uno de ellos."
+    }
+  ]
+}

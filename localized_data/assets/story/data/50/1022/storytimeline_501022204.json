@@ -1,0 +1,194 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es el día de la Copa Queen Elizabeth II, y podemos\nescuchar las voces de los espectadores mientras\npasamos las gradas."
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Casi es hora! He estado esperando esto con tantas\nganas!"
+    },
+    {
+      "name": "Fan B",
+      "text": "¡Yo también! La parte más emocionante debe ser el\nenfrentamiento de \"princesas\"!"
+    },
+    {
+      "name": "Fan A",
+      "text": "Ah, ¡es Lady Fine Motion! Estoy segura de que nos\ndará una ola prim. ¡Ella es tan elegante!"
+    },
+    {
+      "name": "Fan B",
+      "text": "¡Kawakami Princess seguramente también mostrará\nsus cualidades de princesa! ...¡Probablemente!"
+    },
+    {
+      "name": "Espectadores A y B",
+      "text": "<i>Suspiro...</i> Esta carrera está destinada a ser una\ncosa de belleza...",
+      "choice_data_list": [
+        "(Me pregunto...)"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "... Una cosa de belleza, ¿eh?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Oye, tú. Dile a Fine que mejor no juegue ahí\nafuera.",
+      "choice_data_list": [
+        "Veo que has venido a ver.",
+        "Veo que has venido a ver."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Estoy segura de que será tan voluble como\nsiempre..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Y a pesar de eso, aún así impresionará a todos con\nese talento suyo."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Y... eso será el final. Solo estoy aquí para\nverificar mi teoría.",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...De todos modos, tomé un tren bala hasta aquí,\nasí que pienso sacarle el jugo a mi dinero."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incluso Air Shakur tiene su atención en la Copa\nQueen Elizabeth II de este año."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Mostremos algo de agallas!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡SÍ, AGALLAS!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Tiemblo...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡El escenario está listo para una lucha ruidosa!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Jeje! ¡Mira, Fine! ¡La multitud está realmente\nemocionada!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Bien hecho, Kawakami. Así es como una princesa\njaponesa se conduce.",
+      "color_text_info_list": [
+        "Kawakami"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Por supuesto! Me he estado preparando para este\ndía."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Quiero decir, he estado soñando con tener un\nenfrentamiento contigo... ¡Es un verdadero\nencuentro soñado!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Un encuentro soñado!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Por lo tanto! ¡Luchemos cara a cara, justa y\nlimpiamente!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Voy a masticarte y escupirte, Fine!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Yo, ehh..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¿Eh? ¿Estás bien?! ¡No lo decía en serio!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "No, ¡no es eso!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Mi corazón solo se siente revoloteando. Es como si\ntuviera piel de gallina por todas partes."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Esa burla me dejó todo... nervioso. Me pregunto\npor qué."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ja, ya veo. ¿Eso es todo?"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡La respuesta es simple! ¡Tú también quieres\npulverizar <i>a mí</i>!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Esa fue tu sed de batalla despertando! Como tu\nrival, lo considero un honor verlo."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¿Mi... sed de batalla?"
+    },
+    {
+      "name": "Hermana mayor de Fine",
+      "text": "Lo siento, Fine, pero debo irme."
+    },
+    {
+      "name": "Hermana mayor de Fine",
+      "text": "Mi rival ya me está esperando. Pero más que nada,\nmi corazón me insta a seguir adelante. Quiero\ncorrer contra ella—quiero ganar."
+    },
+    {
+      "name": "Hermana mayor de Fine",
+      "text": "Adiós, Fine. Perdóname..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Eso es... inaceptable. Si me permitiera a misma\nreconocer estos sentimientos..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "No, ¡necesito convertirme en un pilar!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "No sé realmente de qué estás hablando, pero ¡estoy\nsegura de que lo resolverás todo cuando corramos!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Escúchame, Fine! ¡Todo lo que necesitas hacer es\nenfrentarme con todo lo que tienes!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Bien!"
+    }
+  ]
+}

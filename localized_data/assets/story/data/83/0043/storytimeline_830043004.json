@@ -1,0 +1,210 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras doy un paseo por las calles..."
+    },
+    {
+      "name": "Figura de Negro A",
+      "text": "...Por aquí. Apúrate.",
+      "choice_data_list": [
+        "¿No es...?"
+      ]
+    },
+    {
+      "name": "Mujer de Esmoquin",
+      "text": "¡Señoras y señores! Les doy la más cordial\nbienvenida a nuestro torneo de casino. ¡Las\napuestas—nada más que su dignidad como gran\napostador! Compitan a su antojo, ¡solo por hoy! ♪",
+      "choice_data_list": [
+        "¿Q-qué es este lugar?"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Oh, por todos los cielos. Pensé que vi un pez\nfuera del agua, y aquí estás de nuevo."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Antes de que se les ocurra alguna idea graciosa,\neste torneo es completamente legítimo, ¿vale? A\npesar de los entrometidos no registrados metiendo\nsus narices."
+    },
+    {
+      "name": "Multitud",
+      "text": "¡Psst! Miren, es ella... ¡La legendaria dealer—el\nÁngel de la Noche! ¡Oh, no puedo creer que la vaya\na ver en persona!",
+      "choice_data_list": [
+        "¿No es la mujer con la que nos topamos junto al\nrío?"
+      ]
+    },
+    {
+      "name": "Ángel de la Noche",
+      "text": "Oh, vaya. ¿Quién tenemos aquí? Jeje. Tiempo sin\nverte."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Bueno, bueno, bueno. Parece que <i>Tu Santidad</i> es\nbastante popular."
+    },
+    {
+      "name": "Ángel de la Noche",
+      "text": "De hecho, y te he elegido como mi oponente. ¿Qué\ndices? ¿Te atreves a poner tu orgullo en juego?"
+    },
+    {
+      "name": "Multitud",
+      "text": "¡No puede ser! ¿Un oponente seleccionado\npersonalmente por el Ángel en persona? ¿Quién es\nesa? <i>¡Jej!</i>Nadie le gana al Ángel..."
+    },
+    {
+      "name": "Ángel de la Noche",
+      "text": "El nombre del juego es la ruleta. Pones tus\nfichas, y yo giraré la rueda. Decidiremos esto con\nuna sola ronda, simple y sencillo."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿No supone ningún problema apostar por un color en\nvez de por un número?"
+    },
+    {
+      "name": "Ángel de la Noche",
+      "text": "Para nada. Elige: negro o rojo. Muy bien, hora de\ngirar la rueda."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Ángel lanza la bola blanca de ruleta sobre la\nrueda giratoria. Produce un sonido extraño y\nsatisfactorio mientras la multitud observa con\nmanos sudorosas y aliento contenido."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...",
+      "choice_data_list": [
+        "¿No vas a mirar?",
+        "¿No vas a mirar?"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Recuerdas cuando hablamos de los hábitos?",
+      "choice_data_list": [
+        "¿Te refieres como con Special Week?"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Sí. La competencia pone a tu cuerpo en un estado\ncombativo, sin importar contra quién estés. Es por\neso que los hábitos se desarrollan sin que uno se\ndé cuenta."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Por ejemplo, cuando el Ángel aquí apunta a un\nbolsillo específico, tiene el hábito de hacer\nrodar la bola a cierto ritmo."
+    },
+    {
+      "name": "Ángel de la Noche",
+      "text": "...?!",
+      "choice_data_list": [
+        "¿Realmente puedes notar algo así?",
+        "¿Realmente puedes notar algo así?"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Ayuda que una dealer tan conocida como ella tenga\nuna cantidad extensa de material para estudiar."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Además, como alguien que vive y respira las\ncarreras, he desarrollado un reloj interno para\ncontar mis vueltas. Si combino eso con lo que sé\nsobre los hábitos del Ángel..."
+    },
+    {
+      "name": "Ángel de la Noche",
+      "text": "¡E-eso es suficiente! Empecemos de nuevo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El juego se detiene de repente. Deciden reanudar\nla partida después de un breve descanso.",
+      "choice_data_list": [
+        "Yo y mi gran boca...",
+        "Yo y mi gran boca..."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Te preocupa que puedas haber arruinado mi plan?\nJaja... No te preocupes."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Solo estaba fingiendo cuando dije todo eso sobre\nsus hábitos."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Y viste lo alterada que se puso? Valió la pena\ncon creces. Con esto, ahora sabe que los trucos\nsucios no funcionarán."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Muy bien, hagámoslo. No más trucos, solo una\nprueba genuina de suerte."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Apuesto al negro. ¿Quién quiere apostar a que\nel Ángel cae?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al oír eso, el Ángel de la Noche proclama\nrápidamente que las apuestas están cerradas. Poco\ndespués, la bola blanca de la ruleta va rodando y\nrodando, hasta que..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La multitud se vuelve loca. La bola ha caído en\nuna casilla negra. Lo que significa que...\nNakayama Festa ha ganado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero el verdadero alboroto viene después del\njuego, cuando todos se dan cuenta de que ella ha\ndesaparecido de las instalaciones sin jugar con\nnadie más."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Días después, veo a Nakayama Festa en la academia.",
+      "choice_data_list": [
+        "Tú...",
+        "Tú..."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Oh, eres tú. Perdón por dejarte en medio de todo\nel alboroto el otro día, pero no puedes culpar a\nnadie por querer escapar de todo ese revuelo."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Después de todo, no iba tras la fama. Solo quería\nun desafío."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Noto que hay un autobús estacionado frente a ella.\nAhora que lo pienso, las noticias de la mañana\ndijeron que corre hoy.",
+      "choice_data_list": [
+        "Hoy eres la octava favorita, ¿cierto?"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Je, así que has oído. Bueno..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Oye, blanco o negro. ¿A cuál quieres apostar?",
+      "choice_data_list": [
+        "...Al blanco, supongo."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Jaja... Sí, yo también. Muy bien, nos vemos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo la sensación de que puede superar a\ncualquier corredora y reclamar la victoria hoy."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Oye, blanco o negro. ¿A cuál quieres apostar?",
+      "choice_data_list": [
+        "Bueno..."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "No te presiones para responder. Es normal dudar."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Yo apostaría al blanco, sin embargo. No importa\nquién sea mi oponente, lo superaré. Nos vemos por\nahí."
+    }
+  ]
+}

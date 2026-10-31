@@ -1,0 +1,84 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Grass Wonder",
+      "text": "..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Mis disculpas, pero ¿puedo salir a tomar un poco\nde aire? Necesito sentir la brisa.",
+      "choice_data_list": [
+        "Iré contigo.",
+        "Iré contigo.",
+        "Hablemos primero de la carrera de hoy."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Mis disculpas, pero ¿puedo salir a tomar un poco\nde aire? Necesito sentir la brisa.",
+      "choice_data_list": [
+        "Iré contigo.",
+        "Iré contigo.",
+        "Hablemos primero de la carrera de hoy."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Está bien, Entrenador. No quiero causarte\nmolestias.",
+      "choice_data_list": [
+        "No deberías estar sola."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Por qué? Esta pérdida fue mi culpa y solo mía.",
+      "choice_data_list": [
+        "Es un largo viaje hasta la cima. Todos necesitan\nun empujón de vez en cuando."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Un empujón..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Punto aceptado. Seguiré escalando, ¿entonces me\nprestarías tu fuerza, Entrenador?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El cabello de Grass Wonder se ondula en la brisa\nmientras discutimos lo que llevó a la derrota de\nhoy."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "...Preferiría estar en otro lugar si es posible.\nSé que es una petición egoísta."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Después de todas las veces que he regresado a esta\nhabitación tras una derrota... solo la vista de\nella me llena de frustración.",
+      "choice_data_list": [
+        "Es exactamente por eso que deberíamos quedarnos.",
+        "Es exactamente por eso que deberíamos quedarnos."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Podrías explicar?",
+      "choice_data_list": [
+        "Tienes que enfrentar ese sentimiento."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "...Entiendo. No hacerlo sería huir."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Muy bien. Enfrentaré esta frustración ahora para\nque no me vuelva a suceder."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después, Grass Wonder y yo evaluamos todo lo que\nsalió mal en la carrera de hoy."
+    }
+  ]
+}

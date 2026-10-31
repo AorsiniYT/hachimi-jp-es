@@ -1,0 +1,20 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Matikanefukukitaru está completamente\ndesconcertada por su pérdida en el Kinko Sho."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Superada por el shock y las lágrimas, ella teme\nque tanto la buena fortuna como los dioses la han\nabandonado. Ella me suplica que la libere de esta\npesadilla."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus lágrimas no se detienen—ni siquiera cuando le\ndigo que nuestro próximo objetivo es la Takarazuka\nKinen.",
+      "color_text_info_list": [
+        "Takarazuka Kinen"
+      ]
+    }
+  ]
+}

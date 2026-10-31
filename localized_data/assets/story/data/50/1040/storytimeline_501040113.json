@@ -1,0 +1,272 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fotógrafa",
+      "text": "¡Oh, genial, City! Ahora, para la siguiente,\nquiero que te relajes..."
+    },
+    {
+      "name": "Fotógrafa",
+      "text": "¡Así! Un vistazo a la verdadera tú mientras pasas\nel día en la escuela... ¡Perfecto!"
+    },
+    {
+      "name": "Fotógrafa",
+      "text": "Bueno, voy a revisar lo que tenemos hasta ahora.\n¡Pueden tomar un descanso!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Vale.",
+      "choice_data_list": [
+        "Buen trabajo, City."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Tú también. No es común que vengas conmigo a mis\nsesiones. Entonces, ¿qué te parece?",
+      "choice_data_list": [
+        "¡Se siente muy profesional!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Bueno, somos profesionales."
+    },
+    {
+      "name": "Gold City",
+      "text": "Aunque se siente un poco raro hacer una sesión en\nla escuela a la que voy todos los días."
+    },
+    {
+      "text": "Todo empezó hace unos días. Gold City me pidió\nayuda para conseguir permiso para hacer una sesión\nfotográfica en la academia."
+    },
+    {
+      "name": "Gold City",
+      "text": "Es para la revista para la que soy modelo\nresidente. Están haciendo un reportaje sobre mi\ndebut."
+    },
+    {
+      "name": "Gold City",
+      "text": "Así que quieren algunas fotos mostrándome en la\nacademia—ya sabes, para capturar mi vida diaria.",
+      "choice_data_list": [
+        "¡Claro, yo pregunto!"
+      ],
+      "color_text_info_list": [
+        "★★★"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Gracias. Yo contactaré a la editora para que se\ncomunique."
+    },
+    {
+      "name": "Gold City",
+      "text": "Si estás interesada, puedes venir a ver la sesión.\nAunque literalmente es solo tomar fotos."
+    },
+    {
+      "text": "Tenía curiosidad por ver cómo es ella trabajando,\nasí que... aquí estoy."
+    },
+    {
+      "name": "Personal de sesión fotográfica",
+      "text": "¡Entrenador! Realmente agradecemos que hayas\norganizado todo esto para nosotros. ¡Gracias a tu\nayuda, esto será un gran reportaje!"
+    },
+    {
+      "name": "Personal de sesión fotográfica",
+      "text": "¡Creo que tu presencia ayudó a City a relajarse\nmás de lo normal también!"
+    },
+    {
+      "name": "Gold City",
+      "text": "No es verdad. El entrenador no tiene nada que ver\ncon eso—en serio."
+    },
+    {
+      "name": "Personal de sesión fotográfica",
+      "text": "¡Lo descartaste rápido! Escucha, he estado\ntrabajando contigo desde que eras una niña, y\nnunca te había visto actuar de una manera tan\namable y gentil."
+    },
+    {
+      "text": "Como modelo regular de esta revista, Gold City\nparece llevarse bien con todo el personal de la\nsesión."
+    },
+    {
+      "text": "Pero..."
+    },
+    {
+      "name": "Personal de sesión fotográfica",
+      "text": "Eres realmente increíble, City."
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Eh? ¿En qué sentido?"
+    },
+    {
+      "name": "Personal de sesión fotográfica",
+      "text": "¡Pensar que ya eres una modelo exitosa, pero\nademás quieres correr en la Serie Twinkle encima!"
+    },
+    {
+      "name": "Personal de sesión fotográfica",
+      "text": "Me pregunto si esa ambición inquebrantable tuya es\nla verdadera clave de tu belleza."
+    },
+    {
+      "name": "Gold City",
+      "text": "¡...!"
+    },
+    {
+      "name": "Personal de sesión fotográfica",
+      "text": "Todo el departamento editorial te respeta. A pesar\nde tu popularidad, tu autodisciplina hace que\nsigas esforzándote por mejorar."
+    },
+    {
+      "name": "Gold City",
+      "text": "Gracias... Pero la superación personal no es la\nrazón por la que corro."
+    },
+    {
+      "name": "Personal de sesión fotográfica",
+      "text": "Lo sé. No he olvidado lo que dijiste sobre querer\nmantener cierta distancia de tu identidad como\nmodelo."
+    },
+    {
+      "name": "Personal de sesión fotográfica",
+      "text": "Pero eso significa que quieres refinar aún más tu\nimagen, ¿verdad? ¡Casi como si fueras un monje\nbuscando la iluminación!"
+    },
+    {
+      "name": "Personal de sesión fotográfica",
+      "text": "Estoy segura de que podrás usar lo que ganes\ncorriendo para beneficiarte en el futuro. ¡Te\napoyo!"
+    },
+    {
+      "name": "Gold City",
+      "text": "No es eso. La razón por la que corro es..."
+    },
+    {
+      "name": "Personal de sesión fotográfica",
+      "text": "¿Hum?"
+    },
+    {
+      "name": "Gold City",
+      "text": "No importa, solo estaba pensando en tu cumplido."
+    },
+    {
+      "name": "Gold City",
+      "text": "Me hizo... feliz. Jeje...",
+      "choice_data_list": [
+        "(Su voz suena un poco temblorosa...)"
+      ]
+    },
+    {
+      "text": "¿Es frustración o decepción? Quizás ella se siente\nherida porque su intento serio de correr se esté\ntratando como un mero accesorio."
+    },
+    {
+      "text": "Al darme cuenta de esto, decido que no puedo\ncallarme.",
+      "choice_data_list": [
+        "Espero que prestes atención a su carrera."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Eh? ...¿Entrenador?",
+      "choice_data_list": [
+        "La razón por la que City corre es por el \"ahora\"."
+      ]
+    },
+    {
+      "name": "Personal de sesión fotográfica",
+      "text": "Um... ¿Vale?",
+      "choice_data_list": [
+        "Lo entenderás si la ves correr. Así que ¡por\nfavor, ven a ver!"
+      ]
+    },
+    {
+      "name": "Personal de sesión fotográfica",
+      "text": "Um, por supuesto, el equipo editorial va a venir,\npero..."
+    },
+    {
+      "name": "Personal de sesión fotográfica",
+      "text": "Uh... ¿reanudamos la sesión, sí? Se nos está\nacabando el tiempo. ¿Estás lista, City?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Sí, puedo ir."
+    },
+    {
+      "name": "Personal de sesión fotográfica",
+      "text": "Vale. ¡Entrenador, por favor quédate y mira!"
+    },
+    {
+      "name": "Personal de sesión fotográfica",
+      "text": "¿Toqué... algo que no debía?"
+    },
+    {
+      "name": "Gold City",
+      "text": "No..."
+    },
+    {
+      "name": "Personal de sesión fotográfica",
+      "text": "Bueno, ¡buen trabajo hoy! ¡Espera a que se imprima\nen la revista!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Gracias."
+    },
+    {
+      "name": "Gold City",
+      "text": "Entrenador, sobre lo que dijiste durante el\ndescanso...",
+      "choice_data_list": [
+        "Debí haberme metido en mis asuntos."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Me alegra que te des cuenta. Mis compañeros son\ntodas muy buenas personas, así que solo ten\ncuidado.",
+      "choice_data_list": [
+        "Pero no quería verte forzando una sonrisa.",
+        "Pero no quería verte forzando una sonrisa."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¡...!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Así que... te diste cuenta."
+    },
+    {
+      "name": "Gold City",
+      "text": "Sé que solo tienen buenas intenciones. Sé que me\nrespetan de verdad."
+    },
+    {
+      "name": "Gold City",
+      "text": "Considerando mi historial, es solo natural que\nconsideren las carreras como mi trabajo\nsecundario."
+    },
+    {
+      "name": "Gold City",
+      "text": "Ya soy consciente de todo eso, así que puedo\nprescindir de la ayuda forzada."
+    },
+    {
+      "name": "Gold City",
+      "text": "O al menos, debería poder. Pero tienes razón...\n<i>Fue</i> impactante escucharlo."
+    },
+    {
+      "name": "Gold City",
+      "text": "Especialmente de alguien que ha estado a mi lado\ndesde que era pequeña..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Es como si simplemente no supieran cómo me siento.",
+      "choice_data_list": [
+        "Entonces comunícaselo a través de tu carrera."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Eso es lo que intento hacer. No necesito que me lo\ndigas."
+    },
+    {
+      "name": "Gold City",
+      "text": "Aún así... ya me entiendes, ¿verdad?",
+      "choice_data_list": [
+        "¿Qué quieres decir?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Nada. ¡Vamos a practicar!"
+    }
+  ]
+}

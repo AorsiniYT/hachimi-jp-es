@@ -1,0 +1,188 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día, mientras estoy trabajando en mi oficina..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡No puedo perder la competencia de hoy!"
+    },
+    {
+      "text": "Parece que Taiki Shuttle se está animando. Aunque\nno recuerdo haber programado ninguna carrera para\nhoy..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Esta lo decide todo... Llegaría a llamarlo mi\nenfrentamiento final."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Vamos, Entrenador—¡tú también vienes! ¡Quiero que\npresencies mi momento de gloria!"
+    },
+    {
+      "text": "Me encuentro siendo llevado a un lugar que nunca\nhubiera imaginado..."
+    },
+    {
+      "name": "Dama del Rodeo",
+      "text": "¡Es hora de la competencia local de rodeo, gente!\n¡Vamos a ensillar para un poco de paseo!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Yujuu!",
+      "choice_data_list": [
+        "¿Competencia local de rodeo?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Sí, señor! ¡Es el día que todos hemos estado\nesperando!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Pero solo una persona puede llevarse toda la\ngloria!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Aww... No pude aguantar más de cinco segundos..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Este es un desafío complicado!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Si al menos hubiera aguantado solo un minuto más,\nesos diez kilogramos de bistec hubieran sido\nmíos..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Sí... Yo también quería comerlo..."
+    },
+    {
+      "text": "Suena como que hay un gran premio de diez\nkilogramos de bistec por ganar."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Uf... Me están dando escalofríos."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Mi familia en casa solía decir, \"Solo una\nverdadera vaquera sabe cómo manejar un toro\nbravo.\""
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡No importa si es real o mecánico!",
+      "choice_data_list": [
+        "Realmente le estás poniendo todo en esto."
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Apuesto a que sí! Cuando estoy con este atuendo,\npuedes estar segura de que voy en serio!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Sé la forma real de hacer que un toro salvaje se\ncomporte. ¡Pongo mi orgullo en ello!"
+    },
+    {
+      "name": "Dama del Rodeo",
+      "text": "¡Muy bien, gente! A continuación es la concursante\nnúmero nueve—¡Taiki Shuttle!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Así es! Mi nombre es Taiki Shuttle, y soy una\nvaquera de verdad!"
+    },
+    {
+      "text": "Taiki camina con confianza hacia el toro mecánico."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Yujuu! ¡Hora de que esta vaquera les muestre cómo\nse hace!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Wujuu! ¡Parece que soy la campeona!"
+    },
+    {
+      "name": "Fan A",
+      "text": "Ella montó ese toro como si fuera segunda\nnaturaleza... ¡Apuesto a que el premio de bistec\nva para ella!"
+    },
+    {
+      "name": "Fan B",
+      "text": "¡Wow! ¡Estuviste increíble allá afuera!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Jeje! ♪ Gracias por el apoyo, gente. Eso incluye\na ti también, Entrenador!"
+    },
+    {
+      "name": "Dama del Rodeo",
+      "text": "¡Aquí están tus diez kilogramos de bistec! No\nolvides llevarte todo esto a casa, ¿vale?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh, gracias! Estaba tan envuelta en el rodeo, que\n¡olvidé que incluso había un premio!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Perdón, ¿tienes un segundo?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Estuviste increíble. La forma en que te aferraste\nsin importar qué. Y cómo manejaste esos giros\nrepentinos también."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Me gustaría que me dieras un consejo. ¿Cómo puedo\nllegar a tu nivel?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh! Bueno, déjame pensarlo..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Estoy segura de que <i>ya</i> lo has descubierto,\nEntrenador!¿Por qué no me lo dices por mí?",
+      "choice_data_list": [
+        "Necesitas estar obsesionado con la comida.",
+        "Necesitas espíritu de vaquera."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Así que eso es—apetito. Un espíritu que muere de\nhambre por comida. Quizás debería haber renunciado\nal bistec antes del rodeo para motivación."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Sí, el apetito es clave. ¡Apuesto a que haría casi\ncualquier cosa por un jugoso bistec..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Espera, no! No pienses que soy algún tipo de\nglotón o algo así!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Entrenador, hijo de perra! ¡Yo también puedo\nenojarme, ¿sabes?"
+    },
+    {
+      "text": "Después de eso, Taiki Shuttle le enseña a Oguri\nCap los secretos para montar toros."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Lo sabes!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Ser una vaquera significa tener las agallas para\nrepresentar toda mi ciudad natal. ¡De ahí viene mi\npoder!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Entiendo muy bien ese sentimiento. Gracias.\nProbablemente debiera esforzarme más."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Jaja! Ese es el espíritu, Oguri!"
+    },
+    {
+      "text": "Taiki Shuttle se despide de Oguri Cap, feliz y\ncontenta."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es una noche helada durante la temporada festiva.\nEstoy trabajando en mi oficina cuando..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ho, ho, ho! ¡Felices fiestas!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Todavía trabajando duro en esta noche festiva? No\ntemas—¡Papá Noel ha llegado solo para ti!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...¿Bueno? ¿No estás emocionado?",
+      "choice_data_list": [
+        "¿Dónde está mi regalo?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Eh? ¿Se suponía que debía traer algo?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ho, ho, ho! Bueno, ¡este año Papá Noel tiene\npresupuesto ajustado!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Solo mi presencia debería ser suficiente para\ncalentar el corazón!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ahora debo retirarme! ¡Adiós!",
+      "choice_data_list": [
+        "(...¿De qué se trató todo eso?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un poco después..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ho, ho, ho! ¡Felices fiestas!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ho, ho, ho! ¡Felices fiestas!",
+      "choice_data_list": [
+        "¿Más Papá Noel?!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Bueno, te veías un poco solo así que traje a\nMayano conmigo!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Si paso las fiestas con un adulto, ¡seguro que\ntambién empezaré a sentirme maduro!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Sí, tuvimos nuestra última fiesta navideña en la\nresidencia con los demás..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Entonces este año organicemos una fiesta <i>adulta</i>de\nvacaciones! Lo que significa que necesitamos\nconseguir un pavo gigante!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Guau! ¡Los he visto en las películas! ¡Yay! ¡Ser\nadulto es genial!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ok, Entrenador, tú prepara el pavo mientras\nnosotros hacemos que la fiesta esté animada!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No estoy segura de por qué soy yo el que\nentretiene a Papá Noel, pero es un evento\nmaravilloso y cálido de todos modos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un poco después..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ho, ho, ho! ¡Felices fiestas!",
+      "choice_data_list": [
+        "¡¿Regresaste?!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ho, ho, ho! Papá Noel tiene muchas encarnaciones,\n¡no lo sabías!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Eh, ¡así que me aseguré de traer regalos esta vez!\n¡Solo espera aquí mientras los traigo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tokai Teio comienza a alinear una serie de\nmisteriosas cajas blancas en la mesa."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ta-dah! ¡Aquí están todos los regalos de Teio\nSanta!",
+      "choice_data_list": [
+        "¿Qué son?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Preparé un montón de platos! ¡Hay algo diferente\nen cada caja!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Pero servirlo normalmente sería aburrido, ¿verdad?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Tienes que comer cada uno en el orden en que lo\nabras!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "La verdad es... no tenía idea de qué tipo de\nregalo comprarte."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Pero cuando te vi trabajando en el frío, supe\nexactamente lo que necesitabas!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "No soy muy buena cocinera, pero hoy es un día\nespecial. ¡Apúrate y come mientras aún está\ncaliente!",
+      "choice_data_list": [
+        "¡No me importa!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Jeje... ¡Buen provecho!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...¡Ahahaha! ¡Abriste el pastel primero! ¡Parece\nque empezaste con el postre!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tanto mi corazón como mi cuerpo se calientan con\nla sorpresa de Teio. Tengo una noche maravillosa."
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Ella no ganó, pero aun así, Vodka mostró su\ndeterminación y corrió una gran carrera!"
+    },
+    {
+      "name": "Vodka",
+      "text": "<i>Jadeando, jadeando...</i> Solo... un poco más!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Estuve tan cerca! ¡Uf! ¡Maldición! ¡Grrr!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Todos eran muy rápidos... El Derby no es broma..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Esto es por lo que he estado trabajando todo este\ntiempo... ¡Uf!",
+      "choice_data_list": [
+        "Lo hiciste muy bien, Vodka.",
+        "Lo hiciste muy bien, Vodka."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Lo sé. Pero aún estoy frustrada... <i>Snif...</i>",
+      "choice_data_list": [
+        "¿Estás llorando?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "No... Yo... Ni siquiera sé por qué estoy llorando."
+    },
+    {
+      "name": "Vodka",
+      "text": "Todo lo que sé es que me alegro de haber\ncorrido... ¡Uf! ¿Por qué el cielo tiene que ser\ntan azul?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vodka solo tuvo una oportunidad en el Derby, y\nella lo corrió hasta el final sin comprometer sus\nideales."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No sé si fue la elección correcta, pero al menos,\nVodka cumplió su sueño de correr en el Derby."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En la rueda de prensa..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡El ganador fue realmente increíble! No hay duda\nde eso. Dicho esto..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Quién sabe qué pasará después? Mira, tengo el\nplan perfecto para ponerme aún mejor!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "De alguna manera, tengo un mal presentimiento\nsobre esto."
+    },
+    {
+      "name": "Reportero",
+      "text": "¿Podría compartirlo con nosotros, Vodka?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Para afinar mis habilidades... ¡Voy a correr\ninternacionalmente!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Me pondré súper fuerte y haré que todos coman mi\npolvo!"
+    },
+    {
+      "name": "Reporteras",
+      "text": "<i>¡Whoaaaa!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Correr... internacionalmente? Parado detrás de\nlos reporteros, me pongo las manos en la cabeza."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más tarde esa noche..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Lo siento mucho por antes! No quise decir nada.\nSolo..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Me dejé llevar por el momento! Me emocioné\ndemasiado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Considerando las habilidades de Vodka,\nprobablemente sea mejor volver a la gira de la\nTiara y prepararse para correr en el Shuka Sho."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si intentáramos meter una carrera internacional,\nni siquiera puedo imaginar la carga que pondría\nsobre ella.",
+      "choice_data_list": [
+        "¿De verdad quieres ir al extranjero?",
+        "¿De verdad quieres ir al extranjero?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Sí... Lo dije, así que no hay vuelta atrás ahora.\nYo tampoco quiero retractarme."
+    },
+    {
+      "name": "Vodka",
+      "text": "No quiero ser esa Umamusume que solo hizo \"bien\"\nen el Derby... Y esta es la única forma de avanzar\nque se me ocurre."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Verdad, Entrenador? ...¿No?",
+      "choice_data_list": [
+        "...¿Quizás hacemos el Shuka Sho después de que\nregresemos?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡No! No el Shuka Sho. Dije que quiero ir al\nextranjero..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Espera. ¿Después de que regresemos?",
+      "choice_data_list": [
+        "Sí. Después de que termines de correr\ninternacionalmente."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Sí, Entrenador!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Así es! Así tiene que ser, compañero!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡De verdad me entiendes! Y tienes razón, será\notoño cuando regresemos!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Vamos al extranjero! Y luego regresaré y\nconquistaré el Shuka Sho como una Umamusume\nmundialmente famosa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Y así nuestra agenda cambia para incluir correr\ninternacionalmente."
+    },
+    {
+      "name": "Vodka",
+      "text": "Déjame decirlo una vez más. Gracias por dejarme\ncorrer el Derby, Entrenador."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Pero nuestro viaje aún no termina! ¡Los dos\npodemos ir aún más lejos!"
+    }
+  ]
+}

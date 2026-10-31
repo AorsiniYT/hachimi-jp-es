@@ -1,0 +1,227 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Unos días después de escuchar los rumores sobre\nTosen Jordan, la veo cuando paso por las puertas\nde la escuela."
+    },
+    {
+      "name": "Compañera de clase",
+      "text": "Ah, ¡allí estás, Jordan! El profesor te está\nbuscando."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Sí, lo sé. La escuela me llamó. Voy para allá\nahora."
+    },
+    {
+      "name": "Compañera de clase",
+      "text": "¡Bueno, más te vale darte prisa! Parecía muy\nenojada... No puedes faltar a clase <i>y</i>\npráctica.Podrían expulsarte, ¿sabes?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Sí... Lo sé."
+    },
+    {
+      "name": "Profesora A",
+      "text": "Saltarte las clases, no presentarte a los\nexámenes... Todo eso podría pasar por alto si\nestuvieras participando en carreras, pero ni\nsiquiera te entrenas."
+    },
+    {
+      "name": "Profesora A",
+      "text": "¿Qué pasa aquí, Jordan? Sé que estabas lesionada,\npero nunca dejaste que eso te afectara antes... Si\nnecesitas a alguien con quien hablar, sabes que\nestoy aquí para ti."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "No lo sé. Estoy, como... en una racha baja,\nsupongo."
+    },
+    {
+      "name": "Profesora A",
+      "text": "Por favor, tómate esto en serio... Estoy\npreocupado por ti. ¿Es un problema de motivación?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "No. Lo. Sé. Punto. Fin de la historia."
+    },
+    {
+      "name": "Profesora A",
+      "text": "<i>Suspiro...</i> Está bien. Terminemos esta reunión por\nahora. Hice un resumen de las lecciones de esta\nsemana. Una vez que lo completes, puedes irte."
+    },
+    {
+      "name": "Profesora A",
+      "text": "Cuando te sientas lista para correr de nuevo,\nsabes dónde encontrarme."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "En serio, ¿qué se suponía que debía decir? Ni\nsiquiera yo sé cuál es el problema."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Horas después de verla en la puerta, la encuentro\nen una sala vacía de la academia, luchando con una\nhoja de ejercicios."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "\"Resuelve con un número natural, asumiendo que la\nraíz cuadrada también es un úmero natural.\"¿Qué\nsignifica eso? ¿Como, números en la naturaleza?\n¿Qué dice <i>eso</i>? ¿Árboles?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Uf! Esto es código directo. ¿Cómo se supone que\ndebo saber qué hacer? Esto es un rollo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Golpea su cabeza dramáticamente contra el\nescritorio. Al hacerlo, la hoja de trabajo en sus\nmanos se engancha en algo, haciéndola rasgar."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Genial. Justo... genial. Estoy... más que lista.\nEstoy muerta."
+    },
+    {
+      "name": "Profesora A",
+      "text": "¿Cómo va el trabajo de casa... eh? ¿Rasgaste tu\nhoja de trabajo?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Eh? Ah, bueno... supongo que sí."
+    },
+    {
+      "name": "Profesora A",
+      "text": "Bueno... te has hecho claro. Veo que no tienes\nintención de mejorar."
+    },
+    {
+      "name": "Profesora A",
+      "text": "Pero DEBES aprender a usar tus palabras. No puedo\ncreer que rasgaras tu hoja de trabajo solo para\nprobar un punto.",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por lo que vi, el rasgar la hoja de trabajo fue\nsolo un accidente desafortunado. Por supuesto, si\nella simplemente explica lo que sucedió, estoy\nsegura de que el profesor entenderá."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Da igual..."
+    },
+    {
+      "name": "Profesora A",
+      "text": "Estoy <i>intentando</i> ayudarte, ¿sabes? Pero si no\ncolaboras conmigo, no puedo hacer nada."
+    },
+    {
+      "name": "Profesora A",
+      "text": "¿Has perdido realmente tu impulso? ¿De verdad\nquieres dejar de correr? ¿De verdad?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "No lo sé. ¿Cómo se supone que debo saber?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Pero si eso es cómo todos lo ven, entonces no\nsuena tan fuera de lugar para mí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En lugar de aclarar su nombre, simplemente le da\nla espalda al profesor y se va. Es como si hubiera\nrenunciado... Decido seguir para asegurarme de que\nesté bien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuando finalmente la alcanzo, la encuentro\ncubriendo cuidadosamente su uña del pie lesionada\ncon fortalecedor. Otros productos de cuidado de\nuñas están dispuestos alrededor de ella."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "<i>Suspiro...</i> Uña del pie estúpida. Cuidado médico\nestúpido. Tickezo estúpido, siempre llorando\ncuando lo trato en nuestra habitación, haciéndome\nhacerlo afuera. Todo es tan... estúpido."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Si no fuera por mi estúpida uña del pie débil, tal\nvez yo—uf. Olvídalo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Suena exhausta, pero por su aplicación cuidadosa,\nestá claro que está tratando su lesión lo mejor\nque puede."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No puedo imaginar que alguien que se cuida tan\nbien quiera dejar de correr."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Por qué se niega a correr?",
+      "choice_data_list": [
+        "(Me gustaría escuchar cómo se siente realmente.)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo mi oportunidad unos días después, cuando veo\na Tosen Jordan saltándose las clases y deambulando\nsin rumbo por la ciudad."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Eh? ¿Qué quiere un entrenador de la academia\nconmigo?",
+      "choice_data_list": [
+        "Solo quiero hablar.",
+        "Solo quiero hablar."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Hablar? Ah... ¿Te envió la escuela a hablar\nconmigo? Estoy segura de que tener a una\nestudiante saltándose las clases y entrenando es\nun gran problema para la administración."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Lo siento, pero he perdido la motivación o algo\nasí. No pierdas tu tiempo conmigo.",
+      "choice_data_list": [
+        "Te vi cuidando tu dedo del pie el otro día."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿¡Qué?! ¿¡Cuándo?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me disculpo rápidamente por no decir nada en ese\nmomento, pero explico que he querido hablar con\nella desde entonces.",
+      "choice_data_list": [
+        "No puedo sacudir la sensación de que todavía\nquieres correr."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Uh... ¿Porque estaba cuidando la uña de mi pie? Lo\ntienes todo mal. Solo me siento raro si no la\ncuido regularmente."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "No puedes saber si quiero correr solo por <i>eso.</i>O\nsea, ni siquiera yo sé cuál es mi situación."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Y, o sea, ¿por qué es asunto tuyo, de todos modos?\nNo es que esté radiando energía de protagonista\naquí, así que ¿cuál es el punto?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Gruñido...</i>"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡No-no le hagas caso! Solo me salté el desayuno,\n¿¡vale?!",
+      "choice_data_list": [
+        "¿Qué tal si comemos algo?"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿¡Eh? ¿Ahora intentas sobornarme con comida?!\n¡Tengo <i>algo</i> de dignidad, ¿¡sabes?!",
+      "choice_data_list": [
+        "No tenemos que hablar. Solo comer."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Hm... Vale, trato hecho. Pero solo si vamos a ese\nlugar y <i>solo</i> si me dejas comer todo lo que quiera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mirando el lugar que señaló Jordan, me encuentro\nmirando un restaurante de comida rápida llamativo."
+    }
+  ]
+}

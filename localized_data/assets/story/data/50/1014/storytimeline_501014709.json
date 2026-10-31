@@ -1,0 +1,78 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Nooo! ¡Solo quedé en segundo lugar!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡No, no, no, no! ¡Esto no puede estar pasando!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡La corredora más fuerte del mundo no puede\nconformarse con menos que la victoria! ¡Me niego a\naceptar esto!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Entrenador! ¡Sé honesto! ¿Cómo me fue?!",
+      "choice_data_list": [
+        "Corriste bastante bien ahí afuera.",
+        "Corriste bastante bien ahí afuera.",
+        "Cincuenta y tres puntos."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Entrenador! ¡Sé honesto! ¿Cómo me fue?!",
+      "choice_data_list": [
+        "Corriste bastante bien ahí afuera.",
+        "Corriste bastante bien ahí afuera.",
+        "Cincuenta y tres puntos."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡No te contengas! ¡Endulcirlo no me va a ayudar!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡\"Bastante bien\" no es suficiente! ¡No quiero dar\nnada más que la perfección!",
+      "choice_data_list": [
+        "¡Entonces apuntemos a una puntuación perfecta en\nel entrenamiento!",
+        "¡Entonces apuntemos a una puntuación perfecta en\nel entrenamiento!"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Claro! ¡Te daré una actuación increíble,\nimposible de superar—perfecta! ¡Dame todo lo que\ntienes en el entrenamiento!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Escalaré los acantilados más empinados de México\nsi es lo que se necesita!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Uf! ¡¿Esa puntuación tan baja?! Y además,\nespecífica."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Esto es tan vergonzoso... Más vergonzoso que\ncuando obtuve esa calificación terrible en el\nexamen."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Pero! Cuanto más alta es la pared, más dulce es\nla brisa en la cima cuando la escalas.",
+      "choice_data_list": [
+        "¡Escalamos esa pared!"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Sí! ¡La próxima vez, me reiré desde la cima!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Entonces, bajaré magníficamente desde la cumbre\ndel mundo!"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Han pasado unos días desde que me convertí en el\nentrenador de Seiun Sky. Sin embargo..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Entrenador, Entrenador, ¿sabías? Hoy hay una marea\ngraaande entrando. Lo que significa... ¡que es un\ndía <i>perfecto</i> para pescar!",
+      "choice_data_list": [
+        "¿Pescar? ¿Y el entrenamiento?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Eh? ¿De verdad necesitas preguntar? Mmm, paso."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Hoy prefiero trabajar en mis giros de muñeca que\nen los músculos de mis piernas. Los peces me están\nllamando, ¡así que entrenemos mañana!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Vaya, el tiempo vuela cuando hablas de <i>Refugio de\nGatos: El Purrcadia Proyecto!</i> Supongo que ambos\nperdimos la noción del tiempo."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Hm? ¿Es esa la cara de alguien que quería hablar\nde entrenamiento en su lugar? ¿O estaré viendo\ncosas? ...No, debe haber sido mi imaginación!"
+    },
+    {
+      "name": "Compañera de Clase de Sky",
+      "text": "¿Eh? ¿Buscas a Sei? En realidad, la acabas de\nperder. Se fue a casa hace un momento."
+    },
+    {
+      "text": "..."
+    },
+    {
+      "text": "A pesar de convertirme en la entrenadora de Seiun\nSky, no he logrado ningún progreso con ella en el\nentrenamiento en absoluto."
+    },
+    {
+      "text": "¿Simplemente no tiene ningún deseo de superarse y\nganar carreras?"
+    },
+    {
+      "text": "Y si eso es cierto, entonces ¿para qué estoy yo\naquí? Perdida en mis pensamientos, sigo\ncaminando..."
+    },
+    {
+      "name": "King Halo",
+      "text": "Hmph. Parece que los rumores sobre la novata sin\nesperanza eran ciertos.",
+      "choice_data_list": [
+        "Si mal no recuerdo, eres compañera de clase de\nSeiun Sky...",
+        "Si mal no recuerdo, eres compañera de clase de\nSeiun Sky..."
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¡No <i>permitiré </i>que me hables como si fuera una\nsimple compañera de escuela! Soy King Halo, una\ncorredora de primera. ¡Debes guardar las formas\ncuando me hables!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Aunque... <i>Suspiro...</i> Por lo que veo, Sky de verdad\nhace lo que quiere contigo."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Mi plan para que revelaras información sobre Sky\nse ha ido directo al tacho! A este ritmo, perderé\nde nuevo... ¡Arghhh!",
+      "choice_data_list": [
+        "¿Contra Seiun Sky? ¿De verdad es tan rápida?",
+        "¿Contra Seiun Sky? ¿De verdad es tan rápida?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¿¡Eh?! ¡No solo es rápida, es que—"
+    },
+    {
+      "name": "King Halo",
+      "text": "...¡Hmph! Más que preguntar eso, sería mejor que\nlo vieras con tus propios ojos, ¿no crees?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, le pido a la profesora de Seiun\nSky que me deje asistir a su clase."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Bueno, bueno... por fin llegó. El ensayo, digo."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Esa descripción es terriblemente insuficiente!\nHoy finalmente entenderás que verdaderamente soy\nde primera. ¡Ohohoho!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oye, lo entiendo, ¿vale? Eres de primera, está\nbien. Realmente asombrosa."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡No dices ni una sola de esas palabras en serio!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Hmph, ¡disfrútalo mientras puedas! Porque hoy...\nHoy es el día en que te callaré y alcanzaré la\nvictoria!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Callarme? Uuuh, qué miedo."
+    },
+    {
+      "name": "Special Week",
+      "text": "Tanto Sei como King están realmente motivadas...\nVale, Spe. ¡Sin contenerse!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¿Eh? ¿Sky es una oponente tan temible? No se\nescuchan muchos buenos rumores sobre ella,\n¿verdad?"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Sí, últimamente solo he escuchado cosas malas\nsobre ella. ¿Sabías que se salta el entrenamiento\ntodos los días?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Bang!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El ensayo arranca a toda velocidad. Liderando el\ngrupo está..."
+    },
+    {
+      "name": "King Halo",
+      "text": "<i>Haa... Haa...</i> ¿¡Q-qué demonios?!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Espera, ¿¡King va tomando la delantera?! ¿No suele\ncorrer Sky como corredora de punta?"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Quizás no puede adelantar porque su resistencia ha\ndisminuido por su falta de entrenamiento... ¿o\nalgo? Tiene sentido, ¿verdad?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "<i>Haa... Haa...</i> Ugh, ¡mi pierna!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Hmph. Había oído hablar de sus ausencias, pero\n¡que haya caído tan bajo! Tal vez fui un tonto por\nestar tan alerta con ella."
+    },
+    {
+      "name": "King Halo",
+      "text": "Me da igual. Las cosas avanzan diferente a como\nhabía imaginado, pero ¡ser de primera es todo\nadaptabilidad! Mantendré esta delantera hasta la\nmeta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "King Halo aparta su atención de una Seiun Sky que\ntropieza y continúa corriendo adelante. La carrera\ncontinúa así por un rato..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero cerca del final, ¡el ritmo de King Halo\nfinalmente empieza a decelerar!"
+    },
+    {
+      "name": "King Halo",
+      "text": "<i>Haa... Haa...</i> Mi resistencia... se está..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Mhm, King es mejor como rematadora. Para una\ncorredora de punta como yo, sería un verdadero\nproblema si se pegara a mi espalda y me pasara en\nla recta final."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Y por eso... ¡he estado esperando este momento!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Espera—¿¡quéeee?! ¡Sky?!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¿¡Eh? ¿Sky va liderando ahora?! No way, ¿¡desde\ncuándo?!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¿¡No estaba quedando atrás por su falta de\nentrenamiento? No me digas... ¿esto era todo su\nplan desde el principio?!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡King lo puso demasiado fácil! Ahora solo queda—"
+    },
+    {
+      "name": "Special Week",
+      "text": "Todavía no. ¡Esta carrera no ha terminado aún!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Haaaaah!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿¡Eh?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El resultado final: Special Week en primer lugar,\ncon Seiun Sky muy cerca en segundo."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Una remontada aún más tardía para el primer lugar,\n¿eh? Spe realmente acelera como un cohete..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...",
+      "choice_data_list": [
+        "Fue una carrera impresionante.",
+        "Fue una carrera impresionante."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Aunque solo quedé segunda."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "No fue suficiente. Toda esa preparación, todo ese\nplan—"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿¡Qu-qué?! Entrenador?! ¿E-estabas aquí? ¿Desde\ncuándo? Uf, si estás aquí tienes que decir algo!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Estás solo porque nunca nos vemos en el\nentrenamiento? Uf, es duro ser tan popular!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Lo siento, pero tu autógrafo tendrá que esperar.\nEstoy agotada, así que es hora de mi siesta de la\ntarde! El deber llama."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Seiun Sky me deja esa línea antes de huir de la\nescena a un ritmo terriblemente rápido."
+    }
+  ]
+}

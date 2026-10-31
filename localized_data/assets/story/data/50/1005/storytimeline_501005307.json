@@ -1,0 +1,317 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fuji Kiseki",
+      "text": "<i>¡Haa! ¡Resuello!</i> ¡Guah!"
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡I-increíble! ¿Viste qué rápido iba? ¡Fuji Kiseki\nes una fuerza a tener en cuenta!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡¿Verdad?! Fue tan cautivadora, que no podía\nquitarle los ojos de encima!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "Es una lástima que no gane la Triple Corona...\nPero aún así, ¡estoy emocionada de verla correr en\nel Japanese Derby!"
+    },
+    {
+      "text": "¡La actuación de Fuji Kiseki en el Satsuki Sho ha\nincendiado a la multitud!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Gracias! ¡Su apoyo es lo que me mantiene en\nmarcha!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡El sueño apenas está comenzando! ¡Espero que\nestén ansiosos por verme en el Japanese Derby!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "(Seguro que hablé muy grande allí, pero...)"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Mmm...",
+      "choice_data_list": [
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "La verdad es que algo me está molestando."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Estaría bien si hiciera algo de entrenamiento en\nsolitario ota noche para verificar algunas cosas?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Dices que tus piernas se sintieron extrañas\ndespués de completar el Satsuki Sho, pero no\nparece ser una lesión, ¿correcto?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Correcto, no es nada de eso. Pero siento que estoy\nsiendo frenada por algún tipo de pared, y quería\ndiscutirlo contigo."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Una pared, ¿eh? En otras palabras... quieres\nhablar sobre tu aptitud de distancia, ¿sí?",
+      "color_text_info_list": [
+        "aptitud de distancia"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Exactamente. ¡Sabía que lo entenderías!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "He sentido esto por un tiempo ahora, pero creo que\nsoy más adecuada para ser una millera."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Estoy segura de que podré obtener datos precisos\ncon tu asistencia, ¿podrías ayudarme, por favor?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Mmm, podría... Pero la cosa es que, cualquier cosa\nque uno haga, debe haber un intercambio\nequivalente."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Qué te parece? Si ayudas a probar mi nueva\nmedicina, te echaré una mano en tu investigación."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Um... ¡Trato hecho! ¡Tomaré tu medicina!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Bien! Me alegra que estemos en la misma página.\nAhora, no perdamos tiempo en empezar."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Pero primero, unas palabras de advertencia—incluso\nsi corres los mismos tiempos durante el\nentrenamiento que en una carrera real, el estrés\nen tu cuerpo será diferente."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Recuerda tomar estos resultados de prueba con un\ngrano de sal. Bien, ¡empecemos con una carrera de\n2,400 metros!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "(Esta es la cuarta curva—¡tengo que estallar en un\nesprint final!)"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Nghhh! ¡Vamos!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Oooh! ¡Vaya, vaya, vaya! Los instintos guturales\nson realmente nada de lo que burlarse."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Cómo estuvo?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Qué resultados fascinantes! Ah, pero no debo\nadelantarme."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Estás familiarizada con los términos \"energía\naeróbica\" y \"energía anaeróbica\"?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Por supuesto! Las aprendimos en clase."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Si recuerdo correctamente, usamos energía aeróbica\npara mantener nuestra velocidad de crucero durante\nlas carreras..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Y usamos energía anaeróbica para acelerar\nrápidamente al principio y al final de una\ncarrera. ¿Lo dije correctamente?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Ciertamente lo hiciste! Durante las carreras,\nnuestros cuerpos generan estos dos tipos de\nenergía y los consumen mientras corremos!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ambas son esenciales, pero la forma en que se usa\nla energía anaeróbica es particularmente\nimportante."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Se usa durante puntos críticos en una carrera,\npero solo hay una cantidad limitada. Agótala, y\nnuestras piernas dejarán de funcionar por puro\nagotamiento."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "En otras palabras, mucho depende de tu habilidad\npara preservar tu energía anaeróbica hasta el\npunto de giro final."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Al mismo tiempo, si tu cuerpo no puede mantener tu\nvelocidad de carrera con energía aeróbica,\ncomplementará tus músculos con energía anaeróbica."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Mmm, eso significaría..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Entre más rápido vayas y más larga sea la carrera,\nmás se consumirán tus reservas de energía\nanaeróbica, ¿verdad?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "A grandes rasgos, ¡sí! Ahora, examinemos tu\ncarrera."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Después de la marca de los 2,000 metros, tu forma\ncomenzó a deteriorarse y se notaba que luchabas\npor mantener el ritmo."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Sospecho que esto se debe a que agotaste tus\nreservas de energía anaeróbica mientras intentabas\nmantener tu velocidad."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Luego, justo antes del final, cuando estabas a\npunto de llegar a la meta e intentabas acelerar..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Nghhh! ¡Vamos, vamos!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Te quedaste sin energía anaeróbica y el ácido\nláctico se acumuló en tus piernas, agotándote por\ncompleto!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Tu mayor fortaleza es tu capacidad para dar un\núltimo empujón de velocidad en la recta final,\npero cuando lo intentaste... Bueno, te quedaste\nsin gas."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Teniendo en cuenta nuestros hallazgos, mi\nconclusión es que las carreras de larga distancia\nno son tu fuerte."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Eres excepcionalmente buena para convertir la\nenergía anaeróbica en ráfagas de velocidad en\nsprints de corta distancia..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Sin embargo, la capacidad de tu cuerpo para\ntransportar oxígeno a tus músculos, lo que afecta\nla producción de energía aeróbica, parece ser solo\npromedio."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ya veo... Todo lo que dices tiene sentido."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Muchas gracias por tu ayuda. ¡Ahora por fin puedo\navanzar con mi entrenamiento!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No hay de qué. ¡Y ahora es el momento de mi parte\ndel trato! ¡Hora de tomar tu medicina!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Esto realmente es seguro para beber? El color es\nrealmente... alarmante."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡No te preocupes por los detalles! ¡Salud, ahora!"
+    },
+    {
+      "text": "Al día siguiente, Fuji Kiseki pasa por mi oficina."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ayer, Tachyon me ayudó a descubrir qué distancias\nde carrera me convienen más. Esto es lo que\nencontramos..."
+    },
+    {
+      "text": "Ella continúa explicando cómo participar en algo\nmás largo que una carrera de media distancia\nreducirá drásticamente sus posibilidades de ganar."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Dicho de otra manera, enfrentarse al Japanese\nDerby y al Kikuka Sho serán tareas más hercúleas\nde lo que anticipamos."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ahora que me doy cuenta de esto, quería hablar\ncontigo sobre nuestros planes para el futuro."
+    },
+    {
+      "text": "Ganar el Japanese Derby y el Kikuka Sho será\ndifícil ya que Fuji Kiseki no está bien adaptada a\nesas distancias. Por lo tanto, solo puedo\nsuponer...",
+      "choice_data_list": [
+        "¿Quieres renunciar a la Triple Corona?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡No, para nada! De hecho, ¡quiero hacer lo\ncontrario!",
+      "choice_data_list": [
+        "...?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Ahora tengo dos caminos dramáticos entre los que\nelegir precisamente debido a mi incompatibilidad\ncon las carreras de larga distancia!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Puedo continuar con la gira de la Triple Corona,\nlo que ahora será aún más interesante debido a lo\ndesafiante que será...",
+      "color_text_info_list": [
+        "gira de la Triple Corona"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡O puedo cambiar de dirección por completo y echar\ntodo lo que tengo a conquistar la gira de la\nmilla!",
+      "choice_data_list": [
+        "...!"
+      ],
+      "color_text_info_list": [
+        "gira de la milla"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Perdón por soltarte esto de repente, especialmente\nconsiderando que me has estado ayudando a entrenar\npara la gira de la Triple Corona todo este tiempo."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Cuando me di cuenta de que enfrentaba una pared\nque no podía simplemente atravesar con fuerza,\ncomencé a pensar en lo que <i>podía</i> hacer en su\nlugar."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ganar la Triple Corona es un gran honor, y no\nhabría un espectáculo mejor que pudiera montar y\nque terminara en victoria."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Es por eso que quería alcanzar la gloria en ese\nescenario enorme y darle a todos una sensación de\ncatarsis verdaderamente satisfactoria."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Pero si estoy más adaptada a las carreras de\nmilla, entonces eso cambia las cosas."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Podría perseguir un camino diferente: podría\nllevar mi capacidad de sprint al máximo y ofrecer\nun espectáculo fantástico en la gira de la milla."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Sé que es repentino, pero ¿qué crees que debería\nhacer? ¿Qué camino debería tomar?"
+    },
+    {
+      "text": "¿Qué camino deberíamos elegir? Al final, no puedo\ndarle una respuesta de inmediato."
+    }
+  ]
+}

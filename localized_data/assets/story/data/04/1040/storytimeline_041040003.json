@@ -1,0 +1,251 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El día después de que fallo en reclutar a Gold\nCity, estoy caminando bajo los árboles, cuando..."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Entonces, ese gran alboroto en el curso—fue City,\n¿verdad?"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Creo que el tipo con el que discutía era su\nentrenador? Parecía bastante caliente. Me pregunto\nsi está bien..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No me gusta el sonido de eso. ¡Mejor voy a echar\nun vistazo!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Entonces, ¿qué? ¿Estás diciendo que debería dejar\nde entrenar?"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "No, no, para nada. Es solo que no quieres ganar\ndemasiado músculo y arruinar tus proporciones, ¡o\nconseguir feas cicatrices en tu cuerpo!"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "La forma es en lo que deberías estar trabajando.\nVerse bien mientras corres es el nombre del juego\npara ti. Oh, eso y ganar práctica de concierto!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Ok, entonces, ¿alguna de esas cosas me ayudará a\ncorrer más rápido? ¿Ayudarme a ganar?"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "Espera, <i>eso</i> es lo que te preocupa? Estará bien. Yo\nlo manejaré. El truco es, solo tienes que correr\nen carreras que sabes que puedes ganar."
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "¡Entonces no habrá un rasguño en tu reputación!\n¡La glamorosa, la victoriosa Gold City—estrella\ndel espectáculo! El plan perfecto, ¿verdad?"
+    },
+    {
+      "name": "Gold City",
+      "text": "No... No, no, no! ¡Eso <i>no</i> es quien quiero ser!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Dime... ¿Por qué?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Dijiste... que me harías la Umamusume superior.\nQue sería la estrella más brillante en el césped."
+    },
+    {
+      "name": "Gold City",
+      "text": "Entonces, ¿¡por qué? ...¿Por qué me das esta\nporquería?!"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "¿Qué? No, no, mi postura no ha cambiado. O sea,\nvamos, tú eres <i>la</i> Gold City."
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "Todos hablan de ti—¡la modelo genial y feroz!"
+    },
+    {
+      "name": "Gold City",
+      "text": "...!"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "Serás genial. ¡Solo déjalo todo en mis manos! Cómo\npresentarte, cómo hacerte brillar—lo tengo todo\nplaneado."
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "¡Solo tienes que hacer lo que digo! Es por tu\npropio bien. Quiero decir, para eso está un\nentrenador, ¿verdad?",
+      "choice_data_list": [
+        "¡Eso no es lo que hace un <i>verdadero</i> entrenador!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Eh? T-tú otra vez... ¿Por qué estás..."
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "¿Y quién te crees que eres? ¿Por qué no te metes\nen tus propios asuntos, ¿eh?",
+      "choice_data_list": [
+        "¡Un entrenador real escucha a su pupilo!",
+        "¡Un entrenador real escucha a su pupilo!"
+      ]
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "¿Oh, sí? ¡Tienes algo de valor, amigo!"
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "¡H-ey! ...La niña no sabe lo que es bueno para\nella. Podría haberla hecho una estrella."
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "Esquivé una bala con ese temperamento, aunque. Oh\nbueno, hay muchos peces en el mar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Necesito asegurarme de que ella esté bien!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mi búsqueda me lleva por todo el campus sin éxito.\nSolo hay un lugar que no he mirado...",
+      "choice_data_list": [
+        "¡Gold City!"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Uwaaah! ¿Qué, qué es?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Me asustaste... En serio, ¿qué está pasando? ¿Eres\nel paparazzi o algo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Explico el predicamento y le pregunto si sabe\ndónde podría estar Gold City."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Así que, ¿sientes la necesidad de encontrarla, por\nqué? ...Un poco sospechoso."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Sé que intentas reclutarla, pero, o sea, solo te\nfijas en su aspecto, ¿verdad? Quiero decir, lo\nentiendo—es una belleza."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Pero eso significa que no eres muy diferente de su\nmanager, ¿sabes?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Así que permíteme preguntarte. ¿Por qué te importa\nella?",
+      "choice_data_list": [
+        "Ella es trabajadora, y quiero apoyarla."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Apoyarla, ¿eh?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Entonces, ¿qué vas a hacer exactamente por ella?",
+      "choice_data_list": [
+        "Aún no lo sé."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡No tienes nada?! Espera, ¿en serio? No se ve\nbien.",
+      "choice_data_list": [
+        "Quiero decir, apenas sé algo sobre ella... aún.",
+        "Quiero decir, apenas sé algo sobre ella... aún."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...¿Eh?",
+      "choice_data_list": [
+        "Quiero hablar con ella y conocerla."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Solo entonces podré decidir qué hacer—su opinión\nes tan importante como la mía."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Uh-huh... Bueno, haz lo tuyo."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Espera, ¿por qué siento que estás esperando a que\ndiga algo? ¿No puedes?",
+      "choice_data_list": [
+        "¡Por favor, dime dónde está!",
+        "¡Por favor, dime dónde está!"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Whoa, no te acerques más! No, no voy a hacer\nesto!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Ugh, ¿otra vez? ¡Debes estar bromeando!",
+      "choice_data_list": [
+        "¡Por favor! ¡Tienes que decírmelo!",
+        "¡Por favor! ¡Tienes que decírmelo!"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡No! ¡No! ¡Y aléjate!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Uf. Debería estar a salvo él—",
+      "choice_data_list": [
+        "¡Por faaaavor!",
+        "¡Por faaaavor!"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿¡Cómo es que <i>aún</i> me sigues?! ¡Ya lárgate!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Detente! Ugh, ¡no puedo contigo! ¡De todos modos,\npor qué me preguntas a mí?!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Literalmente no tengo idea de dónde podría estar.\nQuiero decir, la orilla del río, supongo, pero—"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Oh, rayos.",
+      "choice_data_list": [
+        "¡GRACIAS!"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Oye, espera un segundo!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "No le digas que te enteraste por mí, ¿vale? En\nserio, más te vale no decírselo. ¡Es realmente\naterradora cuando se enoja!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Oye! ¿¡Me estás escuchando?!"
+    }
+  ]
+}

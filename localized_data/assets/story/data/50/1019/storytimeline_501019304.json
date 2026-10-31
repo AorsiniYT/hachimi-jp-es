@@ -1,0 +1,166 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Agnes Digital",
+      "text": "<i>Haa... Resuello...</i> ¡Lo logré!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Y... lo vi—el brillo brillante de Uma musume!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Pensé que su celo por correr era lo que las hacía\npreciosas. Pero ahora creo que los sentimientos\nque tienen hacia las carreras..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Son mucho, mucho más serios y profundos! No tengo\nduda de que por eso Doto deslumbró de la manera en\nque lo hizo!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "No debo perturbar ese brillo, pero sí quiero\ncelebrarlo!"
+    },
+    {
+      "name": "???",
+      "text": "<i>Ngh... Snif...</i>"
+    },
+    {
+      "name": "???",
+      "text": "¡Waaahhh!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Eh? Esa voz... Es una de las otras corredoras..."
+    },
+    {
+      "name": "Umamusume derrotada",
+      "text": "No lo logré... en el marcador... ¿Lograré\nsiquiera... en las otras carreras graduadas? Yo...\nyo... ¡Waaahhhh!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "..."
+    },
+    {
+      "name": "Umamusume derrotada",
+      "text": "Entrenador, yo..."
+    },
+    {
+      "name": "Defeated Trainer",
+      "text": "¡Recupérate! ¡Siéntete orgullosa! Puede que hayas\nperdido hoy, pero ¿no diste lo mejor de ti?"
+    },
+    {
+      "name": "Defeated Trainer",
+      "text": "Todo lo que aprendimos hoy es que aquellos que\nterminaron antes que nosotros trabajaron más duro."
+    },
+    {
+      "name": "Umamusume derrotada",
+      "text": "Ngh... Nnnngh..."
+    },
+    {
+      "name": "Defeated Trainer",
+      "text": "Sé que aún no hemos ganado una carrera, y duele\nseguir perdiendo así... pero la Serie Twinkle no\nha terminado aún."
+    },
+    {
+      "name": "Defeated Trainer",
+      "text": "Algún día, correrás en una G1 y le mostrarás a\ntodos. Ahora, ¿estás lista para el concierto de la\nvictoria?"
+    },
+    {
+      "name": "Umamusume derrotada",
+      "text": "¡Tienes razón! ¡Bien, me voy!"
+    },
+    {
+      "name": "Umamusume derrotada",
+      "text": "Puede que haya perdido de nuevo, pero esto no ha\nterminado. ¡Siempre hay un mañana!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Ráfaga!</i>"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "...",
+      "choice_data_list": [
+        "¿Digital?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Estoy tan llena de eso..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Dije que quiero admirar a mis oshis sin\nmolestarlas, pero... es imposible..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Cada carrera tiene que tener un ganador, lo que\nsignifica que también tiene que haber perdedores."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Nadie <i>quiere</i> ver perder a sus oshis. Incluso un\nbebé sabría mejor que eso, y sin embargo, yo..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Desde que decidí correr en carreras yo misma, he\ninfluido en el resultado... Ya no puedo decir que\nsoy solo una espectadora más..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "<i>Mis</i> acciones... afectan a otras Umamusume..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Creo que la carrera de hoy ha desencadenado un\ncambio en Agnes Digital."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Oye, Entrenador. Me gustaría hablar sobre el\nfuturo. Va a sonar un poco fuera de lugar, pero\n¿me escucharás?",
+      "choice_data_list": [
+        "¿Es sobre nuestro calendario de carreras?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Sí. Quiero correr en una carrera G1, pase lo que\npase."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Creo que lo que le hice a esa otra corredora antes\nfue casi imperdonable."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Por eso, quiero correr en una carrera G1. Quiero\ncorrer y hacer que ella piense: \"¡Guau! Agnes\nDigital realmente fue fuerte!\""
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Y ya que estoy... ¡Quiero aprender de primera mano\nqué nivel de esfuerzo están poniendo los demás\npara enfrentar carreras G1!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Entonces, ¿en qué carrera crees que soy más\nadecuada? Dame tu mejor recomendación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mentalmente, reviso qué carreras G1 admiten\ncorredores de año clásico y tienen una distancia\nadecuada para Agnes Digital...",
+      "choice_data_list": [
+        "Creo que el NHK Mile Cup es el más adecuado.",
+        "Creo que el NHK Mile Cup es el más adecuado."
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡La NHK Mile Cup! Si esa es tu <i>recomendación\n</i>fantástica, entonces debe ser correcta. ¡Lo\nharé!",
+      "color_text_info_list": [
+        "NHK Mile Cup"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Por ella!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un tipo de remordimiento del ganador ha invadido a\nAgnes Digital, pero le ha dado la motivación para\nseguir adelante."
+    }
+  ]
+}

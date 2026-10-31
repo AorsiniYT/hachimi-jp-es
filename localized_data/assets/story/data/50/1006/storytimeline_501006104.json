@@ -1,0 +1,284 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mientras camino por el dormitorio del campamento\ndespués de un día de entrenamiento con Oguri Cap,\nTamamo Cross me detiene en seco."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Uf, por fin te encontré! Hay algo de lo que\nquiero hablar contigo.",
+      "choice_data_list": [
+        "¿Tamamo Cross? ¿Qué pasa?",
+        "¿Tamamo Cross? ¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡<i>Tú</i> eres el que haces correr a Oguri afuera todo\nel día, ¿verdad?",
+      "choice_data_list": [
+        "¡¿Qué?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Oguri Cap ya terminó su entrenamiento del día. Le\ndije que descansara antes de separarnos, pero..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Juzgando por esa reacción, supongo que no. Caray,\n¿qué está pensando?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Desde que corrió con Creek, ha estado actuando de\nmanera extraña.",
+      "color_text_info_list": [
+        "Creek"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Lo mejor es que vayas a verla. ¡Está en la playa!",
+      "choice_data_list": [
+        "¡Gracias!"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "...Caray, tanto Creek como Oguri. Les dije que se\ndivirtieran y disfrutaran su juventud por una vez,\npero no escuchan.",
+      "choice_data_list": [
+        "...?"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "No, olvida que escuchaste algo. ¡Solo ve a buscar\na Oguri!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le agradezco a Tamamo Cross el chisme y luego me\napresuro hacia la playa."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "<i>Haa... resuello...</i> ¡Una más!",
+      "choice_data_list": [
+        "¿Oguri?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Eek! ¿Qué haces aquí?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le pregunto a Oguri Cap por qué sigue entrenando\npor su cuenta, y ella vacila y murmura una\nrespuesta."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sabes cómo corrí con Creek en la playa? Yo...\nestaba segura de que podría vencerla."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Últimamente he estado en buena forma, así que no\npensé que 2000 metros serían un problema para mí."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "No había razón para que yo perdiera contra Creek.\nPero, bueno... ya viste lo que pasó...",
+      "choice_data_list": [
+        "Fue un empate..."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Técnicamente pudo haber sido un empate, pero no se\nsintió así para mí. Yo... perdí."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Si la carrera fuera 500 metros más larga... ella\n<i>definitivamente</i> me habría ganado."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "El Arima Kinen es una carrera de 2500 metros. Si\neso hubiera sido lo real, no habría tenido ninguna\noportunidad."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "A menos que desarrolle mi resistencia, nunca\nvenceré a Creek. No podía soportar la idea de\nperder, y antes de darme cuenta, me encontré aquí\nde nuevo...",
+      "choice_data_list": [
+        "Así que eso es lo que pasa.",
+        "Así que eso es lo que pasa."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Lo siento. Debería haberte hablado primero."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pero por alguna razón, no podía permitirme\nsimplemente sentarme y no hacer nada. El impulso\nde seguir corriendo era demasiado fuerte."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Lo único en lo que podía pensar era en no perder\ncontra Creek.",
+      "choice_data_list": [
+        "Bueno, ella <i>es</i> tu rival.",
+        "Bueno, ella <i>es</i> tu rival."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "My rival..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Exacto. ¡No quiero perder contra mi rival!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me alegra que Oguri Cap tuviera la oportunidad de\ncorrer contra Super Creek durante nuestro\ncampamento de entrenamiento. Seguramente ha\nencendido su espíritu competitivo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y eso no es todo. También pude ver el resultado de\ntodo el trabajo duro que ha estado poniendo.",
+      "choice_data_list": [
+        "Ya has progresado mucho.",
+        "Ya has progresado mucho."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿De verdad?",
+      "choice_data_list": [
+        "No te rendiste—incluso después de que Creek te\nalcanzara."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Oguri Cap aún puede carecer de resistencia, pero\neso no la detuvo para dar una buena pelea."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Yo... podía escucharlos a todos animándome."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Tama, Inari y... tú también. Fue entonces cuando\nme dije a mí misma que <i>tenía</i> que ganar.",
+      "color_text_info_list": [
+        "Tama",
+        "Inari"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuanto más apoyo recibe, mejor se pone. Esa es\notra de las fortalezas de Oguri Cap."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con su historial actual, tendrá más fans que nunca\nanimando su nombre en el Arima Kinen.",
+      "choice_data_list": [
+        "¡Puedes hacerlo!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Crees eso? ¿De verdad... crees en mí?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Gracias. Viniendo de ti, esas palabras realmente\nme tranquilizan.",
+      "choice_data_list": [
+        "Vamos a tomarlo con calma y paso a paso."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Tienes razón. No más actuar por impulsos."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Así que dime... ¿Qué crees que debería hacer\nahora?",
+      "choice_data_list": [
+        "¡Necesitas generar más poder!",
+        "¡Necesitas fomentar una mentalidad más positiva!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Poder, ¿eh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le explico que con músculos fuertes, podrá dar ese\npaso extra—incluso cuando se quede sin\nresistencia."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Entendido. Vamos a enfocarnos en el entrenamiento\nde fuerza."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Una mentalidad positiva, ¿eh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le explico que tener el valor para seguir adelante\ncuando las cosas son difíciles le servirá bien en\nsus carreras."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Muy bien. Vamos a construir mi resiliencia mental\nentonces."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Te encontré! Caray, ¿qué crees que estás\nhaciendo?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Oh, Tama, eres tú... ¿Qué pasó?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Olvídate de mí, ¡ustedes son los que siguen afuera\na esta hora!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Estaba seguro de que tu entrenador te llevaría de\nvuelta pronto, así que estaba parado esperando en\nla entrada como un maldito idiota!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Oh, así que fuiste tú quien le dijo a mi\nentrenador dónde estaba. Gracias."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Eh, solo nos encontramos. De todos modos,\n¿lograste resolver lo que te preocupaba?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí, ahora estoy bien. Voy a hacerlo lo mejor que\npueda."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Me alegra oír eso. Eres un verdadero problema para\ncuidar, ¿sabías?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Aún así... no puedo negar lo enérgica que eres. Me\nasombras de más de una manera."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Qué quieres decir?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Nada, nada. Oye, no te vas a saltar la cena,\n¿verdad? ¡Vamos!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡La cena! ¡Casi lo olvido!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Whoa, no te dejes atrás! ¡Espérame!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Oguri Cap termina haciendo grandes avances durante\nsu tiempo en el campamento de verano."
+    }
+  ]
+}

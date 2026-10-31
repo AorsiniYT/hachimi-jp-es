@@ -1,0 +1,70 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Super Creek",
+      "text": "¡Uf! Eso cumple nuestro primer objetivo del año."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Cómo te pareció, Entrenador?",
+      "choice_data_list": [
+        "No estaba preocupado en lo más mínimo."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Jeje, gracias. Supongo que a esto le dicen \"todo\nva sobre ruedas.\""
+    },
+    {
+      "name": "Super Creek",
+      "text": "Ahora puedo enfrentar el Takarazuka Kinen con la\ncabeza alta.",
+      "color_text_info_list": [
+        "Takarazuka Kinen"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Ya te olvidaste del Spring-Ten?!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Oh, Tamtam! ¡Gracias por venir a animarme!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Bueno, <i>soy</i> tu mejor amiga. Pero la amistad y las\ncarreras son dos cosas diferentes, ¿me oyes?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Je, hoy vi claramente tu debilidad... no, la de\nambos, la tuya y la de tu entrenador.",
+      "choice_data_list": [
+        "¿Eh? ¿Nuestra debilidad?"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Sí! ¡Y no vas a mejorar si no te das cuenta!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Por Dios! ¿Me lo dirás, Tamtam?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡¿Qué?! ¡¿Quién pregunta así de la nada?!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Eh, lo que sea. Te lo mostraré la próxima vez,\njusto frente a todos tus fans."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Se avecina una tormenta, ¡así que más te vale\ntraer tu paraguas! ...No, como una <i>verdadera</i>\ntormenta, pero... Lo que sea."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tamamo Cross se marcha con un bufido intimidante.\n¿Cuál podría ser nuestra debilidad?"
+    }
+  ]
+}

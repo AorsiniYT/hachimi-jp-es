@@ -1,0 +1,55 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras estábamos fuera con Admire\nVega..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Noto que está mirando una máquina de garra llena\nde peluches de Umamusume.",
+      "choice_data_list": [
+        "¿Quieres un peluche?",
+        "¿Quieres un peluche?"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Solo lo estaba pensando... No para mí, sino. Para\nuna amiga."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Sí, no importa. Apresurémonos a volver y\nentrenar."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Vamos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella da un paso adelante, pero luego su cabeza\ngira como si alguien le tirara del pelo. Creo que\nestá poniendo una fachada.",
+      "choice_data_list": [
+        "Atraparé uno para ti."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Eh? Te dije... no lo necesito.",
+      "choice_data_list": [
+        "Podrías cambiar de opinión una vez que tengas uno."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Haz lo que quieras."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡No hay manera de que falle ahora!"
+    }
+  ]
+}

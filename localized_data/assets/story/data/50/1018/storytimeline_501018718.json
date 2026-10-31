@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de su día libre, Air Groove pasa por mi\noficina.",
+      "choice_data_list": [
+        "¿Cómo estuvo tu día libre?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Qué ganarás con ese conocimiento?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Tenemos montones de otras cosas que hacer y hay\nmuy poco tiempo que perder."
+    },
+    {
+      "name": "Air Groove",
+      "text": "...Pero si debes saberlo, tuve un día libre muy\ntípico. No hubo nada particularmente especial."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Lo aproveché al máximo y estoy muy satisfecha. Eso\nes todo. ¿Contento?"
+    }
+  ]
+}

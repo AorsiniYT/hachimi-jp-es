@@ -1,0 +1,73 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de terminar una sesión de entrenamiento\ncon la Princesa Kawakami..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Espera ahí, vieja luna grandota!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¿La luna? ¡Oh, cielos! ¡Está tan grande y redonda\nesta noche!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Se ve como un gran dumpling blanco, ¿verdad?\n¡Verlo me da ganas de perseguirlo!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Hehe, solía hacer eso cuando era más joven,\ntratando de imitar a Princess Kaguya. ♪"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Si realmente fuera ella, podría correr hasta la\nluna y de regreso!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Ooooh! ¡Ahora tengo el impulso de correr como\nloca! ¡Mis piernas solo piden salir!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Entonces, ¿deberíamos perseguir la luna juntos?"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Sí, vamos. ♪ ¿Está bien si me suelto un poco,\nEntrenador?",
+      "choice_data_list": [
+        "¡No hay problema!",
+        "Creo que ya has hecho suficiente hoy."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Eso es lo que quería escuchar! ¡Ahora entonces,\nvoy a avanzar más rápido que un meteoro!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Suena bien! ¡Vamos! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los dos corredores pasan el resto de la noche\npersiguiendo la luna, ¡hasta el toque de queda!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Mmm... Supongo que no es muy de princesa salir\ncorriendo por impulso."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Aw, qué lástima. Pero esta no será la última luna\nllena que veamos, así que siempre podremos\nperseguirla la próxima vez. ☆"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Desde luego. La dejaremos escapar por ahora, ¡pero\nla próxima vez que nos encontremos, esa luna\ncaerá!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los dos regresan a su dormitorio mientras la\nbrillante luna observa en silencio desde arriba."
+    }
+  ]
+}

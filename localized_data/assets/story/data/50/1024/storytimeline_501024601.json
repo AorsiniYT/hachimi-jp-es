@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Vaya! ¡La carrera está por comenzar!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡¿Por qué mi corazón late tan rápido?! Ya he\ncorrido montones de carreras antes, así que ¿por\nqué no puedo calmarme?",
+      "choice_data_list": [
+        "Tu corazón latirá aún más rápido cuando estés\nparada en el círculo de ganadoras."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Tienes razón! Después de todo, ¡esta vez\ndefinitivamente voy a volar más alto!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Lo que significa..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Voy a hacer que tu corazón lata también,\nEntrenador! ♪"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Guau! ¿Mis ojos me engañan, o es eso un puesto de\ncalamar a la parrilla?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tamamo Cross de repente se emociona cuando pasamos\npor la estación."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Eso <i>sí</i> que no se ve a menudo aquí! La gente en\nTokio usualmente solo asa todo en un palillo."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Muy bien, déjame tomar algo rápido..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "En realidad, espera... Si como esto ahora, no\ntendré espacio para la cena después..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Pero podría guardarlo para esta noche y tomarlo\ncomo merienda nocturna! ¿Podríamos encajarlo en mi\ndieta, verdad, Entrenador?",
+      "choice_data_list": [
+        "No, no es bueno comer justo antes de ir a la cama.",
+        "Claro. No es bueno reprimir tus antojos."
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Urk... Lo sé, pero... el calamar a la parrilla\nempanizado estilo Naniwa es realmente difícil de\nencontrar..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Pero si voy a cuidar mi cuerpo, no puedo estar\ncomiendo meriendas tarde en la noche... Tengo\nque... resistir... la tentación!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Luchando contra sus instintos, Tamamo Cross\nresiste el impulso de probar el tentador calamar a\nla parrilla."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Tú sí que entiendes! ¡Contenerse es lo peor que\npuedes hacer! ¡Sin duda!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Espérame, voy a ir a comprar! Oh, y mejor agarro\nuna porción extra para Oguri!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así Tamamo Cross consigue su calamar a la\nparrilla y se va con el estómago lleno y el\ncorazón contento."
+    }
+  ]
+}

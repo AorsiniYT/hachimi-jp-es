@@ -1,0 +1,286 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet y yo damos un vistazo al distrito\ncomercial de camino a casa después de pasar el día\nfuera."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Qué pasa con toda esa gente?"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben su suerte con nuestra rifa\nde Año Nuevo! El gran premio de este año es un\ncupón para unas vacaciones en aguas termales para\ndos personas.",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Los ganadores del primer premio reciben un jugoso\nfilete de hamburguesa de zanahoria de lujo. Los\ndel segundo premio, ¡un montón de zanahorias! Y\nlos del tercer premio, ¡se llevan una zanahoria!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡No dejen pasar esta oportunidad! ¡Consigan un\nboleto ahora y giren para tener la oportunidad de\nganar!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ahhh, así que <i>hoy es</i> la rifa. ¡Mejor uso esto!",
+      "choice_data_list": [
+        "Esto... ¿qué es?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Este boleto de rifa. Me lo dio una amiga."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Dijo que era un agradecimiento por ayudarla con su\ntarea. ¡Hum! Como si no lo hubiera hecho de todos\nmodos."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Pero, bueno... ya que tengo el boleto, quizás\ndebería canjearlo. Vamos a girar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos formamos en la fila, y observo cómo Daiwa\nScarlet gira la palanca de la máquina de rifa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de la abertura\ndel tambor..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Caramba! ¡Tenemos a una ganadora del gran premio!\n¡Venga a recoger su cupón para las vacaciones en\naguas termales! ¡Felicidades!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Guau! ¿El gran premio? ¿De verdad gané?! Y-y\nquiero decir, ¡yay!",
+      "choice_data_list": [
+        "¡Felicidades!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Hum! Sabía que podía hacerlo. Cuando se trata de\nsuerte, ¡siempre soy la número uno!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hmm... ¿Cuándo deberíamos ir? La fecha de\nvencimiento está bastante lejos."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Supongo que debería guardarlo por ahora.",
+      "choice_data_list": [
+        "¿No vas a usarlo de inmediato?",
+        "¿No vas a usarlo de inmediato?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "No creo. Quiero decir, estamos en medio de una\nserie muy importante. Ninguna de las dos tiene\ntiempo para tomar un descanso todavía."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Quiero aprovechar al máximo esta oportunidad para\nrelajarme... y quiero que tú también la\naproveches.",
+      "choice_data_list": [
+        "¡Deberías ir a divertirte!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Hablas en serio? ...Boba.",
+      "choice_data_list": [
+        "¿Cómo?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Oh, olvídalo! De todas formas, ¡ahora no es el\nmomento!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Así que tú guárdalo por ahora. No creo que pueda\nconfiar en mí misma con él."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Pero más te vale no usarlo tú!Es <i>mi</i> premio,\n¿entendido?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por insistencia de Daiwa Scarlet, termino\nguardando el cupón hasta que llegue el momento de\nusarlo."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos a otro ganador del primer\npremio! ¡Felicidades! ¡Se lleva un jugoso filete\nde hamburguesa de zanahoria de lujo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Jeje, ¡nada mal! ¡Nunca rechazo ser la primera! ♪",
+      "choice_data_list": [
+        "Además, parece delicioso."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Oh? ¿Tienes hambre o algo?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Entonces, aquí. Puedes quedártelo. De todos modos\ntengo comida en la residencia.",
+      "choice_data_list": [
+        "No, no podría..."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Ya te enteras?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Aquí es donde se supone que debes asentir y decir\ngracias."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "No soy una mala cocinera, sabes. Podría preparar\nalgo así para ti en cualquier momento... si\nquisieras."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Así que pídemelo. No me importa hacer algo\nbueno por ti de vez en cuando."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agradezco el gesto, pero es su premio, y se ve\n<i>realmente</i> bien. Me gustaría que ella también lo\nprobara...",
+      "choice_data_list": [
+        "¿Qué tal si lo comemos juntas?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hum. Eso también está bien, supongo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tanto Daiwa Scarlet como yo disfrutamos de un\njugoso filete de hamburguesa de zanahoria ese día."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos a un ganador del segundo premio! ¡Es su\ndía de suerte! ¡Se lleva a casa un montón de\nzanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Yo... ¿segundo lugar?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡No way! No quiero el segundo lugar, ¡carrera o\nno! ¡Solo pensar en el número dos me da náuseas!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Oye, ¡Entrenador! ¿Seguro que no tienes un\nboleto?!",
+      "choice_data_list": [
+        "Seguro..."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "No suenas seguro. Revísate los bolsillos. ¡Apuesto\na que tienes uno en alguna parte!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Se necesita una revisión corporal completa para\nque Daiwa Scarlet me suelte."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aún así, no es culpa de las zanahorias haber sido\nel segundo premio."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tendré que pensar en una forma de incorporarlas al\nplan nutricional de Daiwa Scarlet..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Miren esto! ¡Han ganado el tercer premio! ¡Aquí\ntienen su zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Bueno, se acabó eso. Al menos gané<i>algo.</i>"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Pero aún así, una sola zanahoria, huh... Me\npregunto qué debería hacer con ella...",
+      "choice_data_list": [
+        "¿Vas a cocinar con ella?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Sí. Me gustaría hacer algo para la amiga que me\ndio el boleto."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Soy una estudiante modelo, después de todo. Tengo\nque devolverle su amabilidad."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hmm, quizás un pastel de zanahoria? Suena bien. A\ntodos les gustan las cosas dulces."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet y yo compramos algunas provisiones\nde camino a la residencia."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Ohhh, ¡mala suerte! ¡Parece que sacó un boleto\nvacío! ¡Tome este paquete de pañuelos como premio\nde consolación!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Aww... Supongo que debería haber esperado eso. Es\nnormal, después de todo. Pero aún así..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Decir abiertamente \"mala suerte\" así realmente me\nmolesta!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Preocupada de que la ira de Daiwa Scarlet explote\nen público, decido acompañarla de vuelta a la\nescuela."
+    }
+  ]
+}

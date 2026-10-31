@@ -1,0 +1,172 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras camino frente a la estación..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Como acabo de decir, el vidrio ya estaba roto\ncuando llegamos!"
+    },
+    {
+      "name": "Dueño Anciano de la Librería",
+      "text": "¡Cierra esa boca mentirosa! ¡He escuchado\nsuficiente de ti!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Ugh! ¡Eres un viejo terco! ¿Por qué no quieres\ncreernos?!"
+    },
+    {
+      "name": "Gold City",
+      "text": "<i>Suspiro...</i> Pero en serio, no fuimos nosotros\nquienes rompieron la ventana."
+    },
+    {
+      "name": "Dueño Anciano de la Librería",
+      "text": "¿Eh, no te molesta mostrar ningún remordimiento,\nverdad? ¡Eres tan irrespetuoso como pareces! Los\njóvenes de hoy en día..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Espera. ¿Puedes, como, <i>no</i> hacer juicios\napresurados basándote en cómo nos vemos?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esa enfadó a Gold City. Las cosas solo pueden\nempeorar a partir de aquí!",
+      "choice_data_list": [
+        "¡Espera un segundo!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Entrenador?! ¿Qué estás haciendo aquí?",
+      "choice_data_list": [
+        "Parecía que estabas en un aprieto.",
+        "Parecía que estabas en un aprieto."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "No es como si te necesitáramos para que te\nmetieras a salvarnos..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Qué suerte! Con <i>gusto te dejaré </i>tomar el control\naquí. ☆"
+    },
+    {
+      "name": "Gold City",
+      "text": "Jordan!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Vamos, sé realista. En momentos como estos, solo\ntienes que dejar que los adultos lo arreglen\nhablando."
+    },
+    {
+      "name": "Librero Anciano",
+      "text": "Oh... Así que tú eres el tutor de estos niños?\n¿Cómo vas a pagar por mi ventana rota?",
+      "choice_data_list": [
+        "Lamento haber causado tantos problemas."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Eh? ¿Por qué te disculpas?!",
+      "choice_data_list": [
+        "Estoy preparada para asumir la responsabilidad,\npero déjame verificar algo primero."
+      ]
+    },
+    {
+      "name": "Librero Anciano",
+      "text": "¿Verificar? ¿Verificar qué?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de esperar a que el dueño se calmara,\nmiramos alrededor del área y les preguntamos a\nunos transeúntes algunas preguntas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Afortunadamente, alguien en una cafetería cercana\npresenció el momento en que ocurrió el incidente."
+    },
+    {
+      "name": "Librero Anciano",
+      "text": "¡Así que fueron esos mocosos locales quienes\nrompieron la ventana!"
+    },
+    {
+      "name": "Librero Anciano",
+      "text": "Lamento enormemente todos los problemas. Gracias\npor ayudar a resolver esto."
+    },
+    {
+      "name": "Gold City",
+      "text": "...",
+      "choice_data_list": [
+        "Me alegra que hayamos encontrado a los verdaderos\nculpables."
+      ]
+    },
+    {
+      "name": "Librero Anciano",
+      "text": "También debo disculparme con ustedes dos. Fue\ninfantil de mi parte alterarme tanto—no estaba\nescuchando bien lo que decían."
+    },
+    {
+      "name": "Librero Anciano",
+      "text": "Me convencí de que mentían. Debí haberlo hecho\nmejor... Lo siento."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Eres bueno! ¿Ves, City? ¡Sabía que fue la\ndecisión correcta de dejar que tu entrenador se\nhiciera cargo! ☆"
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "name": "Gold City",
+      "text": "No es justo..."
+    },
+    {
+      "name": "Gold City",
+      "text": "No es justo que puedas simplemente llegar diciendo\n\"tutor\" por aquí y \"responsabilidad\" por allá, y\nque todo se arregle así nomás."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero nos ayudaste, así que..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Perdón por lo de antes. Me alegra que estuvieras\nallí.",
+      "choice_data_list": [
+        "De nada.",
+        "¿Es eso una señal de respeto?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Eres todo un adulto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Durante el resto del día, Gold City parece mirarme\nde manera un poco diferente a lo habitual."
+    },
+    {
+      "name": "Gold City",
+      "text": "...Realmente quiero decirte que te calles, pero\nresistiré la tentación, solo por hoy."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pasaré más tarde por tu oficina con algunos snacks\no lo que sea. No intento deberte nada.",
+      "choice_data_list": [
+        "¿Me traerás algo dulce como mi personalidad?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Guácala... Estás muy acabado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Probablemente no debí haber dicho esa última\nparte..."
+    }
+  ]
+}

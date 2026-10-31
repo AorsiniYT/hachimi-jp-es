@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Biwa Hayahide ha perdido algo y ha reclutado mi\nayuda para encontrarlo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡No está aquí tampoco! No encuentro el cuaderno\ndonde escribí mi ecuación ganadora <i>en ningún lado!</i>",
+      "choice_data_list": [
+        "¿Dónde lo guardas normalmente?",
+        "¿Dónde lo guardas normalmente?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Normalmente lo guardo justo en mi bolsi—"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jajaja... Aquí está. Bueno... Debo estar más\ncansada de lo que pensaba."
+    },
+    {
+      "text": "No es propio de ella ser tan olvidadiza. La fatiga\ndebe estar afectándola. Quizás sea hora de ajustar\nsu horario para que pueda descansar."
+    }
+  ]
+}

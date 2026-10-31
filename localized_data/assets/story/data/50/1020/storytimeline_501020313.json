@@ -1,0 +1,100 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Seiun Sky",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ugh... Caray, a penas puedo moverme..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Uf... ¡Vale!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Mucha suerte en la siguiente carrera!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "He vuelto.",
+      "choice_data_list": [
+        "¡Buen trabajo en la carrera!"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Sí, fue una buena carrera... pero no fue solo eso.\nfue."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Después de esta carrera, siento que Spe ha\nobtenido todo lo que puede obtener de mí."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ella probablemente ya está pensando en su próxima\ncarrera, sobre vencer a Grass."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Aunque todos ya son talentosos, ellos siguen\nesforzándose tanto. Cuanto más corren, más\nmejoran."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Eso significa... Yo...",
+      "choice_data_list": [
+        "¿Sky?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "No, olvídalo. No es como que acabara de tener una\nnueva revelación o algo."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "He sido diferente desde el principio. Nunca tuve\nninguna habilidad innata o lo que sea."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Por eso he estado usando mi cabeza para ganar.\nBastante obvio, ¿eh?",
+      "choice_data_list": [
+        "Sky..."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oye, Entrenador? Sobre nuestra próxima carrera...\nEstaba pensando en el Takarazuka Kinen.",
+      "color_text_info_list": [
+        "Takarazuka Kinen"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esa es una carrera de Gran Premio al final de la\ntemporada de primavera, celebrada en Kansai."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Creo que tanto Spe como Grass van a correr en\nella. Y hay algo que quiero confirmar allí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No es una carrera que tuviera en mente para\nella... Pero al mirar los ojos determinados de\nSky, solo hay una respuesta que puedo dar.",
+      "choice_data_list": [
+        "¡Hagámoslo! ¡Corramos en el Takarazuka Kinen!"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...¡Sí!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Bien. Voy a cambiar el guión una vez más. Puedo\nhacerlo—tengo que hacerlo."
+    }
+  ]
+}

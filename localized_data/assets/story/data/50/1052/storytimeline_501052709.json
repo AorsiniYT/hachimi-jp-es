@@ -1,0 +1,67 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Haru Urara",
+      "text": "¡Jejé! ♪ Oh, es simplemente divertido correr con\ntodos!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Y! ¡Y! ¡Creo que me he puesto más fuerte!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Incluso puedo seguirle el ritmo a todos ahora!\n¿No es increíble?!",
+      "choice_data_list": [
+        "Tus esfuerzos finalmente han dado frutos.",
+        "Tus esfuerzos finalmente han dado frutos.",
+        "¡Todavía te falta mucho por recorrer!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Incluso puedo seguirle el ritmo a todos ahora!\n¿No es increíble?!",
+      "choice_data_list": [
+        "Tus esfuerzos finalmente han dado frutos.",
+        "Tus esfuerzos finalmente han dado frutos.",
+        "¡Todavía te falta mucho por recorrer!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí, sí! ¡Voy a obtener el primer lugar en esta\npróxima carrera seguro! ¡Lo presiento!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Así que mejor me apuro y preparo para las\nentrevistas! ¡Oye, Entrenador!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Practiquemos juntos! ¡Tomaré el papel del\nanfitrión!",
+      "choice_data_list": [
+        "¡Espera, ¿soy yo el entrevistado?!",
+        "¿Espera, soy yo la que está siendo entrevistada?!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí! ¡No tienes de qué preocuparte! ¡Vamos a\npracticar montones y montones!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Guau! ¡Qué miedo! ¿P-por qué dices eso?",
+      "choice_data_list": [
+        "¡Estoy tratando de animarte!",
+        "¡Estoy tratando de animarte!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Oh! ¡He visto eso en la tele! ¡Eres como esos\nentrenadores que me dicen que dé lo mejor de mí!\n¡Ya entiendo!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Bueno, ¡entendido! ¡Intentaré con más fuerza!\nDespués de todo, darlo todo es mi especialidad."
+    }
+  ]
+}

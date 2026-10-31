@@ -1,0 +1,246 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente del Arima Kinen, el Equipo Sirius\nemprende un nuevo capítulo..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿¡Qué quieres decir <i>CON</i> que el equipo será\ndisuelto?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...comenzando con un shock."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Bueno, resulta que todos los demás miembros se han\ntransferido y solo tú te quedas."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Me temo que un solo miembro está muy por debajo\ndel mínimo del equipo."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Si no puedes reunir a más miembros, me temo que\ntenemos pocas opciones."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Cómo puede pasar esto de la noche a la mañana?\n¿Cómo puede todo el mundo ser tan frío?",
+      "choice_data_list": [
+        "Vamos a calmarnos al principio.",
+        "Vamos a calmarnos al principio."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿¡Cómo es que <i>ESTÁS</i> tan tranquila?!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "El equipo que heredaste ayer se está\ndesintegrando."
+    },
+    {
+      "name": "<username>",
+      "text": "Tazuna, ¿es inmediata la disolución del equipo?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "No, no creo. Esto es en realidad la primera vez\nque pasa..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Pero esta prórroga es temporal a lo sumo. Sin\nhablar con los superiores, no puedo decir cuánto\ntiempo tendrás.",
+      "choice_data_list": [
+        "Así que el tiempo es esencial."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Sí. Lo siento que haya llegado a esto cuando\nacabas de tomar el mando..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Hmph! No es un problema. ¡Reuniremos a nuevos\nmiembros del equipo de inmediato!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>Yo</i> soy una Mejiro! ¡Probaré cuánto poder hay en el\nnombre Mejiro!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Nuestro equipo busca nuevas reclutas. ¡Ven a sudar\ntu juventud con nosotros!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Principiante o veterano, damos la bienvenida a\ntodos las corredores. ¡Te haremos sentir como en\ncasa!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Ven uno, ven todos! ¡Ven y consigue zanahorias\nfrescas aquí! Son baratas."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Actúa ahora, y te daremos un trato especial:\nmembresía gratuita en el Equipo Sirius. ¡Hey, tú!\n¿Qué dices?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ugh, ¿¡por qué ni siquiera hay un solo\ninteresado?! ¿¡No <i>saben</i> quién los está\nsolicitando?!"
+    },
+    {
+      "name": "<username>",
+      "text": "Bueno, considera la imagen. Este es un equipo\ndirigido por un entrenador novato que acaba de\nperder a todos sus miembros."
+    },
+    {
+      "name": "<username>",
+      "text": "Bueno, considera la imagen. Este es un equipo\ndirigido por un entrenador novato que acaba de\nperder a todos sus miembros."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Cómo tienes tiempo para ese tipo de pensamiento\nlógico? ¡Deberías estar más preocupado!"
+    },
+    {
+      "name": "<username>",
+      "text": "Estoy tan preocupado como tú."
+    },
+    {
+      "name": "<username>",
+      "text": "Estoy tan preocupado como tú."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El viejo confió en mí para cuidar de su equipo. No\npuedo defraudarlo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El viejo confió en mí para cuidar de su equipo. No\npuedo defraudarlo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero como están las cosas, no creo que estos\nmétodos nos traigan a nuevos reclutas con los ojos\nbrillantes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Necesitamos una nueva estrategia. Necesitamos\ncentrarnos en hacer de este un equipo que\ncualquier persona querría unirse."
+    },
+    {
+      "name": "<username>",
+      "text": "En cualquier caso, ¿por qué no damos un descanso a\nnuestras mentes por ahora y nos entrenamos un\npoco?"
+    },
+    {
+      "name": "<username>",
+      "text": "En cualquier caso, ¿por qué no damos un descanso a\nnuestras mentes por ahora y nos entrenamos un\npoco?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Yo... supongo que tienes razón."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No podemos dejar que esto ocupe todo nuestro\ntiempo cuando tenemos carreras que ganar....Voy a\nprepararme."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nuestra primera meta es ganar el Tenno Sho de\nprimavera a finales de abril."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nuestra primera meta es ganar el Tenno Sho de\nprimavera a finales de abril."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La carrera de 3.200 metros será una prueba seria\nde resistencia. Decido trabajar en mejorar su\nforma para sacar su mejor rendimiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La carrera de 3.200 metros será una prueba seria\nde resistencia. Decido trabajar en mejorar su\nforma para sacar su mejor rendimiento."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>Jadeando, jadeando, jadeando...</i>"
+    },
+    {
+      "name": "<username>",
+      "text": "Al salir de esa curva, intenta poner más energía\nen tu pierna izquierda. Imagina que pateas el\nsuelo con tu pie izquierdo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Entendido."
+    },
+    {
+      "name": "<username>",
+      "text": "Concéntrate en eso durante tres vueltas más.\nTerminaremos el día después de eso."
+    },
+    {
+      "name": "<username>",
+      "text": "Concéntrate en eso durante tres vueltas más.\nTerminaremos el día después de eso."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Solo tres vueltas más?"
+    },
+    {
+      "name": "<username>",
+      "text": "Todavía no estás acostumbrada a esta forma, así\nque debemos tener cuidado de no esforzar tus\npiernas."
+    },
+    {
+      "name": "<username>",
+      "text": "Todavía no estás acostumbrada a esta forma, así\nque necesitamos tener cuidado de no forzar tus\npiernas."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Sí, entiendo cómo podría ser una preocupación."
+    },
+    {
+      "name": "<username>",
+      "text": "Hazme saber si tienes alguna objeción, ¿de\nacuerdo? No quiero forzarte a hacer cosas con las\nque no estás de acuerdo."
+    },
+    {
+      "name": "<username>",
+      "text": "Hazme saber si tienes alguna objeción, ¿de\nacuerdo? No quiero forzarte a hacer cosas con las\nque no estás de acuerdo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Oh no, tu razonamiento es sólido. No tengo ninguna\nqueja con respecto a tu juicio."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hablando como si para tranquilizarme, Mejiro\nMcQueen vuelve a la pista."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de todo, todavía siento un toque de\ninsatisfacción."
+    },
+    {
+      "name": "<username>",
+      "text": "Ella no parece muy convencida..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Es mi instrucción lo que falta, o se trata\nsimplemente de construir confianza?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y todavía tenemos que preocuparnos por el\nreclutamiento. Esto se ha convertido en una\nespecie de ordalía...",
+      "choice_data_list": [
+        "No me detendrá, aunque"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y todavía tenemos que preocuparnos por el\nreclutamiento. Esto se ha convertido en una\nespecie de ordalía...",
+      "choice_data_list": [
+        "No me detendrá, aunque"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me doy un buen golpe en las mejillas y vuelvo a\nmirar a McQueen."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me doy un buen golpe en las mejillas y vuelvo a\nmirar a McQueen."
+    }
+  ]
+}

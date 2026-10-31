@@ -1,0 +1,60 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después del entrenamiento, veo a una Uma Musume\ncon una expresión preocupada en su rostro."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Siempre corro con fuerza... No, no es eso. Me\naseguro de divertirme... y dar lo mejor de mí?\nTampoco es eso..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hmm, ¿qué debería hacer?",
+      "choice_data_list": [
+        "¿Algo malo?",
+        "¿Algo malo?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Bueno... El periódico escolar dijo que querían\nescribir un artículo sobre mí..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pero siempre he sido muy mala en ese tipo de\ncosas. Solo estaba pensando en cómo debería\nresponder a sus preguntas.",
+      "choice_data_list": [
+        "¿Por qué no les muestras cómo entrenas?",
+        "Piénsalo como una oportunidad para trabajar en tus\ndebilidades."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Ya veo... No tendría que explicar nada verbalmente\nentonces."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Gracias. Intentaré hacer exactamente eso."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Tienes razón... No debería huir de las cosas todo\nel tiempo solo porque se me dan mal."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pero aún no sé qué hacer...",
+      "choice_data_list": [
+        "¿Quizás puedes preparar algunas notas con\nanticipación?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Oh... Eso podría funcionar."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Gracias. Lo intentaré."
+    }
+  ]
+}

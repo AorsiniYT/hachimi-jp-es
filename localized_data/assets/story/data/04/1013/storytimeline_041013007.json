@@ -1,0 +1,247 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El campamento de entrenamiento de verano en la\nplaya está en pleno apogeo, donde los estudiantes\nestán entrenando más duro de lo habitual."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "La arena proporciona una experiencia tan diferente\na correr en césped. Realmente puedo sentir el\nimpacto que está teniendo en mí."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Muy bien, debería darle otra—"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Oye, ¿escuchaste que va a haber un festival por\naquí esta noche?"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¿Lo hay? ¡Entonces vamos después de entrenar!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Oh, ¿un festival? Eso suena bastante encantador."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Tengo algunos recuerdos agradables de ir a uno\ncuando era más joven. Fue divertido ver todos los\npuestos y actividades que ofrecían.",
+      "choice_data_list": [
+        "¿Por qué no vamos, entonces?",
+        "¿Por qué no vamos, entonces?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ah, ¿estaría bien?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "En ese caso, mejor terminar mi entrenamiento\nrápidamente. Pondré todo en este último empuje."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de que termina nuestro entrenamiento,\nMcQueen y yo nos dirigimos a los terrenos del\nfestival mientras el cielo se tiñe de dorado."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Oh, todo está tan animado!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Hay tantos puestos que casi no sé por dónde\nempezar... ¡Ah!",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Eh, ¿estaría bien echar un vistazo a algunos de\nlos puestos más lejos por ahí?",
+      "choice_data_list": [
+        "Por supuesto."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Gracias! Entonces vámonos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo la intención de seguirla justo detrás, pero\nal comenzar a caminar...",
+      "choice_data_list": [
+        "¡Uf!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las multitudes resultan complicadas de navegar, y\nme choco con alguien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para cuando soy capaz de orientarme de nuevo, ya\nhe perdido de vista a McQueen."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incluso después de buscar un rato, no puedo\nencontrarla en el mar de gente.",
+      "choice_data_list": [
+        "(¿Hasta dónde pudo haber llegado?)",
+        "(¿Hasta dónde pudo haber llegado?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Justo entonces, el sistema de anuncios se activa."
+    },
+    {
+      "name": "Personal",
+      "text": "Una persona perdida ha llegado a la carpa del\npersonal. Mejiro McQueen está buscando a su\nentrenador. Por favor, venga a la carpa del\npersonal del evento al escuchar este mensaje."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Oh, aquí estás!",
+      "choice_data_list": [
+        "Me alegra que tú también estés bien."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Lo siento, todo es porque fui adelante sin\nsiquiera mirar atrás."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Esta vez me aseguraré de quedarme a tu lado\nmientras caminamos...",
+      "choice_data_list": [
+        "No fue gran cosa, de verdad.",
+        "No fue gran cosa, de verdad."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Aun así, no quiero causarte más problemas...",
+      "choice_data_list": [
+        "Hay una regla en un festival: ¡suelta la melena y\ndiviértete!",
+        "Hay una regla en un festival: ¡suelta la melena y\ndiviértete!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Eh? Eso... ¿es una regla?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Jeje, parece que todos están siguiendo el edicto\nbien."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "En ese caso, tengo una petición. ¿Podemos volver\nhacia los puestos que originalmente me\ninteresaron?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Me gustaría que te unieras a mí en las\nfestividades."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Solo tengo que pescar a este pequeño... ¡Ha!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Oh no, el hilo se rompió... ¡Tendero, me gustaría\nintentarlo de nuevo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro McQueen ha tomado un gran interés en el\njuego de pesca de globos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un corto tiempo después..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Lo logré, Entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Miro para ver a McQueen sosteniendo triunfalmente\nun globo de festival."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Jeje, resultó ser más una prueba de lo que pensé.\nMe alegra haberlo podido pescar al final."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Siento que podría conquistar cualquiera de los\njuegos aquí. ¡Vamos al siguiente puesto!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Oh, mira por allá! ¡Un juego de tiro! ¡Dice que\ntambién tienen premios premium!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Me pregunto qué podemos conseguir... ¿Echamos un\nvistazo?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Entrenador, ven conmigo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de disfrutar de toda la emoción que el\nfestival tiene para ofrecer, decidimos caminar de\nvuelta a los terrenos del campamento de\nentrenamiento juntos."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Muchas gracias por acompañarme esta noche. Fue muy\ndivertido.",
+      "choice_data_list": [
+        "No hice mucho más que estar parado, aunque."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Eso no es cierto! Bueno, ¿cómo decirlo?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Si cualquier otra persona hubiera venido,\nciertamente no me habría \"soltado la melena\", como\nmencionaste."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Como una Mejiro, siempre he intentado mantener un\ncierto nivel de decoro en todo momento. Sin\nembargo..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Si estoy contigo, yo... siento que puedo\npermitirme relajarme un poco."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No te importa eso, ¿verdad?",
+      "choice_data_list": [
+        "Para nada."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Eso me hace muy feliz escuchar! Tengo otra\npetición, entonces."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Te gustaría dar un paseo conmigo? Podemos comer\nestos pasteles esponjosos de zanahoria que compré\nen el camino."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Normalmente, consideraría que comer mientras se\ncamina es de mala educación, pero somos solo tú y\nyo aquí esta noche...",
+      "choice_data_list": [
+        "¡Vamos!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Jeje, ¡gracias! Muy bien entonces, por favor,\nsírvete."
+    }
+  ]
+}

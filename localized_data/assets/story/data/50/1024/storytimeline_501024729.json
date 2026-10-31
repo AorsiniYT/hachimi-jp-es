@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mayano Top Gun",
+      "text": "Ay, ¡casi! ¡Casi lo logras!",
+      "choice_data_list": [
+        "Lo siento...",
+        "Lo siento..."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡No, está bien! ¡No te preocupes!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Estoy súper feliz de que trabajaste tan duro por\nmi causa!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Así que ánimo, ¿vale?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bueno, eso fue decepcionante."
+    }
+  ]
+}

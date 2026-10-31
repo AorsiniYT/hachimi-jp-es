@@ -1,0 +1,78 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Acompaño a Air Groove a la enfermería después de\nque sufre una lesión durante el entrenamiento."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ugh. La idea de quedarse atrás debido a una lesión\ntan pequeña es...",
+      "choice_data_list": [
+        "Lo siento, debería haber sido más cauteloso.",
+        "Lo siento, debería haber sido más cauteloso.",
+        "¡Lo compensaremos cuando estés completamente\nmejor!"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ugh. La idea de quedarse atrás debido a una lesión\ntan pequeña es...",
+      "choice_data_list": [
+        "Lo siento, debería haber sido más cauteloso.",
+        "Lo siento, debería haber sido más cauteloso.",
+        "¡Lo compensaremos cuando estés completamente\nmejor!"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "No es tu culpa."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Fui yo quien hacía el ejercicio—soy yo quien\nnecesita reflexionar sobre lo que pasó."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Esto sirve como una buena lección, sin embargo."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Me esforzaré por evitar repetir un error tan\ndescuidado en el futuro."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Más fácil dicho que hecho. Cada segundo\ndesperdiciado es un segundo que nunca recuperarás."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Este fracaso de mi parte continuará\npersiguiéndome."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Todo lo que puedo hacer es aceptar la pérdida y\nredoblar mi entrenamiento una vez que me recupere."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Más fácil dicho que hecho. No puedes compensar el\ntiempo perdido con una ética de trabajo común."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Entiendes las consecuencias de lo que estás\ninsinuando?",
+      "choice_data_list": [
+        "¡Ambos le daremos nuestro todo!"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Je... Buena respuesta."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Entonces prepárate para continuar entrenando en un\nmomento. Aviso."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¡Volveré a ello tan pronto como me recupere de\nesta irritante lesión!"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tokai Teio",
+      "text": "¡Oh, buen trabajo!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "No eres tan buena como yo, pero tienes algo de\nhabilidad.",
+      "choice_data_list": [
+        "Aquí, para que te lo quedes."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Eh? ¿¡En serio?!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Yay! ¡Gracias! ¡Mi habitación siempre puede usar\nmás de estos! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Eso salió bastante bien!"
+    }
+  ]
+}

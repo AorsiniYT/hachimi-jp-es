@@ -1,0 +1,154 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es un nuevo año, y mientras pienso en qué metas\nestablecer para Mejiro Ryan..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Feliz Año Nuevo, Entrenador!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Deberíamos comenzar con entrenamiento de\nmúsculos? ¿O qué tal un yoga de Año Nuevo para\ncelebrar?",
+      "choice_data_list": [
+        "No lo creo.",
+        "No lo creo."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Ninguna de las anteriores? Entonces probablemente\nquieras planificar las metas de este año..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Muy bien, apuntemos alto. ¿Qué tal si ponemos la\nmira en tener éxito en los Classics?!",
+      "choice_data_list": [
+        "¡Apunta más alto!"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Eh? Pensé que ya era bastante alto. Muy bien\nentonces..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Voy a aumentar masivamente la fuerza de mis\nisquiotibiales! ¿Qué tal esa meta, huh? Jeje.",
+      "choice_data_list": [
+        "¡Más grande! ¿Qué tal convertirte en Campeón de la\nTriple Corona?"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Uy! D-definitivamente una grande. No creo tener\nla confianza para eso..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Quiero decir, voy a entrar en los Classics para\nvencer a McQueen, por supuesto...",
+      "color_text_info_list": [
+        "McQueen"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Pero desde que era pequeña, he establecido metas\ndemasiado altas solo para que terminen en\nfracaso..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Será una tarea difícil superar sus malas\nexperiencias. Pero aún así... debe haber algo que\npodamos hacer.",
+      "choice_data_list": [
+        "¡Intentemos algo un poco más grande entonces!"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Entendido... Pensaremos en esto juntos,\nEntrenador."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Se te ocurrió algo? Si es así, ¡déjame\nescucharlo! Mi gran meta, en tres, dos, uno!",
+      "choice_data_list": [
+        "¡Enamorarme perdidamente!",
+        "¡Llevarte con estilo!",
+        "¡Empieza a pensar en el panorama general!"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿E-enamorarme?! ¿Tengo que arder de pasión... como\nmeta?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Pero... nunca siquiera he tenido un\nenamoramiento..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Waaaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ryan grita y sale corriendo. Me pregunto qué está\npasando."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "De ninguna manera, de ninguna manera, de ninguna\nmanera..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "De ningún modo... <i>¡Eso es </i>tan vergonzoso!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Soy demasiado tímida para eso!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Probamos todo tipo de ejercicios para deshacernos\nde su timidez. Como resultado, su rendimiento\nparece mejorar."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Estilo? Ya veo... Entonces crees que debería\nhacer cosas que dejen impresión, ¿eh?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Oh, sííí!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Entrenadorrr! Oye, Entrenador. ¡Mira esto!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Desplegué esta pancarta enorme que dice \"¡VAMOS!\n¡VAMOS! RYAN!\" ¿No es genial?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Ahhh, un gran trabajo con una pancarta enorme\nbajo el gran cielo azul! ¡Me siento genial!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dije que se llevara con estilo, pero en su lugar\nhace algo con estilo para cargar. Aún así, Ryan se\nve muy satisfecha consigo misma."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿El panorama general? Eso es un poco difícil de\nentender. ¿Cómo hago eso?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Debería mirar algo más grande? En ese caso..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡El planetario! ¡Este es el lugar para estar\ncuando quieres mirar las estrellas y sentir algo\nenorme!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Oh... Esa pareja de allá parece estar de buen\nhumor. Espera, ¿e-están diciendo cuánto se gustan?\nAgh, mi corazón..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mirar las estrellas—y las diversas parejas a\nnuestro alrededor—parece haber expandido su\npensamiento un poco."
+    }
+  ]
+}

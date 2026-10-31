@@ -1,0 +1,210 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Tokai Teio se ha estado esforzando mucho en su\nentrenamiento para la Copa de Japón.",
+      "color_text_info_list": [
+        "Copa de Japón"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Genial! Esa fue una excelente sesión de sprint.\n¿Qué sigue? ¿Los ejercicios de curvas, ¿verdad?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Como tengo mucha energía left, debería trabajar en\nmis giros para el último esfuerzo también.",
+      "choice_data_list": [
+        "¡Sí, vámonos!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Genial! ¡Huuup!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las habilidades de Tokai Teio parecen estar\nmejorando constantemente. Hoy ha sido muy\nproductivo."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Buen trabajo hoy, Entrenador."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Estoy lista para un baño y algo de comida. Me\npregunto qué habrá en el menú esta noche."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...Ah."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tokai Teio se detiene y mira hacia..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Debo esforzarme aún más."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...McQueen todavía está en ello hoy también."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Hey, Entrenador. Estoy en excelente forma en este\nmomento, ¿verdad?",
+      "choice_data_list": [
+        "¿Qué pasa de repente?",
+        "¿Qué pasa de repente?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Solo responde! Me estoy fortaleciendo cada día,\n¿verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella quiere que afirme su habilidad, pero en\nrealidad no hay necesidad...",
+      "choice_data_list": [
+        "Estás progresando bien.",
+        "Estás progresando bien."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Eso es lo que pensaba! ¡Genial!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Um... Quiero hacer un partido de práctica con\nMcQueen."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Me está afectando mucho. Lo que dijo el Presidente\nesa vez..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Cómo nunca podré vencer a McQueen, no importa\ncuántas veces corramos..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Así que, por favor, déjame correr un partido de\npráctica contra McQueen."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para ser honesto, como su entrenador, estoy\ninteresado en ver cómo saldría tal carrera. Le doy\npermiso para hacer el partido de práctica."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Genial, estoy lista para ir! ¡Tú mejor cuidado,\nMcQueen!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Puedo decir lo mismo de ti."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No estoy en posición de perder, después de todo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Comienza el partido de práctica contra Mejiro\nMcQueen..."
+    },
+    {
+      "name": "Umamusume Caster",
+      "text": "Mejiro McQueen mantiene su ventaja al entrar en la\ncuarta curva."
+    },
+    {
+      "name": "Umamusume Caster",
+      "text": "Tokai Teio simplemente no puede seguirle el ritmo.\nLa brecha sigue aumentando y... Mejiro McQueen\ncruza la meta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Uoooooh!</i>"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...La victoria es mía."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "McQueen, tienes que decirme cuándo decides en qué\ncarrera participar."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Y qué harás entonces!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Te desafiaré de nuevo, ¡por supuesto! Te venceré\nla próxima vez, seguro."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Una idea sin sentido."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No importa cuántas veces te enfrente, el resultado\nnunca cambiará. Siempre ganaré."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Uf..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...",
+      "choice_data_list": [
+        "McQueen realmente es dura.",
+        "McQueen realmente es dura."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Tenían razón... No pude vencerla."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Me pregunto por qué el Presidente estaba tan\nsegura de que McQueen ganaría..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ella sabía que perdería... Dijo que era porque me\nfaltaba algo...",
+      "choice_data_list": [
+        "Teio..."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En los últimos días, Teio ha estado trabajando\nhacia la Copa de Japón con una actitud fuerte y\npositiva."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, estos eventos podrían hacer que las\ncosas sean un poco más complicadas."
+    }
+  ]
+}

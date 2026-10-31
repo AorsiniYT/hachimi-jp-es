@@ -1,0 +1,56 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Encuentro a King Halo murmurando algo cuando entro\na la cafetería."
+    },
+    {
+      "name": "King Halo",
+      "text": "Urk... ¡Simplemente no puedo ganar más peso!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Para mantener mi belleza de primera, necesito\nabstenerme de comer dulces por el momento...",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Oh, Entrenador. Bueno... Estaba pensando en hacer\ndieta."
+    },
+    {
+      "name": "King Halo",
+      "text": "Después de todo, la figura es realmente importante\npara una Umamusume. ¿No crees?"
+    },
+    {
+      "name": "King Halo",
+      "text": "Necesitamos ser fuertes y ágiles en las carreras,\npero también elegantes y ligeras de pies en los\nconciertos ganadores."
+    },
+    {
+      "name": "King Halo",
+      "text": "Para ser de primera, debo hechizar a todos con mi\nactuación tanto en el escenario como en la pista."
+    },
+    {
+      "name": "King Halo",
+      "text": "Así que, como mi entrenador, ¡por favor dame tu\ncompleto apoyo!",
+      "choice_data_list": [
+        "¿Qué tipo de apoyo?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Necesitaré que me acompañes en mis carreras\nmatutinas, que controles mi ingesta de calorías\ny..."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Necesitaré tu discreción cuidadosa cada día para\nmantener mi belleza de primera!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, trabajo con King Halo para ayudarla a\nmantenerse en óptimas condiciones."
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Pasaron semanas sin incidentes, y Fine Motion ha\nestado entrenando felizmente con sus amigas."
+    },
+    {
+      "name": "Amiga de Fine",
+      "text": "¡Hasta luego, Fine! Hoy fue un entrenamiento\nintenso."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ve a descansar. Nos vemos mañana.",
+      "choice_data_list": [
+        "Ustedes trabajaron muy duro hoy.",
+        "Ustedes trabajaron muy duro hoy."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Jeje. Fue tan divertido que no me di cuenta de lo\ncansada que estoy. Cada día es tan hermoso, siento\nque estoy soñando."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Aparte de eso, creo que es hora de que terminemos\nel día. Vamos a regresar a tu oficina y tener\nnuestra reunión."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Reviso mis notas en mi cabeza, listo para terminar\nel día, y entonces... abro la puerta de la oficina\ny encuentro un caos."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Espera... ¿Qué pasó?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un armario en la esquina yace caído, con la cara\nhacia abajo, y sus archivos están esparcidos por\nla escena del crimen.",
+      "choice_data_list": [
+        "¿Quién podría..."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Hmmm... Lo curioso es que la habitación estaba\ncerrada y no había nadie adentro. Pero seguramente\nel armario no se cayó solo, considerando lo lejos\nque están esparcidos los papeles."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Es como si estuviéramos en un libro. Oh,\nEntrenador, creo que hemos tropezado con un\nmisterio de verdad.",
+      "choice_data_list": [
+        "Eh... Sí, claro, sigamos con eso.",
+        "Eh... Sí, claro, sigamos con eso."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Jejeje, no te preocupes... La detective Fine está\nen el caso.",
+      "choice_data_list": [
+        "No te imaginaba como una fanática de los\nmisterios..."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ah, eh... Ahora, tenemos una escena del crimen que\ninvestigar. He leído que la observación es el\nmayor activo de un detective."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...Y mira eso. Mi querida asistente, creo que\nnuestro perpetrador nos ha dejado huellas.",
+      "choice_data_list": [
+        "... huellas de <i>patas</i>.",
+        "... huellas de <i>patas</i>."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Jejeje, te dije que tengo más que ramen en la\ncabeza. Apuesto a que estas pistas nos llevarán\ndirectamente a la verdad."
+    },
+    {
+      "name": "Gato",
+      "text": "Miau."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...\"Miau\"."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Seguimos las huellas hasta mi escritorio, donde un\ngato nos mira con ojos muy abiertos y aprensivos."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Entiendo... Todos los piezas están encajando."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "El culpable... eres tú.",
+      "choice_data_list": [
+        "Oh, qué poderes de deducción.",
+        "Oh, qué poderes de deducción."
+      ]
+    },
+    {
+      "name": "Gato",
+      "text": "MIAUUUU."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Está bien, no estamos enojados contigo. Ven aquí."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Oh! Parece que tienes un collar.",
+      "choice_data_list": [
+        "Debe ser la mascota de alguien.",
+        "Debe ser la mascota de alguien."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "La pregunta es, ¿de quién? Supongo que nuestro\npobre amigo debe haberse perdido y vino aquí."
+    },
+    {
+      "name": "Gato",
+      "text": "Miau... Mreow."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Shhh, no te preocupes. Te ayudaremos a regresar a\ncasa.",
+      "choice_data_list": [
+        "¿Crees que podemos descubrir a quién pertenece?",
+        "¿Crees que podemos descubrir a quién pertenece?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Por supuesto. Resolveremos este caso en un abrir y\ncerrar de ojos. Primero, preguntaremos por pistas.\n♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Verificamos si los estudiantes cerca de mi oficina\nvieron algo y seguimos pistas a través de una\ncadena de restaurantes de ramen en el pueblo hasta\nque finalmente..."
+    },
+    {
+      "name": "Dueña de mascota",
+      "text": "No puedo agradecerles lo suficiente. Estaba\naterrada de que nunca encontraríamos a nuestro\npequeño bebé."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Fue un placer. Nos retiraremos ahora, así que\ntengan una hermosa noche."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ahem. Diría que el caso está cerrado. Y no podría\nhaberlo hecho sin mi fiel ayudante."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Jeje, fue divertido. No esperaba una aventura así.",
+      "choice_data_list": [
+        "Es agradable tener un cambio de ritmo, ¿verdad?",
+        "Es agradable tener un cambio de ritmo, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Oh, definitivamente. Jeje, una pequeña sorpresa\npara animar la rutina... Algo especial..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Jeje, creo que puedo arreglar eso."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Super Creek no aparece para el entrenamiento, así\nque decido ir a buscarla."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Listo! Eso debería evitar que esos botones se\nsalgan."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Ahora entonces, ¿qué más me pidieron hacer...",
+      "choice_data_list": [
+        "¿Alguien te pidió que hicieras costura?",
+        "¿Alguien te pidió que hicieras costura?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Oh, Entrenador! ¿Qué te trae por—"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Ahhh! ¡¿Cuándo se hizo tan tarde?!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Lo siento mucho. Qué tonta, dejándome llevar\nasí...",
+      "choice_data_list": [
+        "Por favor, ten más cuidado la próxima vez.",
+        "Por favor, ten más cuidado la próxima vez."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Lo haré... Me disculpo por ser tan problemática."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Consuelo a Super Creek mientras reflexiona sobre\nsus acciones y salimos del salón juntos."
+    }
+  ]
+}

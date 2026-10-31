@@ -1,0 +1,285 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Voy a la ciudad en mi día libre para echar un\nvistazo a algo que creo que podría alegrar a\nKawakami Princess."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Jaaaaah..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "De repente, un suspiro exasperado llama mi\natención—es ella."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¿Q-qué pasa? ¿Entrenador? ¿Qué estás haciendo\naquí?",
+      "choice_data_list": [
+        "Pareces bastante deprimida hoy.",
+        "Pareces bastante deprimida hoy."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Bueno, sí... ¡por supuesto que lo estoy! ¡Es\nhorrible! La forma en que se comportó esa\nbravucona fue lo peor."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ella era igual que este personaje en Princess\nFighter... la líder de las Umamusume Oscuras, la\nPrincesa Oscura."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "No puedo creer que perdiera contra ella... Esto no\nes solo un final malo, es directamente deprimente.\nMe han degradado de princesa a rana."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Kawakami Princess está más molesta por su derrota\nde lo que pensaba. El lugar al que vine a echar un\nvistazo debería ser de ayuda, sin embargo.",
+      "choice_data_list": [
+        "Hey, hay un lugar al que creo que deberíamos ir."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¿Mmm? ¿Y dónde está ese lugar?",
+      "choice_data_list": [
+        "Oh, no quiero arruinar la sorpresa. Lo verás.",
+        "Oh, no quiero arruinar la sorpresa. Lo verás."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "...?"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡GUUUAAA!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Entrenador, este póster... es para la primera\npelícula de Princess Fighter."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Pero ¿por qué...? Salieron hace años.",
+      "choice_data_list": [
+        "Encontré un cine que muestra películas más\nantiguas.",
+        "Encontré un cine que muestra películas más\nantiguas."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Así que quieres decir... que podemos ver Princess\nFighter ahora mismo. En la gran pantalla.",
+      "choice_data_list": [
+        "Claro que sí."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Woohoooo. Esto es genial."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Es realmente lo mejor, Entrenador. ¿Qué estamos\nesperando? ¡Vamos a comprar nuestros boletos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Creo que está funcionando."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Aaah... Fue tan conmovedor.",
+      "choice_data_list": [
+        "Me alegra que te haya gustado."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡<i>Me</i> encantó! ¡La primera película siempre será la\nmejor! ¡Fue tan emocionante que pensé que iba a\nromper los reposabrazos!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ah, como la escena en la que la princesa está\nrodeada por un billón de tropas de Umamusume\nOscuras pero escapa siguiendo la señal de luz del\npríncipe."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "O la escena en la pista de carreras lunar donde\nella y el príncipe purifican al Emperador de la\nNebulosa Oscura después de que se fusionó con el\nagujero negro. Podría verla un millón de veces."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Wow, fue tan divertido... Realmente..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "...",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Una verdadera princesa y su príncipe tienen que\nhacer que sucedan cosas increíbles como esas,\n¿verdad..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Pero cuando llegó el momento, me destruyó la\nPrincesa Oscura—bueno—alguien igual que la\nPrincesa Oscura."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "No soy digna de ser una princesa. Lo más lejos que\nllegaré es a ser una extra de fondo.",
+      "choice_data_list": [
+        "Pero ¿qué hay de esa otra escena?",
+        "Pero ¿qué hay de esa otra escena?"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¿Eh? ¿Qué otra escena?",
+      "choice_data_list": [
+        "La que está justo antes del gran clímax."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Justo antes... ¿Dónde la princesa y el entrenador\nestán a punto de entrar en la carrera que decidirá\nel destino del planeta?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Exacto. Antes de la batalla final, cuando las\ncosas están en su punto más oscuro, la princesa y\nel entrenador tienen una última charla..."
+    },
+    {
+      "name": "Princesa Luchadora",
+      "text": "¿Podría ser realmente el fin para nosotros? ¿No\nhay forma de salvar el planeta?"
+    },
+    {
+      "name": "Legendary Trainer",
+      "text": "Espera, todavía hay una forma... ¡Hay una última\ncarrera para que la terminemos."
+    },
+    {
+      "name": "Legendary Trainer",
+      "text": "Espera, todavía hay una forma... ¡Hay una última\ncarrera para que la terminemos."
+    },
+    {
+      "name": "Legendary Trainer",
+      "text": "Escúchame, Princesa. Ya sabemos que no importa\ncuánto luchemos, no podemos lograr un milagro por\nnuestra cuenta... a menos que"
+    },
+    {
+      "name": "Legendary Trainer",
+      "text": "Escúchame, Princesa. Ya sabemos que no importa\ncuánto luchemos, no podemos lograr un milagro por\nnuestra cuenta... a menos que"
+    },
+    {
+      "name": "Princesa Luchadora",
+      "text": "Aceptamos nuestras fortalezas y debilidades... Y\ncombinamos nuestras diferencias."
+    },
+    {
+      "name": "Legendary Trainer",
+      "text": "Entonces nuestro poder superará con creces\nnuestras capacidades normales. Eso... eso es lo\nque hace un verdadero milagro"
+    },
+    {
+      "name": "Legendary Trainer",
+      "text": "Entonces nuestro poder superará con creces\nnuestras capacidades normales. Eso... eso es lo\nque hace un verdadero milagro"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "(\"Vamos... a la carrera de nuestro destino\" Oooh,\nla escena más famosa de la película)"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "(\"Vamos... a la carrera de nuestro destino\" Oooh,\nla escena más famosa de la película)"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "(¡Espera un momento! ¿Qué dije antes?)"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Vamos, no te preocupes tanto. No necesito tácticas\nni nada. Porque..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Tenemos el poder invencible de nuestro vínculo.\nSolo confía en él y espera mi regreso"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Aaaaagh!",
+      "choice_data_list": [
+        "¿Estás bien!",
+        "¿Estás bien!"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Yo... yo estaba tomando las cosas con mucha calma\nantes. Me tomé las cosas por sentado, como si un\nmilagro fuera a suceder solo"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡He visto la película Princess Fighter <i>docenas</i> de\nveces! ¡Pero olvidé algo tan importante!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Argh. Me da tanta vergüenza que podría hacer un\nagujero en el suelo y esconderme en él ahora mismo",
+      "choice_data_list": [
+        "No te preocupes. Nuestra lucha apenas comienza",
+        "No te preocupes. Nuestra lucha apenas comienza"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No ha pasado mucho tiempo desde que nos conocimos.\nEn términos de Princess Fighter... estamos en el\nepisodio seis. Apenas hemos empezado"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ah. Tienes razón. Eso es exactamente. Al\nprincipio, Princess Fighter no es una princesa\nperfecta"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Odia cómo va el entrenamiento y se va a una isla\ndesierta... e incluso aplasta los pesas que le dio\nel artesano"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Pero eso es cuando ella y el príncipe hablan y se\nentienden... Se vuelven más fuertes a lo largo de\ncuarenta y nueve episodios",
+      "choice_data_list": [
+        "Y eso es exactamente lo que vamos a hacer",
+        "Y eso es exactamente lo que vamos a hacer"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Yo también estoy empezando, así que estoy lejos de\nser un Entrenador Legendario, pero voy a llegar\nallí algún día con Kawakami Princess"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Sí, hagámoslo. Seguiremos el camino de la princesa\njuntos"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Y yo... yo quiero saber más sobre ti, sobre mi\npríncipe"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Quiero decir, hay tantas cosas que no sé. Como,\nqué tipo de ropa te gusta, o tus toppings de ramen\nfavoritos y equipo de entrenamiento",
+      "choice_data_list": [
+        "Tienes que contarme todo sobre ti también",
+        "Tienes que contarme todo sobre ti también"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Definitivamente lo haré. Hablaremos de todo, desde\nnuestra infancia hasta lo que son nuestros padres"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Claro... El poder del vínculo entre una princesa y\nsu príncipe... Eso es lo que realmente potenciará\nmi carrera"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ahhh, siento que estoy a punto de explotar de\nenergía. Kawakami Princess... ha vuelto"
+    }
+  ]
+}

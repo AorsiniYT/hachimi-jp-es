@@ -1,0 +1,101 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Smart Falcon",
+      "text": "<i>Suspiro...</i> No puedo creer que esto pasara..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Lamento mucho preocuparte así,Entrenador... <i>Snif.</i>"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "No... ¡Anímate, Falco! ¡Las lágrimas de una ídola\nse reservan solo para momentos felices!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Estaré bien, Entrenador! ¡Así que levanta la\ncabeza y cambia esa mueca de enfado por una\nsonrisa!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Ay!",
+      "choice_data_list": [
+        "¡Quédate quieta! ¡Todavía te estás recuperando!",
+        "¡Quédate quieta! ¡Todavía te estás recuperando!",
+        "¡Mantente fuerte! ¡Sigue adelante!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Ay!",
+      "choice_data_list": [
+        "¡Quédate quieta! ¡Todavía te estás recuperando!",
+        "¡Quédate quieta! ¡Todavía te estás recuperando!",
+        "¡Mantente fuerte! ¡Sigue adelante!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Agh... No puedo creer que hice que mi primer fan\nse viera tan triste..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "El trabajo de una ídola es hacer felices a sus\nfans, ¿verdad? ¡Okay! ¡Voy a poner todo mi\nesfuerzo en recuperarme!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Manténganse sintonizados para el arco de\nrecuperación milagrosa de Falco! ¡Celebraré mi\nregreso con un concierto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Smart Falcon decide descansar y esperar\npacientemente a que sus lesiones sanen."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Eh?",
+      "choice_data_list": [
+        "¡Sé que puedes hacerlo!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Uh, Entrenador, ¿podemos esperar un momento?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Mi lesión podría ser mucho más seria de lo que\npensé... ¿Quizás no debería moverme demasiado? No\nsé..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incapaz de forzar una sonrisa por mucho tiempo,\nSmart Falcon se toma un tiempo para descansar lo\nque necesita."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Tienes toda la razón! No soy de las que se\ndesaniman por algo así!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Gracias por creer en mí! ¡Considera que estoy de\nvuelta en acción!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Vamos! ¡Vamos!",
+      "choice_data_list": [
+        "¡Tú puedes, Falco!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Gracias a tu ánimo, tengo montones de energía!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Muy bien! ¡Sé que ahora puedo superarlo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Smart Falcon reanuda el entrenamiento y tiene una\nrecuperación asombrosa!"
+    }
+  ]
+}

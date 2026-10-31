@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy marca el inicio de otro campamento de verano."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Entrenador! ♪ ¡Bienvenido a nuestra casa de\nvacaciones! ☆"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Estoy ansiosa por pasar otro caluroso verano\ncontigo. ☆",
+      "choice_data_list": [
+        "¿Quieres decir \"un verano caluroso con todos\",\n¿verdad?"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Vamos! ¡No otra vez!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Aún así, este año es realmente..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Va a ser el más caluroso hasta ahora. ¡Jijiji! ☆"
+    }
+  ]
+}

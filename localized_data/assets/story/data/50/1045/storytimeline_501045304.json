@@ -1,0 +1,153 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "A pesar de no sentirse en su mejor momento, Super\nCreek logra un gran resultado. Sin embargo..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "<i>Haa, resuello, siseo...</i>",
+      "choice_data_list": [
+        "¡Super Creek!"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Estoy bien, de verdad... Así que por favor... No\nhay necesidad de verse tan preocupado... ¿vale?"
+    },
+    {
+      "name": "Super Creek",
+      "text": "No es nada... Pero soy... una mala Creek... por\nhacer... que te preocupes."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Urk!",
+      "choice_data_list": [
+        "¡Vamos a hacerte revisar!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de su revisión de emergencia, a Super\nCreek le recetan reposo en cama."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de dormir un rato..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Eh, perdón por causarte tantos problemas...",
+      "choice_data_list": [
+        "¿Te sientes mejor ahora?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Sí. Mientras descanse, debería estar bien. Pero..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Siento como si hubiera una extraña pesadez dentro\nde mi cuerpo."
+    },
+    {
+      "name": "Doctor",
+      "text": "Lo investigué pero no pude identificar la causa."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿No sabes qué está mal? ¿Qué significa eso?"
+    },
+    {
+      "name": "Doctor",
+      "text": "Ella tiene un caso leve de mala circulación, y es\nprobable que se repita."
+    },
+    {
+      "name": "Doctor",
+      "text": "Sin embargo, es difícil identificar la causa."
+    },
+    {
+      "name": "Doctor",
+      "text": "Todavía hay mucho que no sabemos sobre la\nfisiología de las Umamusume, y no hay muchos\nestudios de caso que podamos usar como referencia."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Vaya...",
+      "choice_data_list": [
+        "¿Hay algo que podamos hacer, Doctor?"
+      ]
+    },
+    {
+      "name": "Doctor",
+      "text": "Por ahora, solo asegúrate de no exigirle\ndemasiado. Sin conocer la causa de su dolencia, me\ntemo que no podemos elaborar un plan de\ntratamiento."
+    },
+    {
+      "name": "Doctor",
+      "text": "Rastrear la causa... es tu trabajo, Entrenador.",
+      "choice_data_list": [
+        "¿Mi trabajo?",
+        "¿Mi trabajo?"
+      ]
+    },
+    {
+      "name": "Doctor",
+      "text": "Sí. Dado que eres tú quien la observa a diario,\ndepende de ti discernir la causa de su condición e\nintentar neutralizarla."
+    },
+    {
+      "name": "Doctor",
+      "text": "También deberás prestar especial atención a su\ncalendario de carreras por ahora."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Por ahora?"
+    },
+    {
+      "name": "Doctor",
+      "text": "Sí. Para darte una estimación aproximada, diría..."
+    },
+    {
+      "name": "Doctor",
+      "text": "Aproximadamente medio año, hasta el otoño."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Otoño? No puede ser... ¿Qué pasa con los\nClásicos?"
+    },
+    {
+      "name": "Doctor",
+      "text": "No diría que es imposible, pero el sentido común\ndictaría que es en tu mejor interés renunciar a\nellos."
+    },
+    {
+      "name": "Super Creek",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decido dejar que Super Creek descanse en la\nenfermería y me dirijo a casa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras me voy, de repente siento una presencia\nen el patio. Me giro para mirar..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "<i>Snif...</i> Solo tienes una oportunidad... Quería\nganar el Satsuki Sho y el Derby para ti..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Tres... Prometí ganar los tres... <i>Snif...</i>"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Guaaaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella estalla en lágrimas, llorando como una niña.\nMe parte el corazón saber que hay poco que pueda\nhacer para consolarla..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dada la situación actual, cambiamos nuestra\npróxima meta al Kikuka Sho. ¿Seré capaz de...\ndeterminar la causa de su condición?"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "T.M. Opera O",
+      "text": "<i>Bostezo...</i>"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Bueno, hola, Entrenador. Lamento que hayas tenido\nque ver eso.",
+      "choice_data_list": [
+        "Pareces agotada.",
+        "Pareces agotada."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Recientemente, mis jugos creativos fluyen mejor\ndespués de que el sol abandona su escenario\ncelestial."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Mi última obra es una ópera escrita por e\ninterpretada por su servidor. <i>Overlord del Cielo\nde Rosa</i> se contará en veintiséis partes."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Al completarse, esta obra maestra seguramente será\nvista como una contribución revolucionaria que\ncambia el reino de las bellas artes!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "T.M. Opera O parece satisfecha con su reciente\nproductividad, pero también es evidente que podría\nusar más descanso."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El URA Finale es un escenario donde todas las\nUmamusume pueden brillar."
+    },
+    {
+      "text": "Por fin, el día de las preliminares ha llegado."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Entrenador, gracias por despedir a <chrname>."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Finalmente han llegado hasta aquí. Como fan, estoy\nextasiado.",
+      "choice_data_list": [
+        "¡Haremos que sea uno para los libros de historia!"
+      ]
+    },
+    {
+      "text": "Heheheh, no lo dudo. ¡Estoy ansioso por la\ncarrera!"
+    },
+    {
+      "text": "Las puertas se abrirán en cualquier momento... URA\nFinale, ¡allá vamos!"
+    }
+  ]
+}

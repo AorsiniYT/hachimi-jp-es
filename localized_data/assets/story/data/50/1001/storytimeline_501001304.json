@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Special Week",
+      "text": "<i>Jadeando...</i> ¡L-lo logré, Entrenador!",
+      "choice_data_list": [
+        "¡Felicidades! ¡Corriste de maravilla!",
+        "¡Felicidades! ¡Corriste de maravilla!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Uhh... Me sentí como si estuviera en algún tipo de\nsueño, y... ¡antes de darme cuenta, ya estaba en\nla línea de meta!"
+    },
+    {
+      "name": "Special Week",
+      "text": "En fin, ¡gracias! Me he vuelto más rápido,\n¿verdad?!",
+      "choice_data_list": [
+        "La siguiente carrera es la que has estado\nesperando: el Japanese Derby.",
+        "La siguiente carrera es la que has estado\nesperando: el Japanese Derby."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Así es!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Si seguimos trabajando juntos, seré cada vez más\nrápido. Y entonces ganaré esa carrera, ¡ya lo\nverás!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Gracias por toda tu ayuda!"
+    }
+  ]
+}

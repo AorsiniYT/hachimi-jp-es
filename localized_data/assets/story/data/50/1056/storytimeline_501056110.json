@@ -1,0 +1,72 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "He pasado tres años con Matikanefukukitaru. Fue\nlargo en esencia, y sin embargo, el tiempo pasó en\nun abrir y cerrar de ojos. Hoy, todo llega a su\nfin."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Sabes, Entrenador. Seguramente tuvimos los tiempos\nmás felices. Además de eso..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Este es el momento perfecto para terminar las\ncosas! Terminar con una visita al santuario de Año\nNuevo es ¡simplemente perfecto!",
+      "choice_data_list": [
+        "Tienes razón en eso.",
+        "Tienes razón en eso."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Correcto! Siempre estamos en la misma sintonía,\nsiempre en sincronía—como bailarines o nadadores\nsincronizados."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "De todos modos, vamos a rezar. Ahora, déjame\nencontrar algo de dinero para la caja de\nofrendas..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Espera, ¡arghhhhh! ¡No tengo cambio encima!\n¡Entrenador, por favor préstame unas monedas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Matikanefukukitaru sigue siendo la misma de\nsiempre—siempre causando alboroto, pero\nencantadora hasta el punto de que no puedes\nculparla..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Junto mis manos y deseo su éxito continuo."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Por qué rezaste? Puedes decírmelo. Solo\nsusúrralo.",
+      "choice_data_list": [
+        "Es un secreto."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Hey, no es justo! ¿Por qué no puedes decírmelo?\n¡Hmph!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Bueno, ¡yo elijo ser un libro abierto! Solo hay\nuna cosa que quiero, después de todo."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Mi deseo es que recibas montones de buena suerte!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Matikanefukukitaru solo tiene un deseo. Y ese\ndeseo es para mí."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡También deseo que me digas qué deseaste!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Supongo que ella tiene dos deseos."
+    }
+  ]
+}

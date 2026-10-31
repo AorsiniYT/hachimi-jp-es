@@ -1,0 +1,84 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gold City",
+      "text": "Una semana completa de descanso, huh... ¿En qué\nestaba pensando, permitiéndome lastimarme así?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Sabía que estaba exhausta, pero me preocupaba\nquedarme atrás si no entrenaba más, y\nsimplemente..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Oh, pero no te preocupes—¡aún puedo hacer algo de\nentrenamiento! Estoy segura de que el doctor\nestaba exagerando todo esto.",
+      "choice_data_list": [
+        "Prefiero que descanses por ahora.",
+        "¡Una mentalidad fuerte puede superar cualquier\nlesión!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero ya entreno menos que todos los demás por mi\ntrabajo de modelaje..."
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Si tengo que sentarme y descansar, literalmente\nvoy a volverme loca!",
+      "choice_data_list": [
+        "Trabajaré en un régimen de entrenamiento especial\npara después de que te hayas recuperado."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Ugh... Es frustrante, pero entiendo. Hablaré con\nmi manager sobre mi horario también."
+    },
+    {
+      "text": "Y así, Gold City se ve forzada a tomarse un tiempo\nlibre."
+    },
+    {
+      "name": "Gold City",
+      "text": "Whoa. ¿Por qué estás tan entusiasmado de repente?\nYo quiero decir... no es que no lo entienda."
+    },
+    {
+      "name": "Gold City",
+      "text": "No podemos permitir que una lesión nos detenga.\nTenemos que volver a la pista y—",
+      "choice_data_list": [
+        "¡Pero tómalo con calma! O si no—"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...¡Argh!"
+    },
+    {
+      "name": "Gold City",
+      "text": "No puede ser... Duele solo caminar. No puedo\nentrenar adecuadamente así..."
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Se supone que debo sentarme aquí y no hacer nada?"
+    },
+    {
+      "text": "Aunque la realidad la desanima, le digo a Gold\nCity que su prioridad es recuperarse de su lesión."
+    },
+    {
+      "name": "Gold City",
+      "text": "No podemos permitir que una lesión nos detenga.\nTenemos que volver a—",
+      "choice_data_list": [
+        "—la enfermería y tener una reunión estratégica.",
+        "—la enfermería y tener una reunión estratégica."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Qué pasó con superar mi lesión con una mentalidad\nfuerte?!"
+    },
+    {
+      "name": "Gold City",
+      "text": "No, espera... Lo siento. Estoy siendo descuidada.\nEs importante considerar <i>cómo</i> me recupero,\n¿verdad?"
+    },
+    {
+      "text": "Después de eso, los dos elaboramos un régimen de\nentrenamiento que ella pueda realizar mientras\nestá lesionada. Puede ser una carga ligera, pero\naún contribuirá a su progreso."
+    }
+  ]
+}

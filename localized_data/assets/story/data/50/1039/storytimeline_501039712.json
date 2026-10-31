@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "La Princesa Kawakami no se ha presentado al\nentrenamiento, así que pregunto antes de salir a\nbuscarla."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Mira estas estéticas reforzadas! ¡Puedo ver por\nqué King tenía tan alta estima por esta exposición\nde arte! ♪"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Hehe. ♪ Con esto, estoy un paso más cerca de\nconvertirme en la más noble de las damas, justo\ncomo ella.",
+      "choice_data_list": [
+        "Estoy bastante seguro de que King nunca olvidaría\nel entrenamiento.",
+        "Estoy bastante seguro de que King nunca olvidaría\nel entrenamiento."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Oh, ¡claro! King nunca haría algo tan estup—"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Espera, Entrenador? ¿Qué estás haciendo aquí? ¿Y\neso de entr...enamiento?"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Ack! ¡Y-y-yo tenía entrenamiento hoy, verdad?!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Lo siento mucho! ¡Se me olvidó por completo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La Princesa Kawakami parece verdaderamente\narrepentida por su error. La advierto que aunque\nla superación personal está muy bien, el\nentrenamiento debería ser su máxima prioridad."
+    }
+  ]
+}

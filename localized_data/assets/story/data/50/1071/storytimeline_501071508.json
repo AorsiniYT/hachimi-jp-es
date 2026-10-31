@@ -1,0 +1,24 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mejiro Ardan",
+      "text": "<i>Suspiro...</i>",
+      "choice_data_list": [
+        "¿Te sientes bien?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Oh... Discúlpame. Mi atención se desvió por un\nmomento. No le des importancia."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Me disculpo por hacerte preocupar y me esforzaré\npor ser más diligente en el futuro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tal vez sea por el agotamiento de la carrera, pero\nMejiro Ardan está luchando por concentrarse en el\nentrenamiento. Puede que necesite replantear su\nhorario."
+    }
+  ]
+}

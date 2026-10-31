@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Los días llenos de eventos de Taiki Shuttle en el\ncampamento de verano están casi terminados..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Realmente no quiero irme hoy..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Pero este campamento de verano me ha endurecido!\n¡Ahora soy muy fuerte!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Nunca más perderé una pelea de almohadas!",
+      "choice_data_list": [
+        "¿Y tu carrera?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh! ¡Mi carrera también está absolutamente\nperfecta! ♪ La he llevado al siguiente nivel!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Estoy lista para convertirme en Umamusume del\nAño!"
+    }
+  ]
+}

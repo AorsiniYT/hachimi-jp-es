@@ -1,0 +1,78 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Grass Wonder y yo hemos venido a la pista para ver\nalgunas carreras."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Allá va! ¡Enfoque láser! ¡Arrasando y cruzando la\nlínea de meta!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Vamos!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Disculpa, Entrenador.",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sé que planeamos ver carreras hoy... Pero ¿te\nimporta si hacemos algo diferente?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Escuchando todos esos vítores. No puedo quedarme\nquieta cruzada de brazos.",
+      "choice_data_list": [
+        "Regresemos y hagamos algunas vueltas.",
+        "La observación es parte de tu entrenamiento.",
+        "La observación es parte de tu entrenamiento."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Escuchando todos esos vítores. No puedo quedarme\nquieta cruzada de brazos.",
+      "choice_data_list": [
+        "Regresemos y hagamos algunas vueltas.",
+        "La observación es parte de tu entrenamiento.",
+        "La observación es parte de tu entrenamiento."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Genial! Muchas gracias."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Apresurémonos, entonces. Debemos comenzar antes de\nque este fuego dentro de mí se apague."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Regresamos juntos a la academia, y Grass Wonder\ncorre hasta altas horas de la noche."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Lo entiendo, pero...",
+      "choice_data_list": [
+        "Haremos entrenamiento extra mañana, ¿vale?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "...Jeh. Justo. Espero con interés lo que planeas\nagregar."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ahora mismo... Prestaré toda atención a estas\ncarreras y preservaré este impulso para\nalimentarme mañana."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Durante el resto de nuestro tiempo en el lugar,\nGrass Wonder observa cada carrera con atención de\nhalcón."
+    }
+  ]
+}

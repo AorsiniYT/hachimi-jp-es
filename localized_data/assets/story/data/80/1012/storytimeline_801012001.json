@@ -1,0 +1,69 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estoy en medio de ver a algunas Umamusume entrenar\ncuando Hishi Amazon me llama."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Oye, tú! ¿Has visto a Sky?",
+      "choice_data_list": [
+        "No, no la he visto...",
+        "No, no la he visto..."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Eh?... Se ha ausentado sin permiso en medio de\nsus clases extra otra vez."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Como líder de la residencia Miho, pensé que\ndebería regañarla bien y ponerla en su lugar."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Hey, ahí está! Ahora solo tengo que descubrir\ncómo atraparla...",
+      "choice_data_list": [
+        "Rodéala por todos lados y atrápala.",
+        "Atrae a la pista."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le digo a Hishi Amazon que sería más efectivo\nacercarse a ella por los lados en lugar de ir\ndirecto a por ella."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Tienes razón. ¡Conseguiré que algunos de mis\nresidentes ayuden a atrapar a esa pequeña\nescurridiza!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Raaaaah! ¡No hay relax en la guardia de Hishiama!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Seiun Sky parece haber anticipado la trampa, pero\nadmite la derrota después de quedar atrapada por\nun muro de Umamusume de múltiples capas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que esto sirvió no solo como un buen\ncastigo para Seiun Sky, sino también como una\nactividad de entrenamiento efectiva por sí misma."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sugiero atraer a Seiun Sky a la pista para que\nperseguirla eventualmente se convierta en una\nforma de entrenamiento mediante carrera en pareja."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Hm, así que no necesariamente tengo que atraparla,\n¿eh? ¡Muy bien, cuenten conmigo!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡SKYYYYY! ¡VUELVE AQUÍ!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las dos juegan al gato y al ratón por un rato,\nhasta que Seiun Sky se da cuenta con horror de que\nha sido completamente engañada."
+    }
+  ]
+}

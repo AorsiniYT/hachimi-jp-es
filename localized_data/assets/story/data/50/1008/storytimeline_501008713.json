@@ -1,0 +1,88 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Vodka",
+      "text": "¡Aughhh! No puedo creer que haya fallado así..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Lo que sea. ¡Una lesión como esta se curará sola\nen un abrir y cerrar de ojos!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Volvamos a entrenar!",
+      "choice_data_list": [
+        "¡Deberías hacer que revisen eso!",
+        "Si estás segura de que estás bien, entonces\nempecemos."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Ugh. No le des tanta importancia. ¿Quién eres, mi\nmadre?",
+      "choice_data_list": [
+        "Pero estoy preocupado..."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "...Vamos. No me mires así. No estoy intentando\nponerte en un aprieto..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Ugh, ¡vale! Lo haré revisar."
+    },
+    {
+      "name": "Vodka",
+      "text": "...Realmente <i>sí</i> actúas como mi mamá, aunque.\n¡Caray..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Refunfuña un poco, avergonzada, pero eventualmente\nacepta que revisen su lesión."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Sí! ¡Soy yo la que conoce mejor su cuerpo,\n¿sabes!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vodka y yo volvemos a la pista y decidimos\nreanudar el entrenamiento, pero..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Mira, te mostraré que esta lesión no es nada de\nqué preocupar—"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Ngh!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Vale, quizás me está afectando un poco, p-pero\nestoy bien, ¡en serio!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Habiéndose forzado a continuar entrenando, Vodka\nagrava su lesión y prolonga su tiempo de\nrecuperación."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Vaya! Te digo que no es gran cosa."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Quejarse de una pequeña lesión como esta sería\nsuper ridículo!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Solo mira esta forma de correr increíble!\n¡Borrará esa mueca de tu cara!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Está bien. ¡Vamos, compañero!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Justo como Vodka prometió, entrena igual que lo\nhacía antes de la lesión."
+    }
+  ]
+}

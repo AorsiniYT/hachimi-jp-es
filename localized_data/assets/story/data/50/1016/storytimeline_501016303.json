@@ -1,0 +1,226 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Justo después de la carrera..."
+    },
+    {
+      "name": "Espectador A",
+      "text": "¿V-viste cómo corrió?! ¡Esta es solo su carrera\ndebut, ¿verdad?!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "<i>Esa</i> es Narita Brian? Es tan... salvaje."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las voces de asombro se propagan como pólvora en\ntodo el público."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero en cuanto a Narita Brian en sí..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "<i>Haa... Haa...</i>",
+      "choice_data_list": [
+        "¿Cómo estuvo la carrera?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Nada mal. Nadie retrocedió, así que fue una\nlucha real hasta el final."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Pero...",
+      "choice_data_list": [
+        "¿Pero?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Nada. Hablemos de otra cosa."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Voy a correr en el Asahi Hai Futurity Stakes la\npróxima vez.",
+      "choice_data_list": [
+        "¿El Asahi Hai F.S.?",
+        "¿El Asahi Hai F.S.?"
+      ],
+      "color_text_info_list": [
+        "Asahi Hai Futurity Stakes"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Asahi Hai F.S. es una carrera G1 que atrae a\nlos mejores corredores junior. Si recuerdo\ncorrectamente, la distancia es de 1,600 metros en\nuna pista de césped.",
+      "color_text_info_list": [
+        "Asahi Hai F.S.",
+        "G1",
+        "junior"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Al parecer, mi hermana corrió allí en su año\njunior. También escucho que es bastante duro."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Bueno, eso es todo por mi parte. Me voy a la cama.",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Estoy cansada. Despiértame cuando sea hora de\nirnos."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella se desploma en el sofá, con un aspecto\nanormalmente sin energía.",
+      "choice_data_list": [
+        "(...Algo parece estar mal.)",
+        "(...Algo parece estar mal.)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Recuerdo cómo se veía durante la carrera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El público pensó que corrió \"salvajemente\". Pero\nsi tuviera que señalar qué estaba fuera de\nlugar..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Hya!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Agh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Desde la salida, ella estaba mirando fijamente a\nlas otras corredoras, corriendo como si estuviera\nhiperconsciente de todas ellas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parecía estar haciendo un esfuerzo notable para\nsuperar por la fuerza a las otras cambiando su\npropio ritmo cada vez que alguien se acercaba."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella emanaba un sentido inusual de intimidación y\ncompetitividad..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y ahora, esa misma Narita Brian está descansando\nen el sofá detrás de mí, profundamente dormida."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Toc, toc.</i>"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Disculpe. ¿Brian es—"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Oh, ¿está dormida? Jajá, se ve exactamente como\ncuando era pequeña."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es Biwa Hayahide, la hermana mayor de Narita Brian\ny una corredora sobresaliente que actualmente\ncompite en la gira de la Triple Corona Clásica."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Gracias por cuidar de mi hermana. Sé que puede ser\negoísta, y un problema a veces..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Pero espero que hagas lo posible por soportarla."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ella está feliz de estar en un lugar donde puede\ndemostrar sus habilidades completas. Solo tiene\nuna forma curiosa de mostrarlo.",
+      "choice_data_list": [
+        "¿Crees que demostró sus habilidades completas hoy?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Bueno, fue su debut."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Seguro que debió estar nerviosa. Probablemente por\neso no parecía estar corriendo como lo hace\nnormalmente.",
+      "choice_data_list": [
+        "¿Qué quieres decir con eso?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hablando como alguien que solía competir con ella\ntodo el tiempo, puedo decirte que su forma\nhabitual de correr es mucho más aterradora."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Una vez que se suelta el gatillo, se acabó. No\nimporta cuán lejos corra, el pensamiento de\nsuperar a su oponente nunca abandona su mente."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Oh, lo siento. Debería simplemente estar\nelogiándola, considerando que es mi hermana menor.",
+      "choice_data_list": [
+        "No, está bien. Esto ha sido educativo.",
+        "No, está bien. Esto ha sido educativo."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jajá, mis disculpas. Ahora tienes intentando\nhacerme sentir mejor."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Pero en general, fue una buena carrera. Nadie\npuede hacerlo perfectamente la primera vez."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Mucha gente solía mantenerse a distancia por su\nfuerza. Debió ser una nueva experiencia para ella\ncorrer con tantas otras.",
+      "choice_data_list": [
+        "¿Es así?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "De hecho. De todos modos, por favor cuídala bien\nde ahora en adelante."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras veo a Biwa Hayahide irse, me doy cuenta\nlo poco que sé sobre el pasado de Narita Brian.",
+      "choice_data_list": [
+        "Necesito saber más sobre ella."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más tarde, noto algo mientras le doy otro vistazo\na la información de Narita Brian."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella no participó en muchas carreras de práctica\nantes de su carrera debut. Seguro que hay muchos\nfactores involucrados, pero..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Creo que eso es lo que la afectó esta vez. La\nperspectiva de correr con tantas otras personas\ndebió afectarla."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como resultado, no pudo correr como de costumbre y\nterminó extremadamente fatigada. ¿Qué puedo hacer\npara solucionar esto?"
+    }
+  ]
+}

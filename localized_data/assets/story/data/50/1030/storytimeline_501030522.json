@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Rice Shower",
+      "text": "Mmm... Quizás pueda ocultarlo con esto..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rice Shower está en mi oficina jugando con su\nflequillo."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Oh-oh, hermano mayor... Solo estoy... eh..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Oh, hermana mayor... solo estoy... eh..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Me salieron granos en la frente, así que pensé...\ntal vez pueda cubrirlos con mi flequillo.",
+      "choice_data_list": [
+        "No te preocupes. Ni siquiera se nota."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Si tú lo dices..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Si tú lo dices..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aun así, su piel sigue incomodándola."
+    }
+  ]
+}

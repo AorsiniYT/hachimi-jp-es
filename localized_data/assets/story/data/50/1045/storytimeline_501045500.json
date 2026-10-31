@@ -1,0 +1,56 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Queriendo hacer algunos snacks para que Super\nCreek tenga durante sus descansos de\nentrenamiento, decido salir y comprar varios\ningredientes."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Hola, Entrenador! ¿De compras?"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Por Dios, mira todas las cosas que tienes...\n¿Estás planeando una fiesta o algo?"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Yo hubiera cocinado para ti si solo me hubieras\ndicho. Por favor, recuerda que puedes pedirme\ncualquier cosa, ¿vale?",
+      "choice_data_list": [
+        "Pensé que quizás querrías algo para picar durante\ntus descansos de entrenamiento."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Perdón? ¿Estás diciendo que eso es para mí?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La ingesta de nutrientes durante el entrenamiento\nes necesaria para mejorar la fuerza y la\nresistencia. Y pensé que un rico tentempié tampoco\nharía daño."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Planeas hacer los snacks tú misma en lugar de\nsolo comprar barras nutricionales?"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Por Dios! ¡Muchas gracias!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Solo soy quien soy hoy porque siempre trabajas tan\nduro por mi bien."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Estudias tanto, eres muy considerada y me das\nmontones de energía."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Lo que significa que debo encontrar alguna forma\nde recompensarte!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Un regalo de gratitud lleno de amor para calmar tu\ncuerpo y alma... Hehe! ♪"
+    }
+  ]
+}

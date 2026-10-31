@@ -1,0 +1,52 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fan A",
+      "text": "¡Por fin, el Tenno Sho de primavera está aquí! No\npuedo esperar para ver a Sky y Spe enfrentarse!"
+    },
+    {
+      "name": "Fan B",
+      "text": "Apuesto a que Special Week ganará. ¡Ha mejorado\ntanto últimamente!"
+    },
+    {
+      "name": "Fan A",
+      "text": "Sí, Spe es más fuerte seguro, pero Sky\ndefinitivamente le dará una buena carrera a esta\ndistancia. Además..."
+    },
+    {
+      "name": "Fan A",
+      "text": "Ella siempre logra salir adelante. ¡Lo puedo\nsentir!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "<i>Inhalar... Exhalar...</i>",
+      "choice_data_list": [
+        "Estás bastante concentrado.",
+        "Estás bastante concentrado."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Bueno, sí. ¿Has visto a Spe? Ha mejorado mucho."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Estoy tratando de calmarme lo mejor que puedo. Si\nrespirar profundamente aumentará mis posibilidades\nde ganar, ni que sea un poco, entonces eso es lo\nque tengo que hacer."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pero sé que eso solo no será suficiente. Tengo que\ndar todo de mí, ¿verdad?",
+      "choice_data_list": [
+        "Puedes hacerlo. Y yo te estaré viendo."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Uy, eso suena un poco raro."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "No me hagas sentir avergonzado. Solo revisa cómo\nestoy de vez en cuando, ¿vale?"
+    }
+  ]
+}

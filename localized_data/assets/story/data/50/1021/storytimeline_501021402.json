@@ -1,0 +1,20 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "De la nada, Tamamo Cross recibe algunas noticias\ndevastadoras de su familia... Su madre ha\nenfermado y colapsado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque no es nada que amenace la vida, la noticia\nafecta la concentración de Tamamo Cross, lo que\nresulta en que se vea involucrada en un accidente\ndurante su siguiente partido de práctica."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque sale de la colisión solo con moretones,\ndesarrolla miedo a correr en un pelotón de alta\nvelocidad.",
+      "color_text_info_list": [
+        "miedo"
+      ]
+    }
+  ]
+}

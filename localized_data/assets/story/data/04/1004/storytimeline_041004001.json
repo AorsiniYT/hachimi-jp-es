@@ -1,0 +1,256 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Los estudiantes están mostrando sus habilidades a\nlos entrenadores en la gran carrera de prueba de\nla academia."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque todos están poniendo su corazón en ello,\nuna corredora no tiene problemas para destacarse\nsobre ellos."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ahora realmente voy a soltarme"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Yeeeaaah! ¡Wuuu!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡M-Maruzensky está aumentando aún más su\nvelocidad! ¡Está dejando atrás al grupo! ¡Nadie\npuede alcanzarla ahora!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "<i>Respiración agitada...</i> Je, je, el viento en mi\ncara se siente genial"
+    },
+    {
+      "name": "New Trainer A",
+      "text": "¡Mírala!",
+      "choice_data_list": [
+        "(¡Qué carrera de running impresionante!)",
+        "(¡Qué carrera de running impresionante!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella es fuerte, hermosa y más rápida que el\nviento..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Parece que todavía tengo más en el tanque"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero lo que la hace especial es que se está\ndivirtiendo más que nadie en la pista."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Eso es todo! ¡Maruzensky ocupa el primer lugar!\n¡Barrió a la competencia —una carrera fantástica!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Yeeeaaah! ¡Wuuu!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Uf! ¡Aaah, me siento genial después de eso! ♪\nCasi deseo que no hubiera terminado tan rápido."
+    },
+    {
+      "name": "Umamusume joven A",
+      "text": "¡Maruzenkyyy! ¡Guau! ¡Eres genial!"
+    },
+    {
+      "name": "Umamusume joven B",
+      "text": "Nunca había visto un tiempo tan rápido"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, hola a todos, ¿no son dulces al animarme?"
+    },
+    {
+      "name": "Umamusume joven A",
+      "text": "Lloré, fue tan asombroso, ¡quiero ser tan rápida\ncomo tú algún día! ¿Podemos correr juntas pronto?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ja, ja, ja, no hay problema, ¡podemos hacerlo\njusto después de esto! Siempre estoy lista para\notra carrera. ♪"
+    },
+    {
+      "name": "New Trainer A",
+      "text": "¡Guau, una victoria con una gran ventaja, y\ntodavía lista para más! ¡Eres algo especial,\nMaruzensky!"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "Tienes un motor como ningún otro, así que, por\nfavor... únete a mi equipo, ¡Maruzensky!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Está bien, espera, qué?"
+    },
+    {
+      "name": "Trainers",
+      "text": "¡Maruzensky, serás nuestra estrella! ¡Maruzensky!\n¡Hablemos, ¿¡de acuerdo?!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, cielos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de su fantástica carrera de prueba, está\nrodeada de entrenadores que todos quieren que se\nuna a su equipo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que tiene otras ideas, sin embargo..."
+    },
+    {
+      "name": "New Trainer A",
+      "text": "¡Vamos, Maruzensky! ¡Una corredora como tú podría\nser una campeona invicta del Triple Corona!\n¡Hagámoslo realidad!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Eso ciertamente suena emocionante, pero... tengo\nque decir que no, aprecio su entusiasmo, sin\nembargo."
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "¡Vas a convertirte en una leyenda del racing!\n¡Déjame ayudarte a escribir tu nombre en la\nhistoria!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ja, ja, ja, ¿no es un poco de exageración? No creo\nque tenga <i>tanto</i> potencial, lo siento. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Maruzensky es abordada por entrenador tras\nentrenador, pero los rechaza a todos de manera\neducada."
+    },
+    {
+      "name": "Umamusume joven B",
+      "text": "Hey... Ha estado rechazando a entrenadores a\nizquierda y derecha, incluso desde antes de las\npruebas, ¿por qué?"
+    },
+    {
+      "name": "Umamusume joven A",
+      "text": "Apuesto a que tiene la mira puesta más alto que\ntodos ellos juntos"
+    },
+    {
+      "name": "Umamusume joven B",
+      "text": "Ah, tienes razón, ¡por supuesto! Espero poder\nverla trabajar con un entrenador que se lo\nmerezca."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al final, no se unió a ninguno de los\nentrenadores."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Luego, en una tranquila noche unos días después..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Uf!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Resulta que estoy pasando por el curso de\nentrenamiento cuando veo a Maruzensky, su cabello\nflotando hacia atrás mientras corre."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Vamos a ver... Todavía hay tiempo, ¡genial! Creo\nque haré otra vuelta. ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Aquí voy!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "<i>Haa... Haa...</i> ¡Jaja!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La emoción que sentí en las pruebas vuelve a\nflotar en mi corazón."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella realmente—"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Más rápido... ¡Más rápido!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "—se ve tan feliz en la pista, como si estuviera\ndivirtiéndose mucho"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "<i>Haa... Haa...</i> Uf. No puede mejorar. ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Eh? Hey, tú eres el entrenador del otro día en\nlas pruebas... ¿Verdad?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Eh? Hey, tú eres el entrenador del otro día en\nlas pruebas... ¿Verdad?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ahhh, ¿viniste todo este camino para intentar\nreclutarme? Jeje, eso es un buen compromiso."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Bueno, ¿qué tipo de enfoque utilizarás? Algo como\ncuando viste gloria futura en mi carrera!",
+      "choice_data_list": [
+        "No, solo...",
+        "No, solo..."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Bueno, ¿qué tipo de enfoque utilizarás? Algo como\ncuando viste gloria futura en mi carrera!",
+      "choice_data_list": [
+        "No, solo...",
+        "No, solo..."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...Solo?",
+      "choice_data_list": [
+        "Pensé que te gustaba correr como nadie más lo\nhace."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Eh? Solo eso?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Bueno, nunca... Eso es realmente todo. Wow..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Jaja! Eres inusual, te lo concedo."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Jaja! Eres inusual, te lo concedo."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Bueno, voy a seguir corriendo, así que... puedes\nseguir mirando si lo deseas."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Bueno, voy a seguir corriendo, así que... puedes\nseguir mirando si lo deseas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así sigo mirando. Es increíble lo rápido que\ncorre, pero siempre se ve feliz mientras lo hace."
+    }
+  ]
+}

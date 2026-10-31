@@ -1,0 +1,248 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "???",
+      "text": "¿¡Qué, solo porque soy pequeña, ni siquiera tengo\nuna <i>oportunidad?!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un estallido de ira atraviesa el murmullo ocioso\ndel almuerzo en la cafetería."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La habitación queda en silencio atónita... hasta\nque un susurro de voces empieza a zumbar, y los\nestudiantes nerviosamente giran sus ojos hacia la\nmesa ofensiva."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La estudiante que gritó se levanta, apenas más\nalta que cuando estaba sentada."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Wh-whoa! ¡Eeespera, espera, espera! No quise\ndecir eso, Taishin! Lo juro que no se trata de tu\nestatura!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ticket hace un punto válido, Taishin."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "La nutrición suficiente ciertamente es esencial\npara el crecimiento físico, pero lo que tienes\nallí es mucha más comida de la que necesitas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Montones de comida yacen en la mesa junto a Narita\nTaishin. No hay forma de que se lo termine todo."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Quién te preguntó..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Solo escucha, ¿quieres? No quiero una repetición\nde cómo te enfermaste comiendo el otro día. Eres\nnaturalmente de poco apetito—"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Dije, CÁLLATE!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡T-Taishin! Vamos, ¿no podemos solo—"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Aléjate de mí!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Y deja de fastidiarme. ¡Déjame en paz!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La escena deja un mal sabor de boca que persiste\nen el fondo de mi mente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "De camino a casa después de un largo día de\ntrabajo, escucho pasos desde el curso de\nentrenamiento oscurecido."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Haa... Haa...</i>",
+      "choice_data_list": [
+        "(¿Alguien está haciendo vueltas? A esta hora de la\nnoche?)"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Haa...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Corriendo furiosamente alrededor del curso está la\npequeña corredora del almuerzo de hoy, Narita\nTaishin."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Haa... Haa...</i> Grrr... ¡Raaagh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A través de dientes apretados, ella suelta un\ngrito agonizante que resuena a lo largo de la\npista."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La frustración—la <i>desesperación</i>—en sus pasos...\nCasi duele verla."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Varios días después... las corredoras se alinean\nen la pista para las pruebas, ansiosas por mostrar\na los entrenadores sus habilidades ganadas con\nesfuerzo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para muchos de los atletas determinados,\nrepresenta la oportunidad de la vida y el primer\npaso hacia las grandes ligas."
+    },
+    {
+      "name": "Corredora",
+      "text": "¡Guau!"
+    },
+    {
+      "name": "Corredora",
+      "text": "¡Lo siento, no te vi!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin, apenas visible, lucha por\ndestacarse entre las muchas aspirantes a debutar."
+    },
+    {
+      "name": "New Trainer A",
+      "text": "¡Yikes, mira esa pequeña por allí. Hm... Para ser\nhonesta, no veo a nadie prometedor."
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "De acuerdo. Normalmente obtenemos al menos una de\nuna buena familia, o incluso solo alguien con una\nbuena complexión atlética."
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "Oye. Realmente no sabremos nada hasta que las\nveamos correr. Mira, ¡están a punto de empezar!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Hmph... Voy a hacer esto. ¡Finalmente me verán!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Aquí vamos! Las corredoras están alineadas en la\npuerta de salida... ¡Y salen!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Haaah!"
+    },
+    {
+      "name": "New Trainer A",
+      "text": "¿Eh? Esa pequeña está intentando salir del grupo!\n¿No intentará abrirse paso hacia el frente,\n¿verdad?"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "Mhm. Pero con esa pequeña complexión suya..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Ugh!"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "Lo sabía. El medio es demasiado para ella. Está en\nuna total desventaja en cuanto a estatura."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Maldición!"
+    },
+    {
+      "name": "New Trainer A",
+      "text": "Vaya, las otras simplemente la ignoran... No hay\nforma de que tenga suficiente resistencia para\nseguir el ritmo."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Los líderes han tomado la cuarta curva! Pero ¿qué\nes esto? Una retadora se acerca rápidamente!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Aaaaagh!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Es Narita Taishin! ¡Narita Taishin se adelanta\ncon tremenda velocidad! ¡Va por el liderato!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Haa... Haa...</i> ¡Ugh!"
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "Ella desperdició toda su energía al inicio. Qué\ncarrera temeraria... Duele verla."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No hay duda de que su intento por adelantarse fue\nun espectáculo. Pero al final, Narita Taishin bajó\nde posición... y terminó en décimo lugar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de la intensa carrera..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Haa... Haa...</i> Eso apestó... Me duele la cabeza."
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "Oye, Taishin, ¿tienes un momento para—ay, ¿estás\nbien? Todavía no puedes recuperar el aliento?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿¡Hm?! No, estoy bien. ¿Necesitas algo?"
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "No... Esa carrera me lo dijo todo. Odio decirlo,\npero... Simplemente no estás hecha para correr.\nDeberías hacerte un favor y rendirte."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué?"
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "Eres demasiado pequeña. Si hicieras una locura\ncomo esa en la Serie Twinkle, podrías lastimarte\nen serio."
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "Por tu seguridad... Empieza a considerar otras\ncarreras. Hay montones de opciones para las\nUmamusume además de correr."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Lárgate."
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "¡Escúchame, Taishin! Por favor, lo digo por tu\nbien. ¿Al menos—"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Cállate ya! ¿Lo dices por <i>mi</i> bien? ¡Ja! ¡Qué\nbasura!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Les voy a mostrar a todos! ¡Voy a ganar si es lo\núltimo que hago!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin escupe las palabras y se va\ncorriendo enojada. La mirada aplastada en sus ojos\ncuando pasa a mi lado—es desgarradora."
+    }
+  ]
+}

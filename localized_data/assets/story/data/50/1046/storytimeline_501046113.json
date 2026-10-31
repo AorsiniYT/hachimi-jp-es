@@ -1,0 +1,90 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Smart Falcon",
+      "text": "<i>Haa... Resuello...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Aplausos, aplausos, aplausos!</i>"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡M-muchas gracias! ¡Estén atentos a más Falco!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Smart Falcon logra asegurar el centro del\nescenario en un concierto ganador magnífico.",
+      "choice_data_list": [
+        "¡Qué gran actuación!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Gracias...",
+      "choice_data_list": [
+        "...¿Pasa algo?",
+        "...¿Pasa algo?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...Simplemente no parece real. Apenas puedo\ncreerlo."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Estoy súper feliz de haber podido cantar frente a\ntodos. Se sintió genial tener el foco sobre mí."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Pero... eso no es todo."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Las luces que el público agitaba... Todas eran\npara mí."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Sus vítores, sus miradas... todos estaban\nconcentrados en el centro del escenario, en mí."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Sabía que ganar conciertos era asombroso. Pero aún\nasí..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Cantar en el centro del escenario es de alguna\nmanera aún más divertido de lo que pensé!",
+      "choice_data_list": [
+        "Será aún más emocionante en un escenario más\ngrande."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Tienes razón!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Quiero actuar en un escenario aún más grande!\n¡Quiero ser una Umadol top!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su primera vez en el centro del escenario parece\nhaber fortalecido su determinación de llegar a la\ncima.",
+      "choice_data_list": [
+        "¡Umadol top, allá vamos!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Sí!"
+    }
+  ]
+}

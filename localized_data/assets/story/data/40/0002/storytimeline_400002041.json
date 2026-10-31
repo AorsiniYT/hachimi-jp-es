@@ -1,0 +1,472 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Hola. Actualmente estoy dando un resumen de la\nUnity Cup a quienes quieran aprender sobre ella.",
+      "color_text_info_list": [
+        "Unity Cup"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿Quieres escuchar una explicación también, <username>?",
+      "choice_data_list": [
+        "Sí, por favor.",
+        "No, gracias."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿Qué te gustaría que explique?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Sobre qué debería preguntar?",
+      "choice_data_list": [
+        "La Unity Cup en general",
+        "Las carreras de la Unity Cup",
+        "Miembros del equipo y Entrenamiento de Unidad",
+        "Estadísticas del equipo",
+        "Eso es todo, gracias."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "La Unity Cup es una competencia por equipos\norganizada por Tracen Academy que se lleva a cabo\nsimultáneamente con la Twinkle Series!",
+      "color_text_info_list": [
+        "por equipos"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Mientras que la Twinkle Series prueba el\nrendimiento individual, la Unity Cup pone énfasis\nen el trabajo en equipo."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "La Unity Cup consiste en una serie de rondas de\npretemporada seguidas de las finales.",
+      "color_text_info_list": [
+        "pretemporada",
+        "finales"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Las cuatro rondas de carreras de pretemporada se\nrealizan para decidir el ranking de tu equipo.",
+      "color_text_info_list": [
+        "ranking de tu equipo"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Si quieres aprender más sobre el Ranking de\nEquipo, pregúntame sobre las estadísticas del\nequipo! ♪",
+      "color_text_info_list": [
+        "Ranking de Equipo",
+        "★★★"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Habrá mucho tiempo de inactividad entre los\npartidos de pretemporada, ¡así que úsalo para\nentrenar a tus miembros del equipo!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Por cierto, ¡recomiendo aumentar la fuerza de tu\nequipo a través del Entrenamiento de Unidad!",
+      "color_text_info_list": [
+        "Entrenamiento de Unidad"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Si quieres aprender más sobre el Entrenamiento de\nUnidad, pregúntame sobre los miembros del equipo y\nel Entrenamiento de Unidad! ♪"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Una vez que la pretemporada termine, comenzarán\nlas finales! Esta ronda final de carreras\ndetermina a los ganadores de la Unity Cup!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Incluso si no te fue tan bien como querías en la\npretemporada, si ganas las finales, entonces ganas\ntodo el torneo!",
+      "color_text_info_list": [
+        "si ganas las finales",
+        "ganas todo el torneo"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Asegúrate de no perder la esperanza y seguir\napuntando a la victoria hasta el final!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Eso es todo sobre la Unity Cup. ¿Hay algo más que\nte gustaría saber?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "La Copa Unity se celebra después de que terminen\nlos turnos de finales de junio y diciembre.",
+      "color_text_info_list": [
+        "Copa Unity"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Los equipos competirán en cinco categorías:\nsprint, milla, medio, largo y tierra.",
+      "color_text_info_list": [
+        "cinco categorías",
+        "sprint, milla, medio, largo y tierra"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Debes inscribir al menos una corredora en cada\ncarrera, y hasta tres pueden ser asignadas a cada\ncategoría."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Al comienzo de cada partido de la Unity Cup, se\nformará un equipo automáticamente de los miembros\nque has reclutado."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Pero no te preocupes, también puedes editar tu\nequipo manualmente! ¡Siéntete libre de organizar a\ntus corredoras como mejor te parezca!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Una vez que hayas finalizado tu equipo, puedes\nseleccionar un oponente al que enfrentar."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Si derrotas al equipo oponente, ayudará a tu\naprendiz a crecer más fuerte...",
+      "color_text_info_list": [
+        "derrotas al equipo oponente",
+        "crecer más fuerte"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Y cuanto mayor sea el Ranking de Equipo de tu\noponente, más crecimiento podrás esperar.",
+      "color_text_info_list": [
+        "Ranking de Equipo"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Derrotar a oponentes de alto rango también\notorgará un mayor aumento a tu propio Ranking de\nEquipo!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Sin embargo, tu ranking no subirá si pierdes, así\nque apunta a la victoria!",
+      "color_text_info_list": [
+        "tu ranking no subirá si pierdes",
+        "★★★"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Puedes usar las predicciones pre-carrera para\nayudarte a decidir a quién enfrentar."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Una vez que hayas elegido un oponente, es hora de\nlas carreras. ¡El equipo que quede en primer lugar\nen la mayoría de las cinco carreras es considerado\nel vencedor!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Y eso no es todo! Si cumples las siguientes tres\ncondiciones durante la pretemporada, podrás\nenfrentar a un equipo élite."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Primero, eleva el ranking de tu equipo a cierto\nnivel. Segundo, aumenta el poder de tu equipo a\ncierto nivel."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Tercero, contar con aprendices que hayan activado\nun Estallido de Espíritu Extremo.",
+      "color_text_info_list": [
+        "Estallido de Espíritu Extremo"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Si vences a este equipo élite, obtendrás una gran\nrecompensa... ¡y algo especial podría pasar en la\nfinal!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Esfuérzate por la victoria y forma el mejor\nequipo!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Una vez que termine la pretemporada, te aguarda la\nfinal.",
+      "color_text_info_list": [
+        "★★★",
+        "★★★",
+        "★★★"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "El equipo que gane la final será coronado campeón\nde la Copa Unity."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Eso es todo sobre las competencias de la Copa\nUnity. ¿Hay algo más que quieras saber?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Las Umamusume de tu equipo son, naturalmente, tus\ncompañeras de equipo.",
+      "color_text_info_list": [
+        "compañeras de equipo"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Por ahora, tus compañeras de equipo solo son tu\nAprendíz Umamusume, <chrname>, y las Umamusume que aparecen\nen tus Cartas de Apoyo."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Pero no te preocupes."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Estoy segura de que, si te va bien en la\npretemporada, más Umamusume se enterarán de tu\nequipo y querrán unirse a ti.",
+      "color_text_info_list": [
+        "unirse a ti"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Las Umamusume que se unan a tu equipo podrán\nparticipar tanto en las competencias de la Copa\nUnity como en los entrenamientos.",
+      "color_text_info_list": [
+        "★★★"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Pero hay algo que debes tener en cuenta sobre las\nUmamusume de tu equipo que no aparecen en las\nCartas de Apoyo.",
+      "color_text_info_list": [
+        "Umamusume"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "No podrán realizar Entrenamiento de Amistad ni\ntendrán eventos de pistas.",
+      "color_text_info_list": [
+        "No podrán realizar Entrenamiento de Amistad"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ahora, te explicaré sobre el Entrenamiento Unity.",
+      "color_text_info_list": [
+        "Entrenamiento Unity"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Si entrenas en el mismo lugar que tus compañeras\nde equipo, podrás activar el Entrenamiento Unity,\nuna forma de entrenamiento donde las miembros se\napoyan mutuamente.",
+      "color_text_info_list": [
+        "★★★"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Si una compañera de equipo activará o no el\nEntrenamiento Unity se decide al azar cada vez que\nse le asigna un tipo de entrenamiento."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Aparecerá un ícono especial cuando el\nEntrenamiento Unity esté disponible, así que\nmantente atenta."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Durante el Entrenamiento Unity, los atributos de\nlas compañeras de equipo participantes aumentarán.",
+      "color_text_info_list": [
+        "los atributos de las compañeras de equipo\nparticipantes aumentarán",
+        "★★★"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Además, si realizas Entrenamiento Unity con dos o\nmás compañeras de equipo a la vez, los efectos de\nese entrenamiento en tu Aprendíz también\naumentarán.",
+      "color_text_info_list": [
+        "dos o más compañeras de equipo a la vez",
+        "los efectos de ese entrenamiento en tu Aprendíz\ntambién aumentarán",
+        "★★★",
+        "★★★"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Cuantas más miembros participen en una sesión de\nEntrenamiento Unity, más efectivo será el\nentrenamiento, ¡así que diviértete entrenando con\ntu equipo!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ah, y hay algo más que debo decirte sobre la\nfrecuencia con la que se activa el Entrenamiento\nUnity."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Las probabilidades de que se active pueden\naumentar con la Frecuencia de Pistas y el número\nde miembros entrenando."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Tenlo en cuenta mientras entrenas a tu equipo!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Además, después de cada sesión de Entrenamiento\nUnity, tendrás oportunidad de obtener pistas de\nhabilidades.",
+      "color_text_info_list": [
+        "cada sesión de Entrenamiento Unity"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Y si realizas Entrenamiento Unity suficientes\nveces, podría pasar algo especial."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "A medida que las compañeras de equipo realicen\nEntrenamiento Unity, su dedicación al equipo\ncrecerá, lo que puede llevar a un fenómeno\nconocido como Estallido de Espíritu.",
+      "color_text_info_list": [
+        "Estallido de Espíritu"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Los Estallidos de Espíritu ayudan a fortalecer a\ntus compañeras de equipo y también podrían\notorgarle pistas de habilidades a tu Aprendíz.",
+      "color_text_info_list": [
+        "fortalecer a tus compañeras de equipo",
+        "otorgarle pistas de habilidades a tu Aprendíz",
+        "★★★",
+        "★★★"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Intenta activar Estallidos de Espíritu en tantas\nmiembros como puedas para que todo tu equipo se\nvuelva más fuerte!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Y eso no es todo!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Las compañeras de equipo que hayan activado un\nEstallido de Espíritu también podrán activar un\nEstallido de Espíritu Extremo durante el\nEntrenamiento Unity!",
+      "color_text_info_list": [
+        "Estallido de Espíritu Extremo"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Los Estallidos de Espíritu Extremo son más fáciles\nde activar si la compañera de equipo en cuestión\nparticipa en Entrenamiento de Amistad."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Si ocurre un Estallido de Espíritu Extremo, el\nentrenamiento está garantizado que tendrá éxito.\n¡Ese es el poder de un equipo!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Activar un Estallido de Espíritu Extremo puede\nhacer que obtengas pistas de habilidades\nespeciales, ¡así que no dejes pasar la\noportunidad! ♪"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Eso es todo sobre las compañeras de equipo y el\nEntrenamiento Unity. ¿Hay algo más que quieras\nsaber?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Claro. Con gusto te explico sobre el Ranking de\nEquipo, el Poder de Equipo y los Títulos de\nEquipo.",
+      "color_text_info_list": [
+        "Poder de Equipo",
+        "Títulos de Equipo"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Puedes revisar las estadísticas de tu equipo desde\nla pantalla donde eliges qué actividad realizar\ncada turno."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Tu Ranking de Equipo representa la posición de tu\nequipo durante la pretemporada."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Puedes aumentar tu ranking ganando competencias en\nla Copa Unity. ♪",
+      "color_text_info_list": [
+        "★★★"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Cuanto más alto sea tu Ranking de Equipo, más\nmotivadas estarán tus compañeras y mejor se\ndesempeñarán en la Copa Unity.",
+      "color_text_info_list": [
+        "más alto sea tu Ranking de Equipo"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Haz tu mejor esfuerzo para elevarlo lo más\nposible!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "El Poder de Equipo, como su nombre lo indica, es\nel poder general de tu equipo."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Este aumentará a medida que entrenes a tus\ncompañeras de equipo mediante el Entrenamiento\nUnity."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Cuando los atributos de tu equipo alcancen ciertos\nniveles, también harán que tus niveles de\nentrenamiento aumenten, así que concéntrate en\nhacer que tu equipo sea cada vez más fuerte.",
+      "color_text_info_list": [
+        "los atributos de tu equipo alcancen ciertos\nniveles",
+        "niveles de entrenamiento aumenten"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "A medida que aumentes el Poder de Equipo\ndesarrollando los atributos de tus compañeras,\nobtendrás mejoras en tu sala de club cuando\nalcance ciertos niveles."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Las mejoras en la sala de club facilitan reclutar\nmiembros talentosos después de cada competencia de\nla Copa Unity."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Por último, está tu Título de Equipo. Este es una\nmedida de tu desempeño general durante la\npretemporada y se basa tanto en tu Ranking de\nEquipo como en tu Poder de Equipo."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Cuanto mejor sea el Título de Equipo que obtengas,\nmejores recompensas recibirás al final de tu\npartida.",
+      "color_text_info_list": [
+        "Título de Equipo"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Espero que des lo mejor en la Copa Unity y\nentrenes para obtener el mejor título posible. ♪"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Eso es todo sobre las estadísticas del equipo.\n¿Hay algo más que quieras saber?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿Estás segura?",
+      "choice_data_list": [
+        "Sí",
+        "No"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Muy bien! ♪ Por si acaso, he preparado un resumen\nde todo lo que necesitas saber."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Simplemente toca el botón \"i\" en la esquina\nsuperior izquierda de la pantalla si alguna vez\nnecesitas un repaso.",
+      "color_text_info_list": [
+        "botón \"i\""
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Te deseo mucha suerte. ¡Estaré animándote!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "De acuerdo. Te deseo mucha suerte. ¡Estaré\nanimándote!"
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Mihono Bourbon y yo estamos de camino a casa\ndespués de un día de salir."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Entrenador. ¿Qué considerarías como \"recuerdos\npreciosos\" que compartimos?",
+      "choice_data_list": [
+        "¿Por qué preguntas de repente?",
+        "¿Por qué preguntas de repente?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Bueno..."
+    },
+    {
+      "text": "Ella me dice que el tema surgió en clase antes."
+    },
+    {
+      "text": "Al parecer, todos tenían algún tipo de recuerdo\nprecioso que compartían con su entrenador. Por\notro lado, Mihono Bourbon estaba confundida."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿Qué significa \"precioso\"?"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "No soy capaz de comprender adecuadamente su\ndefinición."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "\"Precioso\" significa algo de valor... Algo que no\nquieres romper."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Sin embargo, ¿cómo se relaciona eso con los\nrecuerdos? Los recuerdos no son cosas tangibles\nque se puedan romper."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Lo que hace que un recuerdo sea \"precioso\" es algo\nque no puedo cuantificar.",
+      "choice_data_list": [
+        "¿Nada simplemente se te viene a la cabeza?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿Se me viene a la cabeza?"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Error. Debido a una cantidad innumerables de\nresultados de búsqueda para recuerdos, no puedo\nreducirlo solo a los \"preciosos\"."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "He determinado que obtener una mejor comprensión\nde \"precioso\" es necesario antes de buscar en mis\nregistros de memoria."
+    },
+    {
+      "text": "Ella parece que todavía no puede entender qué hace\nque un recuerdo sea precioso. En ese caso, solo\nqueda una cosa por hacer.",
+      "choice_data_list": [
+        "¡Entonces hagamos montones de nuevos recuerdos\njuntas!"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿Deseas crear aún más recuerdos para ayudarme a\nentender qué los hace \"preciosos\"?"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Ya veo... En pocas palabras, experimentar el\nsentimiento en tiempo real podría ser la forma más\nrápida de lograr comprensión...",
+      "choice_data_list": [
+        "¡Entonces vámonos!"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Entendido."
+    },
+    {
+      "text": "La noche siguiente, Mihono Bourbon y yo visitamos\nel parque.",
+      "choice_data_list": [
+        "¿Hay algo que quieras hacer aquí?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Muchos de los recuerdos preciosos de las otras\nestudiantes estaban relacionados con recibir\nconsejos de sus entrenadores."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Basándome en eso, he deducido que las condiciones\nperfectas para discutir mis problemas son \"por la\nnoche,\" \"en un parque,\" y \"solos juntos.\""
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Es por eso que te traje aquí.",
+      "choice_data_list": [
+        "Si alguna vez hay algo que te moleste, siempre\nestoy aquí para escuchar."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Creo que estoy \"desconcertada\". Discúlpame. No\ntengo ningún problema en particular."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Fallo. Pasando al siguiente método.",
+      "choice_data_list": [
+        "¿Por qué no intentamos hacer algo divertido?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Divertido en el parque... ¿Quieres decir que\ndeseas jugar a las escondidas?",
+      "choice_data_list": [
+        "Uhhh..."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Entendido. Ahora, ¿quién será \"el que cuenta\"\nprimero?"
+    },
+    {
+      "text": "Por alguna razón, Mihono Bourbon y yo terminamos\njugando a las escondidas juntas en el parque."
+    },
+    {
+      "text": "Va sin decir que me tocará en un instante si ella\nes \"la que cuenta\", y ella nunca será tocada si\nsoy \"la que cuenta\"."
+    },
+    {
+      "text": "Los resultados son obvios desde el principio.\nDesafortunadamente, esto no terminará como un\nrecuerdo precioso."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Fracaso.",
+      "choice_data_list": [
+        "D-de acuerdo...",
+        "Déjame... tomar un descanso..."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Detecto lo que se conoce como \"respiración\nentrecortada\". Sugiero que descanses de inmediato."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Podemos seguir creando recuerdos la próxima vez."
+    },
+    {
+      "text": "Hoy fue un completo fracaso. Probablemente debería\nidear mis propios planes para la próxima vez.",
+      "choice_data_list": [
+        "Me esforzaré más."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿Esforzarme más? ¿No es eso lo que debería estar\nhaciendo?",
+      "choice_data_list": [
+        "Bueno, estamos creando estos recuerdos juntos.",
+        "Bueno, estamos creando estos recuerdos juntos."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Entendido. Gracias por tu ayuda, Entrenador."
+    },
+    {
+      "text": "Mihono Bourbon me mira intensamente mientras\nofrece sus palabras de agradecimiento, y hacemos\nla promesa de crear nuestros propios recuerdos\npreciosos."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Entendido. Como desees, Entrenador."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "He detectado un decline en tu resistencia. Parece\nque caminar te está causando dificultad."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Te llevaré a un banco."
+    },
+    {
+      "text": "Me siento en un banco y suelto un profundo\nsuspiro. La expresión en el rostro de Mihono\nBourbon me dice que quiere decir algo."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Entrenador, he fracasado en alcanzar mi\nobjetivo hoy."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Para empeorar las cosas, te he causado agotamiento\nfísico."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Quizás los eventos del día se conviertan en un\nrecuerdo \"desagradable\" para ti.",
+      "choice_data_list": [
+        "Ese no es el caso."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...¿En serio?",
+      "choice_data_list": [
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...",
+      "choice_data_list": [
+        "Independientemente del resultado, esto es un\nrecuerdo."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Yo... ya veo. Muchas gracias."
+    },
+    {
+      "text": "Mihono Bourbon me agradece y sonríe ante la\nperspectiva de intentar crear recuerdos preciosos\nde nuevo."
+    },
+    {
+      "text": "Ella mira hacia abajo por un momento como si\nestuviera pensando profundamente antes de darme un\npequeño asentimiento."
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estamos entrenando durante el campamento de\nverano, y Biwa Hayahide está corriendo bajo el sol\nabrasador."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "<i>Haa... Haa...</i> Allá... He terminado diez carreras\nen la playa. ¿Qué sigue en la lista?",
+      "choice_data_list": [
+        "¿No necesitas un descanso?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No. Me aseguré de beber mucha agua antes de\nempezar."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Aumentemos un poco la intensidad de mis\nejercicios. ¿Puedes asegurarte de registrar mis\nnúmeros con precisión?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Quiero determinar el alcance de mi resistencia y\ncuánto más puedo mejorar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece muy seria. ¿A qué deberíamos pasar después?",
+      "choice_data_list": [
+        "Muy bien, ¡hora de entrar al infierno aeróbico!",
+        "Muy bien, ¡hora de entrar al infierno aeróbico!",
+        "Agreguemos un maratón de cuarenta kilómetros a tu\nrutina."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece muy seria. ¿A qué deberíamos pasar después?",
+      "choice_data_list": [
+        "Muy bien, ¡hora de entrar al infierno aeróbico!",
+        "Muy bien, ¡hora de entrar al infierno aeróbico!",
+        "Agreguemos un maratón de cuarenta kilómetros a tu\nrutina."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Eh, ¿infierno aeróbico?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Conecto altavoces a mi teléfono y empiezo a\nreproducir algo de música."
+    },
+    {
+      "name": "Altavoces",
+      "text": "¡Hola a todos! ♪ Soy Buff Chick, y bienvenidos a\nun entrenamiento de aeróbicos del Infierno Feliz!\n¡Ahora, levanten esa pierna—",
+      "choice_data_list": [
+        "¡Tú puedes, Hayahide!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Qué?!"
+    },
+    {
+      "name": "Altavoces",
+      "text": "¡Muy bien, el calentamiento terminó! ♪ ¿Cómo se\nsienten? ¡Ahora es hora de quemar esa parte\nsuperior del cuerpo! ♪"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "P-pero ya llevo una hora haciendo esto... Agh...\n¿Eso fue... solo el calentamiento?!"
+    },
+    {
+      "name": "Altavoces",
+      "text": "¡Oye, oye! ¡No olviden SONREÍR! ¡Ahora trabajemos\nesos glúteos! ¡Déjenme ver cómo se contraen! ¡Y\ncontraigan! ¡Una vez más ahora! ♪"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Urrgghhh! ¿Quién inventó esta tortura?!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Un maratón... Eso ciertamente ayudaría a entrenar\ntodos mis grupos musculares, y no solo los que\nnecesito para las carreras de velocidad..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Pero cuarenta kilómetros es prácticamente un\nmaratón completo. Si empiezo a correr ahora...\nHmm...",
+      "choice_data_list": [
+        "¿Cambiando de opinión?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No, lo haré. Soy yo la que pidió un entrenamiento\nmás difícil. Si no puedo con esto, entonces\ndebería renunciar a mis sueños ahora mismo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Te mostraré que puedo superar mis límites."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Biwa Hayahide comienza su maratón de cuarenta\nkilómetros. Esta será una buena prueba de su\ncondición general."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mucho tiempo después..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "<i>Uf...</i>",
+      "choice_data_list": [
+        "¡Lo lograste!",
+        "¡Lo lograste!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡No puedo creerlo! ¡Mi resistencia base realmente\nha mejorado!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Todo ese entrenamiento desde el Derby realmente\nha valido la pena!",
+      "choice_data_list": [
+        "¡Claro que sí! Has estado trabajando muy duro.",
+        "¡Claro que sí! Has estado trabajando muy duro."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jeje, no hace falta exagerar tanto. La única razón\npor la que antes me desempeñé mal fue porque me\nfaltó la convicción para esforzarme."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Quizás todo este tiempo, solo he estado ignorando\nel hecho de que podía elegir traspasar mis límites\nautoimpuestos."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "El día que me adelantaron y me esforcé demasiado\npara alcanzar, lo que llevó a mi lesión... Desde\nentonces, he estado jugando a lo seguro.",
+      "choice_data_list": [
+        "Hayahide..."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Pero he pasado a la siguiente etapa! Tengo\ninfinitas posibilidades ante mí, ¡y el mundo es\nmío!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Espero no haber sonado demasiado engreída hace un\nmomento.",
+      "choice_data_list": [
+        "Para nada."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jeje... Me alegra escuchar eso."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ahora solo tengo que tener una buena actuación en\nel Kikuka Sho."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Escucho las promesas de Biwa Hayahide para sí\nmisma mientras dejamos la playa bañada por el\natardecer."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "El entrenamiento empieza a las 8 a.m. mañana."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(Estoy mejorando más rápido de lo que calculé\nanteriormente. ¡Ahora solo tengo que esperar para\nponerme a prueba en una carrera!)"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(Aún así, no puedo evitar pensar...)"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡DEEERRRBBBYYYY!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(Supongo que aún están obsesionados con el Satsuki\nSho y el Japanese Derby...)"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Bueno, creo que tomaré un poco de leche tibia, y—"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Mañana. 10 en punto. Carrera contra mí."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Sí, será mejor que te prepares porque voy a hacer\nlo mismo, ¡y te voy a ganar!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Hmph. Ya veremos."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ticket."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Sí?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ahora mismo, eres mi mayor amenaza."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(Oh...)"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Voy a vencer a las dos en el Kikuka Sho... y\nreclamar el primer lugar en el podio."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jeje, qué raro. No hay nada extraño en lo que\nTaishin está diciendo..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Pero mi corazón está latiendo tan rápido. Me\npregunto por qué me siento así?"
+    }
+  ]
+}

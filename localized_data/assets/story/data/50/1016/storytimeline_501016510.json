@@ -1,0 +1,181 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estoy discutiendo el entrenamiento de hoy con\nNarita Brian, cuando..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Entendido. Supongo que hoy correré vueltas,\nentonces."
+    },
+    {
+      "name": "Monólogo",
+      "text": "(Mmm...)",
+      "choice_data_list": [
+        "(Se siente como si nos estuvieran observando...)"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿Qué estás haciendo? Vamos."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Estoy lista para correr, así que voy adelante."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Hay una brisa agradable. Hace que mi sangre\ncircule—siento que podría correr hasta el fin del\nmundo."
+    },
+    {
+      "name": "???",
+      "text": "Ya veo. Viento... Sangre... Correr...",
+      "choice_data_list": [
+        "¿Quién está ahí?",
+        "¿Quién está ahí?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Eh, ¡uh-oh!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Tch. De ninguna manera puedo ignorar eso."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Sal, pequeño ratón. Sé que estás en los arbustos."
+    },
+    {
+      "name": "???",
+      "text": "¡E-está bien!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Qué pasa, Brian?!",
+      "choice_data_list": [
+        "Oh, es Vodka.",
+        "Oh, es Vodka."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿Qué crees que estás haciendo, siguiéndome\ndesde el amanecer?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Bueno... Hm... Hmph... Supongo que me\ndescubrieron."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿Oh? Qué actitud tan peculiar."
+    },
+    {
+      "name": "Vodka",
+      "text": "...¿Oh? Mira quién habla.",
+      "choice_data_list": [
+        "¿Estás... imitándola?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡De ninguna manera! Es... un homenaje. ¡Respeto\ntotalmente a Brian!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...No entiendo lo que estás diciendo."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Quiero ser como tú! ¡Quiero ser poderosa y\ngenial!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Por eso comencé a seguirte esta mañana. ¡He estado\nestudiando la forma en que te mueves y cómo\nhablas!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Quieres ser... como yo?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Crees que puedes compararte conmigo con una\nimitación superficial? ...No te engañes."
+    },
+    {
+      "name": "Vodka",
+      "text": "...!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Si quieres correr en la misma pista que yo, ven\npreparada para destrozarla."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡P-por supuesto!"
+    },
+    {
+      "name": "Vodka",
+      "text": "...Te admiro a ti y a tu inquebrantable, confianza\ndirecta."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Voy a correr tan rápido como—no, voy a superarte!\n¡Lo verás!",
+      "choice_data_list": [
+        "Esa determinación es una fortaleza en sí misma.",
+        "¿Quieres hacer un entrenamiento en pareja para\nprobar tu fuerza?",
+        "¿Quieres hacer un entrenamiento en pareja para\nprobar tu fuerza?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Voy a correr tan rápido como—no, voy a superarte!\n¡Lo verás!",
+      "choice_data_list": [
+        "Esa determinación es una fortaleza en sí misma.",
+        "¿Quieres hacer un entrenamiento en pareja para\nprobar tu fuerza?",
+        "¿Quieres hacer un entrenamiento en pareja para\nprobar tu fuerza?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡¿En serio?! ¿Entonces eso significa que me estoy\nacercando a ser la verdadera?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Entonces no tengo tiempo para quedarme aquí\ncharlando! ¡Yo también tengo que entrenar!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hmph... No solo igualarme, ¿sino que crees que\npuedes superarme?! Eso es un ladrido bastante\nfuerte."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Pero soy <i>yo</i> quien morderá."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Podría ser porque fue provocada, pero ella está\naún más vigorosa de lo normal en el entrenamiento\ndespués."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡¿Eh?! ¿P-puedo realmente?!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No tenía intención de permitir esto... pero\nsupongo que eres libre de seguirme por tu propia\nvoluntad."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Augh! ¡Perdí! ¡Una más, por favor!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hmph... No importa cuántas veces vayamos, igual te\nderrotaré."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Continúan hasta que Vodka ha tenido suficiente, y\nresulta ser una sesión de entrenamiento muy\nproductiva."
+    }
+  ]
+}

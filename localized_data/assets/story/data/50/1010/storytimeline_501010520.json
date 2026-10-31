@@ -1,0 +1,110 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Escucho una voz familiar mientras camino..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Alguien ayúdeme!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Gyaaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Voy corriendo hacia la fuente, solo para encontrar\na Taiki Shuttle en el campo de la escuela tirando\nde unas enredaderas.",
+      "choice_data_list": [
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Urk... ¡Entrenador! ¡Ayúdame aquí!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡El director me pidió que cosechara estas\ncalabazas!",
+      "choice_data_list": [
+        "¿Calabazas?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Así es! Mi ciudad natal es famosa por nuestro\nfestival de calabazas!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Tiene cosas como un concurso de la calabaza más\ngrande y una carrera donde tienes que cargar una\ncalabaza contigo cuando corres!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Sin mencionar cantar y bailar bajo las estrellas!\n¡Es muy emocionante!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Una vez que escuché la palabra \"calabaza\", no\nhabía forma en que no pudiera ayudar.",
+      "choice_data_list": [
+        "¡Hora de poner esa experiencia en buen uso!",
+        "¡Hora de poner esa experiencia en buen uso!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Pero ahora que lo pienso... Nunca he cosechado una\ncalabaza antes."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Aunque nunca me perdí un festival... Jaja."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Lo que intento decir es... ¡me tienes que ayudar,\nEntrenador!",
+      "choice_data_list": [
+        "¡Hagámoslo una competencia!",
+        "Te mostraré cómo se hace."
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Una competencia? ¿Quieres decir..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Quieres ver quién puede cosecharlas más rápido?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Eso suena muy divertido! ¡Tengo esto ganado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Compitiendo para ver quién puede cosechar la mayor\ncantidad de calabazas, Taiki Shuttle y yo nos\ndivertimos limpiando todo el campo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, termino ayudando a Taiki Shuttle con la\ncosecha de calabazas."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh, ahora tiene sentido! Tienes que despejar un\nespacio para poder entrar allí, ¿verdad?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Sabes, quizás pueda usar esto también cuando\ncorra. ¡Vamos a probarlo en el entrenamiento!",
+      "choice_data_list": [
+        "Después de terminar de cosechar todas estas."
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Oh, cierto..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ambos nos cubrimos de barro cosechando las\ncalabazas, pero al menos parece que ella podría\nhaber aprendido algo."
+    }
+  ]
+}

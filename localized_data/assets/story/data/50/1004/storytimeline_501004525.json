@@ -1,0 +1,148 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Subo al techo para tener una reunión de almuerzo\ncon Maruzensky. De repente, escuchamos un pequeño\ngrito cerca."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Eh? ¿Qué voz es esa?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Qué estás haciendo allí, Rice?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Maruzensky!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Oh, um, bien... Soy el último ladrón, ¿ves?...",
+      "choice_data_list": [
+        "¿El último ladrón?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuando le pregunto al respecto, nos dice que está\njugando a policías y ladrones con sus amigos, y\nella es el último ladrón que queda."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Si voy a ayudar, podría ser atrapada. Pero no\nquiero decepcionar a mi equipo, ya que me\ninvitaron a jugar..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ahh, entiendo. Así que estás preocupada por\nperder."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Maruzensky mira hacia abajo lo que parece ser la\n\"cárcel\" cerca del centro del patio."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hey, Rice, ¿cuántos policías hay?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Umm... Creo que solo hay uno..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, perfecto. Deja que una persona experimentada\nte dé una estrategia segura, entonces. ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Preferirías el Plan A más físico o el Plan B más\nestratégico?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Tengo que elegir?! Err... Bueno..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Um, ¿cuál crees que es mejor?",
+      "choice_data_list": [
+        "Plan A, el juego físico.",
+        "Plan B, el juego de pensamiento."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Muy bien, entonces. ♪ Vamos con el Plan A."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Mantén al policía justo detrás de ti y haz que te\npersiga hasta que se quede sin energía."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Crees que podré manejar eso?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Estoy segura de que podrás. Sé lo fuerte que eres,\nRice."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Eres una trabajadora dura, y estoy realmente\norgullosa de tu perseverancia."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Con el sello de aprobación de Maruzen, asegúrate\nde que lo tienes en la bolsa."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Tu sello de aprobación..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Okay! Lo... Lo haré."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Heehee. Este juego me da una idea para un buen\nentrenamiento de resistencia. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después, observamos desde el techo cómo Rice\nShower salva con éxito a sus amigos."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Muy bien, entonces. ♪ Vamos con el Plan B más\ntáctico."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Atrae al policía hacia los edificios de la\nescuela, luego pérdelo en un callejón sin salida."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿De verdad crees que puedo hacer eso?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Claro que puedes. Eres genial planeando y\nestrategizando, ¿no?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras dice esto, Maruzensky sostiene las manos\nde Rice Shower con fuerza."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Estará bien si mantienes la calma y piensas las\ncosas, ¿okay?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Okay. Lo... Lo haré."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hehe. Probablemente debería seguir mi propio\nconsejo ahora que lo he dicho, ¿no?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después, observamos desde el techo cómo Rice\nShower salva con éxito a sus amigos."
+    }
+  ]
+}

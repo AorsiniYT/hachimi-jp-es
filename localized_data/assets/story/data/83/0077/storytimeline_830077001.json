@@ -1,0 +1,234 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Admire Vega",
+      "text": "Urara... Por favor, piénsalo de nuevo."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "No te preocupes, ¡estará bien! No los conozco,\npero ¡estoy segura de que son buena gente!",
+      "choice_data_list": [
+        "¿Qué está pasando?",
+        "¿Qué está pasando?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Oh, la Presidenta quiere que conozca a alguien a\nquien nunca he conocido antes!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Sé que el consejo estudiantil está involucrado,\npero aún así deberías saber en qué te estás\nmetiendo para estar preparada.",
+      "choice_data_list": [
+        "Sí, eso también me preocupa. Déjame ir contigo,\nUrara.",
+        "Sí, eso también me preocupa. Déjame ir contigo,\nUrara."
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Muy bien! ¡Entonces tú también ven, Ayabe!\n¡Rápido!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Oye, espera, ¿por qué yo—"
+    },
+    {
+      "name": "Dueño de la Posada",
+      "text": "Y así, Urara, ¡quiero que adornes gloriosamente\nlos carteles que estoy haciendo para publicitar mi\nposada!"
+    },
+    {
+      "name": "Dueño de la Posada",
+      "text": "¡Te vi en la tele, durante el torneo de karuta de\nUmamusume! La confianza y gracia que mostraste son\nperfectas para representar este establecimiento!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Yippee! ¡Haré lo mejor que pueda, por supuesto!"
+    },
+    {
+      "name": "Dueño de la Posada",
+      "text": "¡Muchas gracias! Ahora que estás a bordo, ¡también\nme gustaría incluir a esa chica que se unió de\nrepente a mitad del torneo!",
+      "choice_data_list": [
+        "¿La chica que se unió a mitad?"
+      ]
+    },
+    {
+      "name": "Dueño de la Posada",
+      "text": "Sí. La Umamusume que apareció en la segunda mitad\nde la competencia de karuta. Tenía una destreza\ndigna sobre ella."
+    },
+    {
+      "name": "Dueño de la Posada",
+      "text": "Si tuviera que describirla, diría que era como...\nesta fina dama... aquí..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...",
+      "choice_data_list": [
+        "¿Podría ser?"
+      ]
+    },
+    {
+      "name": "Dueño de la Posada",
+      "text": "¡E-eres tú! ¡Qué coincidencia milagrosa! ¡Por\nfavor, tú <i>tienes</i> que unirte a la sesión de fotos\npara los carteles!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Lo siento, pero no."
+    },
+    {
+      "name": "Dueño de la Posada",
+      "text": "<i>¡Haa!</i> ...¿E-es así? Lo entiendo..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿¡Qué!? Pero ¿por qué? ¡Definitivamente deberías\nunirte, Ayabe! ¡Va a ser muy divertido!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "<i>Suspiro...</i> Hay montones de otras personas más\nadecuadas para esto que yo."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Como alguien positivo que te hace feliz solo con\nverla. Atraerías a muchos más clientes empleando a\nalguien así. ¿Verdad?"
+    },
+    {
+      "name": "Dueño de la Posada",
+      "text": "Eso es..."
+    },
+    {
+      "name": "Dueño de la Posada",
+      "text": "¡Eso es maravilloso!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...¿Eh?"
+    },
+    {
+      "name": "Dueño de la Posada",
+      "text": "¡Realmente pensaste profundamente en lo que sería\nrentable para mi negocio! ¡Qué considerado de tu\nparte!"
+    },
+    {
+      "name": "Dueño de la Posada",
+      "text": "Durante el torneo, lo que me mantuvo al borde del\nasiento fue esa expresión contemplativa tuya, tan\nenfocada en el partido. ¡Tu cooperación es el\nimpulso que el inn necesita para prosperar!"
+    },
+    {
+      "name": "Dueño de la Posada",
+      "text": "Así que por favor, ¿no reconsiderarás? ¡Te lo\nruego!"
+    },
+    {
+      "name": "Dueño de la Posada",
+      "text": "¡Por supuesto, me aseguraré de que no haya\nrepercusiones para ti, tus carreras o cualquier\notra cosa!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Aún así... Yo...",
+      "choice_data_list": [
+        "¿Por qué no lo piensas una vez más?",
+        "¡No puedo esperar a ver los carteles terminados!"
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "No tú también... Ay..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡¿Así que vienes?! ¡Yay, una sesión de fotos con\nAyabe! ♪"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Qué quieres hacer en la posada? Mmm, me pregunto\nqué tendrán."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Lo sé! ¡Aguas termales! ¡Tienen una, ¿verdad?!\n¡Entremos juntos! ¡Aguas termales, aguas termales!\n♪"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Urara, sabes que no vamos allí para\ndivertirnos, ¿verdad?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Eh? ¿No quieres bañarte en las aguas termales?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Yo sí—espera... Si quiero o no es aparte del\npunto."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Lo sabía! ¡Por supuesto que quieres disfrutar las\naguas termales! ♪ ¡Saltemos con un chapuzón!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Urara... Por última vez..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "<i>...Suspiro.</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Admire Vega accede a modelar para los\ncarteles."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡No te preocupes! Estaré allí contigo, así que lo\nharás muy bien!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...No es como que no quiera hacerlo. Ese no es el\npunto..."
+    },
+    {
+      "name": "Dueño de la Posada",
+      "text": "¡Entonces, por favor! Esa aura indescriptible\ntuya—no, ese audaz encanto como ningún otro—debo\ncapturarlo en mis carteles!"
+    },
+    {
+      "name": "Dueño de la Posada",
+      "text": "¡Estoy segura de que simbolizas el lema de la\nposada—\"Hospitalidad con Sinceridad\"! Por no\nmencionar la plétora de otras razones por las que\nte lo pido!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "<i>Suspiro...</i> Ya entiendo, ya entiendo. No tienes que\nseguir preguntando."
+    },
+    {
+      "name": "Dueño de la Posada",
+      "text": "¿Q-quiere decir eso—"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Lo haré. Aunque no creo que esté a la altura de\ntus expectativas..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "No actúes como si ya hubiera dicho que sí. Puedes\ndejar también con los cumplidos.",
+      "choice_data_list": [
+        "No son cumplidos."
+      ]
+    },
+    {
+      "name": "Dueño de la Posada",
+      "text": "¡Es verdad! El carisma que estás presentando en\neste mismo momento inspiraría a miles si se\ncaptura en mis carteles!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Como ya dije..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ooh ooh! ¡Conozco montones de lugares donde Ayabe\nse ve genial! Como, el otro día, mientras\nestábamos afuera corriendo..."
+    },
+    {
+      "name": "Dueño de la Posada",
+      "text": "¡Sí! ¡Ya veo! ¡Está garantizado que mis carteles\nquedarán fantásticos!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Muy bien, ¡basta! ¡Ya entendí, ¿vale?!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Si vas a ser tan molesto, será menos problema si\nsimplemente lo hago."
+    }
+  ]
+}

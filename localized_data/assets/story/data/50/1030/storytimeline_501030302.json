@@ -1,0 +1,404 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una tarde, mientras caminamos por el distrito\ncomercial..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Oye, Hermano Mayor?",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Oye, Hermana Mayor?",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Aquí... e-esto es para ti!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tomo un pedazo de papel de las manos temblorosas\nde Rice Shower."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es...",
+      "choice_data_list": [
+        "¿Un boleto de rifa?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Sí! Urara me habló de eso."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hay una rifa de Año Nuevo en el distrito\ncomercial."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡El premio especial se supone que es algo\nrealmente increíble! Entonces... um..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Te conseguí un boleto. Quiero que lo intentes.",
+      "choice_data_list": [
+        "¿Por qué no lo hacemos juntos?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Te conseguí un boleto. Quiero que lo intentes.",
+      "choice_data_list": [
+        "¿Por qué no lo hacemos juntos?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Eh? ¡De ninguna manera! Si yo estoy involucrado,\nno hay manera de que ganemos.",
+      "choice_data_list": [
+        "¡No digas eso!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Eep!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Eep!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben su suerte con nuestra rifa\nde Año Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Los ganadores del primer premio reciben una\nhamburguesa de zanahoria deluxe, el segundo un\nfardo de zanahorias y el tercero una sola\nzanahoria.",
+      "choice_data_list": [
+        "¡Nos gustaría intentarlo!"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos algunos participantes! ¡Acérquense y\ndenle una oportunidad!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿D-de verdad quieres hacerlo... juntos?",
+      "choice_data_list": [
+        "¡Por supuesto!",
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rogando por buena suerte, agarramos juntos el\nmango del giratorio de la rifa y giramos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de la abertura\ndel giratorio..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Santo bacalao! ¡Tenemos un ganador del gran\npremio! ¡Vengan a recoger el cupón para sus\nvacaciones en aguas termales! ¡Felicitaciones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Whooooa! ¡Lo lograste, lo lograste! Felicidades,\nBig Brother!",
+      "choice_data_list": [
+        "¡Felicidades a ti también, Rice!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Whooooa! ¡Lo lograste, lo lograste! Felicidades,\nBig Sister!",
+      "choice_data_list": [
+        "¡Felicidades a ti también, Rice!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Jeje, pero tú eres la que ganó, no yo.",
+      "choice_data_list": [
+        "Tiramos del giratorio juntos, ¿verdad?",
+        "Tiramos del giratorio juntos, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Jeje, pero tú eres la que ganó, no yo.",
+      "choice_data_list": [
+        "Tiramos del giratorio juntos, ¿verdad?",
+        "Tiramos del giratorio juntos, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Bueno...",
+      "choice_data_list": [
+        "¡Eso significa que ambas ganamos!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "El gran premio es tan suyo como mío."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...¿Está bien que yo también lo tome?",
+      "choice_data_list": [
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Umm... en ese caso... ¿q-quiere decir..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Quiere decir... que iremos juntos a las aguas\ntermales?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ya que ambas ganamos... me gustaría ir contigo."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Está bien?",
+      "choice_data_list": [
+        "¡Si eso es lo que quieres, entonces por supuesto!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿R-realmente?!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Jeje! Bueno, entonces, una vez que hayamos hecho\ntodo lo que queremos y necesitemos un descanso,\n¡vamos!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Jeje! Bueno, entonces, una vez que hayamos hecho\ntodo lo que queremos y necesitemos un descanso,\n¡vamos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Rice Shower y yo prometemos usar el boleto\nde vacaciones en aguas termales juntas."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Reciben una hamburguesa\nde zanahoria de lujo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿P-primer premio?! ¡No puedo creerlo!",
+      "choice_data_list": [
+        "¡Es todo gracias a que tiraste del giratorio\nconmigo!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿P-primer premio?! ¡No puedo creerlo!",
+      "choice_data_list": [
+        "¡Es todo gracias a que tiraste del giratorio\nconmigo!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Jeje... No sé sobre eso."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Muy bien, ustedes dos! ¡Aquí está su premio!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Guau... Se ve delicioso. Mi boca ya está\naguándose—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Grruñido...</i>"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Agh! ¡No ahora, estómago! ¡Todos están mirando!",
+      "choice_data_list": [
+        "Apresurémonos a volver para poder comer."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Jeje. ¡Sí, hagámoslo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que se ha abierto el apetito para igualar\nla sorpresa y felicidad que obtuvo de jugar la\nrifa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Disfrutamos juntos de la deliciosa hamburguesa de\nzanahoria de lujo."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es su día\nde suerte! ¡Se van a casa con un haz de\nzanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Guau... ¡hay tantas!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Mira todas estas zanahorias!",
+      "choice_data_list": [
+        "¿Cómo vas a comer todas esas?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Mira todas estas zanahorias!",
+      "choice_data_list": [
+        "¿Cómo vas a comer todas esas?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...¡Oh! Tienes razón. No sé si mi estómago tiene\nespacio para tantas."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Um, pensemos... Mmm..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Si hago algunos dulces con ellas, ¿probarás\nalgunos?",
+      "choice_data_list": [
+        "¡Definitivamente!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Si hago algunos dulces con ellas, ¿probarás\nalgunos?",
+      "choice_data_list": [
+        "¡Definitivamente!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Yay! ¡Entonces haré un montón!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Unos días después, disfruto de unas galletas de\nzanahoria caseras con Rice Shower."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Miren aquí! ¡Han ganado el tercer premio! ¡Aquí\nestá su zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡No perdimos!",
+      "choice_data_list": [
+        "¡Así es!",
+        "¡Así es!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡No perdimos!",
+      "choice_data_list": [
+        "¡Así es!",
+        "¡Así es!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Jeje... No puedo creerlo. Pensé que mi mala suerte\nnos traería absolutamente nada, como siempre..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Puede que sea tercer premio, pero una victoria es\nuna victoria. Rice Shower guarda la zanahoria como\nrecuerdo de nuestro día juntas."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Ohhh, mala suerte! ¡Parece que sacaste una en\nblanco! ¡Tomen este paquete de pañuelos como\npremio de consolación!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Suspiro...</i> Por supuesto que perdí. Lo siento.",
+      "choice_data_list": [
+        "¡Aún así, gracias por intentarlo conmigo!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Suspiro...</i> Por supuesto que perdí. Lo siento.",
+      "choice_data_list": [
+        "¡Aún así, gracias por intentarlo conmigo!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pero quería que consiguieras un buen premio...\n<i>Snif.</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rápidamente le doy a Rice Shower un pañuelo del\npaquete para que se limpie las lágrimas."
+    }
+  ]
+}

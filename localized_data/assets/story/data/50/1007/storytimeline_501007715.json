@@ -1,0 +1,100 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Gold Ship ha terminado de entrenar por hoy."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Gracias, Entrenador. ¡Hasta luego!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ahora, es hora de hacer algo de suplementación. La\nrutina nunca termina.",
+      "choice_data_list": [
+        "¿Qué es la \"suplementación\"?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿En serio? ¿No sabes qué es la suplementación?\n¿Estás atrapado en la Edad de Piedra? ¡Vaya."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Suplementación como en \"suplemento\". Entrenamiento\ncomo en \"entrenar\". ¡Es obvio."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Está de moda en todo el multiverso de Golshi, por\nsi has estado viviendo debajo de una roca."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Si vas a ser mi entrenador, tienes que mantener el\nritmo de lo que está de moda y atraparlo como un\nresfriado común, ¡yo!",
+      "choice_data_list": [
+        "Es cierto, no puedo quedarme atrás de los tiempos.",
+        "Es cierto, no puedo quedarme atrás de los tiempos.",
+        "Sé que \"CD\" es lo que está de moda actualmente.",
+        "Sé que \"CD\" es lo que está de moda actualmente."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Si vas a ser mi entrenador, tienes que mantener el\nritmo de lo que está de moda y atraparlo como un\nresfriado común, ¡yo!",
+      "choice_data_list": [
+        "Es cierto, no puedo quedarme atrás de los tiempos.",
+        "Es cierto, no puedo quedarme atrás de los tiempos.",
+        "Sé que \"CD\" es lo que está de moda actualmente.",
+        "Sé que \"CD\" es lo que está de moda actualmente."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Me gusta tu entusiasmo. Con una mentalidad como\nesa, todavía hay un lugar para ti en el multiverso\nde Golshi."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Y como estás tan motivado para mantener el ritmo,\nte daré un curso intensivo sobre todas las\ntendencias."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Vamos! Te mostraré de qué se trata la\nsuplementación."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿\"CD\"? Nunca he oído hablar de eso. ¿Estás seguro\nde que es algo?",
+      "choice_data_list": [
+        "En el multiverso del Entrenador, es así.",
+        "En el multiverso del Entrenador, es así."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Eh? Bueno, ¿qué significa? Ilumíname."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le digo a Gold Ship que \"CD\" significa \"enfriar\",\ny ella se ríe."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Pffft, ¿eso es todo?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hablando de enfriar, sin embargo, tiene que haber\nuna forma más eficiente de hacerlo."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Como comer hielo rallado mientras se enfría.\nPodemos llamarlo \"El Enfriamiento Más Fresco\"."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Sí, será la sensación en el multiverso de Golshi.\n¡Puedo sentirlo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Solo podemos esperar que se quede en el multiverso\nde Golshi..."
+    }
+  ]
+}

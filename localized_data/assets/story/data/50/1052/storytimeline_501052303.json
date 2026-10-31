@@ -1,0 +1,111 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Haru Urara",
+      "text": "¡Oh, por Dios! ¡Lo hice! ¡Obtuve el primer lugar!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Por una vez, nadie estaba delante de mí!\n¡Finalmente estoy en el círculo de ganadores!",
+      "choice_data_list": [
+        "¡Bien hecho, Urara!",
+        "¡Bien hecho, Urara!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Jejee! ¡Gracias! ¡Ambos ganamos!",
+      "choice_data_list": [
+        "¿Cómo se siente quedar en primer lugar?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Hmm, bueno... ¡Es increíble, por supuesto!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Mucho más increíble de lo que esperaba! ¡Quiero\nquedar en primer lugar otra vez!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Oye, inscríbeme en muchas carreras! ¡Voy a\nintentarlo con más fuerza!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Probablemente sea una buena idea participar en una\nvariedad de carreras para acumular su experiencia\nde todos modos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y mientras lo hace, estoy segura de que también\nencontrará una nueva carrera a la que realmente\nquiera aspirar.",
+      "choice_data_list": [
+        "Muy bien, ¡entonces más te vale correr como el\nviento!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Absolutamente!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Hm? ¿Quéeee?",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Mira allí! ¡Mis amigos del barrio comercial están\naquí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sigo la línea de visión de Haru Urara y veo a sus\namigos animadores del barrio comercial todos\nagrupados."
+    },
+    {
+      "name": "Dependiente Energético",
+      "text": "¡Urara está aquí! Okey, todos... <I>¡ahora!</I>"
+    },
+    {
+      "name": "Dependientes",
+      "text": "¡Felicitaciones por tu debut!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Batir...</i>"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Guau! ¡Hicieron una pancarta para mí?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los dependientes sostienen una pancarta que dice\n\"¡Felicitaciones por tu debut, Urara!\""
+    },
+    {
+      "name": "Dependiente Amable",
+      "text": "¡Me emocioné tanto al verte correr tan rápido en\nla pista!"
+    },
+    {
+      "name": "Dependiente Feliz",
+      "text": "¡Vamos a estar contigo hasta el final!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Aw, ¡gracias! ¡Voy a darlo todo!"
+    },
+    {
+      "name": "Dependientes",
+      "text": "¡Sí! ¡Tú puedes!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella acaba de debutar, pero ya se siente como si\nle estuvieran haciendo un festival. Parece que los\ndependientes realmente aman a Haru Urara."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como esperan grandes cosas de Haru Urara, ¡prometo\nentrenarla bien!"
+    }
+  ]
+}

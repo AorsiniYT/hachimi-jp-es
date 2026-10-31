@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Voy a visitar a Silence Suzuka en la sala de\npreparación antes de la carrera solo para\ndescubrir que no está allí."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>Haa... Resuello...</i>"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Oh, Entrenador...",
+      "choice_data_list": [
+        "¿Fuiste a correr?",
+        "¿Fuiste a correr?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Me picó el gusanillo, así que di una vuelta a la\npista de carreras."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Parece que es hora..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Daré todo lo que tengo para llegar a la\ndelantera..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No cederé la delantera a nadie."
+    }
+  ]
+}

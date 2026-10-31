@@ -1,0 +1,181 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mientras caminaba por la plaza central durante el\nalmuerzo, me encuentro con una figura familiar..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Entrenador! ¿Has visto a Flower por aquí?",
+      "choice_data_list": [
+        "¿Por qué preguntas?",
+        "¿Por qué preguntas?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Estoy en un verdadero aprieto! Si no la encuentro\npronto, entonces—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Bip, bip!</i>"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Jeje, parece que gané yo. ¡Se acabó el tiempo!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Nooo! ¡Perdí otra vez!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Busqué por todos lados, pero no pude\nencontrarte..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Debes ser la campeona de las escondidas, Flower!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "E-eso es todo un cumplido, Taiki. Es muy amable de\ntu parte decirlo, pero estoy un poco\navergonzada...",
+      "choice_data_list": [
+        "¿Estaban jugando a las escondidas?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Claro que sí! A mis hermanitas no les podía\nfaltar en casa!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Esa fue la ronda decisiva. Y tengo justo el premio\npara ti, Flower—¡un gran abrazo por esconderte tan\nbien!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Ahora, ven aquí para darte un abrazo! ¡Has sido\nuna niña muy buena!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "E-espera, Taiki! Um... ¿Por qué no jugamos una\nronda más ya que ya estamos aquí?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh, qué buena idea! Ya que mi entrenador está por\naquí, ¿por qué no jugamos los tres juntos?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Ustedes dos vayan a esconderse! ¡Definitivamente\nlos encontraré antes de que se acabe el tiempo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Taiki Shuttle corre a un árbol y empieza a contar."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Será mejor que me asegure de que no me encuentre.\nJeje... La verdad es que aún no he perdido ni una\nsola ronda.",
+      "choice_data_list": [
+        "Eso es impresionante.",
+        "Eso es impresionante."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "En realidad no hay buenos lugares para esconderse,\nasí que estaba segura de que me descubriría. Pero\nhasta ahora, ¡no me ha encontrado ni una vez!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Y cuando yo era la que buscaba, la encontré en un\nsantiamén."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Sabes, quizás sea realmente buena en escondidas."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Jeje. Estaba un poco decaída antes, pero ¡ahora\nestoy empezando a sentirme mejor!",
+      "choice_data_list": [
+        "¿Qué pasó antes?"
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Mi carrera no salió tan bien como esperaba... pero\nluego Taiki vino a verme."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Ella dijo: \"¡Solo se necesita una buena carcajada\npara espantar la tristeza!\""
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Taiki me elogia cada vez que me escondo muy bien.\nCuando lo hace, mi corazón se siente cálido y\nacogedor...",
+      "choice_data_list": [
+        "Creo que entiendo."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Ah, probablemente deberíamos darnos prisa y\nencontrar nuestros lugares para escondernos."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Voy a esconderme por allí. ¡Buena suerte!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de que ella termina de contar, Taiki\ncomienza su búsqueda. Y solo un minuto después..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Je-je... Sé que estás por aquí, Entrenador—¡puedo\nolerte! ¡Sal, sal, dondequiera que estés!",
+      "choice_data_list": [
+        "Escapar corriendo.",
+        "¡Quédate quieto y espera a que pase!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Ajá! ¡Ahí estás, Entrenador! ¡No creas que voy a\npermitirte escapar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Intento escapar, pero con Taiki Shuttle como mi\noponente, un escape exitoso está fuera de\ncuestión."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh, no tenía idea de que fueras tan rápido,\nEntrenador! Supongo que eso significa que no\nnecesito ir suave contigo. ¡Te atrapé!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Así que estás jugando al juego de la espera, ¿eh?\n¡Yo soy bastante buena en eso también!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Entrenador, ¿eres tú el que escucho hojas\ncrujiendo? ¡Sé que estás ahí!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Je-je. ¡Tienes que despertarte muy temprano en la\nmañana para escapar de una francotiradora como yo!",
+      "choice_data_list": [
+        "No puedo creer que me hayas encontrado tan\nfácilmente."
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "No eres un niño, así que pensé que me ahorraría\nlas dramatizaciones que hago para mis hermanitas!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Muy bien, ¡ahora a encontrar a Flower!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh, Flooower! ¿Dónde estaaas? ¡Voy a encontrarte\naunque tenga que correr vueltas alrededor de toda\nla escuela!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Taiki Shuttle continúa su búsqueda con una gran\nsonrisa en su rostro, todo el tiempo pretendiendo\nno notar la cola medio escondida de Nishino\nFlower."
+    }
+  ]
+}

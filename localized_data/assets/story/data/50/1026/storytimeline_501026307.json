@@ -1,0 +1,250 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Den un aplauso a Mihono Bourbon y a la gran\nactuación que tuvo hoy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Nooo! ¡No puedo creer que Bourbon perdió!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "Aún así, ¡no pude quitarle los ojos de encima en\ntodo momento! Debe haber sido por su presencia. O,\nactualmente..."
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Es por lo inspirador que fue, saber cuánto\ntrabajo duro ha hecho para llegar tan lejos como\nha llegado!"
+    },
+    {
+      "name": "Reportera de pelo corto",
+      "text": "¡Puede que aún sea novata, pero corrió bastante\nimpresionantemente a pesar de todo!"
+    },
+    {
+      "name": "Reportera de pelo corto",
+      "text": "¡Estoy emocionada de ver qué depara el futuro para\nMihono Bourbon!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los fans de Mihono Bourbon aplauden\nestruendosamente a pesar de que ella perdió."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¡Así que esto es la Triple Corona Clásica... Esto\nes el Satsuki Sho!",
+      "choice_data_list": [
+        "¡Bourbon!"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Entrenador... Por favor, acepta mis disculpas..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Reportando. Fallé en obtener la Triple Corona. Mi\npoder fue insuficiente..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Mi sueño... ha sido hecho añicos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella se queda allí, quieta y desalentada,\ncompletamente inconsciente de los elogios que\nvienen de todos a los que cautivó con su carrera.",
+      "choice_data_list": [
+        "Bourbon. Escucha las voces a tu alrededor."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...¿Voces?"
+    },
+    {
+      "name": "Espectador C",
+      "text": "Es una lástima que Bourbon no pueda obtener la\nTriple Corona, pero seguramente fue increíble."
+    },
+    {
+      "name": "Espectadora D",
+      "text": "Sí, verla me hizo querer trabajar tan duro como\nella."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿Mi carrera está influenciando a otros?"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿Pero por qué?",
+      "choice_data_list": [
+        "Hay algo que ganar de las carreras, incluso si\npierdes."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Estado—\"extraño\". Yo... no sé qué hacer..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incluso si ella no puede ganar la Triple Corona\nClásica —incluso si no gana <i>ninguna</i>corona en\nabsoluto..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Solo terminar las carreras debería tener un\nimpacto positivo en ella.",
+      "choice_data_list": [
+        "Estamos en esto juntos hasta el final."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Juntos... hasta el final..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella levanta sus ojos llenos de ansiedad, y su\nmirada se fortalece mientras digiere mis palabras."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¡Sí, Entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Generosos vítores y aplausos caen sobre Mihono\nBourbon, y la emoción no disminuye por algún\ntiempo."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Bourbon fue tan... increíble... Todos la miraban\ntan intensamente..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "No era rival para ella..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Qué más esperaba? Todo lo que puedo hacer es\nmirar a otros... y decir lo increíbles que son..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>¡Hups!</i>"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Yo... tengo que cambiar! ¡Tengo que!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por la noche, después de volver a casa desde el\nNakayama Racecourse, vamos a la pista porque\nBourbon quiere correr un poco."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Haa... Haa... Hups!</i>"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Rice está entrenando actualmente. Además, he\nidentificado que está llorando. Pero no puedo\ncompren—"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Pum!</i>"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rice Shower se cae y Mihono Bourbon se apresura a\nayudar, pero yo la detengo instintivamente."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Pero Entrenador...",
+      "choice_data_list": [
+        "Veamos qué pasa."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un momento después, Rice Shower se levanta."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Haa...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y entonces vuelve a correr."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Voy a... hacerme más fuerte..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Me haré más fuerte... y algún día... ¡alcanzaré a\nBourbon!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Entrenador, me cuesta entender las emociones. ¿Qué\nfue eso hace un momento?"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "No gané el Satsuki Sho, así que ¿por qué ella—",
+      "choice_data_list": [
+        "(\"hacer felices a las personas...\")"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pensando en ello, recuerdo que Rice Shower dijo\nalgo similar antes."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Si puedo siquiera acercarme a desempeñarme así en\nla Twinkle Series..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Entonces tal vez finalmente pueda despedirme de la\nRice Shower que solo trae desgracia y tristeza a\ntodos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rice Shower no ve a Mihono Bourbon como una\nrival—la ve como una inspiración y un ideal hacia\nel que esforzarse."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y aunque lleva esa aspiración, es evidente que no\nestá satisfecha consigo misma.",
+      "choice_data_list": [
+        "Estoy segura de que eso era \"frustración.\""
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "\"¿Frustración?\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mihono Bourbon repite la palabra en voz baja, pero\nella no parece entender el significado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me preocupa Rice Shower... pero no puedo quedarme\naquí preocupándome para siempre."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El tan esperado Japanese Derby se acerca pronto, y\ntenemos que prepararnos mentalmente para él."
+    }
+  ]
+}

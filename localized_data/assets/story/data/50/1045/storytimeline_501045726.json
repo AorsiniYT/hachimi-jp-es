@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras estoy con Super Creek..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "...¿Oh? Jeje, eso podría ser divertido. ♪",
+      "choice_data_list": [
+        "¿Qué podría ser?",
+        "¿Qué podría ser?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Mira allí! Está lleno de tantos peluches lindos"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Miro en la dirección que Super Creek señala y veo\nuna máquina de garra llena de juguetes de peluche\nde Uma Musume."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Jeje, son tan lindos. ¡Solo quiero cuidar de todos\nellos!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Pero nunca he intentado usar estas máquinas\nantes..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una expresión de preocupación se extiende por la\ncara de Super Creek.",
+      "choice_data_list": [
+        "¿Quieres que gane uno para ti?",
+        "¿Quieres que gane uno para ti?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿En serio? ¿Lo harías por mí? Bueno, si lo\noferces, entonces lo acepto con gratitud!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Buena suerte! Oh, pero no te esfuerces demasiado,\n¿vale? ¡Eso es un gran no-no!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡De ninguna manera puedo fallar!"
+    }
+  ]
+}

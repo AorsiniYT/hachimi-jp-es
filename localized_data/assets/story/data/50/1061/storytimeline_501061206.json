@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Espectador con Sombrero",
+      "text": "Oye, ¿viste quién corre hoy?"
+    },
+    {
+      "name": "Espectador con Camisa de Botones",
+      "text": "¡Vi! Es esa Umamusume del extranjero, ¿verdad?"
+    },
+    {
+      "name": "Espectador con Sombrero",
+      "text": "¡No, no ella! ¡Me refiero a la que estuvo en la TV\nel otro día! Soy un gran fan."
+    },
+    {
+      "name": "Espectador con Camisa de Botones",
+      "text": "¿En la TV? Espera, no puedes referirte a... ¡No\npuede ser, ella está aquí?!"
+    },
+    {
+      "name": "Espectador con Camisa de Botones",
+      "text": "Oh, ¡esto me trae recuerdos! Solía seguir todas\nlas carreras de Special Week, así que también la\nvi. Estaba pensando que ha pasado un tiempo desde\nque escuché algo sobre ella."
+    },
+    {
+      "name": "Espectador con Sombrero",
+      "text": "¿De qué estás hablando? ¡Ella es el tema de moda\nahora mismo! Espera, ¿realmente está en el mismo\naño que Spe?!"
+    },
+    {
+      "name": "Espectador con Sombrero",
+      "text": "Ahaha. De todos modos, siempre la encontré un poco\nexcéntrica, pero resulta que es bastante\nasombrosa!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Oye, ¿escuchaste? Hay una corredora invitada del\nextranjero en el Yasuda Kinen de hoy."
+    },
+    {
+      "name": "King Halo",
+      "text": "No es que me importe.",
+      "choice_data_list": [
+        "De cualquier manera, vas a ganar.",
+        "De cualquier manera, vas a ganar."
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Ohohoho! ¡Así es! ¡Nadie puede interponerse en mi\ncamino!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Dejaré a todos en el polvo!"
+    }
+  ]
+}

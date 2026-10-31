@@ -1,0 +1,248 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estoy visitando un santuario el primer día del\nnuevo año para renovar mi determinación de apoyar\na Narita Taishin cuando..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Ohhh! ¡Taishin, mira! ¡Es tu entrenador! ¡Hiiiii!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Genial...",
+      "choice_data_list": [
+        "¡Taishin! No sabía que estarías aquí.",
+        "¡Taishin! No sabía que estarías aquí."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella odia las multitudes, así que no esperaba\nencontrarme con ella en un santuario lleno de\ngente haciendo su primera visita del año."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No es que quisiera venir, pero estos dos no\ndejaban de molestarme al respecto."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ahora que finalmente somos corredoras senior, no\npodíamos simplemente <i>no</i> venir!",
+      "color_text_info_list": [
+        "senior"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Las Umamusume que debutaron después de nosotras\nsiguen poniéndose más fuertes, pero nosotras\ntambién vamos a ponernos más fuertes!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Y para hacer eso, tenemos que entusiasmarnos\ndesde el muy principio del año! ¡Wooooo!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Siento que siempre estás entusiasmada—pero estoy\nde acuerdo contigo en su mayoría."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Vamos, Taishin. Todavía tengo que rezar por tu\nbuena salud."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Nadie te lo pidió."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Charlan más libremente que cuando el Kikuka Sho\nlos acechaba. Ver a los tres interactuar me hace\nsonreír."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ahora que hemos terminado aquí—¿eh? ¿Taishin,\nestás bien?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Me voy. No puedo soportar estar aquí más. Me voy a\ncasa."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Quéaaa?! ¡Pero no salimos tan a menudo! Vamos,\n¡quédate con nosotros un poco más!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Rápido! ¡Tienes que ayudarnos a cambiar su\nopinión!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Ella me está arrastrando! Aún así, Taishin\nrealmente se ve mal, así que podría ser bueno ir a\notro lugar.",
+      "choice_data_list": [
+        "Yo te invito a algo rico.",
+        "¿Por qué no salir a correr?",
+        "¿Qué tal si vamos a una arcade?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Como..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué demonios estamos haciendo aquí?! ¿Es este el\ntipo de café que te gusta?!",
+      "choice_data_list": [
+        "No, ¡no es eso!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es solo que, este era el único lugar que no tenía\nuna cola en la puerta!"
+    },
+    {
+      "name": "Doncella de Orejas de Oso",
+      "text": "¡Grrr, bienvenidos! ♪ ¡Solo den un rugido cuando\nestén listos para ordenar! ♪"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Rugido-ger eso... Creo?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Qué clase de reglas tienen aquí?!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Ahahaha! ¡Este café es tan divertido! ¡Okay, ya\nsé lo que quiero!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Rugido! ¡Disculpe! ¡Me gustaría un Plato de\nPanqueques Bear-y Berry, por favor!"
+    },
+    {
+      "name": "Doncella de Orejas de Oso",
+      "text": "¡Grrr-elección! ♪ ¿Y qué te gustaría?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Eh... Solo tomaré un té caliente con limón..."
+    },
+    {
+      "name": "Criada de Orejas de Oso",
+      "text": "¿Eh? Perdón, apenas puedo oírte."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Uf..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "E-E me gustaría el Té de Limón Brewin' Bruin."
+    },
+    {
+      "name": "Sirvienta de Orejas de Oso",
+      "text": "¡Entendido, rugido! ♪"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Nnngh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"...entonces voy a patear a ese tonto al otro lado\ndel mundo!\" Las palabras de Narita Taishin antes\nde su debut resuenan en mi cabeza..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿En serio?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Jaja! ¿En el Día de Año Nuevo? ¡Admiro tu\nentusiasmo!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Dicho esto, es una actividad muy apropiada para\nnosotras hacer."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Podríamos hacerlo. Corramos hasta que encontremos\nun lugar donde podamos tomar un descanso\ntranquilo."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Whoooaaa! ¡Es el primer amanecer del nuevo añooo!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Sí, si hubiéramos estado aquí horas ago. Ya es\nprácticamente mediodía."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Pero este lugar aún se siente genial! ¡No tenía\nidea de que existiera!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "La vista realmente es fantástica. ¿Vienes aquí a\nmenudo, Taishin?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Sí, supongo."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Ohhh! ¡Puedo ver el hipódromo! ¡Taishin,\nHayahide! ¡Por aquí!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(Estoy segura de que es la primera vez que está\ntan ruidoso aquí.)"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Oooh! ¡Esa es una idea <i>genial</i>! ¡Eh,eh, eh! ¿Te\ngustan los arcades, verdad,Taishin?!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No... Me gusta jugar juegos para matar el tiempo,\npero no realmente voy a las arcades."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Pero Taishiiiiin..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ugh, bien."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿En serio? ¡Yaaaay!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Estás bastante indulgente hoy."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Cállate!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Yaaaaah! ¡No dejaré que ni uno solo de ustedes\nescape de mi ira!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Cabeza de hueso! ¡No uses tu escopeta en los\ndébiles! ¡Necesitas guardarla para el grande que\nviene después de esto—"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Gaaah! ¿Qué hago, qué hago?! Me está mordiendo\n—¡no quiero convertirme en un zombiiie!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ugh... Dispara a la cabeza para matarlos\ninstantáneamente!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Guau! ¡Guau, Taishin... Le estás acertando a cada\nuno de ellos con tiros a la cabeza!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Es bueno verlos divirtiéndose."
+    }
+  ]
+}

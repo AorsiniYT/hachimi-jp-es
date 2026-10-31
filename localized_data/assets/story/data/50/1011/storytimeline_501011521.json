@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Grass Wonder",
+      "text": "Oh, buenos días, Trainer... <i>Bostez...</i>",
+      "choice_data_list": [
+        "Alguien tiene sueño.",
+        "Alguien tiene sueño."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Bueno, verás... El estaba hablando dormida anoche,\ny no pude evitar sentir un poco de curiosidad..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Debía estar teniendo el buffet de sus sueños,\nporque seguía diciendo cosas como \"a la plancha\" y\n\"gazpacho\"."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Es increíble cómo puede reunir tanta energía\nincluso mientras duerme..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Así que ves, no pegué el ojo en toda la noche...\n<i>Bostezo...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Grass Wonder necesita más sueño."
+    }
+  ]
+}

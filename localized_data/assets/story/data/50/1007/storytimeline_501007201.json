@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Ha llegado finalmente el día de las Esperanzas\nStakes."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿La carrera de hoy? ¿La Heartful Gretel? Escuché\nque es la primera carrera que se celebra bajo el\nagua."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Je, je! ¡Por fin ha llegado el día en que puedo\nmostrarle al mundo mi impresionante estilo\nmariposa!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Solo espera, Océano Pacífico! ¡Te veré tan pronto\ncomo supere la Fosa de Japón!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Definitivamente está emocionada por la razón\nerrada, ¡pero al menos está emocionada por correr\nen general!",
+      "choice_data_list": [
+        "¡D-da tu mejor esfuerzo!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Lo haré! Nada puede detenerme, mucho menos un par\nde trincheras oceánicas insignificantes."
+    }
+  ]
+}

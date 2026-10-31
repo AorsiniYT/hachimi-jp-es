@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, cuando me acerco a la puerta principal de\nla academia, vislumbro a alguien entrando\napresuradamente en un taxi y alejándose a toda\nvelocidad."
+    },
+    {
+      "name": "Air Groove",
+      "text": "<i>Haa... Haa...</i> ¡Oye, tú! ¿Has visto pasar a un\nreportero?",
+      "choice_data_list": [
+        "Alguien se apresuraba en un taxi."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "¡Grrr, así que han escapado...",
+      "choice_data_list": [
+        "¿Qué pasó?",
+        "¿Qué pasó?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ese reportero estaba aquí para fotografiar nuestro\nentrenamiento, ¡pero el tonto usó el flash!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Le prohibí explícitamente su uso antes de que\nempezáramos."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Hmph. Más tarde llamaré a la editorial y\npresentaré una queja."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de perseguir a ese reportero, Air Groove\nse ve un poco agotada."
+    }
+  ]
+}

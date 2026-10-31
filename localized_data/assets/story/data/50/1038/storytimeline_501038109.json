@@ -1,0 +1,330 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "A medida que se acercan las vacaciones, estamos\nterminando nuestro entrenamiento habitual cuando\nle digo a Curren Chan que quiero mostrarle algo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es un poco tarde, pero le compré un regalo por\nhaber obtenido el primer lugar en los Sprinters\nStakes."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Reservas para el curso de cena limitado de\nvacaciones de Visee Noir?",
+      "choice_data_list": [
+        "Así es.",
+        "Así es."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Eso es totalmente increíble! ¡Este restaurante es\nsúper famoso!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Está por todo Umastagram cada invierno."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Es tan difícil conseguir reservas aquí! ¿Cómo lo\nlograste?",
+      "choice_data_list": [
+        "Tengo mis métodos..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pasé mucho tiempo investigando tendencias en\nUmastagram y luego usé las conexiones de la\nDirectora Akikawa para conseguir las reservas."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Realmente pensaste mucho en esto para mí.\nGracias. ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Realmente pensaste mucho en esto para mí.\nGracias. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Curren Chan parece feliz. La reserva es para\nmúltiples personas, así que pensé que podría traer\na su compañera de cuarto, Admire Vega, o algunas\notras amigas.",
+      "choice_data_list": [
+        "Ve a divertirte con tus amigas."
+      ],
+      "color_text_info_list": [
+        "Admire Vega"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...¿Mis amigas?"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿No tú?",
+      "choice_data_list": [
+        "Bueno..."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿No tú?",
+      "choice_data_list": [
+        "Bueno..."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡De ninguna manera! ¡No voy!",
+      "choice_data_list": [
+        "¿Qué?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es inusual que Curren Chan rechace algo tan\nvehementemente..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "No lo entiendes."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "No lo entiendes."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Y no me malinterpretes, estoy realmente\nagradecida. Gracias por ser tan considerado y\nhacer algo así por mí."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Pero... esto no es lo que me haría más feliz."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "En el fondo, lo sabes, ¿verdad? <i>¿Verdad?</i>"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Y yo que pensaba que los adultos se suponía que\ndebían ser <i>inteligentes.</i>",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Y yo que pensaba que los adultos se suponía que\ndebían ser <i>inteligentes.</i>",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...En cualquier caso, no puedo aceptar este\nregalo. No ahora, de todos modos."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "No caducan por un tiempo, así que espera hasta que\nyo también sea una adulta más inteligente, ¿vale?"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "En su lugar..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decidimos celebrar las vacaciones unos días\ndespués. Cuando llega el día..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Hermano! ¡Por aquí! ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Hermana! ¡Por aquí! ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Están vendiendo pasteles de temporada por allá!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Realmente quiero uno! ♪",
+      "choice_data_list": [
+        "Vamos a verlo."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Yupi! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A petición de Curren Chan, caminamos por la ciudad\ndecorada con luces. Pero...",
+      "choice_data_list": [
+        "¿Esto realmente es suficiente?",
+        "¿Esto realmente es suficiente?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Por qué no sería? ¡Estamos celebrando las\nvacaciones con una <i>cita!</i> Creo que esto es más que\nsuficiente como regalo."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Aunque, supongo que está bien que sigas\npensando que esto es solo otra salida."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Aunque, supongo que está bien que sigas\npensando que esto es solo otra salida."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Quiero ser una niña un poco más de todos modos."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Así que!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "No me trates demasiado como una adulta aún.\nTodavía quiero que me consientas! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Curren Chan pasa el resto de la noche\nhaciéndome consentirla."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "<i>Suspiro...</i> ¡Qué vista tan hermosa! ¿No crees?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de nuestro entrenamiento normal, Curren\nChan me pide que suba una colina con ella para ver\nel paisaje urbano nocturno."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...La vista nocturna realmente te hace pensar."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hay alguien en el otro extremo de cada una de esas\nluces..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Y algunos de ellos ni siquiera saben quién soy\ntodavía."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "No puedo parar hasta que todas las luces del mundo\nbrillen con monada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No estoy segura de qué significa \"brillar con\nmonada\"... pero incluso en las vacaciones, ella\nestá pensando en sus metas."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Pero... Tengo un largo camino por recorrer antes\nde eso. Quiero decir, aún te estoy manipulando\ntodo el tiempo.",
+      "choice_data_list": [
+        "¿Qué quieres decir?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Pero... Tengo un largo camino por recorrer antes\nde eso. Quiero decir, aún te estoy manipulando\ntodo el tiempo.",
+      "choice_data_list": [
+        "¿Qué quieres decir?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Como... con las reservas de vacaciones que me\ndiste. Perdón por rechazarlas."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Pusiste mucho pensamiento en ese regalo, y yo\nestaba realmente feliz."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Pero... Aún creo que te equivocaste en los\ndetalles.",
+      "choice_data_list": [
+        "Está bien."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Quieres decir que no estás enojado?",
+      "choice_data_list": [
+        "Me siento un poco privilegiado de que puedas\nmanipularme.",
+        "Me siento un poco privilegiado de que puedas\nmanipularme."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Ugh... Realmente tengo un largo camino por\nrecorrer."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hiciste que mi corazón diera un vuelco por un\nsegundo allí.",
+      "choice_data_list": [
+        "¿Qué?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hiciste que mi corazón diera un vuelco por un\nsegundo allí.",
+      "choice_data_list": [
+        "¿Qué?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Jeje..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Voy a dominar la monada y convertirme en una más\nmaravillosa."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Sí. Creo que eso es bueno para este año. Amo todo\nel tiempo que paso hablando contigo. Pero,\nsabes..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Sí. Creo que eso es bueno para este año. Amo todo\nel tiempo que paso hablando contigo. Pero,\nsabes..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Soy el tipo de chica que consigue lo que quiere,\n¿verdad? Así que el próximo año..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Voy a hacer que digas que quieres pasar las\nvacaciones conmigo también.",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Pft."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Ehe. Solo espera. ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Ehe. Solo espera. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos quedamos un poco más, mirando las estrellas y\nhablando sin fin el uno con el otro."
+    }
+  ]
+}

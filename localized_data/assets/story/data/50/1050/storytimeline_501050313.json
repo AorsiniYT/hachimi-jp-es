@@ -1,0 +1,109 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Narita Taishin de Piernas Demoníacas lo logra!\n¡Narita Taishin toma el primer lugar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Yeeeaaahhh!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Taishin! ¡Taishin! ¡Taishin!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La multitud está enloquecida, pero puedo oírla\ngritando por mí por encima del ruido.",
+      "choice_data_list": [
+        "¡Taishin!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Salto la valla y voy directo a ella.",
+      "choice_data_list": [
+        "¡Taishin! ¡Felicitaciones!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Entrenador... Lo entiendo. Ahora entiendo."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No corro porque sea todo lo que tengo o porque no\ntenga otra opción..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Lo hago porque esto es lo que quiero.\n<i>Quiero</i>correr!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Y quiero ganar mis carreras!",
+      "choice_data_list": [
+        "¡Sí! ¡Dilo fuerte, Taishin!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Disfrutando de los vítores del público, Narita\nTaishin y yo estamos extasiados con nuestra nueva\ndeterminación para seguir adelante."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Oye, quiero hablar contigo sobre mi próximo\nobjetivo.",
+      "choice_data_list": [
+        "¿Tienes algo en mente?",
+        "¿Tienes algo en mente?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Sí... Quiero correr en el Tenno Sho de primavera.",
+      "color_text_info_list": [
+        "Tenno Sho de primavera"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ticket y Hayahide dijeron que también van a\nintentarlo."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Estaba muy por debajo de su nivel cuando corrimos\nen el Kikuka Sho. Así que...",
+      "choice_data_list": [
+        "¡Esta es tu oportunidad para redimirte, entonces!",
+        "¡Esta es tu oportunidad para redimirte, entonces!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ugh, en serio eres tan penoso cuando te pones\nhiper-entusiasmado así, pero... sí."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "De todos modos..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Quiero que me ayudes a prepararme para ello."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con la vista puesta de nuevo, Narita Taishin y yo\nnos preparamos para el Tenno Sho de primavera!"
+    }
+  ]
+}

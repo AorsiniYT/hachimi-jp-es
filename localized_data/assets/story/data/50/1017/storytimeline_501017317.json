@@ -1,0 +1,263 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Qué te pareció, Entrenador?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Logré dar el ejemplo?",
+      "choice_data_list": [
+        "¡Absolutamente!",
+        "¡Absolutamente!"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Entonces estoy satisfecha."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ya ha pasado casi un año desde que empecé mi\núltimo año."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Si mi desempeño ha logrado inspirar a las\ncorredoras más jóvenes, no se me ocurre nada más\nvalioso.",
+      "choice_data_list": [
+        "No planeas detenerte ahora, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¡Jajaja! No te preocupes, no hay posibilidad de\neso. ¿No ves el fuego en mis ojos?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Por supuesto, ya estoy mirando al futuro. Mi\npróximo desafío será...",
+      "choice_data_list": [
+        "¡El Arima Kinen!"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Precisamente."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Pero esto no será una repetición del año pasado.\nPienso mostrarle al mundo los frutos de mi\ntrabajo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Symboli Rudolf ya parece lo suficientemente\nmotivada, pero tengo una cosa más que decirle.",
+      "choice_data_list": [
+        "Escuché que Maruzensky estará allí."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Maruzensky. Ya veo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "De regreso..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Oh, ¿ese es..."
+    },
+    {
+      "name": "Gerente General del Consejo Estudiantil",
+      "text": "...Y eso concluye nuestro recorrido por la\nacademia. ¿Tienen alguna pregunta?",
+      "choice_data_list": [
+        "La recuerdo..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sí, la gerente general del consejo estudiantil.\nParece que está guiando a un grupo de Umamusume."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ah que lo pienso, hoy era el día en que se suponía\nque iban a dar un recorrido a los nuevos miembros\ndel consejo estudiantil."
+    },
+    {
+      "name": "Uma Musume Pequeña",
+      "text": "Sabes... Empiezo a pensar que quizás el consejo\nestudiantil no sea lo adecuado para mí..."
+    },
+    {
+      "name": "Gerente General del Consejo Estudiantil",
+      "text": "¿Por qué dices eso?"
+    },
+    {
+      "name": "Uma Musume Pequeña",
+      "text": "Me uní por la Presidenta, pero cuando la vi correr\nhoy..."
+    },
+    {
+      "name": "Uma Musume Pequeña",
+      "text": "Era mucho mejor de lo que yo podría esperar ser.\nSiento que no tiene sentido..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Symboli Rudolf no dice nada. Está esperando a ver\ncómo responde la gerente general."
+    },
+    {
+      "name": "Gerente General del Consejo Estudiantil",
+      "text": "Entiendo lo que quieres decir. Me sentí\nexactamente igual cuando me uní por primera vez."
+    },
+    {
+      "name": "Uma Musume Pequeña",
+      "text": "¿En serio?"
+    },
+    {
+      "name": "Gerente General del Consejo Estudiantil",
+      "text": "Pensé que nunca podría estar a la altura de mi\npuesto, y eso me hizo sentir muy mal conmigo\nmisma."
+    },
+    {
+      "name": "Gerente General del Consejo Estudiantil",
+      "text": "Honestamente, aún me siento inútil la mayor parte\ndel tiempo. Pero te puedo decir una cosa con\ncerteza: he crecido mucho como persona desde que\nempecé."
+    },
+    {
+      "name": "Gerente General del Consejo Estudiantil",
+      "text": "Así que si quieres mejorar... ¿considerarías\naguantar un poco más?"
+    },
+    {
+      "name": "Uma Musume Pequeña",
+      "text": "E-está bien... ¡Lo intentaré!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Je."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Es gratificante ver a las estudiantes más jóvenes\nmadurando tanto dentro como fuera de la pista."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Y es un alivio saber que la academia estará en\nbuenas manos incluso después de que me vaya."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Symboli Rudolf parece que se ha quitado un peso de\nencima. ¡Este es el momento perfecto para hacer mi\npropuesta!",
+      "choice_data_list": [
+        "Hay algo que he querido preguntarte."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Eso es bastante repentino, pero adelante.",
+      "choice_data_list": [
+        "Quiero que olvides tus títulos en el Arima Kinen.",
+        "Quiero que olvides tus títulos en el Arima Kinen."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No quiero que corras como la Emperadora o la\nPresidenta, sino simplemente como Symboli Rudolf."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Entiendo lo que intentas decir."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Pero mi orgullo como Emperador no lo permitirá. El\npeso de mis responsabilidades es lo que me hace\nquien soy."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Qué daño hay en dejar todo eso de lado de vez en\ncuando?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¡Air Groove! No te vi allí."
+    },
+    {
+      "name": "Air Groove",
+      "text": "En efecto. Estaba ayudando con el recorrido. Pero\nmás importante..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Estoy de acuerdo con la sugerencia de tu\nentrenador."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Cada vez que corres, contienes a tu verdadero yo\npara ser más fiel a tus ideales."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Pero ahora tus sucesoras están bien encaminadas\nhacia la madurez. Creo que, solo una vez, deberías\ncorrer como realmente quieres."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "<i>He corrido </i>de la manera que quise. Este es el\ncamino que elegí cuando me convertí en Emperadora."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Vaya. ¿Por qué debes insistir en ser tan\ntestarudo?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Qué te parece esto, entonces? Hazlo por nosotras."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Por nosotras?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Siempre he querido ver cómo correrías si dejaras\nque tu corazón te guíe."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Si te dejas ser nada más que una Umamusume\nbuscando un desafío."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Creo hablar en nombre de todo el consejo\nestudiantil al decir que disfrutaríamos la\nexperiencia de aprendizaje."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Así que, en tu capacidad como presidenta... ¿nos\nmostrarías cómo es cuando corres como Symboli\nRudolf?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "<i>Suspiro...</i> Sabes exactamente cómo manipularme,\n¿verdad?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Llevo un tiempo en esto, ya sabes."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Muy bien. Ganas. Si tanto mi entrenador como mi\npropia mano derecha se vuelven contra mí, ¿qué voy\na hacer?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Cuando corra en el Arima Kinen, dejaré de lado los\ntítulos de Emperador y Presidenta."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "En cuanto a qué resultará de eso, no puedo\ndecirlo.",
+      "choice_data_list": [
+        "¡No puedo esperar!"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Je..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Yo tampoco. Será una experiencia de aprendizaje\npara ambas."
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fan A",
+      "text": "Hm... Sí, no puedo quitarme esta sensación. ¿Fine\nMotion está realmente bien?"
+    },
+    {
+      "name": "Fan B",
+      "text": "No tengo idea de qué sirve preocuparse.\nSimplemente animémosla. Estoy segura de que\nnuestros sentimientos llegarán a ella."
+    },
+    {
+      "name": "Fan A",
+      "text": "Bien..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ya sea que lleguen a ella o no, ella tiene su\ntrabajo cortado. ¿Qué harás, Fine?"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ah, ¡no puedo quedarme quieta!",
+      "choice_data_list": [
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Si no impresiono a todos hoy, ¿cómo voy a quedar\nen sus corazones?"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "No será suficiente con solo correr como siempre,\n¿verdad? Tal vez debería intentar ser más\ntemeraria... ¡como correr por todos lados!",
+      "choice_data_list": [
+        "Definitivamente <i>no</i> hagas eso.",
+        "Definitivamente <i>no</i> hagas eso."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Oh, lo sé. ¡Nunca haría nada para manchar la\ncarrera!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Pero simplemente no puedo pensar en nada. ¿Qué\ndebería hacer...",
+      "choice_data_list": [
+        "Solo haz lo que has estado haciendo."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¿Me estás diciendo que solo disfrute la carrera\ncomo siempre?",
+      "choice_data_list": [
+        "Solo diviértete tanto como puedas."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Solo con disfrutarse a sí misma, Fine Motion ha\ncapturado los corazones de innumerables fans e\ninspirado otras Umamusume a soñar en grande."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella ya ha tenido un gran impacto, así que lo\núnico que realmente necesita cambiar es su\nmentalidad—a algo completamente opuesto a\nsimplemente desear que las cosas nunca terminen.",
+      "choice_data_list": [
+        "Espera y desea que todos siempre te recuerden."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ahaha, ¡esa es una forma interesante de verlo!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Entonces quizás lo intente—con una oración, eso\nes."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Por favor... ¡graven la imagen de mí corriendo en\nlos corazones de todos!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Con la misma intensidad que un chef de ramen\ntalla el cerdo chashu!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Como, HI-YAH!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Gyah! Eh, ¿F-Fine?"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ahaha, ¿te asusté? Solo me he puesto tan\nre-energizada."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Hoy tengo un sabor diferente. Espero que lo\ndisfrutes, Rob Roy!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...! ¡Ya veo!"
+    }
+  ]
+}

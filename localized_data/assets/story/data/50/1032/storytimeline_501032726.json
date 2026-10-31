@@ -1,0 +1,52 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras estábamos por ahí con Agnes\nTachyon..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Creo que es hora de que te rindas y bebas mi nuevo\npreparado. Te prometo que te espera una\nexperiencia completamente nueva.",
+      "choice_data_list": [
+        "¡Esa máquina de garra por allí también parece\nprometedora!",
+        "¡Esa máquina de garra por allí también parece\nprometedora!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No intentes cambiar de tema—oh, espera, esto\npodría ser perfecto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los ojos de Agnes Tachyon brillan tenuemente\nmientras mira la máquina de garra."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Qué es esencial para ganar un premio en una\nmáquina de garra? ¡Así es—tiempo de reacción!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Esta bebida está cargada con ingredientes que\nestimulan el grupo de células A10 dentro del\nsistema de recompensa del cerebro, lo que como\nresultado, mejorará tu concentración."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Bebe esto y puedes considerar todos los premios\ntuyos! ¡Ahora, apúrate! ¡Traga! ¡Traga!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...Ahí tienes.",
+      "choice_data_list": [
+        "<i>Trago...</i> ¡¿Whoa?!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Realmente haces las cosas difíciles, mi pequeño\nconejillo de indias! Oh, y si los resultados no\nson buenos, ¡te haré probar una bebida diferente!\n¿Todo claro?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡De ninguna manera puedo fallar ahora!"
+    }
+  ]
+}

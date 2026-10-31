@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Narita Taishin y yo estamos en medio del\nentrenamiento cuando ella tiene un pequeño\narrebato."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Jadeando... jadeando...</i>"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Maldición! ¿Cómo ya estoy sin aliento?!",
+      "choice_data_list": [
+        "Quizás aún estás cansada de tu última carrera."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Ni hablar!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Estoy totalmente bien, y voy a correr en la\npróxima carrera también, así que—"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Ack!",
+      "choice_data_list": [
+        "De verdad creo que deberías descansar..."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Te dije que estoy <i>bien!</i> Volvamos al\nentrenamiento."
+    },
+    {
+      "text": "Todas esas carreras seguidas claramente la han\nagotado. Debería replantear su próximo calendario."
+    }
+  ]
+}

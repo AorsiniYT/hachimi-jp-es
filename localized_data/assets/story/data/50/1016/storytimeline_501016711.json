@@ -1,0 +1,61 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Brian",
+      "text": "...Es como si estuviera envuelta en sombras."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Qué está pasando? ¿Qué le pasa a mi carrera?!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Maldición!",
+      "choice_data_list": [
+        "Antes que nada, necesitas recargar energías.",
+        "El arrepentimiento sirve como trampolín."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¡Tch! No te equivocas."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No tiene sentido esforzarme descuidadamente."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Lo siento. No estaba en mi mejor momento allí.",
+      "choice_data_list": [
+        "Está bien.",
+        "Está bien."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Oh... En realidad estás tranquila."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Volvamos a ello mañana. Cuento contigo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "He sentido arrepentimiento montones de veces hasta\nahora.",
+      "choice_data_list": [
+        "Por eso estoy aquí. Para momentos como este.",
+        "Por eso estoy aquí. Para momentos como este."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Supongo. Tú <i>estás</i> aquí."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Muy bien entonces, estratega de carreras. Dime\nnuestro próximo movimiento."
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día justo antes de las pruebas..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Te vas de la escuela?! ¿¡Qué quieres decir?!"
+    },
+    {
+      "text": "Escuchando la voz agitada de Hishi Amazon\nresonando desde el techo, me apresuro escaleras\narriba para investigar la situación."
+    },
+    {
+      "text": "Allí, veo a Amazon hablando con la estudiante con\nla que había estado entrenando previamente."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Sabes lo que estás diciendo ahora mismo? No\npuedes ser en serio..."
+    },
+    {
+      "name": "Umamusume de Miho",
+      "text": "Lo soy. No puedo quedarme y pretender por más\ntiempo."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Cómo puedes decir eso?!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Recuerdas lo que me dijiste? Cuando viniste a\nverme por primera vez en el dormitorio?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Dijiste que tenías una rival de mucho tiempo a la\nque querías vencer en la ¡Serie Twinkle!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿¡Qué pasó con toda esa pasión ardiente?!"
+    },
+    {
+      "name": "Umamusume de Miho",
+      "text": "...Se fue."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Umamusume de Miho",
+      "text": "¡Nosotras dos ya no somos rivales! ¡El juego ya\nterminó! ¡Ella ganó!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Qué quieres decir con \"terminado\"?"
+    },
+    {
+      "name": "Umamusume de Miho",
+      "text": "Honestamente, me ha estado molestando por un\ntiempo. Después de venir a esta escuela, ella\nsimplemente seguía poniéndose más rápida. Pero mi\nmejora fue poca a ninguna."
+    },
+    {
+      "name": "Umamusume de Miho",
+      "text": "Incluso fuiste lo suficientemente amable para\nayudarme... pero no sirvió de nada. Ayer, perdí\ncontra ella por diez cuerpos."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Hmm, esa es una diferencia bastante grande..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Pero nunca se sabe! En la próxima carrera,\npodrías vencer a <i>ella</i> por diez cuerpos!"
+    },
+    {
+      "name": "Umamusume de Miho",
+      "text": "¡Eso es imposible, y lo sabes!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "...!"
+    },
+    {
+      "name": "Umamusume de Miho",
+      "text": "Lo siento por gritar, Hishiama."
+    },
+    {
+      "name": "Umamusume de Miho",
+      "text": "Pero algunas competencias son simplemente obvias\ndesde el principio. Así que estoy poniendo fin a\nesta rivalidad sin sentido entre nosotras."
+    },
+    {
+      "name": "Umamusume de Miho",
+      "text": "Bueno, necesito irme. ¡Gracias por todo!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Qué—¡hey! ¡Espera!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿\"Imposible\"? ¿\"Terminado\"? ¿Cómo puede decir eso?",
+      "choice_data_list": [
+        "¿Estás bien?",
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Whoa! Oh, eres tú..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Jajaja... Realmente metí la pata ahí, ¿eh? Alguna\nmadre de dormitorio soy, no poder animar a una de\nlas jóvenes."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Sé de hecho que su meta no es imposible. Pero\nregañarla no va a ayudar en nada."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Argh, maldición! ¿Qué se supone que debo hacer\nahora?"
+    },
+    {
+      "text": "Considerando que Amazon no se siente intimidada en\nlo más mínimo por la competencia en sí, puedo\nentender cómo esto sería un problema difícil de\nresolver."
+    },
+    {
+      "text": "Mientras ella se devana los sesos por la\nrespuesta..."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Allí estás, Hishiama! ¡Te he estado buscando por\ntodas partes!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Bueno, si no es Biko. ¿Qué pasa?"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Corremos el mismo día de las pruebas, ¿verdad? Los\ngrupos acaban de anunciarse, así que pensé en\ndejarte saber la gran noticia!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Adivina—estás en el mismo grupo que Brian!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿¡Qué?!",
+      "choice_data_list": [
+        "(¿¡<i>La</i> Narita Brian?!)"
+      ]
+    },
+    {
+      "text": "Es una poderosa Umamusume que ya ha captado la\natención de todos los entrenadores por aquí."
+    },
+    {
+      "text": "Su hermana mayor, Biwa Hayahide, ha estado\narrasando con la pista desde su propio debut, pero\nse dice que Brian posee un potencial aún mayor.",
+      "choice_data_list": [
+        "(¡Qué oponente para enfrentar...)",
+        "(¡Qué oponente para enfrentar...)"
+      ]
+    },
+    {
+      "text": "Me preparo, esperando completamente que Amazon se\nsacuda hasta la médula. Sin embargo..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Entendido. Gracias, Biko."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Habla de timing perfecto!"
+    },
+    {
+      "text": "Con una sonrisa sin miedo, ella sale disparada a\ntoda velocidad."
+    },
+    {
+      "text": "Me apresuro tras ella, solo para encontrar..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Hnghyaaah! <i>Jadeando, resoplando...</i>"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Eh? ¿Me seguiste aquí?",
+      "choice_data_list": [
+        "¿Q-qué estás haciendo?",
+        "¿Q-qué estás haciendo?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Qué parece? ¡Estoy entrenando! Supongo que\ndebería empezar con cincuenta o así de sprints en\ncuestas."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "De hecho, quizás eso no sea suficiente. Quiero\ndecir, estamos hablando de Brian. ¡Tendré que\nentrenar como un demonio para ir uno contra uno\ncontra ella!",
+      "choice_data_list": [
+        "¿No tienes ni un poco de miedo?",
+        "¿No tienes ni un poco de miedo?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Por supuesto que no! ¿Quién te crees que soy?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Además... No soy buena con las palabras como Fuji."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Así que lo mejor que puedo hacer por alguien en un\nbajón... es simplemente mostrarles cómo se hace."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Pero aun así, voy a dar el todo por el todo."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Nada ahí afuera es imposible desde el principio!\n¡Nunca sabes el resultado de un partido hasta que\nlo intentas!"
+    },
+    {
+      "text": "Amazon hace una declaración profundamente sincera,\nsus ojos ardiendo con determinación."
+    },
+    {
+      "text": "Me encuentro queriendo vislumbrar el futuro en el\nque ella está tan intensamente enfocada...",
+      "choice_data_list": [
+        "¿Te importa si te ayudo a entrenar?",
+        "¿Te importa si te ayudo a entrenar?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Espera, ¿en serio? ¿Seguro? Jaja, pero ni siquiera\neres mi entrenador, ¡gran raro!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "No me importa en absoluto—de hecho, sería de gran\nayuda. ¡Adelante y ponme en forma!"
+    },
+    {
+      "text": "Así, acordamos que yo supervise las sesiones de\nentrenamiento de Hishi Amazon hasta las pruebas."
+    }
+  ]
+}

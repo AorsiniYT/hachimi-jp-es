@@ -1,0 +1,59 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "¡Es el día de la primera carrera Clásica—el\nSatsuki Sho!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Respira hondo, respira hondo..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Esta puede ser solo la primera carrera, pero si\npierdo aquí, no podré convertirme en campeona de\nla Triple Corona."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Está bien. Puedo con esto... ¡La victoria está\nasegurada!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La obsesión de Tokai Teio por convertirse en\ncampeona de la Triple Corona parece estar\nhaciéndola sentir la presión ahora mismo.",
+      "choice_data_list": [
+        "¡Concéntrate en mostrarle a todos lo increíble que\neres!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Lo increíble que soy?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...Lo entiendo. Ganar aquí puede ser importante,\npero lo más importante es dar una presentación de\nla que no me arrepienta!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Mis rivales, mis fans, Prez... Necesito sorprender\na todos. ¡Mostrarles lo que la gran Teio puede\nhacer!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Jeje. Parece que mi respiración ha vuelto a la\nnormalidad. ¡Aquí voy, Entrenador!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Oh, y solo para que sepas... ¡Todavía apunto a ese\ntítulo de la Triple Corona!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Prez tomó el trono de la Triple Corona con su\nfuerza abrumadora, y yo quiero un sabor de esa\nmisma gloria!",
+      "choice_data_list": [
+        "¡Te estaré animando!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Sí! ¡Déjalo en manos de la invencible Teio!"
+    }
+  ]
+}

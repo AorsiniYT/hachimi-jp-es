@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "¡Hoy marca el inicio del campamento de verano!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "El plan es prepararme para la Japan Cup a finales\nde noviembre donde enfrentaré a Tokai Teio."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Mi objetivo es mejorar mi fuerza física durante el\nverano para asegurar la victoria contra ella.",
+      "choice_data_list": [
+        "¡Déjalo en mis manos!",
+        "¡Déjalo en mis manos!"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Gracias, Entrenador. Estoy lista para realizar\ncualquier tipo de entrenamiento."
+    },
+    {
+      "text": "Mi último campamento de verano con Mihono Bourbon\nda inicio."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mejiro Ardan",
+      "text": "No puedo ofrecer excusas por una actuación tan\nmiserable..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Aunque no creo haber sido negligente en mis\npreparativos, siento que podría haber hecho más.",
+      "choice_data_list": [
+        "No hubo nada malo en tu carrera.",
+        "Ganaremos la próxima."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Agradezco el ánimo. Yo también creo que logré\naprovechar todo mi potencial."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Lo que necesito hacer ahora es perfeccionar mis\nhabilidades hasta que el primer lugar esté a mi\nalcance. Espero que me ayudes en este esfuerzo."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...! Por supuesto. No tengo intención de rendirme\nahora."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Usaré el aguijón de esta derrota para motivarme\ndurante el entrenamiento, a partir de mañana. No\nte defraudaré."
+    }
+  ]
+}

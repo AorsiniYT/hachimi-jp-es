@@ -1,0 +1,108 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Eishin Flash deja su huella en el Keisei Hai.\nDespués de la carrera, realizamos una breve\nconferencia de prensa."
+    },
+    {
+      "name": "Reportera A",
+      "text": "Permíteme comenzar felicitándote por una carrera\nbien corrida. ¿Podrías contarnos cómo te sientes\nrespecto a la carrera?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Esta fue buena preparación para mi próxima\ncarrera, y aunque aún hay aspectos que debo\nmejorar, no tengo preocupaciones al respecto."
+    },
+    {
+      "name": "Reportera A",
+      "text": "Es maravilloso escuchar eso. Si puedo preguntar,\n¿cuál es exactamente la próxima carrera que tienes\nen mente?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "El Satsuki Sho, por supuesto. Marcará el inicio de\nmi búsqueda de la Triple Corona de Clásicos."
+    },
+    {
+      "name": "Reportero B",
+      "text": "¡Oh! Pensé que sería eso. Sin embargo, este año te\nenfrentarás a una competencia bastante dura."
+    },
+    {
+      "name": "Reportera C",
+      "text": "Hoy te viste genial en la pista, y te deseo la\nmejor de las suertes, pero..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Yo no soy el centro de atención... ¿correcto?"
+    },
+    {
+      "name": "Reportera A",
+      "text": "Seguro ya lo sabes, pero hay muchos grandes\nnombres que tienen puestos los ojos en la Triple\nCorona."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Lo sé, sí."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¿Qué dirías que son tus probabilidades de ganar\nahora mismo? El camino a la victoria parece\nbastante difícil esta vez."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No hay probabilidades."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¿Qué?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Reconozco los desafíos que hay en mi camino, y me\nhe preparado en consecuencia para ellos."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Por lo tanto, las probabilidades no son un factor.\nSimplemente debo hacer lo que deba hacer..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Y los resultados llegarán. Eso es todo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eishin Flash no se inmuta ni un poco mientras hace\nsu declaración. Ningún otro reportero se atreve a\nhacerle una pregunta similar."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "La conferencia de prensa terminó quince minutos\nantes de lo programado..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Quizás debería haber adoptado una actitud más\ncálida.",
+      "choice_data_list": [
+        "Fue muy impresionante lo resuelta que fuiste.",
+        "Fue muy impresionante lo resuelta que fuiste."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Me alegra que lo pienses."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Esta conferencia de prensa dejó algo muy claro.\nAunque he ganado cierto nivel de respeto, el\nconsenso general es que no soy lo suficientemente\nbuena para competir por la Triple Corona.",
+      "choice_data_list": [
+        "Solo tendrás que demostrarles que se equivocan en\nel Satsuki Sho."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sí, yo también lo siento así. No falta mucho para\nentonces."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No solo será en la misma pista que hoy, sino que\nincluso es la misma distancia. Ya tengo la carrera\nmemorizada."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Esto no será un problema. Procedamos según lo\nplaneado."
+    }
+  ]
+}

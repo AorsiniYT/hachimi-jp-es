@@ -1,0 +1,208 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras Silence Suzuka termina su\nentrenamiento..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Gracias por hoy. A propósito, sobre la sesión de\nentrenamiento de mañana..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Ohhh! ¡Miren, es Suzuka! ¡Atrapemos a esta linda,\neh, Bourbon? ☆"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Entendido, Falcon. Comenzando procedimiento de\ncaptura."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Eh? Espera un—¡Bourbon!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En un abrir y cerrar de ojos, Silence Suzuka es\narrastrada por las dos Umamusume. Me apresuro\nfrenéticamente\tras ellas..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Uno, dos, sonrisa! ¡Pose! ¡Uno, dos, pose! ¡Así\nse hace! ☆ ¡Muy bien, ahora, todas juntas! ♪"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Uno, dos, sonrisa. Pose. Uno, dos, pose. Todos los\ncomandos ejecutados exitosamente.",
+      "choice_data_list": [
+        "¿Qué está pasando aquí?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Bueno... Me han invitado a clases de baile. No soy\nmuy buena diciendo que no..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Es porque tú y Bourbon son material total para\nUmadol!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "El material es irrelevante. Estas lecciones son\nvaliosas."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Falcon sobresale en expresión emocional. Hay mucho\nque aprender al referenciar su habla y conducta."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Muy bien, ¡démoslo todo! ¡Tenemos un fan\nobservando hoy! ☆",
+      "choice_data_list": [
+        "¿Fan? ¿Te refieres a mí?",
+        "¿Fan? ¿Te refieres a mí?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Gracias por venir. La presencia de un tercero es\nimportante para mejorar nuestro rendimiento."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Tienes mucha razón! ¡Muy bien, entonces,\ncomencemos la música!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me quedo un rato y observo a las tres practicar."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "A continuación, ¡revisemos un poco de llamada y\nrespuesta! Yo daré un ejemplo."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Muy bien, ¡tú por allá! Cuando te dé la señal,\ngrita, \"¡FAAALCOOO!\" ¿De acuerdo?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Oh... Ahora tú también te estás metiendo en\nesto..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Estás listoooo?! Fa-fa-fa...",
+      "choice_data_list": [
+        "Falco?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Necesita un poco más de fuerza, como \"¡FAAALCOOO!\"\n☆ Muy bien, ¡hagamos a Bourbon ahora!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Entendido. Comenzando operación. Bour-Bour-Bour..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡BOURBON!",
+      "choice_data_list": [
+        "...¡BOURBON!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Ah! ¡Perfección! ♪ ¡Justo lo que esperaba del\nentrenador de Suzuka!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Y ahora para el número principal! ¡Aaah! ¡No\npuedo esperar! ☆"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Umm... ¿Qué hago?",
+      "choice_data_list": [
+        "¡Aumenta la energía!",
+        "H-haz lo que parezca correcto?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Más fácil decirlo que hacerlo..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Nunca sabes si no lo intentas, Suzuka!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Un buen concierto depende del esfuerzo completo\ntanto de los Umadols como de sus fans!",
+      "choice_data_list": [
+        "¡Tú puedes, Suzuka!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Um... Eh... Todavía no... Quizás, algo como—"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Estuviste perfectamente sincronizada con tu fan.\nEsta presentación es un éxito verificado.",
+      "choice_data_list": [
+        "¡SU-ZU-KAAA!"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Estuviste perfectamente sincronizada con tu fan.\nEsta presentación es un éxito verificado."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Totalmente! ¡Realmente estás encontrando tu\npropio estilo como Umadol, Suzuka!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las tres Umadols están rebosantes de motivación.\nYo ¡espero ver a dónde van a partir de aquí!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Um... Puedes detenernos en cualquier momento..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "P-pero ¿y si nada se siente correcto? Um... Eh..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Y-yo soy Silence Suzuka! ...¡Yaaay!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Um... Solo hice lo que parecía correcto..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡GUAU! ¡Suzuka! ¡Eso fue increíble! ¡Como, tan\nlinda! ¡Tan adorable!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡WAY! ¡Suzuka! ¡Eso fue increíble! ¡Como, tan\nlinda! ¡Tan adorable!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿En serio?"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Intrigante. Una demostración de timidez puede\nresultar bastante efectiva. Recordaré esto."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Sabía que tenía razón sobre ti, Suzuka! ¡Tienes\nlo que se necesita!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Eh? ...¿Eh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Silence Suzuka está dando grandes pasos\ncomo Umadol! ¡Creo!"
+    }
+  ]
+}

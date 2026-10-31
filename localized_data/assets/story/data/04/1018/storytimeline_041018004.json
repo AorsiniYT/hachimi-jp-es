@@ -1,0 +1,274 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Air Groove",
+      "text": "Soy la Emperatriz, Air Groove. Aspiro a encarnar\nlos ideales de todas las Umamusume y servir como\nun faro guía para todas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"Emperatriz\" es más que un título para Air Groove.\nEs una aspiración."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No puedo afirmar que comprenda completamente lo\nque implica esa aspiración, pero puedo decir que\nhe dado un paso más cerca."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Oh, ¡okay! Gracias por compartir eso. ¡Lo\nintentaré!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Tienes razón. Gracias, Air Groove."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Recuerdo las miradas satisfechas en los rostros de\nsus compañeras de clase, pero más importante aún,\nla cálida calidez que irradiaba de ella misma..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que apoyar a sus compañeras de clase es muy\nimportante para Air Groove, tanto a través de sus\nactividades en el consejo estudiantil como de su\nmentoría personal."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En ese caso..."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¿Eh? ¿Mi régimen de entrenamiento? ¿Lo revisarás\nen lugar de Air Groove?"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Wow, gracias mucho! Oh, sobre esta parte de\nejercicios para los isquiotibiales..."
+    },
+    {
+      "name": "Miembro del Consejo Estudiantil",
+      "text": "Estos documentos me están dando un gran dolor de\ncabeza. Tal vez debería preguntarle al\nvicepresidente sobre ellos...",
+      "choice_data_list": [
+        "Puedo ayudarte si lo deseas.",
+        "Puedo ayudarte si lo deseas."
+      ]
+    },
+    {
+      "name": "Miembro del Consejo Estudiantil",
+      "text": "Oh, ¡de verdad! Serías un salvavidas. No sabía\ncómo sumar los votos aquí..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Hey. ¿Qué crees que estás haciendo?",
+      "choice_data_list": [
+        "¿Qué quieres decir?",
+        "¿Qué quieres decir?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "No finjas ser tonto. ¿Crees que no me daría cuenta\nde que has estado arrebatando mis tareas del\nconsejo estudiantil y mis citas con estudiantes?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Qué estás tratando de decir? ¿Que debería\nquedarme en mi lugar y enfocarme en las carreras?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Bueno, ¿qué? ¡Respóndeme! Y si no me gusta lo que\noigo, ¡nuestro contrato ha terminado!",
+      "choice_data_list": [
+        "Quiero valorar las mismas cosas que tú.",
+        "Quiero valorar las mismas cosas que tú."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Qué?",
+      "choice_data_list": [
+        "Y quiero ayudarte, como tu entrenador.",
+        "Y quiero ayudarte, como tu entrenador."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Para... ayudarte."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Explico que quiero que me deje ayudar con sus\ndiversas actividades, para que pueda dedicar más\ntiempo a entrenar sin renunciar a ninguna de\nellas."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Hmph. ¿Yo, depender de ti? Podrías ser un poco más\nconfiable antes de sugerir algo así."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Sin embargo..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Nuestro contrato permanecerá vigente. Eso es todo."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Un cetro resistente para sostener mi peso mientras\ncamino por mi camino real..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Así que ese es el papel de un entrenador..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sigo asumiendo algunas de las tareas de Air Groove\ndonde puedo, y a cambio ella se aplica a su\nentrenamiento con más vigor que nunca."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y finalmente, llega el día de la carrera de debut\nque hemos estado preparando."
+    },
+    {
+      "name": "Locutor",
+      "text": "Después de un hermoso comienzo, ¡ha sido empujada\nhacia adelante hasta la parte delantera del grupo!\nEs la favorita de hoy, Air Groove. ¿Podrá\nsacudirse la pérdida de su carrera de debut?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ja."
+    },
+    {
+      "name": "Locutor",
+      "text": "No se está ralentizando. ¡Es rápida! Air Groove\namplía su ventaja. Está en una liga propia."
+    },
+    {
+      "name": "Locutor",
+      "text": "Qué final. Nuestra ganadora llega a una abrumadora\ncinco longitudes por delante de su competencia."
+    },
+    {
+      "name": "Locutor",
+      "text": "Se están levantando las cortinas para el\nlegendario reinado de la Emperatriz, Air Groove."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El día después de su impresionante victoria,\nrecibo un mensaje de texto de Air Groove que me\nhace saber que necesita mi ayuda con algo.",
+      "choice_data_list": [
+        "<i>(¿Quiere </i>mi ayuda?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cojo mis cosas apresuradamente y me dirijo allí."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ahí estás. Espera... ¿Por qué estás tan sin\naliento?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Bueno, da igual. Las semillas que pedí finalmente\nhan llegado, así que empecemos.",
+      "choice_data_list": [
+        "¿Semillas? ¿Qué tipo de semillas?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Semillas de flores."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Resulta que las semillas están destinadas a los\nparterres de flores detrás del edificio principal\nde la escuela. Comenzamos la tarea de plantarlas."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¡Eh, cuántas veces tengo que decírtelo! ¡Estás\ncubriendo esas semillas con mucha tierra!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Tómate tu tiempo y haz cada paso correctamente.\nEstas semillas son demasiado frágiles para que las\nestés apresurando."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de algunos contratiempos y una buena\ncantidad de regañinas, logramos terminar de\nplantar antes del anochecer."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Está bien, eso debería ser todo. Estoy emocionada\nde verlas florecer.",
+      "choice_data_list": [
+        "¿Siempre te gustaron las flores?",
+        "¿Siempre te gustaron las flores?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Qué, estás tratando de decir que es inesperado de\nmí o algo así? Está escrito en toda tu cara."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Cuando se les da el cuidado y la atención que\nnecesitan, los brotes emergen fuertes y florecen\nhermosamente."
+    },
+    {
+      "name": "Air Groove",
+      "text": "El ciclo se repite a medida que crecen nuevos\nbrotes, un testimonio de perseverancia y\naspiración."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Fue la vista de mi propia madre corriendo en la\npista lo que me permitió florecer en quien soy."
+    },
+    {
+      "name": "Air Groove",
+      "text": "La ganadora de las Oaks japonesas de G1 hereda el\ntítulo de \"Reina de las Oaks\"."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Mi madre pudo superar al resto y ascender al trono\ncomo una reina."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Cuando supe sobre esa carrera legendaria y cuánto\nluchó por el título... me conmovió hasta mi\ncorazón. Las semillas de la aspiración se\nsembraron."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Soñé con seguir sus pasos, superar mis límites,\nentrar en el mundo de las carreras y obtener la\nvictoria."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Y más que nada, supe que quería continuar el ciclo\ne inspirar a otros, al igual que ella me inspiró."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Por eso elegí abrazar el título de \"Emperatriz\".\nQuiero convertirme en alguien a quien todas las\nUmamusume miren como un ideal por el que luchar."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ser como mi propia madre, florecer con fuerza y\nelegancia como un signo de esperanza para el\nfuturo."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Y para eso, simplemente ganar carreras no es\nsuficiente. Necesito preparar bien el suelo de\nesta academia para que las semillas que me sigan\npuedan crecer fuertes."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Si mis entrenadores no ven valor en esas semillas,\nentonces no necesito un entrenador, o eso pensé..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Pero tú... bueno. Supongo que has ganado un poco,\nsolo un poquito, de mi confianza...",
+      "choice_data_list": [
+        "Tengo un pulgar verde, después de todo.",
+        "Tengo un pulgar verde, después de todo."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "¡Oh, cállate! Tienes que ser el peor jardinero que\nhe conocido."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Dios mío, fui demasiado rápido al sacar esta\nmetáfora.",
+      "choice_data_list": [
+        "Está bien. No seré \"verde\" en esto por mucho\ntiempo."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "¡Deja de hacer tonterías!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de sus duras palabras, tengo la sensación\nde que su actitud hacia mí ha cambiado, aunque\nsolo sea ligeramente."
+    }
+  ]
+}

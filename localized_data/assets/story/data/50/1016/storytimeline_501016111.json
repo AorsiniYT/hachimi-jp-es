@@ -1,0 +1,230 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Brian",
+      "text": "¡Tengo un hambre terrible!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Anhelo la pasión para dar un paso nuevo y audaz.\nPara correr, cada vez más."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Este deseo insatisfecho es lo que me impulsa a\nseguir adelante."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Quiero vivir más... corriendo más."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Este es el lugar donde puedo lograrlo."
+    },
+    {
+      "text": "Narita Brian ha logrado dejar una huella bastante\ngrande en la Twinkle Series."
+    },
+    {
+      "text": "Juntos, hemos superado con éxito los cruciales\nprimeros tres años de su carrera."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Las rampas están terminadas, Entrenador.",
+      "choice_data_list": [
+        "¡Gracias!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Hm?"
+    },
+    {
+      "name": "Reportera",
+      "text": "¡Narita Brian! ¿Puedo hacerle una entrevista?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Entrenador.",
+      "choice_data_list": [
+        "Yo me encargo de la prensa."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Muy bien."
+    },
+    {
+      "text": "Ha sido así desde incluso antes del Arima Kinen,\npero las expectativas del público por Narita Brian\nsolo aumentan."
+    },
+    {
+      "text": "Tiene sentido, considerando lo que ha logrado.\nPero también es difícil responder a cada una de\nlas solicitudes de entrevista.",
+      "choice_data_list": [
+        "Tal vez deberíamos organizar una rueda de prensa.",
+        "Tal vez deberíamos organizar una rueda de prensa."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ah. Eso <i>sería</i> más eficiente.",
+      "choice_data_list": [
+        "Me sorprende un poco que estés de acuerdo.",
+        "Me sorprende un poco que estés de acuerdo."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hmph. ...Los detalles los dejo a ti."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Prepararé algunos comentarios mientras tanto."
+    },
+    {
+      "text": "Y así, decidimos invitar a múltiples medios para\nque hagan preguntas."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Brian! ¿Qué tan segura estás de haber sido\nseleccionada como la URA Umamusume del Año?"
+    },
+    {
+      "name": "Reportero B",
+      "text": "¡Narita Brian! ¡Nos encantaría escuchar sobre tu\nvisión del futuro!"
+    },
+    {
+      "name": "Reportera C",
+      "text": "¡Hablemos de rivales! ¿A quién consideras tu rival\nactual, Brian?!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Bien, uno a la vez."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Primero, respecto a ser Umamusume del Año... No\ntengo idea. Eso es algo que ustedes deciden."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Simplemente voy a seguir corriendo a mi manera.\nSupongo que esa también es mi respuesta respecto a\nmi visión del futuro."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ahora, sobre mi rival..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Cada una de las corredoras ahí afuera es mi rival."
+    },
+    {
+      "name": "Reportera C",
+      "text": "¿Quieres decir, que no son solo Hishi Amazon o\nBiwa Hayahide?!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Por supuesto."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Cualquiera puede venir a desafiarme. Pero no\ncontendré mis fuerzas contra ningún retador."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Voy a por todas!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Y también..."
+    },
+    {
+      "name": "Reportera A",
+      "text": "...¿Sí?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Entrenador, tengo una pregunta para usted."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Puedo correr en carreras en el extranjero\nmientras aún estoy inscrita aquí?",
+      "choice_data_list": [
+        "¿Quieres decir que quieres ser una competidora\ninternacional?"
+      ]
+    },
+    {
+      "name": "Reportero B",
+      "text": "¡N-nooo manera! Brian, tú eres—"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ya te lo dije, ¿verdad? Cada una de las corredoras\nen el mundo es mi rival."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No es como si me fuera a mudar al extranjero. Hay\nmontones de competidoras a las que enfrentar en la\nTwinkle Series."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Pero restringirme solo a la Twinkle Series sería\nuna lástima. Quiero desafiarme a mí misma aún más."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Mientras haya competidoras fuera de este país, no\npuedo estar satisfecha. ...Entonces, qué te\nparece, Entrenador?",
+      "choice_data_list": [
+        "De acuerdo. Lo organizaré."
+      ]
+    },
+    {
+      "name": "Prensa",
+      "text": "¡Uoooooh!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Bueno, eso es todo, entonces."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Jaja, fue una rueda de prensa bastante divertida.",
+      "choice_data_list": [
+        "Agotador, aunque...",
+        "Agotador, aunque..."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Aún así, todo eso tenía que decirse tarde o\ntemprano."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "De todos modos, te estoy agradecida.",
+      "choice_data_list": [
+        "No fue nada. Puedo organizar una rueda de prensa\nincluso dormido."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Heh, no es a eso a lo que me refería."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Hey! ¡Brian! Uno contra uno hoy, ¡tú y yo!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡No me olvides! ¡Corre contra mí también, Brian!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Esos dos están aquí, ¿eh? Entrenador...",
+      "choice_data_list": [
+        "Adelante. ¡A correr!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Muy bien."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Pase lo que pase... siempre déjame correr."
+    }
+  ]
+}

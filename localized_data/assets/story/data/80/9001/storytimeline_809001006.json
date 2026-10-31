@@ -1,0 +1,128 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Tazuna y yo nos dirigimos a casa un poco tarde\ndespués de disfrutar nuestro día, cuando..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "...Oh."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Mis sentidos están hormigueando...",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Siento la presencia de estudiantes. Dos... no,\ntres de ellos?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "No deberían estar fuera a esta hora... Ya es muy\npasado el toque de queda."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Volveré en seguida!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tan pronto como dice eso, sale corriendo en la\nnoche.",
+      "choice_data_list": [
+        "(Lo cual es preocupante. Es tarde, después de\ntodo...)",
+        "(Lo cual es preocupante. Es tarde, después de\ntodo...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decido esperar hasta que Tazuna regrese para poder\nverla llegar a casa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso en mente, me quedo junto a las puertas de\nla escuela hasta..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Nooooo! ¿Cómo diablos te volviste tan rápida,\nTazuna?!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Basta ya de ti, Taiki Shuttle! ¡Vuelve a tu\ndormitorio en este instante!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Nooooo!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Ugh! ¡No te vas a escapar tan fácilmente!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Hyaah!",
+      "choice_data_list": [
+        "(¡E-ella es tan rápida!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incluso como entrenador, debo decir que la\naceleración de Tazuna es extraordinaria!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Uf..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿¡Qué!? ¡Entrenador! ¿Esperaste todo este tiempo?",
+      "choice_data_list": [
+        "¡Eres una corredora increíble!"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Oh... G-gracias."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Eh, ¿estoy imaginando cosas, o... tus ojos están\nbrillando?",
+      "choice_data_list": [
+        "Dime, Tazuna, ¿qué es lo que sueñas?"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿Mi sueño?! Bueno... Es que las Umamusume crezcan\nsanas y que las carreras continúen mejorando por\nmuchos años más..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Eh, Entrenador...",
+      "choice_data_list": [
+        "¿Qué te parece debutar como corredora?!"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Ahora, espera un minuto! ¡Necesitas calmarte!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tazuna me da un ligero golpe en la cabeza, y\nvuelvo a la realidad."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡En serio, <username>! Me diste un buen susto."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Quiero decir, en serio. Debutar..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Jeje. ♪"
+    }
+  ]
+}

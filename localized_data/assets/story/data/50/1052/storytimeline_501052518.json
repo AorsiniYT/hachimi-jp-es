@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Haru Urara",
+      "text": "<i>Haa... Haa...</i> Todavía son... solo doce escalones.",
+      "choice_data_list": [
+        "¿Qué estás haciendo?",
+        "¿Qué estás haciendo?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Oh, ¡hola, Entrenador!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Bueno... Escuché que cuando oscurece, estas\nescaleras ganan otro escalón..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Sonaba como magia, así que quería comprobarlo.\nPero las he estado contando por... una hora ya...\n<i>Haa...</i>",
+      "choice_data_list": [
+        "¿¡Una hora?!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Sí... No importa cuántas veces cuente... es el\nmismo número."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Okay... Voy a contarlas... una vez más!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esta tenacidad normalmente la beneficia, pero en\neste caso, parece llevar solo a su caída."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Increíble! Con una explosiva aceleración, Mejiro\nRyan le arrebata la victoria a la estrella Oguri\nCap!",
+      "color_text_info_list": [
+        "estrella"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "<i>Haa... Haa...</i> ¿Q-qué... acaba de pasar...",
+      "choice_data_list": [
+        "¡Fuiste increíble, Ryan!",
+        "¡Fuiste increíble, Ryan!"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Oh, sí! ¡Gracias! Pero..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Apenas recuerdo lo que pasó... Tenía miedo, así\nque empecé a correr como loca. Eso es todo lo que\nsé."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Supongo que mi cuerpo simplemente siguió\nmoviéndose.",
+      "choice_data_list": [
+        "Esto es una victoria para tus músculos, diría yo.",
+        "Esto es una victoria para tus músculos, diría yo."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Tienes razón... Incluso si perdí el sentido, mi\ncuerpo aún recordaba cómo moverse."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "No puedo creer que le gané a Oguri. Pero aún así,\nestoy feliz."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Mejiro Ryan..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡O-Oguri!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Te subestimé. Nunca pensé que llegarías tan lejos\neste año."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Resulta que me equivoqué. Fuiste impresionante\nallá afuera."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Oh, muchas gracias!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hagámoslo de nuevo. El próximo año regresaré más\npreparada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Oguri Cap se despide de Mejiro Ryan y se aleja con\nun floreo."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ella es tan genial... Ahora eso es una verdadera\nestrella Umamusume."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Todavía no tienes una carrera a finales del\npróximo año, ¿verdad? ¿Estás libre?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "E-estaré libre. Eh, no tenías que regresar solo\npara preguntar o algo..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Gracias, Entrenador."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Esta batalla contra una superestrella fue una\ngran experiencia para el próximo año!",
+      "choice_data_list": [
+        "¿Qué vas a hacer después?"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Lo siguiente es... el G1 a principios de año."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Quiero participar en el Tenno Sho de primavera!\nUsaré esta experiencia en una carrera contra\nMcQueen, ¡así que por favor ayúdame a prepararme!",
+      "choice_data_list": [
+        "¡De acuerdo, hagámoslo!",
+        "¡De acuerdo, hagámoslo!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de su sorprendente victoria contra Oguri\nCap, Mejiro Ryan fija su mirada en su próximo\nobjetivo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Tenno Sho de primavera—su revancha con Mejiro\nMcQueen seguramente será una batalla para\nrecordar."
+    }
+  ]
+}

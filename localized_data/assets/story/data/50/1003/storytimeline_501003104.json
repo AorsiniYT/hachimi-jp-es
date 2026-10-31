@@ -1,0 +1,134 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Durante una de nuestras sesiones de entrenamiento\nen campamento de verano..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Jejeje! ¡Eso hace cosquillas!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Uf... ¡Gracias por el masaje!",
+      "choice_data_list": [
+        "¿No dolió?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Antes dolía un poco, pero últimamente está\ntotalmente bien. ¡Más que nada, solo hace un poco\nde cosquillas!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Por un tiempo estuve preocupada de no poder entrar\nal Kikuka Sho, ¡pero ahora será pan comido!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Todo es gracias al duro trabajo que has estado\nhaciendo para ayudarme a superar esto.",
+      "choice_data_list": [
+        "Tendremos que seguir esforzándonos para el Kikuka\nSho.",
+        "Tendremos que seguir esforzándonos para el Kikuka\nSho."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Sí. ¡Te lo pagaré trayendo la victoria a casa\nconmigo!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ah, por cierto, he estado tratando de pensar en\nalgunos métodos de entrenamiento que sean más\nfáciles para mis piernas."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Como hicimos una promesa de trabajar duro ambos,\nestaba pensando que tal vez había algo que yo\ntambién podía hacer.",
+      "choice_data_list": [
+        "Escuchemos.",
+        "Escuchemos."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Bueno, la primera que se me ocurrió es el voleibol\nacuático. Como es en el agua, no tendré que usar\nmis piernas tanto."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡La segunda opción es el buceo libre! Si tengo\nsuerte, ¡incluso podría atrapar algunos erizos de\nmar!",
+      "choice_data_list": [
+        "Esas solo parecen cosas que quieres hacer por\ndiversión..."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Jeje! Bueno, el mejor tipo de entrenamiento es\nalgo que pueda disfrutar!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Y no se trata solo de divertirse, ¿sabes? Las\nactividades que usan todo tu cuerpo realmente te\ndan un buen entrenamiento."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Vamos, ¿qué dices?",
+      "choice_data_list": [
+        "Muy bien, entonces voleibol acuático.",
+        "Está bien, haz algo de buceo libre."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Yujú! ¡No puedo esperar!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Bueno, tú ve a cambiarte a tu traje de baño\nmientras yo voy a buscar la pelota!",
+      "choice_data_list": [
+        "¿Yo también lo hago?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Bueno, obvio! ¡No puedo jugar voleibol yo sola!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡En cualquier caso! ¡Ya cámbiate! ¡Tampoco voy a\nser indulgente contigo, ¿me oyes?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Vamos! ¡Tienes que ser más rápido al salir, o\nnunca alcanzarás la pelota a tiempo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Jugamos tan duro que sudo. Esto es definitivamente\nun entrenamiento."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Yujú! ¡No puedo esperar!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Muy bien, ¡entonces me voy! Te prometo que te\ntraeré algunas golosinas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tokai Teio se sumerge. Pasa un tiempo, y..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Entrenador! ¡Mira cuántos pepinos de mar\nconseguí!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Agarre cada último que pude encontrar, así que\ncomámoslos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Veo una pila asombrosamente grande de pepinos de\nmar detrás de Tokai Teio."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La felicito por lograr recolectar tantos, pero le\ndigo que no hay forma de terminar con todos ellos."
+    }
+  ]
+}

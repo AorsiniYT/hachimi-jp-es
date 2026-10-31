@@ -1,0 +1,189 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "De vuelta a casa, Mejiro Ryan y yo pasamos por el\nparque donde nos encontramos con alguien familiar."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oye, Ryan! ¡Qué buen momento!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Realmente necesito tu ayuda. ¿Podrías por favor\necharme una mano? ♪"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Echar una mano? ¿Con qué?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Con mis fans, por supuesto! ☆"
+    },
+    {
+      "name": "Niña A",
+      "text": "¡Oye, oye, Falco! ¿Qué vas a hacer hoy?"
+    },
+    {
+      "name": "Niña B",
+      "text": "¡Quiero escuchar una canción nueva!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Así que estas chicas aquí son tus fans, ¿eh?",
+      "choice_data_list": [
+        "Son tan adorables.",
+        "Son tan adorables."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Así es! ¡Estoy segura de que hacerlas felices te\nllenaría de alegría!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Bueno... ¿Qué se supone que debo hacer?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Haremos lo que las Umadols hacemos mejor—un\nconcierto, por supuesto! ¡Organicemos un\nespectáculo para estas chicas, solo nosotras dos.\n♪"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Las hará sonreír de verdad! ¡Por faaavor, Ryan! ☆"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Hehe... Serán felices, ¿eh? ¡Eso suena\nmaravilloso!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Bien, lo tienes! ¡Echaré una mano."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Pero tengo que admitir... Soy un poco tímida para\nlas canciones a las que bailas..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oh, no te preocupes! ¡Sé que serás súper linda! ♪"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Y tal vez tu entrenador tiene algún consejo? ☆",
+      "choice_data_list": [
+        "¡Solo piénsalo como un entrenamiento!",
+        "¡Mientras sonrías, será lindo!"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Ahora <i>eso</i> es algo que puedo hacer! Les mostraré\nel poder... de estar ¡REVENTÓN!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "E-ese no es el tipo de lindura del que estoy\nhablando..."
+    },
+    {
+      "name": "Niña A",
+      "text": "¿Qué es eso? ¡Suena divertido!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Q-qué?!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Eh, ¡de todos modos! ¡Vamos a empezar la música! ☆"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Y un uno, y un dos. Uno, dos... Lindo y adorable—"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Lindo y adorable, ¡mira esos músculos! Gira y haz\nel shuffle de músculos voluminosos!"
+    },
+    {
+      "name": "Niña A",
+      "text": "¡Guau, eso se ve divertido! ¿Puedo intentarlo?"
+    },
+    {
+      "name": "Niña B",
+      "text": "¡Mira esos músculos! ¡El shuffle de músculos\nvoluminosos!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Claro que puedes! ¡Los músculos son para todos!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "E-esto no es lo que quería decir!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las cuatro sudan bien bajo el sol brillante."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿L-linda?!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Voy a empezar a sonrojarme por completo, p-pero\nharé mi mejor esfuerzo!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Muy bien! ¡Solo deja que Falco guíe el camino! ♪"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡¿Listas?! ¡Te enseñaré la canción perfecta, Ryan!\nSerá linda y oh-tan-adorable!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Qué?! ¿Lindo <i>y</i> adorable?!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Creo que tal vez—espera, ¡¿qué estoy diciendo?!\n¡Esto es demasiado vergonzoso!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oye! ¿Quieren escuchar una canción realmente,\nrealmente linda?"
+    },
+    {
+      "name": "Niña A",
+      "text": "¡Sí, queremos! ¡Danos la más linda que haya!"
+    },
+    {
+      "name": "Niña B",
+      "text": "¡Guau, no puedo esperar a escucharla!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "D-demasiado tarde para detenerse ahora... ¡Ahí va!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Sí! ¡Vamos, Ryan! ♪ ¡Ryan súper encantadora! ♪"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Mis dedos de los pies tienen que apuntar hacia\nadentro? Bueno, si lo pienso como entrenamiento..."
+    },
+    {
+      "name": "Niña A",
+      "text": "¡Eres tan adorable! ¡Súper linda y bonita!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿¡En serio?! Hehe, guau..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El concierto de lindura de Mejiro Ryan y Falco es\nun gran éxito entre sus pequeñas fans."
+    }
+  ]
+}

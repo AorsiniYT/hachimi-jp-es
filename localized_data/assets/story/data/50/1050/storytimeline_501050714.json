@@ -1,0 +1,145 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin ha sufrido una lesión, así que la\nhe traído a la enfermería.",
+      "choice_data_list": [
+        "¿Estás bien, Taishin?",
+        "¿Estás bien, Taishin?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Puedo oír perfectamente sin que grites en mi oído."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Esto no es nada! Ya ni siquiera duele. Estoy\nbien.",
+      "choice_data_list": [
+        "Taishin."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No hay nada malo así que puedo volver a entrenar—",
+      "choice_data_list": [
+        "¡Taishin!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué?",
+      "choice_data_list": [
+        "Estamos aquí <i>precisamente</i> porque algo parece estar\nmal.",
+        "Estamos aquí <i>precisamente</i> porque algo parece estar\nmal.",
+        "¡Te apoyaré en todo!",
+        "¡Te apoyaré en todo!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué?",
+      "choice_data_list": [
+        "Estamos aquí <i>precisamente</i> porque algo parece estar\nmal.",
+        "Estamos aquí <i>precisamente</i> porque algo parece estar\nmal.",
+        "¡Te apoyaré en todo!",
+        "¡Te apoyaré en todo!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Tch..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡No tenemos tiempo para estar descansando! ¡Tú de\ntodas las personas deberías saber eso!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Si sigo siendo retenida así, estaré atascada como\nuna débil para siempre!",
+      "choice_data_list": [
+        "Necesitas descansar o de lo contrario nunca te\nrecuperarás.",
+        "Necesitas descansar o de lo contrario nunca te\nrecuperarás."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Cállate, cállate, CÁLLATE! ¡Deja de con tu\nrazonamiento estúpido!",
+      "choice_data_list": [
+        "¿Prefieres que mienta y solo diga lo que quieres\nescuchar?",
+        "¿Prefieres que mienta y solo diga lo que quieres\nescuchar?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Ni en sueños! ¡No soy alguna tonta que quiera esa\ntontería!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Maldición! ¡Esta lesión mejor que sane a la\nvelocidad de la luz—o si no!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin accede a ir a la cama, aunque\nbastante a regañadientes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me impacta la forma en que intenta ponerse de pie\na pesar de su lesión. Le aseguro que la apoyaré\ncon todo mi ser."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Uh... está bien."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Es bueno escuchar eso, pero caray... Eres tan\nirritante."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Haa... Haa...</i>",
+      "choice_data_list": [
+        "¡Tú puedes, Taishiiin!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ugh, ¡cállate! Me haces perder el enfoque—"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡AY!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como resultado, Narita Taishin termina empeorando\nsu lesión durante el entrenamiento y se ve forzada\na descansar."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Solo estoy empezando!",
+      "choice_data_list": [
+        "¡No te escucho! ¡Más fuerte!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Tch! ¡No soy Ticket, sabes!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(De todos modos, gritar sí hace que duela menos, y\nme siento más motivada... Esto es realmente tonto,\npero...)"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Raaaaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin muestra lo que tiene y dispara su\nentrenamiento por el día."
+    }
+  ]
+}

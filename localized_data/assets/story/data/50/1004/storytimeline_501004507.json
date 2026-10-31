@@ -1,0 +1,79 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Entrego una gran pila de cartas de fans a\nMaruzensky."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oh, vaya, tantas cartas! ¡Puedo sentir\ncompletamente el apoyo de todos! ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oye, tengo algo de tiempo ahora. ¿Puedo leerlas?",
+      "choice_data_list": [
+        "Por supuesto, para eso las traje.",
+        "Por supuesto, para eso las traje."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Gracias! Vale, déjame echar un vistazo..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "«¡Quemas la pista como un auto deportivo! ¡Eres la\nmejor!» ¡Aww, qué lindo! ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "«¡Estoy tan emocionado por tu próxima carrera!»\n¡Entonces te daré una carrera para recordar!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hm, ¿qué dice esta? «¡Me encanta tu canto,\nMaruzensky! ¡Eres mi fuego!»"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Es como si dijeran que soy su único deseo! ♪\n¡Estoy tan feliz de que hayan disfrutado mi\nconcierto!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Uf... Creo que eso es todo. ¡Fue muy divertido! ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Todas estas cartas están tan llenas de emoción...\nRealmente me hace darme cuenta de cuánto apoyo\ntengo."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Quiero correr no solo para mí, sino para el\ndisfrute de todos..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Realmente parece que mis sentimientos están\nllegando a la gente."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Tú también lo crees, ¿verdad, Trainer?",
+      "choice_data_list": [
+        "Por supuesto."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Tú también lo crees, ¿verdad, Trainer?",
+      "choice_data_list": [
+        "Por supuesto."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Por eso, volveré a aumentar la velocidad para mi\npróxima carrera."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Estaré feliz de correr, cantar y bailar... Se\nenamorarán aún más de mí!"
+    }
+  ]
+}

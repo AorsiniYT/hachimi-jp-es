@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Nice Nature",
+      "text": "<i>Bostezo...</i>",
+      "choice_data_list": [
+        "Pareces cansada.",
+        "Pareces cansada."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Es por el programa que estaba viendo..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Aja, ja, jajaja! ¡No puedo! Cada vez que pienso\nen ello, me pongo a reír!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Ese episodio fue mucho más gracioso de lo normal\ntambién! Me mantiene despierta por la noche porque\nno puedo dejar de reírme de ello."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Uf... Los maestros de la comedia... son un grupo\npeligroso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque es bueno que haya disfrutado su día libre,\nsu falta de sueño resulta ser un problema..."
+    }
+  ]
+}

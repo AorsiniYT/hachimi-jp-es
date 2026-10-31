@@ -1,0 +1,45 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy estoy realizando pruebas de tiempo con Silence\nSuzuka para medir su progreso."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Estoy lista.",
+      "choice_data_list": [
+        "Tengo ganas de ver cómo has mejorado.",
+        "Tengo ganas de ver cómo has mejorado."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Yo también!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>Haa... Haa...</i> ¿Cómo fue mi... tiempo?",
+      "choice_data_list": [
+        "¡Te has vuelto aún más rápida!",
+        "¡Te has vuelto aún más rápida!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Hehe. Me alegra."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Mis piernas hormigueaban con cada zancada, y\nsimplemente no podía detenerlas."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Y lo que solía ser un paisaje distante parecía tan\nclaro. Se sintió increíble."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que mi entrenamiento con Silence Suzuka\nestá dando buenos resultados."
+    }
+  ]
+}

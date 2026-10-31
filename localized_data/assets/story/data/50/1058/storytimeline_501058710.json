@@ -1,0 +1,84 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Meisho Doto",
+      "text": "Uugh... ¡Lo siento mucho, mucho, mucho! Perdí la\ncarrera..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "D-di lo mejor de mí, pero no pude moverme como\nquería."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Solo fue por un segundo, pero... Pensé que este\nera el fin para mí.",
+      "choice_data_list": [
+        "Sabes lo que tienes que hacer.",
+        "Sabes lo que tienes que hacer."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Lo hago... el hecho de que estuviera a punto de\nperder la esperanza es lo que más odio!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Si quiero correr bien... Necesito ponerme... más\nfuerte."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡No quiero rendirme así! Yo... <i>¡Sniff!</i>¡Yo!",
+      "choice_data_list": [
+        "Tu persistencia es una de tus fortalezas.",
+        "Tu persistencia es una de tus fortalezas.",
+        "¡Llorar no te hará más fuerte!",
+        "¡Llorar no te hará más fuerte!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡No quiero rendirme así! Yo... <i>¡Sniff!</i>¡Yo!",
+      "choice_data_list": [
+        "Tu persistencia es una de tus fortalezas.",
+        "Tu persistencia es una de tus fortalezas.",
+        "¡Llorar no te hará más fuerte!",
+        "¡Llorar no te hará más fuerte!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿E-en serio?! Si eso es verdad, eso me hace...\nfeliz... ¡Ngh!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "<i>¡Snif!</i> ¡Guh! E-Entrenador! ¡No me rendiré,\np-prometo!",
+      "choice_data_list": [
+        "¡Ese es el espíritu!",
+        "¡Ese es el espíritu!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Sí! ¡Prometo que trabajaré aún más duro!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Ngh... Está bien, ¡no lloraré!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Soy un completo desastre, siempre cometiendo\nerrores, pero aún quiero ganar!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Entrenaré más, y después de eso, yo... yo...",
+      "choice_data_list": [
+        "El entrenamiento no será fácil."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "E-entiendo, ¡no me rendiré a la mitad! ¡Por favor,\nd-haz lo más duro que puedas!"
+    }
+  ]
+}

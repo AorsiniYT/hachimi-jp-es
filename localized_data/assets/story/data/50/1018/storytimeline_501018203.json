@@ -1,0 +1,160 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es el día de las Japanese Oaks. Llegamos temprano\ny nos dirigimos a la sala de espera, cuando..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Disculpa, ¿pero tenemos algo de tiempo antes de\nentrar?",
+      "choice_data_list": [
+        "¿Todo bien?",
+        "¿Todo bien?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Me gustaría echar un vistazo al recorrido antes de\ncorrer. ¿Hay tiempo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Groove parece más nerviosa de lo normal. Yo\ndecido aprobar su solicitud."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La primera carrera ni siquiera ha comenzado, pero\nlas gradas ya están bastante llenas."
+    },
+    {
+      "name": "Fan Masculino",
+      "text": "¡Vamos a ser testigos de la historia hoy! Quiero\nver a la Emperatriz seguir los pasos de su mamá y\nganar las Japanese Oaks con mis propios ojos!"
+    },
+    {
+      "name": "Fan Femenino",
+      "text": "¡Lo dijiste! ¡Realmente, realmente espero que Air\nGroove gane!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es evidente que la multitud tiene un interés\naumentado en la carrera de hoy—o quizás debería\ndecir, en la presentación de Air Groove hoy."
+    },
+    {
+      "name": "Air Groove",
+      "text": "...Me pregunto qué pasaba por la mente de mi madre\ncuando compitió en el Japanese Oaks."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Qué extraño... Estar aquí yo misma, y sin embargo\npensar en eso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Groove tiene razón—no es propio de ella estar\ntan pensativa.",
+      "choice_data_list": [
+        "¿Nunca le has preguntado al respecto?",
+        "¿Nunca le has preguntado al respecto?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Una vez, pero en ese momento era bastante joven.\nAún recuerdo cómo respondió."
+    },
+    {
+      "name": "Air Groove",
+      "text": "\"Si realmente quieres saberlo, entonces intenta\ncorrer allí tú misma.\""
+    },
+    {
+      "name": "Air Groove",
+      "text": "\"Si le das a la carrera todo lo que puedes reunir,\nestoy segura de que entenderás cómo me sentí.\" Eso\nes lo que me dijo."
+    },
+    {
+      "name": "Air Groove",
+      "text": "...¿Qué es esa mirada?",
+      "choice_data_list": [
+        "Me pareces bastante diferente a ella.",
+        "Me pareces bastante diferente a ella."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Cuando se trata de las grandes preguntas, a mi\nmadre no le gusta dar respuestas. Cree que es más\nefectivo dejar que las encuentres por ti misma."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ella tiene una perspectiva amplia que no puedo\nesperar comprender, y sus palabras siempre tienen\nun significado más profundo."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Es natural que no entiendas sus palabras.\nEspecialmente cuando yo misma aún estoy\ndesconcertada por ellas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El tono de Air Groove es tan abrasivo como\nsiempre, pero su expresión es ligeramente más\nsuave de lo habitual cuando habla de su madre. Se\nve casi... infantil."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Junto con la nueva perspectiva sobre lo que el\nJapanese Oaks significa para ella, me hace verla\nde otra manera.",
+      "choice_data_list": [
+        "Supongo que al final, solo tendrás que intentarlo\ny ver.",
+        "Supongo que al final, solo tendrás que intentarlo\ny ver."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Heh. Pensar que serías tú quien me dijera eso.\nPero tienes toda la razón."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Haré exactamente lo que dijo mi madre y le daré a\nesta carrera todo lo que puedo reunir."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Les mostraré a todos que puedo alcanzar a la\nreina.",
+      "color_text_info_list": [
+        "reina"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Perdón por hacerte perder el tiempo con esto.\nVamos a prepararnos."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Es esa época del año en que la naturaleza florece\nen toda su plenitud!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¿Cuál de estas deslumbrantes jóvenes estrellas\ntomará la corona y se convertirá en Reina de los\nOaks?!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Muchos ojos están puestos en Air Groove! ¿Podrá\nseguir los pasos de su madre?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡UUUU!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incluso aquí podemos escuchar los vítores de la\nmultitud. Ahora, en cuanto a Air Groove..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "...Está bien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su estado de concentración intensa le da un aire\nmás digno de lo que jamás he visto.",
+      "choice_data_list": [
+        "Vas a ser fantástica.",
+        "Vas a ser fantástica."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Lo sé. Voy a superar las expectativas más\ndescabelladas de todos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡La carrera está a punto de comenzar!"
+    }
+  ]
+}

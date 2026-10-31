@@ -1,0 +1,334 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Es el primer día de nuestro entrenamiento en\npreparación para la Copa de Campeones."
+    },
+    {
+      "text": "La hora de inicio programada pasa, pero Smart\nFalcon no aparece por ningún lado."
+    },
+    {
+      "text": "No creo que solo esté haciendo novillos. De hecho,\ntengo una idea de dónde podría estar..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...",
+      "choice_data_list": [
+        "Ahí estás."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Gyah! ¡Entrenador?! ¿Qué estás haciendo h—"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Ejem! ☆ Quiero decir, ¡me encontraste!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Lamento mucho haber saltado el entrenamiento!\nPero... simplemente no sabía qué hacer.",
+      "choice_data_list": [
+        "¿Hay algo que pueda hacer?",
+        "¿Hay algo que pueda hacer?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...No estoy segura. Es mi problema, después de\ntodo."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Pero... supongo que podría estar bien compartir\nmis preocupaciones contigo..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Entonces, um... ¿Recuerdas cuando esa chica me\ndijo que era brillante hace un tiempo?"
+    },
+    {
+      "name": "Chica con coletas",
+      "text": "¡Me encantan todas tus canciones! ¡Y cómo brillas\ncuando bailas!"
+    },
+    {
+      "name": "Chica con coletas",
+      "text": "¡Quiero brillar como tú cuando sea grande!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Bueno, la cosa es que... últimamente, no siento\nque tenga eso brillo."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Incluso cuando estoy en el escenario, es como si\nno me divirtiera en absoluto.",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Apuesto a que estás sorprendido, ¿verdad? Después\nde todo, mis conciertos han sido geniales."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Han sido perfectos, incluso. Gano... Canto...\nBailo... Vuelvo a ganar..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "He generado montones de emoción y he dominado los\ntemas de tendencia."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Los conciertos han estado llenos de personas\nanimando luces brillantes... Y el escenario de mis\nsueños solo se siente un poco lejano."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Pero... es como si algo hubiera cambiado en el\nfondo. Como si no fuera la misma persona que tenía\nese sueño."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Aunque mi sueño de convertirme en la mejor ídolo\nde carreras en tierra está a punto de hacerse\nrealidad. Es gracioso, ¿no es cierto?..."
+    },
+    {
+      "text": "Nunca ha habido tanto entusiasmo en torno a las\ncarreras de tierra. En el JBC Classic, Oi\nRacecourse estaba prácticamente a rebosar."
+    },
+    {
+      "text": "Gracias al arduo trabajo de Smart Falcon, su sueño\nde convertirse en la mejor ídolo de carreras en\ntierra se está convirtiendo en realidad."
+    },
+    {
+      "text": "Pero parece que en algún momento, su corazón puede\nhaber dejado de estar en ello."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Es esto a lo que le dicen \"arrepentirse a última\nhora\"?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Como, si eres demasiado feliz, en realidad te\npones muy ansioso. Jeje... sufriendo por el éxito,\n¿verdad?",
+      "choice_data_list": [
+        "No tienes que forzarte a sonreír."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Eh?",
+      "choice_data_list": [
+        "Tienes que enfrentarlo de frente."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Enfrentar qué? No entiendo..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Debería estar en la cima del mundo! El sueño que\nparecía tan lejano ahora está a mi alcance...",
+      "choice_data_list": [
+        "<i>¿Cuál es </i>tu sueño?",
+        "<i>¿Cuál es </i>tu sueño?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Sabes lo que es. Convertirme en la mejor ídolo de\ncarreras en tierra."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Por eso he estado ganando todas estas carreras.\nCuanto más gano, más alto subo... hacia la cima—"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Mmm? Espera... ¿Es eso lo que la cima significa\npara mí? ¿Solo ganar?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "No, eso no puede ser correcto... Mi sueño es ser\nuna mejor ídolo de carreras que... que...",
+      "choice_data_list": [
+        "Tengo un favor que pedir.",
+        "Tengo un favor que pedir."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Un favor?",
+      "choice_data_list": [
+        "¿Puedes actuar para mí ahora mismo?",
+        "¿Puedes actuar para mí ahora mismo?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿...?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ejem."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Hiii! ♪ ¡Soy yo, Smart Falcon! ☆ ¡Despegando\ngrácilmente desde el borde de un acantilado!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ajá. Esto se siente... incómodo. De todos modos,\num... espero que lo disfrutes."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Mmm. ♪ Aquí vamos... ¿sí?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...Um, ehe. Estaba esperando el grito de ánimo...",
+      "choice_data_list": [
+        "¡Vamos, Falco!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Perfecto! ☆ ¡Ahora, hagámoslo a un ritmo de ocho!",
+      "choice_data_list": [
+        "¿A quién amamos? ¡Adorable Falco!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Hermoso! ¡Voy a subir una marcha también!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "<i>Haa... Haa...</i>",
+      "choice_data_list": [
+        "¡Buen trabajo!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "<i>Uf...</i> Tú también, Entrenador. ¡Gracias por darle\ncon todo al animar! ☆"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Jeje, ¡tu sonrisa fue súper increíble! Suficiente\npara que me ponga seria! ☆"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Eso me trajo recuerdos del día en que nos\nconocimos."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "No había una sola persona en la audiencia en ese\nentonces. Aun así, cantaba y bailaba todos los\ndías, lloviera o hiciera sol."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Nunca pensé en rendirme. Porque pasara lo que\npasara, yo...",
+      "choice_data_list": [
+        "Querías brillar."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Eso es. Yo... ¡quería brillar como una estrella!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Para brillar como las chicas que había visto en el\nescenario... más brillante que incluso los\nreflectores sobre mí..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Y gritar \"¡Aquí estoy!\" a pleno pulmón!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...¿Cómo pude ser tan estúpida? Olvidé lo que más\nme importa."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Me obsesioné con popularizar carreras de tierra,\npensé que todo dependía de mí, aunque nunca fue mi\nresponsabilidad."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...He sido la peor ídolo de carreras.",
+      "choice_data_list": [
+        "Eso no es cierto."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Lo es! Todo lo que he hecho es pararme en el\nescenario."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Perdí de vista los sentimientos que quería\ncompartir con mis admiradores...",
+      "choice_data_list": [
+        "Pero tu luz aún llegó a ellos.",
+        "Pero tu luz aún llegó a ellos."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "..."
+    },
+    {
+      "name": "Admirador A de Falco",
+      "text": "¡Vamos! ¡Sííí, Falcooo!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Falcooo! ¡Así se hace!"
+    },
+    {
+      "text": "Cuando Smart Falcon actúa, inspira a sus\nadmiradores a agitar sus luces con todo el\ncorazón. Si ella no estuviera brillando, el\npúblico sería un mar de negro."
+    },
+    {
+      "text": "El hecho de que esas luces se hayan vuelto más\nbrillantes es prueba de que ella está brillando."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Todas sus luces...",
+      "choice_data_list": [
+        "Siempre has estado brillando.",
+        "Siempre has estado brillando."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...Solo mis admiradores podrían decirme si eso es\nrealmente—",
+      "choice_data_list": [
+        "Tu primer admirador te lo dice.",
+        "Tu primer admirador te lo dice."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ajá... Tienes razón. Tienes razón."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Gracias. Intentaré creer en mí misma... al menos\nun poco.",
+      "choice_data_list": [
+        "¡Tú puedes, Falcon!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oye! ¡Ya sabes que me digas Falco! ☆ ...Jeje."
+    },
+    {
+      "text": "Iluminada por la luz de la tarde, algo brilla\nmomentáneamente en los ojos de Smart Falcon. Yo\nfingiendo no notar la gota brillante mientras cae\nal suelo."
+    }
+  ]
+}

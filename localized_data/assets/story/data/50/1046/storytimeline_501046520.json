@@ -1,0 +1,225 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Durante el entrenamiento con Smart Falcon..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Ugh! ¡Mis piernas están todas sucias!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Hace poco llovió, así que el estado de la pista\nes el peor!",
+      "choice_data_list": [
+        "¿Quieres parar aquí?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Sí, tal vez deberíamos. Realmente quiero seguir,\npero..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Como una linda Umadol, creo que esta cantidad de\nbarro simplemente no va a funcionar..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Uf."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "No puedo dejarme resfriar... Tal vez debería\nestirarme un rato."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oh, mira, Entrenador! ¡Parece que Oguri también\nestá entrenando!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Como compañera Umadol, no puedo no saludar! ☆",
+      "choice_data_list": [
+        "¿Oguri Cap es una Umadol?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Por supuesto! Después de todo..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oguri es súper popular con la gente de su ciudad\nnatal, Kasamatsu!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡En mis ojos, eso la convierte en una Umadol súper\nfamosa!",
+      "choice_data_list": [
+        "Qué perspectiva tan única..."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Buen trabajo ahí, Oguri! ☆ Ambas estamos\ntotalmente cubiertas de barro, ¿eh?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hm... Falco? Ah que lo mencionas, sí."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Estoy pensando en terminar pronto. ¿Vas a seguir?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿No te molesta entrenar en el barro en absoluto?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "No, no particularmente."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Creo que es porque no importa cuán sucia me ponga,\ntodos en mi ciudad natal siempre me han apoyado."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Bueno... Voy a volver a entrenar. Nos vemos."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Urghhh! ¡Parece que mi investigación fue\ninsuficiente!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Ese espíritu inquebrantable debe ser el núcleo de\nla identidad Umadol de Oguri!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Muy bien! ¡No puedo dejar que nadie me supere\ncuando se trata de puro espíritu Umadol!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Tengo que entrenar con Oguri y acercarme más a\nconvertirme en una Umadol de élite!",
+      "choice_data_list": [
+        "¡Esfuérzate al máximo y hazlo lo mejor que puedas!",
+        "¡Esfuérzate al máximo y hazlo lo mejor que puedas!",
+        "Pidámosle que hagamos un entrenamiento en pareja."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Tengo que entrenar con Oguri y acercarme más a\nconvertirme en una Umadol de élite!",
+      "choice_data_list": [
+        "¡Esfuérzate al máximo y hazlo lo mejor que puedas!",
+        "¡Esfuérzate al máximo y hazlo lo mejor que puedas!",
+        "Pidámosle que hagamos un entrenamiento en pareja."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Gracias, Entrenador! ☆ ¡Me voy, entonces!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oye, Oguri! ¡Yo también voy a seguir entrenando!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Falco... Ya veo."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Okay... Corramos hasta que sintamos que nos vamos\na derrumbar."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Sí! ¡Esperaba que dijeras eso!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hehe, gracias. Ahora tengo más cosas que esperar."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Después de todo, cuanto más energía gastas, más\ndeliciosa sabrá la comida que comes después."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Eh? Espera, no me digas..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿<i>Eso</i> es la razón por la que no te importa si te\nensucias mientras entrenas?!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí, así es."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡YAAAGH!"
+    },
+    {
+      "text": "<i>¡Crash!</i>",
+      "choice_data_list": [
+        "¿¡Falco!?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Falco?! ¡Es muy temprano para desmayarse!"
+    },
+    {
+      "text": "Después, Smart Falcon continúa corriendo con Oguri\nCap, mejorando significativamente su resistencia y\nperseverancia!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Sí, ese es el plan! Bueno, ¡me voy!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oye, Oguri! Me preguntaba si te importaría hacer\nun entrenamiento en pareja conmigo?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Falco... Bueno, claro."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Tú marcas el ritmo, y yo correré desde atrás, como\nuna carrera real."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Sí! ¡Esperaba que dijeras eso!"
+    },
+    {
+      "text": "Después de que terminan su entrenamiento..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Oh... Falco, tienes barro en la mejilla."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Qué?!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡No! ¡No, no, <i>no!</i> Puedo manejarlo si está en mi\nchándal, pero..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Como Umadol, mi cara es sagrada! Entrenador,\n¡tráeme una toalla!",
+      "choice_data_list": [
+        "U-Umadol... el orgullo es otra cosa..."
+      ]
+    },
+    {
+      "text": "...En cualquier caso, ¡la conciencia de Smart\nFalcon como líder mejora significativamente\ngracias al entrenamiento en pareja con Oguri Cap!"
+    }
+  ]
+}

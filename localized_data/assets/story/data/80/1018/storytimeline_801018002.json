@@ -1,0 +1,75 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día en el pasillo de la academia..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Eso debería ser todo."
+    },
+    {
+      "text": "Air Groove parece estar profundamente pensativa\nmientras mira una pila de cajas de cartón en la\nesquina del pasillo.",
+      "choice_data_list": [
+        "¿Qué pasa con todas estas cajas de cartón?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ni siquiera pienses en acercarte a mí con tal\nimprudencia. Guardaré estas cajas yo misma. No\nnecesito tu preocupación.",
+      "choice_data_list": [
+        "¿Qué hay en ellas, de todos modos?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Una acumulación de avisos superfluos, paraguas\nprestados devueltos y equipo de la academia\ndañado."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Como parte del consejo estudiantil, reordenaré\nestos artículos en otra habitación.",
+      "choice_data_list": [
+        "¿Estarás bien cargando todo eso por tu cuenta?",
+        "¿Estarás bien cargando todo eso por tu cuenta?",
+        "Será mejor que te apures si quieres terminar con\ntodo eso."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Como parte del consejo estudiantil, voy a\nreordenar estos objetos en otra habitación.",
+      "choice_data_list": [
+        "¿Podrás cargar todo eso tú solo?",
+        "¿Podrás cargar todo eso tú solo?",
+        "Más te vale darte prisa si quieres terminar con\ntodo eso."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Hmph. ¿Estás intentando mostrar preocupación por\nmí? Esto no supone ningún desafío para alguien que\nentrena a diario."
+    },
+    {
+      "text": "Air Groove recoge la pila de cajas de cartón como\nsi fuera una bolsa de plumas y se aleja."
+    },
+    {
+      "text": "Es evidente por lo firmes que son sus pasos que ha\nentrenado cada centímetro de su cuerpo."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Hmph. Si no puedo manejar esta pequeña pila a\ntiempo..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Entonces no merezco mostrar mi rostro a los demás\ncomo la Emperatriz o la vicepresidenta del consejo\nescolar."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Basta de charla sin sentido. Seguro que tienes\ncosas más importantes que hacer que preocuparte\npor mí. Vete, entonces."
+    },
+    {
+      "text": "Air Groove recoge la pila de cajas de cartón como\nsi fuera una bolsa de plumas y se aleja."
+    },
+    {
+      "text": "No desperdicia ni un solo movimiento mientras\ncarga las cajas grandes, lo que atestigua la\nminuciosidad que aplica a la vida cotidiana."
+    }
+  ]
+}

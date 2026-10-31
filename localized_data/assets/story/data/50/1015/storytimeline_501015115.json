@@ -1,0 +1,294 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es un nuevo año, y T.M. Opera O se encuentra en\nuna situación completamente nueva."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Miren a Meisho Doto! ¡Un segundo lugar!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Ha ascendido constantemente de una recién llegada\nsin nombre a ahora demostrar ser capaz de las\ncarreras graduadas!",
+      "color_text_info_list": [
+        "carreras graduadas"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "<i>Haa...</i> Yo... lo logré... de alguna manera... Estoy\nllegando, poco a poco."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Oh, oh! ¡Mira la TV, Entrenador! Es Doto! <i>Nuestro</i>\nDoto!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "En cualquier momento, garantizo que vendrá por esa\npuerta a agradecerme por todo lo que he hecho para\nimpulsar su crecimiento!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡ÓPERA OOOOO!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Qué dije? ¡Ahora, Doto, cúbreme con adoración\nagradecida!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Eh... Sí me siento agradecida, pero hay algo más\nimportante ahora mismo."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Una conferencia de prensa está por comenzar...\nSpecial Week, Grass Wonder y El Condor Pasa están\ntodos allí."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Qué? ¿Los tres mosqueteros de la generación mayor\nestán hablando con la prensa?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Gracias por venir, todos! Tenemos algo importante\nque decir!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Los tres, yo, Grass Wonder y El Condor Pasa..."
+    },
+    {
+      "name": "Special Week",
+      "text": "...no correrán en la Twinkle Series del próximo\naño!"
+    },
+    {
+      "name": "Reporteras",
+      "text": "¡¿Quéaaaa?!"
+    },
+    {
+      "name": "Reportera A",
+      "text": "¿Eso significa que se retiran después de este año?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No, sentimos que hemos logrado todo lo que podemos\na este nivel y deseamos competir en la Liga de la\nCopa de los Sueños.",
+      "color_text_info_list": [
+        "Liga de la Copa de los Sueños"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ciao, todos! Espera, ¿es un adiós?! ¿Nos\nvolveremos a ver?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Waaahhh!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "El, no nos estamos retirando. No les des la idea\nequivocada."
+    },
+    {
+      "name": "Reportera A",
+      "text": "Entonces, tres pilares de la Twinkle Series\npasando a la siguiente liga."
+    },
+    {
+      "name": "Reportero B",
+      "text": "¿Qué significa esto para el próximo año? Espero\nque no comience una espiral descendente..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ugh! ¡Argh, grrrrr!",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Cómo pueden esos tres estar avanzando a la\nsiguiente etapa? Ah, eso ni siquiera es su más\nimperdonable transgresión..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Me han robado mi momento de gloria! ¡Aunque todas\nsomos seniores!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Mi reino está en ruinas... Debo reclamar mi lugar\ncomo el actor principal."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Entrenador, comienza los preparativos\ninmediatamente. ¡Tendré mi propia conferencia de\nprensa!",
+      "choice_data_list": [
+        "¿Sobre qué?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Sobre qué? ¡Ja ja ja! ¿Esperabas que yo lo\nsupiera?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Lo estaré averiguando ahora mismo, por supuesto."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Quéeee? Pero si no tenemos una idea... ¡Opera O!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A regañadientes, programo una conferencia de\nprensa para mañana."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Atención, todos los adoradores fans de Umamusume!\n¡Honorables miembros de la prensa! Ustedes\nrecientemente han sido informados de la partida de\nciertas tres personas."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Pero queda un año hasta entonces. Nueva realeza\ndebe por lo tanto ser coronada en el interín."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Entonces, ¿quién heredará su trono? ¡Digo, quién?!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Permítanme proporcionar la respuesta! ¡Será nada\nmenos que yo, T.M. Opera O!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Porque <i>yo</i> soy el Overlord! ¡Haaah ha ha!"
+    },
+    {
+      "name": "Reporteras",
+      "text": "E-está bien..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La lógica de Opera O no cuadra, pero su entusiasmo\nabrumador mantiene la atención de todos."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Juro, aquí y ahora, que durante el próximo año\nconstruiré un historial digno del gobernante de la\npróxima era."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "El Tenno Sho, la Japan Cup y el Arima\nKinen—¡conquistaré cada carrera G1 y construiré mi\ndinastía!",
+      "color_text_info_list": [
+        "Tenno Sho",
+        "G1"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "La era caótica de competidores rivales ha\nterminado. Un rey singular unirá el reino bajo un\ntrono."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Sí, el telón se ha levantado para revelar mi\nreinado! Esto no es un atardecer, sino el amanecer\nde una era!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Sean testigos del nacimiento de un nuevo\ngobernante!"
+    },
+    {
+      "name": "Reporteras",
+      "text": "¡Ooohhh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su audaz declaración es recibida con oohs y aahs\ndel público. Después de entrar a su último año,\nparece que sus habilidades en la actuación en\nescenario han mejorado también."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Opera O es... asombrosa. Quiero decir, ella podía\nanimar a Ayabe antes, pero..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ahora es aún <i>más</i> asombrosa... Ella hizo que todos\ndijeran \"wow\"... Uuungh..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ojalá me viera como alguien con quien competir. Yo\ntambién he crecido más fuerte..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "No tengo el valor sin embargo... No puedo\ndecírselo, simplemente no puedo..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Entonces, una vez que haya tomado mi lugar en la\ncima..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡La Twinkle Series conocerá la paz como un reino\nfloreciente por un milenio por venir!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Así que ves, los tres héroes que se despiden ya\nson irrelevantes."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Acompáñalos a la puerta con un adiós y adieu!\n¡Aaaah ja ja ja!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Alguien aquí está buscando problemas, ¿eh? Bueno,\n¡definitivamente lo encontró!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Grass, mientras estemos aquí, no podemos dejar que\ngane!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Jejeje, sí. Pronto se dará cuenta de contra quién\nestá realmente."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Está bien, ¡tengo que entrenar! ¡Nos vemos!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Parece que El aún no se ha dado cuenta, pero..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Entiendo la verdadera razón por la que sostuviste\nesta conferencia de prensa, Opera O..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Aunque quizás no eras consciente de ello tú misma,\nfue por el bien de los fans desanimados."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Pero gracias. Me alegra que la generación más\njoven te tenga entre sus filas."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ahora, mi declaración está completa, Entrenador!\nEl papel principal es mío una vez más."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡He cruzado el Rubicón! Todo lo que queda es\ncorrer mi camino para convertirme en el Soberano\nCentenario para el final de este año! ¡Haaah ja ja\nja!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un anuncio repentino de tres populares Umamusume\namenazó con quitar el viento de las velas de la\nTwinkle Series..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero la declaración de T.M. Opera O\ninstantáneamente les dio nueva vida. Un año de\ncarreras emocionantes entre las generaciones\n¡aguarda!"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>Haa... Haa...</i> ¡No puedo creer esto... Mi sueño\nsigue sin cumplirse!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Y fue ella quien me detuvo..."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Y la ganadora es Mejiro Ryan! ¡Mejiro Ryan toma\nel primer lugar! ¡Qué enfrentamiento tan destacado\nentre las favoritas del público, las Mejiro!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "<i>Haa... Haa...</i> No puedo continuar, Entrenador..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Apenas puedo respirar... Y mis músculos...",
+      "choice_data_list": [
+        "Esa fue una carrera increíble...",
+        "Esa fue una carrera increíble..."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Sí... Esa distancia, esta competencia... Fue tan\ndura..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Creo que mi cuerpo se va a desmoronar... <i>Resuello,\nresuello, Haa...</i>"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Si realmente te agotó tanto, entonces supongo que\npuedo aceptar mi derrota."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "McQueen..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Nada me molesta más que decir esto, pero..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Si alguien tenía que interponerse en mi sueño, me\nalegra de que hayas sido tú."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Reitero que me duele decirlo! Y no estoy <i>nada</i>\ncontenta con eso!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "L-lo siento, McQueen... Pero..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "No tengo ningún arrepentimiento. Esta carrera fue\nigual de importante para mí."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Lo sé. Nunca te perdonaría si te contuviste\nhoy."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Entiendes lo que esto significa?De ahora en\nadelante, seré yo la que alcance a <i>ti.</i>"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Sí... No sé cuánto tiempo podré mantener esto..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Pero haré todo lo que pueda para mantenerme\nadelante! Como tú siempre hiciste."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No lo querría de otra manera."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "La próxima vez, seré yo quien te supere, y en la\ndistancia en la que sobresales."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Bueno, entonces. Cuídate."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Ryan se supera a sí misma para reclamar la\nvictoria."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nuestro próximo objetivo es el Takarazuka Kinen.\nDespués del gran logro de hoy, obtener el primer\nlugar en la votación de fans ya no es un sueño.",
+      "color_text_info_list": [
+        "Takarazuka Kinen"
+      ]
+    }
+  ]
+}

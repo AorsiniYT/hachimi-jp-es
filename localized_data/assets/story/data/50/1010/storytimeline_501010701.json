@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oye, tú! ¡Ven a recibir un abrazo de buenos días!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Eek! ¿Eh? ¿Taiki Shuttle?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Jeje. ¡Eso debería animarte! Oh, parece que\nalguien más necesita un buen impulso de ánimo\ntambién...",
+      "choice_data_list": [
+        "¿Qué estás haciendo?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh, Entrenador! ¡Buenos días!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "He estado por aquí repartiendo energía a\ncualquiera que se vea demasiado desanimado."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Gracias a mi día libre ayer, mis reservas de\nenergía están rebosando."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Taiki Shuttle descansó muy bien."
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "A Eishin Flash le regalaron unos boletos para un\nparque de diversiones, así que las dos decidimos\nvisitarlo después de salir."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Los parques de diversiones se ven tan diferentes\npor la noche. Las atracciones son una vista\nmágica, iluminadas con luces de neón...",
+      "choice_data_list": [
+        "Esto es bastante emocionante, ¿eh?",
+        "Esto es bastante emocionante, ¿eh?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sí. Creo que nos divertiremos aquí."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sin embargo, tenemos tiempo limitado, así que\nsigamos este horario que hice y visitemos cada\natracción en orden. Lo hice lo más detallado\nposible."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lo primero en el horario de Eishin Flash es una\nmontaña rusa."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "A este ritmo, alcanzaremos la altitud máxima en\nexactamente siete segundos. Luego caeremos a una\nvelocidad increíble."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Cinco, cuatro, tres, dos...",
+      "choice_data_list": [
+        "¡P-por favor no cuentes atrás!",
+        "¡P-por favor no cuentes atrás!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Eh? Oh—¡cero!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después subimos a todo tipo de atracciones."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Allá, eso es todo por las tazas giratorias y la\nrueda de la fortuna. Lo siguiente es la torre de\ncaída—",
+      "choice_data_list": [
+        "¿Y qué hay de la casa embrujada de allá?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Eso no está en el horario.",
+      "choice_data_list": [
+        "¿Por qué no?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Porque puede haber... zombis."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aun así, lo pasamos genial mientras seguimos su\nhorario."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Ahora, ¿damos una vuelta por la tienda de\nsouvenirs? Debo comprar un recuerdo para Falcon."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Oh, ahí está la tienda. Hagamos nuestras compras\nantes de las 7:20 p.m. y salgamos del lugar a las\n7:30 p.m."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con estos horarios en mente, nos dirigimos a la\ntienda."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Oh... Están organizando una feria alemana."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No teníamos idea de que hubiera un evento, pero\nparece que la tienda de souvenirs y los puestos\nvenden cosas de Alemania hoy."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Ah... Tienen Donauwelle.",
+      "choice_data_list": [
+        "¿También es un pastel alemán?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sí. \"Welle\" significa \"ola\", como las olas del\nagua... ¿Ves cómo el chocolate parece pequeñas\nolas?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Está muy bueno. Lo recomiendo. Aunque, como hija\nde pasteleros, quizás necesite probar el sabor\npara autenticidad..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡Ah! ¿Serán Streuselkuchen y Lebkuchen?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Vaya... Tienen tanta variedad, y nada parece hecho\nen fábrica. Quizás todos fueron hechos a mano por\nverdaderos maestros..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por casualidad veo mi reloj. Ya son las 7:20 p.m."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡Oh! ¡Mira! Esto se llama muñeca Hummel."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Hay una dentro de la tienda de mis padres también.\nHa estado ahí desde que era niña."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Era un muñeco de una niña con un corderito. Lo\nmantuvimos en el estante justo a la izquierda de\nla entrada."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Ahh... Qué recuerdos tan gratos. Una vez me\nregañaron por jugar con ese muñeco cuando era muy\npequeña... ¡Jeje!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "<i>Suspiro...</i> Nunca imaginé que tendría la\noportunidad de recordar mi tierra natal en un día\ncomo hoy. Cómo—"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Eh? Ese sonido..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡Oh no! ¿Qué hora es?!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡Mis más sinceras disculpas! He arruinado nuestro\nhorario por haberme perdido en sueños sin sentido!",
+      "choice_data_list": [
+        "Está bien. Hoy es lo correcto.",
+        "Está bien. Hoy es lo correcto.",
+        "Ya que estamos aquí, ¿por qué no damos una vuelta\nmás?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡Mis más sinceras disculpas! He arruinado nuestro\nhorario por haberme perdido en sueños sin sentido!",
+      "choice_data_list": [
+        "Está bien. Hoy es lo correcto.",
+        "Está bien. Hoy es lo correcto.",
+        "Ya que estamos aquí, ¿por qué no damos una vuelta\nmás?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Qué?",
+      "choice_data_list": [
+        "Te estás divirtiendo mucho, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Bueno... sí. Revivir momentos de mi infancia ha\nsido muy divertido."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Pero perderme tanto en mis pensamientos como para\ndescarrilar nuestro horario... Todavía tengo mucho\nque aprender sobre ser disciplinada..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Me he decidido. En el futuro, incluiré más margen\nen mis horarios."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Por lo tanto, no será un problema incluso si me\ndivierto tanto que pierda la noción del tiempo."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Quiero divertirme al máximo cuando tenga una\noportunidad como esta de nuevo."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡No debemos! Si lo hacemos, ¡el horario estará\ncompletamente arruinado!",
+      "choice_data_list": [
+        "Pero, ¿no es agradable estar aquí? Piensa en esto\ncomo un accidente feliz.",
+        "Pero, ¿no es agradable estar aquí? Piensa en esto\ncomo un accidente feliz."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Un accidente feliz?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Supongo que es importante que los horarios sean\nflexibles para acomodar circunstancias inesperadas\ny accidentes, felices o no..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Muy bien. Ajustaré el horario para que podamos\ntomar nuestro tiempo buscando souvenirs."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Aprovecharé este momento para perderme en\nrecuerdos de mi hogar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, Eishin Flash y yo nos vamos a casa\ncon los brazos llenos de souvenirs."
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, durante el recreo, me encontré con que\nNarita Brian estaba hablando con otro estudiante."
+    },
+    {
+      "name": "Umamusume amigable",
+      "text": "Así que, como tengo algunas amigas que también son\nfanáticas tuyas, y queremos ir a karaoke contigo\nalgún día—"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Estoy ocupada. Pregúntale a alguien más."
+    },
+    {
+      "name": "Umamusume amigable",
+      "text": "Oh..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ver esa interacción me recuerda a cuando la conocí\npor primera vez."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No hay nada de qué hablar."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Vete."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incluso ahora, no hablamos mucho fuera del\nentrenamiento. Tal vez nos entenderíamos mejor si\npudiéramos hablar un poco más..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No es necesario. Eres mi entrenadora—nada más,\nnada menos."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Conversación terminada. Empecemos a entrenar.",
+      "choice_data_list": [
+        "Pero quiero saber más sobre ti.",
+        "Pero quiero saber más sobre ti."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿De qué serviría?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Solo piensa en ello. ¿Por qué involucrarse en la\nvida de los demás?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Nunca esperé que llegaras a conocerme. No\nnecesitas entender mi motivación."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Todo lo que necesitas saber es que quiero correr.\nAyúdame a hacerlo, y estamos bien."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Eso es suficiente para mí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todo el tiempo que está diciendo esto, está\nmirando hacia la distancia."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No quiero ver que se apague el fuego de nadie más,\ny mucho menos apagarlo yo misma. Estoy... harta de\nello."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su hambre de carreras puede que no sea algo que se\npueda saciar en una sola vida."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No importa adónde vaya, no importa a quién\ndesafíe, siempre es lo mismo. Me quedo con más\nhambre que antes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debió haber estado soportando esta carga solitaria\ndurante mucho tiempo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No es suficiente. ¡Necesito más!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su impulso nunca se saciará, no importa cuántos\noponentes enfrente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Brian siempre tendrá que lidiar con este\ndeseo incesante en su corazón."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Eso es suficiente. Hablar más no me llevará a\nninguna parte. Dejemos esta conversación inútil—",
+      "choice_data_list": [
+        "No es inútil."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...",
+      "choice_data_list": [
+        "Estoy segura de que no será para nada."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tú realmente..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...<i>Suspiro.</i> Vale."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No esperes que me guste, aunque. Sigo haciendo lo\nque quiero."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Simple así."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bueno, no hay necesidad de apresurarse... Iremos\ndespacio y construiremos nuestra relación desde\nallí."
+    }
+  ]
+}

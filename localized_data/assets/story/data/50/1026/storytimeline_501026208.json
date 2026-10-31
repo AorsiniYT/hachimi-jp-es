@@ -1,0 +1,90 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡El partido del siglo está a punto de comenzar—el\ntipo de enfrentamiento que solo encontrarás en la\nJapan Cup!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Solo hay una pregunta en la mente de todos—Mihono\nBourbon o Tokai Teio? ¿Quién será hoy?!"
+    },
+    {
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Espectador A",
+      "text": "Tiene que ser Teio, ¿verdad? Ha estado fuera del\njuego por un tiempo, pero es un prodigio."
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Ni hablar, Mihono Bourbon te va a demostrar que\nestás equivocado! ¿No recuerdas el spring Tenno\nSho?"
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Argh, estoy tan nervioso que no puedo soportar\nverlo!"
+    },
+    {
+      "text": "Todos en las gradas están esperando con el aliento\ncontenido por la competencia entre Tokai Teio y\nMihono Bourbon."
+    },
+    {
+      "text": "Mientras tanto, en el túnel de las corredoras..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Oye, Bourbon! ¡Tengamos una buena carrera!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Ciertamente."
+    },
+    {
+      "text": "Tokai Teio mira la mano extendida de Mihono\nBourbon."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Para ser honesta, solo me he recuperado de mi\nlesión, así que estaba nerviosa por correr hoy."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Pero cuando vi el spring Tenno Sho... De alguna\nmanera... de repente tuve esta sensación\nliberadora."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Por supuesto, ya sabía todo sobre ti porque\ninvestigué un montón, ¡pero me di cuenta de que\ntoda esa basura no importa!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Todo lo que quiero hacer es correr contra ti!"
+    },
+    {
+      "text": "Ella agarra firmemente la mano de Mihono Bourbon."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Me honra escuchar eso."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Jejeje, el honor es todo mío."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Nos vemos en la zona de preparación, entonces!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Creo que finalmente entiendo lo que Rice quiso\ndecir cuando dijo que quería \"alcanzarme\".",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Me voy ahora, Entrenador."
+    },
+    {
+      "text": "Y así, la muy esperada Japan Cup comienza!"
+    }
+  ]
+}

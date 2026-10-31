@@ -1,0 +1,21 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Ryan corre bien en su carrera debut."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella habla felizmente de poder darle las buenas\nnoticias a su abuela."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para hacerse un nombre y avanzar hacia los\nClásicos, decidimos inscribirnos en la siguiente\nJunior Cup.",
+      "color_text_info_list": [
+        "Clásicos",
+        "Junior Cup"
+      ]
+    }
+  ]
+}

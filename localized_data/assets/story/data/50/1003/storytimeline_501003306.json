@@ -1,0 +1,103 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tokai Teio",
+      "text": "Ah, Entrenador.",
+      "choice_data_list": [
+        "Eres genial.",
+        "Eres genial."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Lo sé, ¿verdad? Corrí con todas mis fuerzas."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Me esforcé mucho, pero... no logré el primer\nlugar."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Supongo que esto significa que nunca seré una\ncampeona de la Triple Corona..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella puede que no pueda reclamar el mismo título\nque Rudolf hizo antes, pero...",
+      "choice_data_list": [
+        "Puedes superar a Rudolf, sabes."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Sí, eso es cierto. Mi sueño no ha terminado."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Me entrenaré con todo mi corazón para nunca perder\nde nuevo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tokai Teio es fuerte en cuerpo y alma."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Según su deseo, continuamos entrenando al día\nsiguiente."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Bien, comencemos este entrenamiento! Tengo que\ndarlo todo si quiero ganar las otras carreras de\nla Triple Corona."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Y sé por dónde empezar—quiero hacer más de esa\ncarrera en pareja.",
+      "choice_data_list": [
+        "¿Inmediatamente después de tu carrera? ¿Estás\nseguro de que estás listo para eso!",
+        "¿Inmediatamente después de tu carrera? ¿Estás\nseguro de que estás listo para eso!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Hmph. Estás siendo demasiado condescendiente\nconmigo, Entrenador."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Si hay algo que aprendí de la Satsuki Sho, es que\nestas carreras clásicas no son ninguna broma."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Y sabes qué carrera es la siguiente, ¿verdad?",
+      "choice_data_list": [
+        "El Derby Japonés.",
+        "El Derby Japonés."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Sí. El Derby es la carrera soñada de todos los\ncorredores."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Todos mis oponentes van a darlo todo, lo que\nsignifica que yo también tengo que hacerlo."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Así que necesito empezar a correr pronto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin perder un momento, Teio se apresura a\nencontrar a su próxima compañera de entrenamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No hay tiempo para descansar. Nuestro\nentrenamiento para el Derby Japonés comienza de\ninmediato.",
+      "color_text_info_list": [
+        "Derby Japonés"
+      ]
+    }
+  ]
+}

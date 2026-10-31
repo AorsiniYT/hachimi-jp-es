@@ -1,0 +1,251 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Quedan cinco días para las pruebas..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Finalmente llegaron los zapatos que pedí, los\nsuficientemente resistentes para soportar el poder\ndevastador de Oguri Cap, así que voy a dárselos."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Zapatos nuevos? ¿Para mí?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Pero ¿por qué? Aún no soy tu aprendiz."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le cuento sobre la conversación que tuve con\nTamamo Cross y cómo las pruebas son donde una\nestudiante demuestra su verdadero valor dando todo\nde sí."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Tama dijo eso. Entiendo. Así que así es como\nfuncionan las pruebas."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Entendido. Gracias por los zapatos. Los probaré\nmientras practico para la carrera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Oguri Cap acepta los zapatos, después de lo cual\ndecido mantener un ojo en ella mientras los\nprueba."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "<i>Jadeando, jadeando...</i><i>Haa... Haa...</i> ¡Jaja...\nJajajaja!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Esto es increíble! Mis piernas... son ligeras\ncomo plumas."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Gracias de nuevo por los zapatos."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Son... absolutamente perfectos. Me encargaré de\ncuidarlos bien.",
+      "choice_data_list": [
+        "Me alegra verte correr tan felizmente.",
+        "Me alegra verte correr tan felizmente."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Eh? ¿Qué—?",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "No es gran cosa... Creo. Es solo... Eh..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Lo que dijiste. Me pareció muy... familiar...",
+      "choice_data_list": [
+        "¿Familiar?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "No es nada. No te preocupes por eso."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "En cualquier caso, gracias una última vez por los\nzapatos. Prometo darlo todo en las pruebas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pasaron cinco días, y finalmente llegó el momento\nde las pruebas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hoy no solo corre Oguri Cap, sino también otra\nestudiante que se rumorea que es tan rápida y\nhabilidosa como Super Creek."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los podios están absolutamente emocionados. Si no\nsupiera mejor, pensaría que esto es una carrera\nG1."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Wow. Hay mucha gente aquí hoy."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Tienes razón. ¿Las pruebas siempre son así?"
+    },
+    {
+      "name": "Super Creek",
+      "text": "No, en realidad. Es bastante inusual tener una\naudiencia tan grande... Me pregunto si hay alguna\ncelebridad aquí hoy."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Una celebridad. Eso explicaría la multitud."
+    },
+    {
+      "name": "Personal de pruebas A",
+      "text": "¡Super Creek, prepárate para la carrera!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Sí, señora! ¡Estoy lista! Tengo que irme ahora."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Nos vemos."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Espera, ¿quién era esa?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las dos son completamente inconscientes de toda la\natención que están recibiendo. Aunque tal vez en\neste caso, la ignorancia sea una bendición..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No importa. Una vez que comienzan a correr, la\nmultitud rugió con emoción, y está claro por qué\ntodos están aquí hoy."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Oguri Cap está cerrando la brecha! ¡No está\ndesperdiciando un solo segundo!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Casi allí! ¡Está tomando la delantera! Pero\nespera. ¡Creek está acelerando! ¿Podrá perder a\nOguri? ¡Será una carrera ajustada! ¿Quién ganará?\n¿Oguri o Creek?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Oguri termina en segundo lugar detrás de Super\nCreek, quien ganó por una fracción de segundo."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Segundo lugar... Eh..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Me compré zapatos nuevos... y corrí lo más rápido\nque pude... Pero todavía quedé en segundo..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Este lugar es algo especial. Una vez que debute,\npodré correr contra rivales como Tama y Creek..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Esto es increíble... y emocionante."
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "Buen trabajo, Oguri Cap. Fuiste increíble."
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "En efecto. Muy impresionante. Estoy buscando\nreclutar a más corredores talentosos para entrenar\nbajo mi tutela, si estás interesado..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Ah, sí... Necesito que me descubran antes de que\npueda debutar..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Gracias, pero... Lo siento, tendré que declinar.\nDisculpa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Oguri Cap se abre paso torpemente entre la\nmultitud y se dirige hacia mí."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...¿Viste la carrera?",
+      "choice_data_list": [
+        "¡Sí! ¡Eres increíble!",
+        "¡Sí! ¡Eres increíble!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Gr-gracias."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Um... sí, tiene que ser tú."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Tengo un favor que pedirte. ¿Serías mi entrenador?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "La orientación que me diste y tus palabras de\napoyo... Me parecieron genuinas."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Elogios o críticas, eres genuino como la gente de\nmi pueblo. Me siento bien. Me hace recordar mi\nhogar."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Aunque esté lejos de casa, mientras tú seas mi\nentrenador, siento que puedo tranquilizar mi mente\ny darlo todo en la carrera."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Así que... ¿qué me dices? ¿Serías mi entrenador,\npor favor?",
+      "choice_data_list": [
+        "¡Sí! ¡Vamos a hacer que todos en mi pueblo se\nsientan orgullosos!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...¡Por supuesto! No podría pedir nada más. ¡Vamos\na hacerlo!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Muy bien. Primero que nada..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Gruñido...</i>"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Vamos a buscar algo para comer."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con nada más que comida en su mente, partimos en\nbusca de sustento. Acaban de comenzar mis días de\nentrenamiento con Oguri Cap."
+    }
+  ]
+}

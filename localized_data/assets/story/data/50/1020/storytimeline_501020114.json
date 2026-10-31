@@ -1,0 +1,49 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Justo antes de que se supone que correremos en el\nKyoto Daishoten, cierta noticia se anuncia."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Guau... Así que Suzuka logró ganar el Mainichi\nOkan."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Silence Suzuka es una fuerza poderosa en el mundo\nde las carreras. Ha acumulado un gran número de\nfans con su velocidad irreal, ganándose el apodo\n\"Corredora de Otro Mundo\"."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Y dejó a Grass y El en el polvo?!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Eso sí que <i>es de </i>otro mundo. El hipódromo de Tokyo\ndebe haber estado entusiasmado.",
+      "choice_data_list": [
+        "¡Pero no perderemos!",
+        "¡No vamos a perder, eso seguro!"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Mmm, supongo que sí... Sí, ¡tenemos que terminar a\nlo grande!",
+      "choice_data_list": [
+        "Me alegra que estés entusiasmado.",
+        "Me alegra que estés entusiasmado."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "No, no tanto. Es mucho más divertido entusiasmar a\nlos demás."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Si Suzuka usó su velocidad para adelantarse, eso\nsignifica..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Puedo ganar si uso mi magia especial. ♪ ¡Vamos a\niluminar Kioto!"
+    }
+  ]
+}

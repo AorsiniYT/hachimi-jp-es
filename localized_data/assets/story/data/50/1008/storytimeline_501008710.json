@@ -1,0 +1,72 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Vodka",
+      "text": "¡Ughhh! ¡Perdí!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Pensé que iba a superar a todos y llevarme la\nvictoria!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Lo siento, Entrenador. No quería verme tan\nridícula frente a ti...",
+      "choice_data_list": [
+        "Tendrás que intentarlo de nuevo la próxima vez.",
+        "Tendrás que intentarlo de nuevo la próxima vez.",
+        "¿No vas a dejar que termine así, verdad?",
+        "¿No vas a dejar que termine así, verdad?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Lo siento, Entrenador. No quería verme tan\nridícula frente a ti...",
+      "choice_data_list": [
+        "Tendrás que intentarlo de nuevo la próxima vez.",
+        "Tendrás que intentarlo de nuevo la próxima vez.",
+        "¿No vas a dejar que termine así, verdad?",
+        "¿No vas a dejar que termine así, verdad?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "...Sí. Exactamente. Tienes razón."
+    },
+    {
+      "name": "Vodka",
+      "text": "Estoy molesta por haber perdido, pero arrastrar la\nderrota conmigo no es muy genial."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Si tengo tiempo para quejarme, tengo tiempo para\nentrenar!",
+      "choice_data_list": [
+        "¡Ese es el espíritu!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Jeje... ¿Entrenarás conmigo una vez que volvamos,\nverdad? ¡Necesito pulir mi técnica... y mi estilo!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Vaya, hoy no estás midiendo tus palabras. Supongo\nque por eso eres mi entrenador!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Claro que no va a terminar así! Si acaso, esta\nderrota solo está calentando mi motor!",
+      "choice_data_list": [
+        "¡Tú puedes, Vodka!",
+        "¡Tú puedes, Vodka!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Claro que puedo! Tus expectativas, mis\nremordimientos—¡todo es solo combustible en el\ntanque!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Solo espera—en la próxima carrera, te mostraré lo\ngenial que realmente puedo ser!"
+    }
+  ]
+}

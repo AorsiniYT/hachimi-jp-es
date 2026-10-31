@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Llego a la pista para el entrenamiento de Vodka."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Oye, Entrenador!",
+      "choice_data_list": [
+        "¡Parece que estás de buen humor!",
+        "¡Parece que estás de buen humor!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Claro que sí! Comí un montón en mi día libre y\ndormí como un bebé."
+    },
+    {
+      "name": "Vodka",
+      "text": "Hasta logré ponerme al día con la pila de revistas\nde motocicletas que tenía pendiente."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Ahora tengo el tanque lleno de gasolina y estoy\nlista para correr con todo lo que tengo!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Saldré a toda máquina desde la salida—¡dejaré a\ntodos boquiabiertos!"
+    }
+  ]
+}

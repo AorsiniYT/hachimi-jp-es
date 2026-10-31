@@ -1,0 +1,117 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Al dirigirme al distrito comercial, veo un\nmisterioso grupo de personas."
+    },
+    {
+      "name": "???",
+      "text": "¡Gracias por tu voto! ¡Realmente lo aprecio!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Oye. ¿Qué es todo este alboroto?",
+      "choice_data_list": [
+        "No estoy segura."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Un político está dando un discurso aquí? Todos\nparecen bastante emocionados."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Seguiré cumpliendo con las expectativas de todos\ncon un Bakushin a plena potencia!",
+      "choice_data_list": [
+        "¡Y-yo volveré en seguida!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ah, ya veo. Así que la representante de clase está\nen el centro de esto. Bastante popular, ¿verdad?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Bueno, si no es el Entrenador! ¡Mira este voto a\nmi favor!",
+      "choice_data_list": [
+        "...¡Esa es una carta de fan!",
+        "...¡Esa es una carta de fan!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Tú también podrías llamarlo así!"
+    },
+    {
+      "name": "Fan",
+      "text": "¿Eres su entrenador, verdad? ¡Estoy muy emocionado\nde conocerte también! ¡Los apoyo a los dos!",
+      "choice_data_list": [
+        "¡Gracias!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Absolutamente! ¡Definitivamente no los\ndefraudaré!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡BAKUSHIN EN ACCIÓN, VICTORIA!"
+    },
+    {
+      "name": "Personas en el Distrito Comercial",
+      "text": "¿Oooh? ¿Bakushin? ...¿Acción?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Bueno, bueno! <i>¡Solo tengo </i>que mostrarles ahora!",
+      "choice_data_list": [
+        "No, eso es suficiente."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿¡Huh?! ¿¡De qué estás hablando?!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Como representante de clase, es mi deber dar un\nespectáculo! ¡Y como genio, debo BAKUSHIN!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Más que nada, quiero correr porque lo disfruto!\n¡Vamos, empecemos!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Oh! ¡Eres tú, Nature?! ¡Qué buen momento! ¡Esta\nes una gran oportunidad!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Personas en el Distrito Comercial",
+      "text": "¡Oh! ¡Natie también va a correr? ¡Yay! ¡Vamos!\n¡Vamos!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Correr? ¡Espera, por qué yo también tengo que\ncorrer?! ¡Toda esta escena ni siquiera es para mí!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Jaja... ¡Está bien! La competencia hace que mi\nBakushin sea más fuerte!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Me voy! ¡BAAAKUSHIN, BAKUSHIIIN!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Espera! ¡Tú, por allá! ¡Eres su entrenador,\nverdad? ¡Haz algo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Corro tras la descontrolada Sakura Bakushin O y\nlogro alcanzarla mientras está tomando un\ndescanso."
+    }
+  ]
+}

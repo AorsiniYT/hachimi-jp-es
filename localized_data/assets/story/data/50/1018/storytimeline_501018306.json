@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Saludo a Air Groove cuando regresa de su actuación\nimpresionante en el Oka Sho."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Como se esperaba del Oka Sho, la competencia fue\nespectacularmente feroz."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Carreras como esta realmente me apasionan."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La carrera acaba de terminar, ¡pero Air Groove\nestá ardiendo con espíritu de lucha!",
+      "choice_data_list": [
+        "Tendrás que esforzarte aún más en Japanese Oaks.",
+        "Tendrás que esforzarte aún más en Japanese Oaks."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "En efecto."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Volvamos. Quiero repasar la carrera de hoy y\nempezar a trazar estrategias para Japanese Oaks.",
+      "choice_data_list": [
+        "¡Entendido!",
+        "¡Entendido!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Japanese Oaks se acerca rápido. ¡No podemos\npermitirnos descansar en nuestros laureles!"
+    }
+  ]
+}

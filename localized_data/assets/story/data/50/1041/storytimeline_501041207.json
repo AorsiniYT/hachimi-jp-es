@@ -1,0 +1,44 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sakura Bakushin O",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Uno dos, uno dos... ¡Así me gusta!",
+      "choice_data_list": [
+        "¿Por qué no tomas un respiro?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡No hace falta! ¡Me he endurecido para esto!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Todavía estoy en la carrera!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Estoy a la mitad de la meta de 3,600 metros!",
+      "choice_data_list": [
+        "¡E-eso es!",
+        "¡E-eso es!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ganaré el CBC Sho igual que gané el Hakodate\nSprint Stakes!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Uno dos, uno dos!"
+    }
+  ]
+}

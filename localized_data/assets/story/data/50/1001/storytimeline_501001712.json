@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Special Week extraña su entrenamiento. Es de noche\ncuando finalmente logro comunicarme con ella."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Lo siento mucho por no haber podido asistir al\nentrenamiento!"
+    },
+    {
+      "name": "Special Week",
+      "text": "En realidad, Suzuka tuvo una carrera hoy y\nrealmente quería verla correr, así que...",
+      "choice_data_list": [
+        "Bueno, supongo que ver una carrera también te\nayuda a aprender."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Entrenador! Gracias por entender.",
+      "choice_data_list": [
+        "¿Aprendiste algo de la carrera de Suzuka?",
+        "¿Aprendiste algo de la carrera de Suzuka?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Me di cuenta de que su método de fuga es algo que\nnadie más puede imitar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No puedo evitar preguntarme si realmente aprendió\nalgo si el método no puede ser imitado."
+    }
+  ]
+}

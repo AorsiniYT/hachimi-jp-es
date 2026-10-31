@@ -1,0 +1,81 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "No hay entrenamiento hoy ya que Gold City tiene\ntrabajo. Decido ir a relajarme al parque cuando..."
+    },
+    {
+      "name": "Estudiante A",
+      "text": "Oye, ¿no es esa Gold City?"
+    },
+    {
+      "name": "Estudiante B",
+      "text": "¡No puede ser, ¿es ella?! ¡Su cara es tan bonita!\nEs literalmente una creación divina. ¿Qué come\ntodos los días—niebla?"
+    },
+    {
+      "text": "Gold City se para frente a las emocionadas chicas,\nrodeada de su personal para una sesión\nfotográfica."
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "name": "Estudiante B",
+      "text": "Ahh, ¡miró hacia acá! ¡Es tan bonita!"
+    },
+    {
+      "name": "Fotógrafa",
+      "text": "Tenemos una audiencia bastante grande, City.\n¿Crees que puedes continuar?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Está bien, estoy acostumbrada. Por otro lado..."
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "text": "¿Gold City acaba de intentar llamar mi atención?\nNo... seguramente estoy imaginando cosas.",
+      "choice_data_list": [
+        "Alejarse como si nada hubiera pasado.",
+        "Animarla con entusiasmo."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Te vi, tonta."
+    },
+    {
+      "name": "Fotógrafa",
+      "text": "¿Qué fue eso, City?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Oh, nada. Pensé que vi a alguien que conozco por\nallá, eso es todo. Pero acaban de irse."
+    },
+    {
+      "name": "Gold City",
+      "text": "La próxima vez, me aseguraré de que te quedes y\nmires."
+    },
+    {
+      "name": "Gold City",
+      "text": "Espera. ¿Qué está haciendo mi entrenador?",
+      "choice_data_list": [
+        "¡Vamos! ¡City! ¡Vaaaamos!"
+      ]
+    },
+    {
+      "name": "Fotógrafa",
+      "text": "Oh. Parece que tienes una fan muy entusiasta.\nImpresionante compromiso."
+    },
+    {
+      "name": "Gold City",
+      "text": "No, es solo un idiota."
+    },
+    {
+      "name": "Gold City",
+      "text": "Alguna santurrona que apoyaría a cualquiera que\npongas frente a ella."
+    }
+  ]
+}

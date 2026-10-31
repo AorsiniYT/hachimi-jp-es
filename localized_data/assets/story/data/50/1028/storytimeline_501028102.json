@@ -1,0 +1,312 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es Año Nuevo, y decido ir a un santuario a rezar,\npero cuando llego..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Aquí tienes! ☆ Está caliente y <i>muy</i>bueno!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Encuentro a Hishi Akebono entre los vendedores,\nrepartiendo amazake a los visitantes del\nsantuario."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Oh! ¡Hola, Entrenador! ¡Feliz Año Nuevo!",
+      "choice_data_list": [
+        "Feliz Año Nuevo. ¿Qué pasa con el amazake?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Cuando estaba en el distrito comercial, vi un\nvolante de reclutamiento para voluntarios, así que\nme inscribí para ayudar!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Mi trabajo es hacer mucho amazake y luego repartir\nvasos a todos."
+    },
+    {
+      "name": "Dueña de tienda A",
+      "text": "Bono ha sido de gran ayuda. ¡Es tan fuerte!"
+    },
+    {
+      "name": "Dueña de tienda B",
+      "text": "Y fue ella quien sugirió que ofreciéramos bebidas\ndistintas al amazake."
+    },
+    {
+      "name": "Dueña de tienda B",
+      "text": "Mucha más gente de lo normal ha estado acercándose\npara tomar bebidas. ¡Es realmente genial!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Ehehe! Ay, apenas hice algo.",
+      "choice_data_list": [
+        "Oh, ¿estás ofreciendo más que solo amazake?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mirando de cerca el puesto, veo vasos de café y\nchocolate caliente entre el amazake."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "A algunas personas no les gusta el amazake, así\nque pensé que sería bueno tener otras bebidas con\nlas que puedan calentarse!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Oh, déjame conseguirte algo, Entrenador!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Qué te gustaría? El amazake está lleno de\nvitaminas y es muy nutritivo."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Preparamos el café con granos que compramos en un\ncafé del distrito comercial. ¡Estarás listo para\ncualquier cosa después de una taza de eso! ♪"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "El chocolate caliente también es genial. Hay algo\n<i>especial</i> en su delicioso sabor!",
+      "choice_data_list": [
+        "¡Tomaré el amazake lleno de nutrientes!",
+        "¡Tomaré el café, así estaré listo para cualquier\ncosa!",
+        "¡Tomaré el chocolate caliente, por ese poder\nespecial!"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Okay! ¡Esto hará que tu estómago se sienta\nagradable y caliente!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella me entrega una taza de amazake. Sabe\nabsolutamente delicioso con su dulzura intensa y\ntextura suave y cremosa.",
+      "choice_data_list": [
+        "¡Esto está realmente bueno!"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Me alegra escucharlo!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Lo hemos estado hirviendo desde anoche. ¡Ha sido\nmuy divertido!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Oh, cierto! ¡Saliste en la conversación mientras\nhacíamos el amazake!"
+    },
+    {
+      "name": "Dueña de tienda B",
+      "text": "Sí, ella nos dijo qué amable y confiable eres, y\ncuánto significas para ella."
+    },
+    {
+      "name": "Dueña de tienda B",
+      "text": "Ella también dijo que siempre te ves muy feliz\ncuando comes la comida que ella prepara,<i>¿verdad</i>?"
+    },
+    {
+      "name": "Vendedor C",
+      "text": "¡<i>Sí!</i> Y cuando Bono dijo cuánto disfruta preparar\ncomida para ti, <i>¡pues!</i>"
+    },
+    {
+      "name": "Dueña de tienda B",
+      "text": "¡Ups, perdón! Ha pasado un tiempo desde que\nhablamos por última vez de algo tan dulce y lindo,\nasí que nos emocionamos un poco allí!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Ahaha! Sabes, es muy gracioso cuando todos se\nponen tan emocionados."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Paso el resto del día divirtiéndome pasando el\nrato con todos del distrito comercial."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Recibido! ♪ ¿Quieres azúcar o leche?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pido ambos y tomo con cuidado el café caliente que\nella me entrega."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El café tiene un aroma rico y un sabor distintivo.\nEs absolutamente delicioso.",
+      "choice_data_list": [
+        "¡Esto está delicioso!"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Me alegra mucho que te guste! ¡A mí también me\nencanta!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "También compré granos para mí. ¡Deberíamos\npreparar más café la próxima vez que comamos\npastel juntos!"
+    },
+    {
+      "name": "Visitante",
+      "text": "Disculpe, ¿podría tener un poco de amazake, por\nfavor?"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Por supuesto! ¡Enseguida! ♪"
+    },
+    {
+      "name": "Visitante",
+      "text": "Espere... ¡¿No eres Bono?!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Lo soy! Oh, ¿eres..."
+    },
+    {
+      "name": "Visitante",
+      "text": "¡Sí, soy fan! Estaba pensando que te veías muy\nfamiliar, pero no puedo creer que seas realmente\n<i>¡tú!</i>"
+    },
+    {
+      "name": "Visitante",
+      "text": "¡Me asombró lo poderosa e impresionante que fuiste\nen esa carrera que vi! O más bien, ¡estoy\nirremediablemente enamorado!"
+    },
+    {
+      "name": "Visitante",
+      "text": "¡Estoy muy emocionado de verte correr contra Biko\nen el Takamatsunomiya Kinen!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Ehehe! Es un poco vergonzoso recibir todos estos\nelogios, ¡pero gracias! ¡Haré lo mejor!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de tomar una taza de amazake, la mujer se\naleja, saludando felizmente a Hishi Akebono\nmientras se va."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Quieres el chocolate caliente? ¡Tienes buen\ngusto, Entrenador! ♪"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Espero que sea de tu agrado! ¡Jeje!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella me entrega una taza de chocolate caliente. Su\nsabor rico y distintivo es maravillosamente\nsabroso.",
+      "choice_data_list": [
+        "¡Qué bueno!"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡¿No es así?! ¡A mí también me encanta!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Justo entonces..."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¿¡Eh?! ¡Oye, Bono! ¡Y el entrenador de Bono!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Ah, Biko! ¡Feliz Año Nuevo!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Feliz Año Nuevo! ¿Qué estás haciendo?"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Estoy ayudando a repartir bebidas calientes! ¿Te\ngustaría una mientras estás aquí?"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Oh! Creo que tomaré un chocolate caliente, por\nfa—"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Espera, no puedo! ¡Estoy apurada ahora mismo!\n¡Están transmitiendo un especial de Año Nuevo\nsobre héroes hoy!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Oh, vaya! ¡Definitivamente no quieres perderte\neso!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Exacto! Me apresuré aquí para poder hacer mis\noraciones rápido."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Gracias por la oferta, pero temo que debo\ndeclinar! ¡Buena suerte, Bono!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Gracias! ¡Hasta luego!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Me pregunto por qué Biko va a rezar."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Espero de verdad que rece para hacerlo bien en el\nTakamatsunomiya Kinen.",
+      "choice_data_list": [
+        "Sí.",
+        "Sí."
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Oh, a propósito, ¿ya has rezado, Entrenador?",
+      "choice_data_list": [
+        "Todavía no."
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿En serio? ¡Disculpe! ¿Está bien si voy a pagar\nmis respetos con mi entrenador, por favor?"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Quiero que recemos juntos para mostrar que vamos\na trabajar duro como equipo!"
+    },
+    {
+      "name": "Dueña de tienda A",
+      "text": "Claro. Las cosas están bastante lentas ahora de\ntodos modos, así que ¡adelante!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Gracias! ¡Volveré en seguida!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Habiendo recibido permiso, nos apresuramos y nos\nunimos a la cola para rezar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Aplauso! ¡Aplauso!</i>"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡No olvides por qué estás rezando, Entrenador! ☆"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Le pedimos ayuda para dar lo mejor de nosotros en\nel Takamatsunomiya Kinen—y en todas las otras\ncarreras después también!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Jeje! Rezar en un santuario simplemente me llena\nde poder, ¿sabes? Es como<i>¡fiu-fiu-fiu!</i>"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Voy a esforzarme mucho este año! ¡Hagamos lo\nmejor que podamos, Entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Y así, comenzamos el año nuevo con un ánimo\nalegre y optimista! ¡Brindemos por un buen año\npara ambos!"
+    }
+  ]
+}

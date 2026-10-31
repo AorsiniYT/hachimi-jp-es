@@ -1,0 +1,45 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras estábamos por ahí con Mejiro\nArdan..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Oh? ¿Esos son los \"lindos\" de los que he oído\nhablar?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Ardan señala hacia una máquina de garra\nllena de peluches de Umamusume."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Sabía que Chiyono O quería uno de estos, y después\nde ver lo lindos que son, no puedo decir que esté\nsorprendido."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¡Jeje! La verdad, yo también estoy empezando a\nquerer uno. Si tuviera un peluche lindo en mi\nhabitación, podría contemplarlo cuando quisiera."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Si me permite preguntar, ¿cómo se consigue uno\na través de esta máquina?",
+      "choice_data_list": [
+        "Te lo mostraré ahora mismo.",
+        "Te lo mostraré ahora mismo."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Lo harás, Entrenador? Muchas gracias."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Observaré de cerca y aprenderé de tu ejemplo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡No hay forma de que falle ahora!"
+    }
+  ]
+}

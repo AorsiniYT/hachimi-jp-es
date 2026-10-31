@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es el primer día de regreso a la escuela después\nde las vacaciones, pero Seiun Sky parece un poco\ninestable al caminar."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "<i>Bostezooo...</i>"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Bueno, hola, Entrenador. Mi batería ya está sin\ncarga.",
+      "choice_data_list": [
+        "¿No dormiste nada?",
+        "¿No dormiste nada?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Bueno, cada vez que iba a algún lugar a descansar,\nme encontraba queriendo hacer cosas en su lugar."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ayer mismo estaba leyendo un libro famoso sobre\nestrategias de guerra. Era bastante fascinante."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "De hecho, había una parte donde..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Uhh... Hm, mi cabeza no está funcionando."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hoy está aún más somnolienta de lo normal."
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Fuji Kiseki y yo nos dirigimos de regreso a casa\ndespués de un día fuera."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Quiero agradecerte adecuadamente por acompañarme a\nesa exposición hace un tiempo."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Qué te parece si vamos a ese evento que estaba en\nel folleto sobre tu escritorio?"
+    },
+    {
+      "text": "Recuerdo ese folleto. Aparentemente, están\norganizando una experiencia de \"escape room\"\ninmersiva en el centro comercial."
+    },
+    {
+      "text": "Los participantes que logren escapar de un elenco\nde zombis dentro del límite de tiempo pueden\nrecibir un premio."
+    },
+    {
+      "text": "Me llamó la atención porque la lista de premios\nincluye un nuevo modelo de zapatos diseñado\nespecíficamente para Umamusume."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Podemos ir juntos. ¡Soy una corredora bastante\nbuena, después de todo!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Te pagaré con una victoria increíble."
+    },
+    {
+      "text": "No hay forma de que pueda rechazar su oferta, así\nque nos apresuramos hacia el evento."
+    },
+    {
+      "name": "Personal del evento",
+      "text": "Se prohíben las acciones ilegales y peligrosas.\nAhora que estamos claros en eso, ¡salgan allí y\ndiviértanse!"
+    },
+    {
+      "name": "Personal del evento",
+      "text": "¿Están todos listos? ¡Comencemos!"
+    },
+    {
+      "name": "Zombis",
+      "text": "Graaah."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Wow, su maquillaje es impecable —quiero decir,\n¡qué zombis tan espeluznantes!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Todos son tan rápidos. Me pregunto si el elenco\nme—ahem, me pregunto si esos zombis eran Umamusume\ncuando estaban vivos."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Oh no, ¡allí vienen! ¡Vámonos de aquí\ncalladamente!"
+    },
+    {
+      "name": "Male Participant",
+      "text": "No, por favor, ¡no se acerquen! ¡Solo quedan diez\nminutos! ¡Gaaah!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Jajaja, ¡parece que está fuera!"
+    },
+    {
+      "name": "Female Participant",
+      "text": "¡Una horda entera viene hacia aquí! ¡Corred!",
+      "choice_data_list": [
+        "(Todos están tan emocionados con esto.)"
+      ]
+    },
+    {
+      "name": "Zombis",
+      "text": "Raaah."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Esto no se ve bien. ¡Tenemos que salir de aquí\nrápido! ¡Vamos!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "<i>Respiración agitada...</i> ¿Estás bien?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Dónde estamos? Hmm, puedo ver el primer piso\ndesde el balcón, así que debemos estar en el\nsegundo piso. Necesitamos encontrar un escondite\nrápidamente."
+    },
+    {
+      "name": "Zombis",
+      "text": "Graaah."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Nos han encontrado! ¡Rápido, por allí!"
+    },
+    {
+      "name": "Zombis",
+      "text": "Grrr."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Un ataque de pinza? ¡Esto es malo..."
+    },
+    {
+      "text": "Nos encontramos rodeados de zombis. Será difícil\npara Fuji Kiseki sola escapar, ¡mucho menos para\nlas dos!"
+    },
+    {
+      "text": "Me esfuerzo por encontrar una solución. Para\nasegurar su escape y victoria seguros, tengo\nque...",
+      "choice_data_list": [
+        "Recoger a Fuji Kiseki y saltar al primer piso.",
+        "Actuar como cebo."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Quieres saltar allí abajo?"
+    },
+    {
+      "name": "Zombis",
+      "text": "Grrr."
+    },
+    {
+      "text": "Los zombis están casi sobre nosotros. No hay\ntiempo para explicar. La tomo y la sostengo con\nseguridad."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿T-Entrenador?"
+    },
+    {
+      "text": "Salto. Y aterrizamos en el primer piso."
+    },
+    {
+      "name": "Personal del evento",
+      "text": "Wow, ¡qué escape dramático! Y tu compañera está\ncompletamente ilesa."
+    },
+    {
+      "name": "Personal del evento",
+      "text": "Desafortunadamente, las acciones peligrosas están\nprohibidas, así que ¡estás descalificado!",
+      "choice_data_list": [
+        "(Maldición, ¡me olvidé completamente de eso!)"
+      ]
+    },
+    {
+      "text": "Así, el evento termina y nos vamos con las manos\nvacías debido a mi entusiasmo excesivo."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "No me mires así. Extiende tu tobillo para que\npueda ponerte un compreso."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "No puedo creer que realmente lo hayas hecho. Si me\nhubieras dicho qué planeabas hacer, podría\nhaber..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Oh."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Me llevaste y saltaste porque no querías que me\nlastimara las piernas, ¿verdad?",
+      "choice_data_list": [
+        "B-bueno..."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Todo tiene sentido ahora... Me preguntaba por qué\nestabas siendo tan insistente."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Dios mío... Realmente eres algo especial."
+    },
+    {
+      "text": "Su expresión tierna contradice sus palabras duras."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Suelo ser la que protege a los demás, no la que es\nprotegida..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Y en los casos raros en que he sido protegida,\nsiempre me sentí tan mal por ello."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Pero contigo... No sé qué es, pero se siente\ndiferente contigo."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Siento nada más que alegría en este momento.\nGracias por protegerme. De todo corazón."
+    },
+    {
+      "text": "Se acerca a mí..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Aparte de eso, todavía estás herido. Como castigo,\nte daré un paseo a caballo todo el camino de\nregreso a casa.",
+      "choice_data_list": [
+        "E-espere"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Deja de revolcarte. Esto es lo que obtienes por\nser tan imprudente."
+    },
+    {
+      "text": "Fuji Kiseki camina hacia el atardecer conmigo a su\nespalda. No puedo ver su rostro, pero puedo sentir\nla felicidad que emana de ella."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Tú? ¿Como cebo?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "No. Absolutamente no. No puedo permitir que hagas\neso. Si alguien va a ser cebo, será yo.",
+      "choice_data_list": [
+        "Puedes lograrlo. Puedes escapar, pero solo si vas\nsolo.",
+        "Puedes lograrlo. Puedes escapar, pero solo si vas\nsolo."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Pero...",
+      "choice_data_list": [
+        "Vete. Tienes que escapar para que puedas ganar\nesto."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Entrenador..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "No olvidaré tu sacrificio. Ganaré por tu sake."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Haaaaah."
+    },
+    {
+      "name": "Participante femenina capturada A",
+      "text": "Whoa. Parece que todos los zombies van detrás de\nla última persona... ¿qué demonios. ¿No es Fuji\nKiseki?"
+    },
+    {
+      "name": "Participante femenina capturada B",
+      "text": "Espera, ¿qué? Oh, Dios mío, es ella de verdad.\nEstá corriendo como loca."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Raaaaah."
+    },
+    {
+      "text": "Fuji Kiseki lanza un estallido final de velocidad\ny evita por poco el agarre de la horda de zombies.\nSe desliza entre ellos y gana."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Uf. Lo logré. Esos zombies eran tan rápidos, casi\nme atrapan.",
+      "choice_data_list": [
+        "Eso fue increíble."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Gracias, pero no podría haberlo hecho sin el\nhechizo que me lanzaste.",
+      "choice_data_list": [
+        "¿Qué hechizo?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿No recuerdas? Dijiste: \"Puedes lograrlo\"."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿No recuerdas? Dijiste: \"Puedes lograrlo\"."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Después de escuchar esas palabras, supe que <i>tenía</i>\nque lograrlo. Tenías tanta fe en mí, que no podía\ndecepcionarte.",
+      "choice_data_list": [
+        "Fuji..."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Jeje. Tus palabras tienen un poder mágico literal\nsobre mí."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Me dieron mucha más fuerza de la que podría haber\nimaginado. Soy invencible siempre y cuando estés\nconmigo."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Siento que podría correr hasta los confines del\nmundo con una sola palabra mágica de aliento de tu\nparte."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "O algo así. ♪"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "En cualquier caso, este fue un evento tan\ndivertido. Deberíamos hacerlo de nuevo alguna vez."
+    },
+    {
+      "text": "Fuji Kiseki y yo planeamos nuestra próxima salida\njuntos mientras nos dirigimos lentamente a casa."
+    }
+  ]
+}

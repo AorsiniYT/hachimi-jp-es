@@ -1,0 +1,170 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mejiro McQueen y yo estamos de regreso a la\nacademia después de hacer algunos mandados,\ncuando..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Tengo un favor que me gustaría pedirte hoy."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Bueno... Antes, hablamos sobre cómo disfruto las\npelículas, ¿verdad?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Quiero que salgas conmigo hoy también, pero para\nalgo diferente. Lo-que quería decir es..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ahh, ¡no puedo decirlo! ¿Solo me acompañarías por\nahora?",
+      "choice_data_list": [
+        "Por supuesto, ¡me encantaría!",
+        "Por supuesto, ¡me encantaría!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con una sonrisa y un asentimiento, acepto ir con\nella."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Aquí estamos. La verdad es... este es un lugar que\nadoro.",
+      "choice_data_list": [
+        "¿Te refieres a este parque de atracciones?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No. Aunque ciertamente deseara que fuera un\ninterés tan encantador como ese."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Es el lugar junto al parque de atracciones el que\nme gusta, no el parque en sí..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Puedes oírlo? ¿El sonido de los vítores?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una ronda de vítores resuena desde el cercano\nestadio con cúpula. En otras palabras..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Sí! Me encanta ver béisbol. En particular, me\nencanta ver partidos en el estadio."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Cuando veo desde detrás del plato de home, me\nsiento tan vergonzosamente revitalizada.",
+      "choice_data_list": [
+        "¿Vergonzosamente?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Sí... Empiezo a gritar, \"¡Vamos, Yutaka!\" y cosas\nasí. Antes de que me dé cuenta, mi cola empieza a\nmoverse sin control."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Estoy completamente consciente de que este tipo de\ncomportamiento no es propio de una Mejiro."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Aún así, cuando veo a mi equipo favorito, los\nVictorias, en un partido intenso, yo... ¡Ahhhh!",
+      "choice_data_list": [
+        "¿E-estás bien?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No... estoy. De repente me siento abrumada por la\nemoción."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ya no puedo contenerme. ¡Por favor, Entrenador!\n¡Ven a ver el partido conmigo!",
+      "choice_data_list": [
+        "¡Claro, me encantaría!",
+        "¡Claro, me encantaría!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Sabía que dirías eso!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Muy bien, entonces. Entremos al estadio. ¡Sígueme!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro McQueen inmediatamente toma mi mano y echa\na correr. Parece realmente feliz."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Uf... ¡Eso fue realmente emocionante! Um..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Estoy segura de que te sorprendiste hace un\nmomento. Mi comportamiento durante el partido no\nfue propio de mí.",
+      "choice_data_list": [
+        "¡Estabas animando tan fuerte!",
+        "¡Seguro que te gusta girar tu toalla en el aire!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "La emoción de alguna manera toma el control.\nObtengo toda esta fuerza y puedo gritar\ndirectamente desde mi diafragma."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "La próxima vez... Me gustaría que animaras\nconmigo. Es vergonzoso hacerlo sola."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Oh sí, ¡me encanta hacer eso! Me siento como una\nniña pequeña, girándolo una y otra vez."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "La próxima vez, me gustaría que tú también lo\nhagas. Te enseñaré cómo, por supuesto."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "En cualquier caso... esto estuvo bien. Nunca pensé\nque alguien aceptaría ver un partido de béisbol\nconmigo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Poder compartir la alegría de la victoria con\nalguien mientras caminamos a casa juntos es algo\ncon lo que solo he soñado."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Me alegra de haber arriesgado e invitado.",
+      "choice_data_list": [
+        "Oye, somos compañeros de batería, tú y yo.",
+        "Oye, somos compañeros de batería, tú y yo."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Compañeros de batería? ¿Quieres decir que somos\nlanzador y receptor?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Hehe. De hecho, tienes razón. Estamos\nsincronizados el uno con el otro en este juego\nfigurado de atrapar y lanzar."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Pero ya que lo dijiste, no quiero que lo olvides.\nSi somos compañeros de batería, eso significa que\njugamos para el mismo equipo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Quiero que aceptes cualquier secreto que elija\ncompartir. Incluso los más vergonzosos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras dice esto, Mejiro McQueen desvía la\nmirada un poco. Debe haber algunas cosas que aún\nno puede compartir."
+    }
+  ]
+}

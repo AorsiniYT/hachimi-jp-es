@@ -1,0 +1,263 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Finalmente, es hora de que comiencen las pruebas.\nParece que Smart Falcon participará en la carrera\nde 1.600 metros en pista de césped."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "<i>Suspiro...</i> Espera, no. Tengo que ser positiva y\nsonreír con brillantez —como una verdadera Umadol."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Pero todavía... ¿Y si fracaso de nu—no. No puedo\npermitir que piense de esa manera. He estado\nentrenando súper duro. Estoy segura de que estaré\nbien esta vez."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella todavía parece insegura de sí misma cuando\ncomienza en la puerta de salida."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Yaaaah."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque corre lo más rápido que puede, los\nentrenadores que la observan siguen sin\nimpresionarse."
+    },
+    {
+      "name": "Skilled Trainer",
+      "text": "Smart Falcon está aquí de nuevo, ¿eh. Entiendo que\nestá haciendo su mejor esfuerzo, pero hay algo que\nfalta en su carrera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al igual que dice el otro entrenador, Smart Falcon\nparece estar luchando en la pista."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "<i>Haa... Haa... Suspiro...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "De los doce participantes en la carrera, Smart\nFalcon termina en décimo lugar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque su posición es menos que ideal, el poder en\nsu forma de correr llamó mi atención. No es que le\nfalte algo a su carrera, sino más bien."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Oh, estás aquí. Aaah, probablemente me vi muy\ntonta allá atrás. Lo siento por eso."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Pero, escuché que a la gente le gusta animar al\nunderdog. Sabes, porque es agradable verlos\ncrecer.",
+      "choice_data_list": [
+        "Supongo..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Comienzo a sospechar que no se trata de\ncrecimiento, sino de compatibilidad. Dado su\nestilo de carrera, una pista de tierra podría ser\nmás adecuada para ella."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...No soy buena, ¿eh.",
+      "choice_data_list": [
+        "¿Mmm."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Para ser honesta, no fue solo hoy. Arruiné todas\nmis otras pruebas también. No tengo nada que\nmostrar, así que nadie quiere contratarme."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Sé que no tengo mucho a mi favor, pero todavía...\nQuiero convertirme en la mejor Umadol de todas."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Es mi sueño ganar carreras y realizar conciertos\nde victoria en los escenarios más grandes. Pero no\npuedo hacerlo sola."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Por eso... Necesito tu ayuda para alcanzar mi\nobjetivo."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Por favor, ayúdame. Incluso una sola sesión de\nentrenamiento significaría mucho para mí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus palabras son sinceras, y puedo ver que quiere\nnada más que lograr sus sueños. Naturalmente, como\nentrenador, quiero ayudarla.",
+      "choice_data_list": [
+        "...Okay."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Eh. De verdad. Como, de verdad. <i>Suspiro...</i> Me\nalegra haberle pedido ayuda."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "No puedo esperar para empezar a entrenar contigo.\n¡Vamos. Cualquier cosa que sea, la haré. Sin\nreservas, ¿de acuerdo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por ahora, decido dejar de lado la pregunta de si\nme convertiré o no en el entrenador de Smart\nFalcon y me enfoco en prepararla para la próxima\nronda de pruebas."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Grrr... Gnnngh. Hrnng. ☆"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Wow, mira cómo hace esos curls de pierna!Esas\npesas se ven <i>súper</i> pesadas! Su sonrisa me da un\npoco de miedo, la verdad..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Listo. Estoy lista para correr. ☆ Hiyayayayaaah."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No veo problemas con su levantamiento de pesas o\ncarrera en cuesta. De hecho, parece más fuerte que\nel corredor promedio. Sin embargo."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "<i>Haa... Haa...</i> ¿Cómo estuvo mi tiempo.",
+      "choice_data_list": [
+        "Puede mejorar un poco.",
+        "Puede mejorar un poco."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "<i>Suspiro...</i> Oof... No estoy mejorando."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cada vez que corre en una pista de césped, sus\nresultados siempre son mediocres. Mi corazonada\nparece ser correcta en que se trata de un problema\nde compatibilidad.",
+      "choice_data_list": [
+        "Oye...",
+        "Oye..."
+      ]
+    },
+    {
+      "name": "Grupo de Umamusume",
+      "text": "Ahhhh. Suzuka. Aquí."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Um... Disculpa, pero tengo que entrenar para la\ncarrera de mañana."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rodeada por los vítores de las Umamusume\nemocionadas, Silence Suzuka parece algo\npreocupada. Ya debutó y ha mostrado un desempeño\nimpresionante en varias carreras."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Hey, ustedes... ☆ Entiendo que son grandes\nfanáticos de ella, pero tienen que darle algo de\nespacio.",
+      "choice_data_list": [
+        "(¿¡Cómo llegó allí tan rápido?!)"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Suzuka se está preparando para entrenar para\nbrillar en su próxima carrera. Los verdaderos\nfanáticos deberían ser pacientes y esperar a verla\nentonces, ¿no creen?"
+    },
+    {
+      "name": "Grupo de Umamusume",
+      "text": "Tiene razón... Lo siento por molestarla."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Gracias, Falcon... No estaba segura de qué hacer\nallí..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Llámame Falco. ☆ Si alguna vez estás en esa\nsituación de nuevo, solo hazte escuchar. ¡Ellos\nescucharán, te lo prometo! ♪"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Pero estoy segura de que tú lo sabes mejor que\nyo...",
+      "choice_data_list": [
+        "(...?)"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "De todos modos, tienes práctica, ¿verdad? ¡Buena\nsuerte! ☆ También estaré animándote a ti. ♪"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Así que... ¿¡podrías explicar por qué estamos aquí\nen la pista de tierra?!",
+      "choice_data_list": [
+        "Solo quiero cronometrar tu carrera aquí también."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Creo que un curso que requiere poder —en otras\npalabras, un curso de tierra— podría ser más\nadecuado para Smart Falcon. Le digo que me\ngustaría confirmar mis sospechas."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Hmmm... Entendido. Pero... no esperes demasiado de\nmí, ¿okay?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Hiyayayayaya!",
+      "choice_data_list": [
+        "(Esa velocidad... Es increíble.)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tenía razón. Su tiempo en la pista de tierra es\nmucho mejor. Ha cumplido —no, <i>superado</i> mis\nexpectativas."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "<i>Haa... Haa...</i>",
+      "choice_data_list": [
+        "Ese fue tu mejor tiempo hasta ahora.",
+        "Ese fue tu mejor tiempo hasta ahora."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todo está encajando en su lugar. Ahora sé con\ncerteza que correr en una pista de tierra, que\nrequiere más fuerza que agilidad, saca a relucir\nsu verdadero potencial."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero con eso, surge una nueva pregunta. ¿Por qué\nno han notado sus maestros algo tan elemental como\nesto y se lo han dicho?",
+      "choice_data_list": [
+        "Deberías correr en carreras de tierra."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Hrk... Pensé que dirías eso."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Pero... ¡no! ¡No puedo! ¡No puedo correr en\ntierra!",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Tengo que ganar en césped o todo esto es inútil.\nNo tengo otra opción."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "B-bueno, tengo práctica de baile ahora, así que\n¡hasta aquí! ¡Gracias por hoy!",
+      "choice_data_list": [
+        "Ah..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al ver a Smart Falcon volar sobre la tierra, me\npregunto por qué insiste en correr en césped. Su\nrazón podría ser clave para su crecimiento."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Eishin Flash",
+      "text": "Gracias. Estoy muy contenta de recibir tantos."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Los decoraré en mi habitación y le enviaré una\nfoto a mis padres. ¡Jeje! Tengo tantos nuevos\namigos."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Dicho esto, no tengo espacio para tantos peluches\nen mi habitación.",
+      "choice_data_list": [
+        "¿Estarás bien?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Deberían caber si reorganizo mis muebles y hago un\nuso más eficiente del espacio de la habitación."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Debo regresar a casa y tomar medidas. Esto será\ndivertido."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡No podría haber salido mejor!"
+    }
+  ]
+}

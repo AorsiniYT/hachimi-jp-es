@@ -1,0 +1,255 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy es el Día de San Valentín. Sin embargo, por\nalguna razón..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Vamos a jugar a las escondidas, Entrenador! ¡Tú\ncontra yo!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Y tú cuentas primero!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Ding!</i>"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Comenzando... ¡ahora!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nuestro juego de las escondidas comienza."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Crees que puedes atraparme dentro del límite de\ntiempo? Si puedes, ¡tengo un chocolate especial\npara ti!",
+      "choice_data_list": [
+        "¿Y si no puedo?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Si no puedes, tienes que comer frijoles."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No estoy muy seguro de por qué tengo que atraparla\npara conseguir chocolate o por qué tengo que comer\nfrijoles si no lo hago. Misteriosas como son las\nreglas, comenzamos el juego."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "<i>Haa... Haa...</i> Bueno, Entrenador?! ¿Te rindes?",
+      "choice_data_list": [
+        "¡Todavía no!"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Oooh, ¡tienes agallas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las Umamusume ciertamente tienen una resistencia\nincreíble. Cansado y apenas consciente, extiendo\nmi mano."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Whoa! ¿A dónde crees que estás agarrando?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mis dedos atrapan la máscara de El Condor Pasa\ny..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Agh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...se la quito. La cara de El Condor Pasa está\nroja como un tomate."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "N-no me mires, por favor. Quitarme la máscara es\ncontra las reglas...",
+      "choice_data_list": [
+        "¿Por qué estás tan roja?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "P-porque... Yo... Yo estoy avergonzada, ¿vale?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Nunca le he dado chocolate a nadie antes. Pensé\nque sería más natural si simplemente me atrapabas\ny los tomabas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así que esto se suponía que era natural... Parece\nque desafiarme a un juego de las escondidas fue su\nforma de esconder su vergüenza."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Aunque solo fue el borde de mi máscara, me\nganaste, así que... Tú ganas."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Así que... aquí está tu chocolate. Lo hice yo\nmisma."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de recibir un regalo tan dulce y hecho a\nmano, no puedo evitar abrirlo y probarlo de inme—",
+      "choice_data_list": [
+        "¡Aaaagh! ¡Caliente! ¡Está muy caliente!"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Entrenador?! ¿Estás bien? ¿Estás vivo?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡<i>Pensé</i> que quizás puse demasiado<jalapeño en él!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estos chocolates podrían considerarse los más\nfuertes del mundo a su manera. Este es\nverdaderamente un emocionante Día de San Valentín."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estos chocolates podrían considerarse los más\nfuertes del mundo a su manera. Este es\nverdaderamente un emocionante Día de San Valentín."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y luego..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Okay, Entrenador! ¡Lo siguiente es la cita de San\nValentín!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Vamos a dar un paseo nocturno apasionado en el\nparque!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No estoy de un humor particularmente apasionado,\npero un paseo podría ser bueno."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Oye, ¿has visto algo fuera de lo común? Nunca se\nsabe si alguien va a intentar escaparse en el Día\nde San Valentín."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Atrapa a cualquiera que intente salir, ¿vale? No\npodemos dejar que incluso una persona se nos\nescape."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Es la Vicepresidenta Air Groove!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ella es dura... como una víbora! Si te atrapa, no\nsuelta! ¡Simplemente aprieta y aaprieta!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Es esto todo para nosotros?! ¿Es hasta aquí\nllegamos?! ¿Deberíamos rendirnos en nuestra cita?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Salir de noche sin permiso está estrictamente\nprohibido, incluso cuando se está acompañado por\nun entrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Groove también es dura. Es poco probable que\nmire hacia otro lado. A menos que...",
+      "choice_data_list": [
+        "¿Por qué no intentamos darle eso-que-sabes?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "...¿Qué?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Ohhh, ¿quieres decir <i>eso!</i>"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Air Groove! ¡Feliz Día de San Valenteeen! ♪"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Traje algunos chocolates nutritivos y ricos para\nmi vicepresidenta favorita que trabaja demasiado!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Hm? Oh, El Condor Pasa. No me importa si tomo..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¡Guh! ¿Q-q-qué es esto?! ¡Está muy picante!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "¡Tú! ¿Me <i>envenenaste</i>?!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡No te preocupes! ¡El picante es adictivo!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ahora es nuestra oportunidad, Entrenador.\n¡Volemos!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "<i>Haa... Haa...</i> ¡Bueno! ¡Eso estuvo muy divertido!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Tu corazón también está palpitando?",
+      "choice_data_list": [
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Jejeje, salir de un apuro así juntos fue algo\nespecial..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Siento que realmente nos hemos acercado. ¿Esto no\nse llama..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Se llama el efecto puente colgante. Al parecer,\nexperimentar algo aterrador juntos puede acercar a\ndos personas."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ah, el efecto techo suspendido!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Si hacemos más cosas emocionantes, nos\nacercaremos mucho!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Te... gustaría hacer un montón de techos\nsuspendidos conmigo hoy?",
+      "choice_data_list": [
+        "C-claro!",
+        "C-claro!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es la noche del Día de San Valentín y la atmósfera\nes inusualmente dulce..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mentalmente, El Condor Pasa me ha dado una\nconstante serie de techos suspendidos."
+    }
+  ]
+}

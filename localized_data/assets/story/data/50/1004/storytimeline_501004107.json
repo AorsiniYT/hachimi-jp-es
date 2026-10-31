@@ -1,0 +1,158 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El Día de San Valentín ha llegado de nuevo, y la\nacademia está envuelta en emoción. Pero no todos\nse sienten festivos..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "<i>Suspiro...</i> Este día siempre me pone un poco\ntriste...",
+      "choice_data_list": [
+        "¿Pasó algo?",
+        "¿Pasó algo?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Sí, y fue un total bajón... Fue durante el\nintercambio de chocolates el año pasado."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Quería hacer felices a las estudiantes más\njóvenes, así que trabajé muy duro en sus regalos."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Intenté impresionar a todos haciendo ganache, que\nen ese momento pensé que era lo más cool..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Todos estaban tan felices, pero no me di cuenta de\nla verdad hasta más tarde—¡el gran boom del\nganache ya había llegado y se había ido para\nsiempre!",
+      "choice_data_list": [
+        "Pero a todos les gustó, así que salió bien,\n¿verdad?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡No, no estuvo bien! ¡Quería que todos disfrutaran\nde lo nuevo y genial!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Siempre intento estar al tanto de las tendencias\nmás geniales, así que fallar así fue\nmortificante..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No creo que Maruzensky esté desactualizada\nlimitándose solo a este caso..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Por eso no tengo chocolate para ti, Entrenador.\nSimplemente no podía soportar que algo así\nvolviera a pasar."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Por eso no tengo chocolate para ti, Entrenador.\nSimplemente no podía soportar que algo así\nvolviera a pasar."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...¿Estás decepcionado?",
+      "choice_data_list": [
+        "Un poco..."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Jeje! ¡Broma! ¡Solo bromeaba! ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Siempre eres tan bueno conmigo, así que por\nsupuesto te voy a dar algo!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Anda, vamos a comprarte algo de chocolate!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pensé que solo íbamos a comprar chocolate, pero\nparece que estamos conduciendo a un lugar donde\nnunca he estado..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Bueno, este es el lugar!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Hay montones de tiendas diferentes aquí, así que\nelige el chocolate que quieras!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Si escoges tu propio chocolate, no tendré que\npreocuparme por cuál está de moda ahora mismo!",
+      "choice_data_list": [
+        "¿Quieres que yo escoja mi propio chocolate? ¿Estás\nseguro?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Si escoges tu propio chocolate, no tendré que\npreocuparme por cuál está de moda ahora mismo!",
+      "choice_data_list": [
+        "¿Quieres que yo escoja mi propio chocolate? ¿Estás\nseguro?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡No te preocupes! ¡Solo piensa que estamos de\ncompras juntos!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "No seas tímido. ¡Escoge lo que quieras! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Maruzensky y yo nos divertimos mucho escogiendo\nchocolate juntos."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Esto no es <i>cualquier</i> chocolate, que conste. ¡Es un\ndulce artesanal casero!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Así puedo mostrar mi agradecimiento sin\npreocuparme por lo que está de moda ahora!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Estaba prácticamente saltando por la habitación\ncuando lo hacía! ¡No dejaba de imaginarme tu cara\nfeliz cuando lo comes! ♪",
+      "choice_data_list": [
+        "¡Muchas gracias!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Ehehe! ¡De nada!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...Así que, Entrenador, ¿dónde está tu zapatero?",
+      "choice_data_list": [
+        "Espera, ¿mi qué ahora?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...Así que, Entrenador, ¿dónde está tu zapatero?",
+      "choice_data_list": [
+        "Espera, ¿mi qué ahora?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Sabes, cuando le das chocolate a alguien, lo pones\nen su zapatero, ¿verdad?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Lo hice del tamaño exacto para que quepa! Así que\nvamos, ¿dónde está?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es una forma bastante anticuada de recibir un\nregalo, pero aun así estoy agradecida."
+    }
+  ]
+}

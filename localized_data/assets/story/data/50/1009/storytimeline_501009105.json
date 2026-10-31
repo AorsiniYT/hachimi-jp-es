@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy es el primer día del campamento de verano."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Escuchaste? Vodka viene al campamento esta vez."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Suspiro...</i> Y esta era la oportunidad perfecta para\nadelantarme a ella también. Justo mi suerte..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Supongo que esto significa que empezamos en el\nmismo campo de juego—sin ventajas para ninguno."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Tendré que darlo todo en el Tenno Sho de otoño\npara vencerla y convertirme en número uno.",
+      "choice_data_list": [
+        "¡Hagamos lo mejor!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Este verano, voy a entrenar más duro que nunca!\n¡Haré lo que sea necesario para convertirme en la\nUmamusume número una!"
+    }
+  ]
+}

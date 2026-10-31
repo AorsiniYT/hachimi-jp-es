@@ -1,0 +1,93 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "¡Por fin, los Sprinters Stakes están aquí!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Ohohoho! ¡Mira, Entrenador!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Mira con qué orgullo está representada mi imagen\nen el póster de allá!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Pero... está un poco torcido. Voy a ir a\narreglarlo."
+    },
+    {
+      "name": "Reportera",
+      "text": "¡Oye! ¿King Halo realmente está en el lugar?!"
+    },
+    {
+      "name": "Reportera",
+      "text": "¡Ah! ¡Ahí está! ¡Allá! ¡Grábala en cámara, rápido!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Oh, me han descubierto.",
+      "choice_data_list": [
+        "Parece que sí.",
+        "Parece que sí."
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Jeje, no debería sorprenderme."
+    },
+    {
+      "name": "King Halo",
+      "text": "Puede ser inconveniente, pero mi majestuosa aura\nde primera nunca deja de brillar incluso entre las\nmultitudes más densas."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Vamos, Entrenador! ¡Vamos!"
+    },
+    {
+      "name": "Espectador A",
+      "text": "Oh, ¿esa es King? Hombre, celebridades como ella\ndefinitivamente hacen que las multitudes se\nemocionen."
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Jaja! ¡Como debe ser! ¡Oye, Kiiing! ¡Danos una\nvictoria impresionante allá!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Por supuesto que lo haré! ¡Déjalo en mis manos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos apresuramos a la sala de espera."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Bienvenidos todos! Finalmente estamos aquí para\ndecidir quién será coronado vencedor este otoño en\nel sprint!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Aquí viene la corredora en la que todos tenemos\npuestos los ojos, la que dominó a principios de\neste año en primavera! ¡La reina—¡digo, el Rey!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Ohohoho! ¡Así es! Toda la atención por derecho me\npertenece!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡King Halo, la Umamusume de primera!",
+      "choice_data_list": [
+        "¡Sal ahí y gana!",
+        "¡Sal ahí y gana!"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Por supuesto! ¡Mi victoria es segura!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Podríamos disfrutarnos y bañarnos en los vítores y\nalabanzas de la multitud."
+    }
+  ]
+}

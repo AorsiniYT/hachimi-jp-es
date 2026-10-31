@@ -1,0 +1,94 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Retrocedamos un poco en el tiempo a los eventos\njusto después del Kikuka Sho."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Fuji Kiseki lo ha logrado! ¡Ha ganado la Triple\nCorona tal como prometió que haría!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Entrenador!",
+      "choice_data_list": [
+        "¡Felicitaciones por obtener la Triple Corona!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Gracias!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Todos tenían sonrisas tan hermosas!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Vaya, ¡no sé qué hacer conmigo misma! Perdón,\n¡estoy tan emocionada! ¡Será mejor que me calme!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Bien, respira... Respira..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Mmm. Bien.",
+      "choice_data_list": [
+        "¿Te sientes mejor?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Sí, un poco. Pero aún así, ¡esto es como un sueño!\nNo puedo creer que realmente haya alcanzado la\ncima."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "No me malinterpretes, ¡la apunté con todo mi\ncorazón!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Realmente quería darle a todos una gloriosa\nsensación de catarsis al obtener la Triple Corona!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Pero aunque hacía todo lo posible, tenía miedo de\nno poder lograrlo.",
+      "choice_data_list": [
+        "Trabajaste muy duro.",
+        "Trabajaste muy duro."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Jeje. ¡Gracias! Y gracias por todo lo que has\nhecho tú también.",
+      "choice_data_list": [
+        "No hay de qué."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hemos trabajado duro, ¡pero la Serie Twinkle aún\nno ha terminado!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ahora que he ganado la Triple Corona, la gente\nesperará aún más de mí. ¡Tendré que empezar a\nentrenar más duro que nunca."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Confiarás en mí y continuarás este viaje a mi\nlado?"
+    },
+    {
+      "text": "Ella extiende su mano derecha cordialmente. Sin\ndudar, la tomo.",
+      "choice_data_list": [
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Jajaja! ¡Qué gran respuesta! Nunca cambies,\nEntrenador. ¡Nunca cambies!"
+    },
+    {
+      "text": "¡Habiendo cumplido el milagro de ganar la Triple\nCorona, ahora debemos seguir corriendo hacia\nalturas aún mayores!"
+    }
+  ]
+}

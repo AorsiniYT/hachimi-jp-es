@@ -1,0 +1,84 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras camino por el pasillo, noto a\nRice Shower viéndose bastante melancólica."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Oh... ¿Qué hago? ¿Qué hago...",
+      "choice_data_list": [
+        "¿Pasó algo?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Eeep! O-oh, ¡hola!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Um... No pasó nada, pero... Bueno, el pronóstico\ndel tiempo dice que habrá lluvia fuerte mañana."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Planeaba entrenar mucho mañana ya que tengo una\ncarrera próximamente, pero ahora... Oh, no sé qué\nhacer!",
+      "choice_data_list": [
+        "¡Alquila el gimnasio y corre allí!",
+        "¡Haz algunos muñecos de sol para alejar la lluvia!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No será lo mismo que correr en una pista, pero le\nsugiero que entrene en el gimnasio para que pueda\npracticar su aceleración en sprints rectos."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Eso podría funcionar! ...¡Oh!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pero si lo alquilo para mí, ¿eso no significa que\nnadie más podrá usar el gimnasio?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sugiero que invite a otras Umamusume a entrenar\ncon ella, y parece mucho más feliz con la idea\ndespués de eso."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Sí, eso tiene sentido! ¡Gracias por tu\nsugerencia! ¡Ehehe, estoy emocionada por correr\nmañana!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y con eso, su sesión de entrenamiento sale sin\nproblemas."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Esa es una gran idea! Estoy segura de que el\ncielo se despejará si hacemos muchos."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hagamos unos muy lindos. Quiero hacer uno azul..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Oh! Pero... No, esto no funcionará..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Si los hago, probablemente solo traigan una\ntormenta completa sobre nosotros en su lugar...",
+      "choice_data_list": [
+        "No te preocupes. Yo también haré un montón de\nellos.",
+        "No te preocupes. Yo también haré un montón de\nellos."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿En serio? ¡Qué alivio! ¡Estoy segura de que\nfuncionarán bien si <i>tú</i> lo haces! ¡Haré los mejores\nmuñecos de sol que pueda!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El cielo debió haber escuchado las súplicas de\nRice Shower, porque no hay una sola nube a la\nvista al siguiente día."
+    }
+  ]
+}

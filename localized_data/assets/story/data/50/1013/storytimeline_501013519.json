@@ -1,0 +1,44 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mejiro McQueen",
+      "text": "E-entonces, si me disculpas."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>Haa... Haa...</i>",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿E-Entrenador?! N-no es nada, ¡te lo aseguro!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Todos en el salón estaban contando historias\nt-terroríficas, así que corrí—quiero decir..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Tenía algunos asuntos urgentes que atender que no\npodían esperar, así que me fui!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Qué lástima! ¡Tantas ganas tenía de escuchar más\nde esas historias de terror!",
+      "choice_data_list": [
+        "...¿Estás tratando de fingir valentía?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡N-no estoy haciendo tal cosa! ¡Estoy\ncompletamente tranquila y serena!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella jura que está bien, pero parece estar fuera\nde sí por un buen rato después."
+    }
+  ]
+}

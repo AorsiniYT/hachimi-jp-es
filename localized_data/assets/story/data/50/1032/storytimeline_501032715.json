@@ -1,0 +1,105 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Agnes Tachyon",
+      "text": "Uf... Bueno, supongo que eso es todo por hoy,\n¿verdad?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Voy al laboratorio ahora. Y hablando de los\npreparativos para el experimento de mañana,\nEntrenador..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Oh, mira, es Ayabe. ¿Estás a punto de comenzar el\nentrenamiento?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...¿No es obvio?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hm... Ya veo."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡He decidido, Entrenador! ¡Voy a continuar el\nentrenamiento!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Junto con Ayabe!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Juntos? Nunca dije que quisiera entrenar contigo."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Oh, no me hagas caso. ¡Solo voy a correr contigo,\nno es gran cosa!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...Eres el entrenador de Tachyon, ¿verdad? ¿No vas\na detenla?",
+      "choice_data_list": [
+        "Síguele el juego un poco, ¿vale?",
+        "Voy a hablar con ella para que cambie de idea."
+      ]
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ah..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Buena decisión. ¡Al fin y al cabo, hago lo que\nquiero!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¡Y lo que <i>yo</i> quiero?!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Por fin tengo la oportunidad de observar a Ayabe\ncorrer de cerca."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¡Oye, ¿me estás siquiera escuchando?!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Vamos, no seas tímido! ¡Corre tan rápido como\npuedas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agnes Tachyon se niega a dejar a Admire Vega sola\ny decide quedarse para un poco de entrenamiento\nextra."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Qué es eso? Ni siquiera tienes el derecho a—"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Gracias. Adiós."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Ah!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...Se ha ido. Y yo que pensé que podría observarla\nde cerca con cuidado."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Es toda tu culpa, Entrenador! ¡Me debes!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de las quejas de Agnes Tachyon,\ncompletamos con éxito el entrenamiento del día."
+    }
+  ]
+}

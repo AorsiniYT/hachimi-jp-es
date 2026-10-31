@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Puedo preguntarte qué te pareció mi carrera hoy?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En su mayor parte, ella estaba tan segura como\nsiempre en la pista..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero ahora que lo pienso, ella podría haber lucido\nun poco cansada.",
+      "choice_data_list": [
+        "Parecías estar luchando un poco."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Entonces pensaste lo mismo... Quizás debería\nempezar a prestar más atención a las necesidades\nde mi cuerpo y darme un poco de descanso."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "No es que sea tu culpa, por supuesto. Ambas nos\nhemos estado esforzando demasiado últimamente."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ambas debemos esforzarnos por mantenernos en la\ncima de nuestro juego."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Symboli Rudolf tiene un punto. Podría ser sabio\nreconsiderar nuestro horario."
+    }
+  ]
+}

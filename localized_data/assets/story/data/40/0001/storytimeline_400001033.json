@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Reporter Otonashi",
+      "text": "Por fin, las semifinales están aquí."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "El URA Finale seguramente verá el comienzo de\nnuevas y dramáticas historias."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Entrenador, ¿cómo te sientes al enviar a tu\nUmamusume a la pista?",
+      "choice_data_list": [
+        "Sé que ganará."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡S-simplemente asombroso!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Incluso frente a las talentosas corredoras que\npasaron las preliminares, nunca dudas de ella por\nun momento!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Al ganar, le darás el trato más lujoso: elogios\ninfinitos, agradecimientos y una fiesta en hotel\nde lujo."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Y por supuesto, también animaré a <chrname>!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Por fin, comienzan las semifinales del URA\nFinale!"
+    }
+  ]
+}

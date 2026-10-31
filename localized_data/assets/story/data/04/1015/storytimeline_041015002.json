@@ -1,0 +1,207 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, T.M. Opera O me llamó para que\nfuera a \"presenciar el régimen de entrenamiento\nmás regio\"."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No tengo idea de qué tipo de práctica hace\nnormalmente... Pero antes de que tenga tiempo de\npensarlo realmente, llego a mi destino."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Je, je, justo a tiempo. Que comience el\nentrenamiento ahora.",
+      "choice_data_list": [
+        "¿En un estudio de danza?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Por qué la sorpresa? Creo que dije que vamos a\nentrenar. ¿Dónde más iría uno?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ahora, retrocedan y <i>contemplen.</i>"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Uno, dos, aaaay... ¡TRES!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ah! Bailo con tanta belleza como un cisne."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "A veces elegante... ¡A veces dramático! Esa es la\nseñal para el trueno—<i>¡baboom!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La actuación de Opera O continúa mientras estoy\nallí desconcertado..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Qué tiene que ver todo esto con el entrenamiento?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Je, je... Eso debería ser suficiente. Adelante,\npuedes dar tu crítica entusiasta ahora.",
+      "choice_data_list": [
+        "Eh, me falta el vocabulario en este momento...",
+        "Eh, me falta el vocabulario en este momento..."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Qué... Estabas incluso mirando?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Bueno, no hay necesidad de preocuparse.\nEntendiblemente, necesitas tiempo para asimilar mi\nvisión artística. Ahora, a mi próximo\nentrenamiento."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "El agua es clara como un diamante brillante... Es\ncomo si mi llegada hubiera sido bendecida.",
+      "choice_data_list": [
+        "¿Entonces, qué estamos haciendo en la piscina?",
+        "¿Entonces, qué estamos haciendo en la piscina?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿No ves? Debo adoptar la pose perfecta en el\naire... Espera mi gloria."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras sus palabras aún se desenredan en mi\nmente, Opera O sube a la plataforma de saltos y\nsalta desde la parte superior."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Atención! ¿Qué baila a través de los cielos con\nla gracia de una golondrina? ¡Soy yo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Chapoteo!</i>"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ja, ja, ja! Espero que mi radiación no te haya\ncegado."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "<i>Haa... Haa...</i> La última parada en la gira de\nentrenamiento de hoy está justo en lo alto de esta\nescalera."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Y hemos llegado.",
+      "choice_data_list": [
+        "¿Qué estamos haciendo ahora?",
+        "¿Qué estamos haciendo ahora?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Obviamente, estamos haciendo una visita al\nsantuario."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Tintineo!</i>"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Que mi belleza llene el mundo entero de\nfelicidad..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Que mi belleza llene el mundo entero de felicidad."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Así es como decimos nuestras oraciones en el\nsantuario."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ahora, vámonos rápidamente de regreso a la escuela\nantes de que los cielos se vuelvan airados por\nenvidia de mí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con su estilo único de preparación completado,\nhemos regresado a la academia. Tal vez ahora\npodamos hacer algo de trabajo real..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ja, ja, qué día de entrenamiento más valioso ha\nsido."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Qué dices? Después de pasar el día juntos, ¿has\nllegado a comprender mi brillantez?",
+      "choice_data_list": [
+        "¿No quieres hacer entrenamiento normal?",
+        "¿No quieres hacer entrenamiento normal?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Entrenamiento normal? Mi amigo ingenuo, ese <i>era</i>\nmi entrenamiento normal."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Un corte por encima del resto, sin duda. Porque\neso es lo que uno debe soportar como el Señor\nCentenario."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece estar completamente seria, pero ¿podría ser\nrealmente así como ella quiere entrenar?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Pareces tener algo que decir. Adelante, te daré la\noportunidad.",
+      "choice_data_list": [
+        "Ser el Señor significa tener que ganar carreras."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Sí, eso va sin decir. Tal vez en este mismo\nmomento, estás pensando..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "\"No ganarás si no tomas el entrenamiento en serio.\nNunca serás el Señor.\""
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Entonces déjame decirte esto, Entrenador. <i>Siempre</i>\nestoy seria."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Y este es el entrenamiento óptimo para un\ngobernante."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Está llena de tanta confianza descarada que no hay\nnada que pueda decir de otra manera."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Pareces no estar convencido..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Una terrible lástima, temo que tendremos que\ncancelar nuestro acuerdo provisional. Necesito un\nentrenador dispuesto a seguirme a mis sueños."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Lo siento por haberte hecho perder el tiempo.\nEspero que nos volvamos a encontrar algún día."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ahora, a un baño de rosas para quitarme el\ncansancio del trabajo duro. ¡Jajaja!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "T.M Opera O se va con gran estilo, pero no parece\nhaberse ofendido."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al verla irse, me invade un sentimiento de\narrepentimiento. Tal vez no debería haber hablado\nde esa manera..."
+    }
+  ]
+}

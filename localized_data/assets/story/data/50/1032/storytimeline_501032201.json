@@ -1,0 +1,35 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Agnes Tachyon",
+      "text": "Aquí estamos en una carrera de G2, el Yayoi Sho.\nLa alineación de corredores se ve bastante\nimpresionante.",
+      "color_text_info_list": [
+        "G2"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Aunque, sí siento que algo falta... en cuanto a la\nrecopilación de datos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al escuchar las palabras de Agnes Tachyon, no\npuedo evitar preocuparme un poco.",
+      "choice_data_list": [
+        "Te lo estás tomando en serio... ¿verdad?",
+        "Te lo estás tomando en serio... ¿verdad?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Por supuesto. Los resultados de esta carrera\ntendrán un impacto en el Satsuki Sho. No sería lo\nideal limitar mis posibilidades, después de todo."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Aunque no sea de nivel G1, no puedo simplemente\nentrar en esta carrera, ¿verdad?",
+      "color_text_info_list": [
+        "G1"
+      ]
+    }
+  ]
+}

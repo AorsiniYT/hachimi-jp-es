@@ -1,0 +1,60 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Air Groove nos ha mostrado hoy una carrera\nespectacular! ¡Realmente es la Emperatriz de pies\na cabeza!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Uuuuuh!</i>"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Bien. Nada mal en absoluto."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Es extraño...",
+      "choice_data_list": [
+        "¿Qué es?",
+        "¿Qué es?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Es casi como si ese terror que sentí nunca hubiera\nexistido."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ahora mismo, solo estoy emocionada de enfrentar a\nSuzuka. Mi corazón anhela el desafío.",
+      "choice_data_list": [
+        "Parece que has ordenado todos tus sentimientos.",
+        "Parece que has ordenado todos tus sentimientos."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "En efecto. Todo lo que queda es poner nuestra\nmirada en la próxima carrera de Suzuka."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Es decir, el Tenno Sho de otoño.",
+      "color_text_info_list": [
+        "Tenno Sho"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "¡Allí es donde desafiaré a Suzuka una vez más!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Solo espera, Suzuka."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¡Esta vez te desafiaré sin un ápice de miedo en mi\ncorazón!"
+    }
+  ]
+}

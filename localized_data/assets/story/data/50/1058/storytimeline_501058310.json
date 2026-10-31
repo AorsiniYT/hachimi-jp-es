@@ -1,0 +1,101 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Meisho Doto",
+      "text": "¡Lo logré... Corrí bien... Je, je, je...",
+      "choice_data_list": [
+        "¡Lo hiciste genial, Doto!",
+        "¡Lo hiciste genial, Doto!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Gracias! Entrenador, sabes... ¡Por fin me siento\nun poco más segura!"
+    },
+    {
+      "text": "Ella cumple su palabra. Esto es un gran salto en\ntérminos de crecimiento. Sin mencionar...",
+      "choice_data_list": [
+        "(Su forma de correr ciertamente ha mejorado\ntambién—eso es seguro.)"
+      ]
+    },
+    {
+      "text": "Ella se mantiene firme, incluso en una carrera de\ngrado senior de ritmo alto. Si sigue así..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Entrenador, ¿es... posible?"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Crees que puedo hacerlo ahora?! ¿Correr con Opera\nO en un G1 senior?",
+      "choice_data_list": [
+        "Sí, por supuesto.",
+        "Sí, por supuesto."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Alto ahí!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Eeeeek?! Oh..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Aún no puedes correr con Opera O. Todavía hay un\noponente al que debes derrotar!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "El cielo me llama, con Buda como testigo.\n¡Espíritus, alejaos, vencidos por la hoja de\nespinaca!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Quieres correr con Opera O? Entonces hazlo\ndespués de derrotar a <i>mí,</i>Matikanefukukitaru."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Eh, Fukukitaru? Pero pensé que éramos almas\nhermanas..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Por supuesto que sí. Sin embargo... Te aseguro que\nmi desafío tiene un significado profundo y\nesotérico."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Entrenador, ¿estás de acuerdo con esto?",
+      "choice_data_list": [
+        "Eh, claro...",
+        "Eh, claro..."
+      ]
+    },
+    {
+      "text": "Tengo la sensación de que Matikanefukukitaru está\nplaneando algo, aunque no estoy completamente\nseguro."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Entonces, está decidido! Este desafío tendrá\nlugar en ningún otro lugar que no sea..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡El Arima Kinen a fin de año!",
+      "choice_data_list": [
+        "¿Eso no está un poco lejos?"
+      ],
+      "color_text_info_list": [
+        "Arima Kinen"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Entonces, ¿qué tal el Kinko Sho?",
+      "color_text_info_list": [
+        "Kinko Sho"
+      ]
+    },
+    {
+      "text": "Una respuesta rápida y fácil. Con eso, está\ndecidido—las amigas se enfrentarán en el Kinko Sho\neste marzo."
+    }
+  ]
+}

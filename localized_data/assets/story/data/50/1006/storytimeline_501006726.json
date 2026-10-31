@@ -1,0 +1,51 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras andaba por ahí con Oguri Cap..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Oh..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella está mirando una máquina de garra llena de\npeluches de Umamusume.",
+      "choice_data_list": [
+        "¿Quieres un peluche?",
+        "¿Quieres un peluche?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Solo me recuerdan a los peluches que Masa solía\ndarme."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Cada vez que ganaba una carrera, Masa me traía un\npeluche para motivarme a seguir con el buen\ntrabajo."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Eran peluches hechos en casa con formas extrañas,\npero realmente me hacían feliz.",
+      "choice_data_list": [
+        "¡Muy bien, vamos a conseguir uno!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿E-estás seguro? La verdad sí quiero uno, pero...\n¿por qué?",
+      "choice_data_list": [
+        "¡Quiero seguir motivándote!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Oh... Gracias. Me hace feliz escuchar que digas\neso. En ese caso, te estaré animando."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No hay manera de que pueda fallar."
+    }
+  ]
+}

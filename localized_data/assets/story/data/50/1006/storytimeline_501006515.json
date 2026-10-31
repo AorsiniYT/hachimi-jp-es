@@ -1,0 +1,181 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Veo a Oguri Cap y Tamamo Cross frente a una tienda\nmientras estoy comprando víveres."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Había oído hablar de estos, pero... verlos por mí\nmismo es realmente otra cosa."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Whoa, están sorprendentemente bien hechos. Me\npregunto cuánto te costó uno?",
+      "choice_data_list": [
+        "¿Qué estás mirando?",
+        "¿Qué estás mirando?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Oh, Entrenador... Estamos mirando estos peluches\nde Umamusume que están vendiendo."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hay peluches de Tama, peluches de Creek... e\nincluso del presidente. Son todos adorables."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Sí, pero Oguri es la más popular. Échale un\nvistazo tú mismo—¡solo queda uno en stock!",
+      "choice_data_list": [
+        "Seguro que es popular.",
+        "Seguro que es popular."
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Y no solo en el mundo de las carreras. También es\nun nombre bastante grande en la competencia de\ncomer."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Niños, niñas, abuelos, abuelas—todos aman a Oguri!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Quiero conseguir uno de estos Oguris para mí. A\ndiferencia de la cosa real, ¡no tienes que comprar\ncomida para él!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Y mira su cara. Es como si supiera que es un\ncorredor rápido. ¿Qué opinas, Entrenador? ¿Quieres\nagregar este peluche a tu lista de entrenamiento?",
+      "choice_data_list": [
+        "No es una mala idea..."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Oye..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Hah! Tentador, ¿verdad?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "...Espera. Acabo de recordar que tengo que\nencontrarme con Inari."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Tengo que irme. ¡Nos vemos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tamamo Cross sale corriendo.",
+      "choice_data_list": [
+        "Creo que voy a comprar este peluche de Oguri Cap."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿¡Qué?! P-pero ¿por qué? Sabes que es solo un\npeluche, ¿verdad?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Ni siquiera <i>tú</i> podrías entrenar a esta cosa para\ncorrer."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Bueno... No te detendré de comprarlo... Si\nrealmente quieres uno, adelante..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por alguna razón, Oguri Cap parece molesta.",
+      "choice_data_list": [
+        "...En segundo pensamiento, quizás no lo necesito."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...¿Eh?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Por qué no compraste el peluche? Pensé que lo\nquerías.",
+      "choice_data_list": [
+        "Bueno..."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Y Tama tiene razón—no tienes que comprar comida\npara un peluche."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Espera, yo pago mis propias comidas. Eso no\ndebería importar de ninguna manera."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pero los peluches <i>son</i> pequeños. Y esponjosos. Por\nno mencionar lo lindo que son. No puedo competir\nahí.",
+      "choice_data_list": [
+        "¿De qué estás hablando?",
+        "¿De qué estás hablando?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Solo... creo que es mejor que te quedes con la\ncosa real. Puedo correr <i>realmente</i> rápido, ¿sabes?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Qué puede hacer un peluche? ¡Ni siquiera puede\nmoverse! Probablemente es mejor que creas en mí en\nlugar de en un juguete de peluche."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "No... Tú <I>definitivamente</I> estarías mejor. Voy a\nsuperar a ese peluche—solo espera.",
+      "choice_data_list": [
+        "Nada supera a la cosa real.",
+        "Nada supera a la cosa real.",
+        "Comprar un peluche es una forma de mostrar apoyo.",
+        "Comprar un peluche es una forma de mostrar apoyo."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "No... Tú <I>definitivamente</I> estarías mejor. Voy a\nsuperar a ese peluche—solo espera.",
+      "choice_data_list": [
+        "Nada supera a la cosa real.",
+        "Nada supera a la cosa real.",
+        "Comprar un peluche es una forma de mostrar apoyo.",
+        "Comprar un peluche es una forma de mostrar apoyo."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Confía en mí. Contigo a mi lado, ¡me convertiré en\nla Umamusume más fuerte y rápida!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Voy a dedicar toda mi energía al entrenamiento—no\nimporta cuán difícil sea."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Después de todo, ¡soy mucho más resistente que un\npeluche! Así que por favor, ¡sigue presionándome!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Oh... Eso tiene sentido. Quiero decir, un peluche\nno es algo que puedas entrenar, ¿verdad?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Una forma de mostrar apoyo, ¿eh? Cuando lo pones\nasí, suena un poco alentador."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Tú, y todos los demás que han comprado mi\npeluche... Ustedes son todos una fuente de mi\nfuerza."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Voy a seguir corriendo. Siempre puedes contar\nconmigo."
+    }
+  ]
+}

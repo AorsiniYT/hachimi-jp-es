@@ -1,0 +1,193 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Voy al distrito comercial a comprar algunas cosas\nen mi día libre, cuando..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Así que ese es el vestido más reciente de\nBoutique Cherie?"
+    },
+    {
+      "name": "Vendedora",
+      "text": "¡Sí, nuestro orgullo y alegría! ¿No es lindo? ¡Es\nuna combinación de estampados de pitón y leopardo!\n¡Incluso tiene las caras de una serpiente y un\nleopardo!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ummm... sí, es un poco llamativo. Admito que tiene\ncierto encanto maduro, sin embargo."
+    },
+    {
+      "name": "Vendedora",
+      "text": "¿Te gusta, Natie? ¡Te daré un descuento! ¡Incluso\nagregaré una bolsa con estampado de tigre!",
+      "color_text_info_list": [
+        "Natie"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Creo que no estoy lista para esa combinación\naún... Quiero decir, nadie más que tú puede\nllevarlo."
+    },
+    {
+      "name": "Vendedora",
+      "text": "¡No seas así, Natie! Cualquiera puede hacerlo\nfuncionar—¡solo tienes que ponértelo! ¡Así es como\nfuncionan la ropa!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Whoa! Ese es el tipo de discurso que espero de la\nvendedora de nivel sesenta y seis de Boutique\nCherie, Kimie!"
+    },
+    {
+      "name": "Vendedora",
+      "text": "Ahaha, ¿<i>así</i> de vieja crees que soy?Sigue bromeando\nasí, y te obligaré a comprarlo."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Jeje, por favor, ¡no!",
+      "choice_data_list": [
+        "Nature!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿¿Eh?! ¡Entrenador?!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Qué haces aquí? Ah, espera. Es el distrito\ncomercial, así que compras, obvio."
+    },
+    {
+      "name": "Vendedora",
+      "text": "Exacto. Eres la única persona joven que viene aquí\nsolo para charlar."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Qué quieres decir? Este distrito comercial es el\nlugar más de moda ahora."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Mira también esta selección increíble,\nEntrenador! ¡Este lugar tiene la selección más\ngrande de estampados animales del mundo!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Oh, Kimie! ¿Puedes conseguir algo especial para\nmi entrenador?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Y que sea súper intimidante! ¡No quiero que nadie\nse meta con mi entrenador!",
+      "choice_data_list": [
+        "Eh..."
+      ]
+    },
+    {
+      "name": "Vendedora",
+      "text": "Vamos, Natie. No te burles demasiado de tu\nentrenador."
+    },
+    {
+      "name": "Vendedora",
+      "text": "¿No estás en medio de las compras? ¿Por qué no vas\ntambién, Natie?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Nooo, estoy muy cansada. De ninguna manera podría\nseguirle el ritmo a un joven."
+    },
+    {
+      "name": "Vendedora",
+      "text": "¡Eres muy joven para ese tipo de quejas! ¡Ahora\ndeja de holgazanear y ve a disfrutar tu cita!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Vale, va— ¿eh?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "E-espera, ¡no! No es una cita, ¿vale?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, Nice Nature me muestra el distrito\ncomercial, y yo compro lo que vine a buscar."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Nnngh, ¡caminamos mucho! Mi espalda me está\nmatando.",
+      "choice_data_list": [
+        "Gracias por mostrarme el lugar."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "No, no hay de qué. No hice nada especial."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Todo lo que hice fue charlar con la gente del\ndistrito comercial."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Pero caray, claramente no están lo suficientemente\nocupados, ya que todos tuvieron tiempo para seguir\nburlándose de que estaba en una cita."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque sus palabras tienen un filo, la expresión\nde Nice Nature es amable cuando habla de la gente\ndel distrito comercial."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Puedo decir que todos la quieren. Y más allá de\neso, puedo decir que son personas en las que puede\nconfiar.",
+      "choice_data_list": [
+        "Realmente los quieres, ¿eh?",
+        "Realmente los quieres, ¿eh?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Y-yo los quiero, pero... ¡¿por qué tuviste que\ndecirlo en voz alta?!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Es un poco vergonzoso...",
+      "choice_data_list": [
+        "Parecen como tu familia.",
+        "Parecen como tu familia."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Supongo que sí."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Quiero decir, sí. Probablemente sean más\nentrometidos que unos padres de verdad."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Pero aun así... me animan pase lo que pase."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Oye, ¿quién haría eso? ¿Animar <i>a mí</i>?!Es gracioso,\nla verdad."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Se preocupan por mí muchísimo."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Y me siento reeeeeeamente motivada cuando me\naniman."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...¡Gyah, qué estoy diciendo! ¡Qué vergonzoso!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Tres, dos, uno, y... ¡ya! Acabo de borrar tu\nmemoria."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Muy bien, vámonos a casa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nice Nature está avergonzada y me apresura de\nvuelta a la academia."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras estoy por ahí con Gold Ship..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡¿Guau?! ¿Qué diablos es eso?!",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Mira esa caja transparente allí! ¡Hay montones de\nUmamusume atrapadas en ella!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gold Ship señala una máquina de garra llena de\npeluches de Umamusume."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡¿Quién haría tal cosa?! ¡Aguanten, todos! ¡La\nayuda está en camino!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gold Ship tranquiliza a los peluches detrás del\nvidrio."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Oye, no eres el tipo que abandonaría a todas estas\npobres Umamusume, ¿verdad?",
+      "choice_data_list": [
+        "E-eh, supongo que no?",
+        "E-eh, supongo que no?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Bien! ¡Entra ahí y muéstranos de qué eres capaz!\n¡Estoy lista para presenciar la mayor operación de\nrescate del siglo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡No hay manera de que falle ahora!"
+    }
+  ]
+}

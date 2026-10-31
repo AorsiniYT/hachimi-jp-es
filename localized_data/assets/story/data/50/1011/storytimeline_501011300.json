@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Cada día estaba lleno de actividades, y sin\nembargo, de alguna manera parece que el campamento\nde verano pasó en un abrir y cerrar de ojos."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Vamos, Grass! ¡Corre a los BUUUS!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Sí, sí, ya voy!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Qué le ha pasado? Me ha estado molestando tanto\núltimamente.",
+      "choice_data_list": [
+        "Quizás esté emocionada por la carrera que se\navecina."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ah, sí... la Japan Cup."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Supongo que es justo. Aunque no me veas gritando\nsalvajemente sobre las llamas de la pasión..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "...yo tampoco tengo intención de ceder el\nliderazgo a nadie."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No hasta que alcance el destino que busco."
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "El Hipódromo de Tokio está lleno de emoción\ndespués de la carrera."
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Gran carrera, Bourbon! ¡Increíble trabajo!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "Pero le toca el Kikuka Sho después, ¿sabes? Sería\ngenial si pudiera completar 3,000 metros, pero..."
+    },
+    {
+      "name": "Espectador B",
+      "text": "Como ya perdió su oportunidad de ganar la Triple\nCorona, quizás ni siquiera corra en ella..."
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Oh, cállate! Nuestra Bourbon va a mantenerse en\nel curso ¡seguro!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Reportando. He quedado en primer lugar. He\ncompletado mi misión, Entrenador."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...?"
+    },
+    {
+      "name": "Espectador A",
+      "text": "No tuvo una mala carrera... pero sus sueños de\nconseguir la Triple Corona Clásica se fueron por\nla ventana."
+    },
+    {
+      "name": "Espectador B",
+      "text": "A continuación está el Kikuka Sho también. Sería\ngenial si ella pudiera completar 3,000 metros,\npero..."
+    },
+    {
+      "name": "Espectador B",
+      "text": "Como ya perdió su oportunidad de ganar la Triple\nCorona, quizás ni siquiera corra en ella..."
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Oh, cállate! Nuestra Bourbon va a mantenerse en\nel curso ¡seguro!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Reportando. No logré posicionarme. Lo siento\nmucho, Entrenador."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...?"
+    },
+    {
+      "text": "Mihono Bourbon de repente se queda en silencio.",
+      "choice_data_list": [
+        "¿Qué pasa, Bourbon?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Detectando fenómeno desconocido. El objetivo\nactual de obtener la Triple Corona ha sido\ninvalidado."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Incluso si continúo la Twinkle Series, obtener la\nTriple Corona Clásica seguirá siendo inalcanzable."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Sin embargo, siento una contradicción dentro de\nmí."
+    },
+    {
+      "text": "Ella habla lentamente, como si no pudiera\nencontrar las palabras correctas."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Incluso si no puedo lograr la Triple Corona... aún\nquiero correr en el Kikuka Sho."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Todavía no he logrado correr 3,000 metros\ncompletos, pero deseo completar esta distancia en\nuna carrera G1.",
+      "color_text_info_list": [
+        "G1"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Este es mi \"deseo\". ¿Es aceptable, Entrenador?"
+    },
+    {
+      "text": "Ni siquiera necesito pensar en cómo responder\ndespués de escuchar sus palabras apasionadas.\nAsiento inmediatamente.",
+      "choice_data_list": [
+        "¡Sí! ¡Vamos a por el Kikuka Sho!"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¡Orden reconocida!"
+    },
+    {
+      "text": "A medida que renovamos nuestra convicción de\ncorrer en el Kikuka Sho..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Bourbon..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Basándome en tu falta de concentración y tu pisada\ninestable, he confirmado que estás completamente\nexhausta. ¿Estás... \"bien\"?"
+    },
+    {
+      "text": "Rice Shower murmura su respuesta aturdida,\nhaciéndome preguntarme si realmente escuchó lo que\nMihono Bourbon dijo."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Yo... ¡aún no te he alcanzado!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿Alcanzado?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Eres tan... increíble... Tengo que seguir...\ntrabajando... más duro..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Tengo que... trabajar... aún más duro... Tengo\nque... cambiar..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿Arroz?!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Zzz... Zzz...</i>",
+      "choice_data_list": [
+        "Parece que se quedó dormida.",
+        "Parece que se quedó dormida."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "..."
+    },
+    {
+      "text": "Llevamos a Rice Shower a un lugar seguro y nos\naseguramos de que esté despierta antes de dejar el\nHipódromo de Tokio."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Entrenador. No puedo entender a Rice."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿Por qué está tan obsesionada conmigo? ¿Por qué\ndesea \"alcanzarme\"?",
+      "choice_data_list": [
+        "¿Crees que es extraño?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "En una carrera, el resultado es ya sea \"victoria\"\no \"derrota\". Rice, sin embargo, no se enfoca en\nninguno de esos resultados."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Ella solo expresa el deseo de \"alcanzar\". Esa es\nla razón por la que corre."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Si su definición de \"alcanzar\" difiere del\nsignificado típico del término..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Entonces, ¿cuál es su verdadera intención? No\npuedo entender para qué está corriendo."
+    },
+    {
+      "text": "Cada corredor pone sus propios sentimientos en las\ncarreras. Hay algunos que no le dan mucha\nimportancia a ganar.",
+      "choice_data_list": [
+        "(Y lo que es más...)"
+      ]
+    },
+    {
+      "text": "Solo puedes entender verdaderamente una emoción\ndespués de haberla experimentado por ti mismo."
+    },
+    {
+      "text": "Mihono Bourbon apenas comprende emociones; los\nsentimientos de Rice Shower le resultan aún más\ndifíciles.",
+      "choice_data_list": [
+        "Estoy segura de que podrás entenderlo todo algún\ndía."
+      ]
+    },
+    {
+      "text": "Estoy segura de que seguiremos enfrentándonos a\nRice Shower en la Twinkle Series."
+    },
+    {
+      "text": "Le digo a Mihono Bourbon que no hay prisa. Ella lo\nentenderá algún día, así que solo necesita\nesperar."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Entendido..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "La base de tu declaración es poco clara, pero si\nesa es tu opinión, entonces determino que vale la\npena ponerla en práctica."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Esperaré el día en que entienda."
+    },
+    {
+      "text": "El tren se mueve silenciosamente hacia la\nacademia."
+    },
+    {
+      "text": "A continuación está la carrera final de la Triple\nCorona Clásica— ¡el Kikuka Sho!"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Veo a Rice Shower en la plaza sosteniéndose la\ncabeza, con expresión dolorida."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Oh, B-Big Brother... No te preocupes. No es\nnada...",
+      "choice_data_list": [
+        "No parece nada.",
+        "No parece nada."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Oh, B-Big Sister... No te preocupes. No es nada...",
+      "choice_data_list": [
+        "No parece nada.",
+        "No parece nada."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Em... Eso, eh... <i>Suspiro...</i>"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Para ser honesta, he tenido dolor de cabeza desde\nesta mañana. Pero no creo que sea un resfriado ni\nnada."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Estoy segura de que mejorará pronto. Así que no te\npreocupes."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Estoy segura de que mejorará pronto. Así que no te\npreocupes."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Nnn... Auu..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que el dolor de cabeza de Rice Shower\nrealmente la está molestando. Ojalá hubiera algo\nque pudiera hacer."
+    }
+  ]
+}

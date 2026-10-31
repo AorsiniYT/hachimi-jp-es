@@ -1,0 +1,259 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una temprana mañana en el campamento de verano..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Bzzz... Bzzz...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al escuchar mi teléfono vibrar, echo un vistazo a\nla pantalla y contesto."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Oh! Buenos días, Entrenador.",
+      "choice_data_list": [
+        "¿Qué pasa con la llamada repentina?",
+        "¿Qué pasa con la llamada repentina?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Perdón por llamar tan temprano! Me alegra que\nestés despierto, sin embargo."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Podrías salir conmigo un rato? Me gustaría hablar\ncontigo de algo."
+    },
+    {
+      "text": "Seiun Sky termina guiándome a la playa. Todavía es\nbastante temprano, así que no hay nadie más\nalrededor.",
+      "choice_data_list": [
+        "...¿Más pesca?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "No, ya déjalo. ¡Esta es una reunión táctica\nsecreta! ¡Sí <i>que quieres </i>idear una estrategia para\nel Kikuka Sho, ¿verdad?",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Hola? ¿Vas a dejar de darme el hombro frío?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pero lo entiendo. No es propio de mí llamar a una\nreunión táctica.",
+      "choice_data_list": [
+        "Entonces, ¿por qué organizar una de repente?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Corrí tan duro como pude en el Satsuki Sho y el\nDerby Japonés."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pero siento que si las cosas siguen así, voy a\nalcanzar mi punto máximo.",
+      "choice_data_list": [
+        "¿Tu punto máximo?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Sí. Nadie realmente esperaba mucho de mí."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oh, no me estoy poniendo pesada ni nada. Solo\nquiero decir que siempre he sido del tipo \"lo que\nves es lo que hay\". Echa un vistazo."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...",
+      "choice_data_list": [
+        "...?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Eh? ¿Mi adorable delicadeza no se transmite?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Mi punto es... ¡cargar todas tus expectativas en\nuna Umamusume linda como yo es tan cruel!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Fue lo mismo con el Abuelo. Él seguía elogiándome\ny diciendo que tengo lo que se necesita para ganar\nlos Clásicos."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Así que vine a Tracen y debuté, pero cada día me\nsorprenden todas las cosas que me faltan.",
+      "color_text_info_list": [
+        "Tracen"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "No tengo ningún tipo de agilidad innata, ni el\nespíritu competitivo para aprovechar las\noportunidades."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Las cosas que no tengo, <i>que no puedo </i>tener... Las\nveo en todos a mi alrededor... Aun así, no he\nmaximizado mi potencial aún."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Me pregunto si todas las personas que me han\nconocido desde que era pequeña estarán super\nsorprendidas ahora."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "No tengo lo que se necesita, pero aquí estoy,\ncompitiendo contra corredoras con verdadero\ntalento."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Aún así, debe haber un límite para eso. Solo hay\ntanto en lo que puedo mejorar, y no hay forma de\ncerrar la brecha entre mi aptitud natural y la de\nellas."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Spe y las demás creen que, para el final del\nverano, serán mejores de lo que fueron en el\nDerby.",
+      "color_text_info_list": [
+        "Spe"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Y creo que tienen razón. Si nos enfrentáramos\nen serio, no podría ganar.",
+      "choice_data_list": [
+        "Entonces, ¿qué vas a hacer?",
+        "Entonces, ¿qué vas a hacer?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Lo que voy a hacer... es huir de la pelea. ☆",
+      "choice_data_list": [
+        "¿Eh?!"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡No tendría ninguna oportunidad contra ellas\ndirectamente! Solo me quedaría atrás y sería\nderrotada sin esperanza."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Así que... no correré como lo hacen ellas. En\ncambio, las <i>obligaré a </i>correr a mi ritmo."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Y entonces todos dirán, \"¡Whoa! ¿Cuándo Seiun Sky\nllegó al círculo de ganadoras?!\""
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Sabes, si puedo hacer que digan algo así,\nsignificará que lo logré.",
+      "choice_data_list": [
+        "Ya veo..."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Volar adelante con alta velocidad o empujar con\nfuerza bruta son geniales y todo, pero..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Mi mayor aliada es mi inteligencia. Puedo\ncontrolar el tiempo mismo cuando me lo propongo. ♪",
+      "choice_data_list": [
+        "Así que ese es tu talento.",
+        "Así que ese es tu talento."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Jaja! <i>¿Mi talento? </i>Ni hablar. Las distracciones,\nartimañas y trampas son solo trucos."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pero una trampa bien planeada realmente da\nresultados. Para mí, ese es el único camino a la\nvictoria."
+    },
+    {
+      "text": "\"Huye de la pelea, gana la carrera.\" Ella puede\nvislumbrar una oportunidad de victoria corriendo a\nsu manera. Esa es una fortaleza que ninguna otra\ncorredora tiene."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Todo eso para decir... voy a necesitar tu cerebro."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "No tienes ningún método de entrenamiento sobre\ncómo secuestrar una carrera sin problemas,\n¿verdad?"
+    },
+    {
+      "text": "Es una solicitud temeraria, pero si estamos\nhablando del Kikuka Sho, entonces sí tengo algunas\nideas.",
+      "choice_data_list": [
+        "Entrenamiento de estrategia para prepararse para\nla colina de la tercera curva.",
+        "Entrenamiento de perseverancia para adelantar en\nel tramo final."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oh... Tienes razón. Conquistar esa colina en el\nHipódromo de Kyoto podría ser la clave."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pero no me hagas subir corriendo ninguna escalera\nde cien pasos de un santuario! ...¿Vale?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Lo digo en serio! ¡No lo haré!"
+    },
+    {
+      "text": "Seiun Sky sigue protestando de manera similar pero\nentrena diligentemente de todos modos."
+    },
+    {
+      "name": "King Halo",
+      "text": "¿Oh? Por allá, ¿es eso... Sky?!"
+    },
+    {
+      "name": "King Halo",
+      "text": "No lo creo. ¿Desde cuándo empezó a hacer sesiones\nde mañana?"
+    },
+    {
+      "name": "King Halo",
+      "text": "Así que, tanto Special Week como Sky parecen estar\nmejorando..."
+    },
+    {
+      "name": "King Halo",
+      "text": "Como una de las tres grandes, no me quedaré atrás."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Perseverancia... Suena difícil. Pero supongo que\nempujar en el tramo final, final realmente es\nimportante."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pero puedo entrenar para eso perseverando <i>lejos</i> de\nla práctica, ¿verdad? ...¿No?"
+    },
+    {
+      "text": "Seiun Sky continúa protestando de manera similar\npero entrena diligentemente de todos modos."
+    },
+    {
+      "name": "King Halo",
+      "text": "¿Oh? Por allá, ¿es eso... Sky?!"
+    },
+    {
+      "name": "King Halo",
+      "text": "No lo creo. ¿Desde cuándo empezó a hacer sesiones\nde mañana?"
+    },
+    {
+      "name": "King Halo",
+      "text": "Así que, tanto Special Week como Sky parecen estar\nmejorando..."
+    },
+    {
+      "name": "King Halo",
+      "text": "Como una de las tres grandes, no me quedaré atrás."
+    }
+  ]
+}

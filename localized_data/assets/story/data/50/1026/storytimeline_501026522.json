@@ -1,0 +1,34 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Mihono Bourbon se ve un poco decaída, así que voy\na ver cómo está."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Gracias por tu preocupación, Entrenador. He estado\npreocupada por anomalías en mi piel."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Sin embargo, no es un problema. Esto se puede\nresolver cambiando mis partes de piel.",
+      "choice_data_list": [
+        "Eh, ¿partes de piel?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Disculpe. Eso fue un \"chiste de robot\", por así\ndecirlo."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Intenté calmar tus preocupaciones con un chiste,\npero fallé."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Actualmente detectando un cambio de estado a\ndesesperación. He determinado que la causa es piel\náspera."
+    },
+    {
+      "text": "Desafortunadamente, parece que sus problemas de\npiel afectan más que solo su piel."
+    }
+  ]
+}

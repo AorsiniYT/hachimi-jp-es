@@ -1,0 +1,25 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Special Week",
+      "text": "...Uf.",
+      "choice_data_list": [
+        "¿Nerviosa?",
+        "¿Nerviosa?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Sí, un poco... De hecho, ¿a quién engaño? Estoy\nsuper nerviosa."
+    },
+    {
+      "name": "Special Week",
+      "text": "Pero..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Voy a salir allí y darlo todo!"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El campamento de verano ha terminado."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Uf... Eso pasó en un abrir y cerrar de ojos."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Así es. Pero aprovechamos cada día."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Tengo muchas ganas de tu Shuka Sho."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "También tengo muchas ganas de tu Kikuka Sho.",
+      "color_text_info_list": [
+        "Kikuka Sho"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Parece que ambas tuvieron un campamento de verano\npleno!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A medida que el ardiente verano termina, el\nesplendor del otoño comienza a desplegarse."
+    }
+  ]
+}

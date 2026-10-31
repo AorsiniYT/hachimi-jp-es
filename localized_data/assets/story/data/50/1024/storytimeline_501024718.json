@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mayano Top Gun",
+      "text": "Ha pasado un tiempo, entrenador. Me he sentido\nsola sin ti.",
+      "choice_data_list": [
+        "¿Sola? De verdad."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Claro! Me divertí mucho jugando durante mi tiempo\nlibre, pero..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "A veces, me daba cuenta de que no estabas allí..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Y que te extrañaba."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Así que voy a pegarme a ti como pegamento para\ncompensar todo el tiempo perdido. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Maya se recuperó bien durante su\ndescanso. De hecho, está casi <i>demasiado</i> animada."
+    }
+  ]
+}

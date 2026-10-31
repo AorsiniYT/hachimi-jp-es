@@ -1,0 +1,253 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estoy caminando por el parque en mi día libre. Hoy\nes tan pacífico..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Al suelo!",
+      "choice_data_list": [
+        "¿¡Qué pasa?!",
+        "¿¡Qué pasa?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me estremezco instintivamente al escuchar la voz\nde Gold Ship."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Tú! ¡No te quedes ahí parado, vienen problemas!\n¡Peligro! ¡Peligro!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Maldita sea, no podemos parar ahora. Este lugar\nestá a punto de explotar..."
+    },
+    {
+      "name": "Niño A",
+      "text": "¡Capitán Golshi, nuestro avance se ha detenido!\n¿Permiso para regresar a la base del gimnasio de\nla jungla?"
+    },
+    {
+      "name": "Chico B",
+      "text": "Espera, tendríamos que cruzar la zona de lava para\nregresar"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Síganme! ¡Tú también, Entrenador! Cuando estamos\nacorralados, mi Kenpo de Oro puede abrir un camino"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es agradable ver a Gold Ship jugando con los\nniños, pero me ha arrastrado al juego ahora..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Cuidado, Entrenador! ¡Esa es una zona de lava!\nCasi te has quemado",
+      "choice_data_list": [
+        "Lo siento, no conozco las reglas..."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Estás perdiendo toda la gloria celestial! ¡No\npienses, siente! Mi entrenador debería saberlo\nmejor",
+      "choice_data_list": [
+        "S-sí... Entendido"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Vamos a hacer esto, chicos! ¡Adelante, yo cubriré\nla retaguardia!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Los llevaré a todos a la victoria... ¿Genial, no?"
+    },
+    {
+      "name": "Niño A",
+      "text": "¡Wow! ¡Eres el mejor, Capitán Golshi!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gold Ship heroicamente conduce a los niños y a mí\na través de la vasta zona de arena. Pero\nentonces..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Aaah!"
+    },
+    {
+      "name": "Chico B",
+      "text": "¿¡C-Capitán Golshi?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gold Ship se ha desplomado repentinamente en la\narena"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Uf, parece que esto es todo para mí... Estábamos a\npunto de llegar a casa, pero me han atrapado..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Escucha, tienes que seguir adelante sin mí...\nTienes que... vivir... Uf"
+    },
+    {
+      "name": "Niño A",
+      "text": "No... Por favor, despierta, Capitán Golshi"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "La escena del crimen fue cerrada y no se encontró\narma del crimen. Cada sospechoso tiene una\ncoartada..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Con nada que seguir, este caso podría enfriarse.\nPero no te preocupes, el gran Sherlock Golshi no\ndeja escapar el crimen"
+    },
+    {
+      "name": "Chicos",
+      "text": "¡Es ella! ¡Sherlock Golshi!",
+      "choice_data_list": [
+        "(¿Ahora es una famosa detective?)"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Eh? ¿Eh? ¡Mi cerebro deslumbrante con 5.640.000\nde coeficiente intelectual acaba de entrar en\nacción"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "El delincuente que me disparó fue... Tú, viejo\ncabeza de chorlito"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me está señalando. ¿Qué debo hacer..."
+    },
+    {
+      "name": "Chico B",
+      "text": "Tienes que decir algo o perderás"
+    },
+    {
+      "name": "Niño A",
+      "text": "Sí, sí, eres el entrenador de Golshi por una\nrazón. Haz algo divertido"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Entiendo... No puedo dejar que ella dirija el\nbarco todo el tiempo. Necesito ser como estos\nchicos y seguir el flujo",
+      "choice_data_list": [
+        "Me has atrapado, pero tendré la última risa",
+        "Me has atrapado, pero tendré la última risa"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Aaah, así que esta es tu verdadera forma. Esas\ntreinta tentáculas púrpuras que brotan de tu\ncabeza lo prueban"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Pero ¿qué ahora? No puedo enfrentar a este villano\nen mi forma actual. Todos, retírense"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "<I>Jadeando... jadeando... resoplando...</I> ¿Cómo me\nseguiste hasta aquí?"
+    },
+    {
+      "name": "Chico B",
+      "text": "¿Qué ahora... Estamos acorralados",
+      "choice_data_list": [
+        "Es hora de pagar el precio",
+        "Es hora de pagar el precio"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hmph, como si tuviera dinero... Pero tengo esto"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Soy la gran diosa Umamusume, Golshaea. Veo\ncorazones bondadosos que necesitan ayuda y les doy\nmi poder"
+    },
+    {
+      "name": "Niño A",
+      "text": "Es Golshaea. Solo concede 100 milagros al año"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Puedo sentirlo. Todos ustedes también lo sienten,\n¿verdad? Es el poder de la diosa"
+    },
+    {
+      "name": "Niño A",
+      "text": "Wow, es cierto. Podemos ganar esta vez",
+      "choice_data_list": [
+        "¿Qué has hecho? ¡Maldita sea tu poder divino!",
+        "¿Qué has hecho? ¡Maldita sea el poder de la diosa!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Está fluyendo a través de nosotros! Nuestro nivel\nde poder combinado es más de 5.640.000."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Nunca completarás tu malvado plan, villano.\nPrepárate para probar... el Revenginator Golshi.",
+      "choice_data_list": [
+        "¡Nooooo!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "<I>¡Colapso!</I>"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "La justicia ha sido... servida."
+    },
+    {
+      "name": "Chico B",
+      "text": "Lo lograste. Eres el más genial, Golshi."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Otro día en el que no estoy muy seguro de lo que\nsucedió... Pero fue sorprendentemente divertido\nseguir los juegos tontos de Gold Ship."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Woooo! Lo logramos bien."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Protegimos el parque, atrapamos al criminal, me\nconvirtieron en un dios, <I>y</I> logramos la paz\nmundial!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Y no mencionar que las flores florecieron, los\nárboles crecieron exuberantes y los pájaros\ncantaron hermosamente. ¡Incluso me impresiono a mí\nmismo!",
+      "choice_data_list": [
+        "Además, esos niños seguramente se divirtieron\nmucho.",
+        "Además, esos niños seguramente se divirtieron\nmucho."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Cómo no iban a hacerlo? No dejo que el\naburrimiento me afecte, ni por un segundo."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Y sabes, tú no estuviste mal tampoco."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Creo que mejoré un poco para seguir el ritmo de\nGold Ship hoy."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Acabo de recordar. Debería terminar esas líneas de\nNazca que empecé a dibujar en el jardín de la\nescuela."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Deberías venir conmigo. ¡Nos vemos en tres\nsegundos! ¡Adiós!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Puede que sea un poco más hasta que pueda\nseguir el ritmo completamente."
+    }
+  ]
+}

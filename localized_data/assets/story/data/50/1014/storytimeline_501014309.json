@@ -1,0 +1,110 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Ohhh! ¡No pueden seguirle el ritmo! ¡Nadie puede\nalcanzarla!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡El Condor Pasa luchó valientemente contra Silence\nSuzuka, pero simplemente no pudo lograrlo!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Condor Pasa corre con todas sus fuerzas. Sin\nembargo, la Otra Mundial Líder mantiene el\nliderato.",
+      "color_text_info_list": [
+        "Otra Mundial Líder"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Mis brazos... Mis piernas... No puedo\nrespirar...<i>¡Haa!</i>"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Esto es... Yo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Toc!</i>"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿El? ¡El!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Entrenador! ¡Llama a una ambulancia!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Uiiiu, uiiiu...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un examen completo no revela lesiones graves. Aún\nasí..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Entrenador... No más...",
+      "choice_data_list": [
+        "¿No más qué?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Di todo de mí... Usé todo lo que tenía para vencer\na Suzuka..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Pero incluso con toda mi fuerza y todo el esfuerzo\nque puse entrenando contigo, no fue suficiente."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Pero ahora estoy... hecha pedazos... Un cóndor con\nalas rotas."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Si alguien aún más fuerte que Suzuka aparece en el\nJapan Cup, entonces..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus hombros se hunden con decepción. Parece que su\nfuerza de voluntad ha llegado a su límite."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Tengo que... enfrentar los hechos..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "No soy... la corredora más fuerte del mundo..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Esta carrera me mostró que... aún tengo un largo\ncamino por delante..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "No puedo hacer el Japan Cup... No así..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Simplemente no puedo.",
+      "choice_data_list": [
+        "...Lo entiendo."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cedo ante la decepción de El Condor Pasa. Parece\nque vamos a volver a la mesa de diseño para el\nplan de este año."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su sueño de enfrentar el Japan Cup en su año\nclásico—una vez una ambición elevada—se ha hecho\nañicos."
+    }
+  ]
+}

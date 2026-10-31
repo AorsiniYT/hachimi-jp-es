@@ -1,0 +1,20 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Legendary Bard",
+      "text": "¿Puedes oírlo, el tañido de la campana de la nueva\ngeneración? ¿Puedes verlo, el atisbo de mi\nevolución en el Soberano Centenario? Lo siento con\nmi propia alma."
+    },
+    {
+      "name": "Legendary Bard",
+      "text": "Solo yo, la más fuerte, soy digna de heredar la\nhistoria que la Generación Dorada talló con sus\ntacos."
+    },
+    {
+      "name": "Legendary Bard",
+      "text": "Así, mi próximo objetivo es donde solo los\nverdaderamente fuertes luchan—¡el Tenno Sho de\nprimavera!",
+      "color_text_info_list": [
+        "Tenno Sho de primavera"
+      ]
+    }
+  ]
+}

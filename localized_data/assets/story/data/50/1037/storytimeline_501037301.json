@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Eishin Flash",
+      "text": "...",
+      "choice_data_list": [
+        "¿Flash?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Solo estaba mirando el campamento. He aprendido\nmuchas cosas aquí."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "He mejorado mucho y he ganado tantas habilidades\nentrenando contigo.",
+      "choice_data_list": [
+        "Lo has hecho.",
+        "Lo has hecho."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Entrenador, yo..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No importa. Llegará el momento para esta\nconversación, pero por ahora..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Mantengamos la cabeza alta y avancemos hacia la\ncarrera que mis padres tanto esperan—el otoño\nTenno Sho."
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Han pasado varios días desde que comencé mi\ntrabajo como entrenador, y estoy ansioso por\nreclutar a un corredor propio. Me dirijo a las\npistas de entrenamiento cuando..."
+    },
+    {
+      "text": "<i>¡Fiuuu!</i>"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡CUIDADO!"
+    },
+    {
+      "text": "¡De repente, la pata de un escritorio vuela\ndirecto hacia mí!",
+      "choice_data_list": [
+        "...?!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿E-estás bien? ¡Lo siento, lo siento, lo siento\nmuchísimo!"
+    },
+    {
+      "text": "Gracias a la advertencia, logro evitar una muerte\nmuy inoportuna... Pero eso aún plantea la\npregunta...",
+      "choice_data_list": [
+        "¿Desde cuándo vuelan las patas de escritorio?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿¡Huh? ¿P-patas de escritorio? ¿Vuelan? Ah...\nc-c-claro! ¿Q-qué he hechooo?!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿¡Q-qué voy a hacer AHORA?!"
+    },
+    {
+      "text": "Detrás de ella noto un escritorio al que le falta\nuna pata. Hago lo posible por calmar a la\nestudiante en pánico, y eventualmente, logro\nsacarle la historia."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Y-yo... Soy básicamente un desastre andante. Nunca\npuedo hacer nada bien, pero, um... Bueno... Aún\nasí quiero ayudar cuando puedo..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Así que cuando alguien me dijo que el escritorio\nde Opera O ha estado b-bamboleándose\núltimamente... P-pensé que lo arreglaría para\nella..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Pero... ¡Cuando intenté enderezarlo, en vez de eso\nse rompió la pata! M-me asusté, y lo siguiente que\nsupe... ¡la pata del escritorio salió volando de\nmi mano...!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Lo siento! ¡Debí haber sabido que iba a hacer un\ndesastre! ¡Y ahora involucré a un entrenador\ninocente también... ¡Soy la peor!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Tengo que hacer algo antes de causar más\nproblemas... Piensa, piensa... ¡Ya sé! ¡Solo\npegaré la pata de nuevo y luego me iré!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿¡POR QUÉ?! ¿¡Por qué no se queda pegado al\nescritorio, pata?! ¡Y-ahora todo está pegajoso...!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Y-yo sé... ¡Puedo asegurar la pata con cuerda!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡ESO TAMPOCO FUNCIONÓ!"
+    },
+    {
+      "text": "<i>¡Crack!</i>"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Hyah?! ¡Se rompió! ¿¡Q-q-qué hago ahora?!",
+      "choice_data_list": [
+        "(Es como ver un descarrilamiento en cámara\nlenta...)"
+      ]
+    },
+    {
+      "text": "Ya es tarde... Estoy a punto de decirle que puede\npedir un escritorio de repuesto mañana, cuando de\nrepente escucho una risa atronadora."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Jajaja!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Me preguntaba qué era todo ese alboroto! ¡Pensar\nque me encontraría con tal tragedia! ¡Mi\nescritorio, antes tan hermoso como yo, está hecho\npedazos!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "O-O-O-Ope... Ope... ¿¡Opera O?! ¡Lo lamento mucho!\n¡P-puedo explicar! Yo solo—"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡EXCELENTE!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Mi brillante escritorio, yaciendo en desorden...\n¡Dos de sus patas esparcidas por el suelo! ¡La\nmanta de luz de luna lo cubre en sorrow!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿¡Qué más podría pedir en una muestra de verdadera\naflicción? ¡Contemplad, Doto! ¿Acaso no brillo aún\nmás contra este trágico telón de fondo?!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡S-sí! ¡Estás brillando intensamente!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Maravilloso! Y por favor, ¡toma todas las\nfotografías que quieras! ¡Tú! ¡Abana el abanico\npara que tenga una brisa que haga flamear mis\ncabellos!",
+      "choice_data_list": [
+        "Eh..."
+      ]
+    },
+    {
+      "text": "Sin darme cuenta, estoy trabajando entre\nbambalinas en una sesión de fotos improvisada para\nT.M. Opera O..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Oho... Excelentes tomas! ¡Caos y creación!\n¡Desesperanza y esperanza! ¡Y dominándolo todo\nestoy yo, T.M. Opera O... Brava!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Parece que te subestimé, Doto! ¡Pensar que tenías\ntal pasión por la escenografía!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Eh? N-no, yo estaba, eh, umm..."
+    },
+    {
+      "text": "T.M. Opera O parece completamente ajena al\ncomportamiento ansioso de Doto... Radiante de\norgullo, asiente con satisfacción antes de\ncontinuar."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Mis ojos nunca me han engañado antes! Por lo\ntanto, ¡tengo una propuesta para ti!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Para que mi próxima actuación operística en el\nTracen Meet sea un éxito, quiero—no, <i>NECESITO</i> tu\nayuda! ¡Los relatos de nuestra feroz batalla se\nesparcirán por doquier!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Eh? ¿U-una batalla? ¿Y-y-y-yo?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Precisamente! Para ti, querida mía, te otorgo un\npapel central en mi saga. Serás... ¡la villana!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿¡QUÉ?!"
+    }
+  ]
+}

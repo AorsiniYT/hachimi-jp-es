@@ -1,0 +1,221 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Con un largo día de trabajo detrás de mí, permito\nque mi mente divague un poco. Como resulta, no he\npodido olvidar a Manhattan Cafe.",
+      "choice_data_list": [
+        "Me pregunto si estará allí de nuevo..."
+      ]
+    },
+    {
+      "text": "Me preparo para salir de mi habitación y dirigirme\na la pista, sin saber quién, o qué, encontraré."
+    },
+    {
+      "text": "<i>Click, clack.</i>"
+    },
+    {
+      "text": "La puerta no se mueve. No importa cuánto gire y\ntwista el pomo, se niega a abrirse.",
+      "choice_data_list": [
+        "(¿Alguien está empujando en el otro lado?)"
+      ]
+    },
+    {
+      "text": "Sabiendo que no debería ser así, me pongo tenso el\nhombro y me estrello contra la puerta. Esta vez\ncede, y al otro lado me recibe..."
+    },
+    {
+      "text": "Nadie."
+    },
+    {
+      "text": "Me convenzo de que el problema es el propio\nmecanismo de la puerta, y me dirijo a la pista sin\ndarle mucha importancia."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "He estado corriendo detrás de ti... desde que era\npequeño... ¿Por qué... no puedo alcanzarte nunca?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...¿Cómo logras acelerar en las curvas de esa\nmanera?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "¿Cómo... mantienes esa forma? Es tan elegante como\nlas ramas de sauce que se balancean en la brisa."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Eres simplemente... increíble. Pero incluso\nasí... estoy decidido a alcanzarte algún día..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Así que voy a seguir corriendo. Y corriendo...\nNo importa cuánto tiempo tome..."
+    },
+    {
+      "text": "La silueta de Manhattan Cafe se desvanece en las\nsombras de la pista. Pronto vuelve a aparecer en\nla recta final con una increíble explosión de\nvelocidad."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Haaah!"
+    },
+    {
+      "text": "Su cabello negro como el carbón la mantiene bien\noculta en la oscuridad turbia, pero es capaz de\nhacerse notar con una explosión de velocidad."
+    },
+    {
+      "name": "???",
+      "text": "¿Qué te parece? Esa habilidad suya es bastante\nimpresionante, ¿no?",
+      "choice_data_list": [
+        "¡Wah!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Je, je, sorprendido de verme, ¿eh? Estoy segura de\nque tu presión arterial subió un poco justo ahora.\nMe encantaría tomar tu pulso, pero hay otros\nasuntos más urgentes."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Supongo que eres uno de los nuevos entrenadores\nque busca a alguien para reclutar. O tal vez..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Eres un rascal que espía a las Umamusume tarde en\nla noche. Estaría obligado a denunciarte, por\nsupuesto.",
+      "choice_data_list": [
+        "¡Soy un entrenador!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Es eso así? Bueno, eso es bueno de saber. ¿Te ha\nllamado la atención, eh?",
+      "choice_data_list": [
+        "Estoy un poco curioso, eso es todo."
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Eh? Me pregunto qué podría ser la fuente de esa\ncuriosidad. ¿Es su habilidad, o has notado algún\ntipo de fenómeno extraño que parece provenir de\nella?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No importa, supongo. Sería mejor que hablaras con\nella directamente en lugar de mirar desde lejos.\nEl tiempo es finito, después de todo."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Y aunque me gustaría observar cómo elige\ninteractuar contigo, tengo que regresar a mi\ninvestigación."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ah, pero déjame darte un consejo."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Sé asertivo en tu propuesta. Descubrirás que puede\nser sorprendentemente complaciente."
+    },
+    {
+      "text": "¿Qué fue todo eso?"
+    },
+    {
+      "text": "\"Fenómenos extraños\", aunque. ¿También ha\nexperimentado algo así después de interactuar con\nManhattan Cafe?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "<i>Haa... Haa...</i>",
+      "choice_data_list": [
+        "Buenas noches."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "¿Eh? Sí... es.",
+      "choice_data_list": [
+        "¿Siempre entrenas tan tarde?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Sí. Puedo verla mejor... de noche."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...¿Tienes... algún asunto conmigo?",
+      "choice_data_list": [
+        "Parecía que estabas hablando con alguien ahora\nmismo."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Sí."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Con mi amiga."
+    },
+    {
+      "text": "Miro alrededor de la pista vacía, sin poder ver a\nnadie más."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "No podrás verla... Nadie puede, no importa cuánto\nbusque..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Así que por favor... no te preocupes por eso.\nRealmente... no deberías."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Soy el único... que siempre la nota. Ella... se\nmantiene lejos, even de mí...",
+      "choice_data_list": [
+        "¿Así que tienes una amiga que solo tú puedes ver?",
+        "¿Así que tienes una amiga que solo tú puedes ver?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "..."
+    },
+    {
+      "text": "Acepto su palabra, pero ¿qué podría significar\neso? Una \"amiga\" que solo ella puede ver."
+    },
+    {
+      "text": "¿Está hablando de algo como un fantasma?"
+    },
+    {
+      "name": "???",
+      "text": "InCorRecT",
+      "choice_data_list": [
+        "InCorRecT"
+      ]
+    },
+    {
+      "text": "Nadie está alrededor excepto nosotros dos. No\npuedo decir que haya escuchado una voz, pero de\nalguna manera mi mente ha sido infiltrada con una\nrespuesta a mi pregunta."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "¿Te parezco... \"espeluznante\"?",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Nada... Olvídate de que te lo pregunté."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Disculpa."
+    },
+    {
+      "text": "Manhattan Cafe me hace una ligera reverencia y se\naleja."
+    },
+    {
+      "text": "No puedo negar que parezco estar experimentando\nfenómenos extraños. ¿Tendrá algo que ver con este\n\"amigo\" de ella?"
+    },
+    {
+      "text": "Hay mucho en mi mente, pero más que nada, no puedo\ndejar de pensar en su increíble carrera anterior."
+    }
+  ]
+}

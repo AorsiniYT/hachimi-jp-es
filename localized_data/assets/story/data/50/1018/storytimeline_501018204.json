@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Estamos dando la bienvenida al otoño aquí en el\nHipódromo de Kyoto con la última carrera de la\nserie Triple Tiara: el Shuka Sho!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡La carrera está a punto de empezar! ¿Quién se\nllevará la gloria?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡UUUU!</i>"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Antes de que comience la carrera, hay algo que\ndeseo decirte.",
+      "choice_data_list": [
+        "¿Qué es?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Has hecho un gran trabajo hasta ahora."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Prometo que hoy haré justicia a tu duro trabajo.",
+      "choice_data_list": [
+        "Sé que lo harás."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Bueno, entonces... aquí vamos."
+    }
+  ]
+}

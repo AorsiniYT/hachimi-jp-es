@@ -1,0 +1,147 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, frente a la estación..."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Vaya, si es mi entrenador!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Así es. Hola.",
+      "choice_data_list": [
+        "¿Están comprando juntos?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Más o menos. Vinimos a rentar un DVD."
+    },
+    {
+      "name": "King Halo",
+      "text": "El pronóstico dijo que este fin de semana estaría\nnublado, así que pensamos ver una película en mi\nhabitación."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Holgazaneando, comiendo snacks y viendo\npelículas... La mejor combinación del mundo."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Disculpe! ¿Quién dijo que <i>yo</i> iba a estar\nholgazaneando?"
+    },
+    {
+      "name": "King Halo",
+      "text": "Sí, las películas son entretenimiento, pero\ntambién están llenas de lecciones."
+    },
+    {
+      "name": "King Halo",
+      "text": "De hecho, el otro día, una película me enseñó todo\nsobre la belleza de la humildad."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...¿Estás seguro de que realmente lo entendiste?"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡¿Qué se supone que significa <i>eso</i>?!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Más importante, ¿qué película deberíamos rentar?\nHe visto la mayoría de los estrenos."
+    },
+    {
+      "name": "King Halo",
+      "text": "Preferiría algo con una valiosa experiencia de\naprendizaje. ¿Tienes alguna recomendación,\nEntrenador?",
+      "choice_data_list": [
+        "¿Qué tal esta película de terror para inspirar\nalgo de valentía?",
+        "¿Qué tal esta serie de TV que habla de las\ncomplicaciones de las relaciones?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "...¿Eh? ¿T-terror?!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oooh, me gusta cómo suena eso. Es divertido ver\ncosas intensas de vez en cuando."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡E-espera! ¡Eso no me conviene en absoluto!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿No aprenderías más de ello <i>porque</i>no es lo tuyo?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ohhh... No me digas, tú eres..."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Ohohoho! ¿Yo, asustada? ¡Por supuesto que no!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, la semana siguiente, después del\nentrenamiento..."
+    },
+    {
+      "name": "King Halo",
+      "text": "<i>Revuelvo, revuelvo.</i>",
+      "choice_data_list": [
+        "¿Qué estás buscando?",
+        "¿Qué estás buscando?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¡N-no estoy buscando nada! No es como si estuviera\npreocupada por que aparezcan monstruos!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Bueno, ¡me voy ahora! ¡Gracias por la sesión de\nhoy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Resulta que King Halo <i>sí</i> aprendió algo de la\npelícula que vio el fin de semana—formas de\nescapar de monstruos."
+    },
+    {
+      "name": "King Halo",
+      "text": "Ya veo. Aprendiendo sobre cómo los personajes\nviven sus vidas..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pero no podemos ver una serie entera en un día,\n¿verdad?"
+    },
+    {
+      "name": "King Halo",
+      "text": "Podemos dividirla. Me intriga saber qué va a\npasar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y luego, durante la primera sesión de\nentrenamiento de la semana siguiente..."
+    },
+    {
+      "name": "King Halo",
+      "text": "...¿Y-y... empezamos el entrenamiento?",
+      "choice_data_list": [
+        "¿Estás bien? Pareces bastante cansada."
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "No pude resistirme. Vi los cincuenta y dos\nepisodios seguidos. Sky se fue a mitad de camino,\npor desgracia."
+    },
+    {
+      "name": "King Halo",
+      "text": "Creo que hice un trabajo espléndido para\nterminarlo, si me lo permites decirlo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque se suponía que debía estudiar las\nrelaciones interpersonales, King Halo termina\nmejorando su resistencia en su lugar."
+    }
+  ]
+}

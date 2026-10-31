@@ -1,0 +1,71 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fan A",
+      "text": "¿El nombre de esa corredora? Creo que era Agnes\nTachyon, ¿verdad? ¡Fue increíble!"
+    },
+    {
+      "name": "Fan B",
+      "text": "Sí, ya es muy talentosa, y aún le queda mucho por\ncrecer!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La deslumbrante actuación de Agnes Tachyon cautiva\na todos los presentes en la carrera!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Uf! ¡Así se hace!",
+      "choice_data_list": [
+        "¡Buen trabajo en la carrera, Tachyon!",
+        "¡Gran trabajo en la carrera, Tachyon!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Pero si no es el Entrenador! Como siempre, tienes\nesa apariencia pura e inocente que le queda\nperfecta a un conejillo de Indias modelo."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Trajiste las hojas de té que necesitaba?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ah, cierto, ahora no es momento para esto. Debo\nhablarte de algo más."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Con la carrera debut superada, en lugar de\ndescansar un poco, debo informarte de algo\nimportante. Sabes a qué me refiero, ¿verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Algo importante? ¿Y justo después de la carrera\ndebut? Si me atrevo a adivinar...",
+      "choice_data_list": [
+        "(¿Podría ser sobre la próxima carrera?)"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Mi experimentación se ha estancado, ¿ves? Debo\nvolver al laboratorio de inmediato."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Dicho esto, me retiro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y con eso dicho, ella efectivamente se retira.",
+      "choice_data_list": [
+        "(...¡Debería haberlo sabido!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella se va de inmediato sin siquiera un comentario\nsobre la carrera debut o una palabra sobre sus\nperspectivas futuras."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, es cierto que ha llamado mucho la\natención como una corredora notable!"
+    }
+  ]
+}

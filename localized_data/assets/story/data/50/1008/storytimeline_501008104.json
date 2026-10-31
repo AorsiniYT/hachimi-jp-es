@@ -1,0 +1,224 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tokai Teio",
+      "text": "¡Oye, todos! ¡Empieza! ¡Apúrense!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hay un festival de verano esta noche, y todos\ndeciden ir a ver cierto evento."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Por cierto, el evento de hoy está listado como una\n\"carrera de aceleración\" de motocicletas. ¿Puedo\npreguntar qué es eso?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Será una carrera en una pista recta de 400 metros."
+    },
+    {
+      "name": "Vodka",
+      "text": "Normalmente son súper intensas y pasan en un abrir\ny cerrar de ojos, pero esta es solo un espectáculo\nsecundario del festival. ¿Quién sabe cuán\nauténtica será?",
+      "choice_data_list": [
+        "No pareces interesada.",
+        "No pareces interesada."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Nah. Probablemente será alguna carrera patética de\nbajo nivel."
+    },
+    {
+      "name": "Vodka",
+      "text": "Probablemente sean viejos en sus restaurantes\nmotocicletas de reparto chatarrosas. Estoy\nhablando de <i>ese</i> tipo de nivel bajo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Vrum, vrum, VRUUUUM!</i>"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Q-qué? ¡El sonido de ese motor!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El rugido que escuchamos seguro que no<i>suena</i> como\nuna motocicleta de reparto pequeña y cutre."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Ruuum, ruuum, RUUUUM!</i>"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Whoa! ¿Qué está pasando aquí?! ¡No pueden ser de\nverdad! ¡Todos parecen aficionados..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Pero mira esas motos! ¡Vaya! ¡Y esta... esta me\ndeja boquiabierta!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Poco después, la carrera comienza. Una batalla de\nvelocidad tan feroz, que no creerías que solo dura\ndiez segundos."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Whoa, están locos! ¡Eso debe ser un nuevo récord!\n¡Las motos hicieron <i>¡graaahhh!</i> al final!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>Tos... Tos...</i> Ay, todo este humo. La verdad es que\nes un poco preocupante."
+    },
+    {
+      "name": "Vodka",
+      "text": "Solo queda una... ¿Lo lograrán? ¿Lo harán?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡RUUUUM!</i>"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Lo lograron! ¡Whoa, en serio?! ¡Ganar por solo\n0.2 segundos es una locura!"
+    },
+    {
+      "name": "Piloto de drag",
+      "text": "¡Agh, maldición! Ah bueno, supongo que fue el\ndevuelto del año pasado."
+    },
+    {
+      "name": "Drag Race Winner",
+      "text": "¡Claro que sí! Tal vez fue algo diferente en el\nagarre de tus llantas. De cualquier forma, ¡vamos\na tomar algo!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Guau... Por un verano... Por solo estos diez\nsegundos, esta gente..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Eso estuvo increíble! ¿Quién sabía que las zonas\nrurales tenían festivales así de brutales?",
+      "choice_data_list": [
+        "Fue una carrera bastante reñida.",
+        "Fue una carrera bastante reñida."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Claro. Y realmente me impactó mientras lo veía que\nno quiero perder. ¡Yo también quiero brillar!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Esa velocidad... Esa locura! ¡Nunca lo olvidaré!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que la carrera de aceleración fue el tesoro\nde verano que Vodka buscaba. Poco después..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Síii! ¡Ahora es nuestro turno! ¡Teio! ¡McQueen!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Yo también quiero competir por un destello de\ngenialidad con algunos juegos de feria! ¿Con cuál\ndebemos empezar?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Eres tan simple, Vodka. Al principio también\nestabas actuando como si te aburrieras."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Un destello de genialidad? ¡Oh, lo sé! ¡Podríamos\nhacer el juego de disparos! ¿O tal vez pesca? ¿Qué\nmás hay?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Tú decides, Entrenador. ¿En qué juego debemos\ncompetir?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Miro los carteles. Una oportunidad para un\ndestello de genialidad... ¿Qué sería bueno para\neso?",
+      "choice_data_list": [
+        "¡Un concurso de comer castella!",
+        "¡Una batalla de suerte en la rifa!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Huh? ¿Esos bocadillos de té? ¿Cómo haces un\nconcurso con eso?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Oooh! ¡Vodka, mira! ¡Esas no son rebanadas, son\nladrillos enteros!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Mira, mira! ¡Son <i>enormes!</i> ¿Por qué incluso harían\nestas cosas?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Q-quéeee?! ¡No puede ser! ¡Son como rocas!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Imagina la tortura si también están rellenas de\npasta de frijol. ¿Ni siquiera puedes levantarlas?!",
+      "choice_data_list": [
+        "¿Qué te parece tu desafío, Vodka?",
+        "¿Qué te parece tu desafío, Vodka?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡S-sí! ¡Supongo que no puedo rechazarlo! ¡Este es\nmi verano para brillar!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Te mostraré que tengo tanta potencia como esos\npilotos de aceleración!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Aughhh! ¡Gahhh, esto pesa muchooo! ¿Se puede\nllamar siquiera pastel a esto?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Es tan grande que no puedo ver a dónde voy! ¡Whoa\nallá!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vodka carga obstinadamente con la extremadamente\npesada roca de pastel. Parece que está teniendo un\nbuen entrenamiento."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Una rifa? Suena bien. Ese tipo de cosas realmente\n<i>sí</i> empiezan y terminan en un abrir y cerrar de\nojos."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Muy bien! ¡Hagámoslo! ¡Todos tomen uno!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cada uno toma un boleto de rifa, y..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Oh, gané el Fusion Robot DX. ¿Eso es un buen\npremio?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Yo gané una corona de juguete! ¡Genial! La usaré\nel resto del campamento de verano. ♪",
+      "choice_data_list": [
+        "¿Y tú, Vodka?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿¡Quéeee!? ¡Cenizas de fuegos artificiales\nsobrantes! ¡Este es un fracaso total!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Augh, espera! ¡Una vez más! ¡Te mostraré cómo se\nve un destello de genialidad!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vodka sigue sacando boleto tras boleto para la\nrifa. Gasta todo su dinero en ello, pero al menos\ntiene agallas para seguir."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Oguri Cap",
+      "text": "Así que esta es una carrera G1... Definitivamente\nhay una atmósfera única aquí."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pero creo que estaré bien. Solo teníamos pistas de\ntierra en Kasamatsu, pero corría millas todo el\ntiempo."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Me gustan las carreras de corta distancia. Es\nbueno no tener que preocuparse por nada más que\npor correr.",
+      "choice_data_list": [
+        "¡Disfruta allá afuera!",
+        "¡Disfruta allá afuera!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Lo haré. ¡Vuelvo pronto!"
+    }
+  ]
+}

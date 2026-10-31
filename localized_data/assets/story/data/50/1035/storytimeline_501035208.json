@@ -1,0 +1,144 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El día de la Arima Kinen..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las gradas están llenas de fans listos para ver el\nenfrentamiento BNW."
+    },
+    {
+      "name": "Fan A",
+      "text": "¡No puedo esperar para verlas! ¡He sido fan desde\nel Japanese Derby!"
+    },
+    {
+      "name": "Fan B",
+      "text": "¡Esa fue una carrera tan legendaria! ¡Lloro cada\nvez que veo el video."
+    },
+    {
+      "name": "Fan A",
+      "text": "Ha pasado un año y medio desde entonces... ¡Me\npregunto cuánto han mejorado!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Muy bien, ustedes dos—¡aquí vamos! ¡LA ARIMA!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡KIIIIIIIIIIN!"
+    },
+    {
+      "name": "Taishin y Hayahide",
+      "text": "..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Eh? ¡Vamos, dilo conmigo!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Debemos?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Sí, para emocionarnos! Ya saben, ¡agrupémonos y\nmotivémonos mutuamente!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Paso."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿¡Quéeee!? ¡Hoy es la <i>Arima Kinen,</i> chicos!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Lo siento, pero no pretendo hacerlas más enérgicas\nde lo que ya están."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Incluso los factores pequeños que podrían ayudar a\nsu victoria deben evitarse."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Exactamente."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ay, ¡vamos <i>por faaavor!</i>"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Está bien! ¡Entiendo que ambas son serias! Pero\nyo tampoco quiero perder, ¿saben?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Solo me emocionaré yo misma! ¡Y también ganaré!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jaja... Sí, ese es el espíritu."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Veremos quién gana."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡SÍ! ¡Ahora esto es una competencia real!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le grito a la única persona gritando en su pequeño\ngrupo de tres.",
+      "choice_data_list": [
+        "¡Ticket!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Oh, Entrenador! ¿Viniste a despedirme?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Mantén los ojos bien abiertos! ¡Hoy voy a\nconseguir una victoria de las buenas!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Entonces también te inspirarás para soñar en\ngrande!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No puedo evitar sonreír ante su valiente\ndeclaración.",
+      "choice_data_list": [
+        "¡Sí, tú puedes!",
+        "¡Sí, tú puedes!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Es hora, Ticket."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El bullicio de emoción afuera por la carrera es\ntangible.",
+      "choice_data_list": [
+        "(¡Ve y muéstrales una carrera BNW real!)",
+        "(¡Ve y muéstrales una carrera BNW real!)"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡ALLÁ VAMOOOS!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Salen disparadas..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...¡y el público recibe a las BNW con una\nexplosión de ánimos!"
+    }
+  ]
+}

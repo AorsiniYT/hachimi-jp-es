@@ -1,0 +1,76 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Antes de comenzar el entrenamiento, decido hablar\ncon Fine Motion sobre la agenda de hoy. Sin\nembargo..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Mmm..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Lo sé! Hagamos algo diferente hoy. ♪",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¿Hm?",
+      "choice_data_list": [
+        "¿P-puedo preguntar por qué?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Porque será más divertido! Asumo que eres capaz\nde ajustar la agenda."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Ya se me ocurrió una idea! ♪ Vamos, ¡comencemos\nde inmediato!",
+      "choice_data_list": [
+        "Eh, espera..."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ahora, si mi memoria no me falla, al hacer\npeticiones, es mejor decir..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Por favor! ♪",
+      "choice_data_list": [
+        "<i>¡Glup!</i>"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¿Oh? No estuvo del todo bien, ¿eh? Está bien,\nintentemos un enfoque diferente..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Ahem! Oye. ¿Realmente pretendes ignorar <i>mis</i>\ndeseos?"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Si no estás dispuesto a escuchar lo que tengo que\ndecir... entonces haré un puchero. Hmph."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...",
+      "choice_data_list": [
+        "...¡Su deseo es mi orden!"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Yay! ¡Vamos entonces, vámonos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, terminamos yendo con la agenda de\nentrenamiento de Fine Motion."
+    }
+  ]
+}

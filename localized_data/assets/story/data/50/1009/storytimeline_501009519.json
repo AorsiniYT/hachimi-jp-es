@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ngh... Mis hombros han estado doliendo\núltimamente... Supongo que ese rumor realmente es\ncierto.",
+      "choice_data_list": [
+        "¿Qué rumor?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Um... Dicen que hay, eh... un fantasma que aparece\nen la pista por la noche."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "P-pero no tengo miedo, ¡obviamente! ¡No creo en\nfantasmas!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Aún así... He estado haciendo algo de\nentrenamiento en solitario por la noche, y me he\nsentido fuera de lugar... A-así que ha estado en\nmi mente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Suena como que realmente le afectó. Parece un poco\nindispuesta..."
+    }
+  ]
+}

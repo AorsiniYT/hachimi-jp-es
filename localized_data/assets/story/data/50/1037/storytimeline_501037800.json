@@ -1,0 +1,203 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Casualmente veo a Eishin Flash mientras reviso las\ntiendas en la planta baja de una tienda\ndepartamental."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Tengo casi todos los ingredientes que necesito.\nTodo lo que falta es conseguir algunas frutas...",
+      "choice_data_list": [
+        "¿Preparando para una sesión de horneado?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Oh, hola, Entrenador."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Una amiga mía quiere hacer chocolates para el Día\nde San Valentín, asi que pensé que sería bueno\npreparar diferentes postres para que ella los use\nde referencia."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Además del chocolate normal, planeo hacer\nmagdalenas y algunos otros dulces.",
+      "choice_data_list": [
+        "Eso suena divertido.",
+        "Eso suena divertido."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Si estás interesado en el proceso, eres bienvenido\na observarme mientras trabajo."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Comenzaré a hornear en... una hora y treinta y\ntres segundos a partir de ahora.",
+      "choice_data_list": [
+        "¡Me encantaría venir y ver!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "En ese caso, ¿podrías ayudarme a terminar mis\ncompras? Tengo veinte minutos más para conseguir\nlas cosas que necesito."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de ayudarla a encontrar todo en su lista,\nlos dos vamos a la cocina en la cafetería."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Listo. Los preparativos finalmente están\ncompletos. Reservé un tiempo para un descanso\nantes de empezar, así que primero tomemos un té.",
+      "choice_data_list": [
+        "Te ves genial con esa ropa.",
+        "Te ves genial con esa ropa."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Crees eso? Gracias."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Me siento honrada de recibir tales elogios. Hace\nque todo el sufrimiento que pasé por el diseño\nvaliera la pena.",
+      "choice_data_list": [
+        "¡Es un gran diseño!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Es todo gracias a los artesanos que lo\nconfeccionaron. Su habilidad es lo que realmente\nhace que mi atuendo cobre vida."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Elegí el diseño base de un catálogo y les pedí\ncrear un atuendo con un motivo de pastelero."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Recibí varios conceptos de diseño, pero todos\nfueron tan increíbles que tuve problemas para\nseleccionar uno."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Pero entonces, mientras debatía mis opciones, de\nrepente recordé la imagen de mi padre haciendo\npasteles."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Fue entonces cuando este diseño se me ocurrió y de\nalguna manera supe... esto es lo que necesitaba."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Naturalmente, esto no es lo que mi padre usa, pero\nel diseño sí me recuerda a él.",
+      "choice_data_list": [
+        "¿Cómo es eso?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Por ejemplo, los ojos de mi padre son apasionados\ny enfocados. Esas cualidades son el orgullo de un\npastelero."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Aún no soy una profesional en esa línea de\ntrabajo, pero aun así, me gustaría usar algo con\nel mismo orgullo y dignidad que tiene mi padre."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Es importante volcar el corazón y el alma en cada\naspecto del proceso de horneado, no importa cuán\ninsignificante pueda parecer."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No creo que los pasteles hagan feliz a la gente\nsimplemente por su sabor, sino por el amor que se\npone al hacerlos."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Cada sonrisa que ayudamos a crear como pasteleros\nes absolutamente invaluable."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Debo tenerlo en cuenta cuando uso esta ropa...\ndonde sea que esté."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque solo está haciendo muestras para su amiga,\npuedo decir que Eishin Flash está poniendo todo su\nempeño en hacer cada una."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pienso en lo feliz que deben hacer sentir a la\ngente sus pasteles. ¿Cómo podría alguien ser\ninfeliz después de comer algo que ella hizo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero cuando le digo eso..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Glück... ¿Felicidad, dices?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "En ese caso, me pregunto si tú también llegarás a\nser feliz.",
+      "choice_data_list": [
+        "¿Perdón?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Comenzaré a hornear en dos minutos."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Cuando los pasteles estén listos... ¿te gustaría\nprobarlos?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, observo con entusiasmo cómo Eishin Flash\nprepara con destreza una variedad de postres."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En poco tiempo, todo tipo de pasteles llenan la\nmesa, infundiendo el espacio con su dulce aroma.\nSe ven tan bien que suelto un pequeño chillido de\nemoción sin pensarlo."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Jeje. Esa es exactamente la sonrisa que\nesperaba ver."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eishin Flash toca su atuendo con una suave\nsonrisa."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Espero que ese sea realmente el caso."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Tengo la intención de hacer estas muestras de\npostres lo mejor que pueda..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sin embargo, también me gustaría ver qué tipo de\nchocolates se exhiben en las tiendas."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Con el día de San Valentín acercándose, tiendas\nfamosas de otras prefecturas deberían tener\npuestos en los grandes almacenes pronto."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Cuando lo hagan... ¿te gustaría venir conmigo a\nver sus exhibiciones?",
+      "choice_data_list": [
+        "¡Me encantaría!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Jeje."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eishin Flash se ve muy feliz mientras hornea, pero\ntambién hay un aire digno en ella."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo la sensación de que la estoy viendo de la\nmisma forma que ella veía a su padre en toda su\ngalante gloria."
+    }
+  ]
+}

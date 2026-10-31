@@ -1,0 +1,264 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras paseo por la ciudad, veo a\nMatikanefukukitaru lanzando un dado con mucha\nseriedad."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Hum, un dos... ¡Un número par significa tomar la\ncalle a la izquierda!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Oh! ¡Hola, Entrenador!",
+      "choice_data_list": [
+        "¿Qué estás haciendo?",
+        "¿Qué estás haciendo?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Jeje. Pues verás... ¡anoche, una revelación divina\napareció en mis sueños!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Resulta que ahora mismo hay un nuevo sitio sagrado\nsuperpoderoso por aquí cerca. ¡Pero su poder solo\ndurará un corto tiempo!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Las indicaciones no vinieron incluidas con la\nrevelación, ¡pero eso no es problema! ¡Porque este\ndado de la suerte me guiará a la tierra prometida!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "...Primero, parece que me ha traído directamente a\nti."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Hum... ¡Esto no puede ser mera coincidencia!\nPresumo que esto significa que tú serás quien me\nguíe al sitio.",
+      "choice_data_list": [
+        "¿De verdad lo crees?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Por favor, Entrenador! Lanza el dado y ¡muéstrame\nel camino!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es un poco tarde para negarme, así que supongo que\nlo intentaré..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Un tres! Un número impar significa bajar por la\ncalle a la derecha... ¡Ese es el camino a la\nestación!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Así que el destino quiere que tomemos el tren!\n¡Vamos, vámonos!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Jejeje! ¡Lo siento! ¡Estamos más cerca del sitio\nsagrado! ¡¿No es emocionante?!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Ahora toca descubrir en qué estación bajarnos.\n¡Consultemos al dado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un uno significaría la próxima estación, un dos la\nsiguiente, y así... Un seis nos llevaría a la\núltima parada. Lanzo el dado en la palma de mi\nmano, lo que me da..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Un uno! Entonces debemos bajarnos en la próxima\nes—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El tren da una sacudida repentina, haciendo que el\ndado se me escape de la mano."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡¿Eh?! ¡Ahora es un seis!",
+      "choice_data_list": [
+        "¿Cuál elegimos?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Hum... ¡Esto es un gran problema!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Entrenador, tú siempre me guías por el camino\ncorrecto! Así que por favor, ¡te pido que tomes la\ndecisión final!",
+      "choice_data_list": [
+        "Uno. Bajemos en la próxima estación.",
+        "Seis. Sigamos hasta la última parada."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Entendido! ¡No puedo esperar a ver qué\nencontramos!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Guau, así que este es el sitio sagrado! ¡La\nenergía mística aquí es increíble!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A mí me parece como cualquier otra parte de la\nciudad, pero lanzamos el dado y seguimos\ncaminando."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Mira ese letrero! \"Asador Sagrado Humo\". ¿Será\nuna de las delicias locales de la zona?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Es el nombre perfecto para un sitio sagrado!\n¡Vamos a ver qué tienen!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Oh, ¿debería comer siete brochetas para la suerte?\n¿O quizás ocho para la prosperidad?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Guau! ¡Mira esa gran escultura frente al museo!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Vaya, refleja mucha luz! ¡Qué brillante! Apuesto\na que está súper cargada con la energía del sol,\nhasta el núcleo."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Por qué no intentamos tocar para absorber un poco\nde ese poder? ¡Vamos!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Y... tocamos!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Uf! ¡Qué día! ¡Me divertí muchísimo!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Estoy lista para conquistar el mundo! ¡Ese es el\npoder de visitar un sitio sagrado supercargado, y\nsolo por tiempo limitado!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Um... ¿Cómo te pareció el día a ti, Entrenador? Al\nfinal te arrastré todo el día...",
+      "choice_data_list": [
+        "¡Me divertí!"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿De verdad? ¡Me alegra escucharlo! Además,\n¡conseguimos montones de poder!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No pareció haber nada milagroso en los eventos de\nhoy, pero Matikanefukukitaru y yo la pasamos\ngenial de todas formas."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Jeje! No me molestaría si más revelaciones\ndivinas como esta llegaran a mí."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Bueno, quizás no debería ser tan codiciosa."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Pero... sería lindo disfrutar así de vez en\ncuando."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Jeje, quizás le pida a Shiraoki otra revelación\nantes de dormir hoy."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Entendido! ¡Adelante! ¡Contigo a mi lado, puedo\nviajar hasta los confines de la tierra!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bajamos en la última parada para encontrar un\npaisaje abierto y sereno que se extiende hasta el\nhorizonte."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Mmm! ¡El aire aquí es tan limpio y fresco! ¡Hasta\nel gran exterior está rebosante de poder!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Creo que estamos en algo maravilloso! ¡Vamos,\nEntrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lanzo el dado bajo su mirada expectante, y\navanzamos diligentemente. Y avanzamos, y\navanzamos, y avanzamos..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Ah, parece que este es el fin del camino."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Creo que podría ser esto... ¡el sitio sagrado\nsupercargado y solo por tiempo limitado! ¡Ahora,\n¿qué milagros nos esperan?!",
+      "choice_data_list": [
+        "¿De verdad esperas que ocurra un milagro?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Por supuesto! ¡Al fin y al cabo, fuiste tú quien\nnos trajo aquí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella dice esto con una sonrisa tan brillante que\nme hace albergar esperanzas de un milagro yo\nmismo."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡¿Eh?! ¿Q-qué fue ese sonido?!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡E-entrenador! ¡Mira al cielo! ¡Algún tipo de luz\nviene hacia acá!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿E-eh?! ¿Whaa—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una luz deslumbrante, seguida de un trueno\nensordecedor, captura todos mis sentidos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿V-viste eso, Entrenador?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Fue un OVNI!",
+      "choice_data_list": [
+        "¿De verdad lo crees?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Tenía que serlo! ¡Ese fue un regalo... poder del\ncosmos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No pude verlo con claridad, pero si ella es feliz,\n¿quién soy yo para discutir?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Realmente eres mi compañero destinado! ¡Qué\nacontecimiento auspicioso ha traído tu guía sobre\nnosotros!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Estoy segura de que cosas más increíbles nos\naguardan si permanecemos juntos! ¿No crees?"
+    }
+  ]
+}

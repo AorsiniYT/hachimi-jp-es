@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Justo cuando Mejiro Ardan y yo hemos completado el\nrégimen de entrenamiento del día..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Puedo correr un poco más, Entrenador?"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Verás, una de mis compañeras dijo que experimentó\nalgo sobrenatural en la pista después del\natardecer."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Al parecer, escuchó pasos acercándose a ella por\ndetrás mientras corría. Cuando miró alrededor, sin\nembargo, no había nadie allí..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Hay ese dicho, \"Un corazón temeroso ve demonios en\nla oscuridad\"... pero me gustaría bastante\ndescubrir la fuente de estos supuestos pasos.",
+      "choice_data_list": [
+        "Eso sí que me da curiosidad...",
+        "Demasiado correr. No puedo permitir que hagas eso."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Entonces, ¿supongo que tengo tu permiso? Gracias."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Te informaré mañana si he encontrado algún\nespectro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso, Mejiro Ardan continúa corriendo vueltas\nalrededor de la pista hasta altas horas de la\nnoche."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Veo tu punto. El descanso insuficiente puede\nllevar a lesiones después de todo. No correré por\nel resto del día."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "En cambio, averiguaré cualquier actividad\nsobrenatural mientras hago mis estiramientos de\nenfriamiento y pongo hielo en mis articulaciones."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque la investigación de Mejiro Ardan no\nencuentra ningún fantasma, al menos demuestra una\nbuena alternativa al entrenamiento excesivo."
+    }
+  ]
+}

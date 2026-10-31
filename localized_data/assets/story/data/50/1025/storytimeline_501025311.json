@@ -1,0 +1,192 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Manhattan Cafe",
+      "text": "<i>Haa... Haa...</i> La brecha... entre mi amiga y yo...\nla cerré un poco..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Pero no pude alcanzarla..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Y Special Week... fue una oponente más dura de lo\nque pensé que sería..."
+    },
+    {
+      "name": "Special Week",
+      "text": "<i>Haa... Resuello...</i> ¡Uf! ¡Le di todo a esa carrera!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Y <i>eso,</i> Cafe, fue un sabor de las abundancias de\nHokkaido! ¡Cuanto más comes y corres, más duro te\npones!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Cuanto más comes y corres... O sea, no solo comes,\nsino que lo quemas todo para tener energía..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Así que <i>así</i> es como Special Week..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Manhattan Cafe ha captado algo que se\nquedará con ella."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Sobre nuestro próximo objetivo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Teóricamente, avanzar al Takarazuka Kinen—el Grand\nPrix de primavera—sería la ruta estándar a seguir.",
+      "color_text_info_list": [
+        "Takarazuka Kinen"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero no se ve bien, y también me preocupan sus\nuñas. Tal vez tengamos que priorizar el\ndescanso..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siento una presión silenciosa. Es como si ella\nestuviera diciendo... descansar <i>no es</i> una\nopción..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En ese caso, juguemos seguro. Decidiendo que\ndescanse en el verano, digo yo...",
+      "choice_data_list": [
+        "Entremos al Takarazuka Kinen."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...NO.",
+      "choice_data_list": [
+        "?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por un segundo creo que estoy escuchando cosas. La\nvoz de Manhattan Cafe hace un momento... Sonó como\nla de otra persona..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella puede decir no, pero el Takarazuka Kinen es\nla opción más ambiciosa que tenemos esta\nprimavera. ¿Qué estará pensando exactamente?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "No la alcanzaré... No de esa manera. Si voy a\nponerme más rápido y fuerte, debemos ir..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Lejos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Se mueve con calma, como un espíritu. Pero cuando\nseñala, la dirección es precisa."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Lejos... Al extranjero, a Francia...",
+      "choice_data_list": [
+        "¿¡Francia!?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Allá es donde mi amiga va... sola... Así que yo\ndebo..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Je-je. Al extranjero, ¿eh? Ya veo..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Esa amiga imaginaria tuya no tiene cuerpo físico.\nSupongo que no necesita preocuparse por las leyes\nde la física."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Deberíamos intentar establecer un diálogo? \"Hola,\nllamamos desde la tercera dimensión.\""
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Estás tratando de destruir el cuerpo de tu\nanfitriona? ¿O tus acciones están impulsadas por\ntu fe en ella?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...No puedo comunicarme. ¿Quizás ella no tiene\ndeseo de comunicarse con nosotros?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Entrenador... harás que mi deseo se cumpla,\n¿verdad?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Mi amiga me está diciendo que vaya a ella. No\npuedo ignorarla..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una carrera internacional en Francia...\nDefinitivamente podrías decir que era una opción\nmás ambiciosa que el Takarazuka Kinen."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y hay cierta carrera en Francia que todas las\nUmamusume sueñan con ganar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tomando en cuenta la condición de Manhattan Cafe,\nlas probabilidades están en contra. Pero este es\nsu sueño. Y lo más importante..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Prometí que perseguiríamos a su amiga. Y esa es\nuna promesa que pienso cumplir.",
+      "choice_data_list": [
+        "...Vamos."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Manhattan Cafe sonríe en respuesta, mientras Agnes\nTachyon ofrece un muy leve encogimiento de\nhombros."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Oh, casi olvido decirlo. Mantengámoslo entre\nnosotros, ¡pero realmente no me gustan los\naviones!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "No... te estoy pidiendo que vengas con nosotros."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Pero mi entrenador y yo tenemos que ir. Por eso...\nfirmamos nuestro contrato."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...Bueno, solo te lo hacía saber. No le des\nimportancia. Dicho esto..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "La locura... siempre ha sido mi especialidad,\n¿sabes?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos decidimos por un plan. Pero dado que la\nreacción de Manhattan Cafe al Tenno Sho de\nprimavera aún me preocupa..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mantengo nuestras opciones abiertas, dejando el\nTakarazuka Kinen como segunda opción. Tomaré mi\ndecisión final el próximo mes."
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Desde que me convertí en el conejillo de indias de\nacupuntura de Sasami Anshinzawa, me he\nacostumbrado a seguirle el juego a sus caprichos.\nUn día cualquiera..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Oye, <username>! ¡Mira lo que tengo!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gané este boleto para unas vacaciones en aguas\ntermiales en una rifa! ¡Debe ser algún tipo de\nrecompensa por mis buenas acciones habituales! ♪",
+      "choice_data_list": [
+        "¿Qué buenas acciones? Eh, quiero decir,\nfelicidades."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vaya, qué respuesta tan tibia? ¡Tú también\nvienes, ¿sabes?",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "El boleto es para dos, y ¿quién mejor para invitar\nque mi confiable compañera?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora basta de hablar. ¡Vamos a las aguas\ntermiales! ♪"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Guau! ☆ ¡Qué posada tan lujosa! ♪ Definitivamente\nvoy a presumir de esto con mi maestro cuando\nregrese!",
+      "choice_data_list": [
+        "¿Estás segura de que debería estar aquí contigo?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por supuesto! ¡Considéralo como agradecimiento\npor siempre cooperar con mi práctica de\nacupuntura! ♪"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Oh, pero no empieces a pensar que me conformé\ncontigo porque no tenía a nadie más que invitar.\nNo soy una solitaria sin amigos, ¿me oyes?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Mmm! ♪"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahhh... ¡Se sintió fantástico! ♪ No hay nada más\nrelajante que un baño en aguas termiales! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de un baño relajante, me topo con Sasami\nAnshinzawa en el pasillo."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Oh! ¿Acabas de terminar de bañarte también?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Las aguas termiales son increíbles! Sus\npropiedades restauradoras están a la par con las\nde la acupuntura! ♪"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Oh, ¿quieres ir a explorar la tienda de souvenirs\nconmigo? ¡Deberías comprar algo para tu aprendiz\nallí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al parecer, la acupuntura tiene una gran historia\nen la zona, así que de alguna manera terminamos\ncomprando llaveros de aguja a juego..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Suspiro...</i> ¡Estoy en el cielo! ¡Qué daría por\nsimplemente descansar y relajarme aquí por la\neternidad! ♪",
+      "choice_data_list": [
+        "Eso no está bien. Lo sabes."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Sí, lo sé... ¡Todavía tengo un deber importante\nque cumplir, después de todo!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Estoy obligada a ayudar a las Umamusume con mis\nagujas y aliviarlas de sus preocupaciones!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gracias a tu asistencia, soy una acupunturista\nmucho mejor que antes! ¡Y voy a seguir\nperfeccionando mis habilidades! ♪",
+      "choice_data_list": [
+        "¡Ese es el espíritu! ¡Trabajemos en mejorar tu\ntasa de éxito!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Sí! Contigo como mi compañera, sé que puedo\ntriunfar en el mundo de la acupuntura!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Oye, lo sé! Si vamos a hacer esto, ¿por qué no\nnos expandimos al extranjero?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Compartamos la acupuntura al mundo! Mi hermana\nsabe de asuntos globales, seguro ayudará! ♪"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Pero espera, hay más! Cuando llegue el momento—",
+      "choice_data_list": [
+        "...Lo siento, pero necesito estar ahí para mi\naprendiz.",
+        "...Lo siento, pero necesito estar ahí para mi\naprendiz."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Oh, tú! ¿Pensaste que hablaba en serio?! ¡Solo te\ntomaba el pelo! ♪"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No tengo intención de meterme entre tú y tu\ncorredora! ¡Ninguna!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Sin embargo, mi gratitud hacia ti viene del\ncorazón! ♪ ¡El maestro incluso dijo que puedo\npasar de servir bebidas—ahem, que me permiten\nproceder al siguiente paso de mi entrenamiento!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Conmigo en el deber de pinchar y tú como mi\nrespaldo, seguro estaremos en el camino más\nestable hacia el éxito! ☆",
+      "choice_data_list": [
+        "Sasami..."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "De todos modos, ¡nada supera una sesión de\nacupuntura después de un buen baño relajante! ♪"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Preparé algunas agujas especiales para hoy!\n¡Vamos, prepárate para recibir unos cuantos\npinchazos! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ya tenía mis sospechas, así que no me sorprende\nque las cosas hayan resultado así..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero de nuevo, esto es solo lo habitual cuando se\ntrata de nosotros dos."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Quédate quieta... ¡Y pinchazo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pinchazo Perfecto!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Y? ¿Soy increíble o qué? ¡Practiqué como loca\npara hoy! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Plop!</i>"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Oh, por Dios! El tratamiento fue exitoso,\nentonces, ¿qué está pasando?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Fue <i>demasiado</i> efectivo? ¿Hola? ¿Puedes oírme?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Maldición! ¡Lo haré perfectamente bien la próxima\nvez!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Voy a cuidarte tan bien, que te arrepentirás de\nhaber rechazado mi oferta! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Así que más te vale apoyar a <chrname> y apoyarla lo mejor\nque puedas, ¿entiendes?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Sientes que tú y Sasami Anshinzawa han formado un\nvínculo irremplazable durante este tiempo juntas.",
+      "choice_data_list": [
+        "(¡Espera, es algo que <i>tú</i> de todas las personas\ndebería estar diciendo?!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de que mi conciencia se desliza cada vez\nmás lejos, mi indignación aún se filtra en un\núltimo estallido mental."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después del entrenamiento..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Hm? ¿Eso es..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Está bien, casi igual que antes. Mis tiempos\npor vuelta se están volviendo más consistentes."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Parece que mi teoría era correcta... ¡Está bien,\nuna vuelta más!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Oye, cambié de opinión. Hagamos un\nentrenamiento extra."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Dame algo que me agote hasta los huesos. De lo\ncontrario..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡El fuego en mi pecho simplemente no se apaga!",
+      "choice_data_list": [
+        "¡Quemémoslo!",
+        "Podemos apagarlo mañana."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Je, eso es lo que digo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Continúo agregando entrenamiento extra hasta que\nNarita Brian esté satisfecha."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No. Tiene que ser ahora, o no tiene sentido."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le digo que es más eficiente entrenar después de\nun descanso que entrenar mientras su cuerpo ya\nestá cansado."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Eficiente? Suenas como mi hermana."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Tch, está bien. Pero eso significa que quiero\nalgo extra desafiante mañana."
+    }
+  ]
+}

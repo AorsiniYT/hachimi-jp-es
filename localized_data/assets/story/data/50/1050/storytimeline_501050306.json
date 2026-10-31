@@ -1,0 +1,92 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Taishin",
+      "text": "¡Maldición!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(¡Demonios! No puedo creer que <i>perdí!</i>¡Arrrgh!)"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Taiiishiiin!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...?!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Taishin! ¡Fuiste increíble!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Te amamuuus! ¡Ganarás la próxima vez!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(Ellos...)"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(Me estaban mirando...)"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Suspiro.</i> Tontos felices."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Uf...",
+      "choice_data_list": [
+        "¡Bienvenida de vuelta, Taishin!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Hmph. Esto no es lo suficientemente bueno para mí.\nNo puedo permitir que las cosas terminen así.",
+      "choice_data_list": [
+        "¡Sí!",
+        "¡Sí!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Me alegra que estés a bordo. Volvamos."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Necesitamos duplicar nuestros esfuerzos para el\nDerby Japonés!",
+      "choice_data_list": [
+        "¡Muy bien!",
+        "¡Muy bien!"
+      ]
+    },
+    {
+      "name": "Chica Pelirroja",
+      "text": "Taishin..."
+    },
+    {
+      "name": "Chica Pelirroja",
+      "text": "¡Fuiste increíble! Si puedes hacerlo, entonces\nquizás... solo quizás..."
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Oh, Dios mío! ¿Estás bien? ¿Por qué estás\nllorando?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque no ganó, la poderosa actuación de Narita\nTaishin parece haber ganado los corazones de\nmuchos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con el Satsuki Sho terminado, es hora de que nos\nenfoquemos en el Derby Japonés!"
+    }
+  ]
+}

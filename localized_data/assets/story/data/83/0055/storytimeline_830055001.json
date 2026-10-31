@@ -1,0 +1,198 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Umamusume",
+      "text": "¡E-ELLA ESTÁ MUERTA?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras camino por el pasillo, escucho gritos\nsiniestros desde algún lugar cercano! Corro en\npánico, pero encuentro..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Caramba! Quién se iba a imaginar que la comida de\nKing estaba envenenada?",
+      "choice_data_list": [
+        "¿¡QUÉ?!"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Jeje. Nos disculpamos muchísimo por haberlos\nasustado, pero todo está bajo control."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Es un juego de misterio de asesinato, amigo!\n¡King está bien!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Explican que el juego consiste en resolver un caso\nde asesinato basándose en las pistas entregadas a\ncada jugador por separado."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Ah, cierto! En realidad no tenemos un GM todavía—\nese es el 'game master', por cierto. ¿Te\nimportaría ser el nuestro?",
+      "choice_data_list": [
+        "Creo que puedo hacerlo..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así me encuentro dirigiendo el juego como game\nmaster de un asesinato."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Comencemos con las circunstancias que rodean a\nnuestra víctima. King fue encontrada por la noche,\ndesmayada en una de las habitaciones de huéspedes\nde la posada."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "La causa de la muerte parece ser veneno mezclado\nen un bol de flan servido con la cena. Aparte de\neso, hubo reportes de un fuerte estruendo justo\nantes de que King muriera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un comienzo ominosamente apropiado para un\nmisterio de asesinato..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Caramba, eso es horrible...! ¿Quién haría una\ncosa así?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Desafortunadamente, no creo que nos conozcamos lo\nsuficiente para juzgar eso."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Entonces rompamos el hielo! En primer lugar,\n¡presentaciones! ¡Ándale!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Deberíamos comenzar detallando nuestros roles y\nlo que hemos hecho hoy?"
+    },
+    {
+      "name": "Special Week",
+      "text": "Eh, soy Special Week y soy la cocinera. ¡Hoy\nestuve esforzándome preparando un festín para\nKing!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Y yo soy una camarera que trabaja en la misma\nposada! ¡Yo serví la comida de King!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Hola! Soy una poeta viajera que se hospeda en la\nposada! ¡Hoy conocí a King, así que pasé por su\nhabitación a pasar el rato después de que le\nsirvieran la comida!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Hola! Soy una mucama de esta posada y he estado\nlimpiando todo el día."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con las presentaciones de todos terminadas, siento\nque ahora tengo una idea más clara de la\nsituación."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Bueno, bueno... Parece que todos son sospechosos."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Mmm, eso has dicho.",
+      "choice_data_list": [
+        "¿Qué quieres decir con eso?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Spe podría haber añadido el veneno mientras\npreparaba la comida, y Grass podría haberlo\nenvenenado en el camino a la habitación."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Del mismo modo, El podría haberlo colado cuando\nvisitó a King, y Sei podría haber manipulado las\ncosas mientras limpiaba."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Ni hablar! No añadí ningún veneno!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Calma. Esto es un juego, ¿recuerdas?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ah, sí—¿ha llamado algo tu atención ya, Trainer?\nPuedes olvidarte de ser el GM por un momento.",
+      "choice_data_list": [
+        "¿Estuviste limpiando también durante la noche,\nSeiun Sky?",
+        "Envenenado o no, eso se ve delicioso..."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Sí, al fin y al cabo soy una mucama. Intento\nquedarme en lugares donde no haya huéspedes,\naunque."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "De hecho, casi no paso tiempo cerca de los\nhuéspedes, así que no sé por qué me sospechas <i>a\nmí.</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Seiun Sky se encoge de hombros mientras mira hacia\nla desmayada King Halo. Y justo entonces..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Eh? Espera, ¡el bol es de un color diferente! ¡Yo\nsé que usé uno amarillo!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Dios mío, tienes razón. También era amarillo\ncuando lo entregué."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pero ahora está en un bol azul. ¿Quizás alguien\nentró en la habitación e intercambió los boles\ndespués de que se sirviera?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Según las presentaciones de antes, la única que\nentró en la habitación después de que se sirviera\nel plato fue El Condor Pasa..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿¡Qué?! ¿¡Yo?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todos la miran con ojos acusadores."
+    },
+    {
+      "name": "Special Week",
+      "text": "Lo sé, ¿verdad? No puedo creer que haya veneno\nahí... Y después de que Sei me trajera verduras\ntan buenas para cocinar, también..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Me entristece mucho que una cocina tan renombrada\nhaya sido usada como medio para un asesinato..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todos miran hacia la desmayada King Halo con\ncabezas inclinadas, cuando..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Eh? Espera, ¡el bol es de un color diferente! ¡Yo\nsé que usé uno amarillo!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Dios mío, tienes razón. También era amarillo\ncuando lo entregué."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pero ahora está en un bol azul. ¿Quizás alguien\nentró en la habitación e intercambió los boles\ndespués de que se sirviera?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Según las presentaciones de antes, la única que\nentró en la habitación después de que se sirviera\nel plato fue El Condor Pasa..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿¡Qué?! ¿¡Yo?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todos la miran con ojos acusadores."
+    }
+  ]
+}

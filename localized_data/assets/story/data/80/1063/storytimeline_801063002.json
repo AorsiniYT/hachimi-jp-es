@@ -1,0 +1,148 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Veo a Ikuno Dictus hablando con una compañera\nestudiante en la plaza central."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "...Por lo tanto, sería mejor que redujeras el\nnúmero de ejercicios en tu sesión de entrenamiento\nde la tarde en uno."
+    },
+    {
+      "name": "Umamusume menor",
+      "text": "¡Ya veo! ¡Eso definitivamente funcionará!\n¡Gracias, Ikuno!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "No hay por qué agradecerme. Me alegra poder\nayudar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La Umamusume más joven hace una profunda\nreverencia a Ikuno Dictus y se aleja.",
+      "choice_data_list": [
+        "¿De qué estaban hablando?"
+      ]
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Ella quería que revisara su horario de\nentrenamiento."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Se me da bastante bien la creación y\nadministración de horarios, ya ves.",
+      "choice_data_list": [
+        "¿Puedes revisar el mío también?",
+        "¿Puedes revisar el mío también?",
+        "¿Te importaría darme algunos consejos?"
+      ]
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Se me da bastante bien la creación y\nadministración de horarios, ya ves.",
+      "choice_data_list": [
+        "¿Puedes revisar el mío también?",
+        "¿Puedes revisar el mío también?",
+        "¿Te importaría darme algunos consejos?"
+      ]
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "¿Quieres que también revise tu horario?"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Pero como entrenador, debes haber aprendido ya\nsobre la administración de horarios. No debería\nhaber necesidad de que yo lo examine en absoluto.",
+      "choice_data_list": [
+        "Solo me gustaría tu opinión, nada más."
+      ]
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Mmm... Muy bien. Le echaré un vistazo."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "...Has incluido demasiadas actividades para este\ndía."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Y aunque entiendo que estás ocupado, debes\nencontrar tiempo para comer, dormir y descansar."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Tu cuerpo es un activo invaluable, incluso si no\nlo usas para carreras como nosotras. Debes\nasegurarte de nunca carecer de nutrición, sueño o\ndescanso.",
+      "choice_data_list": [
+        "Gracias. Lo tendré en cuenta."
+      ]
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "No hay por qué agradecer. Solo me alegra poder\nayudar."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Ahora, pasando a mi siguiente punto...",
+      "choice_data_list": [
+        "Espera, ¿hay más?"
+      ]
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Ni siquiera he terminado la mitad de mis\ncomentarios. No puedo simplemente permitirte\nsalirte con la tuya con este horario ridículo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ikuno Dictus procede a señalar cada uno de los\ndefectos en mi horario..."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "¿Consejos? Bueno, si hay algo que aconsejaría,\nsería no creer todo lo que lees.",
+      "choice_data_list": [
+        "¿Tienes un ejemplo específico?"
+      ]
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Sí. Nueve de cada diez veces, lo que se enfatiza\nson los beneficios de una rutina."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "A menudo leo que correr mucho es la clave para\nfortalecer las piernas."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Sin embargo, en la mayoría de los casos, los\nhorarios no tienen en cuenta la fatiga que es\nprovocada por el ejercicio."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Eso es todo lo que quería señalar. No sé si puede\nconsiderarse un consejo, pero espero que ayude.",
+      "choice_data_list": [
+        "Gracias. Tendré cuidado de no creer todo lo que\nleo."
+      ]
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Bien. Eso es sabio de tu parte."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "...Excepto que todo lo que acabo de decir era una\nmentira.",
+      "choice_data_list": [
+        "¡¿Qué?! ¡Pero te creí!"
+      ]
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Jeje... Estoy bromeando. Todo lo que te dije era\nverdad."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Sin embargo, parece que necesitas más práctica en\nser menos crédulo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El estoicismo de Ikuno Dictus esconde un sentido\ndel humor oculto e inesperado. Tomará mucho\npráctica saber cuándo está bromeando."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Durante una sesión de entrenamiento con Meisho\nDoto, tres estudiantes llaman nuestra atención."
+    },
+    {
+      "name": "Estudiante A",
+      "text": "Disculpe, pero ¿dejaría que Meisho Doto hiciera\ncorrer en pareja con nosotras?",
+      "choice_data_list": [
+        "A mí me parece bien... pero ¿tú qué opinas?",
+        "A mí me parece bien... pero ¿tú qué opinas?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Eek?! Eh, ¿eh?! Bueno, e-es que..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "...Me alegra mucho que lo pidan, pero ¿seguras que\nquieren a alguien como yo?"
+    },
+    {
+      "name": "Estudiante B",
+      "text": "¡Queremos correr contra ustedes! ¡Quiero aprender\nde esa actitud ambiciosa suya!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "P-pero, no he hecho nada especial para merecer\ntantos elogios..."
+    },
+    {
+      "name": "Estudiante C",
+      "text": "¡Eso no es cierto! He visto cómo siempre aguantas\nhasta el final de la carrera. Justo cuando estás\nrodeada por todos lados, das un último empujón\npara liberarte... ¡es algo increíble!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Eep! Oh, m-muchas gracias!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Bueno, si no les importa tenerme, entonces...\nsería feliz de unirme a ustedes!"
+    },
+    {
+      "name": "Estudiante A",
+      "text": "¡Síiii! ¡Voy a prepararme, ¿vale?!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Que me inviten a correr en pareja es como un sueño\nhecho realidad... Y todo gracias a ti,\nEntrenador... jeje."
+    }
+  ]
+}

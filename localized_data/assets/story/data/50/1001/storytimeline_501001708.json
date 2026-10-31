@@ -1,0 +1,47 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Special Week",
+      "text": "¡Lo hice! ¡Gané, Entrenador!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Estaba tan concentrada en correr tan rápido como\npuedo que crucé la línea de meta antes de siquiera\ndarme cuenta."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Jeje! Supongo que <i>sí</i> soy capaz de quedar en\nprimer lugar!",
+      "choice_data_list": [
+        "¡Lo hiciste muy bien!",
+        "¡Estuviste genial!",
+        "No te confíes ahora.",
+        "No te confíes ahora."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Así es!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Jeje. Ganar ya me ha hecho el día, pero que me\nelogien es la guinda del pastel!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Tengo que contarle a mi mamá sobre hoy en la\npróxima carta que le escriba. ¡Jeje!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡C-claro! ¡Tienes toda la razón!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Puede que haya ganado hoy, pero quién sabe cómo\nserá la próxima carrera. ¡Tengo que mantenerme\nconcentrada!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Gracias por el consejo! ¡Voy a seguir dándolo\ntodo!"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El campamento de verano terminó. Hay un ligero\ntoque de otoño en la brisa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tenemos que volver a la academia y empezar a\nprepararnos para las carreras de otoño."
+    },
+    {
+      "name": "Vodka",
+      "text": "Uf. El principio fue medio malo... pero al final\nresultó ser un verano agradable y tranquilo."
+    },
+    {
+      "name": "Vodka",
+      "text": "Siento como si el peso que se había acumulado\ndentro de mí desde mi debut se hubiera lavado por\ncompleto."
+    },
+    {
+      "name": "Vodka",
+      "text": "Muy bien, Entrenador. ¿Quieres empezar a trabajar\npara mi objetivo de otoño?",
+      "choice_data_list": [
+        "¿El Shuka Sho?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Bueno, sí, pero más que la carrera en sí."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Sabes a esa persona en particular que siempre me\nsaca de quicio? Creo que estará en el Shuka Sho.",
+      "choice_data_list": [
+        "¿Daiwa Scarlet?",
+        "¿Daiwa Scarlet?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Sí. ¿Recuerdas lo que dijo al final de la\nprimavera?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Mientras te recuperas de tu revés, yo me estaré\nvolviendo más fuerte! Seré tan fuerte que\ndefinitivamente querrás correr contra mí."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Solo espera hasta el otoño. No te voy a soltar la\ncuerda. O más bien, <i>tú</i> serás rogando por correr\ncontra <i>¡mí!</i>"
+    },
+    {
+      "name": "Vodka",
+      "text": "Ella fue quien lanzó el guante, así que\ndefinitivamente dará una buena pelea."
+    },
+    {
+      "name": "Vodka",
+      "text": "Scarlet se autodenomina \"número uno\" por algo."
+    },
+    {
+      "name": "Vodka",
+      "text": "Y yo... quiero ver cuál es esa razón.",
+      "choice_data_list": [
+        "¿Así que quieres entrenar duro por ella?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Bueno, supongo... Pero también lo quiero un poco\npara mí."
+    },
+    {
+      "name": "Vodka",
+      "text": "Fui súper genial en el Derby. Pero luego la regué\nmucho después, lo cual fue muy patético."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Quiero un nuevo comienzo este otoño! Busco algo\naún más genial que el Derby."
+    },
+    {
+      "name": "Vodka",
+      "text": "Y siento un poco que Scarlet es quien me mostrará\ncuál es ese \"algo\"."
+    },
+    {
+      "name": "Vodka",
+      "text": "Somos diferentes ahora de lo que éramos en\nprimavera. Quiero empezar esta temporada corriendo\ncontra ella."
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras camino por el distrito comercial\ncon Winning Ticket..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Whoaa! ¡Mira eso, Entrenador!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "1.º gana una hamburguesa de zanahoria deluxe, 2.º\nun manojo de zanahorias y 3.º una zanahoria sola."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Ustedes dos de allá! ¿Quieren probar suerte?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Escucharon eso? ¡Unas vacaciones! ¡Y a aguas\ntermales!",
+      "choice_data_list": [
+        "¿Te gustaría ir?",
+        "¿Te gustaría ir?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Por supuesto!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Puedes divertirte, comer y sumergirte en las\naguas termales! ¡Todo mientras se hacen mejores\namigos!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿No es increíble? ¡Vivan las aguas termales!",
+      "choice_data_list": [
+        "No hables tan rápido. Aún no has ganado."
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Bien dicho! ¡No puedes ganar el premio si no\njuegas el juego!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Jovencita, ¿tiene algún boleto?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Ah, sí! ¡La cajera nos dio uno en esa tienda!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Ya sé! Entrenador, ¡giremos esto juntos!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Si ponemos todo nuestro espíritu en ello,\ndefinitivamente ganaremos ese gran premio!",
+      "choice_data_list": [
+        "¡Muy bien! Uno, dos..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "En mi cuenta, giramos el tambor. Y el resultado\nes..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Santo cielo! ¡Tenemos un ganador del gran premio!\n¡Venga a recoger el boleto para sus vacaciones en\naguas termales! ¡Felicitaciones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡NO PUEDE SER! ¿De verdad ganamos?!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Entrenador, él dijo \"gran premio\", ¿verdad? ¿No\nestoy soñando ni nada?",
+      "choice_data_list": [
+        "¡Felicitaciones!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Waaaah! ¡Estoy tan feliz!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Jaja! Después de ver una reacción así, ¡yo\ntambién me siento en las nubes!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Señor, ¡usted es el mejor! Usaré este boleto\nespecial con mi entrenador.",
+      "choice_data_list": [
+        "¿Eh? ¿Conmigo?",
+        "¿Eh? ¿Conmigo?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Sí! Giramos el tambor de la rifa juntos, así que\nel premio nos pertenece a ambos, ¿verdad?",
+      "choice_data_list": [
+        "Bueno, no puedo decir que no a eso."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Yaaaaay!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Cuándo deberíamos ir? ¡Me pregunto cuál es el\nmejor momento!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Ah, ya sé! ¡Vayamos una vez que la Twinkle Series\ntermine, para celebrar!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Aguas termales humeantes después de todas esas\nbatallas ardientes! ¡Apuesto a que se sentirá\nincreíble!",
+      "choice_data_list": [
+        "¡Suena bien! ¡No puedo esperar!",
+        "¡Suena bien! ¡No puedo esperar!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡WOOO! Tengo que ganar muchas carreras para que\npodamos tener el tiempo más divertido en\nvacaciones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así que a petición de Winning Ticket, guardo el\nboleto de vacaciones en aguas termales para ambos."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Obtienes una hamburguesa\nde zanahoria de lujo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿¿¿La hamburguesa de zanahoria de Wonder Luck??!",
+      "choice_data_list": [
+        "No, <i>una de lujo</i> hamburguesa de zanahoria!"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Jajaja! Ustedes dos son graciosos!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Aunque no te equivocas, ¡es un premio de la suerte\nganarlo! ¡Esta jugosa delicia incluso viene con el\nsello de aprobación de un famoso gourmet!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Ooh! ¡Suena delicioso!",
+      "choice_data_list": [
+        "¡Qué bien!",
+        "¡Qué bien!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Sí! ¡Cocinémoslo esta noche!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ásalo a la parrilla con fuego fuerte, rocíalo con\nmucho aceite, y luego añade montones de salsa...",
+      "choice_data_list": [
+        "Eh, ¿quizás pueda ayudarte con eso?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Tú también quieres comer, Entrenador? ¡Genial,\ngenial!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Espero que la cocina de la cafetería aún esté\nabierta! ¡Apresurémonos a volver antes de que\ncierre! ¡Vamos, vamos, gooo!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡GOOO! ¡Estoy en llamas ahora mismo, y eso es\njusto lo que necesitamos para asar esta\nhamburguesa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me aseguro de que no queme la hamburguesa a la\nparrilla, y una vez lista, comemos la deliciosa\ncomida juntos."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te llevas a casa un haz de zanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "<i>¡Guau!</i> ¡Eso es un montón de zanahorias!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Cómo no es el gran premio? ¿Regalas tantas\nzanahorias solo por quedar en segundo lugar?!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Por supuesto! ¡Son todas tuyas!",
+      "choice_data_list": [
+        "¡Qué bien!",
+        "¡Qué bien!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Uno, dos, tres... ¡Whoa! ¡Incluso si las comiera\ntodos los días durante una semana completa, aún\nquedarían algunas!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Esto podría ser demasiado para mí..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Ya sé! ¡Tú puedes tener la mitad, Entrenador!",
+      "choice_data_list": [
+        "¿Estás seguro?",
+        "¿Estás seguro?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Por supuesto!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Si compartimos zanahorias, compartimos la\nfelicidad! ¡Hará que nuestra amistad sea aún\nmejor!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Conseguimos algo más grande incluso que el premio\ngrande. <i>Snif...</i> ¡Nuestro vínculo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Winning Ticket se conmueve hasta las lágrimas\nmientras acepto la mitad de las zanahorias."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Miren aquí! ¡Ganaste el tercer premio! ¡Aquí está\ntu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Una sola zanahoria...",
+      "choice_data_list": [
+        "Mejor suerte la próxima vez.",
+        "Mejor suerte la próxima vez."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "No, ¡esto está bien!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Después de todo, ¡gané esta zanahoria con mi\nsuerte y tu apoyo!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Entiendes? ¡Es prueba de nuestra amistad\nardiente!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Awwww! ¡Me estoy conmoviendo hasta las lágrimas!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Conservemos esta zanahoria para siempre, para\nrecordar el día de hoy!",
+      "choice_data_list": [
+        "No puedes—se echará a perder."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿En serio?!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Quieres decir que no podemos guardarlo como\nsímbolo de nuestros buenos momentos juntos?\n<i>¡Sollozos...</i>",
+      "choice_data_list": [
+        "Permancerá en nuestra memoria si lo comemos\njuntos."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Oh, tienes RAZÓN!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Muy bien, ¡aquí tienes la mitad!",
+      "choice_data_list": [
+        "Eh, gracias..."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Riquísimo! ¡Eso está delicioso!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Reflexionamos profundamente sobre el sabor de la\nzanahoria—quizás demasiado—y regresamos a casa."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Ohhh, mala suerte! ¡Parece que sacaste un boleto\nvacío! Toma este paquete de pañuelos como premio\nde consolación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿¿¿Quéaaa?!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡U-una vez más! ¡Déjame intentarlo de nuevo!\n¡Obtendré el gran premio—lo sé!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Lo siento, si no tienes otro boleto de rifa, no\npuedo dejarte."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Waaaahh! ¡Qué aburrimientooo!",
+      "choice_data_list": [
+        "Allá, allá..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como Ticket está llorando, le entrego un pañuelo\ndel premio de consolación."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "<i>Sollozo, snif...</i> Este pañuelo... es tan suave..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Su sensación de pluma es su encanto! ¡Son extra\nsuaves y reconfortantes!",
+      "choice_data_list": [
+        "¿Te sientes mejor ahora?",
+        "¿Te sientes mejor ahora?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "<i>Snif...</i> Un poco..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "P-pero... ¡me hubiera gustado mucho ganar el gran\npremio! ¡Waaaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de los pañuelos reconfortantes, le toma un\ntiempo a Winning Ticket calmarse."
+    }
+  ]
+}

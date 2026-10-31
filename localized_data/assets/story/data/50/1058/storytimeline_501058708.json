@@ -1,0 +1,80 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Meisho Doto",
+      "text": "¿¿¿Q-q-q-qué?! ¡Obtuve el primer lugar... <i>yo!</i>¿Eso\nsiquiera es posible?!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "E-esto debe ser un sueño, no hay manera. ¡Déjame\npellizcarme las mejillas para comprobar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Apretón!</i>"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ay, ¡ayayay!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "E-está bien, eso dolió mucho... ¿E-eso significa\nque esto tiene que ser una broma?!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Alguien aparecerá en cualquier momento para\nanunciar al verdadero ganador... ¿verdad?!",
+      "choice_data_list": [
+        "¡Felicidades—esto es real!",
+        "¡Felicidades—esto es real!",
+        "Es demasiado pronto para emocionarse demasiado.",
+        "Es demasiado pronto para emocionarse demasiado."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Alguien aparecerá en cualquier momento para\nanunciar al verdadero ganador... ¿verdad?!",
+      "choice_data_list": [
+        "¡Felicidades—esto es real!",
+        "¡Felicidades—esto es real!",
+        "Es demasiado pronto para emocionarse demasiado.",
+        "Es demasiado pronto para emocionarse demasiado."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh, vaya... Q-que quedé en primer... lugar.\nJeje..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "A veces el esfuerzo realmente compensa. Estoy tan\nfeliz, a-aunque esto sea solo un golpe de suerte."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "E-espera, espero que esto no me pase factura\ndespués... ¿No me están mintiendo, verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las ansiedades de Meisho Doto duran el resto del\ndía, a pesar de mis esfuerzos por calmarlas."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh, ¡t-tienes razón en eso! Esto debe ser cómo se\nsiente estar en la cima del mundo...",
+      "choice_data_list": [
+        "¡Asegurémonos de mantenernos en el camino!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "E-está bien! Todavía hay más por venir... ¡Casi lo\nolvido!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Entrenaré más, y me irá bien en mis estudios, y...\nuna vez que termine con eso..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Con suerte, en la próxima carrera, no lo haré\ndemasiado mal—no, ¡voy a ganar de nuevo! ¡Le daré\ne-esto todo lo que tengo!"
+    }
+  ]
+}

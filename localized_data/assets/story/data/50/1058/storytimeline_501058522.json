@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Me encuentro con Meisho Doto en el pasillo\nmientras ella expira un suspiro largo y profundo."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "<i>Suspiro...</i> ¿Por qué soy tan desastre?",
+      "choice_data_list": [
+        "¿Qué pasa? ¿Sucedió algo?",
+        "¿Qué pasa? ¿Sucedió algo?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh, T-Trainer... No es nada serio, solo que mi\npiel ha empezado a sentirse un poco irregular..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Debe ser porque ayer confundí el aceite de sésamo\ncon salsa de soja... y lo puse en mi plato\nacompañante."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Pero luego mi mano resbaló... convirtiendo mis\nverduras en sopa de aceite de sésamo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Supongo que ella se oponía a tirar el plato. Su\nproblema de piel y su último error dejan a Meisho\nDoto en un bajón."
+    }
+  ]
+}

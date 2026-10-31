@@ -1,0 +1,44 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Taishin",
+      "text": "Huh, en verdad lo lograste. Supongo que no\namañaron esta máquina."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué vas a hacer con todos esos de todos modos?",
+      "choice_data_list": [
+        "¿Crees que puedes llevarlos todos a casa?",
+        "¿Crees que puedes llevarlos todos a casa?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Huh? No, y no los quiero."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Úsalos para decorar tu oficina o algo. Tú eres la\nque los ganó.",
+      "choice_data_list": [
+        "¡Vamos, solo tómalos!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Suspiro...</i> Está bien. Tomaré <i>uno.</i>"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Mmm."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Supongo que es bastante lindo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡No podría haber salido mejor!"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Smart Falcon y yo hemos venido a ver el Arima\nKinen, y el Hipódromo de Nakayama está repleto de\nun nivel de emoción inusualmente alto..."
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Disculpe! ¡Pasando!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Gyah!",
+      "choice_data_list": [
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "S-sí, estoy bien. Solo me dieron un pequeño golpe."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Pero mira cuánta gente hay hoy... Es una lucha\nsolo para moverse."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Debería estar acostumbrado a estas alturas, pero\nde alguna manera la popularidad del Arima Kinen\nsiempre me impresiona.",
+      "choice_data_list": [
+        "Bueno, es <i>la</i> gran carrera de fin de año.",
+        "Bueno, es <i>la</i> gran carrera de fin de año."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con todos los mejores performers del año en la\npista, el Arima Kinen es la forma perfecta de\ncerrar un año de carreras para muchos aficionados."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Sí, hasta el año pasado, solía sentir que el\nconcierto después del Arima Kinen marcaba el fin\nde año también..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Pero el Tokyo Daishoten está aún <i>más cerca</i>del\nfinal del año!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Quiero decir, también es una gran carrera de fin\nde año. Me pregunto si podríamos conseguir que\ntoda la gente aquí vaya allí también.",
+      "choice_data_list": [
+        "Este año será aún más grande que el año pasado."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Aún más grande..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Tienes razón! ☆ Incluso repartimos todos esos\nvolantes, así que este a—"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oh! ¡Finalmente todos están saliendo!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oooh! Esos dos se ven tan elegantes."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Se nota que todos están concentrados. ¡Va a ser\nuna carrera increíble!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como ella predijo, la carrera se convierte en un\népico enfrentamiento seguro para pasar a la\nhistoria."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La favorita del público, Daiwa Scarlet, lidera la\nmanada. Ella marca el ritmo y repele a sus\nperseguidores frenéticos, hasta que..."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Tenemos una ganadora! Número trece, Daaaaiwaaa\nScaaaaarlet!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella continúa brillando como la reina de este año\ndel grand prix, superando a la competencia con\nfuerza abrumadora!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Guaaau!",
+      "choice_data_list": [
+        "¡Qué carrera!",
+        "¡Qué carrera!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Sí! ¡Scarlet fue súper genial!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Estoy segura de que también sentiremos esa pasión\nen el concierto ganador!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oh, eso me recuerda! ¡Necesitamos conseguir\nasientos en primera fila!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Vamos, Entrenador!",
+      "choice_data_list": [
+        "¿En <i>esta</i> multitud?!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Duh!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Adentrémonos! ¡Wujuu!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El concierto ganador es igual de abrumador, y\nSmart Falcon y yo miramos desde la primera fila."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Muchas gracias por su apoyo hoy, todos!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Soy Daiwa Scarlet, la número uno de las\nUmamusume! ♪"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Guaaaao! ¡Daiwa Scarlet!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Uf! ¡Eso fue <i>intenso!</i>"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Scarlet realmente brillaba allí arriba."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Pero eso no es todo. Podía sentir que casi, como,\nordenaba a todos que mantuvieran la mirada en\nella."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ella tenía a toda la audiencia bajo su hechizo."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Los corredores top realmente están en una liga\npropia...",
+      "choice_data_list": [
+        "Es tu turno después.",
+        "Es tu turno después."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Puedo hacerlo. Lo sé."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Voy a hacer del Tokyo Daishoten una carrera para\nrecordar, ¡tal como la que vimos hoy!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Estará bien. Quiero decir, las carreras en tierra\nson igual de divertidas."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Además, hemos hecho todo lo posible. Yo hice mi\ndeclaración y puse montones de esfuerzo en mis\nactuaciones..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Así que sí... Va a estar bien.",
+      "choice_data_list": [
+        "(...?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Suena un poco como si Smart Falcon estuviera\ntratando de convencerse a sí misma. Pero luego, un\ninstante después, sus ojos empiezan a brillar con\nesperanza."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡La cima del mundo de tierra está justo frente a\nnosotros!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Y así comienza nuestro Tokyo Daishoten de año\nclásico!"
+    }
+  ]
+}

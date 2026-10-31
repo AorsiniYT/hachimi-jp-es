@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Agnes Tachyon",
+      "text": "Uuugh, esto es lo peor... ¿Cómo pude haber\ncometido este error?",
+      "choice_data_list": [
+        "¿Uno de tus experimentos falló?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No... ese no es el problema."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "En la cafetería... Manhattan Cafe se sentó a mi\nlado."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Lo cual está bien en sí... pero bebí su café por\nerror."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "El color y el olor, era tan evidentemente café.\n¿Cómo pude cometer tal error?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Uuugh, mi boca aún sabe amargo..."
+    }
+  ]
+}

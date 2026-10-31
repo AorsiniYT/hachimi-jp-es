@@ -1,0 +1,48 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Winning Ticket",
+      "text": "¡Entrenador! Yo... <i>sollozos...</i> ¡hice mi debut!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Waaaah! ¡Estoy <i>tan feliz!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Está tan emocionada como si hubiera ganado el\nJapanese Derby!",
+      "choice_data_list": [
+        "(Este momento debe significar mucho para ella.)",
+        "(Este momento debe significar mucho para ella.)"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "<i>Snif...</i> Finalmente, mi primer paso en la Twinkle\nSeries..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "<i>Sollozo...</i> ¡Pensar en eso hace que mi corazón\nsalte y se agite!",
+      "choice_data_list": [
+        "¡Estoy aquí contigo, hasta el final!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "...¡Sí! ¡Sí, sí, SÍ!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Muy BIEN! ¡Trabajemos duro juntos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su declaración lacrimógena resuena en todo el\ntúnel."
+    },
+    {
+      "name": "Monólogo",
+      "text": "De cualquier manera, aquí es donde comienzan los\nverdaderos desafíos. Nos endurecemos para el gran\nviaje que nos espera."
+    }
+  ]
+}

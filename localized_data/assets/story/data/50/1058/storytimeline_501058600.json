@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Meisho Doto",
+      "text": "Oh, Trainer... ¡Mi corazón siente que está a punto\nde explotar!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡No puedo esperar para correr...! ¡N-nunca me he\nsentido así antes!",
+      "choice_data_list": [
+        "Suena como si estuvieras lista para darlo todo.",
+        "Suena como si estuvieras lista para darlo todo."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡T-todo!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Entonces... ¡e-eso es!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "E-está bien... ¡Lo daré todo!"
+    }
+  ]
+}

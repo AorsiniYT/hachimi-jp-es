@@ -1,0 +1,348 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Biwa Hayahide ha completado los primeros y más\ncruciales tres años de su carrera, y el Arima\nKinen también ha terminado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como la mayor de las dos hermanas poderosas, hay\nmucho que todavía tiene que hacer. Para empezar..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Entrenador! ¡Ayuda!",
+      "choice_data_list": [
+        "¿Qué está pasando?",
+        "¿Qué está pasando?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Y-yo solo... Es mi teléfono, yo—",
+      "choice_data_list": [
+        "¿Lo rompiste?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡No! ¡Brian envió un mensaje!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Me pidió que 'pasáramos tiempo' este fin de\nsemana!",
+      "choice_data_list": [
+        "Oh, ya veo.",
+        "Oh, ya veo."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿C-cómo puedes ser tan tranquilo?! ¡Esto es una\nemergencia!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Narita Brian se tomó la molestia de invitarme a\nsalir! ¡Y específicamente dijo este fin de semana!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Es casi como si fuéramos hermanas normales...",
+      "choice_data_list": [
+        "Bueno... Quiero decir, ustedes dos <i>son</i> hermanas,\nasí que...",
+        "Bueno... Quiero decir, ustedes dos <i>son</i> hermanas,\nasí que..."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Lo sé! Pero..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ha pasado una eternidad desde que ella se acercó\npara invitarme a algún lugar."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Y como quiere reunirse durante nuestro tiempo\nlibre, hay una alta probabilidad de que necesite\nun favor o tenga algo serio de qué hablar."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Qué debo hacer si ella necesita consejo? Ni\nsiquiera estoy segura de cómo responderle como su\nhermana mayor."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Solo espero no decepcionarla.",
+      "choice_data_list": [
+        "Estás pensando demasiado de nuevo.",
+        "Estás pensando demasiado de nuevo."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Ay!",
+      "choice_data_list": [
+        "No te preocupes. Los consejos de hermana surgirán\nnaturalmente.",
+        "No te preocupes. Los consejos de hermana surgirán\nnaturalmente."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Mmm..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(Espero no estar olvidando nada. Bien, tengo mi\npañuelo y algunos pañuelos desechables... y\nalgunas vendas para ella.)"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(¡Estoy lista!)"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hermana mayor."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hola, Bri—"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Estás usando un chándal?!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Acabo de terminar de entrenar. Vámonos."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Eh? ¡E-espera!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hm, esas fueron algunas carreras bastante buenas.\nEspecialmente esa chica en la novena. Tiene\npotencial."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Hermana? ¿Qué pasa?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Por qué..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Oye, ¿todavía estás viva?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡¿Por qué no me has pedido ningún consejo\ntodavía?!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿De qué estás hablando?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡F-fuiste tú quien me invitó a salir para pasar\ntiempo contigo!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Sí, ¿y?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿No tienes algún problema urgente que necesites\nque resuelva? ¿Necesitas consejo sobre tu zancada\no tu próxima carrera? ¿O algo?!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Nop."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Nop?!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Nada."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Oh... Bueno... E-está bien..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Qué, querías que tuviera algún tipo de problema?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡No! Solo... siento que he sido engañada de alguna\nmanera."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Pensé con seguridad que tenías algo que discutir o\nque tenías un favor que pedirme..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Eh? Está bien."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "En ese caso... supongo..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Entrenador! Como dije en mi mensaje anterior,\nnecesito usar tu cocina.",
+      "choice_data_list": [
+        "Sí, pero ¿por qué?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Para poder cumplir el pedido de mi hermana. La\ncocina de la residencia está actualmente cerrada\npor reparaciones, así que no puedo usarla ahora\nmismo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Solo necesito preparar un poco de curry y me iré.\nPrometo limpiar después, así que ¡por favor déjame\nusarla!",
+      "choice_data_list": [
+        "Está bien, pero solo la cocina."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Gracias! ¡Solo serán cuatro o cinco horas!",
+      "choice_data_list": [
+        "<i>¿¡Cuánto tiempo?!</i>"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Biwa Hayahide rebota hacia mi cocina con un brinco\nen su paso."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Perdón por mi hermana insistente.",
+      "choice_data_list": [
+        "¿Tantas ganas tenías de curry?",
+        "¿Tantas ganas tenías de curry?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...No."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ella estaba desesperada por que le pidiera un\nfavor. Esto es todo lo que se me ocurrió."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Me hubiera bastado con pasar el día hablando\njuntas, pero da igual."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Oye, Brian! ¡Puse cuatro cebollas, como de\ncostumbre! Aseguraré de guisarlas hasta que se\ndisuelvan, ¿vale?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "'Ta.",
+      "choice_data_list": [
+        "Entonces, ¿por qué quisiste verla en un fin de\nsemana?",
+        "Entonces, ¿por qué quisiste verla en un fin de\nsemana?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No quería molestarla en un día laborable ya que\ninterrumpiría sus sesiones de entrenamiento\ncontigo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Y quiero que siga mejorando para poder correr\ncontra ella en su mejor momento."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Gracias por dejarme usar tu cocina. ¡El curry está\nlisto!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Bueno, supongo que nos ire—"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Por qué no comemos aquí?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Qué? ¿Te sientes bien? Siempre has sido tan\ntímida con la gente que no conoces bien."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ya no soy una niña. Además, es tu entrenador."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Y quiero preguntar sobre algunas cosas—como qué\nhas estado haciendo durante los últimos tres años."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Mi hermana dijo que eres un entrenador muy\nconfiable. Me gustaría saber cómo le va, para\nreferencia futura."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Eh... ¿Qué?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Je. Podríamos vernos mucho durante mucho tiempo\naún, así que intentemos llevarnos bien.",
+      "choice_data_list": [
+        "Eh... ¿Está bien?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡E-espera un minuto! ¿De qué, exactamente, estamos\nhablando aquí?!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Y por qué estás de acuerdo tan fácilmente con\nBrian, Entrenador?! ¡<i>Yo soy</i> la que verás mucho!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Biwa Hayahide está completamente desconcertada por\nel sorprendente giro de los eventos, mientras que\nNarita Brian parece estar disfrutando la\nconsternación que ha causado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su relación podría no ser típica, pero\ndefinitivamente siguen siendo hermanas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y el curry sabe aún mejor en buena compañía."
+    }
+  ]
+}

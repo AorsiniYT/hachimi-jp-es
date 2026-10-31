@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gold Ship",
+      "text": "¡Misión cumplida! ¡Buen trabajo ayudando a las\nprisioneras Umamusume en su gran escape!",
+      "choice_data_list": [
+        "Podría haber salvado más...",
+        "Podría haber salvado más..."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Eh, el resto estará bien. Parece que son bastante\nfelices viviendo en la caja transparente."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Depende de nosotros encontrar un hogar seguro para\nlas Umamusume liberadas... También necesitamos\nencontrar su Edén."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Por ahora, podemos convertir la habitación de\nMcQueen o Jordan en un Edén temporal para ellas."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Ahora que eso está resuelto, vámonos! ¡Adelante,\nvalientes soldados, a la noble tierra del Edén\nTemporal!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Eso salió bastante bien!"
+    }
+  ]
+}

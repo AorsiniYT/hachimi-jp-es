@@ -1,0 +1,122 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Vengo a la escuela para una entrevista con el\nperiódico de la escuela. Después de terminar..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Noto a Mejiro Dober mirando directamente en mi\ndirección."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿Cómo pueden mantenerse tan tranquilos con todas\nesas cámaras? Ojalá pudiera ser así...",
+      "choice_data_list": [
+        "Perdón, ¿qué fue eso?"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "N-nada. No dije nada."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿¡Eh?! Um, bueno..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Es mi problema, así que no es de tu incumbencia."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Dober se mantiene callada, pero yo recuerdo\nclaramente haberla escuchado murmurar \"Ojalá\npudiera ser así.\"",
+      "choice_data_list": [
+        "¿Te incomoda que te tomen fotos?"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿Qué? Cómo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que di en el clavo. Queriendo ayudarla, le\ndoy algunos consejos sobre cómo estar más cómoda\ncon que le tomen fotos.",
+      "choice_data_list": [
+        "¡Entrena tu cuerpo para ganar confianza!",
+        "¡Practica sonreír frente a un espejo!"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿C-crees que podrías enseñarme algunos consejos\nsobre cómo lucir bien en las fotos?",
+      "choice_data_list": [
+        "¿Eres mala con que te tomen fotos?"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "No me gusta ser el centro de atención... Tengo\nmucho problema para sonreír naturalmente en\nentrevillas y cosas así."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Pero realmente quiero poder sonreír audazmente\nfrente a la cámara.",
+      "choice_data_list": [
+        "¡Entrena tu cuerpo para ganar confianza!",
+        "¡Practica sonreír frente a un espejo!"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...No pedí tu consejo."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Confianza..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Mmmm... ¿Es realmente todo lo que se necesita? Me\npregunto si eso me ayudará a sonreír más\nnaturalmente."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Lo intentaré. Usaré lo que has dicho cuando\ntambién entrene. Gracias."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y con eso, Mejiro Dober se aleja."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Me pregunto si realmente podré sonreír\nnaturalmente si tengo más confianza en mí misma..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Supongo que podría intentarlo si me apetece."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿Un espejo? No puedes ser en serio..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿Sonreír frente a un espejo? Pero eso suena tan\nvergonzoso..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Bueno..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Lo... tendré en cuenta."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Pero suena lo suficientemente fácil de hacer, y\nserá bueno ver cómo me veo."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Gracias por tu consejo. Lo intentaré y veré cómo\nme va."
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Ya ha pasado mucho tiempo desde el atardecer, así\nque decido acompañar a Rice Shower a casa después\nde un día fuera."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermano mayor... ¿Puedes hacer algo por mí?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermana mayor... ¿Puedes hacer algo por mí?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Me preguntaba si podrías esperar en tu oficina un\nmomento..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Tengo algo que quiero mostrarte.",
+      "choice_data_list": [
+        "Claro."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Tengo algo que quiero mostrarte.",
+      "choice_data_list": [
+        "Claro."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡G-gracias! Estaré allí muy pronto, ¡así que\nespera!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras la espero, preparo una taza de té para\nambos y me pregunto qué podría querer mostrarme."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Disculpa por la espera."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Disculpa por la espera."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Esto es lo que quería mostrarte."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella me extiende un libro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La portada negra dice <i>El Sol y el Hijo de la\nSombra.</i>"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Esto es... un libro ilustrado que hice. Me\ngustaría que lo leyeras.",
+      "choice_data_list": [
+        "¿Está bien si lo leo ahora?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Esto es... un libro ilustrado que hice. Me\ngustaría que lo leyeras.",
+      "choice_data_list": [
+        "¿Está bien si lo leo ahora?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Claro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella sonríe mientras lo abro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No tiene ningún texto. Comienza con pura\noscuridad."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hay algo agazapado en esa oscuridad. Una\nsilueta... que se parece un poco a Rice Shower."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La figura sombría está llorando en la oscuridad.\nSe ve tan triste y sola."
+    },
+    {
+      "name": "Monólogo",
+      "text": "De repente, una pequeña luz aparece en la\noscuridad, y la pequeña sombra comienza a caminar\nhacia la luz."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A medida que continúa caminando, la luz se vuelve\nmás y más fuerte. Se vuelve radiante, hasta que\nfinalmente..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La luz se convierte en el sol. La oscuridad se\ndisipa y el mundo se ilumina."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La cálida luz del sol baña la figura sombría,\nrevelando su verdadera forma."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En la página final, la niña, antes consumida por\nlas sombras, ahora salta alegremente en el mundo\nde luz."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Quería mostrarte este libro antes que a nadie\nmás.",
+      "choice_data_list": [
+        "Estoy honrado.",
+        "Estoy honrado.",
+        "Estoy segura de que hará muy feliz a la gente.",
+        "Quiero ser como ese sol.",
+        "Quiero ser como ese sol."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Quería mostrarte este libro antes que a nadie\nmás.",
+      "choice_data_list": [
+        "Estoy honrada.",
+        "Estoy honrada.",
+        "Estoy segura de que hará muy feliz a la gente.",
+        "Quiero ser como ese sol.",
+        "Quiero ser como ese sol."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Siempre has estado cerca de mí, cuidándome con\ncalidez y bondad."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Por eso... quería mostrártelo..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Por eso... quería mostrártelo..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Mi preciada, preciada... felicidad."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermano mayor..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermana mayor..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Por favor, cuídame... por siempre."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Asiento con tanto entusiasmo que ella termina\nriéndose de mí."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Jejeje, espero que sí."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ese libro es la encarnación de mi felicidad,\ndespués de todo."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Y parece que mis sentimientos llegaron hasta ti.",
+      "choice_data_list": [
+        "Ahora puedes esparcir tu felicidad a aún más\npersonas."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Y parece que mis sentimientos llegaron hasta ti.",
+      "choice_data_list": [
+        "Ahora puedes esparcir tu felicidad a aún más\npersonas."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Así es!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermano mayor, yo... quiero que todos los que me\napoyan sean felices."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermana mayor, yo... quiero que todos los que me\napoyan sean felices."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Desde que hice ese libro, este sentimiento—este\ndeseo—se ha vuelto aún más fuerte dentro de mí.",
+      "choice_data_list": [
+        "Entonces puedes contar conmigo para ayudar a que\nsuceda.",
+        "Entonces puedes contar conmigo para ayudar a que\nsuceda."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Sí. Con tu ayuda, estoy segura..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Sí. Con tu ayuda, estoy segura..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras Rice Shower se calla con una sonrisa en\nsu rostro, hago una promesa silenciosa a mí mismo\nde que veré su deseo hacerse realidad, no importa\nqué."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermano mayor... Siempre has sido..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermana mayor... Siempre has sido..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Mi sol."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Por tu apoyo y fe en mí..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Por tu apoyo y fe en mí..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "He podido cambiar, poco a poco..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Así que tomé la felicidad que me has dado y la\nconvertí en este libro."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Gracias por todo.",
+      "choice_data_list": [
+        "Ahora es tu turno de convertirte en el sol."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Gracias por todo.",
+      "choice_data_list": [
+        "Ahora es tu turno de convertirte en el sol."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Yo...</i> ¿puedo ser el sol?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Yo... quiero intentarlo."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Quiero brillar... y traer felicidad a todos."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Quiero ser su sol!",
+      "choice_data_list": [
+        "Hagamos de ese sueño una realidad."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por un momento, los ojos de Rice Shower brillan\ncomo el sol, como si un sueño brillante se hubiera\ninstalado en ellos."
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es una gran noche festiva, y puedo escuchar\ncampanas sonando desde algún lugar afuera."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Feliz Holi... alucin... Estoy alucinando...",
+      "choice_data_list": [
+        "¡¿Qué?! ¿Estás enferma?!"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "N-no aún, pero creo que me estoy acercando..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de ser una ocasión festiva, Ryan tiene una\nexpresión de dolor en su rostro."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "El Arima Kinen se acerca... Todas las mejores\ncorredoras van a estar allí..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Y será la última carrera de Oguri. Ella es\nrealmente fuerte para empezar, pero estará extra\ndeterminada a cerrar las cosas con una gran\nvictoria."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Además, <i>todos los </i>fanáticos de las carreras en el\npaís van a estar animándola para que gane..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Pero yo tengo que vencerla y tomar la victoria\npara mí, ¿verdad?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Me he acostumbrado a la presión de mis carreras\ncontra McQueen, pero..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Esto es algo totalmente diferente. Los músculos de\nmi corazón se sienten adoloridos, como si hubiera\nestado leyendo demasiados mangas románticos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella parece estar luchando realmente."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Solo hay una cosa que hacer... ¡Organicemos una\nfiesta de lástima para nosotras!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Podemos comer montones de carbohidratos, bailar\nhasta caer, y olvidar todas nuestras\npreocupaciones!",
+      "choice_data_list": [
+        "Yo... no creo que eso ayude.",
+        "Yo... no creo que eso ayude."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡No puedo hacer esto! ¡Mis pesas cardiacas son\ndemasiado pesadas para levantar!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Vamos! ¡Entremos en ese espíritu de \"entrenar los\nmúsculos\"! ¡Hyaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, mientras nuestra fiesta muy poco saludable\nestá a punto de comenzar..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Huh? ¿Quién podría ser? Es un poco tarde."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Hola-lo, Ryan! ¡Hace tiempo! ♪"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿¡I-Ines?!",
+      "color_text_info_list": [
+        "Ines"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Pensé que estabas descansando en el centro de\nrecuperación. ¿Viniste... a ver cómo estoy?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es Ines Fujin, la compañera de cuarto de Ryan que\ncorrió en el Derby Japonés con ella.",
+      "color_text_info_list": [
+        "Derby Japonés"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Hmm, entiendo. Así que <i>por eso</i> estabas a punto de\natiborrarte de toda esta comida."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "S-sí. Incluso si le gano a la superestrella\nprincipal, Oguri, simplemente no se sentirá bien."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Hmm... Entiendo por dónde vienes, pero ¿estás\nsegura de que es realmente así?"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Creo que todos tienen su propia favorita para\nganar."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Cada uno tiene favoritos?"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Sí. Ahora mismo estoy tomando un descanso y\nhaciendo rehabilitación en un manantial termal."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Pero cuando te veo trabajar tan duro, me dan ganas\nde volver a correr lo antes posible."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ver todo el esfuerzo que pusiste cuando corrimos\nen el Derby me hizo sentir que quería esforzarme\nmás."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿En serio?"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Me gusta mucho Oguri, ¡pero mi estrella\nfavorita... eres tú, Ryan! ♪"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Realmente quiero verte ganar, así que cuenta eso\ncomo una chica que te anima a la victoria!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Me tienes a mí, y también tienes a tu entrenador.\n¿Verdad?",
+      "choice_data_list": [
+        "Por supuesto.",
+        "Por supuesto."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Caray, gente...!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de dejar algunas palabras sinceras y un\nregalo de bollos de manantial termal, Ines se\nmarcha."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Entrenador... Ahora entiendo que me equivoqué."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Estaba tan cegada por el brillo de Oguri que no\npodía verme a mí misma."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Pero yo también soy una estrella! ¡Y hay personas\nahí afuera que quieren verme brillar!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Cargo con el mismo peso que Oguri! ¡Por eso tengo\nque...",
+      "choice_data_list": [
+        "Tienes que vencer a Oguri."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Sí! ¡Voy a ganar en el Arima Kinen!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Le mostraré a todos aplastando tanto la carrera\nTakarazuka <i>como</i> la Arima Grand Prix!",
+      "color_text_info_list": [
+        "Takarazuka",
+        "Arima",
+        "Grand Prix"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Le mostraré a todos aplastando tanto la carrera\nTakarazuka <i>como</i> la Arima Grand Prix!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hay otros también, animando fervientemente a\nMejiro Ryan para que gane."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Q-qué demonios? ¿Qué está pasando?"
+    },
+    {
+      "name": "Fan de Ryan A",
+      "text": "¡Hola! ¡He sido miembro de tu club de fans desde\nque era pequeña!"
+    },
+    {
+      "name": "Fan de Ryan B",
+      "text": "¡Hazlo lo mejor posible! ¡Te estaremos animando!"
+    },
+    {
+      "name": "Fan de Ryan A",
+      "text": "Espera, ¿quién es esa persona a tu lado? ¿Qué\nestán haciendo ustedes dos esta noche festiva?"
+    },
+    {
+      "name": "Fan de Ryan B",
+      "text": "Oh, ¿van a celebrar juntas?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Eh, bueno... ¡No es así! Solo estábamos a punto\nde..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "N-no importa. ¡No comentaré sobre eso! ...Pueden\ndirigir todas las demás preguntas a mi entrenador.",
+      "choice_data_list": [
+        "¿A mí?",
+        "¿A mí?"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Q-qué demonios! Caray, ¡olvidé que estabas justo\naquí! ¡Por favor no les digas nada de nuestra\nconversación anterior!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La popularidad de Ryan ha crecido lo suficiente\ncomo para obstaculizar su vida privada, igual que\nOguri Cap."
+    }
+  ]
+}

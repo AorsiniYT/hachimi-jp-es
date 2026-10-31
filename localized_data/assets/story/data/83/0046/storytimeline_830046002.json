@@ -1,0 +1,176 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Winning Ticket",
+      "text": "¡Perdí otra vez?!"
+    },
+    {
+      "text": "Al escuchar un grito, corro a la sala de juegos y\nencuentro a Winning Ticket gritando sobre algo.",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡No puedo ganar en este juego de control de\nmovimiento! ¡Y se supone que debería ser buena en\ncosas físicas!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Suspiro...</i> Esos monstruos son demasiado fuertes.\nNi siquiera los tres juntos podemos con ellos."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Hoy jugamos montones! ¿Qué tal si volvemos?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡No! ¡No puedo rendirme ahora! ¡No pararé hasta\nque lo derrote!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Eh, ¿no podemos dejarlo para otro día?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡No puede ser! ¡Comimos un parfait\nincreíble,compramos montones de cosas, e incluso\ndimos un paseo en bote en el parque! ¡La pasamos\n<i>genial</i> hoy!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Así que quería terminar el día con algo alegre!\nEste día entero debería ser un recuerdo enorme y\nmaravilloso!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Tickezo! ¡De verdad me inspiraste hace un\nmomento!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Jeje... ¡Entonces, volvamos a ello!"
+    },
+    {
+      "text": "El trío se alinea frente a la enorme pantalla del\njuego, y estalla una intensa batalla en el momento\nen que aparece un colosal dragón."
+    },
+    {
+      "name": "Dragón Feroz",
+      "text": "<i>¡GRRRR!</i>"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Mi magia no funciona! ...¡Scarlet, se fue por ese\ncamino!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Grr! ¡Haré de cebo! ¡Reagrupen mientras mantengo\nsu atención!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡No te atrevas a tocar a Scarleeeet!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Toma! ¡IMPACTO A TODA POTENCIA!"
+    },
+    {
+      "name": "Dragón Feroz",
+      "text": "¡GRRRRRHHH!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Por qué me salvaste? ¡Podrías haberlo derrotado\nsi me hubieras dejado!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡No voy a desperdiciar tu vida! Sin nosotros tres,\nnunca tendríamos un recuerdo perfecto."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Quiero que <i>todos</i> sonriamos cuando recordemos este\ndía. ¡Eso de lo que se trata hacer recuerdos!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Boleto..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Tienes razón! ¡Derrotemos a esa bestia juntos!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Quiero hacer un recuerdo perfecto también!\n¡Luchemos hasta el final!"
+    },
+    {
+      "text": "Con sus corazones unidos como uno solo, los tres\nsincronizan a la perfección sus acciones y le\nganan al juego!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Lo logramos! ¡Ganamos! ¡Nada puede detenernos\ncuando estamos juntos!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Sí! ¡Nuestro trabajo en equipo no tiene igual! Me\nalegra mucho que hayamos aguantado."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Sí! ¡Dominamos!",
+      "choice_data_list": [
+        "¡Buen trabajo!",
+        "¡Buen trabajo!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Graciasaaas! ¡Nunca olvidaré esto mientras viva!\n¡Este es el mejor día<i>de todos!</i>"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Oh! Para no olvidar, ¿qué tal si tomamos unas\ncalcomanías fotográficas?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Waaaaah! ¡Tener una foto para recordar sería\ngenial! <i>¡Sollozos!</i>"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Jeje. ¿De verdad quieres recordar cuánto estás\nllorando ahora mismo?",
+      "choice_data_list": [
+        "¡Sonríe!",
+        "¿Por qué no tomas un momento para calmarte?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Quiero, pero las lágrimas no dejan de salir!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Puedes llorar todo lo que quieras! Creo que las\nlágrimas de felicidad también crean recuerdos\ninolvidables!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Aaaaaah! Spe, eres tan, tan, taaan DULCE!"
+    },
+    {
+      "text": "Sacamos unas fotos con Winning Ticket con los ojos\naún rojos. Las emociones de todos se ven claras\ncomo el día, ¡haciendo que estas sean unas fotos\ngeniales!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Uy, ¿nos vamos a comer algo? ¡Me muero de hambre!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Eh, voy a pedir dos menús de hamburguesa y un menú\nextra grande de trozos de pollo empanizados. Ah,\ny..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Guau, Spe! ¡No dejaré que me ganes comiendo!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ni siquiera intentaría competir si estuviera en tu\nlugar. Su estómago es como un agujero negro."
+    },
+    {
+      "text": "Winning Ticket se empacha tanto que se queda\ndormida, y terminamos saltándonos las calcomanías\nde fotos."
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Estoy de compras en un día libre, cuando..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡¿Qué?! ¡No! ¡Tienes que usar algo más brillante\nque eso!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tch. ¿A quién le importa cómo me veo?",
+      "choice_data_list": [
+        "¿Ustedes dos salieron de compras juntas?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "<i>Suspiro...</i> Más bien, ella se invitó a mi viaje de\ncompras."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Oh, bah! ¡No es mi culpa que no tengas ropa de\nfiesta!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Te van a invitar a un montón de cosas una vez que\nhagas tu debut, ¿verdad? Fiestas pre-carrera,\nfiestas de victoria, ¡todo!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Pensar en ti yendo a todos esos eventos en tu\nuniforme es simplemente, bueno, impensable!",
+      "choice_data_list": [
+        "No creo que sería <i>inapropiado...</i>"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Agh, ¡ese no es el problema! ...Supongo que solo\ntengo que enseñarles a las dos!"
+    },
+    {
+      "text": "Y así, sin más, me veo arrastrada a ir de compras\ncon ellas..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Oh! ¡Ese vestido es precioso! ♪ Es un buen cambio\nde ritmo de tu atrevido y característico atuendo\nde carreras!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No me gusta. Si desgarra un poco el bajo, quizás\nlo consideraría."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Estás loca?! ¡Se trata justamente de que sea\nlindo! ¡No puedes desgarrarlo!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Qué tal este mono? ♪ Tiene el bajo corto y las\npiernas son estilosas."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ni hablar. El color chillón opaca todo lo demás."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Debes estar bromeando! ¿De qué sirve arreglarse\ntanto si no vas a brillar ni deslumbrar?!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "<i>Haa... Haa...</i> ¡Ughh! ¡No podemos decidirnos sobre\nnada!",
+      "choice_data_list": [
+        "No es fácil, ¿verdad?",
+        "No es fácil, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No hay necesidad de decidir nada desde un\nprincipio."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡De ninguna manera! Después de todo esto, vamos a\n<i>definitivamente</i>comprar algo. ¡Ya verás!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Vamos! ¿Qué tipo de ropa es buena? No puedes\nodiar <i>todo!</i>"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "En realidad no me importa, pero si tengo que\nelegir..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Algo fácil para correr."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿¡Fácil de correr en!? Se supone que esto es para\n<i>fiestas!</i>"
+    },
+    {
+      "text": "Si es algo fácil para correr, solo puedo pensar\nen...",
+      "choice_data_list": [
+        "¡Un traje!",
+        "¿Un chándal?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Un traje... Bueno, al menos no sería demasiado\nllamativo."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "No sé si brillará o no... pero vamos a revisar la\ntienda."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Mmm... La tela se estira bien cuando levanto las\npiernas. Esto parece fácil para correr."
+    },
+    {
+      "name": "Vendedor de la Tienda de Ropa",
+      "text": "¡Oh! ¡Muy resistente! ¡Te queda perfecto!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Síiii! ¿Escuchaste eso?!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Me sorprende. Encontramos algo bueno de verdad."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Yo también aprendí mucho! ¡Hasta la ropa que es\n'genial' puede brillar!"
+    },
+    {
+      "text": "¡Diría que esta salida de compras salió bastante\nbien!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Un chándal... Ya veo. Supongo que es una opción."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Basta! ¡¿Un chándal en una fiesta?! ¡Ni siquiera\nquiero imaginarlo!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Gracias por la invitación."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Salud."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No veo ningún problema."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿En serio?! No, no, ¡NO! ¡Llevar tu uniforme sería\ncien veces mejor!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Caray... Eso es lo que he estado diciendo desde el\nprincipio."
+    },
+    {
+      "text": "Y así, nuestro ridículo viaje de compras llega a\nsu fin."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Narita Brian y yo estamos visitando un santuario."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Oye, ¿realmente necesitamos pedirle ayuda a los\ndioses en este punto?"
+    },
+    {
+      "text": "He estado preocupado por el estado de Narita Brian\nrecientemente, así que le digo que me gustaría\nrezar por su salud."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Sabes, es mi responsabilidad cuidar de mí\nmisma. No de los dioses o de Buda.",
+      "choice_data_list": [
+        "Solo quiero hacer todo lo que pueda."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "<i>...Suspiro.</i> Bueno, si insistes."
+    },
+    {
+      "text": "Rezo por la rápida recuperación de Narita Brian."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Bien, vámonos.",
+      "choice_data_list": [
+        "¿Por qué rezaste?",
+        "¿Por qué rezaste?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No recé por nada."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Solo fui para hacerte sentir mejor.",
+      "choice_data_list": [
+        "Perdón por hacer que hagas eso..."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No importa. Es solo una diferencia en costumbres.\nPero, diré esto..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tú eres la única responsable de tu propio cuerpo.\nLa victoria es algo que tienes que tomar por tu\ncuenta."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No son los dioses los que van a responder tus\noraciones..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Soy yo.",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hmph. Si lo entiendes, entonces vámonos."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Aunque... tengo que admitir, hay una brisa\nagradable aquí."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Me siento bastante bien. ¿Qué tal una carrera\ncorta antes de volver?"
+    },
+    {
+      "text": "Quizás sea solo el agradable cambio de ritmo, pero\nNarita Brian parece tener más energía en su paso."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Huh... El viento huele húmedo..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No me gusta..."
+    },
+    {
+      "text": "<i>Rum, rum... Plip, plop...</i>"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Agh! ¡Está lloviendo!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Tch! ¡Apresurémonos en volver!"
+    },
+    {
+      "text": "¿Quizás ofendimos a los dioses?"
+    },
+    {
+      "text": "Empapada por la lluvia, Narita Brian no dice una\npalabra más en todo el camino de vuelta."
+    }
+  ]
+}

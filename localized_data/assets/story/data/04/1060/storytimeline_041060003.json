@@ -1,0 +1,241 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es la tarde, y estoy en mi habitación elaborando\nun plan para ayudar a Nature a vencer a Tokai Teio\nen el Tracen Meet."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Ataque Uma! Buenas noches, ¡soy tu querida\naprendiz!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Perdón por venir tan tarde, Entrenador. Olvidé\nalgunas cosas en la oficina del entrenador, así\nque... ¿te importaría prestarme las llaves?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Sí, sería un lío devolverlas hoy por la noche, así\nque te desbloquearé la habitación mañana.",
+      "choice_data_list": [
+        "Ya es tarde, ¿por qué no vamos juntos?",
+        "Ya es tarde, ¿por qué no vamos juntos?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿¡Eh!? Ah, em, eso es..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡E-estaré b-bien! ¿Quién te crees que soy? No soy\nuna damisela en apuros, ¿sabes?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Así que las cosas son así, ¡apúrate! Dame las\nllaves ya."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy un poco curioso por la forma en que actúa\nNature, pero de todas formas le entrego las\nllaves."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Gracias! Y con eso, buenas noches, Entrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Unas horas después..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Riiing!</i>"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Hola? ¿Es este el entrenador de Nature? Habla\nFuji Kiseki, líder del dormitorio Ritto."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ya es una hora después del toque de queda, pero\nNature aún no ha regresado. ¿Tienes alguna idea de\ndónde podría estar?",
+      "choice_data_list": [
+        "...?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡No hay tiempo para entrar en pánico! Primero,\ndebería revisar la oficina del entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Corro por la academia con poca luz, finalmente\nllegando frente a la oficina del entrenador."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Viniendo desde atrás no es otra que Tokai Teio!\n¡Es la recta final!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Tokai Teio salta a la cabeza! Rompe el pelotón...\ny cruza la línea! Ganando por dos cuerpos\ncompletos, ¡Tokai Teio se lleva el oro!",
+      "choice_data_list": [
+        "(¿Es esa filmación de una carrera de Teio?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al abrir la puerta, encuentro a Nature mirando\nfijamente filmaciones de Tokai Teio."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "<i>Bostezo...</i> A-a-ay... cuello... rígido."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Aún... victoria tras victoria tras victoria. Su\nposicionamiento cerca del final fue\nimpecable—prácticamente de manual."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Una vez que entra en su ritmo, no hay quien la\npare... Ay, me está dando miedo.",
+      "choice_data_list": [
+        "¿Estás investigando a Teio por tu cuenta?",
+        "¿Estás investigando a Teio por tu cuenta?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿¡Eh? ¡¿Q-qué?!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡E-Entrenador! N-no puede ser—¿¡por qué estás\naquí?!",
+      "choice_data_list": [
+        "Recibí una llamada de tu líder de dormitorio.",
+        "Recibí una llamada de tu líder de dormitorio."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿¡De Fuji!? ¿Por qué ella...? ¡Ahhh! ¡El toque de\nqueda!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ugh, perdí completamente la noción del tiempo.\n¡Oh, hombre, qué tonto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que se absorbió investigando a Tokai Teio y\nno se dio cuenta de que ya era tan tarde."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Em... Lo siento por mentirte antes. Aquí tienes la\nllave. También iré a disculparme con Fuji.",
+      "choice_data_list": [
+        "Quieres vencer a Tokai Teio, ¿verdad?",
+        "Quieres vencer a Tokai Teio, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿¡Eh!? No, no es—"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...No es tan simple."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Te lo he dicho montones de veces, ¿no? Que... no\nestoy hecha como las demás."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con un toque de frustración en su tono, Nature\ncamina lentamente hacia la ventana antes de mirar\nel cielo nocturno."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "No soy como esas estrellas deslumbrantes—no puedo\nbrillar como ellas. No soy la protagonista de esta\nhistoria."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Por supuesto, hubo un tiempo en que pensé que lo\nera, ¿sabes? No habría venido a Tracen de otra\nmanera."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Pero ahora... conozco la fría y dura verdad."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "No importa qué tan rápido corra, siempre hay\nalguien por ahí que es más rápido."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Todos me animaron—incluso me dieron una despedida\ndigna de una reina. Pero cuando estoy junto a\nestrellas de verdad, no hay manera de que pueda\ncompararme con su resplandor."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Para decirlo simplemente, soy solo uno de esos\nextras que ves todo el tiempo en las películas."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "No estoy hecha para el papel principal... Lo sé\nmejor que nadie."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Una extra como yo no tiene nada que hacer\napuntando al primer lugar... Es patético, ¿no?",
+      "choice_data_list": [
+        "No eres patética en lo más mínimo."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...",
+      "choice_data_list": [
+        "Cuando das lo mejor de ti, brillas más brillante\nque cualquier otra estrella.",
+        "Cuando das lo mejor de ti, brillas más brillante\nque cualquier otra estrella."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...N-no puedo brillar como las demás. Así que\ndetente, Entrenador."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Por favor... solo detente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella habla con firmeza, pero cuando la miro, sus\nojos parecen vacilar. ¿Quizás mis palabras\nllegaron a ella?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de un tiempo, volvemos al dormitorio de\nNature y nos disculpamos con Fuji Kiseki juntos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, después del entrenamiento..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Oye, Entrenador? Después de esto, ¿te importa si\nreviso algo de filmación de Teio de nuevo?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Oh, em, no me malinterpretes, ¿vale? No es porque\nesté súper emocionada por enfrentar a Teio. Ni\ncerca."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Es solo que... bueno..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Incluso si el primer lugar está fuera de\nalcance... incluso si la victoria es imposible...\nY-yo todavía quiero decir que intenté lo mejor que\npude...",
+      "choice_data_list": [
+        "Entendido. ¡Hazlo a tu gusto!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Mhm. Bueno, ¡vamos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, los dos comenzamos a dedicar cada momento\ndespiertos al entrenamiento para el próximo Tracen\nMeet."
+    }
+  ]
+}

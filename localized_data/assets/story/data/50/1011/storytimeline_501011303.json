@@ -1,0 +1,239 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "¡Grass Wonder parece haber causado una fuerte\nimpresión en su carrera debut!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "He vuelto, Entrenador. ¿Todavía te sientes\nnervioso?",
+      "choice_data_list": [
+        "¡Para nada!"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Jeje. Maravilloso. ♪ El primer paso ha sido\ndado... ¿sí?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de empacar nuestras cosas para regresar,\nsalimos y somos inmediatamente abordados por una\nfigura esperando."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Disculpe, Grass Wonder! ¿Puedo hacerle unas pocas\npreguntas rápidas?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh, por supuesto. Adelante."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Gracias! Entonces permítame comenzar\nfelicitándola!"
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Mostró un potencial increíble en su carrera\ndebut! ¡Su forma de correr fue un espectáculo para\nla vista!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Me honra recibir tales elogios."
+    },
+    {
+      "name": "Reportera A",
+      "text": "Oh, créame, ¡aún tengo la piel de gallina!"
+    },
+    {
+      "name": "Reportera A",
+      "text": "No es de extrañar que te llamen la próxima\nMaruzensky—¡realmente eres la Sucesora de la\nBestia!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "...Gracias."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque los ojos del reportero están iluminados con\nexcitación, siento que están viendo demasiado de\nMaruzensky y no lo suficiente de Grass Wonder."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La propia Grass Wonder debe estar sintiendo esta\ndisonancia aún más agudamente.",
+      "choice_data_list": [
+        "Disculpe—"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Entrenador."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Permítame."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Intento intervenir, pero Grass Wonder me\ninterrumpe."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Demasiado emocionado para notar la tensión en el\naire, el reportero intenta continuar con la\nentrevista."
+    },
+    {
+      "name": "Reportera A",
+      "text": "Entonces, ¿qué hay en su calendario de carreras de\nahora en adelante?"
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Si tiene algo planeado, me encantaría saber en\nqué carrera la veremos a continuación!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh sí, justo iba a discutir ese mismo tema con mi\nentrenador."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Entonces, Entrenador, ¿es un buen momento ahora?",
+      "choice_data_list": [
+        "¿Tienes una carrera en mente?",
+        "¿Tienes una carrera en mente?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sí, mi corazón está puesto en una en particular."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Permítame correr en el Asahi Hai Futurity Stakes.",
+      "choice_data_list": [
+        "...!"
+      ],
+      "color_text_info_list": [
+        "Asahi Hai Futurity Stakes"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Asahi Hai F.S. es bien conocido por determinar\nal corredor superior de tercer año, así que suena\ncomo un objetivo perfecto para ella."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero hay un pequeño problema..."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¿Escuché bien?! ¡El Asahi Hai F.S.?! Eso es..."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Esa es la carrera donde Maruzensky estableció un\nnuevo récord en su tercer año!"
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Y ahora <i>tú</i> quieres correr en ella después?!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sí, siempre y cuando reciba el permiso de mi\nentrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siempre y cuando no pusiera una tensión\nirrazonable en su calendario, tenía la intención\nde aprobar cualquier carrera que ella pudiera\nnombrar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero esto..."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Esto es una exclusiva! \"La Sucesora apunta a la\nCorona Juvenil!\" Sí, esto va en la primera plana."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Muchas gracias por su tiempo y la gran noticia!\n¡Adiós!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Jeje. Tenga cuidado en el camino a casa."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ahora bien... solo para asegurarme."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Entrenador, ¿puedo establecer el Asahi Hai F.S.\ncomo mi próximo objetivo de carrera?",
+      "choice_data_list": [
+        "¿Estás seguro de que esto es lo que quieres?",
+        "¿Estás seguro de que esto es lo que quieres?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Qué quieres decir?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La actuación de Maruzensky en el Asahi Hai F.S.\ndejó una marca en el mundo de las carreras que aún\narde vívidamente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La gente ya llama a Grass Wonder la próxima\nMaruzensky. Si ella hace de esta su próxima gran\ncarrera...",
+      "choice_data_list": [
+        "Invitará a más comparaciones que nunca."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "...Lo sé."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Es exactamente por eso que tengo que participar."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "El apodo ya se ha extendido, así que no hay\nescapatoria ahora."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Además, no tengo intención de huir de ello de\ntodos modos."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Vengan las comparaciones, digo yo. Aprovecharé\nesta oportunidad para demostrar quién soy de una\nvez por todas."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Mi forma de correr es única.",
+      "choice_data_list": [
+        "Grass..."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Así que... preguntaré una vez más."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Tengo tu permiso para correr en el Asahi Hai\nF.S.?",
+      "choice_data_list": [
+        "¡Mostrémosle al mundo lo que puedes hacer!",
+        "¡Mostrémosle al mundo lo que puedes hacer!"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Gracias."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Entonces comencemos el entrenamiento de inmediato.\n♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y con eso, el próximo objetivo de Grass Wonder\nestá decidido: ¡el Asahi Hai Futurity Stakes!"
+    }
+  ]
+}

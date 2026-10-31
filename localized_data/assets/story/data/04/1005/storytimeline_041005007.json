@@ -1,0 +1,235 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Llevamos algunos días en el campamento de verano y\nestá totalmente silencioso por la noche cuando\nbusco agua. Todos deben estar durmiendo tras\nentrenar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero mientras camino por el vestíbulo vacío y\nsombrío en busca de un trago, siento un escalofrío\nque me recorre la espalda..."
+    },
+    {
+      "name": "???",
+      "text": "Yo... te... maldigo...",
+      "choice_data_list": [
+        "¡Ay, caramba!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Jajaja, exactamente la reacción que esperaba. Te\nasustas fácilmente, ¿eh, Entrenador?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Oh, no me mires así. Solo estaba bromeando. ¿Me\nperdonas?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "No podía dormir y me aburría mucho. Es decir,\nhasta que llegaste tú.",
+      "choice_data_list": [
+        "¿No puedes dormir, eh?",
+        "¿No puedes dormir, eh?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "No hay necesidad de preocuparse, no estoy nerviosa\no algo así. Pero esta podría ser la oportunidad\nperfecta."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Quieres venir a caminar conmigo? Vamos a\ndisfrutar del aire nocturno."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ah, qué hermosa noche. No he tenido una noche para\nmí misma como esta desde que llegamos aquí.",
+      "choice_data_list": [
+        "¿No fuiste al festival o a ver los fuegos\nartificiales?",
+        "¿No fuiste al festival o a ver los fuegos\nartificiales?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Puedo ser estudiante, pero tengo muchas\nresponsabilidades como líder del dormitorio.\nAlgunas de mis queridas yeguas necesitan mucho\nconsuelo para dormir en camas desconocidas."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Pero solo por esta noche, me gustaría olvidar mis\nresponsabilidades y tenerte solo para mí.",
+      "choice_data_list": [
+        "¿No estás bromeando de nuevo, verdad?",
+        "¿No estás bromeando de nuevo, verdad?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Jajaja, hablo en serio. Hay algo que quiero\nmostrarte."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Oye, ¿quieres correr conmigo hasta la playa?",
+      "choice_data_list": [
+        "¿Q-qué? ¡Espera!",
+        "¿Q-qué? ¡Espera!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque estoy sorprendida, sigo detrás de ella lo\nmás rápido que puedo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella realmente se merece su apodo, el Meteoro\nNegro. Su forma de correr es elegante, pero\npoderosa. No hay ni un ápice de hesitación en\nella."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y está envuelta en una pasión implacable por\ncorrer."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "El sonido de las olas es tan reconfortante. Esta\nrealmente es una hermosa noche.",
+      "choice_data_list": [
+        "¿Qué pasa contigo, Fuji?",
+        "¿Qué pasa contigo, Fuji?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Qué te parece? Quería que vieras los frutos de\nnuestro entrenamiento aquí. He estado pasando el\ntiempo de mi vida corriendo estos últimos días."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Entonces? ¿Mi forma de correr te emocionó?",
+      "choice_data_list": [
+        "¡Me dejaste sin aliento!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Jajaja..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Necesito decirte algo. Es importante."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "He estado pensando desde que esa estudiante se\nlesionó y tuvo que dejar la academia. Me confió su\nsueño, como sabes."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Pensar en cómo puedo hacer realidad su sueño me ha\nconfundido."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Pero cuando vimos esa obra juntos, me di cuenta de\nlo que debo hacer.",
+      "choice_data_list": [
+        "Dilo.",
+        "Dilo."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Fuji Kiseki, la mayor artista, que trae alegría al\nmundo... Esa es la persona que quiero ser."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Pero este sueño mío continúa más allá de eso."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hacer que la gente sea feliz, curar sus penas, eso\nes lo que quiero hacer. Y también quiero hacer\nrealidad sus sueños cuando ellos mismos no pueden."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Con ese propósito, no puedo perder ante nadie."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Voy a seguir corriendo, siempre, y voy a ganar\ntantas carreras como pueda. Y cuando me convierta\nen una estrella..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Voy a obtener el sueño de todos los corredores, la\nprueba de ser el mejor.",
+      "choice_data_list": [
+        "¿El mejor? ¿No quieres decir..."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ganaré la Triple Corona. <i>Eso</i> será la realización\ndefinitiva de mi sueño.",
+      "choice_data_list": [
+        "¡La Triple Corona!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La Triple Corona es un título otorgado a los\ncorredores que triunfan en las tres carreras más\nprestigiosas, el Satsuki Sho, el Derby Japonés y\nel Kikuka Sho."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En la historia de la Serie Twinkle, solo unos\npocos han logrado esto. Es realmente el mayor\nhonor al que aspira todo corredor."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Eso es lo que te juro esta noche. Necesito que\nactúes como mi testigo.",
+      "choice_data_list": [
+        "Como tu entrenador, acepto tu voto."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ahí. Ahora que está en palabras, <i>debo</i> hacerlo\nrealidad. ¡No cumplir con tus expectativas sería\nmi mayor derrota!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Así que tengo que empezar a entrenar en serio, y\nnecesito que me mantengas en mi camino."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después, la veo practicar durante un rato, y veo\nuna nueva luz de pasión ardiendo en sus ojos."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Uf... Quiero seguir, pero tengo miedo de que\npronto amanezca."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Sin embargo, un gran sueño se encuentra ante mí.\nSiento que puedo casi alcanzarlo y arrebatárselo\nal aire."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Todo lo que quiero hacer es seguir corriendo.",
+      "choice_data_list": [
+        "¿Qué puedo hacer para ayudarte a alcanzar tu\nsueño!",
+        "¿Qué puedo hacer para ayudarte a alcanzar tu\nsueño!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Te lo preguntaré de nuevo, Entrenador."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Guíame en mi camino. Sé mi principal apoyo, mi\ncompañero —siempre mantente a mi lado.",
+      "choice_data_list": [
+        "De acuerdo. Lo prometo."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Entonces, en mi nombre como la mejor artista, te\nprometo traerte <i>a ti</i> la mayor alegría de todas."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Tendrás un asiento en la primera fila para mi\nmaravilloso milagro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nuestra asociación se siente como si apenas\nestuviera comenzando. A partir de aquí, vamos a ir\ntras el sueño más grande que nuestros corazones\npuedan imaginar."
+    }
+  ]
+}

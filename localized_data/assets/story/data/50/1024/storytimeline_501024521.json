@@ -1,0 +1,44 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una mañana, me encuentro con Mayano Top Gun de\ncamino a la oficina."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Mnnn... <i>Suspiro...</i>",
+      "choice_data_list": [
+        "Pareces cansada.",
+        "Pareces cansada."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Sí, hubo un personaje que se veía exactamente como\ntú en el episodio de anoche de..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Guau! ¿E-Entrenador?!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Eh, quise decir! Estaba viendo un programa, y\nera... ¡muy bueno! ¡Eso es todo!",
+      "choice_data_list": [
+        "Entonces, lo que estás diciendo es que no dormiste\nmucho."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Sí, pero... ya sabes... había muchas... escenas\npara adultos."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Ah! Solo de pensarlo me acelera el corazón! ¡No\ncreo que pueda dormir esta noche tampoco!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Imagino que era solo un programa de TV típico para\nadolescentes, pero sea cual sea la razón, fue\nsuficiente para que Mayano no durmiera."
+    }
+  ]
+}

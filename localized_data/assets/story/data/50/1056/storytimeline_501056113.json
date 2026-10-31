@@ -1,0 +1,162 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El Derby se acerca. Una noche, tras otra sesión\nintensa de entrenamiento diligente..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "AIIIIIEEE!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Es el grito de una paloma poseída por un demonio?\nNo, es Matikanefukukitaru! Rápido, voy al salón de\nclases para encontrar..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Oh, Entrenador! ¡L-l-l-lo vi! ¡E-está justo allí!",
+      "choice_data_list": [
+        "¿Un fantasma?!"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Peor! ¡Mira, si te atreves! Justo allí en la\npared, en la lista de participantes del Derby!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Un nombre que nunca pensé ver... Mira, dice...\n<i>¡Silence Suzuka!</i>",
+      "color_text_info_list": [
+        "Silence Suzuka"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Aiiieee! ¡Su nombre es tan brillante que mis ojos\napenas pueden soportarlo!",
+      "choice_data_list": [
+        "¡Oye, cálmate!"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "D-derecho... Lo siento. Es que estaba muy\nsorprendida."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Entrenador, oremos juntos! Como estoy, no tengo\nla confianza para competir contra alguien como\nSuzuka!",
+      "color_text_info_list": [
+        "Suzuka"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Oh dioses, escuchen mi súplica! ¡Concédeme un\nescudo divino contra la luz penetrante de Suzuka!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Un poder tan tremendo puede causar terribles\nmaldiciones! Así que les ruego—"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Por qué estás rezando, Fukukitaru?",
+      "color_text_info_list": [
+        "Fukukitaru"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿No es obvio? Estoy rezando para no ser consumida\npor tu todopoderoso—"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Aiiieee! ¿¡Suzuka?! ¿Qué haces aquí? ¿Has venido\na vencerme de una vez por todas?!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Eh... Solo estoy aquí para rezar, igual que tú."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Quiero dar lo mejor de mí en el Derby."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Quieres... dar lo mejor? Pero, ¿por qué alguien\ncomo tú necesitaría rezar por algo así?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Creo que todos nos sentimos igual en la antesala\ndel Derby."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No queremos que esta carrera monstruosa nos\nsupere... Es tan intimidante."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Sabes, es como cuando tu rival de repente parece\ninvencible. Pero no hay razón para entrar en\npánico."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Es completamente natural tener miedo."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Tener miedo es... natural?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Bueno, si incluso alguien como tú puede\nasustarse..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Tiene sentido por qué estaría aterrorizada. Por\nalguna razón, me siento un poco mejor al escuchar\neso."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Muchas gracias, Suzuka!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Me alegra ver que te sientes mejor.",
+      "choice_data_list": [
+        "¿Por qué no rezan juntas por la victoria?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Juntas? ¡Sí, buena idea! ¡Gracias!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Bueno, Suzuka, ya que ambas estamos aquí, podemos\norar juntas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de que terminan sus oraciones, Silence\nSuzuka se despide."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Uf! Todo está bien si termina bien. Eso me quita\nun gran peso de encima."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Espera! ¡Oh, no! Si rezamos juntas, ¿eso no\nsignifica que Suzuka tendrá la misma cantidad de\nsuerte que yo?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Si tiene la misma gran bendición que yo, entonces\nsu habilidad natural sin duda sellará su victoria!",
+      "choice_data_list": [
+        "¡Oh no! ¿Qué debemos hacer?!"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡No nos queda más que pedir intervención divina!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Oh dioses, escúchenme! ¡Concédanme la bendición\nmás grande, mejor, sumamente sublime que Umakind\nha conocido o conocerá jamás!"
+    }
+  ]
+}

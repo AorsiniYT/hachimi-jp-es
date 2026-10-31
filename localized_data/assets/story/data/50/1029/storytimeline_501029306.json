@@ -1,0 +1,203 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Yukino Bijin",
+      "text": "<i>Haa... Haa!</i>"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "<i>Haa... Haa!</i> Ha... Haa..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "<i>Haa...</i> ¡Gané!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Todas! ¡Gané!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Huh?"
+    },
+    {
+      "name": "Fan oportunista A",
+      "text": "¡E-eso dio miedo!"
+    },
+    {
+      "name": "Fan oportunista A",
+      "text": "¿Viste sus ojos? ¡Parecía una maniática! ¿Qué le\npasó a nuestro Ángel de Nieve?!"
+    },
+    {
+      "name": "Fan oportunista B",
+      "text": "Es linda, pero ¿por qué su forma de correr no lo\nes? <i>No</i> me inscribí para esto..."
+    },
+    {
+      "name": "Fan oportunista B",
+      "text": "Creo que ya tuve suficiente de competencias..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Huh?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Huuuuh?! ¿Q-qué está pasando?!"
+    },
+    {
+      "name": "Fan A de carreras",
+      "text": "¡Buen trabajo, Harp Alpha!"
+    },
+    {
+      "name": "Harp Alpha",
+      "text": "..."
+    },
+    {
+      "name": "Fan B de carreras",
+      "text": "¡Fue una gran competencia! Sé que tienes más en\nti. ¡Las carreras de otoño serán increíbles!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ah..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "(Pensé que al vencerla las cosas cambiarían. Por\neso me esforcé tanto...)"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Me equivoqué?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Qué me hace tan diferente a ella?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Yukino Bijin logró vencer a una rival dura, pero\nal regresar al vestuario, solo hay confusión en su\nrostro.",
+      "choice_data_list": [
+        "Yukino"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Trainer...",
+      "choice_data_list": [
+        "¡Felicidades primero!"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Montones de gracias!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Tienes razón! ¡Gané, tan seguro como que dos y\ndos son cuatro!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Pero no se siente así, con la forma en que actúan\ntodos afuera."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Quizá no fui lo suficientemente genial para\nconquistar al público como quería."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Bueno, quizá eso cambie cuando gane el Shuka Sho."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Shuka Sho es la última carrera de la Triple\nCorona. Si Yukino Bijin logra vencer, todas las\ndudas sobre su habilidad se disiparán."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Si consigo una victoria espectacular ahí, quizá la\ngente que hoy salió decepcionada vuelva a\nquererme."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿No crees?"
+    },
+    {
+      "name": "Reportera A",
+      "text": "¿Qué tal unas palabras para tus fans que te ven\ndesde casa? ¡Con ese acento tan lindo que tienes,\npor favor!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cerrar la brecha entre lo que ella quiere y lo que\nesperan los espectadores no será fácil. Pero\nintenta mantenerse optimista.",
+      "choice_data_list": [
+        "Es cierto",
+        "Sí, es verdad"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Em! ¿Puedo pedirte un favor?!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Quiero correr antes del Shuka Sho para asegurarme\nde llamar la atención."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Creo que me ayudará a aferrarme a este fuerte\ndeseo de ganar..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Se te ocurre cuál podría ser?",
+      "choice_data_list": [
+        "¿Qué tal el 'Queen Stakes'?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las corredoras de último año también pueden\nparticipar en las Queen Stakes, lo que la\nconvierte en un buen lugar para probar su fuerza y\nreforzar su confianza antes del Shuka Sho.",
+      "choice_data_list": [
+        "Es en pleno campamento de verano, habrá que\nmoverse, pero..."
+      ],
+      "color_text_info_list": [
+        "De último año"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Me parece perfecto! ¡Estoy acostumbrada a los\nviajes largos!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Vale! ¡Voy a darle una paliza a esa carrera!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, decidimos que las Queen Stakes serían\nnuestro calentamiento para el Shuka Sho.",
+      "color_text_info_list": [
+        "Queen Stakes"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"¡Y la ganadora de las Oaks de Japón de este año\nes Yukino Bijin! ¡La sensación regional Yukino\nBijin se lleva la victoria!\""
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Vaya... Eres increíble, Yuki..."
+    },
+    {
+      "name": "Mifuyu",
+      "text": "Nunca te había visto tan feroz... Eres tan genial\nque no aguanto..."
+    },
+    {
+      "name": "Mifuyu",
+      "text": "¡Tengo que seguir esforzándome si quiero hacer\nrealidad mi sueño también!"
+    }
+  ]
+}

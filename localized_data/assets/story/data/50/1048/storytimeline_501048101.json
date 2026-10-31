@@ -1,0 +1,324 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Cuatro, cinco, seis!"
+    },
+    {
+      "name": "Compañera A",
+      "text": "¡Feliz Año Nuevo, Jordan! ¿Vamos por una\nhamburguesa?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Lo siento, hoy no puedo! Trece, catorce...\n¡quince!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Ugh... Otra vez me equivoqué. ¿No es quince\nsegundos exactos un poco demasiado específico?"
+    },
+    {
+      "name": "Compañera A",
+      "text": "Uhh... Entonces, como... ¿qué está pasando?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Mi entrenador me dio un desafío. Si puedo contar\nquince segundos exactamente..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Puedo salir a comer algo caro!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tosen Jordan ahora está en su año clásico. Hasta\nahora, se ha enfrentado a principiantes, pero este\naño será diferente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más de sus oponentes estarán entrenadas en su\nmáxima capacidad, con un mejor entendimiento de\ncómo correr usando sus talentos únicos. Estarán\nlistas para lo que sea que se les presente.",
+      "choice_data_list": [
+        "(Tenemos que desarrollar una habilidad especial\nque sea realmente suya.)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para ese propósito, he armado un programa de\nentrenamiento en dos etapas para mejorar su\nconciencia del tiempo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para la fase uno usamos este cronómetro tipo\njuego, integrándolo a su rutina diaria; y la\nsegunda fase..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Desliza!</i>"
+    },
+    {
+      "name": "Helios y Palmer",
+      "text": "¡Qué pasa, familia! ☆",
+      "choice_data_list": [
+        "¿Eh... familia?"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Sí, entonces, ¿sobre el desafío de esta mañana?\nLas tres vamos a hacerlo."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Nos tienes que invitar a todas al buffet caro,\n¿vale?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿¡Quéeee?! Tenemos que correr?!",
+      "choice_data_list": [
+        "Doscientos metros en quince segundos.",
+        "Doscientos metros en quince segundos."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para la segunda etapa, apuntamos a mejorar la\nprecisión de su reloj interno."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En una carrera real, un corredor necesita un\nsentido preciso del tiempo para juzgar si la\ncarrera avanza a un ritmo rápido o lento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mi objetivo es calibrar su reloj interno para que\nella pueda leer la carrera y arrancar su sprint en\nel momento óptimo."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Pero eso no es lo que dijiste! Todo lo que\ndijiste que tenía que hacer era contar hasta\nquince.",
+      "choice_data_list": [
+        "Y eso es exactamente lo que tendrás que hacer,\n¿no?",
+        "Y eso es exactamente lo que tendrás que hacer,\n¿no?"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Umm... Creo que sí?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Vale, quince segundos, entonces! Agarra tu\ncronómetro—¡hagámoslo! Listos..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "<i>Jadeando, resoplando...</i> Tres, cuatro..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tosen Jordan cuenta en voz alta mientras corre.\nElla termina un furlong, o doscientos metros,\nen...",
+      "choice_data_list": [
+        "¡14.75 segundos!"
+      ]
+    },
+    {
+      "name": "Helios y Palmer",
+      "text": "¡Oooh!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Argh... ¡Demasiado rápido!",
+      "choice_data_list": [
+        "¡Pero estuviste muy cerca!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su entrenamiento con cronómetro puede haber sido\nalgo efectivo. Siento que ha crecido."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡En serio, eso se ve superdivertido! ☆ ¡Déjame\nintentarlo!",
+      "choice_data_list": [
+        "¿¡Qué?!"
+      ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¡Yo también! ¡Solo dame una oportunidad!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Vale, revancha de tres personas! ¡Vamos!"
+    },
+    {
+      "name": "Las Tres",
+      "text": "Yaaaaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las tres ya están corriendo por la pista. Y el\nresultado...",
+      "choice_data_list": [
+        "¡11.8 segundos, 11.9 segundos y 12.3 segundos!"
+      ]
+    },
+    {
+      "name": "Las Tres",
+      "text": "¡Yay! Nooo... ¡Maldición!",
+      "choice_data_list": [
+        "¡¿Por qué están compitiendo?!",
+        "¡¿Por qué están compitiendo?!"
+      ]
+    },
+    {
+      "name": "Las Tres",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Han olvidado por completo intentar terminar en\nexactamente quince segundos."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Oh... Porque correr nos pone, como, emocionadas o\nlo que sea. Es lo natural, ¿verdad?",
+      "choice_data_list": [
+        "Lo tendré en cuenta..."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Genial, gracias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Considerando todo, ella asumió el desafío que le\nplanteé a su manera, así que...",
+      "choice_data_list": [
+        "¿Vamos al buffet?"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Ah! ¿En serio?!",
+      "choice_data_list": [
+        "Aunque nada demasiado elegante."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Genial, no hay problema! ♪ ¡Vámonos ya! ♪"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Entonces, ¿a dónde vamos exactamente?",
+      "choice_data_list": [
+        "¡Un buffet que aumenta la resistencia de\nhamburguesas de zanahoria!",
+        "Un buffet de sushi satisfactorio.",
+        "¡Probemos el Año Nuevo con un buffet tradicional\nde Año Nuevo!"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Ohhh, suena como que realmente lo entiendes."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Creo que mi corazón acaba de dar un vuelco. O<i>algo</i>\nlo hizo, de todos modos. ¿Quizás mi estómago?"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "La verdad es que solo tienes hambre. ☆"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Bingo! ☆"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Entonces, vámonos ya."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Sushi?! ¡Oh Dios mío! ¡Sí!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Verdad?! ¿Hablas en serio, Entrenador? ¡Eres un\ngenio!"
+    },
+    {
+      "name": "Helios y Palmer",
+      "text": "¡Sushiii! ♪ ¡Sushi, sushiii! ♪"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Ahora vámonos ya."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Quieres decir, como... <i>tradicional</i>\ntradicional?¿Vamos a la casa de tu abuela o algo\nasí?"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Podemos ir a <i>mi</i> casa de la abuela! Ustedes son\nfamilia, ¡siempre bienvenidos!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿¡En serio?!",
+      "choice_data_list": [
+        "No podría imponerme así. Mejor vamos a un\nrestaurante."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Ahaha! ¡Mira cómo suda el Entrenador! ¡Tienes que\nrelajarte!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Ahora vámonos ya."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Hm?",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Uhh... No, no es nada. Vayan ustedes. Los\nencuentro en la puerta de la escuela en un\nmomento."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Urgh... Se está despegando otra vez..."
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Jordan? ¿Qué estás haciendo?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Oh! Um... mi uña postiza se está despegando. La\nestoy pegando de nuevo."
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Otra vez? Me pregunto si tal vez tus uñas\nnaturales se están debilitando."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Ohh... No, ¡están bien! ¡Está bien! Esta cinta\nsimplemente no es lo suficientemente fuerte."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Si encuentras alguna cinta decente, avísame!\n¡Gracias! ☆"
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Le preguntaré a mi maquillador. Querrás algo que\nno dañe tu piel."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Jeje... ☆"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Gracias, City!"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Maruzensky",
+      "text": "Ah, Entrenador.",
+      "choice_data_list": [
+        "Gran trabajo hoy."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ah, Entrenador.",
+      "choice_data_list": [
+        "Gran trabajo hoy."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Sí, estoy <i>agotada</i>... ¡Cúbreme con un poco más de\nelogios, ¿quieres?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Jeje, ¡solo bromeaba! Tengo una entrevista\npróximamente, ¡así que todavía tengo que\nesforzarme un poco más!",
+      "choice_data_list": [
+        "¡Y lo siguiente es el Satsuki Sho!",
+        "¡Y lo siguiente es el Satsuki Sho!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...",
+      "choice_data_list": [
+        "...Maruzensky?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oh, vaya! ¡Sí, eso es!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Es una carrera impresionante—será muy\nemocionante! Hagamos todo lo que podamos para\nprepararnos para el Satsuki Sho!",
+      "color_text_info_list": [
+        "Satsuki Sho"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Muy bien, entonces me voy a la entrevista."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, los Spring Stakes, el preludio de los\nClásicos, llegan a su fin."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esa noche..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Ese es... el entrenador de Maruzensky?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Guau, estás trabajando hasta tan tarde! ¡Debes\nestar cansado!",
+      "choice_data_list": [
+        "Tú también estás entrenando bastante tarde.",
+        "Tú también estás entrenando bastante tarde."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "...¡Ups! Oh, no—¡eso se suponía que era secreto!"
+    },
+    {
+      "name": "Special Week",
+      "text": "No viste nada, ¿vale? ¡Me meteré en problemas si\nalguien descubre que he estado corriendo a esta\nhora!",
+      "choice_data_list": [
+        "No te esfuerces demasiado, ¿vale?",
+        "No te esfuerces demasiado, ¿vale?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "E-está bien! ¡Gracias!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Ehehe... Realmente disfruto correr. Poco a poco,\nrealmente siento que estoy mejorando."
+    },
+    {
+      "name": "Special Week",
+      "text": "Incluso me estoy acercando a correr con alguien\ncomo Maruzensky..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Lo siguiente es el Satsuki Sho, ¿verdad? ¡Estoy\nsegura de que será una carrera increíble!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Grass y yo estamos ansiosos por ver correr a\nMaruzensky, ¡así que dile que realmente vaya a por\nello!",
+      "choice_data_list": [
+        "¡Lo haré!",
+        "¡Lo haré!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Genial! Muy bien, ¡buenas noches!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La joven estudiante, persiguiendo a su modelo a\nseguir..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella parece tan feliz mientras se aleja. Es un\nmarcado contraste con cómo ha estado Maruzensky\nrecientemente..."
+    }
+  ]
+}

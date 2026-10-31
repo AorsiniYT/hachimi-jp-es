@@ -1,0 +1,48 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Meisho Doto",
+      "text": "Ohh... Ay... Uugh, creo que me está dando un dolor\nde cabeza...",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Me duele la cabeza de repente... No creo que sea\npor un resfriado..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Todavía no me he caído hoy tampoco... ¿Qué podría\nser la razón? Nghh..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Ay! ¡Ay ay! Otra vez está empezando a doler...",
+      "choice_data_list": [
+        "¿Quizás es por pensar demasiado?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Eso es cierto... Sí siento que pensar demasiado a\nveces me da dolor de cabeza."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Lo que significa... ¿quizás debería dejar de\npensar por completo? E-está bien, no más pensar.\nNo pensar."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ohhh... Pero no puedo terminar el día sin\nreflexionar sobre mis acciones!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Ay! ¡Ay ay ay! No estoy segura de si puedo dejar\nde pensar..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incapaz de dejar de rumiar, Meisho Doto se\nangustia por su dolor de cabeza."
+    }
+  ]
+}

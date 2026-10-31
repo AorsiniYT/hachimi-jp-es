@@ -1,0 +1,170 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Y es Silence Suzuka! Ella es absolutamente\nimparable. ¡Esa es otra victoria que ha logrado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con Silence Suzuka reclamando victoria tras\nvictoria, el público está absolutamente emocionado\ncon ella."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su aumento en popularidad conduce a más y más\napariciones en la televisión y en revistas, y un\ndía, en medio de esta cobertura..."
+    },
+    {
+      "name": "Reportera A",
+      "text": "Muchas gracias por entrevistarte conmigo hoy.\n¡Buena suerte en tus carreras! Te estaré animando."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Muchas gracias."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Uf...",
+      "choice_data_list": [
+        "Hey, buen trabajo."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Um, en realidad, he estado pensando... No es que\nsea un gran problema o algo, pero..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Por qué me piden participar en tantas entrevistas\núltimamente?",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Y no solo son entrevistas. Me piden ir a programas\nde radio y hacer sesiones de fotos con más\nfrecuencia que antes...",
+      "choice_data_list": [
+        "(¿Espera... ¿De verdad no sabe por qué?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Silence Suzuka puede ser un poco distraída, así\nque es posible que genuinamente no se haya dado\ncuenta de que está en el centro de atención en\neste momento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pensando que será más rápido mostrar que explicar,\nle doy una revista que me entregaron ayer."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Eh? ¿No es esta una de las revistas que me\nentrevistó?",
+      "choice_data_list": [
+        "¿La has leído ya?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No, todavía no...",
+      "choice_data_list": [
+        "Echa un vistazo."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En la portada, las palabras \"La Umamusume que se\ndirige hacia el éxito ilimitado\" están destacadas.\nEl artículo continúa en el interior..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "\"Hemos pedido a los fanáticos de Silence Suzuka\nque compartan sus opiniones sobre su Umamusume\nfavorita, y esto es lo que han dicho.\""
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "\"¡Ella gana cada carrera que corre! No hay manera\nde que alguien pueda <i>soñar</i> siquiera con derrotarla\nahora mismo!\""
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "\"Ella fue increíble en el Tenno Sho de otoño. Me\nsentí como si estuviera soñando mientras la veía\ncorrer.\""
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "\"Voy a ver su próxima carrera sin importarme nada.\n¡Ella es nuestro brillante y hermoso sueño!\""
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "\"Muchas gracias, Silence Suzuka.\""
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Esto es increíble... Hay tantos comentarios de\napoyo...",
+      "choice_data_list": [
+        "Están todos emocionados con cómo has estado\nhaciendo.",
+        "Están todos emocionados con cómo has estado\nhaciendo."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿He... estado haciendo tan bien?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Comienzo a contar el número de carreras\nclasificadas que ha ganado, empezando con el Tenno\nSho de otoño."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No, no way. ¿De verdad he ganado tantas?",
+      "choice_data_list": [
+        "Sí, lo has hecho. ¿No te diste cuenta?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Bueno, en realidad, estoy tan enfocada en\nmantenerme al frente del grupo que no me doy\ncuenta de cuántas veces gano."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Mi cuerpo se ha estado sintiendo tan ligero\núltimamente, solo puedo pensar en lo divertido que\nes correr."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Me siento como si pudiera correr para siempre si\nquisiera..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Bueno..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Supongo que es por eso que no tenía idea de que mi\ncarrera ha inspirado a tantas personas."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "De hecho, están incluso más felices con mis\nvictorias que yo."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Es una sorpresa, pero... una muy bienvenida.",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Es un honor llevar los sueños de tantas personas."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Voy a seguir corriendo... para siempre y siempre."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con una pequeña sonrisa en su rostro, Silence\nSuzuka sigue leyendo los comentarios de la\nrevista."
+    }
+  ]
+}

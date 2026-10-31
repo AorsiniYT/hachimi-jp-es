@@ -1,0 +1,213 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Smart Falcon",
+      "text": "¡Es Falco, firmando! ☆ ¡Gracias por ver mi\npresentación! ♪"
+    },
+    {
+      "name": "Fans de Falco",
+      "text": "¡Falcooo! ¡Eso estuvo genial!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Gracias de nuevo por venir! ¡Espero verlos a\ntodos de nuevo la próxima vez! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Smart Falcon lo está haciendo bien en sus\ncarreras. Como resultado, está ganando popularidad\nconstantemente, y cada vez más personas vienen a\nver sus presentaciones callejeras.",
+      "choice_data_list": [
+        "¡Estás entrando en ritmo!",
+        "¡Estás entrando en ritmo!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Sí! ♪"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Tengo tanta suerte de tener tantas personas\nanimándome!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Solo hay una forma de devolverle a todos, y es\nconvertirme en una ídolo top!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Va a haber más carreras en las que pueda\nparticipar este año, así que quiero ver a mis fans\ndesde el escenario mucho más.",
+      "choice_data_list": [
+        "Mejor decidamos nuestra próxima meta entonces.",
+        "Mejor decidamos nuestra próxima meta entonces."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Ahh! Nuestra próxima meta..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Smart Falcon ha estado mejorando constantemente.\nEstoy segura de que puede defenderse en las\nprincipales carreras de año clásico."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Así que, eh, sobre eso..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Resulta que Smart Falcon tiene una propuesta\npropia—una que me toma por sorpresa."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Quiero correr en el Satsuki Sho!",
+      "choice_data_list": [
+        "¡¿El Satsuki Sho?!"
+      ],
+      "color_text_info_list": [
+        "Satsuki Sho"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Satsuki Sho—la primera carrera de la Triple\nCorona Clásica. Es algo grande, pero...",
+      "choice_data_list": [
+        "Sabes que es una carrera de césped, ¿verdad?",
+        "Sabes que es una carrera de césped, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Sí. Sé que siempre soy un desastre cuando se trata\nde carreras de césped..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Pero aun así, quiero intentarlo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La determinación en sus ojos me recuerda a cuando\nnos conocimos, cuando ella insistía en que el\ncésped era la única forma. Pensé que lo había\nsuperado...",
+      "choice_data_list": [
+        "¿Aún estás apegada a correr en césped?",
+        "¿Aún estás apegada a correr en césped?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oh, no, para nada! ¡No es eso!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ya decidí que voy a correr en tierra. Pero,\nbueno..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Recuerdas lo que dijo ese fan?"
+    },
+    {
+      "name": "Fan de Falco B",
+      "text": "Pero, ¿no quieres escuchar a alguien con su clase\nde energía cantar \"Ganando el Alma\"?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...!"
+    },
+    {
+      "name": "Fan de Falco A",
+      "text": "Sí, sé a qué te refieres. Imagina qué emocionante\nsería verla en el escenario en los Clásicos."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Solo hay tres oportunidades para cantar \"Ganando\nel Alma\"—las tres grandes carreras de césped de la\nTriple Corona Clásica."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Si no lo intento ahora, nunca habrá otra\noportunidad de cantar esa canción para todos."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "No puedo permitir que eso pase. ¡Quiero ser una\nídolo que cumpla con las expectativas de todos!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Hasta hace poco, podía contar el número de fans\nque tenía con una mano."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Pero ahora, de repente, hay tantas personas\nanimándome."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Todos tienen tantas esperanzas puestas en mí, y\nquiero estar a la altura de ellas..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Durante mucho tiempo, Falco hizo lo mejor a pesar\nde tener solo un pequeño grupo de seguidores. Es\npor eso que ella valora a sus fans más que nadie.\nSin embargo...",
+      "choice_data_list": [
+        "Ganar no va a ser fácil.",
+        "Ganar no va a ser fácil."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No solo no es apta para el césped, la competencia\nque lucha por la Triple Corona es de primera\nclase. Francamente, me preocupa si siquiera puede\npresentar batalla."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...Lo sé. Sé que nunca he sido muy buena en la\npista de césped."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Pero..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Aún así! ¡Una Uma Musume nunca se rinde sin\nsiquiera intentarlo!",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Si hay incluso una persona que crea en mí y quiera\nescucharme cantar..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Mientras haya una oportunidad de ganar, no\nimporta lo pequeña que sea, quiero intentarlo!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Siempre perseguiré cualquier oportunidad de\nbrillar! ¡Porque creo en ese tipo de Uma Musume!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Así que... ¡Entrenador! Por favor, permíteme\ncorrer en el Satsuki Sho!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella ha elegido un camino increíblemente difícil\npor el que caminar: por sus fans y por sus\ncreencias. Como su entrenador, realmente solo hay\nuna cosa que puedo decir.",
+      "choice_data_list": [
+        "¡Espero que estés listo para un entrenamiento\nduro!",
+        "¡Espero que estés listo para un entrenamiento\nduro!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Ah! Entonces, ¿eso significa...",
+      "choice_data_list": [
+        "¡Vamos a por la luna! A continuación, el Satsuki\nSho!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿¡En serio!?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Vale! ¡Hagámoslo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Convencido por la determinación de Smart Falcon,\nhe tomado mi decisión. Nuestra siguiente carrera\nes uno de los Clásicos: ¡el Satsuki Sho!"
+    }
+  ]
+}

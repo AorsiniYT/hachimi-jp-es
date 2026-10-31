@@ -1,0 +1,248 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Nice Nature",
+      "text": "¡Feliz Año Nuevo, Entrenador!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Gracias por todo el apoyo el año pasado. Espero\ntrabajar contigo también este año."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Listo. Ya salude formalmente.",
+      "choice_data_list": [
+        "Qué joven tan educada.",
+        "Qué joven tan educada."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "\"Señorita\"? ¿Qué eres, uno de mis abuelos?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Crecí rodeada de adultos, así que siempre me daban\nla charla sobre mis modales y saludos."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "También has sido mi entrenador por un tiempo, así\nque solo quería hacer las cosas bien."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ah, y sobre mi resolución de Año Nuevo...",
+      "choice_data_list": [
+        "¿Ya decidiste una?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Bueno, sí, pero..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "No, en realidad, ¡por qué no compartes la tuya\nprimero!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La resolución de Año Nuevo que establecí para\nnosotros es...",
+      "choice_data_list": [
+        "¡Pongamos especial cuidado al crear una rutina de\nentrenamiento!",
+        "¡Enfoquémonos en la salud con una mejor dieta!",
+        "¡Aprendamos algunos trucos nuevos para destacar!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Oho... ¿Quieres asegurarte de que cada parte de\nnuestro entrenamiento tenga un propósito, eh?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Realmente considerando los efectos y todo eso,\n¿verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Nice Nature ya tiene una idea de cómo\nel entrenamiento afecta su progreso. Después de\ntodo, es una chica inteligente. En ese caso...",
+      "choice_data_list": [
+        "Creo que puedes ir aún más profundo que eso."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Es una forma muy peculiar de decir \"pensar más.\"\nPero sí, haré lo que dices."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Y confía en mí, mi mente irá tan profundo como sea\nnecesario. Descifraré tu juego en poco tiempo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de discutir mi resolución de Año Nuevo,\ntengo otra cosa de la que hablarle."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Una mejor dieta?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ya presto atención a mi dieta, aunque. Después de\ntodo, soy una atleta joven.",
+      "choice_data_list": [
+        "¿También prestas atención a tus comidas entre\nhoras en el distrito comercial?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Urk! C-cómo supiste eso?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Quiero decir, los dueños de las tiendas son tan\namables y me dan comida! No hay forma de que pueda\nrechazar esa amabilidad."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Así que por favor, ¡Entrenador! ¿Hay alguna forma\nde que pases por alto la parte de las comidas\nentre horas?",
+      "choice_data_list": [
+        "Si haces tu cena proporcionalmente más pequeña,\nclaro."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Uuuuugh, noooo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de discutir mi resolución de Año Nuevo,\ntengo otra cosa de la que hablarle."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ay, caray, aquí vamos... ¿Trucos nuevos?\n¿Destacar?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "No soy buena en nada de eso. Esas cosas son solo\npara personas naturalmente talentosas.",
+      "choice_data_list": [
+        "Pero, ¿no quieres un arma secreta única tuya?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Hmmm... Supongo, pero no puedo evitar encogerme\ncon esas frases."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Un arma secreta, ¿eh?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Bueno, tengo un año. Estaré atenta a cosas que\npodrían funcionar potencialmente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de discutir mi resolución de Año Nuevo,\ntengo otra cosa de la que hablarle."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...¿Eh?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ummm... ¿Entrenador? ¿Qué acabas de decir?",
+      "choice_data_list": [
+        "¡Tokai Teio va a competir en las Wakagoma Stakes!",
+        "¡Tokai Teio va a competir en las Wakagoma Stakes!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tokai Teio es la más fuerte de su generación.\nAunque antes de lo esperado, Nice Nature se\nenfrentará a ella en una carrera abierta."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Caray... Esperaba haber escuchado mal..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Me uniré a esa carrera para mostrarle a todos lo\nque puedo hacer... Ugh, ¿por qué Teio tuvo que\nunirse?",
+      "choice_data_list": [
+        "¡Todavía tienes una oportunidad!"
+      ],
+      "color_text_info_list": [
+        "Teio"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Eres mi entrenador! ¡Por supuesto que dirías eso!",
+      "choice_data_list": [
+        "Lo digo en serio."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Urghhh, supongo que realmente tengo que hacer\nesto..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Puedo ver que aún lucha con sus sentimientos pero\nha aceptado la realidad de la situación. Mientras\nsigamos entrenando, ¡estoy segura de que podemos\nganar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A propósito...",
+      "choice_data_list": [
+        "¿Cuál es tu resolución?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿¡Eh?! ¡Quieres que te la diga ahora?!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Umm... Uh... Entonces, mi resolución es..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "La cima.",
+      "choice_data_list": [
+        "¿Qué?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Urgh! ¡Deslizarme hasta la cima!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡No te equivoques! ¡No fui yo quien se le ocurrió\nesta resolución!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Fui al distrito comercial el otro día para saludar\na la gente, y mencioné de pasada que todavía no\ntenía una resolución de Año Nuevo."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Todos me bromearon para que hiciera una\nresolución épica!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Así que es como... Puse esa como mía solo para\nseguir la corriente.",
+      "choice_data_list": [
+        "Bueno, ¡deslicémonos hacia la victoria en la\npróxima carrera!",
+        "Bueno, ¡deslicémonos hacia la victoria en la\npróxima carrera!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ahhh, ¡no puedo! ¡Es imposible!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Sabía que no debí haber dicho nada!"
+    }
+  ]
+}

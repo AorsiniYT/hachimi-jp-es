@@ -1,0 +1,65 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Vodka quiere que la acompañe a su sesión extra de\nentrenamiento, así que llego al gimnasio para\nencontrarme con ella."
+    },
+    {
+      "name": "Vodka",
+      "text": "Oye, Entrenador? ¿Crees que cuanto más grande\neres, más fuerte y más genial eres?",
+      "choice_data_list": [
+        "¿A qué viene eso?",
+        "¿A qué viene eso?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Solo digo—ser grande no es todo, ¿sabes?"
+    },
+    {
+      "name": "Vodka",
+      "text": "También tienes que ser resistente, como esas motos\namericanas de peso pesado."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Pero! Nunca había considerado eso antes."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Lo único en lo que me enfocaba era en hacerme\ncada vez más grande!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Suspiro...</i> Ya no puedo escuchar esto. ¿Es por eso\nque has estado comiendo tanto últimamente?"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿S-Scarlet?! ¿Cuánto tiempo llevas ahí?!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿No deberías estar cuidando tu ingesta? Quiero\ndecir, no es que a <i>mí</i> me importe si arruinas tu\npropia velocidad."
+    },
+    {
+      "name": "Vodka",
+      "text": "Ugh... ¡N-no tienes que decírmelo! ¡Ese era mi\nplan de todos modos!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Ahora es el momento de levantar pesas hasta que\nesté bien musculoso!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Jeje. Hazlo lo mejor que puedas, a menos que\nquieras terminar haciéndome quedar bien a mí."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Grrr! ¡De ninguna manera voy a permitir que eso\npase!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Creo que la bomba que Daiwa Scarlet le lanzó tuvo\nefecto, porque Vodka continúa entrenando\nferozmente hasta que vuelve a su forma normal."
+    }
+  ]
+}

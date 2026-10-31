@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Taishin",
+      "text": "... ♪",
+      "choice_data_list": [
+        "¡Parece que te divertiste mucho en vacaciones!",
+        "¡Parece que te divertiste mucho en vacaciones!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Vaya, eres tú! Sí, supongo."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Pasé por un parque ayer y estaba totalmente vacío.\nVaya, me eché una siesta increíble ahí."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Hasta hace soportable ver tu cara de tonto tan\ntemprano en la mañana."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Parece que Narita Taishin está de muy buen humor!"
+    }
+  ]
+}

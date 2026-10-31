@@ -1,0 +1,278 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Rice Shower y yo vamos de regreso al campus tras\nsalir, cuando..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Eh, Hermano mayor?",
+      "choice_data_list": [
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Eh, Hermana mayor?",
+      "choice_data_list": [
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "No quiero decir adiós todavía..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "No quiero decir adiós todavía..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "En realidad, ¡hay algo que quiero ir a ver\ncontigo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su expresión es tan sincera que no puedo decir que\nno."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Subimos a la azotea de la academia a esperar a que\nse ponga el sol."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Se supone que hoy habrá una lluvia de meteoros."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "En cuanto lo escuché, supe que tenía que verlo\ncontigo."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "En cuanto lo escuché, supe que tenía que verlo\ncontigo."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Gracias por venir.",
+      "choice_data_list": [
+        "Por supuesto."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Gracias por venir.",
+      "choice_data_list": [
+        "Por supuesto."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pero..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hay muchas nubes, ¿eh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como era de esperar, el cielo está lleno de nubes\npor todas partes, formando una pared opaca sobre\nla mayor parte del cielo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me preocupa un poco que ella pueda culpar al\nestado del cielo en sí misma, pero..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "O-oye, Hermano mayor?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "O-oye, Hermana mayor?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Esperarás conmigo un poco más?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hasta que las nubes se despejen... Hasta que\npodamos ver el cielo."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Está bien?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Miro a Rice Shower y me doy cuenta de que mi\npreocupación era infundada.",
+      "choice_data_list": [
+        "Te has vuelto más fuerte.",
+        "Te has vuelto más fuerte.",
+        "Deberíamos pedir un deseo cada uno.",
+        "Deberíamos pedir un deseo."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Miro a Rice Shower y me doy cuenta de que mi\npreocupación era infundada.",
+      "choice_data_list": [
+        "Te has vuelto más fuerte.",
+        "Te has vuelto más fuerte.",
+        "Deberíamos pedir un deseo cada uno.",
+        "Deberíamos pedir un deseo."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿E-eh? ¿Más fuerte? ¿Q-qué quieres decir?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Dije algo raro?",
+      "choice_data_list": [
+        "Pudiste decirme que querías esperar."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Ah, s-sí. Hace un rato... probablemente no\nhabría podido decir eso."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "La Rice de antes probablemente habría empezado a\nllorar... Pero ya no soy así."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Decidí que quería ver estrellas fugaces contigo\nhoy..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Decidí que quería ver estrellas fugaces contigo\nhoy..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Y no me rendiré hasta que eso pase.",
+      "choice_data_list": [
+        "Rice..."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Ah! ¡Mira! ¡Mira el cielo!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Ah! ¡Mira! ¡Mira el cielo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las nubes ya han desaparecido, revelando un cielo\nnocturno lleno de estrellas titilantes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Entre la invitante avalancha de puntos brillantes,\nun repentino destello de luz se precipita. Luego\notro, y otro."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Guau! ¡Hay tantas estrellas fugaces!",
+      "choice_data_list": [
+        "Valió la pena esperar, ¿eh?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Definitivamente!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Seguro que esta será una noche inolvidable para\nnosotras."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Me alegra mucho que te quedes."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Me alegra mucho que te quedes."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...¿Qué vas a desear?",
+      "choice_data_list": [
+        "Para tu felicidad."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...¿Qué vas a desear?",
+      "choice_data_list": [
+        "Para tu felicidad."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿¡Eh?! ¿¡Para mí?!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "N-No me lo esperaba, pero..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Es parecido a mi deseo.",
+      "choice_data_list": [
+        "¿Cuál es tu deseo?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Mi deseo... es la felicidad de todos los que me\napoyan..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Incluyendo el tuyo."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Incluyendo el tuyo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "De repente, un destello capta mi atención."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Mira! El cielo..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Mira! El cielo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin darnos cuenta, el cielo se despejó mientras\ncharlábamos. Miramos arriba y vemos un océano de\nestrellas; una cae, luego otra... y una lluvia de\nellas."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Guau! ¡Hay tantas estrellas fugaces!",
+      "choice_data_list": [
+        "¡Tenemos que pedir nuestros deseos!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rice Shower y yo pedimos un deseo ante la lluvia\nde estrellas fugaces."
+    }
+  ]
+}

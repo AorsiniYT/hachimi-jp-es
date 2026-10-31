@@ -1,0 +1,48 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras salíamos con Gold City..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Oh, así que esas son las muñecas de las que he\noído tanto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gold City está mirando una máquina de garra llena\nde peluches de Uma Musume."
+    },
+    {
+      "name": "Gold City",
+      "text": "Solo las corredoras con gran promesa tienen\nmuñecas hechas a su imagen, ¿sabes?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Entonces... Sí, probablemente no estoy ahí.",
+      "choice_data_list": [
+        "¡No sabes eso!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Eres demasiado positivo."
+    },
+    {
+      "name": "Gold City",
+      "text": "No me opongo a echarle un vistazo, sin embargo.\nEscuché que las muñecas son de bastante alta\ncalidad para ser peluches.",
+      "choice_data_list": [
+        "Entonces, consigamos una para ver por nosotros\nmismos.",
+        "Entonces, consigamos una para ver por nosotros\nmismos."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Eh? ¿Por qué sacaste la billetera? Espera, no me\ndigas..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡De ninguna manera puedo fallar ahora!"
+    }
+  ]
+}

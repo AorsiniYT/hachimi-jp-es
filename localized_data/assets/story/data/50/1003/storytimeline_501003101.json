@@ -1,0 +1,155 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El Año Nuevo... Un momento en el que nuestros\nespíritus también renacen. Escucho una voz\nbrillante y familiar entrar en mi oficina."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ah, ¡ya estás aquí!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Feliz Año Nuevo, Entrenador!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Oye, para mi primer favor del año... ¿tienes papel\nde caligrafía?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Acabo de ver que Prez y las otras están decorando\nla oficina del consejo estudiantil con propósitos\nde Año Nuevo!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Yo también quiero hacer uno! ¡Escribámoslo\njuntos!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Y terminado!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Mi propósito es derrotar a Prez por completo."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Si no intento superarla, ¡nunca la superaré!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Qué propósito hiciste tú, Entrenador?",
+      "choice_data_list": [
+        "¡Para que seas <i>Tei o</i>-ver el mundo como su Monarca!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Tei o-ver... ¿Como tomar el control? Bueno,\ndejando el juego de palabras raro aparte, ¡me\nencanta!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Y ¡guau, Entrenador! ¡Tu caligrafía es hermosa!\n¡Oye, cambiemos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me fuerza a cambiar papeles."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Jeje, ¡voy a convertirme en Monarca y superar a\nPrez!",
+      "color_text_info_list": [
+        "Monarca"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...Pero, ¿qué necesito para convertirme en Monarca\nde todos modos?",
+      "choice_data_list": [
+        "¡Necesitas las agallas para seguir corriendo hasta\nel final!",
+        "¡Necesitas un cuerpo sano para correr bien!",
+        "¡Necesitas cierta destreza para aprovechar al\nmáximo tus habilidades!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Urgh, eso suena como que requerirá un\nentrenamiento bastante doloroso..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Pero supongo que tener agallas realmente es\nimportante para ganar carreras."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡De acuerdo! ¡Construiré mis agallas y me\nconvertiré en un verdadero Monarca!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Entonces quieres decir que necesito descansar\nmás? ¡Y yo que estaba tan emocionado! Qué\nanticlimático."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Pero supongo que no puedo correr si estoy\nlesionado o enfermo..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "De acuerdo, tienes un punto. ¡Me aseguraré de\ncuidar mi salud!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Hmm, ¿entonces necesito pulir mis habilidades?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Tienes razón. Las carreras son más que una batalla\nde quién está físicamente más en forma."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡De acuerdo! ¡Pensaré en una técnica secreta súper\ngenial! ¡Será mi as bajo la manga!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Justo cuando Tokai Teio y yo nos sentimos\nsatisfechos con los propósitos que decidimos..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Disculpe que interrumpa su animada conversación,\npero vine a desearles a ambos un feliz año nuevo."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ah, ¡Prez! ¡Mira nuestros propósitos de Año Nuevo!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "\"Tei o-ver\"... Tomar el control... Jeje. Tiene un\nanillo bastante lindo... Jejeje.",
+      "color_text_info_list": [
+        "Tei o"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Eh? ¿Los chistes malos son lo tuyo o algo así?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Y esto debe ser el propósito de tu entrenador...\n¿Hm?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Oh? \"Derrotarme por completo\", dices? Siempre\nestoy dispuesta a recibir a cualquier retador,\nsabes.",
+      "choice_data_list": [
+        "¡Eso no es mío!",
+        "¡Eso no es mío!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Dale duro, Entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así es como celebro el Año Nuevo con Tokai Teio."
+    }
+  ]
+}

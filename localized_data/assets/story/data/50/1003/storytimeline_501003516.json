@@ -1,0 +1,88 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras como con Tokai Teio..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Hmm... Sabía que había que haber algún secreto."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Uf... Voy a tener otro."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Tienes que estar llegando a tu límite. ¡Eso es\ntreinta tazones ya!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "No tengo límite. ¡Otro!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Nah, puede que tú no tengas uno, pero tu\nestómago\\sí"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Es como dijo el presidente: \"Oguri posee un poder\nilimitado.\""
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Poder ilimitado... Ilimitado significa sin límite."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Así que, en otras palabras, si sigo comiendo más\nallá de mi límite, también obtendré un poder\nilimitado.",
+      "choice_data_list": [
+        "No creo que eso sea lo que quiso decir...",
+        "Tienes razón. ¡Ahora come!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Eh? Entonces, ¿qué quiso decir?",
+      "choice_data_list": [
+        "Vamos a ver un poco más."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Uf, ¿qué más hay que ver? Quiero decir..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ah! Se levantó y... fue a buscar una ensalada."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Eso es! Una dieta equilibrada y saludable es el\nverdadero secreto para ganar poder. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siento que eso no fue exactamente lo que Symboli\nRudolf tuvo en mente tampoco, pero... Creo que\npodemos dejarlo así."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Sí. ♪ Lo sabía."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Bien! Voy a tener treinta tazones... No, necesito\nsuperar a Oguri..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Voy a tener <i>cincuenta</i> tazones."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Es obvio, pero el estómago de Tokai Teio\nrealmente alcanza su límite."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Uuuuh... Lo lograré la próxima vez..."
+    }
+  ]
+}

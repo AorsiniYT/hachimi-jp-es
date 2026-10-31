@@ -1,0 +1,163 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mayano Top Gun",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "No... ¡Estuve tan cerca!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tch..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Así que así es como es."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Nooo! ¡Por qué pones esa cara?!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡No me mires como si ni siquiera fuera una amenaza\npara ti!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Grrrrr... Pero..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Volví!",
+      "choice_data_list": [
+        "¡Bien hecho allá afuera!"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Ya regresaste?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Espera, qué?! ¿Cómo es que estás aquí, Hishiama?!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Vine a apoyarte, por supuesto..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Ya veo! ¡Justo a tiempo!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Por favor, ayúdame a entrenar! ¡Podemos empezar\nhoy mismo!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Eh?! ¡Qué te pasa?!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡No lo soporto! ¡Quiero mejorar—y sé que puedo!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡O sea, apesta! ¡Volví a emocionarme!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Pero Brian todavía me superó en brillo!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡No quiero perder así otra vez! No quiero decir\nque me rindo.",
+      "choice_data_list": [
+        "¡Por favor, ayúdala!",
+        "¡Por favor, ayúdala!"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "<i>Suspiro...</i> Dos guisantes egoístas en la misma\nvaina..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Aún así, esa es justo la clase de pasión que\nnecesitas para correr."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Además, ¡he llegado demasiado lejos para\nretroceder ahora! Supongo que puedo ayudarte un\npoco más."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Vamos a entrenar hasta que supliques que pare,\nMayano! ¡Espero que estés lista!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Entendido! ¡Gracias!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Eso es lo que quería escuchar! ¡Mantén ese\nentusiasmo!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Trabaja a máxima fuerza! Si no das tu mejor\nesfuerzo por el bien de tu futuro, más te vale\nrendirte ¡ahora mismo!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Recibido!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Muy bien.... ¿Por qué no hacemos una reunión de\nestrategia? Escucha, Mayano."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Tu próxima oportunidad de correr contra Brian será\nel Tenno Sho de primavera.",
+      "color_text_info_list": [
+        "Tenno Sho de primavera"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "El Tenno Sho de primavera..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Tenno Sho de primavera: una carrera de larga\ndistancia consolidada para corredores de primera\nclase."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Estoy bastante seguro de que quiere correr contra\nlos mejores corredores."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Ella probablemente vio el Hanshin Daishoten como\nla mejor ruta para llegar allí."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Entendido. ¿Entrenador?",
+      "choice_data_list": [
+        "Entendido. Vamos al Tenno Sho de primavera.",
+        "Entendido. Vamos al Tenno Sho de primavera."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Entendido!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso, pusimos nuestra mirada en el Tenno Sho de\nprimavera."
+    }
+  ]
+}

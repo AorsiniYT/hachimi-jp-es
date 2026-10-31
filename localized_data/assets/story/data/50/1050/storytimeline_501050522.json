@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Necesito preguntarle algo a Narita Taishin, así\nque voy a buscarla en la azotea. No la veo de\ninmediato, pero luego escucho una voz..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ugh, ¿otro anuncio? Apenas he podido progresar en\nla historia por estos malditos anuncios..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Hmm, ¿qué es este? \"¡Resultados reales en solo\ntres días!\" \"¡Deshazte de las células muertas de\nla piel!\" \"¡Revela una tú más fresca y radiante!\""
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Mmm...",
+      "choice_data_list": [
+        "¡Ni pienses en comprar productos sospechosos como\nese!",
+        "¡Ni pienses en comprar productos sospechosos como\nese!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Whoa! No me asustes así. No soy tan ingenua para\ncreer algo tan estúpido, ¡de todos modos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eso dice, pero parece preocupada por su piel."
+    }
+  ]
+}

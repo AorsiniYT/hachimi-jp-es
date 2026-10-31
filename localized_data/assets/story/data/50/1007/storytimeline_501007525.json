@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gold Ship",
+      "text": "¡Hiiiyah! ¡Hraaaugh! ¡VAMOS A HACER ESTO!",
+      "choice_data_list": [
+        "Estás muy enérgica hoy.",
+        "Estás muy enérgica hoy."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Qué? ¿De qué estás hablando?!Golshi está listo\npara ir, en cualquier momento, <i>todo</i> el tiempo!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Pero tienes que encontrarme a mitad de camino,\n¿entiendes? Nada de entrenamiento aburrido y a\nmedias, ¡oye!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ni se te ocurra someterme a un festín de sueño\nhoy."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Si lo intentas, iremos a rafting en aguas bravas\nen su lugar, ¡y tú serás la balsa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Valoro mi vida demasiado, así que curato el\nhorario de entrenamiento de hoy enteramente\nalrededor de las demandas de Gold Ship."
+    }
+  ]
+}

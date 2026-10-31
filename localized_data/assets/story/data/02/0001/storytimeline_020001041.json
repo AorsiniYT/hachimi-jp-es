@@ -1,0 +1,198 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Decido ir a la pista de la academia esa noche para\nhablar con McQueen. En el camino..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Oh, ¡allí estás! Quería hablar contigo"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Tengo noticias sobre el período de gracia antes de\nla disolución del Equipo Sirius",
+      "choice_data_list": [
+        "¿¡De verdad?! ¿Cuánto tiempo es"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Je, je, te alegrará escuchar esto. Tienes hasta el\nfinal de este trimestre, así que hasta finales de\njunio"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Sobre todo, la academia reconoce que los\nestudiantes tienen carreras en las que enfocarse"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Decidieron darte a ambos suficiente tiempo para\nentrenar"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me siento aliviado. Eso significa que podemos\nolvidarnos de nuestros problemas de reclutamiento\npor ahora",
+      "choice_data_list": [
+        "Muchas gracias"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "No hay de qué, solo soy el mensajero. Pero también\nme alegra. Buena suerte en el Tenno Sho"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La pista está vacía a esta hora de la noche. La\nmayoría de las Umamusume ya están en la cama\nahora..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero eso no detiene a McQueen. ¿Cuántas noches han\npasado ya"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, es evidente que el sobretrabajo ha\npasado factura a su forma. Tanto su equilibrio\nsuperior como inferior están mal"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me gustaría no ver que todo este entrenamiento\nineficaz conduzca a una lesión justo antes del\nTenno Sho de primavera"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>Haa... Haa...</i> Mmph, ah... Ahh"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En ese momento, McQueen se tambalea y cae al suelo\nen medio de una nube de polvo"
+    },
+    {
+      "name": "<username>",
+      "text": "McQueen!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...",
+      "choice_data_list": [
+        "¿Cómo te sientes, McQueen",
+        "¿Cómo te sientes, McQueen"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Dónde estoy... Oh. Entrenador, ¿por qué estás—"
+    },
+    {
+      "name": "<username>",
+      "text": "Estamos en la enfermería. Deberías acostarte de\nnuevo. Parece que tienes fiebre"
+    },
+    {
+      "name": "<username>",
+      "text": "Estamos en la enfermería. Deberías acostarte de\nnuevo. Parece que tienes fiebre"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Fiebre. Oh... Debo haber estado más agotada de lo\nque pensaba"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Cuando era más joven, a menudo me daban fiebres\ndespués de correr por mi infancia",
+      "choice_data_list": [
+        "Te esforzaste demasiado",
+        "Te esforzaste demasiado"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Parece ser así"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "E-espere, ¿¡sabía todo esto desde el principio?!\n¿S-sobre mi salida por la noche"
+    },
+    {
+      "name": "<username>",
+      "text": "Sí, y había planeado confrontarte sobre eso esta\nnoche"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Entiendo... Siempre eres astuto cuando se trata de\neste tipo de cosas"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Adelante, di lo que tengas que decir. No más\nentrenamiento privado, ¿verdad",
+      "choice_data_list": [
+        "No puedo permitir que te excedas ahora"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Considerando lo que me he causado a mí misma, no\ntengo derecho a discutir. Tienes mi palabra"
+    },
+    {
+      "name": "<username>",
+      "text": "Entonces, oficialmente estás prohibida de entrenar\npor la noche... pero a cambio, déjame estar aquí\npara ti. Ábrete conmigo"
+    },
+    {
+      "name": "<username>",
+      "text": "Entonces, oficialmente estás prohibida de entrenar\npor la noche... pero a cambio, déjame estar aquí\npara ti. Ábrete conmigo"
+    },
+    {
+      "name": "<username>",
+      "text": "Déjame ayudarte a hacer realidad tu sueño de ganar\nel Tenno Sho"
+    },
+    {
+      "name": "<username>",
+      "text": "Déjame ayudarte a hacer realidad tu sueño de ganar\nel Tenno Sho"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Cómo... Ah. ¿Lo escuchaste de Ryan"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Así que <i>eso</i> era el pequeño secreto de Ryan!\nMetiéndose en todo como siempre, esa chica."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Pero ¿estás segura? Si estás seria sobre ayudarme,\nnecesitas estar preparada para manejar la\nresponsabilidad de entrenar a una Mejiro"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Estás lista para eso? Para... bueno... para\nconvertirte en una de corazón y mente",
+      "choice_data_list": [
+        "Lo sé",
+        "Lo sé"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Je, je, sin ninguna duda. Esa parte de ti no ha\ncambiado en absoluto desde tus días como\nentrenadora asistente"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Siempre poniéndonos primero..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Muy bien. Entonces no me contendré más"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Seré tan egoísta como sea necesario para hacer que\nmis sueños de victoria en el Tenno Sho se hagan\nrealidad"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>Voy</i> a ganar"
+    },
+    {
+      "name": "<username>",
+      "text": "Sí, hagámoslo juntos"
+    },
+    {
+      "name": "<username>",
+      "text": "Sí, hagámoslo juntos"
+    }
+  ]
+}

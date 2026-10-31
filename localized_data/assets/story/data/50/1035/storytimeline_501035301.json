@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Nuestro campamento de verano de tercer año llega a\nsu fin."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡El campamento de verano fue INCREÍBEEEL!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Uf, cállate."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Te vas a quedar dormida para el autobús, sabes."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Agh! ¡Espérenmeee!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Parece que mejor me voy! ¡Nos vemos para más\nentrenamiento de primera cuando regresemos a la\nacademia, Entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siempre bulliciosa y lista para más, Winning\nTicket se une a Biwa Hayahide y Narita Taishin en\nel autobús.",
+      "choice_data_list": [
+        "(Me alegra que hayan logrado reconciliarse.)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nuestro próximo objetivo es la Arima Kinen. ¡Es\nhora de emocionarnos para que realmente podamos\nhacer de esta la mejor carrera de todas!"
+    }
+  ]
+}

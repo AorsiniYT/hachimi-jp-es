@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Brian",
+      "text": "...Hmph. Sin duda fue más complejo de lo que creí\nque sería."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Pero, en cuanto al peluche... No he tocado uno en\nmucho tiempo..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Este sí que parece el que yo solía tener... Creo\nque incluso le puse un nombre...",
+      "choice_data_list": [
+        "¿Cómo se llamaba?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿Crees que te lo voy a decir, idiota?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Eso salió bastante bien!"
+    }
+  ]
+}

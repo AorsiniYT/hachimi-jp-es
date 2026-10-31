@@ -1,0 +1,64 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy es el primer día del campamento de verano.\nEmpezaremos una rutina más rigurosa para mejorar\naún más el rendimiento."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Hace tanto calor..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Me alegra que lo hagas tan bien hoy, Sr. Sol. Se\nestá poniendo un poco demasiado brillante para un\nperseguidor de sombras como yo, aunque..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ya me pregunto si sobreviviré.",
+      "choice_data_list": [
+        "También tienes el Kokura Kinen próximamente.",
+        "También tienes el Kokura Kinen próximamente."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Exacto. El campamento de verano y la carrera? Es\nmucho."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Además, Kokura está tan lejos de aquí, lo que\nsignifica menos tiempo para entrenar."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Esas Umamusume ya son mucho mejores que yo, y\nahora siento que me quedaré aún más atrás.",
+      "choice_data_list": [
+        "¡Entonces corramos a toda velocidad hasta Kokura!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Ah! ¡Idea perfecta! Transporte gratis y además\ncorreré un poco? Matar dos pájaros de un tiro."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Son solo unos 1,000 kilómetros, ¿verdad?Eso es\n<i>nada!</i>"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡NO! Eso sería una locura. Ni siquiera bromees con\neso."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Lo estás disfrutando, ¿verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, el ardiente campamento de verano de Nice\nNature ha comenzado."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Um, ¿qué tal si mantenemos las cosas solo\n<i>ligeramente</i> calientes?"
+    }
+  ]
+}

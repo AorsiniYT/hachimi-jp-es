@@ -1,0 +1,281 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy estoy acompañando a Symboli Rudolf al Festival\nFleetfoot, una celebración para las Umamusume."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Hice una prueba del recorrido. La ubicación de los\nblancos y el estado del equipo parecen estar en\norden. El comité de planificación de tiro con arco\nha hecho un excelente trabajo."
+    },
+    {
+      "name": "Estudiante A de Tracen",
+      "text": "¡M-muchas gracias, Presidenta! Tenemos mucha\nsuerte de que usted realice la inspección\npersonalmente!"
+    },
+    {
+      "name": "Estudiante B de Tracen",
+      "text": "Disculpe, Presidenta. ¿Podríamos molestarla para\nque nos dé algunas indicaciones para los arqueros\nde este año?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Sería un placer. Llamarlo \"obligación de la\nnobleza\" puede ser exagerado, pero es\nindudablemente mi deber compartir mi conocimiento\ncon ellos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Symboli Rudolf pasa el día asegurándose de\nque el Festival Fleetfoot salga bien."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Sus palabras en la ceremonia de clausura fueron\nmaravillosas, Presidenta."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Gracias, Air Groove. Ahora, si me disculpas..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "...Por supuesto. Bueno, las festividades han\nllegado a su fin. Ahora solo queda disfrutar del\nresto del día. Después de todo, todos necesitamos\nun respiro de vez en cuando, incluso tú."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...¿Y qué tenemos aquí?"
+    },
+    {
+      "name": "Vendedora del Puesto de Comida",
+      "text": "¡Gracias por todo su trabajo duro, Presidenta!\n¡Hemos extendido nuestro horario de apertura por\nhoy!",
+      "choice_data_list": [
+        "Ah que lo recuerde, no revisamos los puestos.",
+        "Ah que lo recuerde, no revisamos los puestos."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Organizaste todo esto por mí? No tenías que tomar\ntantas molestias..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Tendría que ser el tirano más despiadado para\nignorar un acto tan cortés. Disfrutaré esta\noportunidad."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¡Adiós!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Pum!</i>"
+    },
+    {
+      "name": "Personal de la Galería de Tiro",
+      "text": "¡Guau! Eres una gran tiradora, Presidenta."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ajá, gracias. Sí tengo algo de experiencia en el\ncampo de tiro.",
+      "choice_data_list": [
+        "¿De verdad?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Sí. Mi abuelo me llevó a algunos viajes a América,\ndonde tuve la oportunidad de intentarlo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque Symboli Rudolf tiene una explicación para\nsus habilidades de tiro, sus talentos no terminan\nahí."
+    },
+    {
+      "name": "Dueño del Puesto de Cortar Galletas",
+      "text": "¡Cielos! ¡Nunca he visto a nadie cortar una\ngalleta tan intrincada con tanta precisión! ¡Eres\nincreíblemente diestra!"
+    },
+    {
+      "name": "Dueño del Puesto de Algodón de Azúcar",
+      "text": "¡Algodón de azúcar! ¡Haz tu propio algodón de\nazúcar por solo cien yenes! ¡Guau, Presidenta,\neres muy buena en esto!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Jaja, muchas gracias. Parece que aún tengo la\nmemoria muscular de cuando solía disfrutar las\nmanualidades. Supongo que es como andar en\nbicicleta."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...¿Eh? ¿Qué pasa?",
+      "choice_data_list": [
+        "¡Eres tan hábil en todo!",
+        "¡Eres tan hábil en todo!"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Je, yo no diría <i>todo...</i>"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Pero, ahora que lo pienso, transmitir conocimiento\ny experiencia es algo de gran importancia."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Entonces, Entrenador. Generalmente soy yo quien va\na usted buscando consejos... pero solo por esta\nnoche, ¿y si yo le impartiera mi sabiduría?",
+      "choice_data_list": [
+        "¿Qué pasó con tomar un respiro?",
+        "¿Qué pasó con tomar un respiro?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Pero lo es. Mi propuesta es un soplo de aire\nfresco para ambos. ¿Por qué no aprovechamos esta\noportunidad para que ambos experimentemos una\nnueva perspectiva?",
+      "choice_data_list": [
+        "Está bien, entonces. ¿Qué tal algunos consejos de\ntiro?",
+        "Quiero saber cómo hacer algodón de azúcar\npintoresco."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Je. ¿Volvemos al puesto, entonces?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Entonces, Entrenador... ¿Qué premio le llama la\natención?",
+      "choice_data_list": [
+        "(Veamos aquí...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Instado a elegir por Symboli Rudolf, señalo el\npremio que ha captado mi atención—el que está en\nel estante más alto."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Una excelente elección... Muy bien, permíteme\nevaluar tus habilidades. Ahora, mira por la\nmira...",
+      "choice_data_list": [
+        "Apunto, y..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Pum!</i>"
+    },
+    {
+      "name": "Personal de la Galería de Tiro",
+      "text": "Ah, ¡casi! ¡Pero buen intento!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "No te preocupes, aún te quedan muchos más tiros.\nIntenta visualizar la trayectoria y ajusta tu\npuntería tras cualquier fallo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tomando en serio las palabras de Symboli Rudolf,\nadopto una posición más cómoda apoyando mi codo en\nel mostrador. Mientras ajusto mi puntería..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Algo roza ligeramente mi hombro.",
+      "choice_data_list": [
+        "(...¿Fue su cabello?)"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...Mis disculpas. Estaba demasiado cerca."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Espero que me perdones. Sentí que tenía que\ncompartir tu punto de vista para poder ofrecer\nconsejos satisfactorios."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...Nada mal. Tu puntería está casi en el blanco.\nIntenta apuntar un poco más hacia abajo a la\nderecha—sí, así. Adelante, inténtalo de nuevo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Symboli Rudolf susurra palabras de ánimo en mi\noído, y ajusto el cañón de acuerdo con sus\nconsejos.",
+      "choice_data_list": [
+        "(Apunto, y...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Pum!</i>"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¡Felicitaciones, Entrenador! ¡El premio es tuyo!",
+      "choice_data_list": [
+        "¡Todo gracias a tu instrucción!",
+        "¡Todo gracias a tu instrucción!"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Jeje, bueno, ¡eso es bastante elogio! Solo he sido\ntu instructora durante una sola noche, pero qué\nnoche tan gratificante ha sido."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo la sensación de que la expresión de Symboli\nRudolf parece más cálida de lo habitual."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "\"Pintoresco\", dices. Je. Bueno, si voy a cumplir\ntus expectativas, necesitaré reunir toda mi\nhabilidad."
+    },
+    {
+      "name": "Dueño del Puesto de Algodón de Azúcar",
+      "text": "¡Oh, Presidenta! ¡Qué gusto verte de nuevo! ¿Te\ngustaría volver a usar la máquina de algodón de\nazúcar?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Me temo que no, pero mi entrenador sí. Vamos,\nahora sostén el palillo..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Hmm... Deberías sostenerlo un poco más alto.\nRecoge el azúcar girando el palillo... Bien, ahora\nmuévelo hacia el fondo.",
+      "choice_data_list": [
+        "(Esto es sorprendentemente difícil...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Intento usar el palillo para darle al algodón de\nazúcar la misma forma que el esfuerzo anterior de\nSymboli Rudolf, pero sin éxito."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...Hmmm."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Disculpa. Déjame darte una demostración.",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Symboli Rudolf coloca sus manos sobre las mías."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Sí, este ángulo debería funcionar. Exactamente.\nAhora gíralo así."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Luego, inclina el palillo hacia arriba... Muy\nbien. Eso debería bastar."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...¡Y voilà!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Retirando el palillo de la máquina de algodón de\nazúcar, apenas puedo creer que el algodón de\nazúcar perfecto ante mis ojos sea obra mía.",
+      "choice_data_list": [
+        "...Guau."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Inténtalo de nuevo mientras la sensación aún esté\nfresca. ¿Quizás podrías hacer uno para mí esta\nvez?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, hago todo lo posible por hacer una bola\ngrande y bonita de algodón de azúcar solo para\nSymboli Rudolf."
+    }
+  ]
+}

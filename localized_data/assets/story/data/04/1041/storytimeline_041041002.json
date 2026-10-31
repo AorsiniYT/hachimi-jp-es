@@ -1,0 +1,246 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Las pruebas—un escenario donde los corredores que\naspiran a debutar pueden mostrar sus habilidades a\nlos entrenadores."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ohoho! ¡Una cara conocida! ¡Qué gusto verte de\nnuevo!",
+      "choice_data_list": [
+        "¿Lista para tu gran carrera?",
+        "¿Lista para tu gran carrera?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Lista? ¡Nací lista! ¡Nadie está más ansioso por\nempezar que yo, la representante de clase!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ahora bien, mi carrera es la siguiente, así que\ndebo irme! ¡INTENTA seguir mi asombrosa velocidad!\nPero ten cuidado... ¡podrías quedar cegado por mi\nEXCELENCIA!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Bakushin! ¡Bakushiiin!"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "Esa era Sakura Bakushin O, ¿verdad? ¿Acaba de\ndecir que está en la siguiente carrera? Mis datos\ndicen que se especializa en sprints..."
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "Pero lo siguiente es la carrera de larga\ndistancia... ¿Qué planea?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con el ceño fruncido, los otros entrenadores\ncuriosos y yo observamos mientras comienza la\ncarrera de Sakura Bakushin O..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Aquí voy! Bakushin, Bakushiiin!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Sakura Bakushin O sale disparada de los cajones y\ntoma la delantera! ¡Se está alejando del resto de\nlas corredoras!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Hay más de dónde vino eso! Bakushin, Bakushin,\nBakushiiiiin!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Mírenla ir! Con esa velocidad, ¡podría ser la\nUmamusume más rápida en la pista hoy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Raaaaah!",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡La carrera acaba de comenzar y la multitud está\nenloqueciendo! Una reacción inusual, por decir lo\nmenos, pero después de ver a Sakura Bakushin O, lo\nentiendo completamente."
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "¿¡Q-qué está pensando?! ¡No puede usar tanta\npotencia justo al salir de los cajones! Pero...\npor otro lado..."
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "¡Qué velocidad tan asombrosa! ¡Nunca había visto a\nalguien comenzar una carrera así!"
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "Si puede mantenerlo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por un breve momento, incluso los entrenadores\nveteranos tienen los ojos pegados a la pista, la\nperspectiva de una nueva superestrella de carreras\nllenándolos de emoción."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Las corredoras están tomando la cuarta curva!\n¡Sus acciones de aquí en adelante decidirán el\nresultado de la carrera!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Bakushin... Bakushiiin..."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡S-Sakura Bakushin O está perdiendo velocidad!\n¿¡Se le habrá secado su energía inicial?!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "No puedo... seguir... adelante... Debo...\nreducir... la velocidad."
+    },
+    {
+      "name": "Trainers",
+      "text": "Ah..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A medida que Sakura Bakushin O pierde velocidad,\nlas otras Umamusume aumentan su ritmo,\neventualmente dejándola en el duodécimo lugar..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿¡Duodécimo lugar?! ¡DUODÉCIMO! Qué desgracia...",
+      "choice_data_list": [
+        "Tú también empezaste fuerte... Qué mala suerte.",
+        "Tú también empezaste fuerte... Qué mala suerte."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "No... La suerte no tuvo nada que ver. Las otras\nrealmente dieron todo de sí, ¡y se notó!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Nada grita madurez como reconocer la fuerza de\ntus oponentes! ¡Como se esperaba de la digna\nrepresentante de clase!",
+      "choice_data_list": [
+        "Eh... Decir eso arruina un poco la cosa...",
+        "Eh... Decir eso arruina un poco la cosa..."
+      ]
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "Ah, ahí está. ¡Sakura Bakushin O! Me gustaría\nhablar contigo."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿¡Esas palabras serían por casualidad \"estoy aquí\npara reclutarte\"?! ¡Me preguntaba cuándo\naparecerías!"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "B-bueno, eso ciertamente me ahorra tiempo. Puede\nque no hayas ganado hoy, pero tu velocidad me\nimpresionó mucho. Me encantaría tenerte bajo mi\nala."
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "¡Sé que tienes lo que se necesita para dominar\ncada carrera de corta distancia! ¡Juntos, te\nharemos la mejor sprinter del mundo!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Eso es! Seré la mejor—"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Eh? ¿Sprinter?"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "Así es... ¿Hay algún problema? Juzgando por esa\ncarrera, claramente eres apta para distancias más\ncortas..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Ya veo, ya veo... Distancias más cortas, sí..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Disculpa, pero debo declinar. ¡Gracias por tu\ninterés en la posición de entrenador! Ahora...\n¡vuelve de donde viniste!"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "¿¡Eh!? P-pero..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Desconcertado por su enérgico rechazo, el\nentrenador se queda allí por un momento, antes de\nfinalmente alejarse."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "<i>Suspiro...</i> Qué decepción, pero ¡bueno! Cuando una\npuerta se cierra, ¡otra seguro se abre!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Bueno... ¿Y tú? Has visto lo que puedo hacer, así\nque seguramente <i>tú</i> tienes algo que decir."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "O... ¿También vas a intentar reclutarme como\nsprinter?",
+      "choice_data_list": [
+        "Eh..."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Si tienes que pensarlo, entonces ambos sabemos la\nrespuesta! Por mucho que odie hacer esto, ¡mi\nrespuesta es no!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Lo siento, pero me niego a limitarme solo a\nsprints. ¡DE NINGUNA MANERA!",
+      "choice_data_list": [
+        "¿Por qué estás tan obsesionada con esto?",
+        "¿Por qué estás tan obsesionada con esto?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Porque soy la representante de clase!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ahora tengo una pregunta para TI! ¿Puedes nombrar\ntodas las carreras G1 que NO sean sprints? ¡Vamos!",
+      "choice_data_list": [
+        "Eh, el Derby Japonés, Tenno Sho, Arima Kinen—"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡ALTO! ¿Empezando a entender?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Hay montones y MONTONES de carreras por ahí! ¡Y\nquiero ganarlas todas, no solo las de corta\ndistancia!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Recuerdas lo que dije el otro día? ¡Yo existo\npara ser la representante de clase, y el rol de\nrepresentante de clase existe para mí!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Quiero ser un modelo al que TODOS los estudiantes\nadmiren!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Y qué tipo de corredora piensas cuando escuchas\neso?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Una sprinter? ¿Una miler? ¿Una stayer? No, no\npiensas en solo una. ¡Piensas en una corredora que\npueda hacerlo todo!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Y ESA es la clase de corredora que la\nrepresentante de clase debería ser!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Así que si me disculpas, ¡tengo lugares que ir,\ngente que ver! ¡Bakushin! ¡Bakushiiin!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Antes de que pueda reunir una respuesta, Sakura\nBakushin O ya se ha ido hace rato..."
+    }
+  ]
+}

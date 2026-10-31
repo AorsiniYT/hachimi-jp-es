@@ -1,0 +1,242 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Taishin",
+      "text": "(¡Mis pulmones están ardiendo!)"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Y doblando la última curva desde el exterior está\nNarita Taishin! ¡Parece que le cuesta conseguir\nuna buena posición!",
+      "color_text_info_list": [
+        "Narita Taishin"
+      ]
+    },
+    {
+      "name": "Comentarista",
+      "text": "Probablemente no tenga más remedio que correr por\nel exterior. Con su estatura, será imposible\nescapar del pelotón si queda atrapada en el\ninterior."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Los corredores están dando todo en la recta\nfinal! El número siete, Walkie Talkie, y el número\nonce, Poisonous, están luchando por el liderato!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Y ahí está Narita Taishin! ¡Ahí viene! Está\nintentando desesperadamente acercarse al liderato,\npero ¿será suficiente?!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Cruzando la línea de meta, es el número once!\n¡Poisonous se lleva el primer lugar! ¡Guau,\nescucha esos vítores resonando en el hipódromo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Fan A",
+      "text": "Ay, ¿Narita Taishin quedó quinta? Simplemente no\npuede tener un respiro."
+    },
+    {
+      "name": "Fan B",
+      "text": "¿La puedes culpar? Hasta el comentarista dijo que\nestá en desventaja."
+    },
+    {
+      "name": "Fan B",
+      "text": "O sea, solo mira qué pequeña es."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡...!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(No otro de esos sueños.)"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ugh. Esto es lo peor..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "<i>Bostezooo...</i> ¿Taishin? ¿Qué pasa?",
+      "color_text_info_list": [
+        "Taishin"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Guau, Creek!",
+      "color_text_info_list": [
+        "Creek"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Eh, no es nada."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Tienes problemas para dormir? ¿Quieres tomar un\npoco de leche caliente conmigo?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡E-estoy bien! Voy a salir un momento."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Perdón por despertarte. Luego."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Vaya!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Suspiro...</i>"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(Me siento mejor ahora, pero aún estoy un poco\ninquieto. Sigo teniendo esas pesadillas horribles\núltimamente.)"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(Y mi carrera debut está por venir pronto...)"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Quizás es <i>porque</i> mi debut está casi aquí."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(Maldición. ¡Ahora realmente no es el momento para\ndudar de mí misma!)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Hoy es el día en que comienza mi viaje para\nenfrentar la Serie Twinkle con Narita Taishin!",
+      "color_text_info_list": [
+        "Serie Twinkle"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Voy a dar lo mejor por ella y sacar el máximo\npotencial de su sprint final!",
+      "choice_data_list": [
+        "(¡Hora de arremangarme!)"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Oye, es hora de empezar a entrenar. ¿Qué haces\nparado ahí como un tonto?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ugh, ¿qué es esa mirada cursi y de ojos\nestrellados?",
+      "choice_data_list": [
+        "¡Taishin! ¡Vamos a darlo todo a partir de hoy!",
+        "¡Taishin! ¡Vamos a darlo todo a partir de hoy!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Hombre, eres molesto..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Sí, lo que sea. Vamos a empezar ya."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin es tan genial como siempre hoy...\n¡Sin embargo!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Raaah!",
+      "choice_data_list": [
+        "(¡Increíble! Ese sprint final tuyo es realmente\nalgo más!)",
+        "(¡Increíble! Ese sprint final tuyo es realmente\nalgo más!)"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Haa, resuello...</i> Uf."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Cómo fue mi tiempo?",
+      "choice_data_list": [
+        "¡Fantástico!",
+        "¡Fantástico!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Sí? Entonces...",
+      "choice_data_list": [
+        "¡Los dejaremos boquiabiertos a <i>todos</i> en tu debut!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡...!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Fácil para ti decirlo. Eres demasiado tranquilo\ncon esto."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿De verdad entiendes cómo es la Serie Twinkle?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Tracen está lleno de corredores de nivel divino, y\naún así, solo unos pocos seleccionados de aquí\ncalifican para competir en ella.",
+      "color_text_info_list": [
+        "Tracen"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ese es el tipo de carrera a la que nos\nenfrentamos.",
+      "choice_data_list": [
+        "¡Y tu carrera será tan buena como la de ellos!",
+        "¡Y tu carrera será tan buena como la de ellos!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Suspiro.</i> Cabeza de pájaro aireada."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Primero que nada, solo \"dejar boquiabiertos\" a\ntodos no va a funcionar."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Tengo que usar mis habilidades para aplastar a\ncualquiera que hable basura sobre el tamaño."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Eso hará que cada uno de ellos lo piense dos veces\nsobre mí.",
+      "choice_data_list": [
+        "¡Correcto!",
+        "¡Correcto!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, la fiera declaración de Narita Taishin\nmarca el comienzo de sus nuevos desafíos."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ugh, ¿puedes hacer algo con esa vibra tuya? Es\nexcesivo, y realmente te estás metiendo en mis\nnervios."
+    }
+  ]
+}

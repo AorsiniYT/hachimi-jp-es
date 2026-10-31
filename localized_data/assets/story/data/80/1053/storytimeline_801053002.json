@@ -1,0 +1,125 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mientras paso por las puertas de la escuela..."
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "..."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Es la cabeza del comité disciplinario, Bamboo\nMemory. Me pregunto si está haciendo rondas?"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Casi se ve... siniestra. Apuesto a que es una\nverdadera obsesionada cuando se trata de\nviolaciones de las reglas de la escuela y esas\ncosas..."
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "¿Hm? Oh, saludos. ¿Eres uno de los entrenadores de\nla escuela, verdad?",
+      "choice_data_list": [
+        "Oye. ¿Estás aquí haciendo rondas?"
+      ]
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "¡No. Recientemente, ha habido reportes de una\nmujer sospechosa con bata y máscara corriendo por\nel campus, así que estoy alerta.",
+      "choice_data_list": [
+        "Gracias por tu servicio.",
+        "Gracias por tu servicio."
+      ]
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "¡No hay problema. Solo haciendo mi deber como\nmiembro del comité disciplinario."
+    },
+    {
+      "name": "Miembro del Comité Disciplinario",
+      "text": "¡Noticias urgentes, Bamboo!"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "¿Qué es?"
+    },
+    {
+      "name": "Miembro del Comité Disciplinario",
+      "text": "Gold Ship comenzó a practicar un movimiento de\nlucha de columpio gigante en la plaza central de\nrepente..."
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "¡Esa Golshi. Siempre está causando alboroto."
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Ugh, será un problema si se marea, se cae y se\nlastima..."
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "¡La detendré de inmediato.",
+      "choice_data_list": [
+        "Tienes mucho trabajo por delante, ¿eh?",
+        "Tienes mucho trabajo por delante, ¿eh?",
+        "¡Más te vale darte prisa a la escena del crimen!"
+      ]
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "¡La detendré de inmediato!",
+      "choice_data_list": [
+        "¿Te espera un trabajo complicado, eh?",
+        "¿Te espera un trabajo complicado, eh?",
+        "¡Más te vale darte prisa a la escena del crimen!"
+      ]
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "¡No te preocupes! Esto no es nada, ¡en serio!"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "La verdad, es algo bueno cuando la gente empieza a\ncausar problemas porque significa que están de\nbuen ánimo!"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Solo necesito estar atenta y asegurarme de que no\nhagan nada fuera de lo normal. Tranquilo, yo me\nencargo."
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Bueno, algunos problemas aún me toman por\nsorpresa, pero también le añaden un poco de\nemoción a mi vida. ¡Jeje!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bamboo Memory tiene una gran sonrisa en su rostro\nmientras se aleja corriendo."
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "¡Entendido! Si voy directo hacia la plaza,\n¡llegaré en un instante!"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Si no es mucho problema, ¿podrías vigilar esta\nárea por mí?",
+      "choice_data_list": [
+        "¡Pan comido!"
+      ]
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "¡Vaya, gracias! ¡Te debo una grande!"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Muy bien, es hora de ganarme el pan como la líder\nseria del comité de disciplina y poner las cosas\nbajo control!"
+    },
+    {
+      "name": "Miembro del Comité Disciplinario",
+      "text": "¡Bamboo! ¡Espérame!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bamboo Memory sale corriendo, dejando al otro\nmiembro del comité persiguiéndola frenéticamente."
+    }
+  ]
+}

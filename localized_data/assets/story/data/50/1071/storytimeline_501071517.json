@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Entro en mi oficina para encontrar a una Mejiro\nArdan sin energía mirando por la ventana."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Oh... Saludos, Entrenador.",
+      "choice_data_list": [
+        "Pareces un poco deprimida.",
+        "Pareces un poco deprimida."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Me disculpo sinceramente. Es una cosa menor... En\nserio, una cosa menor..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Pero el otro día, fui en línea y pedí los\nvolúmenes uno y dos de un libro que he estado\nqueriendo leer."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Pero cuando llegaron, descubrí que el volumen uno\ntenía la portada original, mientras que el volumen\ndos tenía el rediseño modernizado. Se ven tan\nincompatibles en mi estante...",
+      "choice_data_list": [
+        "...Eso también me molestaría.",
+        "...Eso también me molestaría."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "En efecto... Sabía que debería haber tomado el\ntiempo para visitar realmente una librería y\ncomprarlos en persona."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su expresión no más brillante que antes, Mejiro\nArdan suelta un largo suspiro..."
+    }
+  ]
+}

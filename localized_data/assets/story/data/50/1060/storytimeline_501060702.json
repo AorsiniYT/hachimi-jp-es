@@ -1,0 +1,182 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "De vuelta después de salir con Nice Nature..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Espera, alguien me está llamando."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...¿Mamá?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Perdón, Entrenador, tengo que contestar!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Hola, mamá. Nunca me llamas así. ¿Qué pasa?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Sí, sí... Estoy bien... Creo."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "De verdad, estoy bien. No te preocupes por mí,\n¡mamá!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡¿Qué?! ¡¿Vienes aquí?! ¡¿Cuándo?!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Aghhh, siempre decides visitar tan de repente.\nEstá bien... Llámame después."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "<i>Suspiro...</i> Perdón por hacerte esperar.",
+      "choice_data_list": [
+        "¿Así que tu mamá viene de visita?",
+        "¿Así que tu mamá viene de visita?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Sí. Aún falta un poco, eso sí. Al parecer, su\namiga la invitó a un viaje."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Planean quedarse por esta zona por un tiempo, así\nque iré a verlas cuando lleguen.",
+      "choice_data_list": [
+        "¿Vas a invitarla a verte correr?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Eh, eh, despacio, ¿quieres?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Q-quiero decir, no es que no quiera que lo haga,\npero..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Es un poco vergonzoso que mi mamá me vea correr.\nMe siento como si estuviera en primaria...",
+      "choice_data_list": [
+        "¡Seguro que le encantaría verte correr!",
+        "¡Creo que sería genial!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿C-crees eso?",
+      "choice_data_list": [
+        "¡Si fuera tu padre/madre, estaría en la luna!",
+        "¡Si fuera tu padre/madre, estaría en la luna!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Seguramente su madre tiene algún motivo oculto\npara venir aquí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le digo a Nice Nature que, si fuera su madre, mi\nmayor motivación para hacer este viaje sería ver\nel progreso de mi hija."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ahaha, ahora estás sonando como un verdadero\npadre/madre.",
+      "choice_data_list": [
+        "Después de todo, soy tu entrenador.",
+        "Después de todo, soy tu entrenador."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Es verdad, sus trabajos son bastante similares.\nPero... ¿estás seguro?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Quiero decir, sobre lo que dijiste antes. Sabes...\nQue a mi mamá le encantaría verme correr.",
+      "choice_data_list": [
+        "¿No es tu fan número uno?",
+        "¿No es tu fan número uno?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Tienes razón. Incluso cuando no me va bien,\nella me sigue animando..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Está bien, ¡ganas! ...Invitaré a mi mamá."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le digo que, como su entrenador, quiero que su\nmamá sepa lo increíble que es como estudiante."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Estudiante? ¿Eres mi profesor o algo?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Quiero decir, eres mi entrenador, así que supongo\nque técnicamente eres mi profesor..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Pero, ¿crees que podré mostrarle algo especial?",
+      "choice_data_list": [
+        "¡Has estado cumpliendo todos tus objetivos de\nentrenamiento, así que diría que sí!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nice Nature parece aliviada al escuchar mi opinión\npositiva sobre ella."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Bueno, si estás tan segura, debes tener algún as\nbajo la manga, ¿verdad?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Bueno, espero que estés listo para la presentación\nentonces, <i>Profesor.</i>"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...¿Hola, mamá? Sobre tu visita..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Si no tienes planes... ¿quieres venir a visitar la\nAcademia Tracen?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡No, no tienes que venir si estás ocupada! No sé\ncuánta diversión habrá solo viéndome correr."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Hm? ¿En serio? Está bien... Se lo diré a mi\nentrenador.",
+      "choice_data_list": [
+        "¿Qué dijo tu mamá?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Dijo que viene. Y que está emocionada."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "<i>Suspiro...</i> Genial. No puedo hacer el ridículo\nfrente a ella, así que supongo que vuelvo al\nentrenamiento..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella finge sonar cansada, pero puedo escuchar la\nexcitación en su voz."
+    }
+  ]
+}

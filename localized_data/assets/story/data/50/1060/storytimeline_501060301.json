@@ -1,0 +1,59 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Justo antes de que termine el campamento de\nverano, estoy buscando a Nice Nature, cuando..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...",
+      "choice_data_list": [
+        "Nature!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Oh, Entrenador...",
+      "choice_data_list": [
+        "¿Estabas mirando el mar?",
+        "¿Estabas mirando el mar?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Sí. No podré ver esto por un tiempo..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Y quería reflexionar sobre algunas cosas."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Soy... más fuerte de lo que era antes del\ncampamento de verano, ¿verdad?",
+      "choice_data_list": [
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Uf..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿No te pone emocional solo estar junto al mar? Hay\nuna razón por la que es un lugar de primera para\ncitas."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Bueno, creo que volveré. Ya tengo la mente\ncompletamente preparada ahora."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Listo para el Tenno Sho de otoño."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y con eso, el campamento de verano de Nice Nature\nllega a su fin."
+    }
+  ]
+}

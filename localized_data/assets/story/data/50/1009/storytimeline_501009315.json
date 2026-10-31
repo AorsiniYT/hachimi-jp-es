@@ -1,0 +1,55 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Multitud",
+      "text": "<i>¡UUUU!</i>"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Haa... Haa...</i>",
+      "choice_data_list": [
+        "Gran trabajo allí afuera."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Por favor. No necesito tu lástima."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Sabes tan bien como yo que fallé completamente\nhoy."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Se suponía que debía traer el primer lugar a\ncasa!",
+      "choice_data_list": [
+        "Scarlet..."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "No quería que fuera verdad, ¡pero es exactamente\ncomo ella dijo!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Mi \"número uno\" no significa nada! ¡Solo sirvo\npara palabras vacías!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Entrenador... ¿Qué puedo hacer?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de las Oaks, Daiwa Scarlet desahoga sus\nsentimientos honestos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella necesita reflexionar sobre su carrera y\naveriguar qué le falta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Podría ser hora de que finalmente enfrente a su\nrival."
+    }
+  ]
+}

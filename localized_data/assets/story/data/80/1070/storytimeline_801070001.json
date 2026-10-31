@@ -1,0 +1,139 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día libre, decido almorzar fuera del campus\npara cambiar de ritmo, y me encuentro incapaz de\ndescifrar un menú escrito en un idioma extranjero.",
+      "choice_data_list": [
+        "(No puedo entender ni jota de esto...)"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Ja, parece que no sabes ni pizca de francés."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me giro hacia la voz que viene de la mesa de al\nlado."
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "No puedes leer el menú, ¿verdad? ¿Necesitas ayuda?",
+      "choice_data_list": [
+        "¿Te importaría?",
+        "¿Te importaría?"
+      ]
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Claro. Solo te diré lo que dice, aunque. Todavía\ndepende de ti averiguar qué es bueno."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus palabras son extrañamente cargadas. ¿Debo\ntragar mi orgullo y pedir ayuda?",
+      "choice_data_list": [
+        "Intentaré hacerlo yo mismo.",
+        "Necesito tu ayuda."
+      ]
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Como quieras. Espero que te funcione."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Luego, después de que logro ordenar..."
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "¿Qué es esto? ¿Solo verduras? Qué suerte tienes\nahí.",
+      "choice_data_list": [
+        "Bueno, esto es genial...",
+        "Bueno, esto es genial..."
+      ]
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Vamos, ánimo. Las comidas se supone que sean\nocasiones felices."
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Supongo que mejor te echaré una mano. Aquí, pasa\ntu plato."
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Todo listo. No estuvo mal, pero..."
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Una comida de solo verduras realmente deja algo\nque desear. No es saciante. ¿Sabes a lo que me\nrefiero, verdad?",
+      "choice_data_list": [
+        "Eh..."
+      ]
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Tómame a mí, por ejemplo. Todavía estoy\nhambriento, y aquí frente a mí, hay un... suave...\njugoso..."
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "...",
+      "choice_data_list": [
+        "¿Qué?!"
+      ]
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Pfft, jaja, jajaja! Relájate, no voy a devorarte\nni nada."
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "...No esta vez, al menos."
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Bien por ser honesto. Ahora, empecemos con algunos\naperitivos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sirius Symboli explica los elementos del menú y\nhace el pedido por mí. Poco después..."
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Un aperitivo, una sopa y un plato principal para\nrematar. Nada mal, ¿eh?",
+      "choice_data_list": [
+        "¡Gracias por explicarlo todo!"
+      ]
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "¿Me estás agradeciendo?"
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Vamos, ahora. Es un poco pronto para eso, ¿no\ncrees?",
+      "choice_data_list": [
+        "¿Qué?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me pregunto qué quiere ella hasta que la comida es\nentregada... y ella mueve todo a su propia mesa."
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Odio decírtelo, pero solo te estaba dando un\nejemplo. En otras palabras, estaba ordenando para\nmí.",
+      "choice_data_list": [
+        "Oh..."
+      ]
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Jaja, ¡no me mires así! Solo harás que quiera\nmolestarte más."
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Ahora intenta ordenar por tu cuenta. Muéstrame si\nhas aprendido algo o no."
+    }
+  ]
+}

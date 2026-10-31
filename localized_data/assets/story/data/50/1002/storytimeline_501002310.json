@@ -1,0 +1,241 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Y Silence Suzuka domina la pista! ¡Increíble!\n¡Silence Suzuka sale victoriosa en esta carrera\nentre talentos de diferentes generaciones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Uoooooh!</i>"
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Qué carrera! ¡Silence Suzuka pasó volando a\ntodos!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Es incluso más rápida de lo que fue en el\nTakarazuka Kinen, ¿verdad?!"
+    },
+    {
+      "name": "Espectador C",
+      "text": "¡Grass Wonder y El Condor Pasa también fueron\nincreíbles, pero Suzuka era otra cosa!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Aaaaagh! ¡Rayos! ¡No lo puedo creer!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Corrí a toda velocidad! ¿Acaso soy lenta o algo?!\n¿Por qué no pude alcanzarla?!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Argh, ¡la próxima vez te atrapo, Suzuka!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Así que más te vale no perder tu filo! ¡Tengo que\nser yo quien venza a la Corredora de Otro Mundo!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Suzuka... ¡Nos enfrentaremos en la pista de nuevo\nalgún día!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Arrrgh! ¡No puedo sacar la palabra \"lenta\" de mi\ncabeza! ¡Maldición!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No seas así, El..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que la emoción de la intensa competencia de\nhoy tardará un rato en calmarse."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Entrenador!",
+      "choice_data_list": [
+        "Buen trabajo allí, Suzuka."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...",
+      "choice_data_list": [
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Me sorprendí a mí misma allí."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "La forma en que corrí, era como si no fuera yo.\nSentí como si pudiera volar.",
+      "choice_data_list": [
+        "¿Oh?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Eh..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Realmente está bien que continúe corriendo así?",
+      "choice_data_list": [
+        "Por supuesto que sí."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...",
+      "choice_data_list": [
+        "Lo disfrutaste, ¿verdad?",
+        "Lo disfrutaste, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Sí.",
+      "choice_data_list": [
+        "Entonces no hay problema.",
+        "Entonces no hay problema."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Supongo que tienes razón. Está bien, ¿verdad?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Hehe, lo siento. Debo sonar extraña."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Oh, eso me recuerda! ¿Dónde está Spe?"
+    },
+    {
+      "name": "Special Week",
+      "text": "...!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡E-ey! Perdón por irme sin decir nada..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Está bien. Más importante... ¿Estás bien? Escuché\nque te sentías mal."
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Eh? ¡Oh! Um..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Pasó algo?"
+    },
+    {
+      "name": "Special Week",
+      "text": "Urk... Bueno..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Sabes, viendo a tanto a El como a Grass dándolo\ntodo para vencerte..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Me dio mucha envidia."
+    },
+    {
+      "name": "Special Week",
+      "text": "Quería estar allí tanto, que me hormigueaba por\ntodas partes."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Spe..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Nunca me había sentido así viéndote correr antes!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que ha sido infectada por el deseo de El\nCondor Pasa y Grass Wonder de vencer a Silence\nSuzuka."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ya no está satisfecha con solo alcanzar a Silence\nSuzuka. El fuego para superarla ha sido encendido."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Eso significa..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Soy como una luz guía para ti?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Una... luz guía?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El rostro de Special Week se ilumina lentamente."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Sí! ¡Eso suena aproximadamente correcto!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Ahaha! ¡Sí, eso es exactamente lo que es! ¡Qué\nalivio!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Qué quieres decir?"
+    },
+    {
+      "name": "Special Week",
+      "text": "Bueno, me preocupaba que estos sentimientos fueran\nmalos."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Para nada, Spe. Me alegra que te sientas así por\nmí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La sonrisa de Silence Suzuka resulta contagiosa,\nya que Special Week se contagia con una propia."
+    },
+    {
+      "name": "Special Week",
+      "text": "Ehehe!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Voy a hacer lo posible por mantenerte en el\nsegundo lugar, de todos modos."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Whoa, whoa! No sé si estoy lista para desafiarte\naún!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Mainichi Okan realmente ha encendido la pasión\nde muchas Umamusume hoy."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con Silence Suzuka reinando victoriosa, ella se\nvuelve hacia su próximo objetivo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El tan esperado Tenno Sho de otoño."
+    }
+  ]
+}

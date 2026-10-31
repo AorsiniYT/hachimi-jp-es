@@ -1,0 +1,190 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Chriiid!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El día que partimos hacia Europa finalmente ha\nllegado. Si queremos entrar en una carrera\ninternacional G1, es mejor correr primero en una\ncarrera más ligera."
+    },
+    {
+      "name": "Vodka",
+      "text": "Heheh. No volveremos hasta el otoño, Entrenador."
+    },
+    {
+      "name": "Vodka",
+      "text": "Asegurémonos de traer un gran trofeo de vuelta con\nnosotros como recuerdo."
+    },
+    {
+      "name": "Vodka",
+      "text": "Bueno, ¡salgamos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Pum!</i>",
+      "choice_data_list": [
+        "Creo que acabo de escuchar un sonido extraño."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Ahora la he liado...",
+      "choice_data_list": [
+        "¿El qué?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "La he liado. Hice una curva realmente genial en\nesa esquina, y terminé torciéndome el tobillo.",
+      "choice_data_list": [
+        "¿¡Qué?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Wiu wiu wiu...</i>"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡¿Cómo puedes ser tan tonto?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La voz de Daiwa Scarlet parece perforar las\nparedes de la enfermería."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Hiciste un gran escándalo por ir al extranjero!\n¡Incluso me involucraste y causaste un gran\nalboroto!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Y luego te torces el tobillo, ni siquiera durante\nel entrenamiento, sino <i>¡en el aeropuerto?!</i>"
+    },
+    {
+      "name": "Vodka",
+      "text": "...Sí, ya entiendo. Soy patético. Lo siento."
+    },
+    {
+      "name": "Vodka",
+      "text": "Cosas así pasan a veces. No puedes tener sol todos\nlos días."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡No estoy hablando del sol! ¿Qué vas a hacer\nahora?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Eso... depende del Entrenador.",
+      "choice_data_list": [
+        "Vamos a tener que posponer el viaje por ahora.",
+        "Vamos a tener que posponer el viaje por ahora."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Bueno, supongo que no hay más remedio."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No tenemos más remedio que descansar unos días y\nluego empezar a reorganizarnos para el otoño."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Pero... esto podría ser algo bueno para mí."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Si te hubieras ido al extranjero y nunca hubieras\nvuelto, podríamos nunca haber resuelto nuestro\nasunto pendiente."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Qué quieres decir?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Cuando dijiste que ibas al Derby, sentí que eras\nsolo algún tipo de punk sin rumbo e impulsivo."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Pensé que cerraría el libro de nuestra rivalidad\njusto allí. Pero entonces..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Te vi en el Derby y sentí que perdía. Estabas en\nun nivel completamente diferente."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Me di cuenta entonces de que no había forma de que\npudieras hacer lo que hiciste a menos que fueras\nverdaderamente fuerte por dentro. Me quedé\nabsolutamente sin palabras..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿En serio? Juraría que dijiste que ni siquiera\nibas a ver el Derby."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Lo sé! ¡Pero lo vi de todos modos! S-solo porque\nestaba aburrida y resultó que estaba en la TV!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "De todos modos, como no estabas en el Japanese\nOaks, juré que encontraría otra carrera para\nzanjar nuestra cuenta..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Así que date prisa y mejórate, ¿vale? Eres dura,\nasí que estoy segura de que te recuperarás en un\nsantiamén."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Mientras te recuperas de tu contratiempo, yo voy\na ponerme más fuerte! Seré tan fuerte que\ndefinitivamente querrás correr contra mí!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Solo espera hasta el otoño. No te voy a soltar la\ncuerda. O más bien, <i>tú</i> serás rogando por correr\ncontra <i>¡mí!</i>"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Y seré yo la que se aleje victoriosa. Más te vale\nestar listo."
+    },
+    {
+      "name": "Vodka",
+      "text": "Scarlet..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Muy bien. No tengo idea de lo que va a pasar, pero\nhablamos de mí."
+    },
+    {
+      "name": "Vodka",
+      "text": "Cuando llegue el momento, estaré allí para correr."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hmph. Te lo voy a recordar."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hasta luego. Vas a dormir aquí esta noche,\n¿verdad? Ve y descansa. Yo llevaré tus maletas de\nvuelta a nuestra habitación."
+    },
+    {
+      "name": "Vodka",
+      "text": "Hombre, ella es de carácter fuerte. Pero... creo\nque podría haberle causado algunos problemas."
+    },
+    {
+      "name": "Vodka",
+      "text": "Y a ti también, Entrenador. Después de todo lo que\nhiciste para prepararnos para irnos.",
+      "choice_data_list": [
+        "No te preocupes. Nunca hay un momento aburrido\ncontigo.",
+        "No te preocupes. Nunca hay un momento aburrido\ncontigo."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Jaja. Seguro que estás loco, compañero.\nCompletamente diferente de <i>ella.</i>"
+    },
+    {
+      "name": "Vodka",
+      "text": "Bueno, supongo que dormiré en mi propia torpeza\nesta noche. Estoy segura de que el sol volverá a\nsalir algún día..."
+    }
+  ]
+}

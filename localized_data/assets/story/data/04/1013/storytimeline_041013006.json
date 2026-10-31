@@ -1,0 +1,239 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Paseando por la calle un fin de semana, me\nencontré con Mejiro McQueen, que parecía estar de\nmuy buen humor."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Hm hm hmm! ♪ No pares! ¡Vamos por la victoria!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Jeje, he estado esperando todo la semana por esto."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Mejor entro al lugar de karaoke antes de que\nalguien me vea—",
+      "choice_data_list": [
+        "¿Vas a cantar karaoke?",
+        "¿Vas a cantar karaoke?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Ay! ¡T-Entrenador!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Uf... E-eso es cierto."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Es decir... Estaba pensando en ir a practicar mis\ncanciones de concierto de victoria.",
+      "choice_data_list": [
+        "¿En ese caso, quieres ir juntos?",
+        "¿En ese caso, quieres ir juntos?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Eh? ¿Quieres venir conmigo?",
+      "choice_data_list": [
+        "Dijiste que era para los conciertos de victoria,\n¿verdad? Te ayudaré.",
+        "Dijiste que era para los conciertos de victoria,\n¿verdad? Te ayudaré."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "B-bueno... Gracias. Vamos, entonces..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Algo me parece raro en McQueen, pero la sigo al\nlugar de karaoke."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Uf. Pongamos pausa aquí por ahora."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Qué te pareció mi canto? ¿Identificaste algún\npunto para mejorar?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ha cantado una gran variedad de canciones, pero no\nparece disfrutarla mucho."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Dónde se fue esa buena actitud?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Hay algo mal?",
+      "choice_data_list": [
+        "¿Soy un estorbo por estar aquí?",
+        "¿Soy un estorbo por estar aquí?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Qué te hace decir eso?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No es el caso en absoluto. Pero ¿cómo puedo decir\nesto..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Sí, debería ser honesta aquí."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "La verdad es que no vine a karaoke hoy para\npracticar canciones de concierto de victoria. En\nrealidad..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Quería cantar algunas canciones de lucha.",
+      "choice_data_list": [
+        "¿Canciones de lucha?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Sí, como las que escuchas a los fanáticos cantar\nen los eventos deportivos para apoyar a su equipo.\nSe llaman canciones de lucha."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "A veces asisto a eventos deportivos... Una vez\ncada mucho tiempo, realmente."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Me gusta cantar canciones de lucha en karaoke en\nmis días libres también."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Esa es la verdadera razón por la que vine aquí\nhoy...",
+      "choice_data_list": [
+        "¿Por qué no cantamos algunas?",
+        "¿Por qué no cantamos algunas?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡N-no haré nada de eso! No puedo dejar que me veas\nactuar de manera tan juvenil.",
+      "choice_data_list": [
+        "¿Qué tal si te uno?",
+        "¿Qué tal si te uno?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Eh... ¿Tú quieres unirte?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Eh, espera un momento. Puedo prescindir de hacerlo\nhoy, ¿de acuerdo?",
+      "choice_data_list": [
+        "¡No, cantemos juntos!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Pero de nuevo, no quiero que veas cómo me pongo..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Espera, ¡ya has ingresado una canción?!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Uf, en ese caso..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>¡TRÁELOS A CASA, YU-TA-KA!</i>"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>¡TRÁELOS A CASA, YU-TA-KA!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cualquier sentido de vergüenza que McQueen hubiera\nsentido antes se desvanece con los cantos\napasionados."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gritamos como si estuviéramos en las gradas de un\nestadio de béisbol."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Jeje, bien, eso fue un poco vergonzoso. Aunque,\nadmito, también fue bastante divertido."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Si pudiera, iría a ver un partido en este\ninstante.",
+      "choice_data_list": [
+        "¿Cómo te gustó ver deportes?",
+        "¿Cómo te gustó ver deportes?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Si tuviera que decir... Supongo que amo la\natmósfera en el lugar."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Como miembro de la familia Mejiro, siempre he\nsentido que es importante mantener mi compostura\nen todo momento."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Así que cuando fui a mi primer estadio deportivo,\nme sorprendió mucho. Todo parecía tan animado."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "El hecho de que pueda haber un lugar donde nadie\nte juzgue por gritar y saltar..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Encontré la experiencia muy fresca y atractiva.",
+      "choice_data_list": [
+        "Así que al final encontraste una nueva forma de\ndivertirte!",
+        "Así que al final encontraste una nueva forma de\ndivertirte!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Sí, se podría decir que sí."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "En cualquier caso, ¿qué me dices si volvemos a\ncantar? Todavía estoy muy entusiasmada!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Oh, ahora que nos hemos ido, no puedo evitar\nsentirme avergonzada después de todo. Espero que\nlos demás clientes no hayan podido escucharme.",
+      "choice_data_list": [
+        "¡Pero te lo estabas pasando tan bien!",
+        "¡Pero te lo estabas pasando tan bien!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Bueno, sí, es cierto. Ha pasado mucho tiempo desde\nque pude soltarme de esa manera."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Aunque debes prometérmelo, Entrenador..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ni una palabra de esto se sabrá a los otros\nestudiantes o personal. Y si es posible, me\ngustaría que <i>tú</i> también lo olvidaras por\ncompleto..."
+    }
+  ]
+}

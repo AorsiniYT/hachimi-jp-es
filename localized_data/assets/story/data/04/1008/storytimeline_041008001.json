@@ -1,0 +1,266 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Faltan unos días para las pruebas de la academia,\nun evento donde los estudiantes pueden demostrar\nsus habilidades a los entrenadores."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me dirijo a la pista para ver cómo están las\ncorredoras hoy."
+    },
+    {
+      "name": "Vodka",
+      "text": "Bueno, me voy. Nos vemos luego, chicos."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Espera, Vodka! ¿A dónde crees que vas?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ugh, ¡qué ganas de hacerse la delincuente!"
+    },
+    {
+      "name": "Profesora A",
+      "text": "Estoy preocupado por ella... Sé que tiene talento,\npero las pruebas están llegando. ¿Estará bien?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Oh uh, no necesitas preocuparte por su desempeño.\nEstará bien."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Por qué no empezamos a practicar? Los otros\nestudiantes esperan tus indicaciones."
+    },
+    {
+      "name": "Profesora A",
+      "text": "Tienes razón. Bueno entonces, empecemos, ¿verdad?\nComenzaremos con un trote de 2000 metros."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de las próximas pruebas, Vodka parece\nestar boicoteando la práctica hoy.",
+      "choice_data_list": [
+        "No me parece que sea perezosa, sin embargo...",
+        "No me parece que sea perezosa, sin embargo..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Curioso, la sigo para averiguar por qué."
+    },
+    {
+      "name": "Vodka",
+      "text": "Hmph. \"¡Hasta que todos encuentren un entrenador,\nseguirán el régimen de entrenamiento de los\ninstructores!\""
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Como si tuviera tiempo para esa porquería\ngenérica!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Voy a hacer las cosas a mi manera!",
+      "choice_data_list": [
+        "¿Vas a entrenar por tu cuenta?",
+        "¿Vas a entrenar por tu cuenta?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Eh? Quiénes... Oh, eres uno de los entrenadores\nde la academia."
+    },
+    {
+      "name": "Vodka",
+      "text": "Sí, ¿tienes un problema? Soy un lobo solitario, y\neso significa que no me mezclo."
+    },
+    {
+      "name": "Vodka",
+      "text": "Además, los planes del profesor son demasiado\nrelajados para mí. Mi cuerpo se pondrá más débil a\nese ritmo."
+    },
+    {
+      "name": "Vodka",
+      "text": "De todos modos, hemos terminado, ¿verdad? Voy a\nhacer lo mío ahora."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vodka termina bruscamente la conversación y se va.\nMe quedo por un rato más, observando su\nentrenamiento."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Pheeeew! ¡Eso es de lo que estoy hablando!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Pero apenas estoy empezando!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque está sobrecargando en ciertos aspectos de\nsu entrenamiento y negligiendo otros, sigue fuerte\na su manera."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Eh, aún aquí? Maldito, debes no tener nada mejor\nque hacer.",
+      "choice_data_list": [
+        "Entonces no intentabas saltarte el entrenamiento.",
+        "Entonces no intentabas saltarte el entrenamiento."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Qué? ¿Yo? ¿Saltarme el entrenamiento? ¿Parezco\ntan patética?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Escucha, voy a ser la corredora más genial en la\nSerie Twinkle, la tipo que deja a todos en el\npolvo."
+    },
+    {
+      "name": "Vodka",
+      "text": "Si <i>hago</i> lo mismo que todos, entonces <i>seré</i> igual\nque todos los demás."
+    },
+    {
+      "name": "Vodka",
+      "text": "Es como enterrarse en medio del grupo. Te quedas\natrapado allí sin salida."
+    },
+    {
+      "name": "Vodka",
+      "text": "Voy a entrenar más duro—para poder ser más rápida\nque todos. No voy a quedarme atrapada detrás de\nnadie.",
+      "choice_data_list": [
+        "¿Es por eso que hiciste tu propio régimen de\nentrenamiento?",
+        "¿Es por eso que hiciste tu propio régimen de\nentrenamiento?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Sí. ¿Tienes un problema?",
+      "choice_data_list": [
+        "No realmente.",
+        "No realmente."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque boicotear el régimen de su profesor y crear\nel propio de manera descuidada no es el mejor\ncurso de acción, ella tiene agallas."
+    },
+    {
+      "name": "Vodka",
+      "text": "E-eh, ¿qué estás haciendo mirándome así?",
+      "choice_data_list": [
+        "Oh, solo estaba pensando que eres bastante genial."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿¡Guau—?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡A-hem! Perdón, ¿puedes decirlo de nuevo? ¡No te\nescuché!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Dijiste algo sobre mí, verdad? ¡Vamos, dilo una\nvez más!",
+      "choice_data_list": [
+        "...¿Eres bastante genial?",
+        "...¿Eres bastante genial?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Oye, ¿qué es esa respuesta débil? ¡Ponle\nentusiasmo!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Qué me dijiste?",
+      "choice_data_list": [
+        "¡Genial!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "...!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Jejeje! ¡Tienes buen ojo!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Voy a seguir entrenando... pero puedes quedarte\ntodo el tiempo que quieras!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Porque soy tan genial y generoso!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Muy bien, estoy motivado! ¡Aumentemos esas\nrepeticiones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras la veo entrenar con aún más entusiasmo,\nno puedo evitar sonreír."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Unos días después, las pruebas comienzan\noficialmente y Vodka hace su aparición."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Guaaaaaah!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Ngh!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Vodka está avanzando! ¡Vodka está avanzando!\nDaiwa Scarlet está luchando con todas sus\nfuerzas..."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Pero la diferencia es demasiado grande! Vodka\ntermina en primer lugar, Daiwa Scarlet en segundo!"
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "Tu forma de correr es un poco tosca, pero tienes\nun gran potencial, ¡Vodka! ¿Por qué no vienes y te\nunes a mí?"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "¡No, ven conmigo en su lugar! He acumulado\nmontones de datos sobre los corredores que he\nentrenado en el pasado. Podré diseñar un programa\nde entrenamiento específicamente para—"
+    },
+    {
+      "name": "Vodka",
+      "text": "Lo siento, pero no me interesa ese tipo de cosas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El desempeño de Vodka atrae muchas ofertas de\nreclutamiento, pero ninguna parece concretarse.",
+      "choice_data_list": [
+        "(Si recuerdo bien, lo que ella realmente quiere\nescuchar es...)"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Oh, eres tú del otro día! Jeje, ¿qué te pareció\nmi carrera?",
+      "choice_data_list": [
+        "¡Fuiste súper genial, Vodka!",
+        "¡Fuiste súper genial, Vodka!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿¡En serio?! ¡Sí!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Oye oye, aún no entrenas a nadie, ¿verdad? ¿Qué te\nparece unir fuerzas conmigo?",
+      "choice_data_list": [
+        "¡Cuenta conmigo!",
+        "¡Cuenta conmigo!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Demonios, sí! ¡Espero trabajar contigo,\nEntrenador!"
+    }
+  ]
+}

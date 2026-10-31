@@ -1,0 +1,78 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Haa... Haa...</i>",
+      "choice_data_list": [
+        "Corriste con todo el corazón.",
+        "Corriste con todo el corazón."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Qué importa? ¡Perdí!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Lo último que quería era verla por delante de\nmí... Ugh, hay tanto en lo que necesito\ntrabajar...",
+      "choice_data_list": [
+        "Puedes aplicarlo en la siguiente carrera."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Lo haré. Esto no se acabó. No mientras tenga algo\nque decir al respecto."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡No permitiré que Vodka me robe el puesto número\nuno!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Vamos, Entrenador, ¡elijamos nuestra siguiente\ncarrera! ¡No estaré satisfecha hasta que la venza!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Ahora mismo, por favor! ¡Quiero mantener este\nimpulso!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Qué tal la Queen Elizabeth II Cup?",
+      "color_text_info_list": [
+        "Queen Elizabeth II Cup"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Vodka!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Hoy, quería vencerte más de lo que quería\nconseguir el primer lugar."
+    },
+    {
+      "name": "Vodka",
+      "text": "La carrera puede haber terminado, pero mi corazón\ntodavía late con fuerza. ¡Quiero volver a correr!"
+    },
+    {
+      "name": "Vodka",
+      "text": "La Copa Queen Elizabeth II está a la vuelta de la\nesquina, así que te estaré esperando allí."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "La Copa Queen Elizabeth II...",
+      "choice_data_list": [
+        "¿Deberíamos inscribirnos?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Absolutamente."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡La próxima vez que nos encontremos, la venceré\nseguro!"
+    }
+  ]
+}

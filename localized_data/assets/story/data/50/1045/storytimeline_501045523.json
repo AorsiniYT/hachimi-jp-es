@@ -1,0 +1,79 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, nos ofrecemos como voluntarios para jugar\ncon algunos niños en un jardín de infancia\ncercano."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Aquí vengooo!"
+    },
+    {
+      "name": "Niño enérgico",
+      "text": "¡Yaaah! ¡Correeee!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Voy a atrapaarte!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Super Creek persigue con destreza a los niños por\nel patio de recreo, hasta que..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Uy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Plaf!</i>",
+      "choice_data_list": [
+        "¿¡C-Creek!?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella accidentalmente golpea su cabeza con fuerza\nen el equipo del patio de recreo y se desploma en\nel suelo."
+    },
+    {
+      "name": "Super Creek",
+      "text": "<i>Suspiro...</i> Esa protuberancia anterior me asustó\nmucho.",
+      "choice_data_list": [
+        "¿E-estás bien?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Estoy bien. Estaba viendo estrellas justo cuando\nme golpeé la cabeza..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Pero después de eso, mi mente en realidad se\nsintió sorprendentemente clara. Tuve un momento\nrealmente fácil corriendo por alguna razón."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Mmm... Quizás... Quizás pueda usar esto a mi\nventaja en las carreras?"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oye, ¿podemos volver a la academia y probarlo?",
+      "choice_data_list": [
+        "¿¡Vas a golpearte la cabeza de nuevo?!",
+        "¿¡Vas a golpearte la cabeza de nuevo?!"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Ehehe! ¡No, no! Solo quiero intentar correr de\nnuevo."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Si todo sale bien, ¡quizás pueda hacerte sonreír\naún más! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Super Creek parece haber descubierto algo al\ngolpearse la cabeza, ¡y su carrera mejora\nnotablemente!"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Manhattan Cafe",
+      "text": "..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nadie pronuncia una palabra. Tal es la gravedad de\nla situación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es el día del Kikuka Sho, y los fenómenos\nparanormales finalmente se están calmando... Hoy,\nlas habilidades de Manhattan Cafe serán puestas a\nprueba."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Entrenador, es la primera vez."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Es la primera vez que antes de una carrera siento\nque... podría alcanzar a mi amiga...",
+      "choice_data_list": [
+        "¡Hagamos que suceda!"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...¡De acuerdo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su sonrisa carece de la angustia habitual. La\nvigilo, esperando que la carrera de hoy finalmente\nnos traiga la luz al final de nuestro largo túnel."
+    }
+  ]
+}

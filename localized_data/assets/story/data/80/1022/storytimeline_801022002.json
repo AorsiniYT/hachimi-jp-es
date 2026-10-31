@@ -1,0 +1,84 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras estoy viendo una carrera..."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Y tenemos a nuestra ganadora! ¡Aquí está, la\nvictoria en un final realmente reñido!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Fantástico! ¡Las carreras son tan emocionantes!\nMientras estoy aquí, debería tomar una foto para\nconmemorar la ocasión!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Oh, tú allí! ¿Serías tan amable de tomarme una\nfoto?",
+      "choice_data_list": [
+        "¿Yo?",
+        "¿Yo?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Sí! ¡Por favor, asegúrate de capturar también la\npista de carreras! ¡Gracias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Apenas puedo seguir lo que está pasando, pero de\ntodas formas le tomo una foto a Fine Motion."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Vaya, qué foto tan linda! ¡Esto merece tres\ntréboles evocadores!",
+      "choice_data_list": [
+        "¿Qué son los \"tréboles evocadores\"?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Adoro los tréboles, así que los uso para calificar\ncualquier experiencia maravillosa que tenga."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Quiero reunir tantos tréboles como pueda aquí\nantes de volver a Irlanda."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡El mundo fuera de los muros del castillo es tan\nlibre y fascinante! No suelo tener experiencias\ncomo estas, así que tomo muchas fotos cuando las\ntengo."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Oye, ¿a dónde crees que debería ir después para\ntener más oportunidades de fotos lindas?",
+      "choice_data_list": [
+        "La última curva.",
+        "La recta final."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Ah, el lugar donde la meta entra en la vista de\nlas corredoras y empiezan a calcular cuándo hacer\nsu movimiento final! ¡Una buena sugerencia!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡La vista de todas las Umamusume tomando la curva\nsiempre es tan impactante y deliciosa! ¡Nunca deja\nde quitarme el aliento!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Sí, si puedo tomar una foto clara desde ese\nlugar, estoy segura de que será un recuerdo\nmaravilloso!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Ah, las expresiones en sus rostros mientras se\nesfuerzan desesperadamente hacia adelante con sus\núltimas onzas de energía!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Seguramente, no hay escena más digna de ser\ninmortalizada! ¡Mi corazón late con anticipación!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Debo encontrar un lugar donde pueda capturar una\ntoma clara. Me pregunto si ese lugar de allí será\nbueno?"
+    }
+  ]
+}

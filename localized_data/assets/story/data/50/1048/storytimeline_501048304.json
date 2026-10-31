@@ -1,0 +1,194 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tosen Jordan",
+      "text": "<i>Resoplo... Haa...</i> Gyuh... <i>Resoplo...</i>",
+      "choice_data_list": [
+        "¡Gran trabajo ahí afuera!"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Olvídalo! ¡Mira el tablero!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Mi número está ahí! ¿Lo ves? ¡Mira ya!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tosen Jordan señala el tablero, saltando de\nemoción."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ya dejó su huella en el más alto nivel del\ncarreras."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Jeje... Nada mal, ¿eh?"
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Tosen Jordan! Hay una conferencia de prensa en\ncurso y nos encantaría que participaras."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿¡Eh!? ¿Una conferencia de prensa? ¿¡Yo!?",
+      "choice_data_list": [
+        "Parece que vas por buen camino para hacerlo en\ngrande.",
+        "Parece que vas por buen camino para hacerlo en\ngrande."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...¡Jejeje! Ahora vean cómo se hace. ¡Voy a\narrasar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tosen Jordan está llena de bravuconería mientras\nse dirige a la prensa, pero..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Uy...",
+      "choice_data_list": [
+        "(Se ve súper nerviosa...)"
+      ]
+    },
+    {
+      "name": "Reportero B",
+      "text": "Veamos... La siguiente pregunta es para Tosen\nJordan."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Eep!"
+    },
+    {
+      "name": "Reportero B",
+      "text": "Me gustaría saber tus pensamientos sobre los\npróximos pasos después de hoy. Considerando tu\naptitud, espero que apuntes a media o larga\ndistancia, pero..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Ajá..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Entonces, eh... como, ¿qué me estás preguntando?"
+    },
+    {
+      "name": "Reportero B",
+      "text": "¿Perdón?",
+      "choice_data_list": [
+        "¡Te están preguntando por tu próximo objetivo!"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Ah, cierto! Okay, okay."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Eh, la Triple Corona. Voy por la Triple Corona,\n'cause I... ¡quiero hacerlo en grande!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Así que el Satsuki Sho, el Japanese Derby y el\nShuka Sho!",
+      "choice_data_list": [
+        "¡El <i>Kikuka</i> Sho!"
+      ],
+      "color_text_info_list": [
+        "Satsuki Sho",
+        "Japanese Derby"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡E-eso, eso! ¡El Satsuki Sho, el Derby y el Kikuka\nSho!",
+      "color_text_info_list": [
+        "Kikuka Sho"
+      ]
+    },
+    {
+      "name": "Reporteras",
+      "text": "..."
+    },
+    {
+      "name": "Reportero B",
+      "text": "¿Creen que lo decía en serio?"
+    },
+    {
+      "name": "Reportera C",
+      "text": "Lo dudo. ¿Alguien en serio por la Triple Corona\nClásica se equivocaría en los nombres de las\ncarreras?"
+    },
+    {
+      "name": "Reportero D",
+      "text": "Además, estuvo jugando con las uñas todo el\ntiempo. Probablemente ni siquiera prestaba\natención. No esperaría nada de ella."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...",
+      "choice_data_list": [
+        "Pero ese realmente es tu objetivo...",
+        "Pero ese realmente es tu objetivo..."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Está bien. Honestamente, ni siquiera me importa."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Lo verán cuando realmente gane la Triple Corona.",
+      "choice_data_list": [
+        "Eso es verdad.",
+        "Eso es verdad."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Sí... De todos modos, voy a cambiarme."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tosen Jordan camina de vuelta a la sala de espera\ncon un humor visiblemente decaído.",
+      "choice_data_list": [
+        "(Primero, haremos que todos se traguen esas\npalabras en el Satsuki Sho.)"
+      ]
+    },
+    {
+      "name": "Reportero con Gorra Plana",
+      "text": "Ah, es ella... ¿Está llorando?"
+    },
+    {
+      "name": "Reportero con Gorra Plana",
+      "text": "Oye, tú eres la entrenadora de Tosen Jordan,\n¿verdad?",
+      "choice_data_list": [
+        "Así es."
+      ]
+    },
+    {
+      "name": "Reportero con Gorra Plana",
+      "text": "¡Ah, genial! ¡Me encantaría observar su\nentrenamiento algún día!"
+    },
+    {
+      "name": "Reportero con Gorra Plana",
+      "text": "Quedé realmente intrigado por su desempeño y\nentrevista de hoy. Ha pasado un tiempo desde que\nvi ojos tan llenos de determinación."
+    },
+    {
+      "name": "Reportero con Gorra Plana",
+      "text": "Entonces... ¿realmente iba en serio con lo de la\nTriple Corona?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras siga corriendo a su manera, lentamente\npero seguro más personas la notarán."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y todo comenzará con el Satsuki Sho."
+    }
+  ]
+}

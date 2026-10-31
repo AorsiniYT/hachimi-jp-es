@@ -1,0 +1,398 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una tarde, después de un poco de compras,\nMatikanefukukitaru y yo estamos caminando por el\nbarrio comercial cuando..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Oh... Mira a toda esa gente. ¿Crees que un adivino\nha puesto una tienda o algo así?"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben su suerte con nuestra rifa\nde Año Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Primer premio: hamburguesa deluxe de zanahoria.\nSegundo: fardo de zanahorias. Tercer: una\nzanahoria."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¿Y tú, el de allá con el amuleto daruma en la\ncabeza? ¿Quieres probar suerte?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Una rifa? ¡Un juego que prueba nuestra suerte!\n¡Mwahaha! ¡Los dioses debieron haber querido que\nviera esto!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Es como sacar una papeleta de la fortuna con un\npremio adjunto! ¡No hay forma de que nos\nresistamos a esto!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Entrenador, algo de cambio por favor... No,\n¡tienes un boleto de rifa, ¿verdad?!",
+      "choice_data_list": [
+        "Sí, creo que conseguí uno mientras comprábamos."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Wooo! Okay, ¡unámonos de las manos y fusionemos\nnuestras energías en una!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Con nuestra suerte combinada, no hay nada que\ntemer! ¡Lo sé!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nuestras energías espirituales canalizadas como\nuna, alcanzamos y agarramos el mango del giratorio\nde la rifa..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Hyaaaaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella suelta un grito chirriante mientras le damos\nun fuerte giro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de la abertura\ndel giratorio..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Santo pez espada! ¡Tenemos un ganador del gran\npremio! ¡Ven a recoger el cupón para tus\nvacaciones en aguas termales! ¡Felicitaciones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Woooo! ¡Alabado sea! Recibir el gran premio es\nexactamente como recibir una gran bendición en el\nsantuario!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Con tanto los dioses como Buda en este mundo,\n¡supongo que cosechamos el doble de recompensas\npor las buenas acciones!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Wahoo! ¡Wahoo! ¡Wa-wa-hurray!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No sé de dónde sacó ese canto, pero\nMatikanefukukitaru parece estar en la luna."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Woooo! ¡Realmente ganamos! ¡Eso significa que\npodemos ir juntos!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Solo tenemos que decidir cuándo. Un viaje de la\nsuerte como este necesita tener un día\napropiadamente auspicioso."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Entonces, probablemente sea mejor dejarlo en manos\nde las papeletas de la fortuna. ¿Qué dices,\nEntrenador?",
+      "choice_data_list": [
+        "Claro, dejémoslo en manos del destino.",
+        "Claro, dejémoslo en manos del destino."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Muy bien entonces! ¡Adelante al segundo sorteo de\nla suerte de hoy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos dirigimos a un santuario para que las\npapeletas de la fortuna determinen la fecha de\nnuestras vacaciones."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las papeletas usualmente tienen una sección\ndedicada a los planes de viaje, así que decidimos\nusar eso como referencia."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Muy bien, vamos a desenrollar esto... ¡Y aquí\nestamos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ahora, ¿qué tenemos aquí..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Gyahhhhh! ¿Qué significa esto?!",
+      "choice_data_list": [
+        "¿Qué dice?",
+        "¿Qué dice?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡No puedo creerlo! Usualmente dice algo como \"el\nmomento presente es fortuito\" o \"una ubicación en\nel noreste sería favorable.\""
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Pero mira! Dice: \"Vas a querer esperar un\naño—confía en mí. ♪\""
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Bastante directo para una fortuna, ¿no crees?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un año... Supongo que los dioses quieren que\nesperemos un rato."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Ah, qué lástima. Sin embargo, ignorar una\ndirección divina sería una grave transgresión."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Al final, las cosas buenas llegan para quienes\nesperan! Estoy segura de que hay una muy buena\nrazón para el retraso."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Entrenador, ¡es solo un año! ¿Te unirás a mí para\nlas aguas termales cuando llegue ese momento?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡No te preocupes, las aguas termales no se van a\nningún lado! Y si lo hicieran, las perseguiría.",
+      "choice_data_list": [
+        "Claro. Vayamos el próximo año."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Okay, es una promesa! ¡Voy a hacer que la\ncumplas!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Y cuando llegue ese día, nos sumergiremos allí\nhoras y horas y festejaremos con las mejores\ndelicias locales!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Dame la mano, Entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Aplauso!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El apretón de manos resuena en el aire. Con un\nviaje a las aguas termales que esperar, el\nentusiasmo de Matikanefukukitaru está en su punto\nmás alto."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Recibes una hamburguesa\nde zanahoria de lujo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Ooh! No es el gran premio, pero esto no está nada\nmal! ¡Lo compararía con sacar \"buena suerte\" en\nuna papeleta de la fortuna!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Jejeje! Está tan lleno de nutrientes, que con\nsolo un bocado probablemente te llevará directo al\ncielo."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Y el tono rojizo de la zanahoria se ve bastante\nauspicioso..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Hmm... Pero todavía le falta algo.",
+      "choice_data_list": [
+        "¿Qué sería?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Le faltan los sabores ricos que merecen una fiesta\nde Año Nuevo. Si queremos que esta hamburguesa de\nzanahoria sea aún más auspiciosa..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Lo tengo! ¡Ven conmigo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decido ir junto con lo que Matikanefukukitaru\ntenga en mente."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Podemos usar la cocina aquí para hacer una salsa\nde crema para poner encima de la hamburguesa de\nzanahoria!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Ahora está listo! La zanahoria rojiza y la salsa\nde crema blanca juntas le dan un toque festivo!\n¡Es una combinación de colores de la suerte,\n¿sabes?!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Qué alegría! ¡Qué dicha! Muy bien, Entrenador,\n¡comamos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Disfrutamos la comida juntos. Su salsa casera\nrealmente añade una profundidad rica y cremosa al\nplato!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te vas a casa con un haz de\nzanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Zanahorias, ¿eh? Bueno, la cantidad en sí no es\npara despreciar, así que diría que esto es más o\nmenos lo mismo que \"fortuna modesta\" en una\npapeleta de la fortuna."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Definitivamente deberíamos aceptarlas con gratitud\nen nuestros corazones."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Aún así, no estaría bien guardarnos todas para\nnosotros."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Lo sé! Entrenador, ¿por qué no hacemos un\nperegrinaje de la buena fortuna, compartiendo\nnuestras bendiciones por todas partes?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, vamos por ahí repartiendo zanahorias a\ntodas las Umamusume que encontramos."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Gracias, Fukukitaru. Lo comeré durante mi descanso\nen el entrenamiento.",
+      "color_text_info_list": [
+        "Fukukitaru"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Oho! ¿Qué demonios tenemos aquí? ¿Una zanahoria?\n¡Con gusto!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Te debo una. Y siempre pago mis deudas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de repartir tres zanahorias..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Oye, espera un segundo! ¡A este ritmo, estaremos\nhasta la mañana!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Por qué no nos comemos el resto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Acortando nuestro peregrinaje en tres paradas, os\natiborramos con el resto de las zanahorias."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Miren aquí! ¡Has ganado el tercer premio! ¡Aquí\ntienes tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿¡Qué?! ¡Solo una miserable zanahoria?! ¡Esto debe\nser obra de la demonia-diosa Kishimojin!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Si esto fuera una papeleta de la fortuna, quizás\nsería \"fortuna modesta.\" Eh, pensándolo mejor, es\nmás como... \"fortuna 'así así'.\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "No recuerdo haber visto nunca \"fortuna 'así así'\"\nen una de esas papeletas antes, pero bueno."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Aún así, incluso una zanahoria hace un snack\nbastante bueno. Comamos, Entrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Partimos la zanahoria por la mitad y disfrutamos\nun pequeño snack juntos."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Terminamos? Muy bien. Terminemos con nuestra\nhumilde fiesta, y celebremos con el tradicional\n¡un solo aplauso!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Yaaaa..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Aplauso!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El sonido de nuestro aplauso resuena en el aire.\nDe alguna manera hace que todo el evento se sienta\nun poco más especial."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Ohhh, mala suerte! ¡Parece que sacaste uno en\nblanco! ¡Toma este paquete de pañuelos como premio\nde consolación!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡¿Pañuelos?! ¿Es esta la desgracia que ha sido\nadvertida por siglos—¿tenemos un \"premio fallido\"\nen nuestras manos?!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Es como recibir \"mala suerte\" en un papelito de\nla fortuna! No, más bien \"<i>gran</i>mala suerte\"! ¿Cómo\nnos<puede pasar esto a nosotros? ¡Waaaaah!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Muy bien, ¡volvamos esto y hagamos muñecos de\npapel con ellos!",
+      "choice_data_list": [
+        "¿Muñecos de papel? ¿Pero por qué?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Para alejar los malos espíritus. Ellos absorberán\nlo peor de la mala suerte por nosotros."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡No hay tiempo que perder! ¡A doblar! ¡Rápido,\nrápido!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hacemos muñecos de papel con todos los pañuelos.\nSus caras están arrugadas con la mala suerte."
+    }
+  ]
+}

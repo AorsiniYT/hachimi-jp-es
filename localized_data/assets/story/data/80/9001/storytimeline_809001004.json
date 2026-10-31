@@ -1,0 +1,215 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "En un día libre, voy al hipódromo a ver algunas\ncarreras para investigar..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Puedes hacerlo! ¡Así es! ¡Casi llegas! ¡No tengas\nmiedo!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡No te rindas! ¡Sigue así! ¡La línea de meta está\njusto en frente de ti!",
+      "choice_data_list": [
+        "¿Tazuna?"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿Eh...? Oh, ¡eres tú!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Jaja... Disculpa por mi comportamiento indecoroso."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Simplemente no puedo contener mi emoción una vez\nque doblan la cuarta curva."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Es un momento en que las apuestas son tan altas\nque toda la actitud del corredor cambia.\n¿Entiendes a qué me refiero?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Simplemente no puedo resistir esa emoción!",
+      "choice_data_list": [
+        "¡Sé <i>exactamente</i> a qué te refieres!"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿¡En serio!?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Eso... Ahem. Perdón, lo estoy haciendo de nuevo.\nYa basta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella dice eso, pero parece que ni siquiera ha\nrasguñado la superficie de este tema.",
+      "choice_data_list": [
+        "¡Me gustaría escuchar más!",
+        "Bueno, tengo trabajo que hacer, así que..."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿En serio?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿¡Estás seguro!? Sé que es un momento importante\npara ti y tu aprendiz, así que debes estar\nocupado...",
+      "choice_data_list": [
+        "Está bien. Tengo el día libre."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Bueno, si tú lo dices!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Jeje! Muchas gracias."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Lo sé! Hablar está bien y todo, pero una charla\nsobre el almuerzo sería aún mejor, ¿no crees?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "De hecho, hay un lugar cerca que siempre he\nquerido probar..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Jeje... ¡Es un honor poder charlar contigo así,\nsolo nosotros dos!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Entonces, sobre la carrera anterior..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Exactamente! ¡Sé exactamente a qué te refieres!\nEs tan alentador verlas persiguiendo sus sueños\ncon todo lo que tienen!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Pero son las voces de todos los fans animándolas\nlas que las mantienen avanzando..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Pensando de esa manera, las carreras realmente\nunen a las personas, ¿verdad?!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Hablando de eso, las carreras del año pasado\ntambién..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡El Derby! ¡El Derby es el mejor! Por supuesto,\nlas carreras G1 son todas increíbles y merecen\ntodo el respeto que reciben."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Pero tengo un apego especial al Derby Japonés."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡De hecho, lo veo cada año sin falta!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿¡Qué!? ¿Cómo se hizo tan tarde ya?!",
+      "choice_data_list": [
+        "El tiempo vuela, ¿eh?"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Eh..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "A diferencia de los estudiantes, no tenemos\nexactamente un toque de queda, así que..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿Te importaría quedarte un poco más?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así nos mudamos a otra tienda, donde continuamos\nhablando apasionadamente sobre carreras."
+    },
+    {
+      "name": "Monólogo",
+      "text": "..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Yo... no puedo creer que ya sea mañana...",
+      "choice_data_list": [
+        "Sí..."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Eh... Lo siento por mantenerte fuera así."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Pero, bueno..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Me divertí mucho!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "En verdad, desde que nos conocimos, pude decir que\ntambién eras apasionado por las Umamusume y las\ncarreras..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Es genial poder hablar en profundidad sobre esto\ncon alguien! Lo pasé maravillosamente, jeje. ♪"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Si está bien para ti, ¡hagamos esto de nuevo algún\ndía!",
+      "choice_data_list": [
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "...Ah, pero probablemente no deberíamos quedarnos\ndespiertos toda la noche la próxima vez!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Puedo sentir el cansancio acercándose..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "<i>Bostezoooo...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos dirigimos de vuelta a la academia, reprimiendo\nnuestros bostezos mientras vamos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siento como si mi amistad con Tazuna hubiera\ncrecido más fuerte."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Oh, claro, por supuesto! Es un momento importante\nen la carrera de tu aprendiz ahora—debes estar\nocupado."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Eh... Bueno, me voy, entonces. ¡Nos vemos por la\nacademia!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Tazuna y yo tomamos caminos separados..."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Legendary Bard",
+      "text": "¡El Soberano es victorioso! Un tributo a mi digno\nrival por una competencia emocionante! Un tributo\na mis aficionados por una ovación sobresaliente!"
+    },
+    {
+      "name": "Legendary Bard",
+      "text": "Sin embargo... esta gobernante que aspira a\nconvertirse en el Soberano Centenario debe\npermanecer firme en la cima de esta generación."
+    },
+    {
+      "name": "Legendary Bard",
+      "text": "Así, avanzo mis piezas hacia el Derby Japonés, un\nlugar adecuado para fortalecer aún más mi nombre!",
+      "color_text_info_list": [
+        "Derby Japonés"
+      ]
+    }
+  ]
+}

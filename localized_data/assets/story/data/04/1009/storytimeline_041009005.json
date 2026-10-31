@@ -1,0 +1,160 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de la escuela, comienzo a buscar a Scarlet\npara que podamos adelantarnos en el entrenamiento\nde hoy."
+    },
+    {
+      "name": "Profesora A",
+      "text": "Lo siento por hacerte ayudarme todo el día. Fuiste\nde gran ayuda, así que te agradezco."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "No hay de qué, estoy feliz de haber podido ayudar.\nNo dudes en confiar en mí cuando lo necesites."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Y con eso, me iré."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Suspiro.</i> Me han estado agotando desde la mañana...\nTengo que prepararme para el entrenamiento ahora,\ntambién—",
+      "choice_data_list": [
+        "Pareces cansado.",
+        "Pareces cansado."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Eek?! ¿¿Entrenador?!! No me asustes así"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Mira, ¿viniste aquí solo para buscarme? Bueno,\npodrías haberte ahorrado el esfuerzo. Estaba a\npunto de ir de todos modos."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Y solo para que quede claro—no estaba cansada en\nabsoluto. Fue solo tu imaginación, un truco de la\nluz."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ayudar a la gente es algo así como una cosa de\ntodos los días para mí. No es un gran problema.",
+      "choice_data_list": [
+        "Siempre y cuando no te estés esforzando demasiado,\n¿okay?",
+        "Siempre y cuando no te estés esforzando demasiado,\n¿okay?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Lo sé, lo sé. Puedes haberlo olvidado, pero soy\nuna estudiante destacada."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Soy más confiable que cualquier otra persona y\nnunca defraudo sus expectativas. Ya sea mi\nconducta, mis estudios o mi carrera—soy la número\nuno."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Esa es Daiwa Scarlet! Así que unos cuantos\nrecados no son suficientes para amedrentarme."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "En lugar de entrometerse en mi vida privada, ¿por\nqué no se enfoca en mi entrenamiento?",
+      "choice_data_list": [
+        "¿No dije que te apoyaría?",
+        "¿No dije que te apoyaría?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "T-tú dijiste eso cuando me reclutaste... Pero ¿¡no\nquerías decir \"apoyo\" en el sentido de las\ncarreras?!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Incluso entonces... No necesitas preocuparte por\nmí <i>esta</i> m—"
+    },
+    {
+      "name": "Compañera A",
+      "text": "¡Hey Scarlet! ¿Tienes un minuto?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ah... ¿Q-qué pasa? ¿Hay algo malo?"
+    },
+    {
+      "name": "Compañera A",
+      "text": "Tengo que preparar los utensilios de cocina para\nla clase de economía doméstica de mañana. Lo\nsiento, pero ¿podrías ayudarme rápidamente?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Claro, no me importa. Estaré allí en un momento,\nasí que ¿podrías ir adelante sin mí?"
+    },
+    {
+      "name": "Compañera A",
+      "text": "¡Genial, gracias! Me alegra haberte pedido ayuda.\n¡Te estaré esperando!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Lo siento, Entrenador, pero deberías ir adelante\ntambién.",
+      "choice_data_list": [
+        "Puedo ayudar."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Está bien, lo tengo cubierto. Y no es que no\nquiera que estés conmigo—solo no quiero imponer mi\ntrabajo a los demás."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Vamos, vete ya! ¡Prepárate para mi entrenamiento!\n¡No tardo mucho, ¿de acuerdo?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Scarlet me despide de inmediato."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Treinta minutos después..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Suspiro...</i> Tomó mucho más tiempo de lo que pensé.\nBueno, comencemos."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...¿Eh? ¿Qué pasa? ¿Por qué me estás mirando con\ndureza...? ¿Estás enojado? Sí, me siento mal por\nhacerte esperar, lo sé.",
+      "choice_data_list": [
+        "Me preocupa que estés asumiendo demasiado por ti\nmismo.",
+        "Me preocupa que estés asumiendo demasiado por ti\nmismo."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡N-ni siquiera cerca! Además, si no puedo hacer\nesto, ¿cómo puedo ser la número uno?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Sé que llegué tarde, así que entrenemos más tiempo\npara compensar—",
+      "choice_data_list": [
+        "Puedes confiar más en mí.",
+        "Puedes confiar más en mí."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿¡Qué diablos... Me estás haciendo parecer el malo\naquí, ¿sabes?!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Además... tú eres mi entrenador, así que..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Ahhh, no importa! ¡Ahora estoy de mal humor!\n¡Vamos a apurarnos y empezar a entrenar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet, una estudiante decidida a ser la\nnúmero uno. Parece que tomará mucho más tiempo\nantes de que aprenda a confiar en mí."
+    }
+  ]
+}

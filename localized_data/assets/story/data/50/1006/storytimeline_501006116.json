@@ -1,0 +1,158 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hay una carrera de práctica en la playa, y Oguri\nCap se ha registrado para la carrera de 2,000\nmetros."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Nunca esperé ver a esos dos tener un\nenfrentamiento tan pronto!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¿Quién crees que ganará? ¿Creek u Oguri? No puedo\nesperar para saberlo!",
+      "color_text_info_list": [
+        "Creek"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hm? Hay muchos espectadores..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Tienes razón. ¿Quizás todos están tomando un\ndescanso?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Oye, no puedo ver nada! Perdón, pero tienes que\ndejarme pasar! ¡Voy a ir al frente!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Oye, es la entrenadora de Oguri! ¿Te importa si\ntomo este asiento al lado tuyo?"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡No puedo creer que una carrera simple como esta\npueda atraer tanta gente! ¡Oguri y Creek son en\nserio algo más!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No es de extrañar. Oguri Cap ha crecido tanto en\nhabilidad como en popularidad recientemente, y\nahora se enfrenta contra Super Creek."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Oh bueno, no importa eso. ¡Empecemos!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Por supuesto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ellas patean la arena ardiente de la playa y\nsaltan al mismo tiempo exacto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Oguri Cap arranca en la delantera."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "<i>Haa... resuello...</i>"
+    },
+    {
+      "name": "Super Creek",
+      "text": "...?!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "<i>Tos.</i> ¡Esta arena sí que es algo! Pero le tengo\nmucha fe en Oguri. ¡Está acostumbrada a pistas de\ntierra!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Creek se está quedando atrás! ¿El arranque veloz\nde Oguri le ha asegurado la victoria?!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡No seas tan tonta, Inari! ¡Sabes que Creek apenas\nestá empezando!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Uf... Oguri es rápida—¡pero no puedo dejar que me\ngane!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Justo como Tamamo Cross predijo, Super Creek\ncomienza gradualmente a acortar la brecha en la\nmitad de la carrera."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Ugh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y entonces..."
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Van mano a mano! ¡Oguri y Creek van mano a mano!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Uf, ¡ahora se pone emocionante! ¿Quién va a tomar\nla delantera en la recta final?!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Oguri! ¡Creek! ¡Dénlo todo!",
+      "choice_data_list": [
+        "¡Tú puedes, Oguri!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y al final..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "<i>Huff... puff...</i> Empatamos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ambas cruzan la línea de meta exactamente al mismo\ntiempo. Al final, ninguna de las dos pudo llevarse\nla victoria. Sin embargo..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Mmm... Pensé que podría adelantarte al final, pero\ncreo que te subestimé."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Eres una verdadera estrella, Oguri. ¡Aprendí mucho\nde ti hoy! ♪"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Espero que nos volvamos a enfrentar en una\ncarrera. ♪"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Si la carrera fuera solo 500 metros más larga...",
+      "choice_data_list": [
+        "¿Qué es eso?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Oh, no es nada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Oguri Cap observa en silencio cómo Super Creek se\naleja."
+    }
+  ]
+}

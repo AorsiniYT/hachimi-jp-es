@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es hora de la carrera debut de Daiwa Scarlet.",
+      "color_text_info_list": [
+        "carrera debut"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Por fin, voy a entrar en la Twinkle Series..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡No puedo esperar! ¡Vamos! ¡Mis piernas piden\ncorrer!",
+      "choice_data_list": [
+        "Ve y toma ese primer lugar, ¿me oyes?",
+        "Ve y toma ese primer lugar, ¿me oyes?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Je! ¡No necesitas recordármelo!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Tendré el debut más espectacular que jamás haya\nhabido. ¡Todos desearán poder copiarme!"
+    }
+  ]
+}

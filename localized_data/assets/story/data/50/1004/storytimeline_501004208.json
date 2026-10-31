@@ -1,0 +1,93 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El Tenno Sho de otoño finalmente ha llegado, y\nMaruzensky está emocionada por correr junto a\nSpecial Week."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Spe y yo finalmente podemos correr juntas!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Mirando sus logros pasados, está claro que esta\ncarrera no será nada fácil..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Pero eso solo significa que definitivamente va a\nser divertida!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Me voy, entonces! ¡Apláudeme, Entrenador!",
+      "choice_data_list": [
+        "¡Ve y gánala!",
+        "¡Ve y gánala!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Me voy, entonces! ¡Apláudeme, Entrenador!",
+      "choice_data_list": [
+        "¡Ve y gánala!",
+        "¡Ve y gánala!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Por supuesto! ¡Volveré en primer lugar!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Inhala... Exhala... Inhala... Exhala..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Uy, estás nerviosa?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Oh, Maruzensky!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Ehehe, supongo que un poco..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Pero también me estoy divirtiendo! ¡Estoy tan\nemocionada que no puedo calmarme!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Finalmente puedo correr en la misma hierba que la\natleta a quien he admirado desde antes de mi\ndebut!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Jejé! ¡Estoy tan feliz de correr en la misma\ncarrera que tú también, Spe."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Pero hoy, no me pienses como alguien a quien\nadmiras..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Deberías venir a mí como tu <i>rival!</i>"
+    },
+    {
+      "name": "Special Week",
+      "text": "My rival..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Muy bien! Tú serás la rival a la que\nperseguiré... y <i>superaré</i> antes de la meta!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Disfrutemos esta carrera! ¡Va a ser la mejor!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Sí!"
+    }
+  ]
+}

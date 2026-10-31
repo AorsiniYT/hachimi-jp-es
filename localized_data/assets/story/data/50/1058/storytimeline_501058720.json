@@ -1,0 +1,540 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día, llevo a <chrname> a la enfermería para un chequeo."
+    },
+    {
+      "name": "???",
+      "text": "¡Oh! Un disfraz―digo, un estudiante. ¡Hola!"
+    },
+    {
+      "name": "???",
+      "text": "¿Estás herido? ¿Enfermo? ¿Estresado? ¡Sea lo que\nsea, yo lo curo todo!",
+      "choice_data_list": [
+        "¡¿Quién eres?!"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Bueno, considerando que estás en la enfermería de\nla academia, diría que eso me convierte en tu\nconfiable enfermera escolar. ¡Sí, solo una\nempleada escolar promedio!",
+      "choice_data_list": [
+        "...¿No lo eres?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¡Ajajá! Parece que no puedo engañarte. Supongo que\ndebería empezar dándote mi nombre."
+    },
+    {
+      "name": "???",
+      "text": "¡Ahem! ¡Permíteme presentarme!"
+    },
+    {
+      "name": "???",
+      "text": "Soy la (probable) salvadora de todas las\nUmamusume, la (autoproclamada) legendaria\nacupunturista con el toque mágico..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡La única e insustituible Sasami Anshinzawa! ¿Ves?\n¡No te preocupes! ☆",
+      "choice_data_list": [
+        "..."
+      ],
+      "color_text_info_list": [
+        "Sasami Anshinzawa"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Caramba! ¡Pareces muy preocupado! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No importa! ¡No importa! Ya nos presentamos, así\nque acuéstate y déjame usar estas agujas."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Kyaaah! Um... No creo que pueda hacer esto. ¡Lo\nsiento!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Jajaja! No hay por qué tener miedo. Todo lo que\nharé es introducir estas agujas extraordinarias\nprecisamente en tus puntos de chakra."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y luego, voilà, presto! ¡Sucederá algo\nindescriptible!",
+      "choice_data_list": [
+        "(Esto es indescriptiblemente sospechoso...)"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y permíteme asegurarte que no hay nada sospechoso\nen esto! ¡Nunca ha salido nada menos que perfecto!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Para mi maestro.",
+      "choice_data_list": [
+        "¡¿Para tu maestro?! ¡¿Y para ti?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No te preocupes! Esta es mi primera vez, así que\ntécnicamente, ¡tampoco he fallado nunca con un\npaciente!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y no es como si no tuviera experiencia! Pasé diez\naños bajo un maestro legendario, trayendo\ngotas―digo, ¡entrenando!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Ves? ¡No te preocupes! ☆",
+      "choice_data_list": [
+        "(¡Tenemos que salir de aquí, ya!)"
+      ]
+    },
+    {
+      "text": "De ninguna manera vamos a hacer esto. Tomo a <chrname> y me\ndirijo a la puerta, cuando..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡E-espera! ¡¿A dónde vas?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Eres Meisho Doto, ¿verdad?! ¡La chica algo torpe\nque da lo mejor de sí para cambiar a mejor?!",
+      "choice_data_list": [
+        "¿Has oído hablar de ella?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿He oído hablar de ella? ¡Por supuesto! ¡Soy una\ngran fan!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por eso estoy aquí! ¡Para darte mi apoyo! ¡Déjame\nayudarte!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Dame una oportunidad! ¡Por faaavor!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ohhh... ¿Q-qué debemos hacer, Entrenador?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por favor! ¡Por faaavor con zanahoria encima!\n¡Incluso te dejaré elegir qué chakra activo!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Estoy <i>segura</i> de que no arruinaré nada!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... más o menos segura.",
+      "choice_data_list": [
+        "¿<i>Bastante</i> segura?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Quiero decir, está del lado seguro! Eso es\n<i>bueno,</i>¿verdad? De todos modos, no te\nobsesiones con los detalles!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vamos a lo bueno! ¿Qué chakra debería activar?\n¿Quieres un impulso a tus habilidades? ¿A tu\nsalud? ¿O tal vez a tu <i>encanto?</i>"
+    },
+    {
+      "text": "Huelo peligro en el aire, pero supongo podría —y\nenfatizo <i>podría</i>— haber una oportunidad de\nconseguir algo especial con este tratamiento."
+    },
+    {
+      "text": "¿Qué debemos hacer?",
+      "choice_data_list": [
+        "Activar el chakra de la fuerza.",
+        "Activar el chakra de la victoria.",
+        "Activar el chakra de la salud.",
+        "Activar el chakra del encanto.",
+        "Esto es demasiado sospechoso. Salgamos de aquí\nmientras podamos."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra de la fuerza?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? ¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjalo en mis manos! ¡Es hora de\nlocalizar ese chakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Ughhh!"
+    },
+    {
+      "text": "¡Pinchazo Perfecto!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡E-Entrenador! Yo..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Me siento tan energizada y llena de valor!\n¡Incluso podría lograr superar todos mis defectos!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Haa...</i> No puede ser... ¡¿De verdad funciono?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
+    },
+    {
+      "text": "<chrname> está rebosante de tanto poder que casi no la\nreconozco!"
+    },
+    {
+      "text": "¡Arriesgamos y salió bien! ¡Este es un gran salto\nhacia lograr nuestra meta!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Uugh... Entrenador..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "No puedo continuar―mi cuerpo se siente tan\npesado... No había... esperanza para mí... al\nfinal."
+    },
+    {
+      "text": "La condición de <chrname> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Así es la vida, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿mira la hora? ¡Debo irme! ¡Adiós! ☆"
+    },
+    {
+      "text": "Debí saber mejor que probar nuestra suerte. No soy\nla que sufre, y sin embargo estoy llena de\narrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra de la victoria?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? ¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjalo en mis manos! ¡Es hora de\nlocalizar ese chakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Ughhh!"
+    },
+    {
+      "text": "¡Pinchazo Perfecto!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡E-Entrenador! Yo..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Me siento tan energizada y llena de valor!\n¡Incluso podría lograr superar todos mis defectos!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Haa...</i> No puede ser... ¡¿De verdad funciono?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
+    },
+    {
+      "text": "¡Puedo percibir una gran mejora en las habilidades\nde <chrname>!"
+    },
+    {
+      "text": "¡Arriesgamos y salió bien! ¡Este es un gran salto\nhacia lograr nuestra meta!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Uugh... Entrenador..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "No puedo continuar―mi cuerpo se siente tan\npesado... No había... esperanza para mí... al\nfinal."
+    },
+    {
+      "text": "La condición de <chrname> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Así es la vida, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿mira la hora? ¡Debo irme! ¡Adiós! ☆"
+    },
+    {
+      "text": "Debí saber mejor que probar nuestra suerte. No soy\nla que sufre, y sin embargo estoy llena de\narrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra de la salud?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? ¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjalo en mis manos! ¡Es hora de\nlocalizar ese chakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Ughhh!"
+    },
+    {
+      "text": "¡Pinchazo Perfecto!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡E-Entrenador! Yo..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Me siento tan energizada y llena de valor!\n¡Incluso podría lograr superar todos mis defectos!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Haa...</i> No puede ser... ¡¿De verdad funciono?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
+    },
+    {
+      "text": "¡Todo el cuerpo de <chrname> irradia un brillo saludable!\n¡Es la imagen absoluta de la salud!"
+    },
+    {
+      "text": "¡Arriesgamos y salió bien! ¡Este es un gran salto\nhacia lograr nuestra meta!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Uugh... Entrenador..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "No puedo continuar―mi cuerpo se siente tan\npesado... No había... esperanza para mí... al\nfinal."
+    },
+    {
+      "text": "La condición de <chrname> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Así es la vida, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿mira la hora? ¡Debo irme! ¡Adiós! ☆"
+    },
+    {
+      "text": "Debí saber mejor que probar nuestra suerte. No soy\nla que sufre, y sin embargo estoy llena de\narrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra del encanto?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? ¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Muy bien, déjalo en mis manos! ¡Es hora de\nlocalizar ese chakra! ¡Ollie, ollie, oxen free!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡No te preocupes! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Ughhh!"
+    },
+    {
+      "text": "¡Pinchazo Perfecto!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡E-Entrenador! Yo..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Me siento tan energizada y llena de valor!\n¡Incluso podría lograr superar todos mis defectos!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Haa...</i> No puede ser... ¡¿De verdad funciono?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
+    },
+    {
+      "text": "¡<chrname> está rebosante de encanto! ¡Seguro que llamará\nla atención dondequiera que vaya!"
+    },
+    {
+      "text": "¡Arriesgamos y salió bien! ¡Este es un gran salto\nhacia lograr nuestra meta!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Uugh... Entrenador..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "No puedo continuar―mi cuerpo se siente tan\npesado... No había... esperanza para mí... al\nfinal."
+    },
+    {
+      "text": "La condición de <chrname> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Así es la vida, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿mira la hora? ¡Debo irme! ¡Adiós! ☆"
+    },
+    {
+      "text": "Debí saber mejor que probar nuestra suerte. No soy\nla que sufre, y sin embargo estoy llena de\narrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Oh, vamos. No seas así.",
+      "choice_data_list": [
+        "Rechazar.",
+        "Reconsider."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú! Espero que sepas los intrusos <i>serán</i>\nprocesados!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me han descubierto!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Bueno, me voy! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh... E-eh, huyó..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Qué estaba haciendo aquí? Oh, estaba\naterrorizada, pero... ahora estaremos bien,\n¿verdad?",
+      "choice_data_list": [
+        "Así es.",
+        "Así es."
+      ]
+    },
+    {
+      "text": "Tengo curiosidad sobre quién es realmente este\npersonaje Anshinzawa, pero no sirve de nada\nrumiarlo. Mejor olvidar el día y seguir adelante."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Has cambiado de opinión? ¡No te preocupes, eso\npasa!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Adelante y dime qué chakra quieres que active,\nentonces!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Bueno! ¡No nos dejes en suspenso! Espera un\nsegundo... ¿Cuánto tiempo llevo aquí?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú! Espero que sepas los intrusos <i>serán</i>\nprocesados!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me han descubierto!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Bueno, me voy! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "text": "La situación da un giro brusco antes de que pueda\ntomar una decisión."
+    },
+    {
+      "text": "¿Qué fue todo eso? <chrname> y yo nos miramos perplejos."
+    }
+  ]
+}

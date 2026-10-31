@@ -1,0 +1,169 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Al final del entrenamiento un día, Special Week se\nacerca a Maruzensky para aprender a cocinar."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Hola, Spe! Me alegra mucho verte, pero ¿qué te\ntrae por aquí de repente?"
+    },
+    {
+      "name": "Special Week",
+      "text": "En realidad, Tazuna me mostró recientemente una\nfoto de algo de comida que hiciste."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Se veía tan delicioso, que no pude quitármelo de\nla mente..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Quiero hacer platos maravillosos como ese yo\ntambién!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Heehee, así que eso es. ¡Bueno, ciertamente\naprecias la buena comida, Spe! ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Muy bien, déjalo en mis manos. ¡Te daré unos\nconocimientos!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ahora, ¿qué haremos..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Tal vez una sopa nutritiva y reconfortante que se\npueda hacer en un santiamén en una mañana\nocupada..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿O qué tal un guiso sabroso cocinado a fuego\nlento?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Ambos suenan increíbles! ¡No puedo decidir!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Por qué no decides <i>tú,</i> Entrenador? ¡Incluso te\ndejaré probar cuando esté listo! ♪",
+      "choice_data_list": [
+        "¡Una sopa nutritiva que se puede hacer en un\nsantiamén!",
+        "¡Un guiso cocinado a fuego lento!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Por qué no decides <i>tú,</i> Entrenador? ¡Incluso te\ndejaré probar cuando esté listo! ♪",
+      "choice_data_list": [
+        "¡Una sopa nutritiva que se puede hacer en un\nsantiamén!",
+        "¡Un guiso cocinado a fuego lento!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Muy bien, entonces! ¡Aprendamos a preparar esto\nen cinco minutos! ♪"
+    },
+    {
+      "name": "Special Week",
+      "text": "¿C-cinco minutos?!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Okay! ¡Haré lo mejor que pueda!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...Añade caldo y agua a la olla y luego pica los\notros ingredientes antes de que hierva."
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Todos ellos?! ¿Las zanahorias, cebollas,\nchampiñones, <i>y</i> apio?!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Tarda aproximadamente dos minutos y medio en\nhervir, así que ¡a ver esas habilidades para\npicar!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Oh, cielos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pronto, la colorida sopa de verduras está lista!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Bien hecho! ¡Lograste hacerlo en cinco minutos!\n¡Gran trabajo, Spe!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Yay, lo logré! ¡Y huele tan bien!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Ehehe, supongo que me he vuelto un poco como\nMaruzensky ahora... ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Jeje! ¡Gracias, Spe! ¡Siento que enseñarte\ntambién me ayudó a mejorar! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La sopa rápida que Maruzensky le muestra a Special\nWeek termina siendo muy nutritiva y deliciosa."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Perfecto! ¡Cocinemos un guiso sabroso a fuego\nlento durante cinco horas!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¿¡Cinco horas!? ¡E-está bien! ¡Haré lo mejor que\npueda!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Déjalo hervir muy, muy lentamente a fuego bajo. Y\nasegúrate de espumar cualquier grasa que suba a la\nsuperficie."
+    },
+    {
+      "name": "Special Week",
+      "text": "Lentamente... Muy lentamente... Me está dando\nbastante hambre."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Heehee! Tienes que resistir la tentación de subir\nel fuego. ¡Un guiso delicioso no se puede\napresurar!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Guau, huele tan bien! ¿Casi está listo?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oh, <i>sí</i> que es hora! ♪ Ahora que todo está cocido,\ncambia de olla y añade agua y condimentos..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Luego pon la tapa y deja hervir otras dos horas!"
+    },
+    {
+      "name": "Special Week",
+      "text": "<i>¿¡Dos horas más!? </i>¡No puedo esperar tanto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eventualmente, los sabores se mezclan y\nprofundizan, ¡y el delicioso guiso está listo!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Mmm! ¡Huele tan bien! ¡Quiero comerlo ahora\nmismo!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Heehee! ¡Creo que yo tampoco puedo resistir más!\n¡A comer! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El guiso lento que Maruzensky le muestra a Special\nWeek termina siendo jugoso y lleno de sabor."
+    }
+  ]
+}

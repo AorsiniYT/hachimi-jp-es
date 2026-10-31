@@ -1,0 +1,88 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Manhattan Cafe",
+      "text": "Quedé...",
+      "choice_data_list": [
+        "Lo diste todo.",
+        "Lo diste todo."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Sí. Creo que corrí lo mejor que pude..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Aún así, yo...",
+      "choice_data_list": [
+        "¿Querías quedar primera?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Sí. Ya que mi meta final está más allá de\neso...",
+      "choice_data_list": [
+        "¡Obtendrás el primer lugar la próxima vez!",
+        "¡Obtendrás el primer lugar la próxima vez!",
+        "Vamos a tener que intentarlo aún más.",
+        "Vamos a tener que intentarlo aún más."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Sí. Ya que mi meta final está más allá de\neso...",
+      "choice_data_list": [
+        "¡Obtendrás el primer lugar la próxima vez!",
+        "¡Obtendrás el primer lugar la próxima vez!",
+        "Vamos a tener que intentarlo aún más.",
+        "Vamos a tener que intentarlo aún más."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Correcto. Tengo que mirar hacia adelante."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Entrenador... No podré hacer esto sin tu ayuda."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Podemos encontrar el camino juntos... Al lugar más\nallá del primer lugar..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Esforzarme más... Sí..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Si voy a ser más rápida, necesitaré esforzarme aún\nmás...",
+      "choice_data_list": [
+        "Hagamos que suceda juntos.",
+        "Hagamos que suceda juntos."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Jeje... Sí. Obtendremos el primer lugar juntos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Clac!</i>"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Ah.",
+      "choice_data_list": [
+        "Juntos incluye a <i>ellos</i> también, supongo.",
+        "Juntos incluye a <i>ellos</i> también, supongo."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "¡Sí! También agradezco el apoyo de <i>ellos</i>."
+    }
+  ]
+}

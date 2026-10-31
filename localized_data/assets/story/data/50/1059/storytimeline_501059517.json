@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día..."
+    },
+    {
+      "name": "Amigo de Dober",
+      "text": "Por cierto, escuché que una revista adolescente va\na hacer un reportaje sobre la academia pronto."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿En serio?"
+    },
+    {
+      "name": "Amigo de Dober",
+      "text": "Debes haber visto los artículos antes, ¿verdad? A\nveces publican historias sobre estudiantes de\nTracen y esas cosas."
+    },
+    {
+      "name": "Amigo de Dober",
+      "text": "Hace un tiempo, me publicaron corriendo en un\nreportaje de revista, y ¡estaba super feliz!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡Un reportaje completo?! ¿En una revista\nadolescente?"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Urgh...",
+      "choice_data_list": [
+        "¿Por qué te escondes detrás de mí?",
+        "¿Por qué te escondes detrás de mí?"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡N-no me estoy escondiendo! ¡Solo pasaba por aquí!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "No quiero ser publicada en un reportaje de\nrevista..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incluso después de ser llamada la atención, Mejiro\nDober continúa actuando de manera extraña, y lo\nhace bastante mal durante nuestra sesión de\nentrenamiento..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incluso después de ser llamada la atención, Mejiro\nDober continúa actuando de manera extraña, y lo\nhace bastante mal durante nuestra sesión de\nentrenamiento..."
+    }
+  ]
+}

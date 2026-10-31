@@ -1,0 +1,286 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es Nochevieja, y el mundo de las carreras está\nrevolucionado con conversaciones sobre cierto\ntema."
+    },
+    {
+      "name": "Espectador A",
+      "text": "¿Viste la carrera de Oguri Cap y Tamamo Cross?!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Por supuesto que sí! ¡Pero Super Creek también\ncorrió genial! ¡Ella realmente interrumpió su\nenfrentamiento!"
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡No puedo esperar a ver qué harán todas esas\nUmamusume de alto nivel en la Twinkle Series del\npróximo año!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Las noticias también están haciendo un gran\nescándalo al respecto! ¡Las llaman las Tres\nMejores y dicen que son las representantes de esta\ngeneración...",
+      "color_text_info_list": [
+        "Tres Mejores"
+      ]
+    },
+    {
+      "name": "Espectador B",
+      "text": "Ohhh, pero escuché que Tamamo Cross podría\nretirarse de la Twinkle Series."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Siempre he tenido un apetito ligero, pero ahora me\nlleno aún más rápido. Y mis piernas han estado\nextrañamente pesadas últimamente, así que estoy\ntomando un descanso."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Para ser honesto contigo, este podría ser el final\npara mí... Mi cuerpo podría estar tratando de\ndecirme, \"Oye, ya terminaste aquí.\""
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Bueno, esa es la vida de un atleta. Siempre tienes\nque saber cuándo rendirte, y escuchar a tu cuerpo\ncuando se trata de qué hacer después."
+    },
+    {
+      "name": "Espectador A",
+      "text": "Vi esa entrevista en línea, pero definitivamente\nla voy a extrañar si realmente decide retirarse.\nElla también lo estaba haciendo tan bien..."
+    },
+    {
+      "name": "???",
+      "text": "¡Oye, ustedes dos!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡¿No están olvidando a alguien?! Específicamente,\nInari One, la Umamusume que va a traer gloria a su\nciudad natal de Oi!",
+      "color_text_info_list": [
+        "Inari One"
+      ]
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Yeeeah, Inari! ¡Gana un montón de G1 el próximo\naño y haz que sea tu año!",
+      "color_text_info_list": [
+        "Inari"
+      ]
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Si le ganas tanto a Oguri como a Creek, serás la\nverdadera mejor de todos los tiempos!",
+      "color_text_info_list": [
+        "Oguri"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Por supuesto! Pero no solo animames desde detrás\nla pantalla! ¡Ven al hipódromo y mírame correr <i>en\nvivo!</i>"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Los enviaré a todos en un fuego de Edo! ¡Miren\ncómo tomo el mundo por asalto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El nuevo año llega, trayendo consigo una nueva\nera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incluso ahora, las fuertes Umamusume siguen\ntomando el escenario, y uno no puede evitar\npreguntarse quién será el que liderará la próxima\ngeneración."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Oye, Entrenador, ¿viste la entrevista de Tamamo en\nlínea?",
+      "choice_data_list": [
+        "Sí.",
+        "Sí."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Qué sorpresa, ¿verdad? El tiempo realmente no\nespera a nadie."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Simplemente sigue ticking hacia adelante... y todo\nsigue cambiando.",
+      "choice_data_list": [
+        "Pero tus sentimientos no han cambiado, ¿verdad?",
+        "Pero tus sentimientos no han cambiado, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡En absoluto! Son los mismos de siempre."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "De hecho, ¿por qué no ponemos nuestra motivación\nen piedra ahora mismo con una resolución de Año\nNuevo?!",
+      "choice_data_list": [
+        "¡La salud es lo primero! ¡Sin sobreentrenamiento\neste año!",
+        "¡Volvamos a lo básico y crezcamos aún más!",
+        "¡Es hora de aprender una nueva habilidad que le\ngane a todos!"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿A-¿aún estás enojado conmigo por entrenar en\nsecreto y por mi cuenta antes del Satsuki Sho?",
+      "choice_data_list": [
+        "¿Quién puede decirlo?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Urgh... Ya te dije que no lo volveré a hacer!\n¡Por favor, no me mires así!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Lo prometo! ¡Lo juro!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de un poco de charla y bromas, Sakura\nChiyono O y yo hacemos nuestros deseos para el\nnuevo año."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "<i>Haa... Haa...</i> Mmm..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Oh, este es el momento perfecto para sacar mis\nChiyonotas!",
+      "color_text_info_list": [
+        "Chiyonotas"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Jeje. Anoté todas mis fortalezas y debilidades de\nlas que me hablaste aquí."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Quieres ver mis debilidades?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Supongo que ya sabes cuáles son, pero. Jeje..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de un poco de charla y bromas, Sakura\nChiyono O y yo hacemos nuestros deseos para el\nnuevo año."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "<i>Haa... Haa...</i> Mmm..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Una nueva habilidad que pueda vencer a todos?\nHm..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Hi-yaaah!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Huaaah!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿C-cómo estuvo? Intenté dar lo mejor de mí como\nYaeno...",
+      "choice_data_list": [
+        "¿Supongo que estuvo bien?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Jaja... Eso es exactamente lo que Yaeno me dijo\ncuando me estaba enseñando defensa personal hace\nun tiempo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de un poco de charla y bromas, Sakura\nChiyono O y yo hacemos nuestros deseos para el\nnuevo año."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "<i>Haa... Haa...</i> Mmm..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Es ese el olor a takoyaki en el aire? Huelo la\nsalsa y los copos de bonito juntos...",
+      "choice_data_list": [
+        "¿Quieres echar un vistazo a los puestos de comida?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿¡Eh?! N-no, ¡está bien! No tengo hambre, así que\nno te preocupes por eso!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Más importante, apresurémonos y volvamos. ¡Estoy\nansiosa por correr!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "<i>Inspirar... Espirar... Inspirar...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Crujido...</i>"
+    },
+    {
+      "name": "Médico Jefe",
+      "text": "...Ardan. ¿Estás haciendo rehabilitación en\nsecreto y por tu cuenta otra vez?"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Lo siento. Solo quiero recuperarme."
+    },
+    {
+      "name": "Médico Jefe",
+      "text": "Lo entiendo, pero incluso si los ejercicios que\nestás haciendo son suaves, no te ayudarán a sanar\nmás rápido."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Lo... sé."
+    },
+    {
+      "name": "Médico Jefe",
+      "text": "Si es así, por favor escucha nuestro consejo sobre\ncómo recuperarte lo más rápido posible."
+    },
+    {
+      "name": "Médico Jefe",
+      "text": "Servimos a la familia Mejiro. Somos tus brazos,\npiernas y mente. No dudes en pedirnos ayuda."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Oh..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "De vuelta a la academia, Sakura Chiyono O se\ndetiene de repente.",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Nada! Solo estaba pensando... el hospital donde\nestán tratando a Ardan está bastante cerca de\naquí."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Crees que me vio correr? Debe haberlo hecho,\n¿verdad?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...No. No puedo simplemente asumir que me estaba\nviendo."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Tengo que correr lo suficientemente bien para que\nno tenga más remedio que notarme!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La motivación de Sakura Chiyono O se queda con\nella incluso después de volver a la academia."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Curren Chan no ha aparecido para el entrenamiento,\nasí que voy a buscarla."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Oye! ¡Hermano!",
+      "choice_data_list": [
+        "¡Ahí estás!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Oye! ¡Hermana!",
+      "choice_data_list": [
+        "¡Ahí estás!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Ehehe, ¡perdón! Tenía ganas de algo dulce."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Me siento un poquito cansada. A ti también te\npasa a veces, ¿verdad?"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Me siento un poquito cansada. A ti también te\npasa a veces, ¿verdad?"
+    },
+    {
+      "name": "Personal de café",
+      "text": "¡Aquí tienes! ¡Dos parfaits de fresa esponjosos!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Gracias! ♪ ¿Quieres uno, Hermano?"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Gracias! ♪ ¿Quieres uno, Hermana?"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "No sé si puedo comer dos por mi cuenta, pero no\nquiero desperdiciarlo... así que comámoslos\njuntos."
+    },
+    {
+      "text": "...No es como que el parfait haya hecho algo mal.\nLo acepto, pero aún así la regaño por saltarse el\nentrenamiento."
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Son las vacaciones."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y hoy, Maruzensky está organizando una fiesta para\nlas estudiantes más jóvenes."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Maruzen! ¡Muchas gracias por preparar una fiesta\ntan maravillosa!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Jej! ¿Te estás divirtiendo?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Total! No solo es divertido, ¡sino que la comida\ntambién está genial!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Tú no paras de comer, Spe! ¿No te preocupa el\nentrenamiento de mañana?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Está bien! ¡Desde que empezó la fiesta, ya me\nhabía resignado a mi destino!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "No veo cómo eso lo hace bien, pero bueno..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Oh, vamos, sería un desperdicio no divertirnos en\nuna fiesta!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Lo mejor es divertirse y comer todas las\ngolosinas que podamos! ¡Olvídate de lo demás!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Sí... ¡Tienes razón! Sería descortés contenerse."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Así que a comer, King! Podremos llorar en la\nbáscula mañana."
+    },
+    {
+      "name": "King Halo",
+      "text": "Sky, ¿estás segura de que tu idea de fiesta no se\nestá burlando de mí?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Jejeje, qué día tan maravilloso estamos teniendo.\n♪"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Muchas gracias por hoy, Maruzensky!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡No hay de qué! ♪ ¡Me alegra mucho que todos se\ndiviertan!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Verdad, Entrenador?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Verdad, Entrenador?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Unos días antes..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Gracias por ayudarme a cargar todo, Entrenador."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Gracias por ayudarme a cargar todo, Entrenador."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ahora estamos listos para armar la fiesta con las\nestudiantes más jóvenes."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Jej! ¡No puedo esperar a ver las caras felices de\ntodos!",
+      "choice_data_list": [
+        "Siempre eres tan considerada con las estudiantes\nmás nuevas.",
+        "Siempre eres tan considerada con las estudiantes\nmás nuevas."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Porque todas son tan adorables!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Solo quiero cuidarlas, ¿sabes? Quiero verlas\nfelices y saludables."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿No conoces el dicho? \"¡Hasta los niños traviesos\nmerecen crecer fuertes!\"",
+      "choice_data_list": [
+        "Creo que nunca había escuchado ese..."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Eh? Mi mamá lo dice todo el tiempo..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "De todos modos, ¡quiero recompensarlas a todas por\ntrabajar tanto este año!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Así que espero que me ayudes a llevarlo a cabo!",
+      "choice_data_list": [
+        "¡Claro, vamos a que sea increíble!",
+        "¡Claro, vamos a que sea increíble!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Sí! ¡Va a ser increíble!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Ehehe, ¡me alegra mucho divertirme con todos así!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Tú y tu entrenador son como nuestros Santa Claus!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Teejee, ¡así es!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Quería darles regalos a todas ustedes, buenas\nponyitas! ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Ahora vamos, festejemos a lo grande!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Okay! ¡Voy a comer hasta reventar!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Lo pasé genial! ♪ ¡Gracias por toda tu ayuda,\nEntrenador!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Lo pasé genial! ♪ ¡Gracias por toda tu ayuda,\nEntrenador!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Muy bien, ya repartí los regalos, así que ahora es\nhora de que Santa regrese al Polo Norte! ♪",
+      "choice_data_list": [
+        "¿No deberías recibir un regalo tú también?",
+        "¿No deberías recibir un regalo tú también?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Mientras todos estén felices, eso es todo lo que\nme importa!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Además, ¿parezco el tipo que se emociona por\nrecibir regalos?",
+      "choice_data_list": [
+        "¡Pero tú también te has portado bien, así que\nquiero darte algo!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Wow! ¿De verdad quieres darme un regalo,\nEntrenador?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Wow! ¿De verdad quieres darme un regalo,\nEntrenador?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Jej! Entonces supongo que eso te convierte en mi\nSanta Claus, ¿eh?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Jej! Entonces supongo que eso te convierte en mi\nSanta Claus, ¿eh?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Sería descortés no aceptar, así que supongo que te\ndejaré consentirme un poco!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ahora, ¿qué regalo me gustaría...? ¿Qué tal si\ndamos un paseo en coche?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, nuestra emocionante fiesta continúa."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Maruzensky, tú también te has portado bien,\n¿sabes!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Yo?"
+    },
+    {
+      "name": "Special Week",
+      "text": "Quiero decir, preparaste toda esta fiesta para\nnosotras, ¿verdad?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Por eso también quiero darte un regalo! ¿Qué te\ngustaría?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Está bien, de verdad! Soy la mayor aquí, así\nque...",
+      "choice_data_list": [
+        "Oh, vamos, solo acepta el regalo."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Bueno, si incluso tú lo dices..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Bueno, si incluso tú lo dices..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Ah, ya sé! ¿Qué tal si <i>yo</i> soy tu regalo?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Mi regalo es seguir siendo tu rival de carreras!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Y yo también seguiré corriendo contigo, igual que\nSpe! ♪"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡No es justo! ¡No puedo dejar que ustedes se\ndiviertan solas!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Yo también seré tu compañera de carreras,\nMaruzen!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Naturalmente, yo también aceptaré el desafío!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Así que a eso se refiere, ¿eh?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Bueno... Supongo que todas juntas podríamos hacer\nuna carrera de otro nivel..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Comenzando con Special Week, todas las estudiantes\nmás jóvenes se ofrecen a ser compañeras de\ncarreras de Maruzensky."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...Jeje, supongo que <i>todos</i> son mis Santa Claus,\nhoy!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Okay, acepto todos sus maravillosos regalos!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Así que vengan por mí, todos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así, la fiesta navideña termina con sonrisas por\ntodos lados."
+    }
+  ]
+}

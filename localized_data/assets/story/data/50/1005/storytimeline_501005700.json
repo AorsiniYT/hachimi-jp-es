@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Acabamos de volver del descanso y estoy programado\npara tener una reunión con Fuji Kiseki. Entro a mi\noficina para encontrar..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "<i>Zzz... Zzz...</i>"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ngh?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡E-Entrenador! ¡Solo estaba descansando mis ojos,\nlo juro!",
+      "choice_data_list": [
+        "No puedes mentirme. Estabas roncando."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "<i>Suspiro.</i> Lamento que hayas tenido que verme así."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Una de mis residentes estaba inconsolable con\nnostalgia anoche, así que me quedé a su lado hasta\nque se durmió... <i>Bostezo.</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Fuji Kiseki no debe haber dormido lo suficiente\npor eso. Se ve exhausta."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras camino por el campus..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Maldición! No puedo... ¡alcanzar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin está saltando repetidamente y\nagarrando un volante que quedó atrapado en una\nrama de un árbol."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué estás mirando? ¿No tienes cosas mejores que\nhacer que mirar a la gente como un raro?",
+      "choice_data_list": [
+        "¿Necesitas una mano?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Eh? ¿Te estás burlando de mí o algo? Esto lo\ntengo, así que déjame en paz.",
+      "choice_data_list": [
+        "¡Al menos déjame animarte!",
+        "Solo quiero ayudar.",
+        "Solo quiero ayudar."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Eh? ¿Te estás burlando de mí o algo? Esto lo\ntengo, así que déjame en paz.",
+      "choice_data_list": [
+        "¡Al menos déjame animarte!",
+        "Solo quiero ayudar.",
+        "Solo quiero ayudar."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Cállate! ¡No necesito nada de eso!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella rechaza cada oferta que hago, así que recurro\na vigilarla en secreto para asegurarme de que no\nse lastime."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Voy a conseguir esta cosa pase lo que pase!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gracias a su resistencia sin igual, Narita Taishin\ncontinúa saltando por el volante durante lo que\nparece una eternidad hasta que al fin..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡JA! ¡Te atrapé!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Hehe, victoria al fin. ¿Soy buena o qué?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esto solo demuestra que puedes alcanzar cualquier\nmeta mientras nunca te rindas."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Eres tan molesto! ¡Nunca te pedí ayuda, ¿verdad?",
+      "choice_data_list": [
+        "Pero..."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Ugh! ¡Lo que sea! ¡Bien!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No tengo energía para lidiar contigo. Si quieres\nayudar, ¡entonces apúrate y haz algo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Juntos, buscamos cosas en las que pararnos para\npoder bajar las ramas y alcanzar el volante."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Muy bien, debería poder alcanzarlo ahora... ¡Hup!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gracias a sus piernas poderosas, finalmente\npodemos bajar el volante."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ugh. Fue demasiado trabajo para lo que valía...\nPero..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Fuiste más útil de lo que pensé. Estaba seguro de\nque serías inútil."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hay tantas cosas que puedo aprender de la forma en\nque Narita Taishin utiliza su cuerpo,\nespecialmente su fuerza en las piernas."
+    }
+  ]
+}

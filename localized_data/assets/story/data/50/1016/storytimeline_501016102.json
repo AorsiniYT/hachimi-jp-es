@@ -1,0 +1,190 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Con otro año de experiencia, Narita Brian entrará\nen carreras como senior este año."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras estoy revisando el entrenamiento del año\npasado y planeando su nuevo horario..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Sshh...</i>",
+      "choice_data_list": [
+        "...¿Qué fue ese ruido?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que algo entró por la ventana. Miro en la\ndirección del sonido, y..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hmm. Supuse que estabas aquí ya que una de las\nventanas estaba abierta... Supongo que estaba en\nlo cierto."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Lanzar esa carta fue la elección correcta.",
+      "choice_data_list": [
+        "¿Qué estás haciendo aquí?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Estaba sentado bajo el kotatsu en el lugar de mis\npadres cuando tu rostro vino a mi mente..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Así que decidí pasar de camino a casa desde el\ngimnasio. Luego vi tu ventana abierta. Eso es\ntodo.",
+      "choice_data_list": [
+        "No entiendo..."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Vamos, no tenemos tiempo para esto. ¡Vámonos!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¡Está empezando!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Estamos aquí en la carrera de exhibición especial\nde Año Nuevo! Al llegar a la cuarta curva, los\ndieciséis corredores están agrupados!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¿Quién tomará el primer premio del Año Nuevo?\n¡Parece que alguien se está separando del grupo\nconstantemente!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Vamos! ¡Pásalos! ¡Sigue! ¡Tú puedes!",
+      "choice_data_list": [
+        "Una carrera en Año Nuevo..."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Qué? ¿No te gusta?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Mira al líder! Esa es una buena forma. Si sigue\nasí... ¡va a ganar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Jaja, justo como pensé."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Bueno, me voy a casa.",
+      "choice_data_list": [
+        "¿Ya?",
+        "¿Ya?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Fui al gimnasio y vi una carrera. Eso es todo lo\nque había planeado para hoy."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Si no me voy a casa pronto, mi mamá va a empezar a\nregañarme sobre cómo debería usar mi descanso de\nAño Nuevo para descansar."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Aún así, es afortunado que hayas estado por aquí\npara que pudiéramos ver la carrera juntos.",
+      "choice_data_list": [
+        "¿Afortunado, dices?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Sé que las clases y el entrenamiento comenzarán en\nunos días y nos veremos mucho, pero..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Por alguna razón, quería verte más pronto este\naño."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Feliz Año Nuevo.",
+      "choice_data_list": [
+        "¡Tú también!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Está bien.",
+      "choice_data_list": [
+        "Hoy fue un buen cambio de ritmo.",
+        "¡Espero que estés ansiosa por la primera sesión de\nentrenamiento del año!",
+        "Trabajaré duro para cumplir tus expectativas.",
+        "Trabajaré duro para cumplir tus expectativas."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Está bien.",
+      "choice_data_list": [
+        "Hoy fue un buen cambio de ritmo.",
+        "¡Espero que estés ansiosa por la primera sesión de\nentrenamiento del año!",
+        "Trabajaré duro para cumplir tus expectativas.",
+        "Trabajaré duro para cumplir tus expectativas."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿Es así?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Yo también me siento igual. De todos modos, nos\nvemos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Brian se dirige a la estación con un ligero\nbrinco en su paso."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Je, definitivamente lo estoy. No puedo equivocarme\ncon tu entrenamiento."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Quizás debería correr a casa para mantenerme en\nforma. Solo es sobre—",
+      "choice_data_list": [
+        "Esa probablemente no sea una buena idea."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hm. ¿Lo crees?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Brian promete a regañadientes esperar hasta\ndespués de las vacaciones de Año Nuevo para\ncomenzar su entrenamiento."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...No tienes que ser tan serio."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Pero, espero grandes cosas."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Después de todo, tú esperas lo mismo de mí,\n¿verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, terminamos viendo una carrera más\njuntos antes de ir a casa."
+    }
+  ]
+}

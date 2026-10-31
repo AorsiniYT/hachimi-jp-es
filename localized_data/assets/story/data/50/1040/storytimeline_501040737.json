@@ -1,0 +1,45 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gold City",
+      "text": "Otra derrota. <i>Suspiro...</i>"
+    },
+    {
+      "name": "Gold City",
+      "text": "Supongo que esto es lo que pasa cuando tu mente no\nestá puesta en ello."
+    },
+    {
+      "name": "Gold City",
+      "text": "Creo que he tenido suficiente. No puedo soportar\nmás humillación.",
+      "choice_data_list": [
+        "Creo que deberíamos seguir intentándolo.",
+        "No te vas a rendir aquí."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Deja de mirarme así. Eres demasiado intenso a\nveces, ¿lo sabías?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Cuando me miras tan decidido... ¿cómo voy a\nrechazarte?"
+    },
+    {
+      "name": "Gold City",
+      "text": "...!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Bueno, eres mi entrenador. Haz lo que quieras."
+    },
+    {
+      "name": "Gold City",
+      "text": "En serio, ¿qué estás pensando? Simplemente no lo\nentiendo."
+    }
+  ]
+}

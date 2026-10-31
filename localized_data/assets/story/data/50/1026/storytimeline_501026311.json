@@ -1,0 +1,297 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Y el ganador del Kikuka Sho es..."
+    },
+    {
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¡Misión... completa!"
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Gran carrera, Bourbon! ¡Hiciste que los Clásicos\nfueran absolutamente inolvidables este año!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Fuiste fantástico en cada una de las carreras de\nla Triple Corona Clásica! ¡Gracias por todo tu\ntrabajo duro!"
+    },
+    {
+      "text": "Mihono Bourbon se ve desconcertada por estas\namables palabras."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Pero yo..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "No pude obtener la Triple Corona."
+    },
+    {
+      "text": "Ella usualmente pone las opiniones de los demás\nantes que las suyas, pero debe estar\nverdaderamente perpleja, ya que se mantiene\nobstinada.",
+      "choice_data_list": [
+        "Siempre hay la próxima vez."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿La próxima vez?"
+    },
+    {
+      "text": "Nuestra meta no era solo ganar la Triple Corona,\nsino también hacer de Mihono Bourbon una corredora\nque inspire valor en los demás.",
+      "choice_data_list": [
+        "Abordemos el próximo Tenno Sho de primavera."
+      ]
+    },
+    {
+      "text": "Estoy positivo de que ella puede superar esa\ncarrera G1 de larga distancia de 3,200 metros en\nsu condición actual.",
+      "color_text_info_list": [
+        "G1"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "No tengo confianza en mi habilidad para inspirar\nvalor en las personas..."
+    },
+    {
+      "text": "La empujo a recordar cómo reaccionó la audiencia\ndespués de la carrera."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Reproduciendo registro de datos...",
+      "choice_data_list": [
+        "¿Y?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "No sé si estaban llenas de \"valor\", pero detecté\nvítores, palabras de aliento y muchas emociones\npositivas."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Como se esperaba, soy incapaz de comprender. No\ncumplí el sueño que declaré, entonces, ¿por qué\nreaccionaron tan positivamente?",
+      "choice_data_list": [
+        "Porque te ves poderosa cuando corres.",
+        "Porque te ves poderosa cuando corres."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Creo que estoy experimentando el fenómeno conocido\ncomo \"déjà vu\"."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Yo... fallé..."
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Gran carrera, Bourbon! ¡Fuiste tan genial ahí\nafuera!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Gracias por todo tu trabajo duro!"
+    },
+    {
+      "text": "Mihono Bourbon se ve desconcertada por estas\namables palabras."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Pero yo..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Quería ganar."
+    },
+    {
+      "text": "Ella usualmente pone las opiniones de los demás\nantes que las suyas, pero debe estar\nverdaderamente perpleja, ya que se mantiene\nobstinada.",
+      "choice_data_list": [
+        "Siempre hay la próxima vez."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿La próxima vez?"
+    },
+    {
+      "text": "Nuestra meta no era solo ganar la Triple Corona,\nsino también hacer de Mihono Bourbon una corredora\nque inspire valor en los demás.",
+      "choice_data_list": [
+        "Abordemos el próximo Tenno Sho de primavera."
+      ]
+    },
+    {
+      "text": "Estoy positivo de que ella puede superar esa\ncarrera G1 de larga distancia de 3,200 metros en\nsu condición actual.",
+      "color_text_info_list": [
+        "G1"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "No tengo confianza en mi habilidad para inspirar\nvalor en las personas..."
+    },
+    {
+      "text": "La empujo a recordar cómo reaccionó la audiencia\ndespués de la carrera.",
+      "choice_data_list": [
+        "¿Cómo se veían?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Reproduciendo registro de datos... Hubo algunas\nemociones negativas, pero también detecté vítores,\npalabras de aliento y muchas emociones positivas."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Soy incapaz de comprender sus reacciones. No gané,\nentonces, ¿por qué reaccionaron tan positivamente?",
+      "choice_data_list": [
+        "Porque te ves poderosa cuando corres.",
+        "Porque te ves poderosa cuando corres."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Creo que estoy experimentando el fenómeno conocido\ncomo \"déjà vu\"."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Siento tu fuerte \"voluntad\", Entrenador, así como\nlo hice en el campamento de verano. Sin embargo—",
+      "choice_data_list": [
+        "¡Sigamos haciendo lo mejor, juntos!"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "La verdad es que no puedo determinar si realmente\npuedo \"inspirar valor\" en los demás."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Sin embargo, si esa es una orden, entonces la veré\nhasta el final. Segunda orden reconocida."
+    },
+    {
+      "text": "Y así ponemos nuestra mirada en el Tenno Sho de\nprimavera.",
+      "color_text_info_list": [
+        "Tenno Sho de primavera"
+      ]
+    },
+    {
+      "text": "Justo cuando llegamos a la academia, Mihono\nBourbon se detiene de repente."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Ha ocurrido un error desconocido...",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "text": "Mirando confundida, se lleva una mano al pecho y\ncierra los ojos."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Estamos llegando a la cuarta curva del Kikuka\nSho, y Rice Shower se está acercando a la cabeza!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "(Su velocidad, su intensidad, su mirada, su\nrespiración—¿es este el \"espíritu\" de Rice?)"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "(...¿Por qué estoy tan interesada en Rice en medio\nde una carrera?)"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡AAAAH!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Las imágenes del Kikuka Sho se reproducen\nautomáticamente en mi mente. Puedo ver vívidamente\na Rice corriendo."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Acompañando esta imagen, detecto una sensación\n\"inquietante\" en lo profundo de mi pecho. ¿Qué es?",
+      "choice_data_list": [
+        "...?"
+      ]
+    },
+    {
+      "text": "Me alivia que ella no esté en algún tipo de dolor\nfísico. Aún así, no estoy segura de qué está\ncausando su malestar."
+    },
+    {
+      "text": "Es posible que ella esté sintiendo el peso de la\ndeterminación de Rice Shower y eso le esté\ncausando ansiedad."
+    },
+    {
+      "text": "De repente, un grupo de chicas de preparatoria con\nvoces agudas pasan caminando."
+    },
+    {
+      "name": "Chica de preparatoria A",
+      "text": "¡¿Lo viste?! ¡Mihono Bourbon estuvo tan cerca de\nganar el Kikuka Sho de este año!"
+    },
+    {
+      "name": "Estudiante de secundaria B",
+      "text": "¡Sí, lo vi! ¡Apesta que no lo logró, pero fue\nsuper increíble!"
+    },
+    {
+      "name": "Chica de preparatoria A",
+      "text": "Oye, ¿quién crees que ganaría en una carrera entre\nMihono Bourbon y Tokai Teio?"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Tokai... Teio..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Recurrencia de la sensación \"inquietante\"\nconfirmada.",
+      "choice_data_list": [
+        "¿Es posible que estés preocupada por Teio?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "No lo sé..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...?"
+    },
+    {
+      "text": "Ella se sujeta el pecho con una expresión\nperpleja.",
+      "choice_data_list": [
+        "(Es inusual que esté tan preocupada por otros\ncorredores...)"
+      ]
+    },
+    {
+      "text": "Las dos han sido comparadas una y otra vez, pero\nella nunca le ha prestado atención a Tokai Teio."
+    },
+    {
+      "text": "Y no es solo Tokai Teio—tiene la misma sensación\nen el pecho cuando piensa en Rice Shower."
+    },
+    {
+      "text": "Quizás esta es la verdadera naturaleza de la\nsensación \"inquietante\" que ha tenido desde el\nKikuka Sho. Tal vez ella está cambiando más de lo\nque me di cuenta."
+    },
+    {
+      "text": "Solo espero que no afecte negativamente su\nrendimiento en el Tenno Sho de primavera..."
+    }
+  ]
+}

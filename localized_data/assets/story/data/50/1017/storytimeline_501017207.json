@@ -1,0 +1,67 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Umamusume A",
+      "text": "E-entonces, ¡está bien! Supongo que te veré en la\npista!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "En efecto. Confío en que no te contengas."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Correcto! Um... ¡me voy, entonces!",
+      "choice_data_list": [
+        "¿Ella está corriendo contigo hoy?",
+        "¿Ella está corriendo contigo hoy?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "En efecto. Ella intentará correr los clásicos este\naño."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Su desempeño reciente ha sido un espectáculo para\nver. Y hasta vino personalmente a desearme buena\nsuerte."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Cuando era joven, solía saludar a las estudiantes\nmayores de la misma manera."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "En aquel entonces, practicar con mis mayores me\nayudó a lograr mayores éxitos."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ahora que soy la mayor, espero inspirar con el\nejemplo.",
+      "choice_data_list": [
+        "¿Estás segura de que no te estás volviendo\ndemasiado confiada?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Qué, estás preocupada de que me agarre por\nsorpresa?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Permíteme preguntarte, Entrenador, ¿crees que\nsubestimaría a un oponente solo porque fuera más\njoven?",
+      "choice_data_list": [
+        "No lo creo."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Entonces eso es todo lo que diremos al respecto."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Además, es el lugar de los fuertes enseñar a las\ncorredoras novatas el sabor de la derrota. Solo\nestoy cumpliendo con mi deber."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ahora, creo que es hora de que el Emperador se\nponga a trabajar."
+    }
+  ]
+}

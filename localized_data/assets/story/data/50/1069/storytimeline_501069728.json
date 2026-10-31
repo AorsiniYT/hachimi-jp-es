@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Eso fue increíble, Entrenador! ¿Estás seguro de\nque quieres dármelos a mí?",
+      "choice_data_list": [
+        "Por supuesto."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Gracias! ¡Atesoraré tu regalo para siempre!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Ay, ya somos como zanahorias en un macetero. ¡Te\nva a encantar mi compañera de cuarto Ardan!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Jeje! ¡Hagamos todo lo posible juntos de ahora en\nadelante!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Eso salió bastante bien!"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hishi Amazon aún no ha llegado al entrenamiento,\nasí que voy a buscarla..."
+    },
+    {
+      "name": "Estudiante Miho",
+      "text": "Um, Hishiama... Creo que eso es suficiente por\nahora..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Vamos, no puedes esperar que me retire de una\npelea. Una ronda más... ¡No voy a perder esta vez!",
+      "choice_data_list": [
+        "¿Qué estás haciendo?",
+        "¿Qué estás haciendo?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿No lo ves? ¡Estoy jugando a la vieja! Oye... ¿por\nqué no puedo ganar?",
+      "choice_data_list": [
+        "¿Qué hay del entrenamiento?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Huh? ¿Qué tiene que ver? ¿Por qué mencionas el\nentrenamiento de repente—"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Espera, ¡demonios!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Lo siento mucho, Profe! Me emocioné tanto, que\nolvidé por completo que teníamos entrenamiento\nhoy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hishi Amazon se ve lo suficientemente apenada, así\nque la dejo ir con un firme recordatorio de que\nsea más cuidadosa la próxima vez."
+    }
+  ]
+}

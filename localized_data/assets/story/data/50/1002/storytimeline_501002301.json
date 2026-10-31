@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Silence Suzuka",
+      "text": "Es difícil creer que el campamento de verano ya\nhaya terminado.",
+      "choice_data_list": [
+        "¿Crees que fue útil?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Hehe, creo que sí. Gracias a tu apoyo."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Estoy segura de que superaré mi pasado en el\nMainichi Okan y el Tenno Sho de otoño."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Estoy segura de eso."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Hehe. Solo porque el campamento de verano terminó,\nno significa que nuestro trabajo haya terminado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, mi último campamento de verano con Silence\nSuzuka llega a su fin."
+    }
+  ]
+}

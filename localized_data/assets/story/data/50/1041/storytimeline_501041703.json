@@ -1,0 +1,252 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "De vuelta después de pasar el día con Sakura\nBakushin O, me cuenta todo sobre una de sus\ncompañeras de clase."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Era la chica que se iba de la academia. La que\ndijo que quería dar lo mejor de sí en su última\ncarrera.",
+      "choice_data_list": [
+        "¿Su última carrera es mañana, verdad?",
+        "¿Su última carrera es mañana, verdad?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Sí! ¡Hicimos todo lo que pudimos! ¡Seguro que\nquedará en primer lugar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El día de la carrera, todas las compañeras de\nclase de Sakura Bakushin O se apresuran a verla.",
+      "choice_data_list": [
+        "¡Este es el momento!",
+        "¡Este es el momento!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Tú puedes! ¡Muéstranos tu mejor Bakushin!"
+    },
+    {
+      "name": "Umamusume Pecosa",
+      "text": "¡Sí! Bakushin, ¡BAKUSHIIIN! ¿Verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, cuando la carrera comienza, Sakura Bakushin\nO y los demás espectadores lanzan un inmenso grito\nde ánimo."
+    },
+    {
+      "name": "Compañera A",
+      "text": "¡Así es, así es! ¡Estás en la zona!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Así es! ¡Allá! ¡Muéstrales los frutos de tu\nentrenamiento!"
+    },
+    {
+      "name": "Umamusume Pecosa",
+      "text": "(Baku, todos... Muchas gracias)"
+    },
+    {
+      "name": "Umamusume Pecosa",
+      "text": "(¡Miren! Esto es mi...)"
+    },
+    {
+      "name": "Umamusume Pecosa",
+      "text": "¡PODER TOTAL BAKUSHIIIN!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La carrera finalmente termina y los resultados\nestán listos..."
+    },
+    {
+      "name": "Compañera B",
+      "text": "¡Quinta! ¡Quinta! ¡Logró quedar en quinta\nposición!"
+    },
+    {
+      "name": "Compañera C",
+      "text": "Jaja, ¡está saludando! ¡Se ve tan feliz!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "<i>¡Snif!</i>"
+    },
+    {
+      "name": "Compañera D",
+      "text": "¿Baku?",
+      "choice_data_list": [
+        "Disculpa, déjame hablar con ella a solas.",
+        "Disculpa, déjame hablar con ella a solas."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sakura Bakushin O está notablemente conmocionada\ndespués de ver los resultados, así que le tomo de\nla mano y la llevo a un lugar donde podamos hablar\nsin espectadores."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "<i>Snif...</i> ¡Mi poder no fue suficiente!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡A pesar de ser la representante de clase...! ¡A\npesar de decir que la ayudaría! ¡Ella aún no pudo\nquedar en primer lugar!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Esa fue su última carrera y sin embargo yo...",
+      "choice_data_list": [
+        "¡Pero se veía tan feliz!",
+        "¡Pero se veía tan feliz!",
+        "¡Anímate, representante de clase!",
+        "¡Anímate, representante de clase!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Esa fue su última carrera y sin embargo yo...",
+      "choice_data_list": [
+        "¡Pero se veía tan feliz!",
+        "¡Pero se veía tan feliz!",
+        "¡Anímate, representante de clase!",
+        "¡Anímate, representante de clase!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Eso... No puedo negarlo."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Tenía una expresión tan brillante y alegre en su\nrostro tanto al correr como al cruzar la línea de\nmeta.",
+      "choice_data_list": [
+        "Ella logró un resultado del que puede estar\norgullosa.",
+        "Ella logró un resultado del que puede estar\norgullosa."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "...Sí. Fui yo la que me enfoqué en que ella\nquedara en primer lugar."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Je, malinterpreté sus deseos. Soy una patética\nexcusa de representante de clase.",
+      "choice_data_list": [
+        "Sabes lo que necesitas hacer ahora, ¿verdad?",
+        "Sabes lo que necesitas hacer ahora, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Felicitarla por su éxito! ¡Sin duda, debería\ntomar la iniciativa!"
+    },
+    {
+      "name": "Umamusume Pecosa",
+      "text": "¡Ah, aquí estás, Baku!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "<i>¡Ah!</i>"
+    },
+    {
+      "name": "Umamusume Pecosa",
+      "text": "¡Esa fue la mejor posición en la que he estado!"
+    },
+    {
+      "name": "Umamusume Pecosa",
+      "text": "¡Todo gracias a ti y a tu entrenador...! ¡Esa fue\nla mejor carrera de todas!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "...!"
+    },
+    {
+      "name": "Umamusume Pecosa",
+      "text": "B-Baku..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Un abrazo por darlo todo! ¡Diste tu mejor\nBakushin ahí afuera!"
+    },
+    {
+      "name": "Umamusume Pecosa",
+      "text": "...Sí... ¡Sí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sakura Bakushin O y su compañera derraman lágrimas\nde alegría mientras se abrazan durante mucho\ntiempo."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿¡S-sí!?",
+      "choice_data_list": [
+        "Recuerda a lo que ella aspiraba.",
+        "Recuerda a lo que ella aspiraba."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Emmm, dijo que quería terminar con broche de oro y\nestar satisfecha con su última actuación.",
+      "choice_data_list": [
+        "¿Crees que no dio lo mejor hoy?",
+        "¿Crees que no dio lo mejor hoy?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡De ninguna manera! ¡Arriesgaría mi nombre como\nrepresentante de clase y refutaría tales\nafirmaciones con todo mi corazón!",
+      "choice_data_list": [
+        "Entonces, no importa si quedó primera o no."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "...Tienes razón. ¡Ella logró resultados loables!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Me siento un poco decepcionada... pero supongo que\nsentirse así es irrespetuoso para ella."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Volvamos a donde está! ¡Voy a llenarla de\nelogios!"
+    },
+    {
+      "name": "Umamusume Pecosa",
+      "text": "¡Ah, aquí estás, Baku!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "<i>¡Ah!</i>"
+    },
+    {
+      "name": "Umamusume Pecosa",
+      "text": "¡Esa fue la mejor posición en la que he estado!"
+    },
+    {
+      "name": "Umamusume Pecosa",
+      "text": "¡Todo gracias a ti y a tu entrenador...! ¡Esa fue\nla mejor carrera de todas!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "...!"
+    },
+    {
+      "name": "Umamusume Pecosa",
+      "text": "B-Baku..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Un abrazo por darlo todo! ¡Diste tu mejor\nBakushin ahí afuera!"
+    },
+    {
+      "name": "Umamusume Pecosa",
+      "text": "...Sí... ¡Sí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sakura Bakushin O y su compañera derraman lágrimas\nde alegría mientras se abrazan durante mucho\ntiempo."
+    }
+  ]
+}

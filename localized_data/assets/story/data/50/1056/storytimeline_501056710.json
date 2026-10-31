@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡No puedo creer que perdí! ¡Oh Shiraoki, por qué\nme abandonaste?!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Y si Shiraoki estaba dormido o algo? ¡No puedo\ntener un dios que se duerme en el trabajo!",
+      "choice_data_list": [
+        "Hagamos lo mejor la próxima vez.",
+        "Quizás tus habilidades están siendo puestas a\nprueba."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Nngh, está bien... Simplemente no fue mi día de\nsuerte, supongo. ¿Qué le vas a hacer?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "<i>Suspiro...</i> Solo espero que Shiraoki esté despierto\nla próxima vez."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Qué dices?! ¿Estás sugiriendo que el gran\nShiraoki quería ver cómo me desempeño sin la buena\nfortuna de mi lado?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Nooo! ¿Significa esto que lo he arruinado\ncompletamente?! ¡Shiraoki debe estar muy\ndecepcionado!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Necesito volver al camino! Definitivamente voy a\nquedar primero en la próxima carrera... ¡O al\nmenos segundo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con Matikanefukukitaru bajo presión, hacemos un\nvoto de salir victoriosos la próxima vez."
+    }
+  ]
+}

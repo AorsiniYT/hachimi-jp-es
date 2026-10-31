@@ -1,0 +1,123 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Mmm... ¡Mmhm!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Sí! ¡Lo puedo ver!",
+      "choice_data_list": [
+        "¿Ver qué?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Puedo verme corriendo a una velocidad como nunca\nantes, cargando por el Camino Bakushin!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Entrenador, hagamos Bakushin con entusiasmo!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Primero, ¿en qué carreras debo competir para\nprepararme para el Satsuki Sho?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Soy yo corriendo, así que debe ser un G1! ¿El\nAsahi Hai Futurity Stakes? ¿O quizás el Hanshin\nJuvenile Fillies!",
+      "choice_data_list": [
+        "(¡Ella está completamente decidida por las\ncarreras G1!)"
+      ],
+      "color_text_info_list": [
+        "Asahi Hai Futurity Stakes",
+        "Hanshin Juvenile Fillies"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella aún no tiene suficiente experiencia para\ndebutar en un G1. Por ahora, es mejor que compita\nen algo como...",
+      "choice_data_list": [
+        "Tengo una sugerencia."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Me gustaría escucharla!",
+      "choice_data_list": [
+        "¿Te gustaría intentar correr en el Keio Hai Junior\nStakes?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Hm..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Espera, 1,400 metros?!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Pero me gustaría hacer del Satsuki Sho mi primera\ncarrera Clásica! ¿No sería demasiado corta en\ncomparación?!",
+      "choice_data_list": [
+        "La mayoría de las carreras de primer año son de\ndistancia corta.",
+        "La mayoría de las carreras de primer año son de\ndistancia corta."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Honestamente, siento que incluso 1,400 metros\npodría ser demasiado largo para Sakura Bakushin\nO..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ugh! Pero, pero—",
+      "choice_data_list": [
+        "Como representante de clase, debes ejercer\nhumildad."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿¡Eh?! ¿Humildad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lanzarse de cabeza a carreras G1 podría parecer\ngenial, pero me preocupa que algunas personas\npodrían desmayarse de impacto si ven su velocidad."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Intento convencerla de que sería mejor primero\npresentarse en el Keio Hai Junior Stakes y\ngradualmente dejar que todos se acostumbren a su\nvelocidad...",
+      "choice_data_list": [
+        "¿No crees que es lo más amable?",
+        "¿No crees que es lo más amable?"
+      ],
+      "color_text_info_list": [
+        "Keio Hai Junior Stakes"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Creo..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Tienes razón!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Entendido. Entonces, para la próxima carrera, la\nmeta es ¡que el mundo en general sea testigo de mi\nvelocidad!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "En poco tiempo, la multitud se acostumbrará a\ncorear \"¡Whoa, qué rápido!\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "De una forma u otra, decidimos que nuestra próxima\ncarrera será el Keio Hai Junior Stakes!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Bakushin, BAKUSHIIIN!"
+    }
+  ]
+}

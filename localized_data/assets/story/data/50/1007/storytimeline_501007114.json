@@ -1,0 +1,234 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Gold Ship está lista para enfrentarse a Eishin\nFlash en el Arima Kinen..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Solo los mejores de los mejores se reúnen para\nesta carrera de Gran Premio. Uno ni siquiera puede\nesperar alcanzar la victoria sin entrenar duro\npara ello.",
+      "choice_data_list": [
+        "(¡Hoy es el momento de ponerse serio!)",
+        "(¡Hoy es el momento de ponerse serio!)"
+      ],
+      "color_text_info_list": [
+        "Gran Premio"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me animo mientras me dirijo a la oficina del\nentrenador, solo para ser distraído por el sonido\nde risas en una voz demasiado familiar."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Oh-hohohó!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "El elemento esencial para ser la mejor Umamusume\nde todas es simple. Y ese es: ¡belleza abrumadora!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Con mi incomparable hermosura, dominar la Semana\nde la Moda de París sería solo un juego!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Oh-hohohó! ¡Oooh-hohohohó!",
+      "choice_data_list": [
+        "¡Eh, detente ahí!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Persigo a Gold Ship con todas mis fuerzas."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Belleza! ¡Belleza! ¡Belleza!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Belleeza!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Allí, ¡eso es lo que yo llamo estética! Tendré al\nmundo entero enredado en un santiamén—"
+    },
+    {
+      "name": "???",
+      "text": "Qué sueños tan elevados tienes."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Quién es?"
+    },
+    {
+      "name": "???",
+      "text": "Sin embargo, te convendría guardar la charla de\n\"enredar al mundo\" hasta que puedas vencerme."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Tú!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡En efecto, soy yo! ¡La encarnación viviente de la\nbelleza! ¡El niño elegido agraciado con luz\ncelestial! ¡Nadie más que T―"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡T.M. Opera O!",
+      "color_text_info_list": [
+        "T.M. Opera O"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Guh! ¡Cómo te atreves a robarme mi gran\nintroducción!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Parece que también me convendría no subestimarte,\nGolshi."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Muy bien! ¡Aclaremos este asunto de una vez por\ntodas!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Hoy estableceremos cuya belleza es superior, y\nsobre quién la diosa matrona de nuestro arte\nsonríe con más favor!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Suena genial! ¡Hagámoslo!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Prepárate para quedar asombrado por el poder de\nmi belleza pulida con papel de lija!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Eh, ven aquí, Entrenador!",
+      "choice_data_list": [
+        "¿Y-yo?!",
+        "¿Y-yo?!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Tú serás el juez de este concurso de belleza. Y\n¡más te vale votar justamente!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gracias a la... muy firme sugerencia de Gold Ship,\nme encuentro sirviendo como árbitro de su batalla."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así comienza..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Muy bien, ¡a ver si intentas representar <i>esto!</i>Un\nsauce llorón bailando en la brisa en la cima de\nuna colina!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "<i>Fssshhh...</i> ¿Y?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "E-e eso no estuvo tan mal!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ahora, permíteme emitir tu desafío. ¡Blancas\nplumas bailando desde los cielos!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "<i>Fwahhh...</i> ¿Qué opinas?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ngh... Perfecto, como se esperaba."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Oh, solo estoy empezando. ¡Solo estoy usando un\ncuarto de mi fuerza ahora mismo!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Hmph! ¡Yo también! ¡Ahora, cuál es mi próximo\ndesafío?!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Una almeja de buen tamaño!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Una rosa solitaria floreciendo en el crepúsculo!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Un tallo de alga viviendo en el mundo moderno!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Un destello de relámpago azul desde más allá de\nlas nubes!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La acalorada batalla continúa..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "<i>Haa... Resuello...</i> Ngh..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Jeje, llevamos cuatro horas en esto..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "En efecto. Sin embargo, no ha surgido un vencedor\nclaro..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Aunque me disguste admitirlo, parece que no tengo\nmás opción que reconocer tu destreza."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Yo estaba pensando lo mismo."
+    },
+    {
+      "name": "Gold Ship y T.M. Opera O",
+      "text": "¡Tu nivel de poder es igual al mío! ¡Eres un\noponente digno!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Jeje, ¡deberíamos hacer esto de nuevo algún día!\n¡Entonces podremos zanjar esto de una vez por\ntodas!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡No sería de otra manera! ¡La victoria será mía en\nnuestra próxima batalla!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Buahahahaha!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ja ja ja ja ja!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, su competencia termina sin que yo tenga que\ndecir una palabra."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gold Ship vs. T.M. Opera O: ¡empate!\n(Continuará...)"
+    }
+  ]
+}

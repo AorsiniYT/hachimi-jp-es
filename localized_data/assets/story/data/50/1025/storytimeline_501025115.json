@@ -1,0 +1,181 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El sueño de Manhattan Cafe no es conquistar el\nJapanese Derby. Y sin embargo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esta oportunidad única en la vida es demasiado\ntentadora como para resistirse."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "<i>Haa... Haa...</i> Creo... que este tiempo por\nvuelta..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Podría ser... lo suficientemente bueno para el\nDerby. Si gano... Debería poder alcanzar a mi\namiga también...",
+      "choice_data_list": [
+        "¿Cómo te sientes físicamente?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Estoy bien... No diría que estoy en mi mejor\nforma, pero eso es normal para mí..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No estoy segura de si deberíamos inscribirnos en\nel Derby. Francamente, no será una decisión fácil\nde tomar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero si las dos nos aferramos a la esperanza,\nentonces tendremos una oportunidad. Podemos\nresolver los detalles un poco más tarde."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Me gustaría que me presionaras más. Por favor, sé\nun poco más exigente que la última vez...",
+      "choice_data_list": [
+        "Claro que sí..."
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No lo hagas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una voz tan afilada como una cuchilla atraviesa mi\nrespuesta."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Está perfectamente bien tener sueños no\ncientíficos, pero sería tonto darse cuenta de que\nson no científicos solo después de que hayan sido\naplastados."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No te diré que te mantengas alejada del Japanese\nDerby. Pero quizás deberías reducir un poco todo\nese perseguir sueños."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Cafe, no estás en condiciones de soportar un\nentrenamiento duro."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Tachyon. ¿Cómo... lo sabrías...?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...Oh, sé bastantes cosas. Desde que dejé las\ncarreras, he tenido mucho tiempo libre."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Y cómo paso mi tiempo libre? Exclusivamente\ninvestigándote. Es un gran ejercicio para matar el\ntiempo ¡desde la mañana hasta la mañana!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "La investigación muestra que debemos priorizar tu\nrecuperación, no agotarte. Necesitamos restaurar\ntu masa corporal."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Si realmente quieres un entrenamiento duro,\nentonces veamos cómo te va. Ahora mismo, sube tres\nrampas."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Te quedarás corta a cuatro séptimos de camino en\nla segunda rampa."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los resultados son como ella predijo. Manhattan\nCafe llega a la mitad de la segunda rampa antes de\nque sus piernas cedan."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Mira, te dije que esto pasaría."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No necesitas premonición para predecir resultados\ntan poco interesantes como este. Mala forma, en\nefecto."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Y solo para que lo sepas, este ejercicio también\nsirvió como una prueba. Si me hubiera equivocado,\nla apuesta de tu entrenador habría estado\njustificada."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Esto lo demuestra. No tiene sentido presionarnos\ntratando de ganar el Japanese Derby. El sueño\nnecesita una dosis de realidad."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Después de todo, somos un equipo de raros. Todos\nestamos locos, así que dejemos de intentar actuar\ncon normalidad."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "¿Crees que soy \"loca\"? Quizás, pero..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Tú estás mucho más... allá afuera..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Je-je, jajaja! ¡No discutiré eso! Oh, parece que\ntu ceño está un poco más cerca de estar al revés!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ahora, estoy segura de que ambos estarán de\nacuerdo en que ahora no es el momento de apresurar\nlas cosas."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Esto no significa que esté sugiriendo que\ncambiemos por completo nuestro enfoque. En\ncambio..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Solo he introducido la verdad en la ecuación.\n¿Verdad, Entrenador?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Presionada para tomar una decisión, me vuelvo\nhacia Manhattan Cafe.",
+      "choice_data_list": [
+        "...¿Qué opinas?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Bueno... Relajarnos... podría hacernos algo de\nbien... quizás..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si Manhattan Cafe está de acuerdo con la idea...",
+      "choice_data_list": [
+        "Está bien. Lo consideraré cuidadosamente."
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Je-je, una decisión sabia. Aunque, estoy segura de\nque tú ya sabías todo esto de todos modos. Así\ncomo yo sabía que tú lo sabrías."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Entrenador... Tomemos las cosas con más calma, por\nahora al menos...",
+      "choice_data_list": [
+        "...Sí.",
+        "...Sí."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con Agnes Tachyon involucrada, podemos tomar\ndecisiones difíciles con mayor veracidad. Esto\ndebería ayudarnos mucho cuando llegue el otoño."
+    }
+  ]
+}

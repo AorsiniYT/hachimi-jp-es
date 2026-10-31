@@ -1,0 +1,72 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una tarde, mientras tomo un descanso en el\nhipódromo..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oye. ¿Tienes un minuto?",
+      "choice_data_list": [
+        "Claro."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Así que una Uma Musume más joven se acercó a mí\nmuy en serio y me pidió consejos sobre cómo correr\nmás rápido."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hubiera sido fácil y sencillo si todo lo que\nquería era un enfoque basado en el instinto, pero\nen realidad quería información basada en la\nlógica."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Pero no soy un entrenador... Tengo la sensación de\nque dar es tipo de consejos sería bastante falso,\n¿sabes? Como que sería muy irresponsable."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Pero ya que ella reunió el valor para pedir mi\nconsejo, quiero ayudarla lo mejor que pueda."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Por eso pensé en preguntarte qué tipo de consejo\nle habrías dado ya que eres un profesional y todo.",
+      "choice_data_list": [
+        "Enséñale a usar sus rodillas correctamente.",
+        "Trabaja en mejorar su resistencia base."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Ohhh, me gusta! ¡Así que todo está en las\nrodillas! ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Tienes razón. Cómo usas el poder en tus rodillas\nes realmente importante, especialmente al\nprincipio!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Genial. Todo me está quedando claro ahora. ¡Eso es\nlo máximo! ¡Gracias! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Maruzensky pasa el resto del día enseñando\napasionadamente a la Uma Musume más joven al otro\nlado de la pista."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Ohhh, genial! ¡Resistencia base!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Tienes razón. Todo se reduce a cuánta energía\ntiene en primer lugar. Ahí podría estar su\nproblema."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Sí, creo que ahora puedo darle algunos buenos\nconsejos! ¡Rock on! ¡Gracias! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Maruzensky pasa el resto del día ayudando a la Uma\nMusume más joven a entrenar al otro lado de la\npista."
+    }
+  ]
+}

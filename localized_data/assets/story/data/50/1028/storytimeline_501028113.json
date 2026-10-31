@@ -1,0 +1,394 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Hishi Akebono",
+      "text": "Raaaaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ha pasado un año desde que cambiamos el\nentrenamiento de Hishi Akebono para enfocarnos\nprincipalmente en el aumento de masa muscular."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ahora, sus músculos son lo suficientemente fuertes\npara que ella aproveche al máximo su imponente\nfísico.",
+      "choice_data_list": [
+        "Creo que es hora de que entremos en una carrera\nmás grande."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No hay duda de que podrá desatar todo su potencial\nen la pista ahora."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿En serio? ¡Genial! ¿En qué carrera debería\ncorrer, entonces?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No será un desafío fácil para ella, pero debemos\naprovechar el momento y aceptar una carrera G1.",
+      "choice_data_list": [
+        "¿Qué tal el Sprinters Stakes?"
+      ],
+      "color_text_info_list": [
+        "G1"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Oh! Esa es una carrera de velocidad que ocurre en\nun escenario bastante grande, ¿verdad? Biko me\ndijo que va a correr en esa."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Me encantaría participar! ¡Ooh, esto es tan\nexcitante! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Luego, unos días después de que nuestros\nengranajes están en marcha para el Sprinters S..."
+    },
+    {
+      "name": "Reportera A",
+      "text": "E-¡disculpe! Lamento molestarlo justo después de\nque terminó su entrenamiento, pero quedé tan\nimpresionado con su carrera!"
+    },
+    {
+      "name": "Reportera A",
+      "text": "¿Eres Hishi Akebono, correcto?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un reportero escribiendo un artículo sobre Tracen\nAcademy se acerca a Hishi Akebono."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Interesante! Así que como una velocista de los\naltos niveles de las carreras, ¡finalmente estás\nhaciendo tu movimiento!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Hehe! ¡Seguro que sí! \"Echelons\" suena muy\ngenial."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¿Es seguro asumir que te enfrentarás a Biko\nPegasus durante este gran avance de ella?"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Hmm, buena pregunta. ¡Sería muy bueno si puedo\ncorrer contra ella mucho! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus respuestas hacen que el reportero se detenga\nen sorpresa por un segundo."
+    },
+    {
+      "name": "Reportera A",
+      "text": "Bueno, parece que el frente de batalla para\nvelocistas está a punto de volverse mucho más\ninteresante!"
+    },
+    {
+      "name": "Reportera A",
+      "text": "Um, ¿puedo tener su permiso para citar lo que\nacaba de decir en mi artículo?"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Adelante!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El artículo en línea se publica al día siguiente y\ntiene tanto éxito que los reporteros hacen fila\npara entrevistar a Hishi Akebono durante varios\ndías seguidos después."
+    },
+    {
+      "name": "Locutor A",
+      "text": "La decisión de Hishi Akebono de unirse al\nSprinters S. ha estado generando mucha atención.",
+      "color_text_info_list": [
+        "Sprinters S."
+      ]
+    },
+    {
+      "name": "Locutor A",
+      "text": "Considerando su altura, velocidad y poder puro en\nla pista, muchos pueden encontrar sorprendente a\nquién ella ve como su rival!"
+    },
+    {
+      "name": "Locutor A",
+      "text": "Y esa no es otra que Biko Pegasus, una pequeña\nbola de fuego que corre con precisión de navaja y\ntiene una increíble aceleración!"
+    },
+    {
+      "name": "Locutor A",
+      "text": "¡De hecho, hay una diferencia de altura de treinta\ny seis centímetros entre ellas! ¡Seguro que será\nuna carrera emocionante!"
+    },
+    {
+      "name": "Comentarista A",
+      "text": "Ciertamente. Un enfrentamiento entre dos atletas\ncon una disparidad de altura tan drástica casi\nnunca ocurre en otros deportes."
+    },
+    {
+      "name": "Comentarista A",
+      "text": "Eso es lo que hace que la Twinkle Series sea tan\ndivertida de ver. Realmente estoy ansioso por esta\ntambién."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ooh, esto es bastante significativo, ¿eh?\n¡Definitivamente no puedo relajarme ahora!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero justo después de eso, la conversación toma un\ngiro repentino."
+    },
+    {
+      "name": "Comentarista A",
+      "text": "Tengo que decir, dado que una es tan alta y la\notra tan baja, será bastante divertido verlas\nparadas una al lado de la otra."
+    },
+    {
+      "name": "Locutor A",
+      "text": "Eso es verdad. Creo que será muy visualmente\nimpactante y bastante encantador ver a este par\ndesigual juntas!"
+    },
+    {
+      "name": "Comentarista A",
+      "text": "Estoy de acuerdo. Solo tengo la sensación de que\nserán un éxito con los niños, si me entiendes.",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Internet explota con comentarios después de esa\ntransmisión, y de repente, todos están hablando\nsobre la diferencia de altura de las dos\ncorredoras."
+    },
+    {
+      "name": "Social Media",
+      "text": "Sí que hace una imagen graciosa. ¿Incluso puedes\nllamar a eso una carrera legítima entre ellas?\nIjbol Creo que iré solo para tomarles fotos.\njajaja",
+      "choice_data_list": [
+        "(La están tratando como un espectáculo\ncircense...)"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Hm? ¿Qué pasa, Entrenador? Te ves realmente\nmolesto por algo.",
+      "choice_data_list": [
+        "¡Oh!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Intentaba no mostrar mi preocupación, pero parece\nque mi cara de póker necesita trabajo."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Oh, ¿tienes hambre, quizás? ¡Puedo preparar\nalgunos snacks buono si quieres!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Hay algunas zanahorias en el refrigerador, así que\npuedo hacerte chips de zanahoria!",
+      "choice_data_list": [
+        "Bueno..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si evado su pregunta, solo se preocupará aún más,\nasí que se lo digo directamente y le digo lo que\nme preocupa."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ajá, ya veo..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Entonces la gente piensa que será gracioso verme\na mí y a Biko correr porque soy tan grande y ella\nes tan pequeña?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin importar cómo se vean externamente, en su\nnúcleo, ambas son atletas que están tomando sus\ncarreras en serio y persiguiendo sus sueños.",
+      "choice_data_list": [
+        "Quiero que la gente te tome a ti y a tus carreras\nen serio."
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Aww. Me alegra que te sientas así, Entrenador."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Pero, sabes, creo que soy afortunada de que los\nfans quieran venir a verme."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Quizás solo vienen porque piensan que mi carrera\ncon Biko suena interesante y divertida..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Pero sería genial si aprendieran a amar de verdad\nlas carreras después de vernos correr!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "No es cualquier persona corriendo—somos yo y Biko,\nasí que estoy segura de que todos saldrán\nsintiéndose llenos y satisfechos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hishi Akebono parece tan segura de sí misma. Tiene\nla vista firmemente puesta en el futuro, y sus\nojos ni siquiera tienen una sombra de duda."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si ella es tan resuelta, entonces como su\nentrenador, yo debería serlo aún más.",
+      "choice_data_list": [
+        "Lo siento..."
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Eh? ¿Por qué? ¿Qué pasa?",
+      "choice_data_list": [
+        "¡Mostrémosle a todos una carrera que nunca\nolvidarán!"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Sí! ¡Hagamos lo mejor que podamos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Unos días después, Hishi Akebono y Biko Pegasus\nestán corriendo en pareja."
+    },
+    {
+      "name": "Bono y Biko",
+      "text": "Raaah!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "<i>Suspiro...</i> Perdí al final... Has estado aún más\nrápida, Biko."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡No soy la única! Apenas pude adelantarte, ¡ya que\nibas tan rápido!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de esa sesión de entrenamiento\nparticularmente animada..."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡¿Qué?! ¿Dijiste Carrot Ranger?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Resulta que el héroe favorito de Biko Pegasus está\nhaciendo un espectáculo en el distrito comercial,\nasí que todos corremos a verlo."
+    },
+    {
+      "name": "Guardabosques de Zanahoria",
+      "text": "¡Gracias por venir hoy! Espero que sigan\nanimándome, ¡todos!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡S-sí!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Um... ¡Disculpe! Carrot Ranger? ¡Quiero\nconvertirme en un héroe como tú!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "En este momento, estoy poniendo mi corazón y alma\nen las carreras... Cuando las cosas no me van\nbien, yo recuerdo lo que significa ser un héroe..."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Y eso siempre me llena de energía y motivación de\nnuevo!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Lo que quiero decir es... ¡Espero que nunca te\nrindas en la lucha!"
+    },
+    {
+      "name": "Guardabosques de Zanahoria",
+      "text": "¡Jaja! ¡Gracias! ¡Nunca olvidaré tus amables\npalabras!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Carrot Ranger fue tan genial! ¿Verdad, Biko?"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Biko?"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¿Eh? ¡Oh! Um, yo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Biko Pegasus mira a Hishi Akebono con un fuego\nrenovado en sus ojos."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Escucha, Bono. Realmente, <i>realmente</i> quiero irme\nbien en las carreras!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¿Sabes cuál es mi sueño, ¿verdad?"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Por supuesto. ¡Me lo has dicho todos los días\ndesde que entramos a Tracen!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Sueñas con llenar a todos de valor como lo hace\nun héroe a través de tus carreras, verdad?"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Así es! Excepto... ¡Ni siquiera he ganado una\nsola carrera G1!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Por eso estoy tan feliz de poder correr a tu\nlado!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Carrot Ranger se volvió fuerte gracias a su rival.\nY de la misma manera, siento que puedo esforzarme\naún más mientras estés conmigo."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Biko..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Hehe! ¡Para mí también es igual! Me siento tan\nfuerte y capaz cuando corro contigo!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Saber que siempre estás tan cerca de adelantarme\nrealmente me lleva a mis límites porque no quiero\nque me pases!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Por eso voy a ponerme aún más fuerte en\npreparación para el Sprinters S."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Haré que gane seguro allí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Hishi Akebono y Biko Pegasus se han\nconvertido en catalizadores motivadores del\ncrecimiento del otro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Discuten cada vez que se ven y siempre están\nintentando alcanzar al otro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su vínculo no es fácil de ver, pero ambas se están\nempujando a mayores alturas a su manera.",
+      "choice_data_list": [
+        "Ustedes dos son grandes rivales la una para la\notra.",
+        "Ustedes dos son grandes rivales la una para la\notra."
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Rivales, eh?"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Jaja! ¡Sí, tienes razón! ¡Biko y yo somos\nrivales!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las dos se ponen a trabajar, preparándose para su\nenfrentamiento en el Sprinters S."
+    }
+  ]
+}

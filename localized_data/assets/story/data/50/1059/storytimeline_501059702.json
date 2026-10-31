@@ -1,0 +1,276 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Voy camino a casa con Mejiro Dober después de\nrevisar las tiendas alrededor de la estación\ncuando..."
+    },
+    {
+      "name": "Niña A",
+      "text": "Oye, papá? ¿Podemos pasar por el festival del\nsantuario de camino a casa? ¿Por fa?"
+    },
+    {
+      "name": "Padre de la chica",
+      "text": "Muy bien, pero solo nos quedaremos un rato."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Eh. No sabía que había un festival hoy.",
+      "choice_data_list": [
+        "¿Te gustaría ir a echar un vistazo?"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡¿Qué?! N-no... ¡Nunca dije que quisiera!",
+      "choice_data_list": [
+        "Bueno, <i>me gustaría</i> echarle un vistazo, así que\nvámonos.",
+        "Bueno, <i>me gustaría</i> echarle un vistazo, así que\nvámonos."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "No, está bien. Solo que no sabía que estaba\nocurriendo.",
+      "choice_data_list": [
+        "Bueno, <i>me gustaría</i> echarle un vistazo, así que\nvámonos.",
+        "Bueno, <i>me gustaría</i> echarle un vistazo, así que\nvámonos."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿Qué? P-pero..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿Qué? P-pero..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Caray. Eres tan insistente..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "<i>Suspiro...</i> Vale. Pero solo un rato."
+    },
+    {
+      "name": "???",
+      "text": "¿Berry? ¿Eres tú?"
+    },
+    {
+      "name": "???",
+      "text": "¿Berry? ¿Eres tú?"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿¿P-papá?! ¿Qué haces aquí?!"
+    },
+    {
+      "name": "Padre de Dober",
+      "text": "Estoy aquí en un viaje de negocios. Iba justo a\nverte, Berry!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡Ugh! Ya no soy una niña, así que deja de llamarme\nasí!"
+    },
+    {
+      "name": "Padre de Dober",
+      "text": "Jaja, por supuesto. Una niña no podría estar\ntrabajando tan duro en la Academia Tracen."
+    },
+    {
+      "name": "Padre de Dober",
+      "text": "Debes ser su entrenador. Gracias por siempre\ncuidar de mi hija. He escuchado mucho sobre ti."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "N-no es como si hablara de ti todo el tiempo. Solo\nlo mantengo actualizado sobre cómo van las cosas."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Bueno... Realmente no puedo contarle cómo van las\ncosas sin mencionarte."
+    },
+    {
+      "name": "Padre de Dober",
+      "text": "Dober dice que realmente aprecia todo lo que haces\npor ella. ¡Sigue con el buen trabajo!"
+    },
+    {
+      "name": "Padre de Dober",
+      "text": "Dober dice que realmente aprecia todo lo que haces\npor ella. ¡Sigue con el buen trabajo!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡E-ey! ¡Ya basta!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Deja de ser un entrometido, papá. Puedo\nagradecerle yo misma."
+    },
+    {
+      "name": "Padre de Dober",
+      "text": "Un festival, eh? Trae recuerdos... Recuerdo\nllevarte a uno cuando eras pequeña."
+    },
+    {
+      "name": "Padre de Dober",
+      "text": "Un festival, eh? Trae recuerdos... Recuerdo\nllevarte a uno cuando eras pequeña."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Eso fue hace siglos."
+    },
+    {
+      "name": "Padre de Dober",
+      "text": "Al final del festival, lanzaron los fuegos\nartificiales, y reaccionaste de la manera más\ndulce."
+    },
+    {
+      "name": "Dober joven",
+      "text": "¡Guau! ¡Mira todas las estrellas fugaces! Tengo\nque darme prisa y pedir un deseo antes de que se\nvayan!"
+    },
+    {
+      "name": "Padre de Dober",
+      "text": "¡Jaja! Esas no son estrellas fugaces, cariño. Se\nllaman fuegos artificiales."
+    },
+    {
+      "name": "Dober joven",
+      "text": "¡¿Qué?! No way, ¡definitivamente son estrellas\nfugaces! ¡Van a hacer que mi deseo se cumpla!"
+    },
+    {
+      "name": "Dober joven",
+      "text": "Luz de estrella, estrella brillante, deseo\nconvertirme en una corredora grande y fuerte que\npueda ganar cualquier carrera!"
+    },
+    {
+      "name": "Padre de Dober",
+      "text": "Así es como lo recuerdo.",
+      "choice_data_list": [
+        "Ay..."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿Qué es esa mirada en tu cara? ¡Bórrala en este\ninstante!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "N-no te rías de mí. Ahora sé la diferencia entre\nellos."
+    },
+    {
+      "name": "Padre de Dober",
+      "text": "Jaja. Solo me alegra que estés bien. Desde que\ncomenzaste a competir, he estado preocupado de que\nte hayas estado esforzando demasiado."
+    },
+    {
+      "name": "Padre de Dober",
+      "text": "Jaja. Solo me alegra que estés bien. Desde que\ncomenzaste a competir, he estado preocupado de que\nte hayas estado esforzando demasiado."
+    },
+    {
+      "name": "Padre de Dober",
+      "text": "Bueno, ojalá pudiera quedarme más tiempo, pero\ntengo que irme. Nos vemos luego, Berry."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡Papá! ¿Cuántas veces tengo que decirte que te\ndetengas... Ugh, no importa. Adiós, papá."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "<i>Suspiro.</i> Pensé que había crecido después de\nempezar a competir en serio..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Pero si aún lo hago preocuparse, debe significar\nque tengo un largo camino por recorrer.",
+      "choice_data_list": [
+        "Oye, no hay necesidad de desanimarse por eso."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡N-no estoy! Esto no tiene nada que ver contigo de\ntodos modos!",
+      "choice_data_list": [
+        "Trabajemos aún más duro para mostrarle lo grande\nque te has vuelto.",
+        "Tu papá ya está orgulloso de ti."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Lo sé... Pero aún me molesta.",
+      "choice_data_list": [
+        "Trabajemos aún más duro para mostrarle lo grande\nque te has vuelto.",
+        "Tu papá ya está orgulloso de ti."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Aún más duro...",
+      "choice_data_list": [
+        "¡Lo suficiente duro para liberarlo de sus\npreocupaciones!"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Aún más duro...",
+      "choice_data_list": [
+        "¡Lo suficiente duro para liberarlo de sus\npreocupaciones!"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡No necesito que me des un discurso motivacional!\nVoy a ganar todas mis carreras y hacerme un\nnombre!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Tienes razón. En lugar de sentarme y estar\ntriste por eso, necesito hacer algo."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Y lo voy a hacer creciendo más rápido, más\nfuerte."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Voy a crecer más rápido y más\nfuerte—suficientemente fuerte para mantener la\ncabeza alta por mi papá!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La determinación de Mejiro Dober brilla\nintensamente en su intensa mirada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La determinación de Mejiro Dober brilla\nintensamente en su intensa mirada."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿Eh? ¿Y cómo podrías saber eso?",
+      "choice_data_list": [
+        "Podía ver lo importante que eres para él.",
+        "Podía ver lo importante que eres para él."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...¿Cómo puedes saber? No eres él.",
+      "choice_data_list": [
+        "Podía ver lo importante que eres para él.",
+        "Podía ver lo importante que eres para él."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Para él, aún soy su niñita. Siempre ha sido\nsobreprotector, siempre preocupado por cada\npequeñez—"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Oh... Entonces entiendes cómo me siento, ¿verdad?\nDuele porque sé cuánto me ama. No quiero hacerlo\npreocupar todo el tiempo."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "<i>Suspiro.</i> Tal vez si me vuelvo más fuerte, él verá\nque puedo valerme por mí misma."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Por eso necesito crecer más rápido y ser más\nfuerte—suficientemente fuerte para mantener la\ncabeza alta por mi papá!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque actúa molesta con su padre, su\ndeterminación para crecer como corredora es\nsincera y firme."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La determinación de Mejiro Dober brilla\nintensamente en su mirada intensa."
+    }
+  ]
+}

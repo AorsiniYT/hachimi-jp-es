@@ -1,0 +1,440 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy es el Festival de Fans de Primavera—un evento\nenorme donde la Academia Tracen abre sus puertas a\nfans de todas las edades. Este año, sin embargo...",
+      "color_text_info_list": [
+        "Academia Tracen"
+      ]
+    },
+    {
+      "name": "Niña",
+      "text": "Mamá, ¿crees que podré ver a Oguri de cerca?"
+    },
+    {
+      "name": "Fan Femenina",
+      "text": "Oh, ¡no te preocupes! <i>Es</i> muy lleno, pero estoy\nsegura de que podremos ver a Oguri!"
+    },
+    {
+      "name": "Fan Masculino",
+      "text": "Espera, ¿qué? El evento de Oguri no es hasta más\ntarde? Así que salí corriendo de la casa para\nnada... Aún así, ¡no puedo esperar!"
+    },
+    {
+      "name": "Fan Masculino",
+      "text": "Hombre, está llenísimo, sin embargo. ¿<i>Todos</i> están\naquí para ver a Oguri? Es tan ridículamente\npopular."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El evento está inundado de fans de Oguri Cap,\nansiosos por verla!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "La atmósfera del Festival de Fans es\nverdaderamente asombrosa. Yo supongo que eso es\nOguri para ti..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...",
+      "choice_data_list": [
+        "...¿Todo bien?",
+        "...¿Todo bien?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Ver a todos estos fans jubilosos tan\nemocionados por conocer a Oguri me ha hecho\npreguntarme."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Cómo exactamente... debería estar interactuando\ncon los fans?"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Siempre me he enfocado en reclamar la victoria\nsobre mis rivales y dar en cada carrera todo lo\nque tengo para que la gente pueda recordar la yo\nde ese momento."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Mi propia luz brilla cada vez más a medida que\nobtengo más y más experiencia compitiendo contra\nmis preciosos rivales, y esa luz ha formado un\nsendero irrefutable detrás de mí..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Con todo el enfoque que he dirigido a otra parte,\nsin embargo, creo que se podría decir que no he\ndedicado mucha atención a los fans."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Por supuesto, he vertido mi corazón y alma en mis\nconciertos ganadores, para expresar mi gratitud a\nlos fans que vienen a ver mis carreras."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Pero entonces, como una Umamusume que vive para\ncorrer, eso es solo cuestión de curso. ¿Hubo más\nque podría haber hecho por ellos?"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "No puedo evitar preguntármelo."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Ves, en realidad estoy programada para\nparticipar en un evento con Oguri más tarde hoy."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "La noción de correr contra ella no me asusta en\nabsoluto. Y sin embargo..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "El pensamiento de enfrentar a tantos fans, y\nentretenerlos junto a ella... Bueno, ese es un\nasunto diferente."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "No estoy segura de cómo abordar el evento, y debo\nadmitir que me está poniendo algo ansiosa.",
+      "choice_data_list": [
+        "¿Por qué no imaginarlo como una carrera?",
+        "¿Por qué no imaginarlo como una carrera?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Oh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Ardan pone todo lo que tiene en cada\ncarrera, y creo que esa devoción es exactamente lo\nque sus fans adoran."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si se compromete con este evento del Festival de\nFans de la misma manera que se compromete con sus\ncarreras, entonces sus fans obtendrán exactamente\nlo que vinieron a ver.",
+      "choice_data_list": [
+        "Dalo todo y los fans te amarán.",
+        "Dalo todo y los fans te amarán."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...¿Estás segura?",
+      "choice_data_list": [
+        "Lo estoy, así que sal ahí y deja a esos fans\nboquiabiertos."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...¡Jeje! Tu elección de palabras es tan\nentretenida como siempre, Entrenador... y\nreconfortante, también."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡La espera terminó! Nuestra siguiente \"Carrera de\nImprovisación\" será entre..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Oguri Cap y Mejiro Ardan! ¡Bajen ya!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Espero con ansias nuestra competencia."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Igual. Buena suerte."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Listo! Como siempre, después de darles\nindicaciones a nuestras concursantes, deberán dar\nla respuesta más graciosa y tú, los fans,\ndecidirás la ganadora."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Sus anfitriones seré yo—Super Creek—y Tamtam, a\nquien conocen como Tamamo Cross!",
+      "color_text_info_list": [
+        "Super Creek"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Qué demonios es esta alineación, though?! Estas\nchicas son tan obtusas que ni siquiera pueden\n<i>entender</i> los chistes, y mucho menos ¡hacerlos!\nMe voy a convertir en un esqueleto esperando."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Ay, pero Oguri y Ardan son tan honestas e\ninocentes, unas monadas. ¡Me calienta el corazón\nsolo con verlas!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡¿Ves?! ¡Esto es exactamente a lo que me refiero!\nCreek ni siquiera se da cuenta de que es una de\nlas despistadas.",
+      "color_text_info_list": [
+        "Creek"
+      ]
+    },
+    {
+      "name": "Público",
+      "text": "¡Buajahaha!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Tama realmente es algo. Puede entretener a todos\ntan fácilmente...",
+      "color_text_info_list": [
+        "Tama"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(Preguntas improvisadas... Nunca lo hice, pero <i>es</i>\nuna batalla de ingenio con juegos de palabras\nrápidos... así que no es tan distinto a correr!)"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Muy bien, empecemos con la primera consigna!\n\"Tamtam casi se tropieza con sus propios pies\nsaliendo a toda prisa del dormitorio esta mañana.\n¿Por qué?\""
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Espera, ¡¿por qué la consigna es sobre mí?!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Yo!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(¡Eso fue muy rápido!)"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Oguri va primero! Muy bien, ¿cuál es tu\nrespuesta?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Para ser el primero en la fila para la\nespecialidad de tiempo limitado de la cafetería,\n¡huevos Benedict extravagantes!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡<i>Tú</i> hiciste eso ayer! ¡<i>TÚ</i>!"
+    },
+    {
+      "name": "Público",
+      "text": "¡Buajahaha!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(¡Me niego a perder!)"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Te toca, Ardan."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(Tamamo es una trabajadora seria y supongo que su\ncompañera de cuarto depende de ella para ciertas\ncosas. Por lo tanto...)"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¡Para traer el desayuno de la cafetería para\nOguri, que se quedó dormida!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Qué te crees que soy, el lacayo de Oguri? ¿Su\nmamá?!"
+    },
+    {
+      "name": "Público",
+      "text": "¡Buajahaha!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Parece que ambas han hecho reír a montones de\ngente! ¡Esto debería ser un duelo reñido!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Bien hecho."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Tengo toda la intención de pelear."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Oh no. Estas idiotas <i>realmente</i> van a hacer toda la\nrutina. Estamos fritos, chicos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una batalla reñida (de algún tipo) se desata entre\nMejiro Ardan y Oguri Cap..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Muy bien, ¡los votos están listos!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Ngh... Hice tantas ocurrencias... Me estoy\nquedando sin... voz..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Y la ganadora es..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Oguri, por un pelo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Aplausos, aplausos, aplausos!</i>"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...¡Sí!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Argh!"
+    },
+    {
+      "name": "Fan masculino de Ardan",
+      "text": "¡Mejiro Ardaaan!"
+    },
+    {
+      "name": "Fan masculino de Ardan",
+      "text": "¡Estuviste muy cerca! Pero fuiste realmente\ngraciosa. ¡Buen trabajo ahí afuera!"
+    },
+    {
+      "name": "Fan femenina de Ardan",
+      "text": "¡Nunca puedo ver este lado tuyo en la pista! ¡Es\n<i>tan lindo</i>! ¡Espero que hagas esto de nuevo\nalgún día!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(Qué alivio... ¡Parece que los fans lo pasaron\nbien!)"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Parece que ambos grupos de fans se divirtieron.\nQué bien."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Sí... En efecto."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Hagamos otro concurso para los fans algún día.\nPodríamos hacer improvisación de nuevo... ¡o\nllevarlo a la pista!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Claro!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Las competidoras se dan la mano! ¡Qué hermoso\nespectáculo!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Sabes qué? Que alguien más tome el micrófono. Me\nrindo..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Ardan, por un pelo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Aplausos, aplausos, aplausos!</i>"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...¡¿Lo logré?!"
+    },
+    {
+      "name": "Fan masculino de Ardan",
+      "text": "¡Mejiro Ardaaan!"
+    },
+    {
+      "name": "Fan masculino de Ardan",
+      "text": "¡Fuiste <i>graciosísima!</i> ¡Hazlo de nuevo, ¿vale?!\n¡Seré el primero en la fila para comprar entradas!"
+    },
+    {
+      "name": "Fan femenina de Ardan",
+      "text": "¡Nunca puedo ver este lado tuyo en la pista! ¡Es\n<i>tan lindo</i>!"
+    },
+    {
+      "name": "Fans de Ardan",
+      "text": "¡Ardan! ¡Mejiro Ardan! ¡Señorita Ardan! ¡Ardaaan!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(¿He... siempre tenido tantos fans?!)"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Parece que ambos grupos de fans se divirtieron.\nQué bien."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Sí... En efecto."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Hagamos otro concurso para los fans algún día.\nPodríamos hacer improvisación de nuevo... ¡o\nllevarlo a la pista!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí, hagámoslo. Y la próxima vez, ¡no perderé!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Las competidoras se dan la mano! ¡Qué hermoso\nespectáculo!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Sabes qué? Que alguien más tome el micrófono. Me\nrindo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El evento de Mejiro Ardan termina en alto, pero en\notro lugar, en este preciso momento..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "He estado ausente tanto tiempo, y aun así toda\nesta gente ha venido a verme. Yo... No sé qué\ndecir."
+    },
+    {
+      "name": "Anfitrión",
+      "text": "Ahora bien, escucho que tienes un anuncio\nimportante que hacer. ¿Qué podría ser?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Yo, Sakura Chiyono O... planeo regresar a las\ncarreras en el Takarazuka Kinen de este año."
+    },
+    {
+      "name": "Fans",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Actualmente me estoy esforzando al máximo en mis\npreparativos finales! Realmente espero que todos\nesperen con ansias mi regreso."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Mi nombre es Sakura Chiyono O... y floreceré en el\ncésped una vez más."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con la noticia del regreso de Sakura Chiyono O\nesparciéndose como pólvora, ¡de repente todos\nhablan del Takarazuka Kinen!"
+    }
+  ]
+}

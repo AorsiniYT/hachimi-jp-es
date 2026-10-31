@@ -1,0 +1,153 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Vodka",
+      "text": "¡Es esto! <i>Esto</i> es la sensación!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En cuanto termina la carrera, Vodka se adelanta\ncon orgullo sin siquiera mirar los resultados."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que consiguió eso que quería. Algo aún más\ngrande que mantener su racha en un G1."
+    },
+    {
+      "name": "Vodka",
+      "text": "Lo logré, Entrenador.",
+      "choice_data_list": [
+        "¡Sí, ganaste el Yasuda Kinen otra vez!",
+        "¡Sí, ganaste el Yasuda Kinen otra vez!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Eh? ¿Otra vez?",
+      "choice_data_list": [
+        "¿Te olvidaste?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Espera. Ah, sí, supongo que sí gané el año\npasado..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Ahhhh, tienes razón! Ganar dos años seguidos es\nsupergenial!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Y ni siquiera me di cuenta! ¡Qué increíble!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Yeeeeeah! ¿Escucharon eso, aficionados? ¡Dos años\nseguiiiiidos!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Y no solo eso, sino que ni siquiera me di cuenta!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡UUUU!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No estoy segura de qué está demostrando\nexactamente, pero dado que es motivo de\ncelebración, supongo que está bien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más importante, decido preguntarle a Vodka sobre\nla técnica de aceleración en la que hemos estado\ntrabajando juntos."
+    },
+    {
+      "name": "Vodka",
+      "text": "Sí, la dominé. Me incliné, aceleré y dejé que el\nviento me llevara."
+    },
+    {
+      "name": "Vodka",
+      "text": "Ahora soy buena. Si puedo correr así, brillaré más\nque nadie, en cualquier lugar."
+    },
+    {
+      "name": "Vodka",
+      "text": "Y no solo en carreras de milla, sino en cualquier\ndistancia.",
+      "choice_data_list": [
+        "¿Incluso en carreras de media o larga distancia?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Sí, estas piernas realmente me están funcionando\nahora. Son armas bastante temibles."
+    },
+    {
+      "name": "Vodka",
+      "text": "Piénsalo. Tengo la ventaja para vencer incluso a\nlas milleras que siempre hablan de su velocidad."
+    },
+    {
+      "name": "Vodka",
+      "text": "Ponme en carreras de media o larga distancia,\ndonde todos están cansados en la recta final, y\nmis resultados serán aún mejores."
+    },
+    {
+      "name": "Vodka",
+      "text": "Esto es más grande que solo ganar el Yasuda Kinen\ncada año. ¡No voy a perderle a nadie!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vodka mira al cielo sin miedo. La mirada afilada\nen sus ojos me hace estremecer."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin duda, Vodka se ha superado a sí misma y ha\nalcanzado un nivel completamente nuevo."
+    },
+    {
+      "name": "Vodka",
+      "text": "Ahora puedo mantenerme firme frente a cualquier\noponente, no importa cuán fuerte. Incluso<i>ella.</i>"
+    },
+    {
+      "name": "Vodka",
+      "text": "Oye, Entrenador. ¿Qué G1 crees que Scarlet va a\nbuscar este otoño?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pensando en su personalidad, a Scarlet le gusta\ndestacar y ser la número uno. Además, sus piernas\nson fuertes, así que no se preocupa por la\ndistancia...",
+      "choice_data_list": [
+        "Probablemente el Tenno Sho de otoño.",
+        "Probablemente el Tenno Sho de otoño."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Eso es lo que yo también pensaba. Grandes mentes\npiensan igual, ¿eh?"
+    },
+    {
+      "name": "Vodka",
+      "text": "En ese caso, esa será nuestra carrera decisiva en\nesta Twinkle Series."
+    },
+    {
+      "name": "Vodka",
+      "text": "Déjame correr en el Tenno Sho de otoño. Quiero\nobtener ese título definitivo como la yo más\ngenial.",
+      "choice_data_list": [
+        "¡Muy bien, hagámoslo!"
+      ],
+      "color_text_info_list": [
+        "Tenno Sho"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Sí! ¡Tú sabes cómo es, Entrenador!"
+    },
+    {
+      "name": "Vodka",
+      "text": "No importa qué prestigiosa sea la carrera, no\ntengo miedo, ¿sabes por qué?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Porque todos aquí me han amado desde que corrí en\nel Derby."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Hasta la próxima, Tokyo Racecourse! ¡Asegúrate de\ndarme un buen viento de cola la próxima vez\ntambién!"
+    }
+  ]
+}

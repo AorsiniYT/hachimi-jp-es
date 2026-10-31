@@ -1,0 +1,217 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es fin de semana, así que voy al centro comercial\npara hacer algunas compras..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Eso no está bien, ¡no está bien en absoluto!\nNecesita ser más como \"Tierra, viento, sol\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una voz familiar resuena en todo el centro\ncomercial. Comienzo a caminar hacia la dirección\nde donde proviene."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Te dije que quiero zapatos más ligeros que puedan\ngirar en un instante, como ka-woosh"
+    },
+    {
+      "name": "Dependienta",
+      "text": "¿K-ka-woosh? Bueno... ¿qué tal este par de\nzapatos!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Hmm... Está cerca. Necesito algo que se vea más\nresistente y que absorba la fuerza de cada paso..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Uf, ¿cómo puedo decirlo? <i>Suspiro...</i> Ojalá el\nentrenador estuviera aquí en momentos como este—",
+      "choice_data_list": [
+        "¿Me llamaste?",
+        "¿Me llamaste?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿¡Qué?! Esa voz... ¿¡El entrenador?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que El está comprando zapatos, pero no\npuede encontrar las palabras adecuadas para\ndescribir su zapato soñado al empleado de la\ntienda.",
+      "choice_data_list": [
+        "Así que estás buscando un par de zapatos que te\nguste",
+        "Así que estás buscando un par de zapatos que te\nguste"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Bueno! Sí, pero no puedo expresarlo con palabras.\nMi cabeza se vuelve un lío y se mezcla todo."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Pero entrenador, sabes qué tipo de zapato quiero,\n¿verdad? Quiero decir, eres mi entrenador, después\nde todo"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Lo que significa que tú le explicarás al\ndependiente por mí, ¿verdad? Vamos, ¡somos <i>el</i> dúo\ndinámico!",
+      "choice_data_list": [
+        "Lo intentaré"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Gracias! Estoy agradecida. Estoy agradecida.\nEstoy jubilosa, incluso. No tengo nada que temer\ncuando el entrenador está aquí"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Los zapatos que quiero son tan ligeros como el\nviento, giran en un instante y se sienten como el\ncálido abrazo de la tierra... Son zapatos llenos\nde pasión"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Basándome en la descripción de El, consulto al\nempleado para ver si tienen zapatos de colores\nbrillantes con buen agarre, amortiguación y\ntranspirabilidad."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Bien hecho, entrenador. Estos zapatos se ajustan a\nmis gustos perfectamente"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Lo sabía, nuestros corazones están conectados.\nVínculos imquebrantables. Confianza\ninquebrantable. Comprensión mutua"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Eso fue como una de las jugadas en equipo que Mamá\ny yo solíamos hacer... Bueno, una vez fui de\ncompras con Mamá—"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Ahhh, casi me olvido. Entrenador, hay un lugar más\nque quiero verificar"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, El me lleva a un restaurante de comida\nrápida."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Mmm, qué olores tan jugosos... Wow, todo se ve tan\ndelicioso",
+      "choice_data_list": [
+        "¿Quieres que te ayude a pedir esta vez?",
+        "¿Quieres que te ayude a pedir esta vez?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Jajaja, no esta vez. Entrenador, solo espere aquí\npor mí"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso, El se pone en la cola para hacer su\npedido."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Mira! Mi triunfante regreso"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El llena la mesa con toda la comida que acaba de\ncomprar. Pero..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Es esa llama carmesí sangre o masa? ¡No, la\nfritura en sí está ardiendo"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "La especia es la vida. Y la esencia de la vida es\nla sangre roja hirviendo. Roja, caliente, picante.\nAquí tienes tu porción de las papas fritas\nespeciales de El",
+      "choice_data_list": [
+        "Creo que te oí decir algo aterrador..."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Jajaja. Entrenador, ¿no estás curioso? Seguramente\nestás curioso por la verdadera naturaleza de estas\npapas fritas rojas"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Entonces déjame satisfacer tu curiosidad. Mira,\nesta es la salsa secreta de mi familia"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Finalmente me enviaron una botella ayer, así que\nusé toda la botella en esta comida, hasta la\núltima gota"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "No te preocupes, sabe muy bien. Papá es bueno con\nla comida picante, pero incluso él salta de su\nsilla cuando prueba esta salsa."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Ahora, entrenador. No seas tímido"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Puede que nunca me recupere si como esto ahora.\nTal vez debería rechazar amablemente a El—"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Jajaja, eres la primera persona a la que le dejo\nprobar esta salsa."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Mamá siempre me decía: \"Solo usa esta salsa cuando\ncomas con la familia.\""
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "\"Es demasiado peligrosa para aquellos que no\ntienen la tolerancia para manejarla.\"",
+      "choice_data_list": [
+        "¿Q-quieres decir..."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Sí, ¡puedo servir esta salsa solo a aquellos a\nquienes he abierto mi corazón! Es tan preciada\nque..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Y tú, Entrenador, eres especial"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Después de todo, eres mi compañero, ¡estamos\nunidos como familia! Así que por supuesto puedes\nprobarla"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Jeje. Esta salsa está llena de mi amor.\nConsidéralo como un agradecimiento por tu arduo\ntrabajo al entrenarme"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Dividámosla entre los dos y hagamos de esto un\nfestín inolvidable, ¡vamos Entrenador, no seas\ntímido ahora...",
+      "choice_data_list": [
+        "...¡Vamos a comer"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Sí, ¡vamos a disfrutar! Ja ja, la comida no se va\na ir a ninguna parte, así que siéntete libre de\nsaborear el sabor"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Así que... ¿cómo es? ¿Están surgiendo las llamas\nde la pasión dentro de tu cuerpo aún"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me preparo para un impacto ardiente, pero en\nrealidad no es tan malo. La temporada picante es\nbastante agradable —"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Ja ja, ¡veo que era tan delicioso que estás\nsaltando de alegría! Me alegra que te guste, de\nverdad"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Si lo deseas, puedes tener mi porción también,\n¡come todo lo que quieras! Esto es mi regalo para\nti"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No puedo sentir mi lengua ya, pero siento algún\ntipo de poder que surge a través de mi cuerpo...\nCreo"
+    }
+  ]
+}

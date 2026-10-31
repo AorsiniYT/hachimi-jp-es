@@ -1,0 +1,396 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Qué fue eso? Papá... ¿se desmayó?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Así que todo este tiempo, solo siguió adelante,\nsufriendo en secreto... Pero <i>¿por qué?</i>"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Y dónde está papá ahora?! ¿En el hospital? ¡Okay,\nentendido!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Entrenador!",
+      "choice_data_list": [
+        "¡Nos dirigimos a Osaka!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Viajamos de Kioto a Fuchu, y ahora nos damos la\nvuelta para regresar a Osaka."
+    },
+    {
+      "name": "El Hermano Pequeño de Tamamo Cross",
+      "text": "Tama... ¿Papá está bien?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Sí, todo está bien. El doctor dijo que solo\nnecesita un poco de descanso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de pasar por el hospital, hemos venido a\nla casa de su familia. El reporte de Tamamo Cross\nno fue totalmente exacto, sin embargo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque su condición no es crítica, el doctor dijo\nque necesita descanso. Tampoco pudo darnos una\nestimación de cuánto tiempo le tomará recuperarse."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Así que no se preocupen, pequeñines. Solo vayan a\njugar. Su hermana mayor se encargará de todo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras tranquiliza a sus hermanos, miro la\nexpresión de Tamamo Cross."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su aspereza habitual se está desvaneciendo,\ndejando lugar a la bondad."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y luego..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Perdón por arrastrarte a comprar para la cena de\nhoy. Creo que ya tenemos todo lo necesario, de\ntodos modos.",
+      "choice_data_list": [
+        "Tamamo, necesitamos hablar."
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Una conversación? ...¿Sobre qué?",
+      "choice_data_list": [
+        "¿Estás pensando en dejar las carreras?",
+        "¿Estás pensando en dejar las carreras?"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿¡Eh?! ¿Q-qué te hace decir eso?",
+      "choice_data_list": [
+        "Se te nota en la cara.",
+        "Se te nota en la cara."
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "...Caray, nada se te escapa, ¿eh?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "...Alguien tiene que quedarse en casa, claramente.\nSobre todo porque no sé qué va a pasar con mi\npapá."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Corro por el bien de mi familia... Así que si mi\nfamilia me necesita más que mis carreras, entonces\nmi elección está clara."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Al menos logré hacerlos felices una vez al ganar\nel Tenno Sho de primavera. Eso es algo, supongo...",
+      "choice_data_list": [
+        "¿Estás segura de que no te arrepentirás de dejar?",
+        "¿Estás segura de que no te arrepentirás de dejar?"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "...No, creo que no. Claro, apesta que nunca podré\ndominar la Serie Twinkle. Pero..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Hice todo lo que pude, lo mejor que pude. No tengo\narrepentimientos. Nada... en absoluto..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Ugh!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "De todos los corredores que se me vienen a la\nmente... ¿Por qué tenía que ser—ah, olvídalo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tamamo Cross se interrumpe. A la mañana siguiente,\nva a ver a su familia y les da la noticia mientras\nestá allí."
+    },
+    {
+      "name": "Madre de Tamamo Cross",
+      "text": "Tama... ¿Hablas en serio? ¿Te retiras?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "...Sí. Como Papá tiene que quedarse quieto y\ndescansar por un tiempo, tengo que estar cerca\npara cuidarlo a él y a los pequeños. No es momento\npara estar corriendo."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Yo... tengo que apoyar—escucha, ¡la familia es mi\nprioridad número uno! Por eso..."
+    },
+    {
+      "name": "Padre de Tamamo Cross",
+      "text": "...Entrenador, ¿puedo preguntarte algo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su padre me llama desde su cama de enfermo."
+    },
+    {
+      "name": "Padre de Tamamo Cross",
+      "text": "Dime... ¿Cómo se ven las perspectivas de Tama?\n¿Las cosas se van a poner difíciles para ella?"
+    },
+    {
+      "name": "Padre de Tamamo Cross",
+      "text": "Ya he escuchado todo eso antes. \"¿Cómo va a\nlograrlo sin dinero para entrenar?\" \"¿Cómo se\nsupone que va a competir con ese cuerpecito suyo?\""
+    },
+    {
+      "name": "Padre de Tamamo Cross",
+      "text": "Pero ¿sabes qué? Yo siempre creí en Tama... Pero\n¿y tú? Has estado con ella todo este tiempo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Al mirarlo a los ojos, me doy cuenta de algo.\nNo solo quiere que le tranquilice la mente. Quiere\nla verdad."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo que darle una evaluación exhaustiva de\nTamamo Cross—sin adornos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El futuro de esta familia depende de mi evaluación\nde la carrera de Tamamo Cross hasta ahora y su\npotencial futuro..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Entrenador, prometo que voy a empezar a comer\nbien. Puede que tome tiempo, pero llegaré, poco a\npoco."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Sí... Eso es... Mi arma secreta... ¡está llegando\ncomo un destello de luz!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Miren la nueva y mejorada White Lightning!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Recuerdo el camino que ha tomado White\nLightning... Siempre ha corrido por el suelo,\navanzando cada vez más. Y no ha disminuido la\nvelocidad en absoluto. De hecho..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras tenga ese espíritu fuerte y corazón\nbondadoso...",
+      "choice_data_list": [
+        "Creo que debería seguir corriendo."
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿¡Eh?! ¡Entrenador?!",
+      "choice_data_list": [
+        "¡Sé que tiene más victorias en ella! ¡Muchas más!"
+      ]
+    },
+    {
+      "name": "Padre de Tamamo Cross",
+      "text": "...Ya veo. Eso es todo lo que necesitaba saber."
+    },
+    {
+      "name": "Padre de Tamamo Cross",
+      "text": "Aún es demasiado pronto para que vuelvas a casa.\nTama... Necesitas <i>correr.</i>"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Sé que es demasiado pronto, pero lo hago todo por\nustedes, papá! Yo—"
+    },
+    {
+      "name": "Padre de Tamamo Cross",
+      "text": "¡Y tú también vas a <i>correr</i> por nosotras!¡Eso es lo\nmejor que puedes hacer por nosotras!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "...¿Eh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus palabras llevan un gran peso emocional,\nprofundizando su impacto."
+    },
+    {
+      "name": "Padre de Tamamo Cross",
+      "text": "No sabes lo emocionada que se pone tu familia al\nverte correr."
+    },
+    {
+      "name": "Padre de Tamamo Cross",
+      "text": "O lo feliz que nos hace. Verte a ti—esa misma\nchica que solía corretear por todos\nlados—corriendo tan libre y llena de vida."
+    },
+    {
+      "name": "Padre de Tamamo Cross",
+      "text": "Desde el día que naciste... tu mamá y yo hemos\nestado esperando un día como este."
+    },
+    {
+      "name": "Padre de Tamamo Cross",
+      "text": "Decíamos que eras nuestra esperanza. No teníamos\nnada, pero tú nos diste esperanza—como una luz\nbrillando sobre nosotros, diciendo que seríamos\nfelices algún día..."
+    },
+    {
+      "name": "Padre de Tamamo Cross",
+      "text": "Claro que tuvimos nuestros problemas. Y puede que\nvengan más. Pero..."
+    },
+    {
+      "name": "Padre de Tamamo Cross",
+      "text": "Verte correr tan feliz y sana hace que mis\npreocupaciones se vayan. Todas salen volando por\nla ventana."
+    },
+    {
+      "name": "Padre de Tamamo Cross",
+      "text": "No eres nuestra esperanza porque apoyas nuestro\nhogar. Todo lo que tienes que hacer para ser\nnuestra esperanza es <i>correr.</i>"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Papá..."
+    },
+    {
+      "name": "Padre de Tamamo Cross",
+      "text": "...No me importa que dejes una vez que hayas hecho\ntodo lo que puedas. Pero ¿cuál es el punto de\ndejar a la mitad, solo por nosotros? ¿Y todo el\ntrabajo que has puesto hasta ahora?"
+    },
+    {
+      "name": "Padre de Tamamo Cross",
+      "text": "¡Corre, Tama! Todos nuestros sueños descansan en\nti."
+    },
+    {
+      "name": "Hermano menor de Tamamo Cross",
+      "text": "¡Sí, Tama! ¡Sal ahí y corre!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su hermano menor se anima a hablar."
+    },
+    {
+      "name": "Hermano menor de Tamamo Cross",
+      "text": "¡Me encanta verte correr, Tama! ¡Mucho más de lo\nque me gusta que juegues con nosotros en casa!"
+    },
+    {
+      "name": "Hermana menor de Tamamo Cross",
+      "text": "¡Sí! Es muy divertido hablar de todas tus\ncarreras. ¡Y también me gustan las fotos que nos\nenvías!"
+    },
+    {
+      "name": "Madre de Tamamo Cross",
+      "text": "Tama, nos las arreglaremos bien. Así que por\nfavor... sigue corriendo. Haz feliz a tu padre."
+    },
+    {
+      "name": "Madre de Tamamo Cross",
+      "text": "Porque para él, tú eres el mundo entero."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Mamá... Papá... Ustedes..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Sí. No puedo creer que se me haya olvidado. Es mi\ncorrer el que les da esperanza..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Y por eso... Por eso tengo que intentarlo de\nverdad. Voy a correr, y voy a <i>ganar.</i>"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Mi próxima parada es el Takarazuka Kinen! Así que\nvoy a necesitar que le des una patada a esa\nenfermedad tuya, papá. ¡No hagas que los pequeños\nse pongan tristes!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Solo espera, voy a dispararme al frente, y\nentonces nadie me detendrá. ¡Nadie detendrá a\n<i>nosotros!</i> ¡Hagámoslo!"
+    },
+    {
+      "name": "Hermano menor de Tamamo Cross",
+      "text": "Sí... ¡Te respaldamos, Tama!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Toda su familia estalla en un grito unificado que\nresuena por todo el hospital de Osaka. Parece que\neso lo resuelve."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tamamo Cross seguirá corriendo—como uno con su\nfamilia."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Bueno... Ya estoy de vuelta, Tokio."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Realmente pensé que no tendría ningún\narrepentimiento si me retiraba. Sentía que había\nhecho lo mejor que podía. Pero..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Tengo que admitir, todavía había esta pequeña\nchispa dentro de mí que simplemente no se apagaba.",
+      "choice_data_list": [
+        "¿Esa chispa es tu espíritu de lucha?"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "No... Bueno, más o menos, pero no exactamente. El\nfuego que no podía apagar, no importa lo que\nhiciera, era—"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Bienvenida de vuelta, Tama."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Oguri... ¿Viniste todo el camino para recogerme\nsolo para decir eso?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí... Bueno, para ser honesto, no estaba seguro de\nqué hacer, pero... quería verte."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Quiero decir, sentí que tal vez no volverías si yo\nno lo hacía. Um... De todos modos, bienvenida de\nvuelta, Tama."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Ya dijiste eso hace un minuto."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "(Oguri... ¿Qué pasa? ¿Por qué viniste a darme la\nbienvenida?)"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "(Supongo que somos bastante similares. Ambos somos\nde fuera, y ninguno nació con cuchara de plata en\nla boca. Aún así...)"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "(Justo cuando estaba a punto de rendirme... ¿por\nqué fue tu rostro el que apareció en mi mente?)"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "(¿De qué se trató todo eso? No lo entiendo...\npero...)"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Mirarte ahora... me trajo todo de vuelta. No hay\nforma de que simplemente te abandone."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Verdad, entrenador?",
+      "choice_data_list": [
+        "Sí...",
+        "Sí..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras Tamamo Cross mira a Oguri Cap, veo sus\nojos brillando con innumerables colores."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Ahora vamos al Takarazuka Kinen! Oguri, te va a\nencantar. Porque ahí es donde te voy a mostrar\ncómo corro cuando no tengo nada que me detenga!"
+    }
+  ]
+}

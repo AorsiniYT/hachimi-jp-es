@@ -1,0 +1,138 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Veo a Narita Brian y Biwa Hayahide en una tienda\nde ramen."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Ah, eso estuvo perfecto!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Sí, estuvo delicioso!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Bueno, me voy ya."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Ya te vas? ¿No quieres esperar a que se te\nasiente la comida?",
+      "choice_data_list": [
+        "¿Comiendo juntos?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Oh, eres tú. No, solo pasó que ambos estábamos\naquí."
+    },
+    {
+      "name": "Dueña de ramen",
+      "text": "¡Bienvenido! ¡Avísame cuando estés listo para\npedir!"
+    },
+    {
+      "name": "Dueña de ramen",
+      "text": "¡Tenemos una especialidad en oferta! ¡La Montaña\nde Cerdo Asado!",
+      "choice_data_list": [
+        "Montaña de Cerdo Asado..."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Está delicioso. Cada bocado estaba tan jugoso que\ncasi era como caldo de carne."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿No estás un poco demasiado enfocado en la carne?\nHasta pusiste todas tus verduras en mi tazón."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...No."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Sí lo hiciste! ¡Te vi! ¡También necesitas comer\nverduras!"
+    },
+    {
+      "name": "Dueña de ramen",
+      "text": "¡Ajajá! Mientras hayan disfrutado, ¡yo soy feliz!"
+    },
+    {
+      "name": "Dueña de ramen",
+      "text": "Si les gustó tanto, ¿qué tal un poco más de cerdo?\n¡Por cuenta de la casa!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿En serio?",
+      "choice_data_list": [
+        "¿No crees que ya has tenido suficiente por ahora?",
+        "Es una oferta difícil de rechazar, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Supongo que tienes razón. Comer demasiado solo\nme hará más lento."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ciertamente. Creo que es una decisión sabia. Das\nbuenos consejos, entrenador.",
+      "choice_data_list": [
+        "Gracias, creo..."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tch. Qué comentario sin sentido. Estás intentando\ndemasiado hacer el papel de hermana mayor."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Bueno, <i>soy</i> tu hermana mayor..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Oye, Brian! ¡No estamos volviendo a correr!\n¡Despacio!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras observo el entretenido intercambio entre\nlas hermanas, me pido la Montaña de Cerdo Asado."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Eso es de lo que hablo. ¡Tengo que terminar\ncada último bocado!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Eso es absurdo! ¿Vas a comer el cerdo solo?!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Por qué no? ¡Oye, acepto ese cerdo extra!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Uf."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Uf. Eso fue más de lo que esperaba."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "El dueño quedó tan impresionado contigo que siguió\ntrayendo más..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Vas a estar bien? Claramente has excedido la\ncantidad apropiada de comida para el día..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No es un problema... De todos modos... Lo quemaré\ncorriendo en un santiamén..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque Narita Brian ciertamente parece haber\ntenido suficiente de cerdo asado, puede haberse\nexcedido..."
+    }
+  ]
+}

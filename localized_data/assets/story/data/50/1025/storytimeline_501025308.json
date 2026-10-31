@@ -1,0 +1,151 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Manhattan Cafe",
+      "text": "<i>Haa, resuello...</i> Entrenador, lo logré..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Ciertamente no fue fácil... Pero yo... aún tengo\nalgo de fuerza en mis piernas.",
+      "choice_data_list": [
+        "¡Gran trabajo, Cafe!"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Gracias."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Manhattan Cafe sigue su fuerte actuación con una\nsonrisa exhausta... pero parece que su cuerpo\nrealmente se ha endurecido durante el verano."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿El Kikuka Sho realmente está en las cartas?\nDecido preguntarle a Agnes Tachyon su opinión\nsobre la condición de Manhattan Cafe después de la\ncarrera."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Oh, ya veo! ¡Un brillo en los ojos de Cafe!\nJuzgando por la dilatación de sus capilares, entre\notras cosas, tendría que decir..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Es cincuenta-cincuenta."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Cincuenta-cincuenta... Así que básicamente, no lo\nsabes?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Bueno, en realidad, esas son dos declaraciones\ndiferentes. Nosotros <i>sí</i> sabemos que tienes un\ncincuenta-cincuenta de probabilidad."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Su resistencia parece estable. El factor más\npreocupante, sin embargo..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Son sus uñas. Son tan frágiles como siempre. Si no\npiensas bien la decisión, Cafe podría terminar..."
+    },
+    {
+      "name": "???",
+      "text": "<i>¡GUAAAAAH!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Pum! ¡Pum! ¡Pum!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un grito más allá de cualquier voz perfora mi\nmente, dejando mi alma completamente conmocionada.\nUna fuerza salvaje de repente—"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...¿Eh? Qué..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "No puedo... distinguir lo que dice... Pero se\nsiente muy..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es una voz incomprensible incluso para Manhattan\nCafe. Pero no hay duda de lo que intenta decir."
+    },
+    {
+      "name": "Monólogo",
+      "text": "(¡Sigue...!)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una presencia que ha guiado a Manhattan Cafe en\nlas buenas y en las malas. Pero esa misma\npresencia también ha intentado arrastrarla a un\nmar profundo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Deberíamos confiar en ella?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...",
+      "choice_data_list": [
+        "¿Cómo te sientes, Cafe?",
+        "¿Cómo te sientes, Cafe?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Yo..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Quiero competir en el Kikuka Sho. Si mi amiga me\nestá llamando, entonces... lo antes posible, me\ngustaría..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lo consideraré. Está en mejor condición que en\nverano, y con el cuidado médico adecuado,\ndeberíamos poder hacer algo con sus uñas. En ese\ncaso...",
+      "choice_data_list": [
+        "Intentémoslo."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La voz de su amiga influye ligeramente en mi\njuicio como su entrenador."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ja, ja, ja, no hay manera de saber si todo esto es\ncientífico o no científico. En este punto ni\nsiquiera podemos hacer una distinción clara entre\nlos dos."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Y sin embargo, ustedes dos usan algún tipo de\nsexto sentido para competir en la Twinkle Series?\nJa, ja, ja...",
+      "choice_data_list": [
+        "¿Estás en contra de la idea?",
+        "¿Estás en contra de la idea?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ni lo pienses. Solo estoy en este camino contigo\nporque confío en Cafe y su potencial."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No tengo ninguna intención de obstaculizar ese\npotencial. Si está dentro del margen de error,\nactuemos según tu capricho y tomemos el riesgo."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Jajaja, ¡ve, Cafe! Y <i>muéstrame</i>. Muéstrame los\nprimeros resultados de tu Plan B!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Esto no es algún tipo de experimento. Pero..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Iré... al Kikuka Sho."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nuestros próximos pasos se deciden por unanimidad,\ny Manhattan Cafe finalmente fija su mirada en el\nG1 y el Kikuka Sho."
+    }
+  ]
+}

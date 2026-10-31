@@ -1,0 +1,96 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, estoy frente a la tienda de golf en el\ncentro comercial cuando noto a una Umamusume\npreocupada."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Mmm, ¿qué hacer, qué hacer? ¡No puedo decidir!",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Bueno... esta tienda tiene una marca mega popular\nque me encanta."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¡Acaban de recibir nuevos palos Full & BW en\nstock, y estaba súper emocionada de comprar\nalgunos!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Pero como son tan populares, tienen un límite de\nun tipo de palo por persona...",
+      "choice_data_list": [
+        "¿Te gusta el golf?",
+        "¿Te gusta el golf?"
+      ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¡Sí! Mi papá me enseñó cuando era niña."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Al principio, usábamos nuestro jardín como campo.\nEn su momento, lo veía solo como otra forma de\njugar."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Pero ahora, estoy totalmente metida en esto. ¡Yo\nselecciono y escojo cada pieza de mi equipo ahora!",
+      "choice_data_list": [
+        "¡En serio que <i>eres</i>!"
+      ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Pero bueno, ese es el problema. No sé qué elegir\nahora."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "No importa cuánto lo piense, aún estoy atascada\nentre dos opciones. ¡Y no hay escapatoria de tener\nque elegir!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¿Debería conseguir la cuña tenaz y versátil o el\npalo de salida ultra poderoso?!",
+      "choice_data_list": [
+        "¡Elige la cuña tenaz!",
+        "¡El palo de salida ultra poderoso sin duda!"
+      ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "La cuña, ¿eh? ...Sí, ¡vale!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Si pienso en toda la persistencia que necesité\npara llegar donde estoy ahora, ¡eso es exactamente\nlo que necesito!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¡Muy bien! ¡Voy a agarrar uno antes de que se\nagoten. Gracias por ayudarme a decidir!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La persistencia que necesitaba... Las palabras de\nMejiro Palmer dejan una fuerte impresión en mí."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "El palo de salida, ¿eh? ...Sí, ¡vale!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Si pienso en todo el poder inquebrantable que\nnecesito para llegar donde estoy ahora, ¡eso es\nexactamente lo que necesito!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¡Muy bien! ¡Voy a agarrar uno antes de que se\nagoten. Gracias por ayudarme a decidir!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El poder que necesitaba... Las palabras de Mejiro\nPalmer dejan una fuerte impresión en mí."
+    }
+  ]
+}

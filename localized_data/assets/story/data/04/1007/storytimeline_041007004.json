@@ -1,0 +1,173 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Gold Ship y yo logramos volver a la escuela. Al\ndía siguiente, yo asisto a su carrera..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los estudiantes murmuran entre ellos mientras\nesperan a que las carreras comiencen."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Estamos aquí en la pista, y soy Golshi, reportando\nen vivo desde la carrera."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Tengo a un entrenador novato aquí para una\nentrevista exclusiva. ☆ Dime, ¿estás emocionado de\nestar aquí hoy?",
+      "choice_data_list": [
+        "De verdad que tienes una carrera hoy...",
+        "De verdad que tienes una carrera hoy..."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Guau, forma de romper la inmersión. ¿Cuántas veces\ntengo que repetírtelo?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Te necesito más que nunca hoy, así que es hora de\ndar el paso. ¿Me entiendes? Una corredora tiene\nque tener un entrenador para entrar a la Serie\nTwinkle, ¿ves?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Logré salir adelante en el proceso de aplicación\nsin uno, pero no hay manera de que funcione en la\ncarrera real.",
+      "choice_data_list": [
+        "¡Entonces no importó quién consiguieras como tu\nentrenador?!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Disculpa? ...¿Todavía no tienes idea de por qué\nte elegí <I>a ti</I> específicamente?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Mira, has estado viéndonos entrenar desde las\ngradas desde siempre, ¿verdad?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Incluso en el peor clima, estarías allí todos los\ndías con tanto entusiasmo en tus ojos... Cada vez\nque te veía, todo lo que podía pensar era..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Guau, este entrenador literalmente no tiene nada\nmejor que hacer... ¿Sabes?",
+      "choice_data_list": [
+        "Eso es cruel..."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Dicho eso, siempre puedo obtener una reacción\ndecente de ti, y nos compaginamos bastante bien.\n¡He crecido un poco para gustarte!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ah, ya es hora."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Bueno, ¡será mejor que use toda esta hambre\nacumulada! Prepárate—estoy a punto de volarte la\ncabeza!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella puede molestarme constantemente, pero\nmientras la veo dirigirse hacia la pista, no puedo\nevitar emocionarme al ver su carrera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Y ahora, el gran debut de Gold Ship comienza!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las cosas comienzan relativamente bien. A medida\nque la carrera progresa, ella logra mantener su\nposición."
+    },
+    {
+      "name": "Locutor",
+      "text": "Han hecho la última curva. ¡Es la recta final! El\nlíder se rompe ¡por ella! ¿¡Esto decidirá la\ncarrera?!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡URAAAAAAGH!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Ahora Gold Ship avanza con una velocidad\nincreíble! ¡Está a tres cuerpos de distancia! ¡Un\ncuerpo!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Y ella se adelanta en la meta! ¡Gold Ship gana\ncon un debut impresionante!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Qué carrera tan increíble! ¡Estoy completamente\nhechizada por la forma en que corrió!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Wuuujuuu! ¡Victoria!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Bueno, bastante impresionante, ¿eh? ¡La poderosa\nGolshi tiene mucho más de donde vino eso!",
+      "choice_data_list": [
+        "¡Fuiste fantástica!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Lo sé, verdad? ¡Soy la más rápida! ¡Soy la\nestrella más brillante! No puedo evitarlo— ¡nací\nasí!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Bueno, ¡tu cara brilla después de verme! ¡Nunca\nhas parecido más feliz que esto!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Entonces, ¿¡eso significa que no tienes problema\nen quedarte como mi entrenador, ¿verdad?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Fui un poco engañado en todo esto, pero... la\nemoción que sentí durante su carrera fue real, así\nque...",
+      "choice_data_list": [
+        "¡Hagámoslo!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Bien! ¡Juntos defenderemos el mundo del mal!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El debut de Gold Ship termina en éxito, y yo\noficialmente me convierto en su entrenador. Seguro\nque será un viaje más suave desde aquí..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡GAAARGH! ¡Necesito más hambre!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿¡Cuántos días faltan para mi próxima carrera?\n¿Tres? ¿Dos?!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Agh, si esto sigue así, mi espíritu ardiente no\ndurará mucho más. No podré correr más..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Sabes lo que eso significa—¡hora de cazar tesoros!\nNuestra aventura por agitación pura y concentrada\ncomienza."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Nuestro destino nos espera—la frontera final, ¡EL\nESPACIO! ¡HRAAAAAGH!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de una larga lucha desesperada, finalmente\nconvenzo a Gold Ship de que no deberíamos ir al\nespacio."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella es la Umamusume más dinámica que he visto.\nNecesitaré volverme más vigoroso yo mismo para\ncualquier obstáculo que seguro vendrá..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<I>Gold Ship y la Batalla por la Tierra El Fin</I>"
+    }
+  ]
+}

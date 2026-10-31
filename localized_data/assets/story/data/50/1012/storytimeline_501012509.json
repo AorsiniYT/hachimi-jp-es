@@ -1,0 +1,30 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "<i>¡Golpe!</i>"
+    },
+    {
+      "text": "Me da un buen susto con el sonido de un golpe\nextremadamente fuerte. corro a la fuente, solo\npara ver a Hishi Amazon en la plaza central,\ndándose un cabezazo contra un árbol.",
+      "choice_data_list": [
+        "¡¿Qué estás haciendo?!",
+        "¡¿Qué estás haciendo?!"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "...Oye, Entrenador. Solo motivándome."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Alguien me detuvo esta mañana y me preguntó si me\nsentía bien, ves..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Pero vaya, no puedo permitir que las estudiantes\nmás jóvenes se preocupen por mí. ¡Es patético!"
+    },
+    {
+      "text": "Su fatiga es bastante evidente, sin embargo...\nDebería probablemente ajustar su calendario de\ncarreras."
+    }
+  ]
+}

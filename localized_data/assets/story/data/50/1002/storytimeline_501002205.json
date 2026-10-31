@@ -1,0 +1,151 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "¡Por fin, es el día del Mainichi Okan!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es un enfrentamiento entre tres talentos de primer\nnivel. Silence Suzuka, la Corredora de Otro Mundo,\nEl Condor Pasa, el Pájaro Fantasma, y Grass\nWonder, la Sucesora de la Bestia.",
+      "color_text_info_list": [
+        "Pájaro Fantasma",
+        "Sucesora de la Bestia"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "El lugar está lleno de espectadores emocionados\nlistos para ver lo que seguramente será una\ncarrera verdaderamente increíble."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "La multitud está electrizante hoy.",
+      "choice_data_list": [
+        "No pareces muy nerviosa.",
+        "No pareces muy nerviosa."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Hehe. Solo voy a tomar el liderato, como siempre."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Qué hay para estar nerviosa?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Te importa si me meto, Suzuka?"
+    },
+    {
+      "name": "Special Week",
+      "text": "Tanto El como Grass me pidieron que te diera un\nmensaje."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Qué clase de mensaje?"
+    },
+    {
+      "name": "Special Week",
+      "text": "Um... El dijo, a ver... Ejem."
+    },
+    {
+      "name": "Special Week",
+      "text": "\"¡Hoy vas a caer para que yo pueda continuar mi\nviaje para convertirme en la corredora más fuerte\ndel mundo!\""
+    },
+    {
+      "name": "Special Week",
+      "text": "\"¡Prepárate para comer mi polvo!\""
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Eso es todo!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "(¡Sonaba exactamente como El!)"
+    },
+    {
+      "name": "Special Week",
+      "text": "En cuanto a Grass..."
+    },
+    {
+      "name": "Special Week",
+      "text": "\"Que tengamos una buena carrera.\""
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Y eso es todo!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...¿Eso es todo?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Sí! Sé que no parece mucho, pero estoy bastante\nseguro de que Grass está tan emocionada como El!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Me dijeron que te diera el mensaje para hacerte\nsaber que están emocionadas de correr contra ti.",
+      "choice_data_list": [
+        "Bueno, eso seguro que te pone nerviosa."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Hehe, para nada. De hecho, me siento aún más\nansiosa por salir a correr."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Cuanto más fuertes sean las corredoras que dejo\natrás, más hermoso es el paisaje."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Special Week se sorprende al escuchar las palabras\nde Suzuka."
+    },
+    {
+      "name": "Special Week",
+      "text": "Oye, ¿puedo devolver el mensaje?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Quiero que sepan lo emocionada que estás tú\ntambién! ¡Sé que lo apreciarán!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No me importa. Tú también estás bastante\nemocionada, Spe."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Hehe! ¡Es porque todas mis amigas están\ncorriendo! ¡La energía es contagiosa!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Perdón, estoy totalmente en el camino, ¿verdad?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Solo sabe que te estoy apoyando, Suzuka!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Hasta luego!",
+      "choice_data_list": [
+        "Parece que todos se sienten confiados."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Sí, parece que sí."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Sin embargo, no importa por lo que esas dos se\nesfuercen, ¡no cederé el liderato a ninguna de\nellas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, el escenario está listo para un emocionante\nMainichi Okan!"
+    }
+  ]
+}

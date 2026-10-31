@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tokai Teio",
+      "text": "<i>Murmullo, murmullo...</i> La respuesta es tres...\n<i>Bostezo...</i>",
+      "choice_data_list": [
+        "¿De qué estás hablando?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "He estado jugando a este juego de rompecabezas\nrealmente difícil en los últimos días."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Al principio fue más fácil de lo que esperaba,\npero cada vez que supero un nivel, otro aparece..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Sigo adelante y adelante, pero nunca termina.\nAntes de darme cuenta, me pasé la noche en vela\nanoche."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ahora todas las preguntas están zumbando en mi\ncabeza... <i>Bostezo...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tokai Teio parece increíblemente somnoliento todo\nel día."
+    }
+  ]
+}

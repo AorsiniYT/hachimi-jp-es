@@ -1,0 +1,134 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Silence Suzuka",
+      "text": "Creo que corrí bastante bien hoy.",
+      "choice_data_list": [
+        "¿Cómo fue el paisaje desde la delantera?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Jeje, ¡muy bonito!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Creo que voy a estar bien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que correr en el Kobe Shimbun Hai ha\nayudado a Suzuka a sentirse segura de la respuesta\nque encontró en el campamento de verano."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Considerando este paso adelante, creo que\ndeberíamos empezar a elaborar su nueva agenda."
+    },
+    {
+      "name": "Monólogo",
+      "text": "He tenido la mira puesta en el Kikuka Sho desde\nhace un tiempo. Pero justo cuando iba a\nmencionarlo—"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Eh, en realidad tengo una petición.",
+      "choice_data_list": [
+        "Claro, ¿qué es?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Todo el tiempo que estuve corriendo hoy, me decía\na mí misma—\"esto es lo que soy\"."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Ese pensamiento es lo que me impulsó a superar a\nlas demás y tomar la delantera. Y el paisaje allí\nera... asombroso."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Al verlo, empecé a preguntarme."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Si corro contra oponentes aún más rápidos y aún\nasí logro tomar la delantera, ¡qué increíble será\nesa vista!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Por eso..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Silence Suzuka me mira con una expresión de\ndeterminación tranquila."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Quiero correr en el Tenno Sho de otoño!",
+      "choice_data_list": [
+        "¡Quiero correr en el Tenno Sho de otoño!"
+      ],
+      "color_text_info_list": [
+        "Tenno Sho de otoño"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Estoy segura de que podré ver paisajes que nunca\nimaginé!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Tenno Sho de otoño es la cima de las carreras\nde media distancia G1. Todas las mejores\ncorredoras—incluyendo a las corredoras\nsenior—estarán presentes.",
+      "color_text_info_list": [
+        "G1",
+        "senior"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Quiero respetar sus deseos. De hecho, con su\ndestreza en carreras de media distancia, ganar el\nTenno Sho de otoño no está fuera del reino de lo\nposible."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero aún así, necesita más experiencia.",
+      "choice_data_list": [
+        "Muy bien entonces, ¡hagamos de ese nuestro\nobjetivo principal para el próximo año!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Muy bien!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si vamos a enfrentar el Tenno Sho de otoño,\nentonces la larga distancia del Kikuka Sho no nos\nayudará a prepararnos. Necesitaremos una agenda\nmás adecuada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Deberíamos correr en tantas carreras G2 de media\ndistancia—la misma longitud que el Tenno Sho de\notoño—como podamos. Así que en lugar del Kikuka\nSho...",
+      "choice_data_list": [
+        "¿Por qué no empezamos probando con el Kinko Sho?",
+        "¿Por qué no empezamos probando con el Kinko Sho?"
+      ],
+      "color_text_info_list": [
+        "G2"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "El Kinko Sho... ¡De acuerdo!",
+      "color_text_info_list": [
+        "Kinko Sho"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así que, ponemos la mira en el Tenno Sho de otoño,\nusando el próximo Kinko Sho como peldaño."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Tengo que progresar mucho más para el Tenno Sho\nde otoño!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Verla tan esperanzada por lo que viene, no puedo\nevitar pensar en cuánto ha crecido."
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Narita Brian y yo estamos en el tren de vuelta a\ncasa después de un día fuera."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Oh, Brian!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Teio..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Te vas a casa?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Sí..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ya veo. ¿A dónde fuiste?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Salí. A ningún lado interesante."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Ah? Bueno, yo seré quien juzgue eso..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Oh, eso me recuerda! ¡Escuché algo interesante!\nEscucha esto..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...¿Te vas directo de vuelta a la academia, Brian?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Qué vas a hacer cuando llegues? ¿Comer? ¿Bañarte?\n¿Entrenar?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Todavía no estoy segura."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Vamos! ¡Tienes que cooperar un poco! Di algo."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Eh, Entrenador! ¿De qué va el tema?",
+      "choice_data_list": [
+        "¿A qué te refieres?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Bueno, cada vez que intento hablar con Brian, ella\nsolo me da respuestas de una palabra."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Tú <i>debes</i> conocer un tema que le interese. Al fin y\nal cabo, ¡eres su entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Algo que llame la atención de Narita Brian y la\nhaga hablar...",
+      "choice_data_list": [
+        "¿Qué tal una carrera de vuelta a la academia?",
+        "¿Cómo van las cosas con el consejo estudiantil?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Eso no es realmente un tema de conversación..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Gran idea! Oye, Brian, ¡hagamos una carrera!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Paso. Suena como un fastidio."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿En serio?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Pero, no me importaría correr <i>con</i> ti."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿¡De verdad!? Muy bien—"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Solo que no ahora. Haré tiempo para eso después,\nincluso si es entre sesiones de entrenamiento."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Okay! ¡Te lo recordaré! No lo olvides, ¿vale? Te\nvoy a preguntar todos los días para que te\nacuerdes."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No lo hagas. Eso es molesto. Aún así correremos\naunque tú no lo hagas..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, todos tenemos una buena\nconversación sobre entrenamiento y carreras."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Yo también tengo curiosidad por eso!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Estoy bastante seguro de que siempre estás en la\noficina del consejo estudiantil."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Pero nadie me dice nada sobre el trabajo real."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "O sea, ¿qué es lo que haces, Brian? ¿Eres la\nguardaespaldas de la Presidenta o algo así?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Así es como me ves? Para empezar, Rudolf solo fue\ny—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, los tres disfrutamos de una\nanimada charla sobre el consejo estudiantil de\nvuelta a casa."
+    }
+  ]
+}

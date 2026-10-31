@@ -1,0 +1,105 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es el último día del campamento de verano.\nMientras espero a que Rice Shower termine de\nempacar, me siento en un banco cercano."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "L-lo siento por hacerte esperar!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "L-lo siento por hacerte esperar!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Uf... Ehehe. Me dejé llevar ayudando...",
+      "choice_data_list": [
+        "¿Ayudando?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Sí. Este campamento me ha hecho mucho bien,\n¿verdad?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Así que le pregunté al administrador si podía\nhacer algo para ayudar... aunque solo tenía un\npoquito de tiempo.",
+      "choice_data_list": [
+        "Eso es muy amable de tu parte.",
+        "Eso es muy amable de tu parte."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "N-no realmente... No pude hacer mucho,\nhonestamente."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Solo regando flores... repintando los bancos...",
+      "choice_data_list": [
+        "...¿Pintaste los bancos?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Sí! Incluso el que estás sentado... ahora..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Sí! Incluso el que estás sentado... ahora..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Hermano mayor?!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Hermana mayor?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Riiip...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me levanto en pánico, pero la pintura ya se ha\ntransferido del banco a mi ropa."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡L-lo siento! ¡Debí haber dejado una nota!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Oh no... ¿Qué haremos? Ohhh...",
+      "choice_data_list": [
+        "Supongo que tenemos que repintarlo."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Oh no... ¿Qué haremos? Ohhh...",
+      "choice_data_list": [
+        "Supongo que tenemos que repintarlo."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "E-está bien... <i>Suspiro...</i> Lo siento mucho..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Iré a disculparme con el administrador también."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Me aseguraré de que estén de acuerdo con que lo\nrepintemos, y conseguiré pintura mientras estoy en\nello."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Algunas cosas nunca cambian, mientras que otros\naspectos de nosotros mismos evolucionan\ncontinuamente. Si hay una cosa que hoy me ha\nenseñado, es esa."
+    }
+  ]
+}

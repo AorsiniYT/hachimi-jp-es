@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Espectadores",
+      "text": "¡Bourbon! ¡Bourbon!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Escucha esa multitud! Los vítores de los\nemocionados por ver nacer a una campeona resuenan\npor todo el recinto!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¿Quién será el campeón del Derby de este año? ¡El\nJapanese Derby está por comenzar!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Todos están animando a Bourbon...",
+      "choice_data_list": [
+        "No dejes que te afecte.",
+        "No dejes que te afecte."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Correcto. Esto es como cualquier otra carrera.\nTengo que concentrarme."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Solo tengo un objetivo, y solo uno—alcanzar a\nBourbon."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Gracias, Big Brother. Me voy."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Gracias, Big Sister. Me voy."
+    }
+  ]
+}

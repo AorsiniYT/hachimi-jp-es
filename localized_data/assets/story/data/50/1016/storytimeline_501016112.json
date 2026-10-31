@@ -1,0 +1,217 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día, mientras trabajaba en mi oficina..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Oye, Entrenador. No hagas planes para este fin de\nsemana, por favor."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Creo que es el momento perfecto para un descanso\ncorto, así que me gustaría descansar.",
+      "choice_data_list": [
+        "Por supuesto."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Eso aplica para ti también. No olvides tomar un\npoco de tiempo libre.",
+      "choice_data_list": [
+        "¿Yo?",
+        "¿Yo?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "De todos modos, tenemos que irnos..."
+    },
+    {
+      "text": "Ella saca un papel arrugado de su bolsillo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...A las termas."
+    },
+    {
+      "text": "Al día siguiente..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Oh, esto está bastante bien. Me gusta el olor de\nlas esteras de tatami."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Apuesto a que mi mamá estaría muy celosa si le\nenvío una foto.",
+      "choice_data_list": [
+        "¿Estás segura de que traerme fue la mejor\ndecisión?",
+        "¿Estás segura de que traerme fue la mejor\ndecisión?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Demasiado tarde en este punto. Además, el boleto\nera tu premio originalmente."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "De todos modos, voy a volver a mi habitación. Tú\ntambién relájate."
+    },
+    {
+      "text": "Remojándose en las aguas termales..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ah, ahí estás."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Supongo que la cena se sirve en ese salón de allá.\n¿Vas a comer?",
+      "choice_data_list": [
+        "Sí.",
+        "Sí."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Muy bien, vámonos."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿Hm?",
+      "choice_data_list": [
+        "¿Pasa algo?",
+        "¿Pasa algo?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Pensé que la zona alrededor de mi nariz se sentía\nextrañamente suave, pero es solo la cinta que\nempieza a despegarse."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Voy a ponerme una nueva. Alcanzaré pronto, así que\ntú ve adelante.",
+      "choice_data_list": [
+        "Hemos llegado hasta aquí, así que mantengámonos\njuntos."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Bien. Seré rápido."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Entendido! Oh, eso es lo último..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Jaja, compraste mucha cinta antes, pero parece que\nla hemos usado toda."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Para ser justos, ha sido casi dos años desde el\nAsahi Hai F.S."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Dos años—no, espera, supongo que han sido tres\naños desde mi debut."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Quién hubiera pensado que duraría tanto.",
+      "choice_data_list": [
+        "¿Deberíamos comprar un poco más?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Supongo que sí. ¿Podrías hacerme un favor y elegir\nalgunos para mí? Sé que elegirás un buen uno."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Usaré vendas hasta que lo consigas.",
+      "choice_data_list": [
+        "¿Las vendas están bien?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No me sentiría bien sin nada. En cualquier caso,\nes solo una medida temporal—"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ah..."
+    },
+    {
+      "name": "Brian de joven",
+      "text": "<i>Hipo... Moqueo...</i>"
+    },
+    {
+      "name": "Hayahide de joven",
+      "text": "¿Todavía estás llorando, Brian? ¡No seas un bebé!\n¡Solo te caíste una vez!"
+    },
+    {
+      "name": "Brian de joven",
+      "text": "Pero mi nariz duele..."
+    },
+    {
+      "name": "Hayahide de joven",
+      "text": "¿Qué vamos a hacer contigo? ...Muy bien, ven aquí.\nTe pondré una venda mágica para hacerte\ninvencible!"
+    },
+    {
+      "name": "Brian de joven",
+      "text": "¿Invencible? ¿Eso me hará más fuerte que un\nmonstruo?"
+    },
+    {
+      "name": "Hayahide de joven",
+      "text": "¡Claro que sí! Confía en la Hermana Mayor, ¿vale?\nY... ¡ahí tienes!"
+    },
+    {
+      "name": "Hayahide de joven",
+      "text": "¿Cómo te sientes?"
+    },
+    {
+      "name": "Brian de joven",
+      "text": "¡Increíble! ¡Ya no duele nada! ¡Realmente soy\ninvencible!"
+    },
+    {
+      "name": "Brian de joven",
+      "text": "Jeje. Oye, Hermana Mayor... ¿Me pondrás una mañana\ntambién?"
+    },
+    {
+      "name": "Hayahide de joven",
+      "text": "Jaja, vale. Pero esto es solo un arreglo rápido,\n¿vale? ¡Asegúrate de pedirle a Mamá que lo revise!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Eso es. Desde aquella vez, siempre he tenido\nuna."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Jeje. Al parecer, he sido \"la Brian invencible\"\npor mucho tiempo ahora.",
+      "choice_data_list": [
+        "¿La Brian invencible?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Jaja, sí... De todos modos, vámonos a comer algo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "La nueva cinta está puesta, así que no debería\nhaber nada más que esté olvidando."
+    },
+    {
+      "text": "Ella está inusualmente habladora durante la cena y\nmantiene la conversación fluyendo."
+    },
+    {
+      "text": "Cada vez que su hermana mayor, Biwa Hayahide, sale\na colación, habla felizmente sobre sus recuerdos\nde la infancia."
+    },
+    {
+      "text": "Siento que Narita Brian y yo hemos formado un\nvínculo irremplazable durante este tiempo juntos."
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mejiro Ardan",
+      "text": "Haaaaah!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Raaaaah!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(¡Todavía no estás allí, Yaeno! ¡Sé que este no es\nel máximo de tu habilidad!)"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡Eso no hace falta decirlo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Craaaac!</i>"
+    },
+    {
+      "name": "Ardan y Yaeno",
+      "text": "¡Superaré mis límites, aquí mismo, ¡en este\n<i>momento!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Esa carrera fue <i>increíble!</i> ¿Viste a Yaeno Muteki\ny a Mejiro Ardan?! ¡Estuvieron fuera de este\nmundo!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Fue <i>tan</i> emocionante! ¡Se me pusieron los pelos de\npunta!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Eso fue increíble! ¡Tanto Ardan como Yaeno son\nrealmente increíbles!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Durante la carrera, podía sentirlas ayudándose\nmutuamente a superar sus límites! ¡Y no solo una\nvez, sino una y otra vez!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Su resplandor infinito... Sentí que podía\natravesar cualquier cosa... ¡Simplemente no podía\napartar la vista de ellas!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Ojalá hubiera estado allí... corriendo junto a\nlas dos!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(Creo que eso debería haber funcionado. Supongo\nque llegamos a Chiyono O allí.)"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(Por lo tanto...)"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Te estaremos esperando. Justo aquí..."
+    },
+    {
+      "name": "Espectador A",
+      "text": "¿Eh? ¿O soy yo o Mejiro Ardan está extendiendo su\nmano?"
+    },
+    {
+      "name": "Espectador B",
+      "text": "Oye, tienes razón. Me pregunto si será algún tipo\nde señal..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Ardan..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...No importa qué, <i>volveré</i> a ese escenario."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Superaré todos mis límites! ¡Voy a ir mucho más\nallá de ellos! ¡Entonces los alcanzaré a todas!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Así que hasta entonces... espérenme!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "..."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...Parece que lograste llegar a ella."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Sí. Y por eso, tienes mi agradecimiento."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Así que entonces... la próxima vez que luchemos,\nhagámoslo como trío."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "The Takarazuka Kinen.",
+      "color_text_info_list": [
+        "Takarazuka Kinen"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...Allí es donde esperaré por ti y por Chiyono O."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "El Grand Prix... Será un escenario apropiado para\nnuestro encuentro.",
+      "color_text_info_list": [
+        "Grand Prix"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "No hace falta decirlo, la victoria será mía."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Jeje. Tampoco tengo intención de simplemente\nentregar el trofeo."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(Yaeno... Chiyono O y yo tenemos la suerte de\ntenerte como nuestra rival.)"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Por lo tanto, me gustaría establecer el\nTakarazuka Kinen como nuestra próxima meta. Pero,\n¿qué opinas?",
+      "choice_data_list": [
+        "¡Suena como una gran idea!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Takarazuka Kinen era exactamente la meta que\nesperaba después de ver los resultados de hoy.\nCreo que tiene buenas posibilidades de ganarlo."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Gracias, Entrenador. Sabía que podía contar\ncontigo para decir eso."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Chiyono O seguramente regresará a las carreras,\n¿verdad?",
+      "choice_data_list": [
+        "Si tú crees que lo hará, entonces apuesto a que lo\nhará.",
+        "Si tú crees que lo hará, entonces apuesto a que lo\nhará."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...En ese caso, espero que el Takarazuka Kinen\nresulte ser una carrera bastante fantástica."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Confíando plenamente en Chiyono O, Mejiro Ardan\nfija su mirada firmemente en el Takarazuka Kinen."
+    }
+  ]
+}

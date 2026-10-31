@@ -1,0 +1,79 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet dice que quiere visitar un\nsantuario, así que yo voy con ella. Tan pronto\ncomo llegamos, ella empieza a rezar muy\nseriamente."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Bien, eso debería bastar. Esperemos que\nfuncione...",
+      "choice_data_list": [
+        "¿Qué pediste?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Me he sentido desganada últimamente. He probado de\ntodo, pero nada parece funcionar."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Dicen que este lugar se supone que tiene\npropiedades curativas, así que pensé que no podía\nhacer daño.",
+      "choice_data_list": [
+        "Entonces también rezaré por ti.",
+        "Entonces yo también rezaré por ti."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Ah? Qué amable de tu parte."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rezo con todo mi corazón que Daiwa Scarlet mejore\nsu condición."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hum. Seguro que te ves muy serio en esto. Supongo\nque <i>eres</i> mi entrenador y todo eso...",
+      "choice_data_list": [
+        "¿Ya está funcionando?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ja, deja de hacer el tonto. No hay forma de que\nfuncione tan rápido."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Pero... Huh. Supongo que <i>sí</i> me siento un poco\nmejor... ¿quizás?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Probablemente solo sea el efecto placebo, pero voy\na dar un trote corto y ver cómo me siento."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Vamos, volvamos! Quiero salir a correr antes de\nque esto se me pase."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet está de muy buen humor. Las\noraciones debieron realmente funcionar."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "No quiero hacerme demasiadas ilusiones. Por ahora,\nvolvamos y empecemos a entren―"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ugh... acabo de pisar un chicle..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Quién diablos escupe su chicle en un lugar como\neste?! ¡Y justo cuando empezaba a sentirme mejor,\nencima!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que las oraciones no han hecho mucho para\nmejorar la suerte de Daiwa Scarlet..."
+    }
+  ]
+}

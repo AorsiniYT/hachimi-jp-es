@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de su entrenamiento, Special Week, con\naspecto agitado, se acerca a mí para hablar de\nalgo."
+    },
+    {
+      "name": "Special Week",
+      "text": "Los demás en mi clase han estado mejorando cada\nvez más últimamente."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡No puedo perderles! Así que quiero entrenar un\npoco más hoy!",
+      "choice_data_list": [
+        "¡Entendido! ¡Entonces hagamos más vueltas hasta\nque estés satisfecha!",
+        "No te emociones demasiado, o podrías excederte."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Gracias! ¡Voy a hacer lo posible para obtener\nalgunos buenos resultados!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Continuamos nuestro entrenamiento hasta el último\nminuto."
+    },
+    {
+      "name": "Special Week",
+      "text": "T-tenías razón... Creo que me emocioné un poco\ndemasiado."
+    },
+    {
+      "name": "Special Week",
+      "text": "Necesito calmarme. Respiraciones\nprofundas...<i>Pfff... Fwaaah</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Special Week parece haberse calmado, pero aún\ntengo que hacer algo respecto a su exceso de\nentusiasmo..."
+    }
+  ]
+}

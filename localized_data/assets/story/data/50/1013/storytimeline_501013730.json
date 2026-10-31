@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Muchas gracias, Entrenador! Cuidaré muy bien de\nestos y los usaré para decorar mi habitación!",
+      "choice_data_list": [
+        "¿No ocuparán mucho espacio?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Oh, no, estos son pequeños comparados con los que\ntraje de casa."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "De hecho, este tamaño sería más fácil para abrazar\ny dormir—"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Ejem! N-no importa."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "De cualquier forma, ganaste estos peluches para\nmí, así que siempre los atesoraré!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡No pudo haber salido mejor!"
+    }
+  ]
+}

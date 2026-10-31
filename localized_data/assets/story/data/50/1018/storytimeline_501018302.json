@@ -1,0 +1,249 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, Air Groove y yo salimos a una tienda a\ncomprar suministros para mi oficina."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Eh? ¿Qué es eso?"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Los ganadores del primer premio reciben una\nhamburguesa de zanahoria deluxe, el segundo un\nfardo de zanahorias y el tercero una sola\nzanahoria."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¿Y usted? ¡La elegante Uma Musume de allá! ¿Le\ngustaría probar suerte?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ah que lo pienso, sí recibimos un boleto de rifa\nmientras comprábamos antes, ¿verdad?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "No estoy particularmente interesada en los\npremios..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Sin <i>embargo... esto podría </i>considerarse una\nactividad estacional. En ese caso, iría en contra\nde <i>mis valores </i>no participar."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Sí... Supongo que podemos intentarlo.",
+      "choice_data_list": [
+        "¡Tú puedes!"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "No realmente necesito tu apoyo para algo así, pero\nestá bien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Air Groove hace girar la máquina de rifa con\nfuerza!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de la abertura\ndel tambor..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Santo cielo! ¡Tenemos a un ganador del gran\npremio! ¡Venga a recoger el cupón para sus\nvacaciones en aguas termales! ¡Felicitaciones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Yo... gané?!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Je... Todo lo que hago, lo hago lo mejor que\npuedo, pero en realidad no esperaba ganar esta."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Un boleto de vacaciones en aguas termales... Un\npremio bastante grandioso."
+    },
+    {
+      "name": "Air Groove",
+      "text": "(Espera...)"
+    },
+    {
+      "name": "Air Groove",
+      "text": "(Fui yo quien giró la palanca, pero originalmente\nnos dieron ese boleto de rifa mientras comprábamos\nsuministros para la oficina...)"
+    },
+    {
+      "name": "Air Groove",
+      "text": "(¿Entonces, a quién pertenece realmente?)"
+    },
+    {
+      "name": "Air Groove",
+      "text": "(¿Quién debería tener el privilegio de canjearlo?)",
+      "choice_data_list": [
+        "Pareces preocupada por algo."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "...No es nada. Solo me preguntaba quién es el\nverdadero dueño del premio."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Puedes guardarlo por ahora. Te diré cuando\ndetermine cómo debemos usarlo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Groove me fuerza el boleto en las manos,\ndejándolo a mi cuidado."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Obtienes un bistec de\nhamburguesa de zanahoria de lujo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Bueno, <i>bueno—esto sí parece </i>de alta calidad.\nEntiendo por qué lo llaman \"de lujo\"."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ahora la pregunta es, ¿cómo deberíamos sazonarlo?\nMmm..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Lo tengo. Hagamos otra ronda en las tiendas.",
+      "choice_data_list": [
+        "¿Por qué?",
+        "¿Por qué?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿No es obvio? Necesitas la combinación perfecta de\nsabores para una delicia como esta."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Creo que esto se beneficiaría de un poco de salsa\ndemi-glace."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Conseguiremos los ingredientes de la más alta\ncalidad y haremos una salsa que iguale nuestro\npremio."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así que damos la vuelta a las tiendas una vez más\npara preparar una salsa digna de la comida."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te vas a casa con un haz de\nzanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Oh... Nada mal."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Varios estudiantes me decían que deseaban\npracticar su cocina."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Estoy segura de que podrían usar un regalo como\neste."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Vamos. Ayúdame a cargar todo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Groove se ve satisfecha mientras cargamos la\nmasiva cantidad de zanahorias de vuelta a la\nacademia."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Mira aquí! ¡Has ganado el tercer premio! ¡Aquí\nestá tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Mmm... No está mal."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Incluso una sola zanahoria puede desbloquear\nmuchas posibilidades en la cocina."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Puede usarse para una ensalada, para saltear, para\njugo..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Dime, Entrenador—¿qué harías con ella?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Groove y yo hablamos sobre nuestros platos de\nzanahoria favoritos mientras regresamos."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Oh, mala suerte! ¡Parece que sacaste uno en\nblanco! Toma este paquete de pañuelos como premio\nde consolación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Un mero premio de consolación..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "No importa. Los juegos basados en la suerte\nresultan en más perdedores que ganadores."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Es por eso que en las competencias reales, debemos\nconfiar en la habilidad y el talento, no solo en\nla suerte."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Je... Imagina aprender eso de un paquete de\npañuelos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Groove mira fijamente el paquete de pañuelos,\nluciendo un poco molesta."
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Al escuchar la voz de Matikanetannhauser, me\ndirijo a la pista de entrenamiento..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¿Cómo fue mi carrera? ¿Mi singularidad brilló,\nverdad? ¿Verdad?"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Apariencia: bizarra. Posibilidades de ser\nreportada por actividad sospechosa: altas.\nConclusión: la forma de correr del sujeto excede\nlos parámetros razonables de \"singularidad\"."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Eh, sabes... Podrías terminar cayéndote si sigues\nretorciéndote cuando corres...",
+      "choice_data_list": [
+        "¿Retorciéndote?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Oh, hola! Entonces, eh, la cosa es que..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Quería intentar correr de manera única para poder\nconseguir un montón de fans!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Y por eso les estaba pidiendo consejo a estos\ndos!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Creo que... solo correr normalmente es\nprobablemente mejor..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Afirmativo. No detecto correlación entre\n\"singularidad\" y el rendimiento exitoso en\ncarreras."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "E-en fin, solo sigan viendo. ¡Estoy segura de que\nmi próximo intento <i>realmente</i> será el bueno!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Cangrejito-cangrejito!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¿Y? ¿Qué les pareció mi carrera de lado?"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Analizando situación. Implementarlo en una carrera\nresultará en descalificación inmediata."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¿Y-y qué tal si cierro los ojos? Solo intentaré...\ncorrer así y..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡No! ¡No, no, no! ¡Demasiado aterrador!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Y-y peligroso también!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Vale, ¿qué tal si intento... correr mientras leo\nun libro?!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Correr o caminar mientras estás distraído también\nestá prohibido en la Academia Tracen."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "<i>Haa... Haa...</i> E-espera..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Esto no va a funcionar de ninguna manera,\n¿verdad?! ¿Cómo se supone que voy a ganar con\nestilos de carrera tan ridículos?!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Las carreras son <i>extremadamente</i> duras! ¡Todos se\nesfuerzan tanto por ser los mejores!",
+      "choice_data_list": [
+        "Verdad...",
+        "Verdad..."
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Juzgando por sus caras... ya lo habían\ndescubierto. Ustedes, Umamusume únicas, realmente\nestán en otro nivel. Urghhh..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Negativo. La singularidad no tiene relación con la\nrealización en cuestión."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "N-no estoy segura si Tannhauser está escuchando lo\nque decimos..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Eh... como entrenadora profesional, ¿puedes pensar\nen algún otro estilo de carrera que pueda dejar\nuna impresión en la gente?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Si puedes, por favor comparte!",
+      "choice_data_list": [
+        "Solo necesitas ganar."
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Eh..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Afirmativo. Quedar en primer lugar deja una\nimpresión duradera, resultando en alta\nmemorabilidad."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Sí... Yo también lo creo."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ya veo. Ahora que lo mencionas, eso tiene sentido,\n¿verdad? Todos recuerdan al ganador..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Y eso significa que me apoyarán... ¡Y podría\nincluso hacerlos felices?!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Revisando horario y régimen de entrenamiento\nactual... Disponibilidad confirmada. ¿Quizás\npodría hacer carreras en pareja contigo?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Yo también estoy disponible, pero eh... Solo\nespero que no pase nada malo."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Por supuesto que no! ¡Ay, gracias a todos!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Tienen razón... Si me enfoco demasiado en ser\núnica, no podré correr adecuadamente!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Así que me voy a enfocar en ganar! ¡Tomaré el\nprimer lugar como <i>¡BLAM!</i> ¡Hagamos un entrenamiento\nen pareja juntos!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Guau...! ¡Son tan rápidas! Guau... En serio..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...Bueno, ¡mejor trabajaré extra duro! ¡Lo daré\ntodo y llegaré a su nivel..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...¡Entonces ganaré! ¡Sé que puedo hacerlo!"
+    },
+    {
+      "text": "Más determinada que nunca, Matikanetannhauser y\nsus amigas siguen corriendo hasta el toque de\nqueda."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Sí... Si llegas primero, dejarás una impresión sin\ntener que hacer carreras raras."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¿¡Raras?! Raras... Supongo que tienes razón."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Afirmativo. Mis cálculos también sugieren que tu\ncaminar de cangrejo solo inducirá desdén en el\npúblico."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Urk! Vale, vale. Quizás fui un poco demasiado\nlejos..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Por otro lado, mi análisis indica que tu tenacidad\n<i>es</i> tu encanto, Tannhauser."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Estoy de acuerdo. Creo que ese encanto atrae la\natención de la gente."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Todos se detuvieron a mirarte hace un momento,\nTannhauser."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¿¡De verdad?!"
+    },
+    {
+      "text": "Miro a mi alrededor y veo a varias Umamusume\nmirando a Matikanetannhauser con expresiones\ncuriosas."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡No, esto no es lo que quería! ¡Aaagh! ¡Este es el\ntipo de atención equivocado!"
+    },
+    {
+      "text": "Matikanetannhauser se desploma en el sitio,\nexasperada y extremadamente avergonzada."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Winning Ticket",
+      "text": "¡Raaagh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de su día libre, Winning Ticket irrumpe en\nmi oficina con un fervor inmenso."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Entrenadooooorrrr! ¡Buenos días!",
+      "choice_data_list": [
+        "¡Hoy estás muy energética!",
+        "¡Hoy estás muy energética!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Verdad? ¡Lo sé! ¡Ayer comí mucho y dormí aún más!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Así que ahora estoy totalmente recargada... A\nTOPE! Como, ¡en súper condición!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Vamos, ya es hora de empezar! ¡Puedo dar un\nmillón de vueltas! ¡Vamos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ticket rebosa de poder y espíritu después de\ndisfrutar plenamente de su día libre."
+    }
+  ]
+}

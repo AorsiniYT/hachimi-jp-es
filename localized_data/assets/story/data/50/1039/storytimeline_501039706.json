@@ -1,0 +1,226 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "De regreso a la academia, Kawakami Princess y yo\ndecidimos ir a ver una película."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Lo logramos, Entrenador! ¡Conseguimos el último\nartículo de merchandising de bonificación!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Había escuchado que no quedaban muchos, así que\nestaba realmente nervioso.",
+      "choice_data_list": [
+        "¡Qué bueno que llegamos a tiempo!",
+        "¡Qué bueno que llegamos a tiempo!"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Totalmente! Amo demasiado Princess Fighter como\npara perderme la oportunidad de conseguir este\nmerchandising."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡¿Quéeee?! ¡No puede ser!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Oh, si no es Biko! ¿Qué pasa?"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Oye, Kawakami! ¿Ustedes dos vinieron a ver\n<i>Princess Fighter vs. Carrot Ranger</i> también?!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Desde luego! ¡No podía perderme este sueño de\nenfrentamiento entre princesa y héroe!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Lo sé, verdad?! ¡No creo que ningún fan lo haría!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "El único problema es... se acabaron los productos\nde bonificación. Tenía muchas ganas de conseguir\nuno..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Oh, cielos! En ese caso, puedes tener el mío."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¿E-estás seguro de que está bien?! ¡Tú también\nquerías uno, verdad?!",
+      "choice_data_list": [
+        "¿Estás seguro de esto?",
+        "¿Estás seguro de esto?"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "No hay problema alguno. ¡Es lo más natural que una\nprincesa cuide de los estudiantes más jóvenes!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Whoaaa! Muchísimas gracias, Kawakami! ¡Lo\natesoraré para siempre!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ahora bien, ¡ninguna película está completa sin\npalomitas! ♪ Disculpe, me gustaría el sabor\nzanahoria glaseada, por favor."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Oh, qué bien! ¡El Carrot Ranger Special! Yo\ntambién quiero uno, por favor."
+    },
+    {
+      "name": "Vendedor del kiosco",
+      "text": "Lo siento mucho, pero solo nos queda un cubo de\nsabor zanahoria glaseada."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡¿Qué?! ¡Pero la zanahoria glaseada es la favorita\nde Carrot Ranger!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡No hay por qué preocuparse! ¿Por qué no\ncompartimos un cubo? ♪"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Wow, en serio?! Muchas gracias, Kawakami!",
+      "choice_data_list": [
+        "¡Eres muy amable con los estudiantes más jóvenes!",
+        "¡Eres muy amable con los estudiantes más jóvenes!"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Hehehe, no hay por qué alabarme. ¡Ese\ncomportamiento es solo natural para una princesa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de que termina la película, nos dirigimos\na casa."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡WAAAAH! ¡Eso! ¡Fue! ¡INCREÍBLE!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Princess Fighter es la más fuerte absoluta!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡D-detén el llanto! ¡Y si se te caen los ojos?!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Pero... pero... ¡fue tan emotivo! ¡Ver a Princess\nFighter en esa pantalla gigante! ¡Fue tan\ndeslumbrante!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "<i>Sollozo...</i> ¡No olvidaré este día por el resto de\nmi vida!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¿Q-qué debemos hacer, Entrenador?! ¡No parece que\nKawakami pueda parar!",
+      "choice_data_list": [
+        "¡Esas lágrimas no le quedan a una princesa, sabes!",
+        "¡Esas lágrimas no le quedan a una princesa, sabes!",
+        "Solo déjala que se desahogue."
+      ]
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¿Q-qué debemos hacer, Entrenador?! ¡No parece que\nKawakami pueda parar!",
+      "choice_data_list": [
+        "¡Esas lágrimas no le quedan a una princesa, sabes!",
+        "¡Esas lágrimas no le quedan a una princesa, sabes!",
+        "Solo déjala que se desahogue."
+      ]
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡E-eso es! ¡Un verdadero héroe supera sus lágrimas\ny sigue adelante!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "<i>¡Hipo!</i> H... ¿eh?!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ohhh, pero ¿cómo se supone que deba suprimir todos\nestos <i>sentimientos?!</i>"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Estoy tan abrumado por las emociones, que siento\nque podría destrozar cualquier cosa en la que\nponga mis manos!",
+      "choice_data_list": [
+        "¡Entonces corre!"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "...",
+      "choice_data_list": [
+        "¡Si necesitas desahogarte, correr es la mejor\nforma!",
+        "¡Si necesitas desahogarte, correr es la mejor\nforma!"
+      ]
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Suena como un plan! ¡Incluso correré contigo!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ahhh, el sol de la tarde es tan hermoso. Sin duda,\neste es el tipo de paisaje que Princess Fighter\nquería proteger."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Definitivamente! ¡Y Carrot Ranger luchaba justo a\nsu lado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de correr vigorosamente por un rato, las\ndos parecen haber entrado en un estado de dicha\nmental. ¡Su apasionada amistad se profundiza aún\nmás!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "<i>Hipo...</i> ¡Gracias! ¡BWAAAAGH!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "<i>Hipo... Hipo...</i>"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "<i>¡Suspiro!</i>"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¿Te has calmado, Kawakami?"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Sí, me siento tan renovada! ¡Es exactamente como\ndicen en Princess Fighter: \"Las lágrimas son el\nsudor del corazón—¡cuanto más derramas, más fuerte\nte vuelves!\"",
+      "choice_data_list": [
+        "¡Eso significa que acabas de volverte más fuerte!",
+        "¡Eso significa que acabas de volverte más fuerte!"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "<i>¡Haa!</i> ¡Tienes razón! ¡Acabo de dar otro paso en el\ncamino para convertirme en la princesa más\npoderosa!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Jajaja! ¡Ustedes dos parecen justo como la\nverdadera Princess Fighter y el Entrenador\nLegendario!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Ohhh, por favor no digas nada que me haga más\nfeliz! ¡Podría terminar pateando este banco y\npartiéndolo en dos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La Princesa Kawakami parece a punto de estallar en\ncualquier momento, así que intento frenéticamente\ncalmarla antes de que se cause algún daño."
+    }
+  ]
+}

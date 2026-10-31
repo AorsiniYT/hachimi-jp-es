@@ -1,0 +1,268 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estoy con Agnes Digital comprando productos de Uma\nmusume, cuando..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Eh?! Mira esa fila súper larga. ¿Qué crees que\nvenden?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No necesariamente están vendiendo nada, pero vamos\na echar un vistazo y encontramos..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales para dos"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Ganadoras del primer premio reciben una\nhamburguesa de zanahoria deluxe, segundo un fardo\nde zanahorias y tercero una sola zanahoria."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡No dejes pasar esta oportunidad! ¡Oye! Tú, con el\nlazo grande. ¿Quieres intentarlo?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Consigues algún tipo de merch de Uma si sacas la\núltima bola? Si es así, ¡las sacaré todas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Detengo a Agnes Digital antes de que le tire todo\nsu dinero al empleado y la convenzo de que solo\nintente una vez."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Ohhh... ¿es esta una de esas escenas en las que\nsolo tengo una oportunidad, pero aún así me pongo\nsúper feliz no importa lo que obtenga? ¡Entendido!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "A pesar de las escasas posibilidades de ganar algo\nde merch de Uma, le daré una vuelta y rezaré por\nalgo cercano!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Muéstrenme las Umas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con esa súplica ligeramente desequilibrada, ambas\ntomamos la palanca de la máquina de rifa y la\nhacemos girar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de la abertura\ndel tambor..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Santo bacalao! ¡Tenemos un ganador del gran\npremio! ¡Venga a recoger el cupón para sus\nvacaciones en aguas termales! ¡Felicitaciones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿¿¿Hwoooaaa?! ¡Nos salió un santo <i>cielo—digo, el\ngran </i>premio?! ¡Hablando de ganar el premio mayor!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Nos vamos de <i>vacaciones... ¡Haa! </i>¿Sabes lo que\neso significa?!",
+      "choice_data_list": [
+        "¿Qué significa?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Es un encuentro privado offline! Podemos pasar\ndos días enteros juntas hablando de Umamusume <i>en\npersona!</i>"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Podemos repasar a todos los que hemos visto\ndurante nuestros tres años juntas! ¡Desde las Umas\nnovatas recién salidas de su debut hasta las\nseniors refinadas y maduras!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Podemos quedarnos despiertas toda la noche\nhablando de todos nuestros recuerdos de la Serie\nTwinkle! ¡Después de que hayamos terminado nuestra\ncarrera de doce temporadas, digo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que ella realmente lo decía en serio cuando\ndijo todos nuestros recuerdos de la Serie Twinkle."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Eso significa que tenemos que preparar montones y\nmontones de buenos recuerdos si queremos que este\nsea el mejor viaje de la historia."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Entonces, ¿puedes guardar ese boleto hasta que\nestemos listas, Entrenador?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Mientras tanto, ¡me convertiré en un álbum de\nfotos viviente capturando los momentos preciosos\nde todos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con todo el ánimo para coleccionar más recuerdos\npara nuestro futuro viaje, Agnes Digital comienza\nel año con más calor que un manantial termal."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Recibes una hamburguesa\nde zanahoria de lujo!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Ohh... ¡Ganamos el premio B—digo, el <i>primer</i>\npremio! ¡Rápido, graba! ¡Quiero recordar este\nmomento!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Una hamburguesa de zanahoria de lujo... ¡Genial!\nQuiero algo especial para acompañarla.",
+      "choice_data_list": [
+        "¿No es suficiente una hamburguesa?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Oh, tú. Si quieres hacer algo <i>extra delicioso,\n</i>necesitas coronarlo con un poco de fantasear."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Imagina una hamburguesa suave y sustanciosa\nrodeada por una multitud de Umas pacíficas y\npreciosas..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Podría comerme tres tazones enteros de arroz\npensando en ello! ¡Solo imagina lo que podría\nhacer con esta hamburguesa con una fantasía así\ncomo acompañamiento!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Correcto! Necesito ir a casa ahora mismo y\nempezar con esta cena de fantasía. ¡Tú también\nvienes!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más tarde, Agnes Digital y yo disfrutamos de\nnuestro premio hamburguesa mientras ella fantasea\ncon un banquete en mesa lleno de Umamusume."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te vas a casa con un haz de\nzanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Guau, un haz entero. Parece que vaciaron el\nalmacén entero."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "De todos modos... Jejeje... Cuanto más las\nmiras... ¿No crees que estas zanahorias empiezan a\nparecerse a Umamusume?",
+      "choice_data_list": [
+        "¿Cómo?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Por ejemplo... ¡Mira, mira esta!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Se ve delgada y dura, pero probablemente es tierna\npor dentro... Justo como Taishin..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Y luego la más pequeña al lado me recuerda al\nhueso de la clavícula de Akebono. Y la que tiene\ntodas las hojas es como Fuji con una peluca grande\nde escenario... ♪"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Oh! Y si miras esta desde un cierto ángulo—sí,\neso es <i>tan</i> ella."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su habilidad única es poder ver a Umamusume en\ncualquier cosa. Ella observa cuidadosamente cada\nzanahoria antes de saborear su sabor."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Mira por aquí! ¡Has ganado el tercer premio!\n¡Aquí está tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Una zanahoria... Bueno, solo me dieron una\noportunidad, así que supongo que tiene sentido.",
+      "choice_data_list": [
+        "¿No estás decepcionada?",
+        "¿No estás decepcionada?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Nah. Soy muy consciente de lo difícil que es\norganizar una rifa."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Pensar en la línea de premios, conseguir los\nartículos y luego disponerlos en una exhibición...\nCiertamente no es un paseo."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Cualquiera que piense que va a llevarse a casa el\núnico premio que los gobierna a todos con un solo\ndisparo es un loco."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Al final del día, ser fan se trata de apoyo, y ese\nes mi estado mental predeterminado. Sí señor..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "De vuelta al campus, Agnes Digital parece\niluminada mientras disfruta de su única zanahoria."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Ohhh, mala suerte! ¡Parece que sacaste una vacía!\n¡Toma este paquete de pañuelos como premio de\nconsolación!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Mmmm... Pañuelos, ¿eh? ...¡Oh! ¡Tal vez tengan un\ndiseño de Uma musume!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Ah, no parece. Son solo pañuelos ordinarios..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Pero supongo que esto es mejor que recibir\npañuelos aleatorios de alguien promocionando algo\nen la calle..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Odio recibir regalos de extraños. Cada vez que lo\nintentan, siempre solo salgo corriendo. <i>Suspiro...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dicho esto, una pérdida es una pérdida al final\ndel día. Agnes Digital termina sintiéndose un poco\ndecaída."
+    }
+  ]
+}

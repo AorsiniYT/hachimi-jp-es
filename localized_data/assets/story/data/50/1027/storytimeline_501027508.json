@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Los movimientos de Mejiro Ryan parecen un poco\nfuera de lo normal durante el entrenamiento.",
+      "choice_data_list": [
+        "¿Te sientes bien?",
+        "¿Te sientes bien?"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Estoy bien, de verdad! Mira estos músculos\nondulantes, llenos de energ—"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Eh? Un momento... Mis bíceps no están tan tensos\ncomo de costumbre."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Mis isquiotibiales y tríceps tampoco están en su\nestado habitualmente poderoso!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tiene razón. Sus músculos no están en óptimas\ncondiciones ahora mismo. Tal vez se esté\nsobreesforzando."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Podría ser mejor que revisemos su agenda de\ncarreras..."
+    }
+  ]
+}

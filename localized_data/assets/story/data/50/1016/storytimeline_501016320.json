@@ -1,0 +1,135 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Narita Brian gana y el Spring Shield es suyo!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...",
+      "choice_data_list": [
+        "Lo diste todo.",
+        "Lo diste todo."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Sí. Si no hubiera dado todo de mí, no habría\nganado."
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Narita Brian! Como se esperaba, ¡fuiste tan\ngenial en la pista!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Buena victoria contra Rice Shower! ¡Te viste\nincreíble!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Perdí."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Oye."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "E-eek!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No escuches ese alboroto. No importa lo que digan\nde ti, no dejes que tu fuerza vacile."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Muchas gracias. Eres una buena persona."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pero no voy a permitir que termine aquí."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Porque... hay personas a las que quiero hacer\nfelices algún día."
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Narita Brian! ¡Hazlo lo mejor posible en la\npróxima también! ¡No pierdas!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Narita Brian! ¡Briaaan!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¡Rice Shower! ¡Puedes ganar!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Gracias... Haré lo mejor posible."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Ella es fuerte.",
+      "choice_data_list": [
+        "Esto significa que nosotros también tenemos que\nvolvernos más fuertes.",
+        "Esto significa que nosotros también tenemos que\nvolvernos más fuertes."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Exactamente."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "La fuerza bruta no es suficiente para estar donde\nestamos nosotros."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Necesitamos seguir escalando... hasta la cima del\nmundo.",
+      "choice_data_list": [
+        "(Hasta la cima...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "De ahora en adelante, la cima significa las\nferoces carreras de la Senior Autumn Triple Crown,\nun nivel completamente diferente de la Classic\nTriple Crown."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las carreras más importantes del último año son el\nautumn Tenno Sho, el Japan Cup—donde compiten los\nmás feroces del mundo— y el Arima Kinen, el Gran\nPremio de fin de año.",
+      "choice_data_list": [
+        "¿Qué les parece la Senior Autumn Triple Crown?"
+      ],
+      "color_text_info_list": [
+        "autumn Tenno Sho",
+        "Japan Cup"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Si ahí está la fuerza que busco, solo di la\npalabra."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, pusimos la mira en la primera batalla de la\nSenior Autumn Triple Crown—el autumn Tenno Sho."
+    }
+  ]
+}

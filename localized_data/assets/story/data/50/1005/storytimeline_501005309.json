@@ -1,0 +1,166 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Fuji Kiseki ha cautivado a la multitud con su\nfascinante actuación!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Cháchara, cháchara!</i>"
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Está a punto de desmayarse! Supongo que no\nbromeaba cuando dijo que es más adecuada para\ncarreras de millas..."
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Tú lo hiciste genial, Fuji Kiseki! ¡Te apoyo!"
+    },
+    {
+      "name": "Espectador C",
+      "text": "¡Fuiste fantástica! ¡Me conmoví mucho!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Fuji Kiseki se endereza entre los vítores."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "<i>Haa... Haa...</i> ¡Ja, ja! ¡Gracias a todos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella sostiene su puño con orgullo sobre su cabeza\nante la multitud."
+    },
+    {
+      "name": "Miembro del Club de Fans de Fuji A",
+      "text": "¡Ahhh! La gente está tan preocupada por ella, pero\ntambién la están animando! ¡Oh, por Dios, se ve\ntan grácil arrodillada así!"
+    },
+    {
+      "name": "Miembro del Club de Fans de Fuji B",
+      "text": "¡No olvides que es una artista como ninguna otra!\n¡Todo podría ser parte de su actuación! ¡Aaah, es\nincreíble!"
+    },
+    {
+      "name": "Umamusume de cabello oscuro",
+      "text": "...Supongo que puedo observar cómo lo hace un poco\nmás."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Yay! ¡Todos parecen haber disfrutado el\nespectáculo!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Más importante, <i>ella</i> vino, y se veía bastante\ncomplacida. Eso es un alivio."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Pero vaya, el Japanese Derby es algo serio!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Esa sí que fue una carrera..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Pero me sentí tan bien mientras corría! ¡Usé toda\nla energía que tenía!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su sonrisa es genuina y llena de pura alegría...\nPero hay algo que quiero confirmar con ella antes\nde que sea demasiado tarde.",
+      "choice_data_list": [
+        "¿Crees que puedes correr el Kikuka Sho?",
+        "¿Crees que puedes correr el Kikuka Sho?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No puedo evitar preocuparme, considerando que su\naptitud para distancias hace que sea un poco\ntemerario que asuma una carrera tan larga.",
+      "choice_data_list": [
+        "(Pero aún así, tengo que respetar lo que ella\nquiere hacer.)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Espero su respuesta, listo para aceptar cualquier\ncosa que diga."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Cuando lo pienso, solo... me siento tan asustado,\ny—"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ungh!",
+      "choice_data_list": [
+        "¿Qué pasa?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Fuji Kiseki se cubre la cara con las manos y\nempieza a llorar. Me apresuro a su lado y empiezo\na acariciar su espalda para calmarla."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Ya está!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuando ella mira hacia arriba, lleva puesta una\nelegante máscara veneciana como la que se usaría\nen un baile de máscaras.",
+      "choice_data_list": [
+        "¡?!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Ah, ja, ja! Perdón, solo quería molestarte un\npoco. ¿Te sorprendí?",
+      "choice_data_list": [
+        "¡Esa es una forma de decirlo!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si está de buen humor para hacer bromas, entonces\ndebe estar bien.",
+      "choice_data_list": [
+        "Sigamos así y demos lo mejor en el Kikuka Sho."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Je, je! ¡Lo tienes!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Apenas logré el Japanese Derby."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "A 3,000 metros, el Kikuka Sho de larga distancia\nes el escenario de los fondistas."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Sé que todos me van a subestimar allí."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Pero es por eso que quiero darle la vuelta a sus\nexpectativas y superar esa barrera en una victoria\nespectacular y dramática!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Volvámonos aún más fuertes este verano!"
+    },
+    {
+      "text": "Ponemos la mira en el Kikuka Sho.",
+      "color_text_info_list": [
+        "Kikuka Sho"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Nuestra carrera a través del verano hacia el\nKikuka Sho y los fuertes oponentes que nos esperan\ncomienza ahora!"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una tarde antes de una carrera, encuentro a Taiki\nShuttle corriendo en la pista."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Las puertas están abiertas. Tres, dos, uno..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "En sus marcas, listos...",
+      "choice_data_list": [
+        "¿Por qué estás—"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Ya!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella sale corriendo con su propia señal, sin dar\nindicio de que me escuchó."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Taiki corre a ráfagas, con algo de reflexión entre\nmedio. Ella hace esto varias veces con intensa\nconcentración."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me siento y la observo por un rato."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Uf... ¿Ya se acabó el tiempo? ¡Maldición!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Oh? Bueno, ¡mira quién está! ¡Hola, Entrenador!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Me estabas viendo ahora mismo? ¿Por qué no\ndijiste nada?",
+      "choice_data_list": [
+        "No quería interrumpir."
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh, mi culpa! Se suponía que fuera una carrera\nligera, pero ¡me dejé llevar!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Correr es tan divertido, que es difícil parar.\n¿Quieres unirte por un rato?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Trabajar un buen sudor es una forma segura de\nrevitalizarte. ¡Y la comida siempre sabe mejor\ndespués también!",
+      "choice_data_list": [
+        "Ya es hora de regresar.",
+        "Ya es hora de regresar."
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡No me voy a meter en problemas si estás conmigo!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "No hay nadie por aquí a esta hora, así que es el\nmomento perfecto para descontrolarse!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Por favor, Entrenador. Quiero seguir.",
+      "choice_data_list": [
+        "Pero necesitas descansar para la carrera que\nviene..."
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Esa carrera es por la que tengo que correr."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Este es el atuendo de un ganador. Representa mi\ndeterminación y valor para ganar."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Cuando lo uso, mi corazón y cuerpo tiemblan, y\nquiero gritar para que todos oigan..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "\"No voy a perder—de ninguna manera, ¡ni hablar!\""
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Jeje. Es porque me has endurecido, Entrenador.\n¡Ahora soy codicioso por la victoria!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡No puedo perder ahora! ¡Tienes que asumir la\nresponsabilidad de este sentimiento!",
+      "choice_data_list": [
+        "Okay, podemos quedarnos un poco.",
+        "¡Me aseguraré de que ganes, así que no te\npreocupes!",
+        "¡Me aseguraré de que ganes, así que no te\npreocupes!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡No puedo perder ahora! ¡Tienes que asumir la\nresponsabilidad de este sentimiento!",
+      "choice_data_list": [
+        "Okay, podemos quedarnos un poco.",
+        "¡Me aseguraré de que ganes, así que no te\npreocupes!",
+        "¡Me aseguraré de que ganes, así que no te\npreocupes!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh, ¿de verdad?! ¡Yujuu!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Ya está muy oscuro afuera... pero eso no va a\ndetenerme!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Suena como una promesa! ¡Gracias, Entrenador!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Hm... ¿Qué tal si hago una promesa propia?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Prometo que siempre ganaré. No perderé, no importa\ncontra quién esté."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Seguir acumulando victorias hasta que llegue a la\ncima. ¡Así que asegurémonos de estar preparados,\nEntrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Taiki Shuttle y yo juramos llegar a la cima\njuntos."
+    }
+  ]
+}

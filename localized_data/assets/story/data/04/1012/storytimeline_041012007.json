@@ -1,0 +1,268 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Muy bien! ¡Hora de un uno contra uno con el mar!\n¡Nos vemos luego, Maestro!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con el campamento de verano en pleno apogeo, Hishi\nAmazon no pierde tiempo en sumergirse en las aguas\nazules brillantes. Sin embargo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Horas después, ella aún no ha regresado. El cielo\ncomienza a volverse de un rojo brillante en el\nresplandor del sol poniente, cuando finalmente..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "<i>Jadeando...</i> ¡Ya volví, Teach! Me tomó tiempo, pero\nlo logré!",
+      "choice_data_list": [
+        "Me estaba preocupando. ¿Qué pasó?",
+        "Me estaba preocupando. ¿Qué pasó?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Me atrapó la marea saliente mientras nadaba, y me\narrastró mar adentro."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Podría haber nadado fácilmente de regreso saliendo\nde la corriente, pero esto era un desafío del\nocéano para mí, ¿sabes?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Así que lo enfrenté de frente! Nadé contra la\ncorriente y regresé todo el camino por pura\ndeterminación. ¡Ja, las corrientes de resaca no\ntienen nada contra mí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La frase, \"No intenten esto en casa, gente\",\ninvoluntariamente viene a mi mente."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "De todos modos, trabajé otro buen sudor hoy.\nVamos, Maestro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Justo cuando estamos a punto de irnos de la\nplaya..."
+    },
+    {
+      "name": "Residente Local",
+      "text": "Hmm, qué lío. Realmente estamos llegando al límite\naquí. Tengo que idear algo..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Eh, suena como que ese tipo está en apuros. Debe\nser uno de los locales. Oye, tú allí. ¿Algo malo?"
+    },
+    {
+      "name": "Residente Local",
+      "text": "Ah... Bueno, verás, se supone que debemos realizar\nun concurso de karaoke en el festival de verano\nesta noche."
+    },
+    {
+      "name": "Residente Local",
+      "text": "Pero como están las cosas ahora, simplemente no\ntenemos suficientes participantes. Supongo que\ntodos están demasiado avergonzados para hacer\nkaraoke al aire libre..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Oh, sí, eso suena como un problema. Y no puedo\nignorar a una persona en problemas. Pero por mucho\nque me gustaría ayudar..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Probablemente no tiene sentido intentar invitar a\npersonas si todas son demasiado tímidas para\nempezar. ¿Tienes alguna idea brillante, Maestro?",
+      "choice_data_list": [
+        "¿Qué tal preguntar a los otros miembros del\ncampamento?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Oh, buena idea! Habrá mucha competencia si todos\nnos unimos juntos. ¡Lo entiendo!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Ese fue un pensamiento rápido, Maestro. ¡Un\nconcurso de karaoke de Umamusume! ¡Solo la idea me\ntiene todo emocionado!"
+    },
+    {
+      "name": "Participante No. 6",
+      "text": "¡Gracias a todos por animarme!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El concurso de karaoke cobra vida con el canto\napasionado y el baile de las Umamusume."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Nada mal. Bueno, solo mantén el escenario caliente\npara mí. <i>Yo</i> seré la que se lleve la corona.",
+      "choice_data_list": [
+        "Pareces confiada.",
+        "Pareces confiada."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Claro que sí. Después de todo, tengo estas\npoderosas cuerdas vocales que <i>tú</i> ayudaste a\nperfeccionar!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "En un escenario al aire libre, el cielo es mi\núnico límite. ¿Quién podría derribarme? Mientras\nnadie saque alguna arma secreta..."
+    },
+    {
+      "name": "Participante No. 7",
+      "text": "¡Hola, soy la participante número siete! Estaré\ninterpretando un dúo con Kenta, un estudiante de\nla secundaria local. ¡Espero que disfruten de esta\nespecial colaboración!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Oh!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿¡Q-qué? ¿Un dúo?! No vi eso venir..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Y la audiencia simplemente lo está devorando! No\npuedes estar bromeando..."
+    },
+    {
+      "name": "Participante No. 7",
+      "text": "¡Gracias, gracias! Veamos qué puntuación\nobtuvimos..."
+    },
+    {
+      "name": "Participante No. 7",
+      "text": "¡Yay! ¡Noventa y ocho puntos!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Noventa-<i>ocho?!</i> E-e-eso es una locura. No hay\nforma de que supere un dúo con una local si solo\nme quedo con mi rutina de siempre."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Entonces, ¿qué ahora? Esto ya no se trata solo de\nhabilidad. Tengo que idear un plan de juego..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "En serio, espera. Soy pésima para armar\nestrategias... ¿Se te ocurre algo, Profe?",
+      "choice_data_list": [
+        "Ya sabes lo que dicen: ¡ojo por ojo!"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Qué quieres decir? ¿Ojo por ojo? O sea, ¿diente\npor diente? ¿Dúo por dúo?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Ah, ya entiendo! Si yo también canto un dúo,\nentonces nivelamos la competencia. Ahora solo\ntengo que encontrar al compañero adecuado!",
+      "choice_data_list": [
+        "¿Quizás una compañera de dormitorio?",
+        "¿Quizás una compañera de dormitorio?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Sí, tendría sentido aliarme con otra Uma Musume,\nya que los conciertos son como lo nuestro..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Pero voy a cambiar las cosas y seguir mi instinto.\nMi compañero de dúo va a ser... ¡tú, Profe!",
+      "choice_data_list": [
+        "¿¡Yo!?",
+        "¿¡Yo!?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Así es. Quiero decir, claro, nosotras las Umas\ncantamos todo el tiempo, así que podríamos tener\nuna pequeña ventaja..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Pero aquí te estás emparejando con <i>mí</i>! Tenemos\nalgo especial entre nosotras que va más allá de\ntoda comprensión."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Vamos, ¿recuerdas nuestro concurso de cocina? Las\ndos íbamos a toda máquina preparando comidas\ntotalmente diferentes."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Esa es la sensación que busco. Estábamos sirviendo\npor todos lados, pero era como si aún fuéramos un\nequipo. Ese tipo de sensación."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Quiero un uno contra uno—en forma de dúo! Donde\npodamos pelear y enredarnos en la canción y\n<i>realmente</i>calentar las cosas!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Eres la única que podría seguirme el ritmo.\nEntonces, ¿qué dices? ¡Cantemos mi canción...\njuntas!",
+      "choice_data_list": [
+        "...¡De acuerdo, voy!"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Jaja, ¡sabía que te convencería! Contigo a bordo,\neste concurso está prácticamente ganado."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Vamos, compañero!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Señoras y señores, ¡es hora del evento principal!\nUna presentación en equipo está bien, pero ¿qué\ntal una sesión ardiente para ese ambiente de\nverano?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Aquí viene un duelo especial—digo, <i>dúo</i>—de la\nvieja Teach y la que les habla! ¡Pongan esa<música\nalta y con orgullo!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Un brindis por nuestra victoria épica... ¡salud!\nJaja, no tenía idea de que pudieras cantar así,\nTeach!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Peleamos con uñas y dientes, y robamos ese dulce\nreflector de verano. Supongo que nuestra pasión\nardiente nos dio la ventaja.",
+      "choice_data_list": [
+        "Y el poder del trabajo en equipo."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Je. Por favor, ¿de qué estás hablando? Sigue\nsoltando tonterías así y te pondré en un llave."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Al final, no pudimos igualarnos... como siempre.\nAsí que ambas empezamos a hacer lo nuestro, y\nresultó genial."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Ese es el camino que finalmente encontramos. Uno\nque nos pertenece solo a nosotras."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Así que no te contengas, Teach. Sigue viniendo a\npor mí. ¡Seguiremos sirviendo esos uno contra\nuno... juntas!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Chocaremos cuernos, nos pelearemos, y luego\nreiremos cuando ganemos después de entrar con las\narmas encendidas. Entonces, ¿qué dices? ¿Quieres\nun pedazo de esa acción?",
+      "choice_data_list": [
+        "Tantos pedazos como pueda."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Teach..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Espera, ¿qué clase de redacción es esa? Creo que\ntal vez te estás metiendo un poco <i>demasiado</i> en\nesto.Pero, bueno..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Je. Muy bien, ¡es una promesa! Esta victoria es\nsolo el comienzo!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "No te voy a perder, ¡así que no te atrevas a\nperderme a mí! ¡Vamos a mantener este uno contra\nuno rodando! Correré a toda velocidad... ¡intenta\ndejarme atrás!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En lugar de alinearse ordenadamente, nuestras\nhuellas siguen entrelazándose como si compitieran.\nQuizás así es como se ve realmente una carrera de\ntres piernas?"
+    }
+  ]
+}

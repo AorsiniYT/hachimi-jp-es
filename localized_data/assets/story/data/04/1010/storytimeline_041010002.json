@@ -1,0 +1,247 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente llega con Taiki Shuttle aún\ncreyendo que ha sido reclutada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pensando que está mal reclutar a alguien basándose\nen un malentendido, me propongo con la esperanza\nde darle la noticia con delicadeza."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de buscar un poco, encuentro a Taiki en el\npatio con un par de otros estudiantes."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "<i>Gulp...</i> ¡Vale, Fukukitaru—lista como nunca! ¡Dime\nlo que ves en tu visión!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Por supuesto! ¡Allá voy!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Pri-pri, mero-mero, starry-cup... ¡Oh gran\nShiraoki, concédeme tu sabiduría!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "...¡Lo tengo! Escucha y asómbrate, Taiki! Tu\ndirección de la suerte para este mes es...\neste-sureste!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh, <i>¡sí!</i> Esa es justo la respuesta que\nnecesitaba, Fukukitaru!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Entonces, Suzuka, hagamos la fiesta en algún lugar\nal este-sur-sur... este-este. ¡Sí!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "El este-sureste, ¿no era? No estoy segura de qué\ndirección sería el este-sur-sur-este-este..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Ahora, ahora—no sirve de nada obsesionarse con los\ndetalles!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "De cualquier manera, Suzuka, ¡va a ser divertido!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Ven a mi fiesta de barbacoa, y te voy a alimentar\nhasta que tu cuerpo esté todo suave y esponjoso!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "E-e-es una oferta amable, pero no estoy segura de\nquerer ser suave y esponjosa..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "De cualquier manera, ¡me alegro mucho por ti,\nTaiki! Felicidades por encontrar un entrenador!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Gracias, Fukukitaru! ¡Espero verte allí también!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Quiero invitar a tantos amigos como pueda. Porque\nya sabes lo que dicen —¡cuantos más, más felices!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Viendo a Taiki charlando alegremente con sus\ncompañeros de clase, es evidente que es una\npersona brillante y amigable."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Hola, Entrenador!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Ehehe. Solo quería decirte cuánto espero nuestra\nsesión de entrenamiento hoy."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Y, bueno... La gente me dice que puedo ser un poco\ndispersa, pero no te preocupes. ¡Voy a darle con\ntodo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su entusiasmo sin límites hace que sea aún más\ndifícil rechazarla."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero se debe tomar una decisión...",
+      "choice_data_list": [
+        "¡Me alegra tenerte a bordo!",
+        "¡Me alegra tenerte a bordo!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Por supuesto! ¡Gracias por acogerme!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así, nuestra primera sesión de entrenamiento\njuntos comienza. Sin embargo..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh, Suzuka! ¡Hola!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Ah, Taiki—espera, ¡detente! Por favor, no te\nabalances sobre mí, ¿vale?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh! Bueno, qué lástima. Los abrazos son una señal\nde afecto, ¿sabes?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Los tuyos son un poco como que me atropelle un\ncamión. De hecho, ¿no se supone que debes estar\nentrenando ahora?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh, lo había olvidado por completo!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Perdón por salir corriendo así de repente,\nEntrenador! En cuanto vi a Suzuka, mis piernas\nsimplemente se fueron por su cuenta."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh, ya sé! Ya que estás aquí y todo, ¿por qué no\nentrenamos juntas, Suzuka?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Qué? P-pues... ¿Estaría bien para ti, Entrenador?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque completamente no planeado, tener a alguien\ncon el talento de Silence Suzuka unirse a nuestra\nsesión sin duda sería beneficioso.",
+      "choice_data_list": [
+        "Honestamente, lo consideraría un favor.",
+        "Honestamente, lo consideraría un favor."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Muy bien. Estaba planeando hacer algo de\nentrenamiento de distancia hoy, así que ¿te\nimportaría si nos aventuramos fuera de los\nterrenos de la escuela?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Fuera de los terrenos?! ¡Eso suena divertido!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Sin problema alguno! ¡Vamos, vamos, vamos!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Espera, Taiki. Esa era una pregunta para tu\nentrenador...",
+      "choice_data_list": [
+        "No hay problema. ¡Adelante!",
+        "No hay problema. ¡Adelante!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Entonces a la carrera! ¡Yujuuu!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Hey, espera! H-hasta luego!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Espero en la puerta de la escuela a que regresen,\nsintiendo solo un ligero temor. Eventualmente,\nescucho el sonido de pasos."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>Pant, pant...</i> Hemos vuelto.",
+      "choice_data_list": [
+        "Eh... ¿Dónde está Taiki?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿¡Eh? Espera, ¿qué?! ¡Estaba seguro de que estaba\njusto detrás de mí!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡L-lo siento! Tiene la costumbre de detenerse a\nhablar con todos los que conoce, así que quería\nmantenerla bajo vigilancia..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Pero tengo mi propia costumbre de tener visión de\ntúnel cada vez que corro... L-lo siento mucho!",
+      "choice_data_list": [
+        "¡Vamos a buscarla!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Suzuka y yo buscamos a lo largo del curso de\ncarrera por Taiki."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Bang! Sí, ¡otro blanco perfecto!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Oh, acabo de oírla! ¡Creo que está por aquí!"
+    },
+    {
+      "name": "Niña A",
+      "text": "¡Oh, yo después! ¡Quiero intentarlo! ¡Muéstrame\ncómo se hace!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Déjalo en mis manos! Una vez que aprendas mis\nhabilidades de tirador, serás como un héroe en un\nwestern—¡pistola de juguete o no!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Allí estás, Taiki! ¡Gracias a Dios que te\nencontramos!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh, si no es Suzuka! ¡Y también el Entrenador!\n¿Por qué están ambos tan sin aliento?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Ohhh, perdón! ¡Completamente olvidé que estaba en\nmedio de correr!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Taiki..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que el camino que tenemos por delante va a\nser bastante accidentado."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Bueno... Hice algunas amigas lindas, así que...\n¿¡p-puedes perdonarme esta única vez?!"
+    }
+  ]
+}

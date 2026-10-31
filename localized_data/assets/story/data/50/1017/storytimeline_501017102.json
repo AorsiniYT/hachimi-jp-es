@@ -1,0 +1,247 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Este año, Symboli Rudolf finalmente competirá a\nnivel senior.",
+      "color_text_info_list": [
+        "senior"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hemos venido juntos al santuario a rezar por su\néxito."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Parece que los instructores ya están aquí."
+    },
+    {
+      "name": "Instructor A de la Academia Tracen",
+      "text": "Hola, Rudolf! ¿Aquí para la visita de Año Nuevo?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Por supuesto. Feliz Año Nuevo para usted."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Planeo visitar de nuevo más tarde con el resto del\nconsejo estudiantil, pero pensé en hacer una\nvisita informal primero. Espero que no le moleste."
+    },
+    {
+      "name": "Instructor B de la Academia Tracen",
+      "text": "Para nada. Supongo que vendrá a rezar por el éxito\nen sus carreras?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Por supuesto. Aunque, considerando mi posición,\nsería apropiado rezar también por el éxito de la\nacademia."
+    },
+    {
+      "name": "Instructor C de la Academia Tracen",
+      "text": "Siempre estás en modo presidenta, ¿verdad? ¡Es por\neso que todos los estudiantes dicen que pueden\ncontar contigo!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Contar... ¿conmigo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una sombra cae sobre el rostro de Rudolf por un\nmomento, pero se va tan rápido como llega."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Mis padres <i>sí</i> siempre dijeron que necesitaban\nmantener un... \"ojo real\" sobre mí para mantenerme\nfuera de problemas."
+    },
+    {
+      "name": "Instructor A de la Academia Tracen",
+      "text": "Bueno, ¡si eso no es lo más 'juegodepalabras' que\nhe escuchado hoy! ¡Jajaja!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿'Juegodepalabras'? D-dios mío, esa es buena...\n¡Jajaja!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me da la impresión de que los profesores comparten\nel sentido del humor de Rudolf."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eventualmente, los profesores se van..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Hum..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Pero Rudolf aún parece tener algo en mente.",
+      "choice_data_list": [
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Espero escuchar la razón por la que su expresión\nse nubló hace unos minutos, pero en su lugar..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Temo haberme avergonzado."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Inventé una falsedad a costa de un chiste...",
+      "choice_data_list": [
+        "...¿Eh?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Nunca fui una niña especialmente traviesa, y mucho\nmenos infame por ese comportamiento."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ese chiste que conté fue una fabricación. Y\ndebería saber mejor que nadie que reflejar la\nrealidad es la esencia de la comedia..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "La idea apareció de repente en mi mente y actué\nimpulsivamente. Lamento mis acciones por\ncompleto...",
+      "choice_data_list": [
+        "¡Olvidemos todo eso!"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Sí, olvidémoslo. No tenemos tiempo para\nangustiarnos por crímenes contra la comedia."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Nuestra agenda está a rebosar. Incluso esta visita\nal santuario es con el tiempo justo.",
+      "choice_data_list": [
+        "Este año empieza ajetreado, ¿eh?",
+        "Este año empieza ajetreado, ¿eh?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "El comienzo de un nuevo año siempre es ajetreado."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Tenemos colegas a quienes saludar, reuniones de\nAño Nuevo a las que asistir, trabajo pendiente del\naño anterior... Nuestros deberes son muchos y\nvariados."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Así que, dado que tenemos tan poco tiempo, vayamos\nal grano."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Dicen que un deseo no puede sobrevivir al ser\npuesto en palabras, pero también dicen que una\npromesa hecha es una promesa cumplida."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Y preferiría hablar nuestros deseos en voz alta,\npara que podamos compartirlos. ¿Qué piensa?",
+      "choice_data_list": [
+        "Estoy de acuerdo.",
+        "Estoy de acuerdo."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Entonces dígame su deseo para este año.",
+      "choice_data_list": [
+        "Buena salud. Quiero que comas sano.",
+        "Dominio. Quiero que seas el Emperador más grande\nde la historia.",
+        "Cultura. Quiero que refines tu comedia."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Una buena idea. Toda Umamusume debería esforzarse\npor lo mismo."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Y con mi tiempo tan limitado este año, será aún\nmás importante ser consciente de lo que consumo."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Hablando de eso, puede que sepa cómo hacer el\ncomienzo perfecto."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Noto que cierta bebida está disponible en el\npuesto de allá.",
+      "choice_data_list": [
+        "¿Te refieres al amazake?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Esa misma. ¿Qué te parece si probamos un poco?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Seguramente podemos tomarnos un descanso de cinco\nminutos en nombre de la buena salud."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Symboli Rudolf y yo chocamos nuestras tazas\nmientras disfrutamos de un breve respiro."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Dominio? Vaya. Esa es una meta bastante audaz."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Me estás pidiendo que alcance el mismo nivel que\nlas deidades del mito?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "El camino será largo y arduo... pero entonces, no\nlo querría de otra manera."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Y además, admiro que puedas hacer declaraciones\ntan grandiosas sin pestañear."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Muy bien, caminemos el camino del dominio juntos.\nConfío en que este año será nuestro mejor hasta\nahora."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Oh? ¿Podría ser?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Finalmente has abierto los ojos a las\nposibilidades de los juegos de palabras?",
+      "choice_data_list": [
+        "Eh..."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Si me ayudaras a refinar mi arte, me salvarías de\nvergüenzas como la anterior."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Deberíamos celebrar una sesión de estudio lo antes\nposible. ¿Podrías venir preparado con algunas\nideas?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Veamos... cien deberían ser suficientes.",
+      "choice_data_list": [
+        "¿¡Quieres cien juegos de palabras!?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Si tienes la amabilidad. No temas; yo también\ntraeré mi mejor material."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Algún tiempo después, Symboli Rudolf y yo\ncelebramos una sesión de tormenta de juegos de\npalabras, en la que ella realmente se luce."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El trabajo que pusimos no es broma. Creo que ha\ndado sus frutos, aunque aún queda un largo camino\npor recorrer."
+    }
+  ]
+}

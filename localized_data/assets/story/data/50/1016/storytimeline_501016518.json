@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, veo a Narita Brian en un campo arrancando\nmalezas con el jardinero."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Esto es una molestia! ¡Cuánto más tenemos que\nhacer?!",
+      "choice_data_list": [
+        "¿Qué estás haciendo?",
+        "¿Qué estás haciendo?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Agh—¡Entrenador?! E-esto es solo..."
+    },
+    {
+      "name": "Jardinero",
+      "text": "Castigo. Ella caminó por el campo y pisoteó las\nplántulas, así que la hago arrancar malezas."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Dije que no fue a propósito, ¿no?! ¡Maldición!\n¡Realmente no es mi día!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Bien! ¡Haré de esto un campo de desesperación!\n¡Prepárense, malezas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Brian arranca malezas salvajemente, pero\nagacharse todo el día arrancando malezas debe ser\ncansado, incluso para ella..."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Me dirijo a la cafetería para el almuerzo,\ncuando..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ataque de gordi-gordi!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Ahahaha! ¡P-para!",
+      "choice_data_list": [
+        "¿Q-qué están haciendo ustedes dos?",
+        "¿Q-qué están haciendo ustedes dos?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ah! ¡Tú también tienes que probar esto,\nEntrenador! ¡Gordi-gordi!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Mi barriga es suave como un malvavisco!\n¡Gordi-gordi! ¡Se siente tan bien!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Vamos, puede ser divertido, ¡pero nunca te\nconvertirás en un adulto actuando así!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Si tu barriga se pone más grande... podrías no\npoder meterse en tu traje de carrera\ncaracterístico!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Qué?! ¿E-en serio?!",
+      "choice_data_list": [
+        "¿Qué tal una dieta?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Entendido! ¡Quiero seguir entrando en mi traje de\ncarrera!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Eh, ¿pero cómo se hace una \"dieta\"?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de muchas sesiones de entrenamiento extra,\nlos días de la \"barriga gordi-gordi\" de Haru Urara\nhan terminado."
+    }
+  ]
+}

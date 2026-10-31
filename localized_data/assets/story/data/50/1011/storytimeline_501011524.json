@@ -1,0 +1,94 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Durante el entrenamiento, Grass Wonder parece\nestar sufriendo por el calor.",
+      "choice_data_list": [
+        "¿Estás bien?",
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sí... Puedo manejar. Solo dame un momento para\nenfriarme, y debería estar de pie en seguida."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Lamento haber forzado esta pausa en nuestra sesión\nde entrenamiento."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ojalá mi cuerpo se adaptara mejor al verano.",
+      "choice_data_list": [
+        "¿No te gusta el calor?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Supongo que no. El frío no me molesta, pero un\ncalor sofocante como este es diferente..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ojalá hubiera una buena manera de superarlo...",
+      "choice_data_list": [
+        "¡Si despejas tu mente, incluso el fuego se sentirá\nfresco!",
+        "¡Hay formas tradicionales de vencer el calor!"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Eso es... un dicho japonés, ¿verdad?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Si enfrío mis pensamientos, el calor no puede\nmolestarme."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ya veo. Este tipo de mentalidad podría ser lo que\nnecesito ahora mismo.",
+      "choice_data_list": [
+        "¡Veamos cuál de los dos puede mantener la\nconcentración por más tiempo!"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh... ¿Eso es un desafío? Sabes que no puedo\nretroceder ante eso, ¿verdad? ♪"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Muy bien, Trainer. Acepto, y no perderé. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La sesión de hoy fue un poco dura para ella, pero\nparece que Grass Wonder ha agarrado el truco para\nlidiar con el calor."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Es cierto. De repente, se me ocurren abanicos de\nmano, campanillas de viento, sandías... O quizás\nun chorro de agua."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Eheh—sabes, ya me siento más fresca solo al decir\nesas palabras. Entonces... ¿cuál crees que\ndeberíamos probar, Trainer?",
+      "choice_data_list": [
+        "¡Probemos todos!"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh, vaya... Ambicioso, ¿eh?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sin embargo... yo también. ♪ Hagamos los\npreparativos en seguida."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Una misión para vencer el calor juntos... Hehe,\ncasi no puedo esperar. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La sesión de hoy fue un poco dura para ella, pero\nparece que Grass Wonder ha aprendido a disfrutar\nel calor."
+    }
+  ]
+}

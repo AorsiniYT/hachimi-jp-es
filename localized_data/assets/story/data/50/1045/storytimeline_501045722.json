@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mientras Super Creek y yo hablamos sobre el\nentrenamiento..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Uuuh... Mi cabeza...",
+      "choice_data_list": [
+        "¡¿Estás bien?!"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Caramba, lo siento. ¿Te asusté?"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Jeje! Eres un alma tan amable. Estoy bien."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Tengo un poco de dolor de cabeza, pero estoy\nsegura de que estaré perfecta en un santiamén."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Así que no hay por qué preocuparse, ¿vale?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de lo que dice, parece estar en dolor.\nDebería probablemente mantenerla bajo observación."
+    }
+  ]
+}

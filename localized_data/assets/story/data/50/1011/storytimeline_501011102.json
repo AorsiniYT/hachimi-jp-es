@@ -1,0 +1,381 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Grass Wonder",
+      "text": "Feliz Año Nuevo, Entrenador."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ahora que nos hemos lavado las manos, podemos ir a\nofertar nuestras oraciones."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me pongo en fila con Grass Wonder, y antes de lo\nque canto, nuestro turno llega."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ahora, ¿qué pedir?",
+      "choice_data_list": [
+        "Rezar por la salud de Grass.",
+        "Rezar para que Grass se vuelva más fuerte.",
+        "Rezar para que Grass afine su forma de correr."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Pla, pla!</i>"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Estar pendiente de mi condición? Qué amable."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hehe. Solo saber que te importa ha alegrado mi\nánimo."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Con este nuevo impulso, quizás empiece a\nesforzarme más... Solo bromeaba."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Aplauso, aplauso!</i>"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Más fuerte, dices? Debes esperar grandes cosas de\nmí."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ya estoy en camino de convertirme en una \"Bestia\".\nSi me vuelvo más fuerte, ¡podría comerte! Hehe."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Aplauso, aplauso!</i>"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Correr más afilado, ¿eh? Interesante."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Es cierto, ahora entro en mi último año. Me\nenfrentaré a todas las mejores corredoras de aquí\nen adelante.",
+      "color_text_info_list": [
+        "último año"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Así que debemos afilar mis habilidades al máximo.\nContaré contigo, Entrenador. ♪"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ahora que hemos hecho nuestras oraciones..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Deberíamos volver a la academia para entrenar.\nPero como es un día festivo, ¿por qué no nos\ntomamos nuestro tiempo?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sería un desperdicio no disfrutar completamente de\nla celebración."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Partamos, Entrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los dos damos un paseo por los terrenos del\nsantuario, llenos del ambiente festivo del Año\nNuevo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Excepto... Por alguna razón, Grass Wonder parece\nextrañamente distraída todo el tiempo."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "...",
+      "choice_data_list": [
+        "¿Estás bien, Grass?",
+        "¿Estás bien, Grass?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Eh? Oh..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Disculpa. Creo que me quedé ensimismada en el Año\nNuevo. Hehe, qué descuidada de mi parte."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hmmm... ¿por qué no comenzamos con el\ncalentamiento usual?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es entonces cuando <i>ella</i> aparece."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Una ráfaga de viento! ¡Su rojo característico!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡El veloz Pájaro Fantasma ha aterrizado en el\ncampo de batalla!",
+      "color_text_info_list": [
+        "Pájaro Fantasma"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Es la corredora más fuerte del mundo! ¡El Condor\nPasa, en la casa!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "...El."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Qué estás haciendo aquí?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Detrás de su calmada sonrisa arde el espíritu de\nun guerrero."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "En el ojo del remolino llameante, el césped se\nprende fuego! ¡El mundo es sacudido por un azul\nprofundo de lo desconocido!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Grass Wonder! ¡Al ring!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Esto... es otro desafío?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Escucha, El, ya tengo planes para hoy..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Oh. ¿Asustada, huh?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Crees que vas a revivir esa vergüenza que\nsentiste en el Arima Kinen?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "...!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Vi todo, Grass. Tu contienda contra Sei.",
+      "color_text_info_list": [
+        "Sei"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Y me aburrió tanto que me quería arrancar el\npelo!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Mi corazón y alma quedaron completamente\ninmóviles! Tu carrera carecía tanto de calor, que\ncasi cojo un resfriado!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Tú no..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No entiendes nada, El."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Que me nieguen la oportunidad de siquiera\ncompetir! ¡Que me nieguen la oportunidad de\nreclamar el nombre de \"Bestia\"!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Mírame, Grass!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "...!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Soy el Pájaro Fantasma, rápida como el rayo, la\nmás fuerte del mundo!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡La barrera gigante que bloquea tu camino a la\ncima!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Un muro que debes superar a toda costa si quieres\nllegar a tu verdadero destino!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Justo como Maruzensky!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Que te nieguen el título de \"Bestia\"? ¿Qué clase\nde tontería es esa?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Tu objetivo—el premio que tenías en la mira todo\neste tiempo..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿No era más que un nombre?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Yo..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "...Olvídalo. No estás invitada al ring."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Si te enfrento cuando estás así... solo apagará el\nfuego dentro de mí también."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Adiós."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de que El Condor Pasa se va, Grass Wonder\npermanece inmóvil, como congelada en el lugar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No se puede acercar a ella así. El aire\nprácticamente chisporrotea a su alrededor mientras\nella se queda allí en silencio, hasta..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como disparada desde un cañón, ella se acerca\ncorriendo hasta mí."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Entrenador. ¿Todavía tienes el papel donde te\nescribí mi promesa?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su voz es suave, pero es imposible pasar por alto\nlas llamas ardiendo justo debajo de la superficie.\nSi se refiere al papel de caligrafía con\n\"determinación\" escrito en él, entonces...",
+      "choice_data_list": [
+        "Por supuesto que la tengo.",
+        "Por supuesto que la tengo."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Podrías dármela? Ahora mismo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Escalofríos recorren mi espalda. Saco el papel tan\nrápido como puedo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Arrebatándomelo de las manos, Grass Wonder\nsostiene el hermosamente escrito kanji y—"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella lo hace pedazos."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Determinación... Qué broma.",
+      "choice_data_list": [
+        "¡¿G-Grass?!"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Fui una cobarde, demasiado tímida para seguir\ncaminando por el camino."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "La sombra de Maruzensky se cernía demasiado alta,\ndemasiado grande... y me tragó entera."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Quedé atrapada por el nombre \"Bestia\"."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Si realmente alcanzo la cima al final de este\ncamino, los títulos vendrán naturalmente."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No dudaré más."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Es un nuevo año, Entrenador, así que permíteme\nrenovar mi promesa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Grass Wonder saca un pincel."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Determinación."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡No importa qué muros se interpongan en mi camino,\nno me encogeré ante ellos!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Nunca más, hasta el día que alcance la cima!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Entrenador, quiero intentar correr en el\nTakarazuka Kinen como mi próximo objetivo de\ncarrera. ¿Estaría bien?",
+      "color_text_info_list": [
+        "Takarazuka Kinen"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Como con el Arima, la entrada se determina por\nvoto público. ¿Qué mejor escenario para demostrar\nmi renovada determinación?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Cuando alcance la cima, todos estarán mirando!",
+      "choice_data_list": [
+        "¡Entonces está decidido!",
+        "¡Entonces está decidido!"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Me disculpo por haberte preocupado."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fan A",
+      "text": "¡Special Week contra Grass Wonder! Guau, no tengo\nidea de quién va a ganar!"
+    },
+    {
+      "name": "Fan B",
+      "text": "¿Pero qué hay de Seiun Sky? Bueno, supongo que no\npudo entrenar mucho mientras intentaba\nrecuperarse..."
+    },
+    {
+      "name": "Fan A",
+      "text": "Hmm, no creo que tenga oportunidad. Quién sabe qué\nefecto tuvo esa lesión en ella? Es una total\nlástima."
+    },
+    {
+      "name": "Fan C",
+      "text": "..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Puedes creerlo? Al parecer mucha gente duda de\nmis posibilidades!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Bueno, no es como si pudiera <i>culparlos. Esas </i>dos\npudieron entrenar como normal. Soy un cero a la\nizquierda comparado con ellas.",
+      "choice_data_list": [
+        "Uy..."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "\"Uy\" ¡tienes razón! Supongo que nunca seré la\nfavorita de nadie para ganar. Bua."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pero eso es exactamente lo que va a hacer que esta\ncarrera sea lo suficientemente divertida como para\ngritar de alegría. ♪",
+      "choice_data_list": [
+        "¿Tienes todos tus planes listos?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Wahaha! ♪ ¡Por supuesto! ¡Lo único que falta es\nverlas desarrollarse!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Soy tan despreocupada como el viento. Bueno, hora\nde correr.",
+      "choice_data_list": [
+        "¡Sky!"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Eh?",
+      "choice_data_list": [
+        "¡Si vas a ser como el viento, asegúrate de\nllevarme por delante!",
+        "¡Si vas a ser como el viento, asegúrate de\nllevarme por delante!"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Heheh... Entendido."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Estás a punto de quedar asombrado más allá de la\ncreencia, Entrenador. ♪"
+    },
+    {
+      "name": "Fan C",
+      "text": "Pero... sabes, es <i>de Seiun </i>Sky de quien estamos\nhablando."
+    },
+    {
+      "name": "Fan C",
+      "text": "Si alguien puede lograr algo increíble, es ella."
+    },
+    {
+      "name": "Fan C",
+      "text": "Sí... ¡Estoy segura!"
+    }
+  ]
+}

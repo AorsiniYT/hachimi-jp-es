@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Hishi Amazon",
+      "text": "Oye, Teach. Espero que hayas tenido... un buen\ndescanso... <i>Bostezo...</i>",
+      "choice_data_list": [
+        "¿Qué pasa? Te ves agotado...",
+        "¿Qué pasa? Te ves agotado..."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Sí, sobre eso... Recibí una carta de una\nexresidente del dormitorio."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Era bastante larga, y me excedí un poco al\nescribir la respuesta."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Terminé escribiendo el doble de lo que ella tenía,\ny para cuando terminé, el sol ya había salido.\n<i>Bostezo...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al parecer, Hishi Amazon no descansó mucho debido\nal tiempo que le tomó escribir su respuesta..."
+    }
+  ]
+}

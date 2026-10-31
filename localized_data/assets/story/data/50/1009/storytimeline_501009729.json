@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Ay! ¡Y también estuviste muy cerca!",
+      "choice_data_list": [
+        "Lo siento...",
+        "Lo siento..."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hmph. ¿Por qué te alteras tanto?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Nos divertimos, y eso es lo único que importa.\nBueno, para mí, al menos."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Muy bien, se está haciendo tarde. ¡Volvamos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bueno, eso fue decepcionante."
+    }
+  ]
+}

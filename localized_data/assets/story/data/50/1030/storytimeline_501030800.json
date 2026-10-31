@@ -1,0 +1,271 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estoy terminando algo de trabajo en mi oficina en\nun día libre, cuando..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Aaaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Chas!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rice Shower se acerca a mí con un disfraz y ¡de\nrepente me muerde el brazo!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "E-eh! ¡Ahora eres... el familiar de la Vampiresa\nRice!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "E-eh! ¡Ahora eres... el familiar de la Vampiresa\nRice!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Ahora tienes que quedarte a mi lado... Así que\ndeja de trabajar y ven conmigo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rice Shower me lleva a un parque de diversiones\npara un evento de Halloween."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Jeje! Puedo entrar gratis ya que llevo un\ndisfraz."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Quieres subir a la montaña rusa, Big Brother? ¿O\ntal vez a las tazas de té?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Quieres subir a la montaña rusa, Big Sister? ¿O\ntal vez a las tazas de té?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Oh, hay palomitas de calabaza con miel! Quédate\naquí, ¡voy a comprar algunas!",
+      "choice_data_list": [
+        "Yo invito."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "N-no! Está bien. No tienes que hacer nada hoy, Big\nBrother."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "N-no! Está bien. No tienes que hacer nada hoy, Big\nSister."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Oh, mira allí! Qué fila tan larga... Esa\natracción debe ser muy popular."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rice Shower señala una fila larga y sinuosa que\nconduce a la entrada de una casa embrujada."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "V-vamos a hacerlo, Big Brother! Ya estamos aquí, y\nparece popular, así que..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "V-vamos a hacerlo, Big Sister! Ya estamos aquí, y\nparece popular, así que..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Rice Shower solo está poniendo cara de\nvaliente, pero igual nos ponemos en fila..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Está bien d-oscuro, ¿eh? ¿E-estás bien, B-Big\nBrother?",
+      "choice_data_list": [
+        "Estoy bien, pero ¿segura que tú estás bien?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Está bien d-oscuro, ¿eh? ¿E-estás bien, B-Big\nSister?",
+      "choice_data_list": [
+        "Estoy bien, pero ¿segura que tú estás bien?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Yo también estoy bien! Después de todo, hoy es—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Chirrrii...</i>"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Gyah! ¿Qué fue eso?!"
+    },
+    {
+      "name": "Monstruos",
+      "text": "¡Ohhh... Aaah! ¡Graaaah!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡EEEEK! E-estamos rodeados!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Doy un paso al frente para proteger a Rice Shower,\nque tiembla de miedo, pero..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡N-no! ¡Dije que hoy iba a cuidarte yo!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡N-no! ¡Dije que hoy iba a cuidarte yo!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Tú me cuidas todos los días! Así que..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Tú me cuidas todos los días! Así que..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hoy... Al menos por un día... ¡Quiero que\ndescanses y te diviertas!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hoy... Al menos por un día... ¡Quiero que\ndescanses y te diviertas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "De repente entiendo por qué me trajo aquí. Debe\nhaberme visto trabajando en mi día libre y quería\nmostrar su agradecimiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso en mente, ¿cómo le respondo?",
+      "choice_data_list": [
+        "¡Deja esto a tu familiar, Maestro!",
+        "¡Tú puedes, Rice!",
+        "¡Tú puedes, Rice!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso en mente, ¿cómo le respondo?",
+      "choice_data_list": [
+        "¡Deja esto a tu familiar, Maestro!",
+        "¡Tú puedes, Rice!",
+        "¡Tú puedes, Rice!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Familiar? Oh, cierto, ya que te mordí antes..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Logro salir de la casa embrujada, protegiendo a\nRice Shower todo el camino."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Lo siento... Se suponía que yo sería la que te\ncuidara hoy...",
+      "choice_data_list": [
+        "No te preocupes. ¡Me divertí mucho!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿En serio? Gracias a Dios..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Eh, Big Brother? Quiero que te quedes a mi lado\npor mucho tiempo."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Eh, Big Sister? Quiero que te quedes a mi lado por\nmucho tiempo."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Así que, por favor, no te esfuerces demasiado...\nTienes que tomar descansos..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "O si no, vendré y te morderé de nuevo... Era\nbroma, jeje."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rice Shower hizo su mejor esfuerzo para\nentretenerme durante el día, así que le prometo\nque no trabajaré demasiado."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Correcto! ¡Después de todo, ahora soy una\nvampiresa!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Y esta vampiresa... es más aterradora que tú!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Yo, eh, ¡chuparé tu sangre! O-o tal vez me\nconvierta en humo y me acerque sigilosamente a ti!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Y... si me miras a los ojos, te convertirás en\npiedra! ¡O tal vez te maldeciré! De cualquier\nmanera, soy una vampiresa muy, muy aterradora!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>¡Ssshh!</i>"
+    },
+    {
+      "name": "Monstruos",
+      "text": "Oooh, aaah... Muuuy... aterrador..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Mira! ¡Los monstruos se fueron!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "A-ahora es nuestra oportunidad, Big Brother!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "A-ahora es nuestra oportunidad, Big Sister!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Haa...</i> Mi corazón está latiendo fuerte..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "E-eh, ¿tuviste miedo, Big Brother? Espero que te\nhayas divertido...",
+      "choice_data_list": [
+        "Gracias a una cierta vampiresa aterradora, sí.",
+        "Gracias a una cierta vampiresa aterradora, sí."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "E-eh, ¿tuviste miedo, Big Sister? Espero que te\nhayas divertido...",
+      "choice_data_list": [
+        "Gracias a una cierta vampiresa aterradora, sí.",
+        "Gracias a una cierta vampiresa aterradora, sí."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Jeje, ¡yay!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Se ve un poco avergonzada, pero Rice Shower sonríe\nfeliz."
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Desde que decidimos apuntar a los Clásicos, hemos\nestado construyendo fuerza constantemente a través\ndel entrenamiento continuo y las carreras."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El primero de los Clásicos es el Satsuki Sho,\ndonde puede aprovechar sus habilidades especiales.",
+      "choice_data_list": [
+        "(Sin embargo, sí me preocupa el salto a una\ncarrera tan grande.)"
+      ],
+      "color_text_info_list": [
+        "Satsuki Sho"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me pregunto si sería mejor prepararse con carreras\nmás pequeñas, como—"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿El Yayoi Sho?",
+      "color_text_info_list": [
+        "Yayoi Sho"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como el Satsuki Sho, el Yayoi Sho también se lleva\na cabo en el Nakayama Racecourse. Es la carrera\nperfecta para que se vaya acostumbrando.",
+      "choice_data_list": [
+        "Piénsalo como un calentamiento para el Satsuki\nSho."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Entendido. Mientras pueda correr rápido, cualquier\ncarrera servirá."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, decidimos participar en el Yayoi Sho."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Voy a correr otra vuelta entonces."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Recientemente, nuestro entrenamiento se ha\nenfocado principalmente en la resistencia de\nSilence Suzuka. Un día..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Um... ¿Te gustaría ir a hacer senderismo?",
+      "choice_data_list": [
+        "¿Senderismo?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Pensé que el senderismo sería bueno para construir\nmi resistencia. ¿Qué opinas?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Eres más que bienvenido a venir conmigo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy abierto a la idea, así que hacemos un viaje\na las montañas."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>Haa... Haa...</i>",
+      "choice_data_list": [
+        "(¡Esto es más difícil de lo que imaginé!)"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Estás bien?",
+      "choice_data_list": [
+        "No me dejes retrasarte. ¡Sigue adelante!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No, vinimos aquí juntos. Esperaré."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Esto es tan refrescante. Normalmente estoy aquí\ncorriendo solo.",
+      "choice_data_list": [
+        "¡Me muero!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "(Me pregunto si debería dar ánimos en momentos\ncomo este...)"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Tú... puedes!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Continuamos nuestra caminata, con Silence Suzuka\nanimándome, hasta que finalmente llegamos a la\ncima."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La vista desde la cima es absolutamente\nimpresionante.",
+      "choice_data_list": [
+        "¡Guau!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La nieve en las montañas lejanas brilla tenuemente\nbajo el cielo azul profundo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me giro hacia un lado y veo a Silence Suzuka\ncontemplando la vista.",
+      "choice_data_list": [
+        "¿Vienes mucho por aquí?",
+        "¿Vienes mucho por aquí?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Solo a veces, como entrenamiento. Especialmente en\nprimavera, cuando los cerezos están en flor. Y\ntambién en otoño, cuando las hojas se vuelven\nrojas."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Pero creo que es más hermoso durante esta época\ndel año.",
+      "choice_data_list": [
+        "¿Por qué?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Cuando hace frío... la tierra huele tan fresca."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Y subo volando por ese sendero estrecho sabiendo\nque <i>esto</i> es lo que me espera."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Siempre me siento feliz de haber llegado hasta el\nfinal.",
+      "choice_data_list": [
+        "...Es como una carrera.",
+        "...Es como una carrera."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Si lo pones así... Sí, lo entiendo."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "He querido compartir esta vista contigo desde hace\nalgún tiempo.",
+      "choice_data_list": [
+        "Yo también estoy feliz de haber llegado hasta\naquí.",
+        "Yo también estoy feliz de haber llegado hasta\naquí."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿En serio?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Jeje. Me alegro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella se ríe suavemente para sí misma. Tengo la\nsensación de que nos hemos acercado un poco."
+    }
+  ]
+}

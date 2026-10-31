@@ -1,0 +1,57 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy, Agnes Digital corre en una carrera de\npráctica."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Va progresando lentamente, con Agnes Digital\nmetida justo en medio del grupo."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Todos siguen agrupados al doblar la cuarta\nesquina! ¡Ohhh, ¿qué es esto?! ¡Agnes Digital se\nha soltado!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Qué te pareció, Entrenador?",
+      "choice_data_list": [
+        "Buen trabajo al salir del grupo.",
+        "Buen trabajo al salir del grupo."
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Verdad?! Sentí que hoy podía intentarlo de\nverdad, así que lo hice!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Normalmente, me quedo paralizada al pensar en\ntocar accidentalmente a uno de los otros\ncorredores..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Pero hoy tuve el control total. Sentí que podía\npasar por cualquier hueco.",
+      "choice_data_list": [
+        "¡Estuviste suave y estable ahí afuera!",
+        "¡Estuviste suave y estable ahí afuera!"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Imagino que es por todo el músculo que he ganado!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Gracias a ti! ¡Ahora correr se siente tan bien!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Puedo correr con otras Umamusume sin contenerme,\npero también sin molestarlas!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Muy pronto, nada me afectará siempre que tenga tu\nconfiable apoyo!"
+    }
+  ]
+}

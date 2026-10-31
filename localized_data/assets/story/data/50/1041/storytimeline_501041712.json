@@ -1,0 +1,52 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Sakura Bakushin O no apareció para el\nentrenamiento ayer. Hoy, escucho una voz extraña\ncuando entro a mi oficina."
+    },
+    {
+      "name": "???",
+      "text": "Y... eso va por allí... ¡Hecho!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Bienvenido, Entrenador! ¡Acabo de terminar de\nhacer la pancarta de la conferencia!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sorprendido, miro la pancarta desenrollada a sus\npies... Dice \"Conferencia de Disculpas de Sakura\nBakushin O.\"",
+      "choice_data_list": [
+        "No necesitabas ir tan lejos."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "No, como representante de clase, se supone que\ndebo ser un modelo a seguir. ¡Tengo que asumir la\nresponsabilidad de mis errores!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Ok, ¡iniciamos la conferencia de disculpas! ¡Me\ngustaría ofrecer mis más sinceras disculpas!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Estaba volando por una recta digna de Bakushin...\ny me perdí en el momento. ¡Antes de darme cuenta,\nya era de noche!",
+      "choice_data_list": [
+        "Está bien. Solo ten cuidado la próxima vez.",
+        "Está bien. Solo ten cuidado la próxima vez."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Lo prometo! ¡No caeré en la tentación una segunda\nvez!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Para reflexionar, ¡he decidido usar esta pancarta\ncomo mis sábanas de ahora en adelante!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Figuro que ella ha expresado sus sinceros\narrepentimientos bastante claramente, así que la\ndetengo para que no vaya más allá."
+    }
+  ]
+}

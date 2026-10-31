@@ -1,0 +1,181 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El traje de carrera característico de Manhattan\nCafe ha llegado, así que voy a buscarla para\ncompartir la noticia. Sin embargo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En mi apresurada búsqueda, ¡dejo caer mi insignia\nde entrenador en algún lugar! La busco, pero\nencontrar cosas en la oscuridad es más fácil\ndecirlo que hacerlo..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Entrenador, se te cayó esto..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Manhattan Cafe se acerca sigilosamente como una\nsombra, con mi insignia de entrenador en la mano.",
+      "choice_data_list": [
+        "¿Cómo encontraste esto?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Desde las sombras."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Puedo ver... y oír todo desde las sombras..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Las cosas se ven más coloridas... más vívidas...",
+      "choice_data_list": [
+        "Ya... veo?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todo suena un poco vago para mí, pero estoy segura\nde que ella tiene sus métodos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siguiendo, le cuento a Manhattan Cafe sobre su\ntraje de carrera. Ella dice que está ansiosa por\nprobárselo, así que acordamos encontrarnos en la\npista."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Se siente fresco al tacto, como la sombra debajo\nde un árbol... y sedoso, como la oscuridad de la\nnoche..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Me envuelve como una sombra... Silencioso y\ntenaz...",
+      "choice_data_list": [
+        "¿Te gusta?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Mucho... Con este traje de carrera, estoy segura\nde que—"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Oh, por Dios, oh, por Dios! Así que <i>así es</i> como\nse ve tu atuendo de carrera. ¿Te gustaría unirte\npara hacer una carrera experimental conmigo como\ncompañero?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...No se sabe de dónde aparecerás la próxima vez,\n¿verdad?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Vamos, no es necesario que me mires con tanta\nsospecha. ¿No tienes curiosidad también? ¿A ver\ncómo el traje de carrera puede afectar la forma de\ncorrer de uno?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Bueno... Me pregunto."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Pero no me importaría correr contigo... Quería\nprobar algo de todos modos..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Entrenador, ¿está bien si voy?",
+      "choice_data_list": [
+        "¡Diviértete!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, bajo el brillante cielo azul, las dos\nempiezan su carrera!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agnes Tachyon toma la delantera, pero Manhattan\nCafe va en estrecha persecución. Luego, cuando\nentran en la recta final..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Manhattan Cafe parece desaparecer por completo de\nla vista! ¡Casi parece como si una sombra real\nestuviera persiguiendo a Agnes Tachyon..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Whoa whoa, no puedes simplemente soltarme eso!\n¿Qué fue ese esprint de último minuto?!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Prestándote tus palabras, ¡fue como si hubieras\nsalido de las sombras! Hasta que estuviste justo a\nmi lado, ¡eras prácticamente invisible!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Bueno, nunca se sabe... Quizás realmente salí de\nlas sombras."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Ahahaha! Río, pero no estoy segura de que ni\nsiquiera estés bromeando!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Las sombras, ¿eh?... Dicen que el traje de carrera\npuede traer una sensación de calma y euforia a un\ncorredor, pero..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Desencadenar un fenómeno sobrenatural pone tu\ntraje de carrera en una liga propia!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Correcto! Tendré que analizar las imágenes y\naveriguar exactamente qué pasó hace un momento!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...¿Qué pensaste, Entrenador?",
+      "choice_data_list": [
+        "Fue como si te desvanecieras en el aire.",
+        "Fue como si desaparecieras en el aire.",
+        "¿Tu traje de carrera está de alguna forma\nconectado a las sombras?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Jeje, justo como lo planeé... Verás, me oculté\nentre las sombras...",
+      "choice_data_list": [
+        "...¿Qué quieres decir?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Le pedí al diseñador que se asegurara de que mi\ntraje de carrera me permitiera fundirme en las\nsombras..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Este atuendo me hace una con la oscuridad...\nAdemás, puedo ver el mundo con más claridad desde\nlas sombras."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Ahora, aunque la carrera sea en un lugar\nbrillante, puedo competir cómodamente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ahora entiendo mejor la conexión de Manhattan Café\ncon las sombras. Tal vez sean su mayor aliada."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Sí... Así es."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Como mencioné... todo me queda claro mientras\nestoy en las sombras."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "A la luz, solo veo la apariencia de mis\noponentes... pero desde las sombras, veo todo...\nSu espíritu, sus esperanzas—todo lo que llevan\nconsigo..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Este traje de carrera me ayudará a rendir mejor\nque nunca..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esa perspectiva coincide con su amor por lo\ninvisible. Estoy segura de que ahora podrá usar\naún mejor su verdadera fuerza."
+    }
+  ]
+}

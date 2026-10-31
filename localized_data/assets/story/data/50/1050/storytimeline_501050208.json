@@ -1,0 +1,102 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de despedir a Narita Taishin para su\npesaje precarrera el día del Arima Kinen, me\nsiento solo en la sala de espera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Toc, toc.</i>",
+      "choice_data_list": [
+        "¿Sí? Pase."
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Eh, disculpe... ¿Sería usted el entrenador de\nNarita Taishin?"
+    },
+    {
+      "name": "Madre de Taishin",
+      "text": "Encantada de conocerlo. Soy la madre de Taishin.",
+      "choice_data_list": [
+        "¿¡Qué?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una Umamusume mayor que es el vivo retrato de\nNarita Taishin se inclina ante mí mientras la miro\ncon asombro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una vez que mi sorpresa se va, charlamos un rato."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella explica que mientras la mayoría de las\ncorredoras nacen en primavera, Narita Taishin\nnació muy tarde, lo que podría explicar por qué es\ntan pequeña."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debido a esto, su madre nunca pudo animarla\nadecuadamente debido a su miedo de que Narita\nTaishin pudiera lastimarse en una carrera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, Taishin insistió en correr. Y un día\ncuando su madre se disculpó con ella por su\npequeña estatura, Taishin se enfureció."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La madre de Narita Taishin procede a entregarme un\nramo de flores y me pide que se lo dé a su hija."
+    },
+    {
+      "name": "Madre de Taishin",
+      "text": "Por favor, no le digas de quién son. No los\naceptará si sabe que soy yo quien se los da."
+    },
+    {
+      "name": "Madre de Taishin",
+      "text": "Aún así, quería darle todo mi apoyo en la carrera\nde hoy. Es lo menos que puedo hacer."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ya estoy aquí."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Eh? ¿Qué pasa con las flores?",
+      "choice_data_list": [
+        "¡E-ellos son de una fan! ¡Es para la buena suerte!",
+        "¡E-ellos son de una fan! ¡Es para la buena suerte!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ajá..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Ustedes dos me toman por idiota? Y por \"ustedes\ndos\", me refiero a ti y a mi mamá.",
+      "choice_data_list": [
+        "¿Cómo...?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Recuerdas que te dije que mi familia tiene un\nnegocio? Bueno, tienen una floristería."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Puedo decir de dónde son solo con ver cómo están\nenvueltas."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Lo que sea. No importa si mi mamá está viendo o\nno."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Corro para mí y para nadie más."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Todo lo que tengo que hacer es correr y ganar."
+    }
+  ]
+}

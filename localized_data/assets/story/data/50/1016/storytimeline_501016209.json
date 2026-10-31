@@ -1,0 +1,155 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Reportera",
+      "text": "¿Narita Brian también correrá en el Tenno Sho de\nprimavera?! <i>¡SÍ!</i>",
+      "color_text_info_list": [
+        "Tenno Sho de primavera"
+      ]
+    },
+    {
+      "name": "Reportera",
+      "text": "Puede que no sea apropiado que yo diga esto,\nsiendo que estoy aquí por trabajo y todo, pero\n¡quiero que Narita Brian gane!"
+    },
+    {
+      "name": "Fotógrafa",
+      "text": "¿Verdad? ¡Estoy totalmente contigo! ¡Quiero que\nsiga ganando para verla convertirse en la\ncorredora absolutamente más fuerte ahí fuera!"
+    },
+    {
+      "name": "Fotógrafa",
+      "text": "¡Oh, wow! ¿Biwa Hayahide? ¿Eres Biwa Hayahide,\nverdad?!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Y-Sí, bueno..."
+    },
+    {
+      "name": "Fotógrafa",
+      "text": "¡Wow! ¡Soy un gran fan! ¿Estás aquí para animar a\ntu hermana?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Supongo que se podría decir que sí."
+    },
+    {
+      "name": "Fotógrafa",
+      "text": "¡Entonces animémosla juntos! Es una verdadera\nlástima lo de tu lesión...",
+      "color_text_info_list": [
+        "★★★"
+      ]
+    },
+    {
+      "name": "Reportera",
+      "text": "¡Oye! Es de mala educación mencionar una lesión\nasí, ¿sabes!"
+    },
+    {
+      "name": "Fotógrafa",
+      "text": "¡L-lo siento mucho!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No, está bien, considerando que es verdad. Esa es\nprecisamente la razón por la que no compito en\nesta carrera."
+    },
+    {
+      "name": "Fotógrafa",
+      "text": "B-bueno, ¡seguro que tu hermana puede traer la\nvictoria por ti! Y con suerte eso ayudará a\naliviar parte de tu arrepentimiento."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sí, tienes razón."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Mi arrepentimiento..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Tenno Sho de primavera es donde las corredoras\ncompiten por el venerable Escudo de Primavera. Y\nNarita Brian se ve—"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hmph.",
+      "choice_data_list": [
+        "—igual que siempre.",
+        "—igual que siempre."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No importa contra quién me enfrente, no cambia lo\nque tengo que hacer."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, la mejor stayer de Japón, Mejiro\nMcQueen, y la Campeona de la Doble Corona, Mihono\nBourbon, corren hoy.",
+      "choice_data_list": [
+        "¿Puedes vencerlas?",
+        "¿Puedes vencerlas?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Je..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No tienes que mirarme con esa cara de súplica. Voy\na ganar de todos modos."
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Sí! ¡Tú puedes, McQueen! ¡Puedes hacerlo,\nBourbon!",
+      "color_text_info_list": [
+        "McQueen",
+        "Bourbon"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Seguro que están muy motivados ahí afuera."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ah, finalmente has decidido honrarnos con tu\npresencia."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Tengamos una carrera espléndida hoy. Una en la que\nninguna de nosotras tenga arrepentimientos."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Suena bien."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Qué?"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "He confirmado nuestro estado compartido—\"fuerte\ndeseo de victoria.\""
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "El análisis indica que los métodos para lograr\ndicha victoria pueden diferir, pero la incapacidad\npara aceptar la derrota es la misma."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Ya veo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Las dos han seguido demostrando su valía\nfortaleciéndose en cada carrera."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Así que ahora es mi turno de demostrar mi valía\ncontra ustedes dos."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Para satisfacer esta comezón—este fuego!"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Y en primer lugar está Mayano Top Guuuuun!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "<i>¡Haa! ¡Resuello!</i>"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "..."
+    },
+    {
+      "name": "Miembros del Club de Fans de Fuji",
+      "text": "¡Fujiii! ¡Fuiste maravillosa! ¡Buen trabajo!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...!"
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Eso fue fantástico! No sabía qué esperar después\nde escuchar que es más adecuada para carreras de\nmillas..."
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Pero ella fue asombrosa, ganara o perdiera!\n¡Enfrentó un gran desafío de frente sin siquiera\npestañear!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "Su próxima carrera va a ser el Arima Kinen,\n¿verdad? ¡Ooh, no puedo esperar a verla!",
+      "color_text_info_list": [
+        "Arima Kinen"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque Fuji Kiseki no logró la victoria, el\npúblico está lleno de elogios por sus admirables\nesfuerzos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los apasionados aplausos y vítores caen sobre ella\ndesde las gradas."
+    },
+    {
+      "name": "Umamusume de cabello oscuro",
+      "text": "Guau..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Gracias! No tomé el primer lugar, pero pude\ncorrer con todo mi corazón gracias al apoyo de\ntodos!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "El telón ha caído en la carrera de hoy, pero\nprometo que un milagro aún mayor les espera en la\npróxima!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Hasta entonces, adiós!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Fuji Kiseki se inclina cortésmente hacia las\ngradas, chasquea los dedos, y..."
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Uy! ¿De dónde viene el humo?! ¿Dónde está Fuji\nKiseki?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso, hace su salida elegante."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Solo me pregunto, pero ¿cómo te sientes acerca de\ncorrer el Takamatsunomiya Kinen a continuación?",
+      "color_text_info_list": [
+        "Takamatsunomiya Kinen"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Poco después de regresar de Kioto, Fuji Kiseki\npasa por mi oficina y abre una conversación con\nesa pregunta repentina."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Asumí que querría correr en el Japan Cup y el\nArima Kinen, pero supongo que me equivoqué.",
+      "color_text_info_list": [
+        "Japan Cup"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dado que el Takamatsunomiya Kinen es una carrera\nde velocidad, no puedo evitar preguntarme...",
+      "choice_data_list": [
+        "¿Las carreras de larga distancia se están\nvolviendo demasiado difíciles?",
+        "¿Las carreras de larga distancia se están\nvolviendo demasiado difíciles?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡No es eso! Quiero decir, es cierto que no soy\ngenial con las carreras de larga distancia, pero\nesto no tiene nada que ver con eso."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Todavía hay algunas cosas que necesito resolver,\npero discutiré todo contigo una vez que esté\nlista, ¿vale?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Por ahora, ¿puedo por favor correr el\nTakamatsunomiya Kinen? Lamento soltar esto así,\npero ¿estaría bien?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo tantas preguntas... pero estoy segura de que\nella tiene un plan, y confío en ella.",
+      "choice_data_list": [
+        "Claro, ¡vamos a ello!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Gracias!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Estaba pensando—quiero hacer un espectáculo aún\nmás grande en mi último año de lo que hice como\ncorredora clásica."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Debes haber visto todos los artículos que la gente\nha escrito sobre mi trayectoria en la gira de la\nTriple Corona, ¿verdad?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"Fuji Kiseki se fortalece con los ánimos de apoyo\nmientras compite en carreras que no son de su\naptitud.\""
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"Aunque su agenda aún no ha sido revelada, las\nexpectativas son altas.\""
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"Todos esperan con ansias su próximo espectáculo.\"\n¡Jeje! Es un poco vergonzoso ser alabada así."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ah que lo pienso, casi todos los artículos por ahí\nestán llenos de elogios abundantes para ella."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Pude lograr un gran final, y salió incluso mejor\nde lo que planeé, ¡para ser honesta!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Estoy segura de que todos esperan un milagro aún\nmás grande de mí, y no puedo decepcionarlos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los elogios hacia Fuji Kiseki no muestran signos\nde disminuir."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si algo, su discurso carismático, su milagrosa\nsalida del recinto y su anuncio teatral aumentaron\nsu popularidad exponencialmente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Innúmeros artículos y clips de video sobre ella se\nsuben todos los días."
+    }
+  ]
+}

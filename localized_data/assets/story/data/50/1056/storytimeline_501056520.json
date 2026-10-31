@@ -1,0 +1,191 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es nuestro día libre, y Matikanefukukitaru y yo\nplaneamos ir a comprar ropa de entrenamiento\nnueva."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Perdón por decírtelo a última hora, pero traje a\nuna amiga. ¿Está bien?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Hola, Entrenador!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Me encanta ir de compras! ♪",
+      "choice_data_list": [
+        "Me parece bien. ¿Por qué el cambio repentino de\nplanes?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Bueno, verás... La gran Shiraoki me reveló una\nprofecía. \"En este día, profundizarás tus lazos\ncon los que están cerca de ti.\""
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Santo cielo!... ¿Esta \"Shiraoki\" es algún tipo de\nprofeta o algo así?!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Yo digo que debemos confiar en el juicio del\nprofeta!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No estoy muy al tanto, pero al final los tres\nvamos juntos."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Jeje, este equipo es bastante genial. ¡Tiene\ncincuenta estrellas de la suerte!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Ay, qué bien! Ponte eso y te verás como un\ncorredor americano!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Parece que tenemos un poco de tiempo extra..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Oh, Entrenador. ¡Mira allí! ¿Ves ese póster de\npelícula?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Están poniendo un western!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Yeehaw, un western de espagueti! Me dan ganas de\nver un buen duelo al estilo mexicano. <i>¡Pum pum!</i>"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Vamos todos a verla! Por lo que se ve, apuesto a\nque será emocionante!",
+      "choice_data_list": [
+        "Suena como un plan."
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Sabía que dirías eso! ¡Gracias un millón!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Parece que están poniendo la misma película en dos\npantallas diferentes."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Hay una normal y una \"versión de participación del\npúblico\". ...Lo que sea que signifique."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Oh, ¡participación del público! Eso está bastante\nde moda últimamente. Puedes animar mientras ves la\npelícula."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Ahora entonces, ¡es hora de decidir nuestro\ndestino!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Debemos relajarnos o sumergirnos de verdad en el\nLejano Oeste?",
+      "choice_data_list": [
+        "Vamos a la proyección normal.",
+        "La proyección de participación del público suena\ninteresante."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Ahhh, supongo que es mejor ponerse en un estado\nserio y contemplar la historia. Te entiendo."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Okay! ¡Vamos, Fukukitaru! Apuesto a que debemos\nconseguir una porción supersize de palomitas para\ndos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La película es un clásico relato de un grupo de\nhéroes uniéndose para traer paz a un pueblo sin\nley."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Guau! ¡Eso estuvo super intenso, ¿eh?!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Me atravesó el corazón, y los vientos del Oeste\nestán silbando a través de mí!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Lo mismo! ¡Quiero tener un duelo! Y remojarme en\nun baño de burbujas mientras me afeito la barba de\nlas cinco!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Quizás también deberíamos empezar a lanzar\npistolas..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Oh, esa tienda de allí vende fundas para pistolas!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Compremos un par a juego! Podemos colgarlos de\nnuestros cinturones y pasearnos como verdaderos\nvaqueros!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Suena bien! A partir de hoy, somos las hermanas\nde rápido desenlace de la Academia Tracen!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Dos fundas, por favor! Además..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Dame una de esas cuerdas de santuario que se ven\nauspiciosas, por favor. Espera, ¿es un lazo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Ambas parecen estar realmente felices con su\nmercancía a juego!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Muy bien, echemos un vistazo. Aunque estoy un poco\npreocupada de que el público se ponga ruidoso."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Estará bien, Fukukitaru! ¡Seguro que la pasaremos\ngenial!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dentro del teatro..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Allí, atrápenlos! ¡Pew pew!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oye! ¡Te hablo a ti, barbudo! Cuando cuente hasta\ntres, ¡será noche buena!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡La proyección de participación del público\nresultó ser muy divertida!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Uf, realmente me metí en el papel! ¡Siento que me\nhe convertido en un verdadero pistolero ruidoso!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Oye, Fukukitaru. ¿Quiénes son los artilleros que\nmanejan este puesto aquí?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Jeje. ¡Pues tú y yo, por supuesto! Cuando nos\nunimos, los malos en el fuerte saben que están\nacabados!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Realmente se están metiendo en sus roles. Parece\nque la película los hace sentirse tan duros como\nlos héroes del Lejano Oeste."
+    }
+  ]
+}

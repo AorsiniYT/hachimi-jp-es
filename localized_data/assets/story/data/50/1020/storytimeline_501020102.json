@@ -1,0 +1,213 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "En la mañana del Año Nuevo, recibo un mensaje\ninesperado de Seiun Sky pidiéndome que la acompañe\nen su primera visita al santuario del año."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Oh, ahí estás! ¡Feliz Año Nuevo!",
+      "choice_data_list": [
+        "¿Por qué la invitación tan repentina?",
+        "¿Por qué la invitación tan repentina?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿\"Qué pasa\"? Eso es un poco grosero, ¿no te\nparece?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Qué tiene de malo que una corredora invite a su\nentrenador a un santuario para que puedan rezar\npor un año exitoso?",
+      "choice_data_list": [
+        "Claro, eso podría convencerme si fueras <i>una\ncorredora </i>normal, pero..."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Estás diciendo que no soy normal? <i>¡Sí que estás\n</i>siendo grosero!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Honestamente, solo pensaba que deberíamos usar\ntodas las herramientas que tengamos a mano,\nincluyendo las oraciones... ¡eso es todo!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...A eso me refiero. Vamos a tener que usar la\ncabeza, de lo contrario no voy a poder terminar mi\núltimo año.",
+      "color_text_info_list": [
+        "último año"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Seiun Sky se enfrentó a oponentes poderosos tanto\nen los Clásicos como en el Arima Kinen. Puedo\nasumir que ha estado gestando muchas ideas\ndiferentes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Por qué debería rezar?",
+      "choice_data_list": [
+        "Reza para que se abstenga de esforzarse demasiado.",
+        "Reza para que logre un gran éxito.",
+        "Reza para que pueda disfrutar sus carreras."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "El cuerpo de un corredor es un activo importante.\nRezo para que Seiun Sky pueda seguir desafiándose\na sí misma sin lastimarse en el proceso."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su verdadera fuerza importará más que nunca este\naño. Rezo para que Seiun Sky pueda aprovechar al\nmáximo sus talentos."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rezo para que Seiun Sky pueda disfrutar\nverdaderamente las carreras este año, tal como lo\nhizo el año pasado."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Bueno. Ahora depende de los dioses.",
+      "choice_data_list": [
+        "¿Qué deseaste?",
+        "¿Qué deseaste?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Eso es un secreto. Si te lo digo, no se cumplirá,\nobviamente."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pero... estoy segura de que ambas deseamos lo\nmismo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las dos entonces regresamos al campus mientras\ntenemos una conversación ligera sobre el año por\nvenir, cuando..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Hum? ¿Eso es..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Oh, Sei! ¡Buenos días!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es Special Week. Ella anunció el otro día que\ncorrería en el Tenno Sho de primavera."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Buenos días. ¿Haciendo un entrenamiento en\nsolitario? Seguro que no estás perdiendo el tiempo\neste año."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Sí! ¡Es porque no quiero perderte este año!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Te vi en el Arima Kinen. ¡Fuiste increíble!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Debiste haber estado bajo mucha presión, pero la\nsuperaste y corriste exactamente como querías."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Me dieron escalofríos al verte! ¡Así que yo\ntambién tengo que mejorar!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Quiero vencerte en el Tenno Sho de primavera! Una\nvez que lo haga... ¡estaré un paso más cerca de\nser número uno en Japón!",
+      "color_text_info_list": [
+        "Tenno Sho de primavera"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los objetivos de Special Week chocan\ninmediatamente con los de Seiun Sky."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Bueno, gracias, supongo."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Buena suerte con tu entrenamiento. Vamos,\nEntrenador."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...",
+      "choice_data_list": [
+        "¿Eso es todo?",
+        "¿Eso es todo?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Eh? ¿Qué quieres decir?",
+      "choice_data_list": [
+        "Con Special Week."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "No quiero interferir en su entrenamiento. Siempre\npodemos charlar más en la academia."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Además, la escuchaste. Dijo que tiene que mejorar.",
+      "choice_data_list": [
+        "¿Y?",
+        "¿Y?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ella vio el Arima Kinen, así que debió sentir lo\ndeterminados que estaban todos."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pero yo soy..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Tengo... hambre.",
+      "choice_data_list": [
+        "¿Qué?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ver la cara de Spe me da hambre, ¿sabes? Como\nsiempre está picando algo."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Creo que voy a ir a picar algo a la cocina del\ndormitorio."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Nos vemos. Brindo por otro año."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Seiun Sky notó algo que yo no? No puedo decirlo\nahora, pero sé que continuaré cuidando de ella y\nsiendo una fuente de fortaleza cuando me necesite."
+    }
+  ]
+}

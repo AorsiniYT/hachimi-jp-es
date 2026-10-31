@@ -1,0 +1,193 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Mientras camino por el pasillo durante el recreo,\nescucho voces fuertes viniendo de la escalera."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Yo soy Uma Lord Golshi! ¡Inclínense ante mí\nmientras estoy encaramado en la cima del mundo!\n¡Deténganse!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡No! ¡No soy seguidor tuyo!",
+      "choice_data_list": [
+        "¿Q-qué están haciendo ustedes?",
+        "¿Q-qué están haciendo ustedes?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Oh, buena pregunta! En resumen: Golshi está\nhaciendo de Uma Lord."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Se enganchó con un RPG, y ahora ha estado haciendo\njuego de rol en persona todo el día."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Pues yo soy el Uma Lord! ¡El que está en la cima!\n¡En la cumbre! ¡Ahora tú, allí!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡La cima es la más fuerte! ¡La más fuerte es la\ncima! Así que respóndeme esto, mortal: ¿Qué se\nnecesita para llegar allí?!",
+      "choice_data_list": [
+        "Ehhh..."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿L-la cima es la más fuerte?! ¡La más fuerte es la\ncima?! ¡Lo entendí!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Lo que necesitas es un corazón inquebrantable! ¡Un\nespíritu ardiente! ¡La voluntad caliente de\nluchar!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Whoa, tranquilo, tigre. ¿Por qué te estás\nponiendo tan emocionado? No eres un niño, ¿sabes?\nYa cálmate..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿¡Qué?!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Plebeyos terrícolas! ¡No saben nada! ¡Síganme, y\nyo les enseñaré!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Construiré mi castillo aquí!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Qué viene con estar en la cima? ¡Un castillo!\nConstruiré un castillo y me pararé en lo más alto\nde él. ¡Eso me hará la más fuerte!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Eso te hará... ¿la más fuerte? Ya veo... ¡Tiene\nsentido!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Espera... Pero si solo quieres pararte en algún\nlugar alto, ¿no sería suficiente con la azotea de\nla academia?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡El Condor Pasa! ¿No deseas reclamar la cima tu\nmisma?!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿?!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Si realmente eres un cóndor, debes apuntar a los\ncielos! ¡La cima azul... ¿No quieres el trono más\npoderoso para ti misma?!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Ohhhh... ¡El trono más poderoso! ¡Sí! ¡Claro que\nsí!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Entonces necesitarás un castillo! ¡Una gran\nfortaleza con agujas elevándose muy por encima de\nla mía!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Aquí es la supervivencia del más fuerte... La\nfuerza es la voluntad de superar a otros, pues\nsolo así podrás cambiar el mundo!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Aw yeeeah! ¡Los fuertes! ¡Los trascendentes! ¡La\nbatalla por la cima! ¡Las cosas se están\ncalentando!",
+      "choice_data_list": [
+        "Eh..."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Bien, ¡empecemos! Pero primero, ¿qué hacemos con\nel castillo?"
+    },
+    {
+      "text": "El Condor Pasa parece estar siendo arrastrada por\nel caótico ambiente de Gold Ship. Supongo que si\ntengo que darle algún consejo, entonces...",
+      "choice_data_list": [
+        "¿Intentar recaudar fondos?",
+        "¿Tal vez buscar algo que puedas usar como el\ncastillo?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Arr! ¡Parece que necesitaremos un barco pesquero,\nentonces! ¡Uno con cañones! ¡Derrotaremos al Gran\nRey Calamar y nos convertiremos en los reyes de la\npesca, compañero!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "No, espera, probablemente sería más rápido\nencontrar un tesoro escondido. ¡Yar-har!\n¡Navegaremos los altos mares como piratas,\nentonces!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Huh?! ¿Qué pasó con ser el Uma Lord?!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Vamos, tierraplanista! ¡Puedes subir a mi barco,\narr!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Espera, qué?!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Los altos mares nos esperan! ¡A la isla\nlegendaria! ¡Anclas a la vista!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Qué?! ¡N-no voy a ninguna parte! No quiero\nembarcarme en el m—¡AHHHHH?!"
+    },
+    {
+      "text": "Gold Ship levanta a la renuente El Condor Pasa y\nzarpa. Las observo surcar el Océano Pasillo hasta\nque finalmente, se hunden bajo el horizonte\nlejano..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Entonces sé justo el lugar!"
+    },
+    {
+      "text": "Gold Ship corre hacia el gimnasio de la jungla,\nescala hasta la cima y levanta la mano de manera\naltiva."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Bwahahaha! ¡Yo soy Uma Lord Golshi! ¡Ven a mí, El\nCondor Pasa la heroína!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿¡Heroína?!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Muy bien! Como la heroína más fuerte del mundo,\nvoy a arrastrarte de ese trono!"
+    },
+    {
+      "name": "Niño A",
+      "text": "Oye, ¿qué están haciendo ustedes dos?"
+    },
+    {
+      "name": "Niña A",
+      "text": "¡Ooh! ¡Yo también quiero jugar!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Oh? Veo que has traído a algunos de tus\nsubordinados para inclinar la balanza. ¡Excelente!\n¡Intenten atraparme! ¡HUP!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Oye, tú! Ahora eres Soldado A, ¿vale? ¿Recuerdas\ntu línea?",
+      "choice_data_list": [
+        "\"Este es el castillo de Golshi.\""
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Perfecto!"
+    },
+    {
+      "text": "Observo por un rato cómo Gold Ship y El Condor\nPasa representan la batalla del Uma Lord contra\nlos héroes."
+    }
+  ]
+}

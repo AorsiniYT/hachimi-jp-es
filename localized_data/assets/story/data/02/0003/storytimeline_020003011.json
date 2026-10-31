@@ -1,0 +1,310 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narración",
+      "text": "El Derby japonés."
+    },
+    {
+      "name": "Narración",
+      "text": "Qué cruel que la carrera con la mayor historia,\ntradición y renombre solo pueda ser disputada una\nvez en la vida de un corredor."
+    },
+    {
+      "name": "Narración",
+      "text": "Muchos corredores famosos han sufrido la derrota\nante su sueño —el sueño de todas las Umamusume— de\nalcanzar la cima de las carreras y convertirse en\ncampeona del Derby."
+    },
+    {
+      "name": "Narración",
+      "text": "Ese día, un asombroso número de 200.000 fanáticos\nvio cómo se abrían las puertas."
+    },
+    {
+      "name": "Narración",
+      "text": "En el Derby, no es fácil tomar la delantera y\nmantenerla. Pero la corredora de rosa insistió en\nhacerlo a su manera."
+    },
+    {
+      "name": "Narración",
+      "text": "Lo que se desplegó no fue una carrera para superar\nal resto. Fue una guerra de desgaste a alta\nvelocidad."
+    },
+    {
+      "name": "Narración",
+      "text": "Apenas había sacudido a sus oponentes cuando cruzó\nla meta. Su cuerpo exhausto, no tenía la energía\nsuficiente para dar un paso más."
+    },
+    {
+      "name": "Narración",
+      "text": "Su única forma de ganar era poner todo su ser en\nello."
+    },
+    {
+      "name": "Narración",
+      "text": "El nombre de la campeona era Ines Fujin."
+    },
+    {
+      "name": "Narración",
+      "text": "Los aplausos atronadores que resonaron en todo el\nhipódromo de Fuchu ese día todavía resuenan en la\nmente de cada fanático."
+    },
+    {
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Es la recta final! ¿¡Qué corredora tiene lo que\nse necesita para estar victoriosa?!"
+    },
+    {
+      "name": "Umamusume joven",
+      "text": "¡Tú puedes!"
+    },
+    {
+      "name": "Umamusume joven",
+      "text": "¡Wow! Todas son tan rápidas."
+    },
+    {
+      "name": "Locutor",
+      "text": "La líder tiene un estallido de velocidad. Ahora,\nla corredora en segundo lugar avanza desde el lado\nopuesto del grupo."
+    },
+    {
+      "name": "Umamusume joven",
+      "text": "¡Ah! La chica de adelante va a perder la\ndelantera."
+    },
+    {
+      "name": "Locutor",
+      "text": "Y toma la delantera. Así, de repente, se adelanta.\nAmplía la brecha entre ella y su rival."
+    },
+    {
+      "name": "Umamusume joven",
+      "text": "Oh, no, me siento tan mal por ella..."
+    },
+    {
+      "name": "Madre de la Joven Umamusume",
+      "text": "Mira, ella no se ha dado por vencida todavía. Así\nque tú no deberías darte por vencida tampoco. ¿Por\nqué no sigues animándola?"
+    },
+    {
+      "name": "Umamusume joven",
+      "text": "<i>Sollozo...</i> Tú puedes. Sigue adelante."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Va hasta el final! Ahí está la meta. Superó a sus\nrivales, tomando la corona en una victoria\nimpresionante."
+    },
+    {
+      "name": "Umamusume joven",
+      "text": "Ay, perdió... Está llorando..."
+    },
+    {
+      "name": "Madre de la Joven Umamusume",
+      "text": "Sí, es triste después de que corriera tan bien.\nPero mira, la ganadora también está llorando."
+    },
+    {
+      "name": "Umamusume joven",
+      "text": "Tienes razón... ¿Por qué?"
+    },
+    {
+      "name": "Madre de la Joven Umamusume",
+      "text": "El Derby es el sueño de cada una de estas\ncorredoras."
+    },
+    {
+      "name": "Madre de la Joven Umamusume",
+      "text": "Así que, ya sea que ganen o pierdan, llorarán.\nPorque dieron todo de sí para hacer que su sueño\nse hiciera realidad. Trabajaron tan duro para\nesto."
+    },
+    {
+      "name": "Umamusume joven",
+      "text": "Sueño... Derby..."
+    },
+    {
+      "text": "En la Academia Tracen, los días calurosos están\ncomenzando a enfriarse."
+    },
+    {
+      "text": "Y el evento anual de otoño de la academia, la\nFeria de Solefall, está a punto de llegar."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Genial! Conseguí un proveedor de repollo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Repollo? <i>¿De qué</i> estás hablando?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "La Feria de Solefall, tontita. He estado planeando\nvender mi yakisoba especial de Golshi allí desde\nhace mucho tiempo."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Y necesito que tú y nuestro entrenador de\nconfianza se unan. Deberías empezar a practicar\ntus habilidades en la sartén."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No me gusta cómo suena esto en absoluto... Te haré\nprobarlo primero, Entrenador. Alguien necesita\nverificar si es seguro.",
+      "choice_data_list": [
+        "¿Seguro? ¿No quieres decir que debo verificar si\nsabe bien?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "No te preocupes por tu linda cara. No voy a usar\nnada incomible. Solo repollo, zanahorias, pasta de\nwasabi, wasabi rallado y wasabi picado."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿¡Cuánto wasabi estás usando?!"
+    },
+    {
+      "text": "Toda la academia está preparándose frenéticamente\npara el festival. En medio de todo el alboroto,\nalguien viene a verme."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ahí estás."
+    },
+    {
+      "text": "Tazuna Hayakawa, asistente del director de Tracen,\nse acerca con una gran sonrisa.",
+      "choice_data_list": [
+        "¿Estabas buscándome?"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Tengo una gran noticia. ♪ A tu predecesor le\notorgan un premio de la URA."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Un premio? ¿Por qué? ¿Por sacar a un gatito de un\nárbol?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿No lo sabes? Es un honor que se otorga a\ncorredores y entrenadores que han logrado grandes\nlogros."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Algunos lo convierten en su misión. Los ganadores\ntienen su foto y récord de carrera expuestos en el\nMuseo de Umamusume en el Hipódromo de Tokio."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿Y quién más indicado que él? La última carrera de\nOguri sigue siendo la favorita de los fanáticos."
+    },
+    {
+      "text": "No solo los fanáticos. Mejiro McQueen y yo nunca\nolvidaremos esa carrera de Arima Kinen."
+    },
+    {
+      "text": "No solo los fanáticos. Mejiro McQueen y yo nunca\nolvidaremos esa carrera de Arima Kinen."
+    },
+    {
+      "name": "<username>",
+      "text": "Mi mentor realmente estaba fuera de este mundo.\nVerdaderamente asombroso."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "La ceremonia de premios se transmitirá en vivo,\nasí que no te la pierdas."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "En otros asuntos, tengo un pequeño favor que\npedirte..."
+    },
+    {
+      "text": "Tazuna me dirige a la biblioteca de la academia,\ndonde me han pedido que ayude a una estudiante a\npreparar algo para la Feria de Solefall."
+    },
+    {
+      "name": "???",
+      "text": "¡Aaaaaah! ¡Voy a llorar!"
+    },
+    {
+      "name": "???",
+      "text": "No importa cuántas derrotas o lesiones, siguió\ncorriendo. Esta corredora tenía mucho corazón.\n<i>Sollozo...</i>"
+    },
+    {
+      "text": "Su voz quiebra el silencio de la biblioteca. Con\nnadie más alrededor, sé a quién se supone que debo\nayudar.",
+      "choice_data_list": [
+        "¿Eres la que necesita ayuda con la Feria de\nSolefall?",
+        "¿Eres la que necesita ayuda con la Feria de\nSolefall?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¡Ah! ¿Eres el entrenador del que hablaba la\nseñorita Tazuna? ¡Gracias a Dios! Finalmente,\nayuda. ¡Estoy salvada!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Espera... no me presenté. ¡Encantada! Me llamo\nWinning Ticket."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "En serio, me ofrecí como voluntaria porque tenía\nesta idea genial, pero ahora que estoy en medio de\nla preparación, no puedo manejarlo en absoluto.",
+      "choice_data_list": [
+        "Estoy aquí para ayudarte. ¿Qué necesitas?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Al grano. Necesito hacer exhibiciones para una\nexposición de la historia del Derby."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Vamos a exhibir todo. La pasión y emoción de cada\ncorredora que se enfrentó al Derby, sin dejar\nningún detalle."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Como esta corredora que se lanzó al primer lugar\n<i>desde muy </i>atrás. Después de todo el trabajo\nduro que tomó llegar al Derby, es como si supiera\nque era su momento."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Y esta otra, que tomó <i>una gran </i>ventaja desde el\nprincipio, la mantuvo hasta el final y ganó. Es\nsuper difícil lograr una victoria como esa, pero\nella sabía que podía hacerlo. <i>Sollozo...</i>"
+    },
+    {
+      "text": "El Derby es una carrera prestigiosa y a menudo se\nconsidera el evento principal de la Serie Twinkle."
+    },
+    {
+      "text": "Algunas personas incluso piensan que el año\ncomienza y termina con él. Definitivamente es un\ngran acontecimiento."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "El Derby realmente es lo mejor. ¡Sí! Quiero ser\ncampeona del Derby."
+    },
+    {
+      "text": "Sus ojos se llenan de lágrimas mientras habla.\nDebe amarlo realmente..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Gracias por quedarte hasta tan tarde. Cuando se\ntrata del Derby, me pone muy emocionada, ¿sabes?"
+    },
+    {
+      "name": "<username>",
+      "text": "No hay problema. Es super interesante. Es\nrealmente especial para ti, ¿verdad?"
+    },
+    {
+      "name": "<username>",
+      "text": "No hay problema. Es super interesante. Es\nrealmente especial para ti, ¿verdad?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Sí! El Derby es mi sueño."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Voy a participar algún día y ganarlo. Es mi sueño\nestar entre los grandes y hacer mi propia historia\nasombrosa."
+    },
+    {
+      "text": "Mirando a la corredora emocionada mientras llora\ncon emoción, es difícil creer cómo puede ser tan\nsinceramente sincera."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Bueno, primero debo ser reclutada para hacerlo. Y\ntiene que ser un entrenador que pueda llevarme\nallí."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oh, pero debo enfocarme en la exhibición. No\npodemos fallar si trabajamos juntos."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Y sabes, puedes llamarme Tickezo. Es más fácil que\ndecir mi nombre completo, ¿verdad?",
+      "choice_data_list": [
+        "Lo haré, Tickezo."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Jeje, gracias, Entrenador."
+    },
+    {
+      "text": "¿Quién sabe si podrá entrar al Derby, y mucho\nmenos ganarlo?"
+    },
+    {
+      "text": "Pero una cosa es segura. Su persecución de ese\nsueño puro es una historia que me encantaría ver\ndesarrollarse."
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Vodka",
+      "text": "Ja. Jaja. ¡Jajaja! Lo hice... No estuvo tan mal..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Muy bien! ¡Así terminé mi debut! Bastante bien,\n¿verdad, Entrenador?!",
+      "choice_data_list": [
+        "Sí. No vi ningún problema.",
+        "Sí. No vi ningún problema."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Verdad? Je. No había nada que temer en primer\nlugar."
+    },
+    {
+      "name": "Vodka",
+      "text": "Después de todo, ¡aspiro a ser la Umamusume más\ngenial por aquí! ¡Mwahaha!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de estar orgullosa de su victoria, su cara\nparece tensa. Supongo que estaba bastante\nnerviosa."
+    },
+    {
+      "name": "Vodka",
+      "text": "El problema es lo que pasa de aquí en adelante. Lo\nsiento, pero no tengo ganas de tomarme mi tiempo\nacumulando premios."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Los grandes tienen su propia forma de hacer las\ncosas! ¿Sabes para qué carrera apunto a\ncontinuación, Entrenador?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su próxima carrera... Si realmente está lista para\nesforzarse, el siguiente paso serían las carreras\ngraduadas.",
+      "color_text_info_list": [
+        "carreras graduadas"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las carreras graduadas van desde G3 hasta G1, y\nlos rivales se vuelven más fuertes en cada rango.\nAsí que si ella busca un nuevo objetivo después de\nsu debut...",
+      "choice_data_list": [
+        "...¿Una G3?"
+      ],
+      "color_text_info_list": [
+        "G3",
+        "G1"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Te estás burlando de mí? Una carrera fácil como\nesa es para bostezar.",
+      "choice_data_list": [
+        "...¿G2?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Nada mal, pero aún no es suficiente para mí.",
+      "choice_data_list": [
+        "¿No estarás sugiriendo... G1?!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡En el blanco! ¡Voy a dejar a todos boquiabiertos\ncon mi increíble velocidad en mi primer G1! ¡Suena\nperfecto para mí, ¿no crees?"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Voy a asombrar al mundo entero! ¡Jajaja!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Entonces, Entrenador, ¿cuál es la próxima carrera\nG1 juvenil?",
+      "choice_data_list": [
+        "Ya sea el Hanshin J.F. o el Asahi Hai F.S."
+      ],
+      "color_text_info_list": [
+        "juvenil"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estas dos importantes carreras G1 juveniles se\nrealizan durante la misma semana. Le digo que\nambas son carreras de una milla y tienen las\nmismas condiciones."
+    },
+    {
+      "name": "Vodka",
+      "text": "Hmph. Así que realmente se trata de cuál quiero\nhacer. ¿J.F. o F.S.?"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Tengo un buen presentimiento sobre el J.F.! ¡Hay\nalgo genial en cómo suena!"
+    },
+    {
+      "name": "Vodka",
+      "text": "No sé qué significan las iniciales, ¡pero\nhagámoslo! Siguiente objetivo: ¡el Hanshin J.F.!",
+      "color_text_info_list": [
+        "Hanshin J.F."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "J.F. significa 'Potrancas Juveniles', pero me lo\nguardaré para mí. Tengo la sensación de que no lo\nrecordará incluso si se lo digo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y con eso, hemos decidido su próximo objetivo: El\nHanshin J.F."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Vodka! ¡Escuché que vas a correr en el Hanshin\nJuvenile Fillies!",
+      "color_text_info_list": [
+        "Hanshin Juvenile Fillies"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Sí. ¿Tienes algo que decirle a la Umamusume que\nintenta el G1 en su año junior?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Debes tener algo, ¿verdad? Como, \"Sabía que lo\nharías,\" o \"¡Eso es increíble!\" Adelante, dilo."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Pfft. Jeje. ♪"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Oye, vamos! ¡No te quedes ahí resoplando! ¡No te\ncreas demasiado solo porque puedes decir el nombre\nde la carrera correctamente!"
+    }
+  ]
+}

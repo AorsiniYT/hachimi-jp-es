@@ -1,0 +1,265 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de un día fuera, paso por una tienda con\nAgnes Digital para recoger algo que reservó."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "He estado <i>esperando por siempre </i>por este libro de\nfotos... Oohoohoo, ¡estoy obligada a abrirlo en\ncuanto llegue a casa!",
+      "choice_data_list": [
+        "Se ve súper grueso.",
+        "Se ve súper grueso."
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Es porque compré tres copias. ¡Una para revisar\ncon cuidado, una para la posteridad y una para uso\ndiario!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Además, cada copia viene con una participación\nespecial en el sorteo para un próximo evento de\nlanzamiento. Como compré tres copias, he\ntriplicado mis posibilidades de ser selecciona—"
+    },
+    {
+      "name": "Mujer A",
+      "text": "¡Oh, ¿esa es Digital? ¡No way! ¡Qué coincidencia!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Eh... ¡Oh! ¡Hola! ¡No te veía desde ese evento de\nrepartir folletos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos detiene una mujer dentro de la tienda. Parece\nser que es una fan de Umamusume como nosotros."
+    },
+    {
+      "name": "Mujer A",
+      "text": "Sé que es un poco repentino, pero ¿no estarás\nlibre después de esto, por casualidad?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Bueno, ummm..."
+    },
+    {
+      "name": "Mujer A",
+      "text": "Planeo ir a un concierto justo después de esto,\npero la amiga con la que iba a ir no puede\nasistir."
+    },
+    {
+      "name": "Mujer A",
+      "text": "No quiero dejar un asiento vacío, así que pensé\nque debía encontrar a alguien más para ir."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Justo después de esto? E-eso significaría...\nespera, ¿estás hablando del concierto secreto\nrelacionado con ese álbum!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡El concierto \"Phantom Secret\", ¿verdad?! Compré\nmontones de copias del álbum, pero ninguna\ncontenía boletos!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Me convencí de que no había forma de ir a un\nconcierto súper premium deluxe como ese y me\nrendí... ¡y sin embargo, aquí estás tú, un\nverdadero dios enviado, invitándome a ir!"
+    },
+    {
+      "name": "Mujer A",
+      "text": "¡Je, je! En realidad tengo dos boletos, así que\npuedes llevar a tu amiga también!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "E-Entrenador...",
+      "choice_data_list": [
+        "¿Deberíamos ir?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Me encantaría ir! ¡Gyaaaagh! ¡Muchas gracias!"
+    },
+    {
+      "name": "Mujer A",
+      "text": "¡Jajaja, yay! ¡Sé que vas a animar el ambiente!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Por supuesto! ¡Voy a poner todo lo que tengo!\n¡Hasta tengo mis varitas luminosas conmigo!"
+    },
+    {
+      "name": "Mujer A",
+      "text": "¿Tu amiga tiene algo que traer? Nos permiten\nllevar nuestro propio merchandising de apoyo para\nel evento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Les digo que no tengo varitas luminosas ni nada,\nasí que ambas amablemente se ofrecen a prestarme\nalgo."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Quieres una varita luminosa o un abanico de\npapel?",
+      "choice_data_list": [
+        "Tomaré una varita luminosa.",
+        "Tomaré un abanico."
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Vale, te prestaré la mía! ¡Ahora, dirijámonos al\nespacio especial del parque de atracciones!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Oh. My. Goooosh! ¡Ella me guiñó el ojo! Debo\nhaber muerto e ido al cielo por este despiadado\nasalto de servicio al fan!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "...¡Espera, qué es esto?! ¡No way! ¡Es una canción\nnueva?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todas las varitas luminosas en la multitud cambian\nde color al ritmo de la música. Hago lo posible\npor cambiar el color de la mía también, pero entro\nen pánico y no logro hacerlo a tiempo."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡No te preocupes, Entrenador! Hay una\nconfiguración para cambiar el color\nautomáticamente. ¡Presiona el botón de la derecha!",
+      "choice_data_list": [
+        "Pero tengo el color equivocado..."
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡No hay forma incorrecta de disfrutar un\nconcierto! Solo respeta las reglas y ten buenos\nmodales."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Deja que la música te lleve y elige el color que\nte guste!",
+      "choice_data_list": [
+        "Vale, intentaré solo sentirlo.",
+        "Vale, intentaré solo sentirlo."
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Ese es el espíritu! ¡Recuerda divertirte!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Oh maaaan... Eso fue... lo mejor. En serio, como\nlo mejor de lo mejor..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Notaste su agarre durante la primera canción?!\n¡Nunca he querido tanto ser un soporte de\nmicrófono!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Y me gustó lo intensa que es la danza de la nueva\ncanción! ¡Sus pasos fueron tan poderosos, súper\napropiados para Umamusume. El coreógrafo realmente\nsabe lo que hace!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Los chasquidos de tacón de todos estuvieron tan\nperfectamente sincronizados! ¡Realmente se sentía\nlo sincronizados que estaban!",
+      "choice_data_list": [
+        "Me gustó cuando agitamos las luces juntos."
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Definitivamente! ¿No es divertido agitar la\nvarita luminosa?",
+      "choice_data_list": [
+        "Se sintió como si todo el recinto se uniera como\nuno solo."
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Sí! ¡Exactamente! Cuando el coro y las luces se\nsincronizaron, ¡fue como si todos estuviéramos\nunificados! ¡Esa es la verdadera belleza de los\nconciertos!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Ah, es tan genial que pueda hablar de esto\ncontigo! Las otras veces, siempre estoy sola, así\nque solo puedo disparar mis sentimientos al\nUmaterverse.",
+      "choice_data_list": [
+        "Momentos como este después del concierto también\nson divertidos, ¿verdad?",
+        "Momentos como este después del concierto también\nson divertidos, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Lo entiendes totalmente! Muy bien, entonces...\n¡tengo una idea! Voy a solicitar dos boletos para\nel evento de lanzamiento relacionado con los\nlibros de fotos que compré hoy."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Si gano boletos, vamos juntos! ¡Y luego podemos\nhablar de todo después! ¿Vale?!"
+    },
+    {
+      "name": "Mujer A",
+      "text": "¡Puedes usar el abanico que mi amiga iba a usar!\n¿Vale, nos dirigimos al recinto en el parque de\natracciones?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Más! ¡Amor! ¡Directo a! Mi corazón!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El llamado y respuesta resuena en todo el espacio\ndel evento. La emoción de la multitud llega a un\npunto álgido, y Agnes Digital se vuelve loca junto\ncon todos los demás."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Luego, la Umamusume en el escenario camina en\nnuestra dirección mientras canta."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Entrenador, tu fan! ¡Tu fan! ¡Muéstrale el\nabanico!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hago como me dicen y arreglo la forma en que\nsostengo el abanico para que las palabras miren\nhacia el escenario.",
+      "choice_data_list": [
+        "\"¡Muéstranos tus tacos!\""
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Dios míoooo!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Las vi! ¡Ella giró y nos las mostróHaa... Haa...\n<i>Eso. Fue. Demasiado. </i>ADORABLE! ¡La forma en que\nlevantó la pierna?! ¡La forma en que su falda\nrevoloteó?! Absolutamente... DIVINO!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Hyaaaaagh! ¡Un ángel real bajó del cielo!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Gracias por permitirme ese sorbo, Entrenador!",
+      "choice_data_list": [
+        "¿Un sorbo?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Es por el abanico! ¡El abanico! Gracias a eso,\nella te dio un gran momento de servicio al fan, ¡y\nyo también tuve un sorbo!",
+      "choice_data_list": [
+        "Oh, sí. Eso estuvo bastante bien."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La Umamusume en el escenario vio nuestro mensaje y\nreaccionó. Incluso si fue solo por una fracción de\nsegundo, se sintió como si estuviéramos\ncomunicándonos."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Verdad? Y no es solo el servicio al fan. Una vez\nque pruebas la atmósfera del concierto, te hace\nquerer hacerlo una y otra vez.",
+      "choice_data_list": [
+        "Sí, creo que sé a qué te refieres."
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Je, je, los conciertos en vivo te han enganchado\nahora, ¿verdad? ¡Felicidades, bienvenido al océano\nde admiradores de Uma! ☆"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Tengo una idea! Voy a solicitar dos boletos para\nel evento de lanzamiento relacionado con los\nlibros de fotos que compré hoy."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Vamos a otro concierto juntos! Nos sumergiremos\nmás y más profundo hasta que nos ahoguemos en la\ngloria de Uma!"
+    }
+  ]
+}

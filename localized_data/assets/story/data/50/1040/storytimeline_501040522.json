@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día, durante el entrenamiento..."
+    },
+    {
+      "name": "Gold City",
+      "text": "<i>Glu, glu...</i> ¡Ahh!"
+    },
+    {
+      "name": "Gold City",
+      "text": "...Qué amargo.",
+      "choice_data_list": [
+        "¿Qué estás bebiendo?",
+        "¿Qué estás bebiendo?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Una maquillista que conozco me habló de esta\nbebida increíblemente amarga. Es bastante\nasquerosa."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero aparentemente, hace maravillas por tu piel, y\nactúa rápido, así que quería probar un poco."
+    },
+    {
+      "name": "Gold City",
+      "text": "Solo tengo que aguantar el sabor. Es mucho mejor\nque tener que faltar al trabajo por problemas de\npiel."
+    },
+    {
+      "name": "Gold City",
+      "text": "<i>Glu, glu...</i>"
+    },
+    {
+      "name": "Gold City",
+      "text": "Uergh..."
+    },
+    {
+      "text": "Gold City parece estar bastante preocupada por el\nestado de su piel."
+    }
+  ]
+}

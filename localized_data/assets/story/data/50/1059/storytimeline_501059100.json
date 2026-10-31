@@ -1,0 +1,382 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "TV",
+      "text": "La familia Mejiro."
+    },
+    {
+      "name": "TV",
+      "text": "Ese nombre tan prestigioso nos ha dado\ninnumerables leyendas que dejaron su huella en la\nTwinkle Series.",
+      "color_text_info_list": [
+        "Twinkle Series"
+      ]
+    },
+    {
+      "name": "TV",
+      "text": "Mejiro McQueen, Mejiro Ryan...",
+      "color_text_info_list": [
+        "Mejiro McQueen",
+        "Mejiro Ryan"
+      ]
+    },
+    {
+      "name": "TV",
+      "text": "Mejiro Palmer, y muchos más.",
+      "color_text_info_list": [
+        "Mejiro Palmer"
+      ]
+    },
+    {
+      "name": "TV",
+      "text": "Sus carreras aún están frescas en la mente de los\naficionados, quienes continúan sintiéndose\natraídos por ellas."
+    },
+    {
+      "name": "TV",
+      "text": "Hoy, miramos la historia de la familia Mejiro, con\nimágenes de entrevistas nunca antes vistas."
+    },
+    {
+      "name": "TV",
+      "text": "Los aficionados han estado esperando con ansias el\nsurgimiento de una nueva corredora Mejiro...",
+      "choice_data_list": [
+        "El surgimiento de una nueva corredora Mejiro, ¿eh?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Hoy, mi viaje con Mejiro Dober para enfrentar la\nTwinkle Series comienza!",
+      "color_text_info_list": [
+        "Mejiro Dober"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella va a necesitar esforzarse más que nunca si\nquiere convertirse en la estrella emergente que el\nmundo anticipa.",
+      "choice_data_list": [
+        "¡Lo primero es lo primero, necesitamos discutir\nnuestro plan de ahora en adelante!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una vez que nos alejamos de la multitud, le digo\nque quiero hablar sobre los planes para su debut."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Está bien. Ya debería estar completamente\ncalentado."
+    },
+    {
+      "name": "Estudiante Joven A",
+      "text": "¡Guau! ¡Es Mejiro Dober! ¡Es tan genial como\nsiempre! ♪"
+    },
+    {
+      "name": "Estudiante Joven B",
+      "text": "No esperaría menos de una Mejiro. Simplemente\ntienen este aura sobre ellas..."
+    },
+    {
+      "name": "Estudiante Joven A",
+      "text": "No puedo esperar a su carrera debut. Apuesto a que\nva a ser increíble! ¡Quiero ir a verla!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Dober está atrayendo atención de las\nestudiantes más jóvenes. Parece que las\nexpectativas son altas dentro de la academia\ntambién."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aún así, tener tantos ojos encima podría hacerla\nnerviosa. Tengo que hacer algo antes de que se\nponga nerviosa.",
+      "choice_data_list": [
+        "¡Dober! ¡Perdón por hacerte esperar!"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿E-Entrenador?! ¡No grites mi nombre de repente! Y\nno es como que te estuviera esperando...",
+      "choice_data_list": [
+        "Hay mucha gente aquí. Vamos a hablar en otro lado.",
+        "Hay mucha gente aquí. Vamos a hablar en otro lado."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Oh, Entrenador. No te preocupes, acabo de llegar.",
+      "choice_data_list": [
+        "Hay mucha gente aquí. Vamos a hablar en otro lado.",
+        "Hay mucha gente aquí. Vamos a hablar en otro lado."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...E-está bien."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Claro. Vamos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una vez que nos alejamos de la multitud, le digo\nque quiero hablar sobre los planes para su debut."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una vez que nos alejamos de la multitud, le digo\nque quiero hablar sobre los planes para su debut."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Espera, antes de empezar... Tú estabas tratando de\nayudarme antes, ¿verdad? ...Gracias.",
+      "choice_data_list": [
+        "De nada.",
+        "De nada."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Gracias por ayudarme antes. Honestamente, me sentí\nun poco desconcertada, así que lo aprecio.",
+      "choice_data_list": [
+        "De nada.",
+        "De nada."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "De hecho, tu timing es perfecto. Yo también quería\nhablar contigo sobre mi debut."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "De hecho, tu timing es perfecto. Yo también quería\nhablar contigo sobre mi debut."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Quiero poder correr adecuadamente, convertirme en\nuna corredora lo suficientemente fuerte para\ncorrer con confianza en todo momento."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Y quiero empezar poniendo todo lo que tengo en mi\ncarrera debut.",
+      "choice_data_list": [
+        "Ese es un gran objetivo.",
+        "Ese es un gran objetivo."
+      ],
+      "color_text_info_list": [
+        "debut"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Solo estoy diciendo lo obvio. No estaba\nbuscando cumplidos."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿E-e-es? Todo lo que hice fue decir lo obvio. No\ntienes que adularme, sabes..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "De todos modos, um, solo quería dejar claras mis\nintenciones, así... Hagamos que suceda.",
+      "choice_data_list": [
+        "¡Estoy ansioso por trabajar contigo!",
+        "¡Estoy ansioso por trabajar contigo!"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "De todos modos, um, solo quería dejar claras mis\nintenciones, así... Hagamos que suceda.",
+      "choice_data_list": [
+        "¡Estoy ansioso por trabajar contigo!",
+        "¡Estoy ansioso por trabajar contigo!"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Claro. De todos modos, sobre mi entrenamiento..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Lo mismo. De todos modos, sobre mi\nentrenamiento..."
+    },
+    {
+      "name": "???",
+      "text": "¡Dober!",
+      "color_text_info_list": [
+        "Dober"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¡Dober!",
+      "color_text_info_list": [
+        "Dober"
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "<i>¡Haa... resuello!</i> ¡Te he estado buscando por todas\npartes!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡Bright!",
+      "color_text_info_list": [
+        "Bright"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Monólogo: Bright, una compañera de Dober de\nmodales refinados y tranquila, y también Mejiro,\ncorre hacia nosotros, saludando.",
+      "color_text_info_list": [
+        "Bright"
+      ]
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "¡Hay un—ay!"
+    },
+    {
+      "name": "Estudiante Joven A",
+      "text": "¡Mejiro Bright! ¿Estás bien?!"
+    },
+    {
+      "name": "Estudiante Joven B",
+      "text": "¡Ese lado torpe de ella me hace querer protegerla!\n¡Es tan adorable!"
+    },
+    {
+      "name": "Estudiante Joven A",
+      "text": "Entiendo completamente. Me siento un poco mal,\npero verla así me saca una sonrisa..."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Oh, querido. Mis piernas parecen haberse enredado.\nEsto no está bien. Nada bien..."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "¿Qué es esto? Todos parecen estar mirándome..."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "¡Buenos días a todos! Es otro día maravilloso para\nentrenar, ¿verdad?"
+    },
+    {
+      "name": "Estudiantes menores",
+      "text": "¡Aaaaah! ¡Bright!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Monólogo: Mejiro Bright se mantiene con una calma\nsegura de sí misma mientras se dirige a las\nestudiantes más jóvenes."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Algunas cosas nunca cambian..."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Saludos, Dober. Disculpas por interrumpir tu\nentrenamiento."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "S-saludos. En realidad no hemos empezado aún, así\nque no es molestia. ¿Había algo que querías\nhablar?"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Como estamos en el mismo año, pensé en venir a dar\nmis saludos y animarte."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Como corredoras de la familia Mejiro, forjemos\njuntas a través de la Twinkle Series."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Sí, por supuesto. Trabajemos juntas, Bright."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Monólogo: Motivada por las palabras de Bright,\nMejiro Dober parece más determinada. Tengo que\naprovechar esto.",
+      "choice_data_list": [
+        "¿Por qué no aprovechar esta oportunidad para hacer\nun entrenamiento en pareja?",
+        "¿Por qué no aprovechar esta oportunidad para hacer\nun entrenamiento en pareja?"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿Qué? ¿Ahora? Estoy segura de que Bright tiene su\npropio entrenamiento—"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Oh, qué idea tan fabulosa. Ya terminé de calentar,\nasí que ¿por qué no empezamos ya?"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿Estás segura?"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Por supuesto. Me encanta correr contigo, Dober.\nDicho esto..."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "No creas que te permitiré tomar la delantera."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Jeje. Bueno, lamentablemente para ti, ¡tampoco\nplaneo dejarte correr delante de mí!"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Monólogo: Las dos salen corriendo bajo el cielo\ndespejado, cada paso lleno de determinación. Es\nclaro cuánta motivación se derivan la una de la\notra."
+    },
+    {
+      "name": "Estudiante Joven A",
+      "text": "¡Guau! ¡Realmente se están esforzando!"
+    },
+    {
+      "name": "Estudiante Joven B",
+      "text": "No puedo esperar a ver cómo les va después de su\ndebut."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Jeje! ¡Parece que se están divirtiendo mucho!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Parece que están bien preparadas para su debut."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "<i>Haa... resuello...</i> Jeje. No esperaba menos de ti,\nDober."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Uf... ¡Tú también lo hiciste genial, Bright!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Monólogo: ¡Puedo decir que Mejiro Dober y Mejiro\nBright se convertirán en grandes rivales la una de\nla otra!"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Sigamos así para nuestro debut."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Correcto. ¡Trabajaré duro para poder correr en mi\nmejor estado absoluto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Monólogo: Resuelvo trabajar duro también para\nhacer que sus poderosas palabras se cumplan."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Monólogo: ¡Así comienzan mis días de lucha junto a\nMejiro Dober!"
+    }
+  ]
+}

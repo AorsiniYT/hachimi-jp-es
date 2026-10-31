@@ -1,0 +1,195 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es un día como cualquier otro. Escucho un alboroto\ndesde los campos de la academia y voy a echar un\nvistazo."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Director! No me diga que usó su dinero de\nbolsillo <i>¿otra vez?!</i>"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿Qué planeas hacer con una granja de este tamaño?!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Alto! ¡Detente! ¡Espera, Tazuna! ¡Te digo que hay\nuna explicación muy buena!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Me encantaría escucharla."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Benevolencia! Mira, pensé que podríamos necesitar\nanimar el lugar durante la URA Finale."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Cuando piensas en los hipódromos, ¿qué te viene a\nla mente? ¡Así es! ¡La comida! Una comida\nsustanciosa y una carrera emocionante van de la\nmano!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Pero no cualquier comida servirá. Tiene que ser\nimpactante. ¡Inolvidable! ¡Que la gente hable!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Así que! He decidido que estableceremos nuestros\npropios campos para cultivar zanahorias de la\nmarca Tracen!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Muy bien... Entiendo de dónde vienes, Directora.\nTu corazón siempre está en el lugar correcto."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Pero tu <i>CABEZA,</i> por otro lado... ¿En qué <i>ESTABAS\nPENSANDO?!</i>"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Ay! ¡Tazuna! ¡Misericordia! ¡Ten piedad!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ejem. ¿Me atrevo a preguntar si viste eso?",
+      "choice_data_list": [
+        "Bueno..."
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Disculpas... Te hemos mostrado una exhibición muy\nvergonzosa."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Sigamos! ¡Has estado trabajando duro!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Aún... Hmmm. Parece que aún te falta un poco. Los\nfans no llegan fácilmente, ¿verdad?"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Sin embargo! ¡Aplaudimos tus esfuerzos! ¡Sigue\nparticipando en carreras y ganando fans!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Espléndido! ¡Estás obteniendo resultados sólidos\ny tu base de fans está creciendo rápidamente!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Apunta a un éxito aún mayor para asegurar tu\nlugar en la URA Finale!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Asombroso! ¡Lo estás haciendo mejor de lo que\njamás imaginé! ¡Tu popularidad es astronómica!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "La condición de tu aprendiz ciertamente parece\nfavorable para un lugar en la URA Finale. Todo lo\nque puedo decir es que sigas con el buen trabajo."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Oh, eso es! Hablando de trabajar duro..."
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "Hola a todos."
+    },
+    {
+      "name": "Happy Meek",
+      "text": "Hola..."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Oh, Entrenadora Kiryuin! ¡Y Meek también! ¡Qué\ncoincidencia! ¡Justo iba a mencionarlas!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Espléndido! ¡Tu crecimiento no ha sido menos\nimpresionante que el de Entrenador <username>!"
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "Muchas gracias, Directora."
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "Gracias a Entrenador <username>... ya no tenemos dudas.",
+      "choice_data_list": [
+        "¿Ya no hay dudas?"
+      ]
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "Eso es. Hemos resuelto compartir nuestras cargas,\ncaminar hombro con hombro y apuntar a la cima\njuntos."
+    },
+    {
+      "name": "Happy Meek",
+      "text": "Ganaré... Eso probará... que tengo la mejor\nentrenadora del mundo."
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "Y trabajaré más duro que nunca. Quiero ver a Meek\nganar el más alto honor..."
+    },
+    {
+      "name": "Happy Meek",
+      "text": "Conquistar la URA Finale... Ese es nuestro\nobjetivo compartido."
+    },
+    {
+      "name": "Happy Meek",
+      "text": "¡Hip, hip, hurra!"
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "¡Jeje! ¡Hip, hip! ¡Hurra!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¿Oh? ¡Así que aquí es donde han estado todos!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Buenas tardes a todos. ¿Puedo tener un poco de su\ntiempo?"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Oh, señorita Otonashi! ¡Por supuesto! ¿Qué\npodemos hacer por usted?"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Jeje... Bueno, verás... hay algo que quiero\nmostrarte."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con una sonrisa astuta, la reportera Otonashi nos\nmuestra un artículo sobre la URA Finale que ha\nsido publicado en línea..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...antes de desplazarse hacia abajo hasta la\nsección de comentarios para revelar una pared de\npublicaciones de fans expectantes!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Oh... ¡Oooohhh! ¡Ay, ay, ay!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Gracias a todos sus esfuerzos, la URA Finale está\natrayendo mucha atención."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Excelente! ¡Todo se está uniendo!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Convicción! ¡Vamos a hacer de la URA Finale un\ngran éxito!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La URA Finale... Un evento donde todas las\nUmamusume pueden brillar..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es difícil contener mi emoción a medida que se\nacerca."
+    }
+  ]
+}

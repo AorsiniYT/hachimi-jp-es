@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "¡Finalmente, es hora del cuarto partido de\npretemporada de la Copa de la Unidad!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Hazlo lo mejor que puedas! ¡Tú puedes!",
+      "choice_data_list": [
+        "¿Qué estás haciendo?",
+        "¿Qué estás haciendo?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Yo, eh... Bueno..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Siempre estoy causando dolor y molestando a los\ndemás por mi mala suerte..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Quería hacer algo para ayudarlos en cambio, así\nque estoy practicando animarlos...",
+      "choice_data_list": [
+        "Tu animación marcará la diferencia."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿C-crees realmente eso?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Espero que tengas razón..."
+    }
+  ]
+}

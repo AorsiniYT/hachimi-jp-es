@@ -1,0 +1,140 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Oguri Cap",
+      "text": "¡Mira esto! Recibí un paquete hoy."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Oguri Cap pasa junto a una bufanda roja del mismo\ncolor que su vestimenta de carrera característica."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me doy cuenta de que la gente ha escrito mensajes\nde apoyo para ella en la parte inferior de la\nbufanda—donde nadie más podría verlos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Recordando lo querida que es, le devuelvo la\nbufanda.",
+      "choice_data_list": [
+        "¿Es de tu ciudad natal?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí. Todos me escribieron algo."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hay mensajes como: \"Siempre estamos a tu lado\",\n\"Corremos contigo\" y \"Eres la encarnación de\nnuestros sueños\"."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿La encarnación de sus sueños? No estoy segura de\nlo que quieren decir con eso."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sé que verme correr los hace felices... Pero,\n¿cómo puedo <i>yo</i> ser su sueño?",
+      "choice_data_list": [
+        "Están depositando sus esperanzas en ti."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...¿Sus esperanzas? ¿En mí?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le explico a Oguri Cap que ella representa las\naspiraciones, esperanzas y deseos de la gente de\nsu ciudad natal."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Suena complicado, pero creo que más o menos lo\nentiendo ahora... Todos me animan y me desean lo\nmejor."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Eso me hace sentir cálida por dentro—como si no\nestuviera sola.",
+      "choice_data_list": [
+        "¿Te sientes presionada?",
+        "¿Te sientes presionada?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Sí, supongo que sí. Pero al mismo tiempo,\nsiento que eso es lo que me impulsa hacia\nadelante."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "No estoy segura de si \"presión\" es la palabra\ncorrecta sin embargo... Creo que es más como...\n¿aliento?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Tengo un impulso abrumador de correr. ¿Vendrás\nconmigo?",
+      "choice_data_list": [
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Gracias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decido quedarme con Oguri Cap hasta que se sienta\nsatisfecha."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Al principio, dudaba un poco de este atuendo. Me\npreguntaba por qué querías que lo usara."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pero ahora lo entiendo. La gente lo reconoce como\nmi vestimenta de carrera característica. Por eso\ntodos de mi ciudad natal me enviaron esta bufanda."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Realmente quieren que gane... Y este atuendo\nrepresenta esos sentimientos."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Yo... me siento igual. Realmente quiero ganar.",
+      "choice_data_list": [
+        "¡Estamos de acuerdo en eso!",
+        "¡Estamos de acuerdo en eso!",
+        "¡Apuntemos a ganar—por el bien de todos!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Yo... me siento igual. Realmente quiero ganar.",
+      "choice_data_list": [
+        "¡Estamos de acuerdo en eso!",
+        "¡Estamos de acuerdo en eso!",
+        "¡Apuntemos a ganar—por el bien de todos!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí, sé que siempre estás a mi lado, apoyándome."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Seguiré corriendo—¡por los dos!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Mientras estés conmigo, no puedo perder!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Así es. Las esperanzas y sueños de todos descansan\nen mis hombros."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Viendo a Oguri Cap rebosante de determinación,\nsiento un sentimiento renovado de determinación\npara la próxima carrera."
+    }
+  ]
+}

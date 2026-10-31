@@ -1,0 +1,194 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "???",
+      "text": "Fu... ku... ven... sótano... Allí... tú..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿¡Yo?! ¡Espera! ¡Vuelve! ¿¡Es esto una profecía?!\n¿¡Qué haré en el sótano?!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Volando fragalo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy caminando por la academia cuando veo que\nMatikanefukukitaru está arrancando frenéticamente\ntodas las flores a la vista!",
+      "choice_data_list": [
+        "¿¡Qué estás haciendo?!",
+        "¿¡Qué estás haciendo?!"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "<i>Haa... Haa...</i> ¡P-por favor no me detengas! Debo\ncumplir la profecía que vi en mi sueño, para\nalcanzar la felicidad!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bajo la mirada a sus pies y encuentro una sola\nhoja de papel. Garabateado en ella están lo que\nparecen ser dibujos de flores, una bailarina,\nalgunos números y otras cosas varias.",
+      "choice_data_list": [
+        "¿Es ese tu garabato?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡No es un garabato! ¡Es un diagrama ritual!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Mientras estaba en casa visitando a mi familia,\nrecibí un mensaje divino en un sueño que me decía\nque buscara algo en el sótano... Cuando fui,\n¡descubrí este papel!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Puedes creer que la profecía se cumplió?! ¡El\nritual representado en este diagrama debe revelar\nalgo verdaderamente milagroso!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Aunque me cuesta entender lo que dice. Aun así,\n<i>lograré</i> descifrar su contenido para realizar\ncon éxito el ritual, y pronto seré bendecido más\nallá de lo imaginable!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella de repente sale corriendo, rebosante de\nexcitación. Preocupado por lo que podría estar\nplaneando, la sigo rápidamente."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "La la la... ♪ Flores de crisantemo, arrancaditas\narrancadas... ♪ Hervidas con un toque de—"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Oh, flores de crisantemo! Y de hecho, se parecen\nmucho a las flores de mi diagrama ritual."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "En ese caso... ¡Hora de cavar!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Aaaaah?! ¡F-Fuku?! ¡Esas son mías!",
+      "choice_data_list": [
+        "¡Detente eso, Fukukitaru!"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "<i>Eructo...</i> Finalmente, con esto... ¡Blegh! No...\n¡Tengo que contenerlo!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Muy bien! Lo siguiente es... ¡correr en la pista\nmientras bailo! ¡La palabra del diagrama ritual es\nabsoluta!",
+      "choice_data_list": [
+        "¡Estás armando un escándalo!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Uh oh, ¡Fukukitaru está haciendo travesuras otra\nvez!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...¿Cuándo tendremos nuestra oportunidad de\ncorrer?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Intento detener a Matikanefukukitaru sin éxito.\nElla continúa su alboroto por toda la academia..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Entiendo tu versión de los hechos. Sin embargo, no\npuedo pasar por alto el hecho de que ignoraste las\nadvertencias de un entrenador y causaste problemas\na los otros estudiantes."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "L-lo siento, lo siento mucho..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Ohhh... Me sentía afortunada, pero terminé con\ngran desgracia... ¿Qué hago?",
+      "choice_data_list": [
+        "¿Estás segura de que eso es realmente un diagrama\npara un ritual?",
+        "¿Estás segura de que eso es realmente un diagrama\npara un ritual?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Por supuesto que... Bueno, probablemente lo es?\nQuiero decir, creo que sí, al menos. ¡D-dame solo\nun segundo!"
+    },
+    {
+      "name": "La madre de Fukukitaru",
+      "text": "Parece que tu papá y tu abuela tampoco saben nada\nsobre un diagrama ritual en el sótano. No\nguardamos ningún material sintoísta allí."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "...Parece que ni Mamá, Papá ni la Abuela saben al\nrespecto."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Qué podría sereee?!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡¿Cómo es que nadie tiene ni idea?!<i>Alguien</i> debió\nesconderlo allí. ¿Quién podría haber sido?!\n¿¡Quién?!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡No hay manera de que nadie sepa! ¡Aaargh!\n¡Alguien dime qué es esto!",
+      "choice_data_list": [
+        "¿Quizás es un hechizo secreto para una felicidad\nextrema?!",
+        "¿Algo que debe ser sellado, quizás?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "<i>¡Haa!</i> ¿¡Un hechizo secreto para una felicidad\nextrema?!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Eso tiene sentido, creo?! ¡Si es un hechizo\nsecreto de la más alta orden, no es de extrañar\nque nadie sepa al respecto!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Aw, ¡por supuesto! ¡Hice todo este alboroto por\nnada! Volveré mañana para resolver este acertijo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No puedo evitar sentir un tipo de respeto por lo\nrápido que Matikanefukukitaru se recupera."
+    },
+    {
+      "name": "Gato",
+      "text": "¡Miau!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "<i>¡Haa!</i> ¿¡Era un gato negro el que acaba de pasar?!\n¿¡Es una señal de malas cosas por venir?! ¿¡Los\ndioses me dicen que no debo meter mi nariz en esto\nmás?!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Eek! ¡Gran Shiraoki, por favor sálvameee!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella sale corriendo antes de que pueda decir una\npalabra, dejándome atónito."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Lo sabía! ¡Sabía que tenía que ser algo así!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Muy bien, ¡debo devolver el papel al sótano! Pero\nprimero, ¡sellaré cualquier mal! ¡Foonjarga, sé\npara siempre desaparecido! ¡Vuelve, no no!"
+    },
+    {
+      "name": "???",
+      "text": "<i>Suspiro...</i> ¿En serio? Pero... un día lo\nencontrarás... Lo sé... tú lo harás..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Oh? ¡Acabo de sentir una ola de calidez que me\ninvade! ¿Podría haber sido el espíritu de alguien\nque falleció?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lo mejor que puedo reunir es una cabezada\nperpleja. Podría haber jurado que escuché una\nvoz... Me despido de ella, dejando el misterio sin\nrespuesta."
+    }
+  ]
+}

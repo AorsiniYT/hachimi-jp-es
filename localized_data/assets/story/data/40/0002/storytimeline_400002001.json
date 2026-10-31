@@ -1,0 +1,107 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, algún tiempo después de que la Directora\nAkikawa partiera para América...",
+      "color_text_info_list": [
+        "Akikawa"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Toc, toc.</i>"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Hola. Esperaba poder explicarte los detalles de la\nCopa de la Unidad, si estás libre.",
+      "choice_data_list": [
+        "¡Sí, por supuesto! Adelante."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Primero, permíteme explicarte brevemente qué es la\nCopa de la Unidad."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Como mencionó la Directora Akikawa el otro día, es\nuna competencia por equipos realizada dentro de la\nacademia."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Consiste en una serie de partidos celebrados\nsemestralmente en junio y diciembre. El primer\npartido será en diciembre de este año."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "En cada partido, los equipos compiten en cinco\ncategorías de carreras: sprint, milla, media,\nlarga y tierra, y deben ganar tres de ellas para\nreclamar la victoria.",
+      "color_text_info_list": [
+        "compiten en cinco categorías de carreras",
+        "ganar tres de ellas para reclamar la victoria"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Inicialmente, se celebrarán partidos de\npretemporada, y se asignarán rankings a los\nequipos basándose en los resultados."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Una vez que todos los partidos de pretemporada\nhayan terminado, es hora de las finales. ¡El\nresultado de este partido determinará al ganador\ngeneral de la Copa de la Unidad!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Por ahora, debes concentrarte en hacerlo bien en\nlos partidos de pretemporada para que puedas\nenfrentar las finales en la posición más\nventajosa.",
+      "choice_data_list": [
+        "¡Entendido!"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Antes de eso, sin embargo, necesitarás armar un\nequipo."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Te recomiendo intentar contactar a Umamusume que\nte hayan apoyado previamente en tu entrenamiento!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Puedes continuar reclutando miembros durante todo\nel período de pretemporada, así que no hay\nnecesidad de sentirse apurado."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Y si a tu equipo le va bien en los partidos de\npretemporada, ¡hasta podría ocurrir que algunos\natletas se<i>acercaran</i> para unirse!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Haz tu mejor esfuerzo para crear un equipo\nmaravilloso y muéstranos lo que puedes hacer!",
+      "choice_data_list": [
+        "¡Gracias!"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Oh, y hay una última cosa importante que deberías\nsaber."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Cuando te registres para la Copa de la Unidad,\nnecesitarás escoger un nombre de equipo.",
+      "color_text_info_list": [
+        "nombre de equipo"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Es solo para usar en esta competencia de la\nacademia, así que no será relevante para la\ncarrera de tu entrenada en la Serie Destello..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Pero un buen nombre puede ayudar a aumentar la\nmoral de tu equipo, asi que intenta considerarlo\ncuidadosamente!",
+      "color_text_info_list": [
+        "un buen nombre puede ayudar a aumentar la moral de\ntu equipo"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Eso es todo de mi parte hoy. Los estaré animando\ndesde la línea lateral."
+    }
+  ]
+}

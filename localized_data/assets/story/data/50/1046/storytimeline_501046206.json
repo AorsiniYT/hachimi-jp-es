@@ -1,0 +1,92 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fan A",
+      "text": "Ella estuvo bastante bien en las February Stakes,\npero ¿cuáles son las probabilidades de que\nrealmente gane hoy?"
+    },
+    {
+      "name": "Fan B",
+      "text": "Si logra ganar y cumplir con su declaración, diría\nque es la verdadera. Supongo que veremos..."
+    },
+    {
+      "name": "Fan de Falco A",
+      "text": "Disculpen, no pude evitar escuchar su\nconversación, y déjenme decirles—Falco <i>sí es</i> la\nverdadera. ¿Han visto todas sus carreras?!"
+    },
+    {
+      "name": "Fan de Falco A",
+      "text": "Si no lo han hecho, ¡eche un vistazo a esto! Es un\nmontaje oficial de todas sus carreras."
+    },
+    {
+      "name": "Espectadores A y B",
+      "text": "¡Qué potencia!"
+    },
+    {
+      "name": "Fan de Falco A",
+      "text": "¿Verdad?! Aquí, ¡ahora mírala en el escenario!"
+    },
+    {
+      "name": "Espectadores A y B",
+      "text": "¡Caramba, qué linda es!"
+    },
+    {
+      "name": "Umamusume menor",
+      "text": "Eh, disculpen las molestias, pero... ¡Tengo ganas\nde correr con ustedes!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡El sentimiento es mutuo!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...Eso debería ser todos, ¿verdad?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Las estudiantes más jóvenes son súper amables.\n¡Mírenlas, tomándose el tiempo para saludar! ☆",
+      "choice_data_list": [
+        "Bueno, no eres precisamente una matriarca.",
+        "Bueno, no eres precisamente una matriarca."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Ah, esperen un segundo! ¡Todavía soy joven y\nágil!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...Bueno, sí tengo mucha experiencia, estando en\nel último año y todo."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Último año...",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Solo estaba pensando en cómo depende de mí abrir\nun camino para la próxima generación."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Un camino que los corredores más jóvenes querrán\nseguir hasta aquí, hasta la pista de tierra."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Quiero hacer una realidad donde todos<i>sueñen</i> con\ncorrer en tierra.",
+      "choice_data_list": [
+        "Demos el ejemplo."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Sí! Tienes razón."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Voy a ganar esto por todas las estudiantes más\njóvenes que me admiran!"
+    }
+  ]
+}

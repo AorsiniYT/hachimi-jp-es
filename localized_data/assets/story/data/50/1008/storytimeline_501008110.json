@@ -1,0 +1,125 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Y así, mis primeros tres años con Vodka llegan a\nsu fin."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero esto no significa que nuestra relación\ntermine aquí. Todavía hay mucho por lo que\ntrabajar en el futuro."
+    },
+    {
+      "name": "Vodka",
+      "text": "Este es un adiós, Entrenador.",
+      "choice_data_list": [
+        "¿Qué? ¿Por qué?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Vamos, sabes que no hay ayuda. Todo el mundo tiene\nque decir adiós en algún momento."
+    },
+    {
+      "name": "Vodka",
+      "text": "No soy el tipo que se aferra para siempre. Sé\ncuándo soltar."
+    },
+    {
+      "name": "Vodka",
+      "text": "Nuestro tiempo corriendo juntos se acabó. Es lo\nque es.",
+      "choice_data_list": [
+        "Pero, ¿por qué tan de repente?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Es lo que me dijo el viento que pasa. En nuestro\nlargo camino por la vida, las personas que\nencontramos son solo meros transeúntes."
+    },
+    {
+      "name": "Vodka",
+      "text": "No hay fin para nuestra batalla. No más allá de\nese puerto de montaña... No más allá de ese\ncielo...",
+      "choice_data_list": [
+        "...¿Leíste eso en alguna parte o algo?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Yo? <i>¿L-leer?!</i> ¡Ni hablar! Mi papá me lo mostró a\nmí de un manga que <i>él</i> estaba leyendo!"
+    },
+    {
+      "name": "Vodka",
+      "text": "De cualquier manera, gracias por todo. Correré por\nmi cuenta a partir de ahora."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Adiós!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con una despedida exagerada, Vodka sale corriendo,\ndejándome algo atónito."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Deseando su salud y éxito, contemplo qué hacer\ndespués mientras regreso a la academia."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Aaagh, no, no, no! ¡No puedo! ¡Espera!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me giro para ver un rostro familiar corriendo para\nalcanzarme."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡No importa cómo lo pienses, no podemos hacer\nesto! ¡No podemos dejarnos!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Es por tu culpa que he podido correr con tanta\nonda desde el principio!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Sin ti, volvería a ser patética!",
+      "choice_data_list": [
+        "Pero hiciste una salida muy genial..."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Lo siento! ¡No estaba pensando claramente! Solo\nme dejé llevar."
+    },
+    {
+      "name": "Vodka",
+      "text": "Me entiendes, ¿verdad? A veces estás en el momento\ny simplemente te excedes de—"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Augh!",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Lo que acabo de decir... ¡Es exactamente el tipo\nde cosa patética que papá siempre dice cuando está\nrogándole a mamá que lo perdone!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Esto es lo peor... Entrenador, supongo que sigo\nsiendo patética después de todo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No importa cuán genial intente actuar, supongo que\naún hay cosas que necesitan refinamiento."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Hmph! ¡No hay forma de que nos separemos ahora!\n¡No puedes <i>dejarme así!</i>"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Tienes que ayudarme, compañero! ¡Te necesito a mi\nlado para siempre!"
+    }
+  ]
+}

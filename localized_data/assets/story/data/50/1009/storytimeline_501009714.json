@@ -1,0 +1,121 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet se lesiona durante el entrenamiento,\nasí que la llevo rápidamente a la enfermería."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Disculpa por todas las molestias..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Estoy bien ahora, aunque. No puedo desperdiciar el\ndía tumbada así."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Especialmente si voy a ser la número uno! ¡Tengo\nque volver y entrenar aún más duro!",
+      "choice_data_list": [
+        "Si quieres ser la número uno, necesitas descansar.",
+        "¡Esa es la actitud!",
+        "¡Esa es la actitud!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Especialmente si voy a ser la número uno! ¡Tengo\nque volver y entrenar aún más duro!",
+      "choice_data_list": [
+        "Si quieres ser la número uno, necesitas descansar.",
+        "¡Esa es la actitud!",
+        "¡Esa es la actitud!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "No necesito tus consejos. ¡Yo soy la paciente\naquí, y digo que estoy bien!",
+      "choice_data_list": [
+        "¿Qué sentido tiene entrenar si no puedes dar lo\nmejor de ti?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Yo..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Tienes razón. No tiene sentido correr si ni\nsiquiera puedo mantenerme en pie."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Suspiro...</i> ¿Qué estoy haciendo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por precaución, la tarea de entrenamiento de hoy\nes que Daiwa Scarlet descanse."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Jeje, ¡exacto! ¡Sabía que lo entenderías!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Muy bien, ¡volvamos a ello!",
+      "choice_data_list": [
+        "¡Oye, no nos apresuremos!",
+        "¡Oye, no nos apresuremos!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "No seas tan titubeante. Tengo que esforzarme si\nquiero ser la número uno, ¿no es así?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Vamos, vamos a..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Argh!",
+      "choice_data_list": [
+        "¿¡Scarlet?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella intenta forzar su regreso al entrenamiento\npero termina desmayándose. Al final, le toma\nvarios días recuperarse por completo."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Bueno, si estamos de acuerdo, entonces\nenfoquémonos en curarme."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Supongo que deberíamos empezar aplicando un\npaquete de hielo..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Por qué me miras así? ¿De verdad fue algo tan\nextraño de decir?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Quiero volver a entrenar lo antes posible. Si voy\na ser la número uno, no puedo descuidar mi salud.",
+      "choice_data_list": [
+        "Estoy impresionado.",
+        "Estoy impresionado."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hum. ¡Deberías estarlo! ¿Qué más esperarías de mí?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Después de todo, estás hablando con la futura\nnúmero uno Umamusume!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Poco después, Daiwa Scarlet regresa al\nentrenamiento sin incidentes."
+    }
+  ]
+}

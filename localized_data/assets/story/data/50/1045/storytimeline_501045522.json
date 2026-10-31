@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Le pido a Super Creek que escriba su nombre en un\ndocumento que necesita ser firmado..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "...Perdón, pero ¿podrías girarte hacia el otro\nlado por un momento?",
+      "choice_data_list": [
+        "¿Qué quieres decir?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Es solo que, um... mi piel está irritada ahora\nmismo."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Me han pedido que haga mucha lavandería y limpieza\núltimamente..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Y supongo que he estado demasiado ocupada para el\ncuidado adecuado de la piel.",
+      "choice_data_list": [
+        "¿Estás bien? ¿Duele?",
+        "¿Estás bien? ¿Duele?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Y-y te pedí que no miraras! ¡Mal Entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Intento revisar pero en cambio me regaña. Ella\naparta mi rostro, así que miro por la ventana por\nun rato..."
+    }
+  ]
+}

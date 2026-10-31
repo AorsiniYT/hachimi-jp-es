@@ -1,0 +1,301 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "La carrera de Sakura Chiyono O comienza, y trago\nnerviosamente mientras la veo destrozar la pista."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oh! ¡Hola!",
+      "choice_data_list": [
+        "¡Maruzensky!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hehe, ¿te asusté? Perdón, me encantaría charlar,\npero hay alguien importante a quien debo vigilar."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Estás en la misma situación, ¿verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Maruzensky mira la pista, donde Sakura Chiyono O\nestá tomando una curva.",
+      "choice_data_list": [
+        "¡Puedes hacerlo, Chiyono O!"
+      ]
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Y suben la cuesta! ¡Es ahora! ¡Todo se reduce a\nesta recta final!"
+    },
+    {
+      "name": "Locutor",
+      "text": "Parece que Chiyono O está luchando. ¿Quién se\nllevará el primer lugar?!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "(Mis pulmones... arden.)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Crack...</i>"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Urgh... <i>¡Huff!</i> Casi... allá..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "(Mi corazón se siente como si fuera a explotar.\nCada vez que se aprieta, es como si fuera a\nromperse...)"
+    },
+    {
+      "name": "Creek y Oguri",
+      "text": "¡Raaaaah! ¡Aaaaah!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Oh."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Crrr... ¡Crac!</i>"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Se siente como si mi cuerpo se estuviera\ndesmoronando."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Como si siguiera, todo lo que soy empezaría a\nagrietarse en grandes trozos."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Tengo miedo."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Mi cuerpo se está haciendo pedazos y\ndesintegrando. No quiero ver cualquier miserable\nfuturo que esté delante de mí."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Esto..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡CRACK!</i>"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡No te atrevas a desmoronarte!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡No te rompas—libérate!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¡Tiene razón! Todavía no estás dispuesto a rendir\ntu orgullo, ¿verdad? ¡Entonces es hora de dejar de\naferrarse a cosas del pasado!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Y una vez que te hayas endurecido para hacer\neso..."
+    },
+    {
+      "name": "Ardan y Yaeno",
+      "text": "Yo—"
+    },
+    {
+      "name": "Ardan y Yaeno",
+      "text": "¡Yo te derrotaré!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sakura Chiyono O se gira y mira hacia adelante una\nvez más!"
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Vamos, Oguri! ¡Adelante! ¡Inari va justo detrás\nde ti!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Puedes con esto, Creek! ¡Tienes que ganar esta!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La multitud se agita en frenesí mientras anima a\nlos corredores en la pista. La mayoría apoya a las\nTres Grandes Eternas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con todo este ruido, probablemente no me oirá\naunque grite, ¡pero aún así! ¡Tengo que\nintentarlo!",
+      "choice_data_list": [
+        "¡Chiyono O! ¡Puedes haaaacerlo!"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡No puedo volver a ser quien era antes! No... No\nvolveré atrás!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Voy a convertirme... en una nueva yo!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "RAAAAAH!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¿Será que los cerezos están floreciendo de nuevo\nen otoño? ¡Sakura Chiyono O ha tomado la\ndelantera! Mantiene el ritmo y—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Sakura Chiyono O ha cruzado la línea de meta!\n¡Sakura Chiyono O es la ganadora!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Felicidades, Chiyo."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...",
+      "choice_data_list": [
+        "¡Felicidades, Chiyono O!"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Entrenador..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Entrenador... Gané. ¡Gané!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Ves? Mientras no te rindas de ti misma, ¡puedes\nalcanzar las recompensas más hermosas!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Maruzen!"
+    },
+    {
+      "name": "Anunciadora",
+      "text": "Oye, no puedes simplemente—¿Maruzen?! ¿Q-qué haces\naquí?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Te lo explicaré después. ♪ Prometo que no seré una\nmolestia."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Chiyo! ¡Lo entiendes ahora, verdad?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Lo hago..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ahora mismo, encontraste una nueva tú y una nueva\nforma de correr."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Y tengo la sensación de saber por qué—tus rivales\nte impulsaron."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Exacto!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Buena respuesta. Tu forma de pensar es exactamente\npor la que eres mi rival."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Mientras la pasión arda en nuestros corazones,\npodemos seguir corriendo."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ahora entonces, mi pequeño lobo codicioso... Esta\nvictoria no fue suficiente para saciarte. Todavía\ntienes hambre de más."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Tú y yo peleemos la próxima.",
+      "choice_data_list": [
+        "¿En la Copa Japón, verdad?",
+        "¿En la Copa Japón, verdad?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Exactamente. Asegúrate de ayudar a Chiyo a llegar\na esa etapa."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Estoy ansiosa por ello."
+    },
+    {
+      "name": "Anunciadora",
+      "text": "¡I-increíble!"
+    },
+    {
+      "name": "Anunciadora",
+      "text": "¡Maruzensky la Bestia ha declarado a Sakura\nChiyono O como su rival! Además, la ha desafiado a\ncorrer en la Copa Japón de este año!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Entrenador, yo...",
+      "choice_data_list": [
+        "Lo sé. Vamos a derrotar a Maruzensky.",
+        "Lo sé. Vamos a derrotar a Maruzensky."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los vítores de la multitud son tan fuertes que se\nmiden en la escala Richter, enviando temblores\npalpables a través del mismo Hipódromo de Tokio."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Llevaremos ese entusiasmo con nosotros a la\ncarrera prometida. ¡Vamos camino a la Copa Japón!"
+    }
+  ]
+}

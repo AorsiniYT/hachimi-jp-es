@@ -1,0 +1,175 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Mejiro Ardan va en cabeza! ¡La está manteniendo!\n¡Y ha cruzado la línea de meta!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Guau!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Hyaaa!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(Aunque aseguré la victoria, mi cuerpo todavía\nestá positivamente hormigueando con la presión que\nsentí de Creek!)",
+      "color_text_info_list": [
+        "Creek"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Hehe. ¡Esto es emocionante!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(Cuando Creek y yo nos encontremos de nuevo en la\nhierba, podré competir con todo mi ser de nuevo.\n¡<i>Eso</i> estoy segura!)"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(¡Incluso ahora, el mundo más allá nos espera!)"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(¡Qué absolutamente maravilloso!)"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡Arg!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Ardan... ¡Realmente eres un enemigo formidable!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡Pero la próxima vez... te derrotaré sin falta!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Esta carrera ha producido un conocimiento más\nemocionante que la propia victoria."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "He aprendido que, en este momento, hay muchos\nrivales potenciales por ahí—muchos corredores a\nlos que deseo superar."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Y mis carreras con ellos seguramente serán\nocasiones maravillosas en las que puedo correr con\ncada fibra de mi ser."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Y así, estoy convencida."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Mientras tenga a mis queridos rivales, los límites\ndisponibles para superar permanecerán infinitos."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Y eso seguramente significa que la luz que emito—y\nel deslumbrante rastro que dejo a mi paso—seguirán\nbrillando hasta la eternidad!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de una feroz carrera contra fuertes\ncontendientes a los que nunca se había enfrentado\nantes, parece que Mejiro Ardan está percibiendo\nsignos de crecimiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A medida que su año clásico llega a su fin,\napuesto a que los próximos enfrentamientos contra\nsus rivales se volverán aún más intensos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Probablemente sería mejor darnos algo de tiempo\npara desarrollar las habilidades de Mejiro Ardan\nantes de correr otra carrera objetivo.",
+      "choice_data_list": [
+        "¿Qué tal si apuntamos al Osaka Hai después?",
+        "¿Qué tal si apuntamos al Osaka Hai después?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¡El Osaka Hai! Entonces estaríamos tomando la ruta\ntradicional? ¿Esa carrera determina al mejor\ncorredor de media distancia de la primavera,\nverdad?",
+      "color_text_info_list": [
+        "Osaka Hai"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Imagino que será otra reunión de luces\nbrillantes.",
+      "choice_data_list": [
+        "Debes estar bastante emocionado por ese momento.",
+        "Debes estar bastante emocionado por ese momento."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Lo estoy, pero... Oh, ¿es raro? Que mi corazón\nesté corriendo así.",
+      "choice_data_list": [
+        "Para nada. Está genial.",
+        "Para nada. Está genial."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy segura de que su puro entusiasmo convertirá\nsu carrera en algo aún más deslumbrante de\ncontemplar."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Si lo crees así, Entrenador, entonces con gusto me\nentregaré a este sentimiento jubiloso."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Ahora, volvamos de inmediato y repasemos los\neventos de hoy. Deseo revisar el desempeño de\nCreek."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, una extática Mejiro Ardan y yo nos\ndirigimos de vuelta a la academia."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras tanto, sin que nosotros lo sepamos..."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Mejiro Ardan va en cabeza! ¡La está manteniendo!\n¡Y ha cruzado la línea de meta!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Guau..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Creek, Yaeno y Ardan... Todas se están poniendo\nmás y más fuertes..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Mientras yo solo..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(Está bien. Puedo ponerme más fuerte.)"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(No. <i>Tengo que</i> ponerme más fuerte...)"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(¡Para convertirme en un rival digno de Chiyono O\ncuando ella regrese a las carreras algún día!)"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "El Osaka Hai—allí, ¡daré una actuación aún más\nradiante!"
+    }
+  ]
+}

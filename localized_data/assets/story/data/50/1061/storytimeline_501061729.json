@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "King Halo",
+      "text": "¿Q-qué estás haciendo?!",
+      "choice_data_list": [
+        "Lo siento...",
+        "Lo siento..."
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Ugh, ¡idiota! ¡Disculparse no arreglará nada!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Toma esta experiencia como una lección para que la\npróxima vez lo hagas mejor por tu rey. ¿Entiendes?",
+      "choice_data_list": [
+        "Sí...",
+        "Sí..."
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Hmph. Pero no te preocupes. Un pequeño fracaso\ncomo este no me deprimirá. ¡Una Umamusume de\nprimera sabe cómo recuperarse!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bueno, eso fue decepcionante."
+    }
+  ]
+}

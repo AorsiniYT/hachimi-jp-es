@@ -1,0 +1,327 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una tarde, Tamamo Cross y yo estamos paseando por\nel distrito comercial, mordisqueando croquetas,\ncuando..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Eh, qué está pasando allí? Tienen una multitud\nenorme..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El primer premio de este año es un\nviaje a aguas termales para dos!",
+      "color_text_info_list": [
+        "viaje a aguas termales para dos"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "1.º gana una hamburguesa de zanahoria deluxe, 2.º\nun manojo de zanahorias y 3.º una zanahoria única."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡No dejes pasar esta oportunidad! ¡Tú, la\npequeñita de atrás! ¿Quieres probar suerte?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Oye, ¿a quién llamas 'pequeñita'?! ¡No soy una\nniña, ¿sabes?!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "En serio, señor, qué descaro llamarme así. Espero\nque tu mandíbula esté lista para caerse al suelo\nporque voy a ganarme todos los premios que tienes!",
+      "choice_data_list": [
+        "Solo tenemos un boleto, sin embargo..."
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿¡Qué?! ¿¡Solo <i>una?!</i>"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Bueno, whatever. Vamos a agarrar el mejor premio y\nhacer llorar a este tipo de la rifa."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Vamos, Entrenador. ¡Hagámoslo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tiramos de la palanca juntos y hacemos girar el\ntambor a la velocidad del rayo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de la abertura\ndel tambor..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Santo cielo! ¡Tenemos un ganador del primer\npremio! ¡Venga a recoger el cupón para su viaje a\naguas termales! ¡Felicitaciones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "Obtuviste: <itemname>"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Qué...? ¿Solo es un boleto? Esperaba algo de\ncomida..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Espera, ¿qué?! <i>¡Aguas termales?!</i>"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "E-estás bromeando..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿En serio? <i>¡Un viaje a aguas termales?!</i>",
+      "choice_data_list": [
+        "¿Qué, preferías un viaje a un manantial frío?",
+        "¿Qué, preferías un viaje a un manantial frío?"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Cállate, idiota! ¡<i>Yo</i> soy la que tiene los\nregresos!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Pero... ¿q-qué se supone que debo hacer con esto?\nFui y gané el primer premio..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Pero no tengo la menor idea de qué hacer con\nesto..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de su discurso duro anterior, Tamamo Cross\ntermina con lágrimas en los ojos."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "De pequeña suplicaba y suplicaba por un viaje a\naguas termales, pero nunca me dejaron ir..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Qué se supone que debo hacer ahora? No puedo\naceptar esto...",
+      "choice_data_list": [
+        "¿Deberíamos devolverlo, entonces?"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Ni hablar! Aquí encontramos oro."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Espera! ¿Por qué no guardas los boletos por mí?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Y luego puedo ganarlo de vuelta. No hay nada malo\nen que un ganador se gane un viaje gratis,\n¿verdad? ¡Así es como se hace en el gran premio de\ncomedia!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Será mi recompensa cuando domine la Serie Twinkle.\nNada mal, ¿verdad?",
+      "choice_data_list": [
+        "Suena como un gran plan."
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Genial, entonces es un trato! Oye... ¿<i>yo</i> yendo a\nun viaje a aguas termales? ¿La Señora Suerte\nfinalmente me está mirando?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Guau, guau, no puedo contar mis pollos antes de\nque nazcan. Tengo que trabajar muy duro si quiero\ncobrar mi premio!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Volviendo a la realidad, Tamamo Cross se anima. Su\ndeseo de ganar está tan caliente como los baños\nrelajantes que sueña con visitar."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Te llevas una\nhamburguesa de zanahoria de lujo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "Obtuviste: <itemname>"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Guau, ¡acabo de ganar la madre de todas las\nhamburguesas! ¡Hoy voy a comer bien!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Pero se ve un poco gracioso. Tiene una gran\nzanahoria asomándose..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Por qué fueron y clavaron una verdura en la\ncarne, eh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una zanahoria... clavada en el filete... filete...\n¡Estaca!",
+      "choice_data_list": [
+        "Claro que clavaron la estaca... en el filete."
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Clavaron la estaca... Clavaron la estaca en el\nfilete..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Bwahahaha! No hay <i>forma</i> de que esa sea la\nrazón... ¡o significaría que hay alguien sirviendo\njuegos de palabras tan malos como los tuyos!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Uf... Tanto bromear me dio hambre."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Tomemos esto y volvamos a las residencias! ¡Vamos\na darnos un festín!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Disfrutamos de una alegre cena mientras picoteamos\nla hamburguesa de zanahoria de lujo que ganamos."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te llevas a casa un montón de\nzanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "Obtuviste: <itemname>"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Guau, <i>todas</i> estas zanahorias son para nosotros?\n¡Eso es de lo que estoy hablando!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Esta porción es ENORME...! Es de tamaño montaña,\n¡caray! Y \"tamaño montaña\" es una de mis palabras\nfavoritas!",
+      "choice_data_list": [
+        "...¿Lo es?",
+        "...¿Lo es?"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Sí. Ahí mismo con \"mitad de precio\" y \"gangazo\"."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Bueno, estoy pensando que las dividimos y enviamos\nla mitad a mi familia."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Les escribiré una notita como: \"¡Miren lo que gané\nen una rifa!\" Les encantará.",
+      "choice_data_list": [
+        "¿Por qué no enviar una foto para acompañar la\ncarta?",
+        "¿Por qué no enviar una foto para acompañar la\ncarta?"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Oh, sí! ¡Buena idea!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Muy bien, ¡acérquense y muestren sus blancas\nperlas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tamamo Cross hace una señal de paz frente a las\nzanahorias. Más tarde me entero de que a sus\nhermanos les encantó la foto."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Miren aquí! ¡Has ganado el tercer premio! ¡Aquí\nestá tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "Obtuviste: <itemname>"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡¿Solo una zanahoria común y corriente?! ¡Qué\nbroma!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Pero creo que servirá. No importa cuánta tengas—la\ncomida es comida."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Me han decepcionado peor que esto. Si tuviera que\ndecirlo, el peor premio que he ganado fue... Ugh.",
+      "choice_data_list": [
+        "Bueno, ¿qué fue?",
+        "Bueno, ¿qué fue?"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "De pequeña gané un premio de consolación. Allí\nestaba, muriéndome de hambre y todo, cuando el de\nla rifa dice: \"¡Felicidades, niño! ¡Aquí tienes tu\ncollar!\""
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Pensé que al menos podría morder el plástico, pero\nera <i>asqueroso.</i> Hubiera preferido un solo caramelo\npequeño antes que esa basura cualquier día."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Así que una zanahoria no está tan mal, ¿verdad?\nIncluso te dejaré tener las hojas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tamamo Cross generosamente me da la parte superior\nde la zanahoria. No es mucho, pero es algo."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Oh, qué mala suerte! ¡Parece que sacaste un\nblanco! ¡Toma este paquete de pañuelos como premio\nde consolación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "Obtuviste: <itemname>"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡¿Pañuelos?! ¿Para qué? ¿Para las amargas lágrimas\nde la derrota?!",
+      "choice_data_list": [
+        "No sirve de nada llorar sobre la leche derramada.",
+        "No sirve de nada llorar sobre la leche derramada."
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Jaja, es verdad! Al menos tengo pañuelos para\nlimpiar el desastre."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Espera un minuto! Si no hubiera ganado un premio\ntan malo, no habría nada por qué llorar en primer\nlugar!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Suspiro... Soy tan desafortunada... Pero eso no es\nnada nuevo para mí. Mi vida siempre ha sido así..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tamamo Cross se enfurruña después de perder en la\npequeña prueba de suerte..."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Oh, Entrenador! ¡Muchas gracias por darme tiempo\nlibre! ☆",
+      "choice_data_list": [
+        "¿Te sientes recargada ahora?",
+        "¿Te sientes recargada ahora?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Sí! Volví a ver completo el <i>Resumen de los\nMejores Combates del Torneo de Sumo!</i> ¡Fue\nincreíble!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Tengo una idea! ¡Deberíamos ir a ver algo de sumo\nen vivo juntos, Entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Hishi Akebono tuvo un descanso\nagradable y refrescante."
+    }
+  ]
+}

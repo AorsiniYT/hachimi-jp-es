@@ -1,0 +1,143 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "A pesar de mis preocupaciones, Gold Ship hace una\nfantástica actuación en la carrera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡El cielo es el límite de aquí en adelante!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Y esa es otra carrera terminada y lista. Ufff...",
+      "choice_data_list": [
+        "¡Gran trabajo ahí afuera!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Estar relajada realmente es la mejor arma en mi\narsenal. Ahora, es hora de relajarse..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Uy...",
+      "choice_data_list": [
+        "Entonces, sobre tus próximas carreras..."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Oye, ¿no ves que estoy alcanzando mi zen? Vamos\ntomarlo con calma.",
+      "choice_data_list": [
+        "Eh..."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Con mis talentos únicos, incluso puedo convertir\nun páramo estéril en una granja de zanahorias\npróspera en poco tiempo."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Voy a mostrarle al mundo lo genial que es vivir de\nla tierra.",
+      "choice_data_list": [
+        "¡E-eh! ¿A dónde vas?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No importa cuánto intente llamarla, Gold Ship ni\nsiquiera me dedica una segunda mirada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hago por ir tras ella antes de que desaparezca de\nmi vista, pero entonces..."
+    },
+    {
+      "name": "???",
+      "text": "Una lástima, Golshi."
+    },
+    {
+      "name": "???",
+      "text": "Así que has elegido alejarte de la vida de\ncompetición."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Qué...? ¿Quién está ahí?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Flash? ¿Qué haces aquí?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Un cierto individuo me pidió que actuara como\nmensajero y te transmitiera mensajes."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Se suponía que te entregaría información útil\nhoy..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Pero si te estás retirando de las carreras,\nentonces esos datos ya no son relevantes para ti."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "...¿De qué tipo de información estamos hablando\naquí?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Información que podría ayudar en tu búsqueda de\nEden."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Qué?! ¿Dijiste Eden?!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "...Eh, ¿eso qué era?",
+      "choice_data_list": [
+        "La utopía de las Umamusume... ¿Creo?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Ah, cierto! ¡Ese lugar curioso y atractivo!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Flash, olvida lo que dije antes! ¡Dime dónde está\nEden, te lo pido!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Así que has cambiado de opinión. Sin embargo, la\ninformación que llevo es de vital importancia. No\npuedo simplemente dártela gratis."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Por lo tanto, primero debo desafiarte a batallar\nen el escenario del Arima Kinen.",
+      "color_text_info_list": [
+        "Arima Kinen"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿El Arima Kinen? ¿Significa eso que me lo dirás si\ncorro contra ti allí?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sí, sin falta. Tienes mi palabra."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Muy bien, ¡estás en! ¡Arima Kinen, allá voy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo curiosidad sobre el \"cierto individuo\" que\nle dio esa información a Eishin Flash, pero..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más que eso, me alegra que Gold Ship esté motivada\npara correr de nuevo!"
+    }
+  ]
+}

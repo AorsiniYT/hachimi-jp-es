@@ -1,0 +1,239 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Hishi Amazon y yo regresamos de un paseo,\ncuando..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Oye, Teach! ¿Por qué no pasamos por esa cantina?\nSabes, la que tenía un anuncio frente a la\nestación?",
+      "choice_data_list": [
+        "¿El lugar de barbacoa, te refieres?",
+        "¿El lugar de barbacoa, te refieres?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Sí. He estado pensando en la tarea que mi papá me\ndio. Quizás comer algo de buena comida americana\nme ayude a inspirar una respuesta."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Realmente quiero descubrir cuál es la cosa más\nimportante sobre la cocina!",
+      "choice_data_list": [
+        "Muy bien, ¡vamos!"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "A ver, ¿qué debería pedir... ¿Hm?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Brian, entiendo que no eres fan de vegetales, pero\nal menos toma un jugo de zanahoria."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "<i>Suspiro...</i> Preocúpate por ti mismo. Puedo decidir\nqué quiero comer por mi cuenta."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Bueno, si no son Brian y Hayahide! ¿Qué\nprobabilidad?",
+      "choice_data_list": [
+        "Hola."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Oh, son Hishiama y su entrenador. Hola. Supongo\nque ustedes dos también están almorzando?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Di hola, Brian."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ama, ¿podrías hacer que se calle? No se da cuenta\nde lo molesta que puede ser a veces."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Ahora soy molesta? La buena nutrición debería ser\nprimordial con tu próxima carrera tan cerca..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Muy bien, ya basta de eso. ¿Por qué no nos\nsentamos todos juntos y comemos en armonía?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Uf... ¡Estoy lleno! ¡No hubo un plato malo a la\nvista!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Todo sabía genial, pero...",
+      "choice_data_list": [
+        "¿Pudiste descubrir algo?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Jaja, para nada. Supongo que va a tomar mucho más\nque eso para resolver mi tarea..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Tarea? ¿Desde cuándo te importa eso?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Espera, ¿comiste algo malo?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Acabas de verme comer nada más que sabrosa\nbarbacoa! La razón es—"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Espera, un momento! Quizás ustedes dos puedan\nayudarme."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Qué creen que es lo más importante sobre la\ncocina?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Lo más importante de la cocina? No puedo decir\nque este sea un territorio familiar para mí,\npero..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Creo que la receta es lo más importante.\nProporciona una fórmula básica sobre la cual se\npueden hacer ajustes mediante cálculos finos."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "La veo como la base y aplicación de la cocina."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Eso es estúpido. La comida es lo suficientemente\nbuena mientras sea comestible."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Pero somos lo que comemos, así que prefiero\npreparar cualquier cosa que me entusiasme para\ncarreras."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Interesante... Saben, para hermanas, ustedes dos\nciertamente piensan diferente."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Hayahide mantiene las cosas frías y colectadas,\nmientras que a Brian le gustan las decisiones del\nmomento!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Hm... Podría aprender un par de cosas de ambas\nformas de hacer las cosas, pero creo que la que\nmás resuena conmigo es...",
+      "choice_data_list": [
+        "Mantener la calma con las técnicas correctas.",
+        "Subir la temperatura y desafiar cosas nuevas."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Oh, buen pensamiento, Profe! Realmente no puedo\ncomprender los detalles más pequeños, pero..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡La receta es lo primero! ¡Tendré que seguir una y\nver cómo va! ¡Gracias por la ayuda, ustedes dos!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Apenas hicimos algo digno de tales gracias. Les\ndeseamos lo mejor en sus esfuerzos."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...No me incluyas contigo."
+    },
+    {
+      "text": "Regresamos a la academia juntos, pero Hishi Amazon\nme pide que espere en mi oficina."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Gracias por esperar, Profe. ¡Preparé esto usando\nalgunas técnicas geniales!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Es una pasta fría de tomate y albahaca. ¡Come\nantes de que se caliente!",
+      "choice_data_list": [
+        "¡Se ve increíble!"
+      ]
+    },
+    {
+      "text": "Doy el primer bocado de la pasta, y el sabor\ncrujiente y umami de las verduras llena mis\nsentidos.",
+      "choice_data_list": [
+        "¡Es ligero, refrescante y sabe maravilloso!"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Me alegra que te guste! Normalmente sazono la\ncomida basándome en mis instintos."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Pero fue genial volver a lo básico y medir todo\nhasta el gramo!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Uf... Ahora estoy un paso más cerca de resolver el\nacertijo."
+    },
+    {
+      "text": "Hishi Amazon pone una expresión fría y asiente con\nla cabeza sabiamente."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Buen pensamiento, Profe! Realmente voy a lanzarme\na esto por completo..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Y verter mi corazón y alma en mi cocina una vez\nque regresemos a casa! ¡Les debo una!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Aún no entiendo de qué estás hablando... pero\nseguro, buena suerte. Aquí, toma este jugo de\nzanahoria para el camino."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...No uses esto como una oportunidad para\nimponerle tu jugo, Brian."
+    },
+    {
+      "text": "Regresamos a la academia juntos, pero Hishi Amazon\nme pide que espere en mi oficina."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Gracias por esperar, Profe. ¡Me aseguré de que mi\nalma estuviera ardiendo caliente mientras\npreparaba esto!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Ta-dah! ¡Camarones salteados picantes, directos\nde la sartén! ¡Come antes de que se enfríen!",
+      "choice_data_list": [
+        "¡Gracias! ¡Voy a comer ahora mismo."
+      ]
+    },
+    {
+      "text": "Pruebo los camarones salteados, y el salvaje,\npicante sabor de la salsa llena mi boca.",
+      "choice_data_list": [
+        "¡Está tan picante... pero tan bueno!"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Me alegra que te guste! Normalmente soy bastante\nsuave al sazonar platos ricos como estos."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Pero no está tan mal ir a fondo con los sabores\natrevidos para coincidir con los gustos de las\npersonas!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Muy bien! ¡Estamos un paso más cerca de responder\nla pregunta!"
+    },
+    {
+      "text": "Hishi Amazon bombea sus puños triunfantemente en\nel aire con más fuego ardiendo en sus ojos que lo\nusual."
+    }
+  ]
+}

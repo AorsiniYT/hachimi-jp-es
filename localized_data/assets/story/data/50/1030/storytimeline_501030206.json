@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Rice Shower",
+      "text": "Hoy es el día. El Takarazuka Kinen."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Estoy aquí gracias al apoyo de todos en los\nhipódromos de Hanshin y Kyoto."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Tengo que dar lo mejor de mí.",
+      "choice_data_list": [
+        "¡Muéstrale a todos de qué estás hecha!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...¡Lo haré! Todos han esperado por mí, así que\ncorreré con todo mi corazón como agradecimiento."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Puede que sea inútil... Puede que cause problemas\na todos..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pero puedo correr... Así que haré exactamente eso,\nhasta la línea de meta!"
+    }
+  ]
+}

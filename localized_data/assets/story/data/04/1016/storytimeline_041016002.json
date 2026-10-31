@@ -1,0 +1,198 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Durante los siguientes días después de su carrera,\nintento acercarme a Narita Brian varias veces. Sin\nembargo..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No hay nada de qué hablar."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Lárgate."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...",
+      "choice_data_list": [
+        "Ni siquiera me da la hora del día."
+      ]
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Hey, es ese entrenador. Tiene agallas de venir de\nnuevo."
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Ese es el más persistente que hemos visto hasta\nahora, ¿eh? Estoy segura de que Brian dirá que no,\nal igual que en las pruebas.",
+      "choice_data_list": [
+        "(Las pruebas...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "He oído hablar de la carrera de pruebas de Brian.\nLas pruebas son donde los corredores intentan ser\nreclutados, pero ella rechazó todas las ofertas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y cuando la conversación gira sobre hacer su\ndebut, ella se va abruptamente sin otra palabra.\nQuizás <i>eso</i> es lo que le molesta..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Unos días después, escucho que Narita Brian va a\ncorrer de nuevo, así que me apuro para verla."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Graaah!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Hishiama está realmente encendida hoy. Como,\nestamos hablando de un nivel completamente\ndiferente."
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Bueno, ella es la que sugirió que corrieran, así\nque no puede permitirse perder — ¡Quién! Hishiama\nestá haciendo su movimiento."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Voy a... aplastarte. ¡Graaah!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¡Hup!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿¡Qué?!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Gah... Maldita sea. ¡Aaaaagh!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "<i>Haa... Haa...</i> Uf."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Detente."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Adónde crees que vas? Nuestra batalla no ha\nterminado. Te desafié a uno contra uno, mejor de\ntres."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Y no voy a perder de nuevo. Así que prepárate para\nla próxima —"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "El resultado ya está decidido. Sabes muy bien que\nsi corremos de nuevo, los resultados serán los\nmismos."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No quiero ver que se apague el fuego de nadie más,\ny menos aún apagarlo yo mismo. Estoy... harto de\neso."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Maldita sea... Lo sé, ¿de acuerdo? Sé que no puedo\nvencerte ahora."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Pero... eso no significa que sea un cobarde que se\nrinde después de una sola derrota. No te atreves a\ndar por sentado que sabes cómo es todo el mundo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...",
+      "choice_data_list": [
+        "Ella solo te desafiará de nuevo.",
+        "Ella solo te desafiará de nuevo."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Tú de nuevo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿No te dije que te largaras? No me dejes verte de\nnuevo.",
+      "choice_data_list": [
+        "Espera."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Está bien, lo diré. Corredores como ese pueden\nponer una fachada dura, pero una vez que su\nespíritu se apaga, no vuelve."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Lo he visto cien veces. No hay punto en correr con\nellos."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No satisfaría a nadie."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "(Siempre ha sido así. Desde que era pequeña.)"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "(Cuando... sentí este hambre por primera vez.)"
+    },
+    {
+      "name": "Hayahide de joven",
+      "text": "Date prisa, Brian."
+    },
+    {
+      "name": "Brian de joven",
+      "text": "Voy."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "(Ella siempre estaba adelante de mí. Me sentía\ncomo un animal salvaje en la caza, pero ella nunca\nme dejó pasar. Fue lo más divertido que he\ntenido.)"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "(Corría y corría... Seguía corriendo y\npersiguiéndola... Pero no importaba cuánto me\nsatisficiera, solo quería más.)"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "(Y entonces sucedió.)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Choc!</i>"
+    },
+    {
+      "name": "Brian de joven",
+      "text": "Hermana, despierta. Hermana... Hermana."
+    },
+    {
+      "name": "Hayahide de joven",
+      "text": "Uf... Lo siento, Brian."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡wii wuu, wii wuu!</i>"
+    }
+  ]
+}

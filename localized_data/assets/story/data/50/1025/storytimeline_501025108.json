@@ -1,0 +1,253 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es el día del Festival de Fans, y una tienda nueva\ny especial ha abierto en la Academia Tracen para\nla ocasión."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Ding-dong!</i>"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Bienvenido."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es una acogedora cafetería pop-up que estará\nabierta solo por un día."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Gracias por esperar, Entrenador... Esta es mi\nmezcla Manhattan especialmente tostada."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Adelante, pruébala...",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...",
+      "choice_data_list": [
+        "¿Y los otros clientes?",
+        "¿Y los otros clientes?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "No hay nadie. Es esta serenidad lo que hace que la\ntienda sea tan cómoda. Además..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Nadie puede encontrarla de todos modos. Incluso si\nlo hacen, la entrada solo los llevará directamente\na la salida..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Suena como si Manhattan Cafe estuviera\ndistorsionando los límites del espacio y el\ntiempo. No estoy segura por qué ella abrió esta\ntienda..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Ding-dong!</i>"
+    },
+    {
+      "name": "Special Week",
+      "text": "<i>Snif, snif...</i> ¡Eso huele increíble! Yo\nsimplemente<i>sabía</i> que tenía que haber una\ncafetería por aquí!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Vaya, no sabía que este era tu lugar, Cafe!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La nueva clienta es Special Week, una alegre\ncorredora de Hokkaido.",
+      "color_text_info_list": [
+        "Special Week"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Hmm, ¡dame un \"Café Súper Cremoso\"!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...E-está bien. Pero... debo preguntarte, Spe..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "¿Cómo... entraste?"
+    },
+    {
+      "name": "Special Week",
+      "text": "Eh... Solo olí algo increíble, supongo."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Algo... increíble? Ya veo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Manhattan Cafe podría sonar como si hubiera\naceptado la explicación, pero la mirada sospechosa\nque le tira a Special Week dice lo contrario."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Gracias por esperar, aquí está su gran café\nvienés. Solo lo colocaré aquí."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Vaya, hay mucha crema encima! Muy bien, voy a\nbeberme esto, y luego ir a darle al Festival de\nFans y a mis carreras de primavera todo lo que\ntengo!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Eh... Spe? ¿Qué carreras de primavera... vas a\nparticipar?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Eh, quieres saber sobre mi agenda? Bueno, tengo\nun montón de ideas,pero hay esta carrera en la que\n<i>tengo</i> que correr..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Y esa es la primavera Tenno Sho!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "La primavera Tenno Sho... Lo sabía..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Manhattan Cafe también correrá en esa carrera.\n¿Eso tiene algo que ver con que Special Week\naparezca en esta cafetería?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Esto debe ser una señal... Nuestra rivalidad es lo\nque te trajó aquí..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Spe... Yo también correré..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Yo también participaré en la primavera Tenno\nSho..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Vaya, tú también participas, Cafe? E-entonces eso\nsignifica que tengo una competencia dura, ¿eh?"
+    },
+    {
+      "name": "Special Week",
+      "text": "Hrmm. En ese caso, ¡será mejor que ponga mi plan\nde potenciación en acción ahora mismo! ¡Es hora de\nmi movimiento característico!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "¿Qué... movimiento característico?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Cafe! ¡Dame todos los postres del menú! Y eso\nincluye el macaron con sabor a leche y el crema de\nmanzana!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Dame todo lo que tengas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Está buscando... aumentar su resistencia? Special\nWeek se pone a terminar todo lo que pidió, hasta\nel último bocado."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Creo que estoy en problemas...",
+      "choice_data_list": [
+        "¿Se te acabó el stock?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "No, tengo una preocupación más urgente..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Ella devoró toda esa comida sin preocuparse por\nnada. No tenía idea de que podías ponerte más\nfuerte así..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "No puedo perder... Simplemente no puedo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esta acogedora cafetería pop-up está abierta solo\npor un día..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, la barista a cargo tiene otras cosas\nen su mente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Ding-dong!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El timbre de la puerta suena inesperadamente, y\nentra una multitud ruidosa de clientes."
+    },
+    {
+      "name": "Hombre",
+      "text": "Oh, este debe ser el lugar—la cafetería que\nManhattan Cafe abrió!"
+    },
+    {
+      "name": "Mujer",
+      "text": "¡Qué atmósfera tan encantadora! Y el interior es\ntan maravilloso como esperarías! Oh, soy una gran\nadmiradora suya."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Oh, eh...",
+      "choice_data_list": [
+        "Parece que te han encontrado.",
+        "Parece que te han encontrado."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Sí, parece que sí... Pero... me pregunto cómo?",
+      "choice_data_list": [
+        "Solo demuestra con qué pasión estaban buscando."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gracias a sus esfuerzos recientes, la popularidad\nde Manhattan Cafe está comenzando a dispararse."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que su fama es lo que atrajo a sus fans.\nY..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Vaya, este lugar está tan bullicioso como un\npanal de abejas! No hay manera de que Cafe pueda\nmanejar esta tienda ella sola."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Muy bien, voy a echar una mano! Jefe, necesitamos\nun limonada, un batido y algo de espagueti\nnapolitano casero ¡ya!"
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "¡Oye, hey... Nunca acepté nada de esto. No soy tu\nmayordomo."
+    },
+    {
+      "name": "Sirius Symboli",
+      "text": "Caray. No vengas a llorar si te quemas. Si sabes\nen lo que te metes, sin embargo... Supongo que\njugaré."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Entrenador... Mi concepto para la cafetería...\nEs..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Bueno... Supongo que está bien ser popular a\nveces. Si la alternativa es que el lugar se quede\nvacío cada año..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con tantos fans y Umamusume viniendo a ver a\nManhattan Cafe, la tienda es un gran éxito."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Narita Brian no se presenta al entrenamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Voy a buscarla y encuentro un rostro familiar en\nuna casa de baños cercana."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ahh... El agua estaba genial."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Con agua caliente así, ¡solo hay una cosa para\nacompañarla!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "<i>Glu, glu...</i>"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ahhh!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Heh, eso viene al pelo—justo en mi núcleo.",
+      "choice_data_list": [
+        "¿Brian?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Entrenador? ¿Qué haces aquí?",
+      "choice_data_list": [
+        "Te perdiste el entrenamiento.",
+        "Te perdiste el entrenamiento."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Supongo que me quedé demasiado tiempo en el\nagua. ...Lo siento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le advierto a Narita Brian que sea más cuidadosa\nde ahora en adelante."
+    }
+  ]
+}

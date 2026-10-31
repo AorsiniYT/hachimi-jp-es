@@ -1,0 +1,244 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Con el cambio de año, Tamamo Cross entra en su año\nclásico.",
+      "color_text_info_list": [
+        "año clásico"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Feliz Año Nuevo, Entrenador! Brindemos por otro\naño juntos.",
+      "choice_data_list": [
+        "¡Feliz Año Nuevo, Tamamo!"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "La verdad es que es solitario estar tan lejos en\nAño Nuevo en vez de en casa con mi familia."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Pero todavía no estoy haciendo las maletas. No\npuedo... No hasta que tenga algunas victorias\ngrandes que llevar de vuelta."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Estos dos años van a ser nuestro momento de\nbrillar. ¡Cuento contigo, Entrenador!",
+      "choice_data_list": [
+        "¡Lo tienes!",
+        "¡Lo tienes!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Renovamos la promesa que nos hicimos. Nuestro\nasalto a la Twinkle Series realmente va a\nintensificarse este año."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Además, aunque no pueda estar con ellas, al menos\npuedo llamar a todas. Después le marco a mamá\nantes de volverme loca..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Puede que no sea tu madre, pero estaría más que\ncontenta de ser tu mami!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Qué?! ¿Creek, tú también estás aquí?"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Por supuesto! Estoy aquí para dar la bienvenida\nal año nuevo. Tamtam, Entrenador, ¡tengamos todos\nunos doce meses maravillosos!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Este año también será muy especial para mí, como\nves.",
+      "choice_data_list": [
+        "¿Por qué?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Bueno, porque estoy considerando participar en la\nTwinkle Series este otoño."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Todavía no estoy del todo lista para correr\ncontigo, Tamtam, pero con suficiente esfuerzo,\ncreo que puedo lograrlo."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Guau! ¿En serio?! ¿Tú también vas a debutar? ¡Es\nuna noticia genial para empezar el año nuevo!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Eso me recuerda... Estoy segura de que *esa\npersona* también va a debutar. Jeje. ¡Las cosas se\nvan a poner animadas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Veremos a más y más novatas debutar este año. La\nalineación definitivamente está a punto de cambiar\nde forma importante.",
+      "choice_data_list": [
+        "Tengo curiosidad por saber cuáles serán vuestros\npropósitos de Año Nuevo."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh, veamos... Bueno, si tuviera que decir..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Creo que mi propósito de Año Nuevo sería consentir\na Tamtam."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿¿¿Quieres <i>hacer qué?! </i>¡Esa es la resolución más\ntitubeante que he escuchado! ¡Vamos, haz algo como\nconseguir tu primera victoria!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Hmm. Muy bien, entonces nos quedamos con eso.",
+      "choice_data_list": [
+        "¿Cuál es tu propósito de Año Nuevo, Tamamo Cross?"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡¿Es que ni siquiera hace falta preguntar?! ¡Voy a\nhacer a todos en casa extra felices!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh... Pero ese ha sido tu objetivo por un tiempo,\n¿verdad? Lo mencionaste varias veces el año pasado\ntambién."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Bueno... sí. Supongo que es más un objetivo\ncontinuo que una resolución, ¿eh?",
+      "choice_data_list": [
+        "Sí. ¿Por qué no haces entonces el propósito de Año\nNuevo algo divertido y fácil?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No quiero que se queme trabajando demasiado\nfuerte. Ojalá tome la sugerencia..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Sí. Puede que tengas razón, Entrenador. Si no\npuedes divertirte en Año Nuevo, ¿cuándo puedes?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Hm, ahora, ¿qué sería algo divertido para hacer\neste año...",
+      "choice_data_list": [
+        "Perfeccionar tus bromas.",
+        "Organizar una fiesta de takoyaki.",
+        "Aprender más sobre Tokio."
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Esa es buena! ¡Trabajaré en mis bromas! Al fin y\nal cabo, las buenas réplicas tienen que ser\ncontundentes."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡En cuanto alguien me dé una apertura, van a\nquedar asados! ¡En cualquier momento, en cualquier\nlugar!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Uf... De todas las experiencias únicas de Año\nNuevo, no hay nada mejor que una carrera en\nsolitario."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Vete de aquí! ¡Tú corres en solitario todos los\ndías de la semana!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Mi <i>\"propósito de Año Nuevo\"? </i>Una pregunta\napropiada para principios de enero. Mmm,\nsupongo..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Por lo menos, tendría que ser <i>en HD. </i>Jejeje..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡El año acaba de empezar y ya estás soltando\ngroserías?! ¡Qué mono!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Tch, saqué un mal papel. No hay nada de suerte en\neste papel de la fortuna. Un aficionado se daría\npor vencido. Pero..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¡Esta vez voy a sacar un ganador!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Eres algún tipo de tonto?! ¡No puedes seguir\nsacando hasta obtener el resultado que quieres!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "<i>Haa... Haa...</i> Entrenador, no es tan fácil hacer\nesto con la gente de la Academia Tracen..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El año acaba de empezar y hay oportunidades de\nrecuperación volando por todos lados. Parece que\nTamamo Cross está teniendo mucho entrenamiento."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "<i>¡Ahora </i>sí estás hablando! Okay, ¿quién aquí quiere\nuna fiesta de takoyaki?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Reunámonos todos en casa del Entrenador en veinte.\nYo llevaré la parrilla."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Genial, el color se ve bien. Un minuto más en la\nparrilla y estarán listos."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Um, Tamtam? No te vi poner pulpo dentro de estos\ntakoyaki. ¿Se supone que deben ser así?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Sí. No hay nada malo en el takoyaki normal, pero\npensé que agitaría las cosas con los rellenos esta\nvez."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Solo confía en mí, ¿vale? Estos son mis takoyaki\nespeciales sin pulpo—¡te juro que te van a\nencantar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Doy un bocado a la pequeña bola esponjosa... y\nencuentro una maravillosa explosión de sabor\nesperando dentro. Disfrutando la comida juntos,\nlos tres tenemos un relajado Año Nuevo."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Oh, ¡genial! ¿Qué tal si vamos a hacer turismo,\nentonces?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "No tenemos la oportunidad de hacer salidas\ninformales muy a menudo. Aprovechemos la ocasión."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, para mi sorpresa, pronto nos encontramos en\nuna galería de arte."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Je! Seguro que es agradable ver arte de vez en\ncuando. Soy fan, ¿sabes? Más o menos."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿En serio? No tenía idea."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Sí. Conozco a un tipo que vende antigüedades."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Cuando era niño, solía mostrármelas todo el\ntiempo. Pero seguro que hay muchas obras maestras\naquí en Tokio. Incluso tenían una pieza de\nUmachelangelo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No habría adivinado que Tamamo Cross era fan del\narte. Nuestro paseo por la galería parece haber\nestimulado su imaginación."
+    }
+  ]
+}

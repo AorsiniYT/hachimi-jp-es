@@ -1,0 +1,91 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mejiro Ryan",
+      "text": "<i>Haa... Haa...</i> ¡Gané?! ¡Le gané a... McQueen?!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "No puede ser... Esto no es una broma, ¿verdad? ¿Lo\nes?",
+      "choice_data_list": [
+        "No es broma. Felicidades.",
+        "No es broma. Felicidades."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Entrenador... Yo... Yo..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡LO HICE! ¡OOOO SÍIIII!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus gritos de alegría resuenan en la pista en este\nfresco día de otoño."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Oh, por Dios... ¿No estás exagerando un poco tu\nvictoria, Ryan?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ah, McQueen..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Jeje, siempre supe que esto sería un resultado\nposible."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "El hecho es que fuiste <i>tú</i>quien nunca creyó en sí\nmisma."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Eso no es cierto. Nunca pude ganar antes debido a\nlo fuerte que eres."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Y no creo que esto sea el fin de nuestra\ncompetencia."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Al menos eso es correcto. Nadie afirmaría tanto\ndespués de solo una carrera."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Así es. La próxima vez que nos encontraremos\nserá... en el Arima Kinen, creo. ¡Si decides\ncorrer en él, claro!",
+      "color_text_info_list": [
+        "Arima Kinen"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ay, ay, ay... Qué impaciente. Finalmente lograste\nvencerme, así que ¿por qué no saborear el momento?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Bueno, entonces, disfruta. La carrera de hoy solo\nfue el comienzo.",
+      "choice_data_list": [
+        "¿El comienzo de... la verdadera batalla?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Jeje... No exactamente."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡El comienzo de la Era Dorada de Mejiro, con Ryan\ny yo en la cima!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Ryan completa su primera batalla contra\nMejiro McQueen, ganándose un gran logro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero aún hay un largo camino por delante—hacia el\nArima Kinen, donde la esperan muchos más rivales\nfuertes."
+    }
+  ]
+}

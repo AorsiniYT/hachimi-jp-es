@@ -1,0 +1,280 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Como prometí, contactó a los profesores de Smart\nFalcon, notificándoles que ella tomará el día\nlibre. Juntos, luego nos dirigimos al Hipódromo de\nOi.",
+      "choice_data_list": [
+        "Hoy estamos viendo una carrera de tierra."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ohhh, ahora entiendo... pero ¿por qué hoy? No es\ncomo que haya carreras grandes en curso, y tampoco\nhay mucha gente."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Estás tratando de mostrarme lo grandioso que puede\nser el carrerismo de tierra, ¿verdad? Si ese es el\ncaso, ¿por qué no me llevas a una carrera más\nimportante?",
+      "choice_data_list": [
+        "Solo mira. Verás a qué me refiero."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La competencia es increíblemente feroz hoy.\nCubiertas de polvo de pies a cabeza, cada\ncorredora da su todo en la carrera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Luchan por exprimir cada último bito de fuerza en\nsus cuerpos. La vista está lejos de ser bonita, y\nsin embargo—"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Vamos! ¡Tú puedes! ¡Vamossss!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Ah! ¡Oh no! ¡Cuidado! Ella va a—¡ahhhh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cautivados por la pasión de las corredoras por\nganar, la pequeña audiencia estalla en una\ncacofonía de rugidos. Eventualmente..."
+    },
+    {
+      "name": "Primer Lugar Umamusume",
+      "text": "<i>Jadeando... jadeando...</i> ¡Gracias a todos por\nanimarme tanto! ¡Realmente aprecio el apoyo!"
+    },
+    {
+      "name": "Primer Lugar Umamusume",
+      "text": "<i>Jadeando... Uf...</i> Muy bien, ¡terminemos el día con\nuna sonrisa! A continuación, nuestro concierto de\nganadores! En cuanto a la canción que\ncantaremos..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Guau... Eso fue increíble! Como, ¡incluso más\nallá de lo asombroso! ¡Y su concierto también fue\nfantástico!",
+      "choice_data_list": [
+        "Seguro que lo fue.",
+        "Seguro que lo fue."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Todas las corredoras casi se desmayaban, pero\nsiguieron, cubiertas de polvo, brillando como\nestrellas al cruzar la pista."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Oh... Creo que ahora entiendo. ¡Una Umadol brilla\nmás cuando está dando lo mejor de sí y corriendo\ncon todo lo que tiene!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Su concierto fue aún más conmovedor por lo duro\nque trabajaron para llegar allí. ¡Son exactamente\nel tipo de Umadol que quiero ser algún día!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Supongo que no importa si el curso es de césped o\ntierra. ¡Puedes inspirar a tus fans de cualquier\nmanera! ¿Cómo pude haber sido tan ciego a eso?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Simplemente asumí que no podría conmover a mi\naudiencia si corría en carreras de tierra, pero¡no\npude estar más equivocado! <i>Suspiro...</i>Honestamente\nestoy decepcionado de mí mismo...",
+      "choice_data_list": [
+        "¿Así que has cambiado de opinión sobre correr en\ncarreras de tierra?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Bueno, por el momento, todo lo que puedo decir\nes... Me alegra haber podido ver la carrera de\nhoy. Aprendí algo importante, y también me divertí\nmucho!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "No lo habría notado sin ayuda externa; la gente\nignora las carreras sucias, así que estos\nconciertos ganadores pasan desapercibidos."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Y porque no presentan a las corredoras\nprincipales, permanecerán sin ser notadas... Se\nsiente como una lástima.",
+      "choice_data_list": [
+        "Entonces todo lo que tienes que hacer es elevar el\ntecho."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Eh? ¿Qué quieres decir?",
+      "choice_data_list": [
+        "Hay más en las carreras de tierra que solo ser\n\"adecuada\" para ellas, ¿verdad?",
+        "Hay más en las carreras de tierra que solo ser\n\"adecuada\" para ellas, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Oh... ¡Ahora entiendo!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Tienes razón! Todo lo que necesito hacer es\nconvertir las carreras de tierra en un lugar para\nlas corredoras principales a través de mi correr,\ncantar y bailar!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Haré que más personas quieran correr y ver\ncarreras de tierra! ¡Cambiaré el mundo de las\ncarreras!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Espera... ¿Eso no es súper difícil? Como, más\ndifícil que solo convertirme en una Umadol de\nclase mundial?",
+      "choice_data_list": [
+        "Quizás.",
+        "Quizás."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ahaha... Supongo que no debería rendirme solo\nporque va a ser un desafío, ¿verdad? ¡Todo eso\nsignifica es que necesito intentarlo más que\nnunca!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Pero no importa cuánto me esfuerce si nadie sabe\nquién soy! ¡Así que el primer paso hacia mi meta\nes darme a conocer al mundo!",
+      "choice_data_list": [
+        "¡Sigue así, y tu día llegará!",
+        "¡Sigue así, y tu día llegará!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿\"Sigue así\"? ¡Tengo que ir más allá o nada\ncambiará! ¡Especialmente en el departamento de\nmarketing! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sacudo mi cabeza. Lo que ella no sabe es que ya\nestá haciendo buen progreso. Después de todo...",
+      "choice_data_list": [
+        "¡Me convertí en tu fan número uno por una razón!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Recuerdo cuando la vi por primera vez. Su figura\nsolitaria brillaba bajo el sol de la tarde\nmientras bailaba y cantaba ante un fondo de\nnaranja vibrante."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nadie estaba mirando. Nadie estaba escuchando. Y\nsin embargo, ella sonrió ampliamente y cantó como\nsi se extendiera a una audiencia de miles."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella me llenó de esperanza y valor, y no la\ncambiaría por nadie más en el mundo."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Oh, guau..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...Gracias."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Está bien, lo tengo! ¡Sé qué quiero hacer para mi\npróxima carrera de prueba!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Unos meses pasan, y llega el primer lote de\npruebas desde que comencé a entrenar con Smart\nFalcon."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Muy bien, ¡me voy ahora! ☆ ¡Espero escucharte\nanimándome! ☆"
+    },
+    {
+      "name": "New Trainer A",
+      "text": "¿Quién es la nueva cara? Se ve increíblemente\nemocionada... No creo haberla visto antes en una\ncarrera de tierra.",
+      "choice_data_list": [
+        "(Prepárate para sorprenderte.)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La atención de la multitud se desplaza rápidamente\na las corredoras más prominentes. Pero eso es\nexactamente lo que necesitamos para que ella se\ndestaque."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Uf... ¡Hiyaaa! ☆☆☆"
+    },
+    {
+      "name": "Trainers",
+      "text": "¿Qué...? ¡Guau, ella es rápida!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Smart Falcon levanta una tormenta de polvo,\nampliando la brecha entre ella y las otras\ncorredoras a una velocidad increíble. Todos los\nojos se fijan en ella."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ahaha, ¡es tan fácil correr en tierra! ¡Pero yo\nsabía eso! ¡Siempre lo supe! Esto..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Este es mi escenario! ¡Aquí es donde brillo más!\n¡Y finalmente estoy lista para brillar! ☆☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Smart Falcon corre tan libremente como un pájaro\nsurcando el cielo. La pista de tierra es suya para\ntomar, y nadie más se acerca."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Yaaay! ¡Lo hice! ¡Gané! ☆☆"
+    },
+    {
+      "name": "New Trainer A",
+      "text": "¡H-ey! ¿¡Puedo hablar contigo por un minuto!\n¡¿Quién eres exactamente?! ¿¡Y dónde has estado\ntodo este tiempo?! ¿Estás buscando un entrenador?\nSi es así..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Awww, ¿ya soy famosa? ☆ Lo siento, ¡pero tendré\nque responderte eso después!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oh, ahí estás! ¡Te estaba buscando!",
+      "choice_data_list": [
+        "Buen trabajo."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Gracias! ☆ Oye, ¿cómo estuve? ¿Iluminé la pista?",
+      "choice_data_list": [
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ehehe... Me alegra. De todos modos, hablemos. Hay\nalgo que he estado queriendo preguntarte, así que\nescucha con atención, ¿vale?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Serás mi entrenador y me ayudarás a convertirme\nen la mejor Umadol que pueda ser?",
+      "choice_data_list": [
+        "¡Por supuesto, Falco! ¡Hagámoslo!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Ehehe! ¡Muchas gracias! ☆☆"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ahora que eso está resuelto... ¡Hola, mis\nfans—tanto viejos como nuevos! Me gustaría\npresentarme una vez más! ☆"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿¡Qué haces cuando Falco corre?! (¡Persíguela!\n¡Persíguela!) ¡Atrapa con corazones llenos de\namor! ☆ ¡Soy Smart Falcon, y soy la Umadol más\nlinda por aquí! ☆"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Mi sueño es convertirme en la Umadol principal de\nlas carreras de tierra! Y para hacer realidad mi\nsueño, ¡necesito tu apoyo! Así que por favor..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Muéstrame tu amor y atrápame si puedes! ☆ ¡Ehehe!\n♪"
+    }
+  ]
+}

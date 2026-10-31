@@ -1,0 +1,215 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Oguri Cap",
+      "text": "Entrenador, lo logré.",
+      "choice_data_list": [
+        "¡Sabía que lo tenías en ti!",
+        "¡Sabía que lo tenías en ti!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Gracias. Creo que pude mostrarle a todos de qué\nestoy hecha."
+    },
+    {
+      "name": "Multitud",
+      "text": "<i>¡UUUU!</i>"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Espera. Puedo escuchar ánimos desde afuera."
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Oguri fue increíble!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "Sé que no es su mejor distancia, pero realmente\nquiero verla en la carrera de fin de año!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Suena como si todos tuvieran grandes\nexpectativas para mí."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Quiero lograrlo... ¡Quiero correr en el Arima\nKinen!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Oguri Cap está realmente motivada. Esto parece la\noportunidad perfecta para compartir mis buenas\nnoticias con ella."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Así que crees que podré correr en el Arima\nKinen?!",
+      "choice_data_list": [
+        "¡Sigue así, y estoy segura que lo harás!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cada vez que miro las encuestas en línea y las\npredicciones de periódicos, el nombre de Oguri Cap\nsiempre está ahí."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿En serio? Todos deben tener tantas esperanzas\npara mí."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Su apoyo es mi fuerza. ¡De ninguna manera puedo\nperder así!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El entusiasmo de los espectadores, la pasión de\nOguri Cap, y mi propio fervor han alcanzado un\npunto álgido.",
+      "choice_data_list": [
+        "¡El Arima Kinen está a la vuelta de la esquina!",
+        "¡El Arima Kinen está a la vuelta de la esquina!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí... ¡Y voy a lograrlo! ¡Es la carrera de mis\nsueños!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "De camino a casa..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "<i>Pant... pant...</i> Muy bien, ¡una vuelta más!"
+    },
+    {
+      "name": "Inari One",
+      "text": "E-espera un minuto, Creek! ¿No es hora de que\ntomes un descanso?"
+    },
+    {
+      "name": "Inari One",
+      "text": "Es lindo verte tan apasionada, pero te estás\nexcediendo! ¡Esto no es propio de ti!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh, querida, ¿estás preocupada por mí? ¡Eres tan\ndulce! ♪"
+    },
+    {
+      "name": "Inari One",
+      "text": "Oye, ¡no cambies de tema! Esto es por el\ncampamento de verano, ¿verdad?"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Desde que corriste contra Oguri, te has estado\nesforzando demasiado!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "...No pude adelantarla."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Si corriéramos de nuevo ahora mismo, sé que\nperdería."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Quiero destacar en más que solo las carreras en\nlas que ya soy buena—y para eso, necesito\nconstruir resistencia."
+    },
+    {
+      "name": "Inari One",
+      "text": "Pero Creek... ¿Por qué estás tan obsesionada con\nOguri?"
+    },
+    {
+      "name": "Super Creek",
+      "text": "No puedo perderle. Si yo misma no soy fuerte,\n¿cómo se supone que voy a apoyar a alguien más?"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Quiero ser la persona más fuerte y confiable\nalrededor."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Es por eso que necesito ponerme aún más fuerte.\n¡Tengo que estar millas por delante de Oguri!"
+    },
+    {
+      "name": "Inari One",
+      "text": "...Muy bien, muy bien. ¡Lo entiendo! ¡No hay\nnecesidad de alterarse tanto!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Te dejaré en lo tuyo. Pero recuerda mantenerte\nhidratada. ¡Voy a traerte agua!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "...Gracias, Inari. Realmente eres un dulce."
+    },
+    {
+      "name": "Super Creek",
+      "text": "...Ah."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Creek."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Hola, Oguri."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Tuviste una carrera hoy, ¿verdad? Estoy segura que\nlo hiciste genial, como siempre."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Gracias..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El nombre de Super Creek ha estado en cada\nencuesta de Arima Kinen que he visto. Parece que\nestas dos finalmente se enfrentarán cara a cara en\nuna carrera real!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "No puedo esperar por el Arima Kinen. Si eres capaz\nde correr contra mí de nuevo, eso será la guinda\ndel pastel."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí. Tal vez no te derroté en el campamento de\nverano, pero las cosas serán diferentes esta vez."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Ah, sí? Entonces, hagámoslo lo mejor posible\nambas."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Y una cosa más... No tengo intención de perder\ntampoco. Por favor, tenlo en cuenta."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Por supuesto. Quiero que estés en tu mejor forma\ncuando yo te derrote."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Genial! ♪ Mejor sigo con mi entrenamiento,\nentonces."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Creek está trabajando realmente duro."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Puede que no quede mucho tiempo hasta el Arima\nKinen, pero quiero hacer todo lo posible para\nprepararme también."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Entrenador, por favor préstame tu apoyo!",
+      "choice_data_list": [
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La gran carrera está a solo días. Una vez más\nresuelvo asegurarme de que Oguri Cap salga\nvictoriosa."
+    }
+  ]
+}

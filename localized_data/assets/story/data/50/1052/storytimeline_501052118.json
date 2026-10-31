@@ -1,0 +1,69 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Haru Urara",
+      "text": "¡Guau!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Lo hice! ¡Gané el primer lugar!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡E-espera! ¿Significa eso que estoy en el círculo\nde ganadores?!",
+      "choice_data_list": [
+        "¡Por supuesto que sí! ¡Llegaste en primer lugar!",
+        "¡Por supuesto que sí! ¡Llegaste en primer lugar!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Oh, sí! Sí, sí... ¡SÍ!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Me viste, Entrenador?! ¿Viste que crucé la línea\nde meta primero?!",
+      "choice_data_list": [
+        "¡Claro que sí! ¡Estuviste increíble!",
+        "¡Claro que sí! ¡Estuviste increíble!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí! Simplemente salí corriendo, y no había nadie\ndelante de mí!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Sabías que el viento es súper fuerte en la parte\ndelantera? ¡Yo no!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Y el círculo de ganadores es tan <i>verde!</i> Un poco\náspero, también..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Oh, sí, una cosa más..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Quedar en primer lugar se sintió tan bien! ¡Fue\nsúper divertido y asombroso!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Entrenador! ¡Quiero quedar en primer lugar una y\notra vez!",
+      "choice_data_list": [
+        "¡Sí, apuntemos a eso!",
+        "¡Sí, apuntemos a eso!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí! ¡Voy a ganar de nuevo seguro!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ujuu!"
+    }
+  ]
+}

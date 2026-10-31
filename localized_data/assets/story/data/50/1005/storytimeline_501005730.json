@@ -1,0 +1,31 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Jajaja! Esto es increíble! No puedo creer que\nhayas podido reclutar tantos ponis talentosos!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Puedes tener un verdadero talento para producir\nobras de teatro.",
+      "choice_data_list": [
+        "Oh, exageras."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "No hay necesidad de ser humilde. ¿Escuchas? ¿No\noyes?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "La audiencia está animando fuertemente por tu\nhábil dirección."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Ahora es hora del saludo final! ¡Tómense de la\nmano, todos. El telón se levanta!"
+    },
+    {
+      "text": "¡Eso no podría haber salido mejor!"
+    }
+  ]
+}

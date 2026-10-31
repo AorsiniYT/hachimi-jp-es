@@ -1,0 +1,80 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Multitud",
+      "text": "¡Scarlet! ¡Scarlet! ¡Scarlet! ¡Scarlet!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Los escuchas, Entrenador? Me están llamando."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Todos están aquí para verme. Para ver a la Uma\nMusume número uno."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Oye, Entrenador... Me sigo preguntando..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Crees... que me recordarán?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Soy finalmente, verdaderamente... la Uma Musume\nnúmero uno de todos los tiempos?!",
+      "choice_data_list": [
+        "¡Sí!",
+        "¡Sí!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las lágrimas comienzan a brotar de los ojos de\nDaiwa Scarlet."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aplausos ensordecedores inundan el Círculo de\nGanadores, donde Daiwa Scarlet se erige como la\núnica vencedora."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella realmente es la Uma Musume número uno."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Muy bien! Ya basta de avergonzarme. Todos me\nestán esperando."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Tú también necesitas darte prisa y prepararte!",
+      "choice_data_list": [
+        "¿Prepararme? ¿Para qué?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Para la ceremonia de premios, obviamente! ¡Vamos\na estar inundados de solicitudes de entrevistas!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Tendrás que contarles todo sobre mí!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Como, \"¡La he entrenado hasta convertirla en la\nmejor Uma Musume! ¡Es mi orgullo y alegría!\""
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Como, \"¡La he entrenado hasta convertirla en la\nmejor Uma Musume! ¡Es mi orgullo y alegría!\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet me toma de la mano y me lleva a la\nceremonia de premios."
+    }
+  ]
+}

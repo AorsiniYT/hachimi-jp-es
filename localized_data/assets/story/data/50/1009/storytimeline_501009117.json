@@ -1,0 +1,341 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El Arima Kinen es una celebración de las carreras.\nUn gran festival que brilla una vez al año."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una emoción tangible se apodera tanto de los\ncorredores como de los fanáticos cuando se acerca\nel fin de año."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por fin, se han anunciado los resultados de la\nencuesta preliminar de popularidad entre los\nfanáticos."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Estoy en primer lugar! ¡Entrenador! ¡Me votaron\ncomo número uno!",
+      "choice_data_list": [
+        "¡Felicitaciones!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Je! ¡Y mira! ¡Escribieron montones de comentarios\nsobre mí!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "\"¡Estoy súper emocionado por el Arima Kinen!\"\n\"¡Soy tu fan desde el Oka Sho!\""
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "\"¡No puedo esperar a verte hacerlo aún mejor que\nen el Tenno Sho de otoño!\" \"¡Ve y vence a Vodka!\""
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "\"Esperaba ver correr a Vodka, pero como no estará,\nvoté por su rival.\""
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...\"Espero que Daiwa Scarlet se esfuerce el doble\npor el bien de Vodka.\""
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...",
+      "choice_data_list": [
+        "¿Estás bien?",
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Hum! ¿Por qué te ves tan preocupado? Estoy\ncompletamente bien."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Es solo... molesto, nada más. Es como si nunca\nfuera a librarme de ella."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Fui yo quien ganó el Tenno Sho de otoño."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Soy yo quien todos esperan que gane el Arima\nKinen."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Soy yo quien superó a Vodka, ¿verdad? Así que no\npuedo permitirme perder ahora.",
+      "choice_data_list": [
+        "...Scarlet?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hum. ¿Por qué suenas tan preocupado?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Vamos, tenemos que irnos. ¡Todavía queda mucha\npreparación para el Arima!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet se dirige a la pista con una\nexpresión tensa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más tarde, me entero por los rumores que Vodka ha\nfijado una fecha para regresar al extranjero."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esa fecha es hoy."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Hm? ¿Qué pasa contigo?",
+      "choice_data_list": [
+        "¿No quieres despedirla?",
+        "¿No quieres despedirla?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Te refieres a Vodka? No particularmente."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ya nos hemos visto tantas veces en este punto, que\nno queda nada más por decir."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Más importante, tengo una conferencia de prensa\nesta tarde. Necesito prepa―"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Oye! ¡Scarlet! ¿Has oído la noticia?!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Teio? ¿Qué te tiene tan alterado?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Es Vodka!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Fue al aeropuerto hoy, pero no subió al avión!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...?!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡¿Qué diablos está pensando?!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Scarlet! ¡¿A dónde vas?!",
+      "choice_data_list": [
+        "¡¿A qué aeropuerto fue Vodka?!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Um... A ver... Creo que fue..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Haa... Haa...</i>",
+      "choice_data_list": [
+        "¡Por fin, la alcancé!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡¿Eh?! ¡Entrenador! ¡¿Qué haces aquí?!",
+      "choice_data_list": [
+        "Vine a ayudar.",
+        "Vine a ayudar."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Qué tonto eres...!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Bien, ¡tú busca por allá! ¡Yo tomaré esta área!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Informa en cuanto la encuentres!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tanto Daiwa Scarlet como yo corremos por el\naeropuerto buscando a Vodka."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡La encontré!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Whoa! ¿Qué <i>demonios</i> haces aquí?!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Debería ser yo quien te hiciera la misma\npregunta!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Dijiste que te ibas al extranjero! ¡¿Por qué\nsigues aquí?!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Voy a correr en el Arima sin ti! ¡Y iba a ganarlo\nprecisamente <i>porque</i> te habías ido!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Porque incluso si no estás en Japón—¡sigues\nsiendo mi mayor rival!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Por eso decidí que definitivamente tomaría el\nnúmero uno aquí! ¡Para mostrarte lo fuerte que\nsoy!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Pero si solo vas a perder el tiempo, entonces\npara qué sirvió todo?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Pfft... ¡Buajahá!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡¿Qué es tan gracioso?! ¡Estoy hablando en serio!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Ahh... Okay, culpa mía. Pero creo que entendiste\nmal."
+    },
+    {
+      "name": "Vodka",
+      "text": "El avión tenía problemas mecánicos, así que mi\nfecha de salida cambió. Por eso perdí mi vuelo."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>¡¿Qué?!</i>"
+    },
+    {
+      "name": "Vodka",
+      "text": "Jaja, supongo que por eso mi teléfono ha estado\nsonando sin parar. Debió haber un pequeño\nmalentendido."
+    },
+    {
+      "name": "Vodka",
+      "text": "Aunque... \"mi mayor rival\", ¿eh? Qué declaración\ntan fuerte."
+    },
+    {
+      "name": "Vodka",
+      "text": "Pero Scarlet, ¿vencerme no es tu verdadero\nobjetivo, verdad?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Pensé que querías que \"Daiwa Scarlet\" fuera el\nprimer nombre que viniera a la mente cuando la\ngente piense en la Umamusume número uno."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Vas a lograrlo llorando y haciendo pucheros como\nlo estás haciendo ahora?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Quiero decir, está bien. ¿Quieres que me quede\naquí y corra el Arima contigo? ¿Eso te daría\ntranquilidad?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Pero te advierto: ¡si corro, tomaré el primer\nlugar!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Como si estuviera de acuerdo en un millón de\naños!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Tomarás el número uno sobre mi cadáver! <i>Yo</i> soy\nnúmero uno. ¡Yo!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Jaja. Esa es la Scarlet que conozco."
+    },
+    {
+      "name": "Vodka",
+      "text": "Así que sal ahí y arrasa. Nos vemos."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Tú también. Más te vale no perder contra nadie más\nque yo... idiota."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ugh... Ahora voy a estar agotada durante mi\nconferencia de prensa."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Todo es culpa de ella...",
+      "choice_data_list": [
+        "Al menos lo viste hasta el final.",
+        "Al menos lo viste hasta el final."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...¡Hum!"
+    },
+    {
+      "name": "Moderador",
+      "text": "Comencemos la conferencia de prensa. Si tienen\nalguna pregunta, por favor levanten la mano..."
+    },
+    {
+      "name": "Reporteras",
+      "text": "¡Daiwa Scarlet! ¡Por aquí, por favor! Ocupaste el\nprimer lugar en la encuesta de popularidad de este\naño..."
+    },
+    {
+      "name": "Reporteras",
+      "text": "¿Cómo te sientes al entrar en la carrera con eso\nen tu haber, dado que tu mayor rival, Vodka, la\nestá omitiendo?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Je, ¿no es obvio?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Seré número uno esté ella o no."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Una vez que los fanáticos me vean correr en el\nArima Kinen, olvidarán a Vodka y a todos los\ndemás."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Quiero dar una actuación fabulosa que vivirá para\nsiempre en sus memorias. ¿Y por qué, preguntas?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Porque soy Daiwa Scarlet—la Umamusume número uno!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esa frase aparece en la portada del periódico del\ndía siguiente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet echa un vistazo al titular, y aunque\nactúa con indiferencia, eso le gana una leve\nsonrisa."
+    }
+  ]
+}

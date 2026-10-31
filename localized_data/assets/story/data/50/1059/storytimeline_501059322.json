@@ -1,0 +1,177 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras Mejiro Dober y yo tenemos una\nreunión en mi oficina..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Disculpe la interrupción. Entrenador, ¿tiene un\nminuto?",
+      "choice_data_list": [
+        "Sí, por supuesto."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Vengo a dar buenas noticias!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Mejiro Dober, ¡la URA te ha seleccionado como la\nDiosa de tercer año! ¡Felicidades!",
+      "choice_data_list": [
+        "¡Guau, eso es increíble!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "El título de Diosa se otorga a quienes corren en\ncarreras como el Hanshin J.F., el Triple Tiara y\nla Queen Elizabeth II Cup."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El galardón se otorga a una corredora en cada año:\nprimer año, segundo año y tercer año. ¡Es un gran\nhonor para Mejiro Dober haber sido seleccionada\npara representar a su año!",
+      "color_text_info_list": [
+        "primer año"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Yo... la Diosa de tercer año!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡Lo logré!",
+      "choice_data_list": [
+        "¡Buen trabajo, Dober!",
+        "¡Buen trabajo, Dober!"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Felicidades! ♪ La ceremonia de entrega se llevará\na cabo en unos días, así que no olvides preparar\nun discurso!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Estoy segura de que tendrás un público\nconsiderable. ♪"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Entendido.",
+      "choice_data_list": [
+        "¡Será mejor que le demos un discurso digno de tu\nnuevo título!"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "No podría estar más de acuerdo. Tenemos mucho\ntrabajo por delante."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El día de la ceremonia de entrega llega en un\nabrir y cerrar de ojos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Dober da su discurso con éxito sin el menor\ntitubeo!"
+    },
+    {
+      "name": "Público",
+      "text": "<i>¡Aplausos, aplausos, aplausos!</i>"
+    },
+    {
+      "name": "Reportero",
+      "text": "Ha establecido completamente su nueva identidad,\n¿verdad? Tiene la presencia de una reina recién\ncoronada."
+    },
+    {
+      "name": "Reportera",
+      "text": "¡Así es! No puedo ni empezar a adivinar qué\ngrandes hazañas logrará de aquí en adelante."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Miren, un regalo! Una de tus compañeras de cursos\ninferiores ha preparado un ramo de flores para ti!"
+    },
+    {
+      "name": "Estudiante menor",
+      "text": "F-felicidades!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Gracias."
+    },
+    {
+      "name": "Estudiante menor",
+      "text": "E-eh! S-solo quería decir..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Estudiante menor",
+      "text": "¡Realmente te admiro!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...!"
+    },
+    {
+      "name": "Estudiante menor",
+      "text": "¡Me estoy entrenando muy, muy duro para poder ser\ncomo tú!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡Jeje! Gracias."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Pero no tienes que intentar convertirte en como\nyo."
+    },
+    {
+      "name": "Estudiante menor",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Tienes tu propia luz dentro de ti. Sigue\ntrabajando duro, pero trabaja duro como tú mismo y\ncomo nadie más."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Espero con ansias correr contra ti—el tú que solo\ntú puedes ser—algún día."
+    },
+    {
+      "name": "Estudiante menor",
+      "text": "Guau... ¡Sí, señora!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Jeje.",
+      "choice_data_list": [
+        "Alguien se ve feliz.",
+        "Alguien se ve feliz."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "E-en realidad, ¡no soy yo! Es solo..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡Ups, estoy sonriendo? No me di cuenta. Pero estoy\nfeliz. Después de todo..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Ella dijo que me admira..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Ella dijo que me admira..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡También tengo que trabajar duro para seguir\nsiendo una inspiración para ella, de la misma\nmanera que Air Groove fue una inspiración para mí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Los increíbles logros de Mejiro Dober son\nevidentes para todos mientras la ceremonia de\nentrega llega a su fin!"
+    }
+  ]
+}

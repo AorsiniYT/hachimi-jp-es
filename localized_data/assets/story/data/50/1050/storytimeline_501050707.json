@@ -1,0 +1,154 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin no está muy motivada, así que la\nllevo a un santuario."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rezamos y sacamos nuestras fortunas."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Me preguntaba a dónde me llevabas, pero ¿un\nsantuario? ¿En serio?",
+      "choice_data_list": [
+        "Pensé que te haría sentir mejor."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Suspiro...</i> Si los deseos se cumplieran tan\nfácilmente, literalmente no habría más sufrimiento\nen el—"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Espera... ¿Taishin? ¿Eres tú? ¡Hola!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Oh, ustedes dos también vinieron a rezar?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Estamos a punto de irnos. Ya rezamos y sacamos\nnuestras fortunas y todo."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Quéeee? ¡No se vayan aún! ¡Háganlo de nuevo para\nque podamos pedir un deseo juntos! ¿Por favor?\n¿Por faaaavor?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Rezar dos veces es mejor que una, y hacerlo tres\nveces es aún mejor! ¡Cuanto más reces, más\nprobable será que se cumpla tu deseo!",
+      "choice_data_list": [
+        "...¿Así es como funciona?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por insistencia de Winning Ticket, volvemos a\nhacer fila para rezar."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Oh, dioses—y también el Buda! ¡Concedan mi\ndeseeeo!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Este es un santuario sintoísta, Ticket. El Buda no\nestá aquí."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...¿Por diablos estoy haciendo esto?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oye, ¿qué suerte sacó cada uno? ¡Yo saqué \"buena\nsuerte\"!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Yo saqué \"suerte modesta\". Nada mal. ¿Y tú,\nTaishin?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Saqué \"gran suerte\".",
+      "choice_data_list": [
+        "¡Eso es increíble, Taishin!",
+        "¡Eso es increíble, Taishin!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No es como que sea súper raro o algo."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Eso no es cierto! Después de todo, no todos\ntienen gran suerte!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Si lo combinas con mi buena suerte y la suerte\nmodesta de Hayahide, tu deseo definitivamente se\ncumplirá!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Estoy segura de que te sentirás totalmente mejor\nen poco tiempo!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ah, supongo que deberíamos decírtelo. En realidad\nvinimos aquí a rezar por tu buena salud."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Después de todo, queremos correr contra ti cuando\nestés en tu mejor forma de combate."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Ustedes dos realmente..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ugh, ¿quién les pidió que hicieran eso? ¡Idiotas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después, parece que sus deseos se cumplen con la\nrecuperación completa de Narita Taishin."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Saqué \"gran desgracia\".",
+      "choice_data_list": [
+        "¡S-saca de nuevo!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Sí, sí! ¡Dicen que siempre obtienes una \"gran\nsuerte\" después de sacar esa!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sin embargo... parece que se les acabaron las\nfortunas."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Quéeee? ¿Significa que Taishin está atascada con\nla peor suerte posible?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "La verdad, no me importa mucho..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Pero <i>deberías</i> importarte! ¡Oh, pobre Taishiiin!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Caray... ¡Cállate ya! ¡Y deja de llorar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque logra calmar a Winning Ticket después, la\ncondición de Narita Taishin desafortunadamente no\nmejora."
+    }
+  ]
+}

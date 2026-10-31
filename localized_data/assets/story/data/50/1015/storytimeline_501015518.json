@@ -1,0 +1,45 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "T.M. Opera O y yo estamos teniendo una reunión,\ncuando..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Por los cielos!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Mis disculpas. Parece que lo de ayer ha dejado un\nefecto persistente en mí.",
+      "choice_data_list": [
+        "¿Qué estabas haciendo?",
+        "¿Qué estabas haciendo?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "De camino a la academia, me encontré en el dulce\nabrazo de la lluvia. Me deleité en dicha\noportunidad hasta que llegué al dormitorio."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "La exposición que tejimos juntos fue tanto mágica\ncomo llena de pasión..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Incluso ahora, mi cabeza aún da vueltas con el\nespectáculo—el calor pulsando a través de todo mi\nser!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Oh, cómo desearía que hubieras podido verlo,\nEntrenador! ¡Jaa, ja, ja, ja—"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Achís!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Definitivamente ha atrapado un resfriado. La envío\na casa a descansar."
+    }
+  ]
+}

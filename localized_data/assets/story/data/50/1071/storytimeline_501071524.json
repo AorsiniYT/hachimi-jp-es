@@ -1,0 +1,59 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras entrenaba con Mejiro Ardan..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Ngh... Mi cuerpo se siente lento. Esto es—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Crack!</i>"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¡Ay?!",
+      "choice_data_list": [
+        "¿¡Ardan?!"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Estoy perfectamente bien."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Mis piernas solo se sienten un poco... Un breve\ndescanso es todo lo que—",
+      "choice_data_list": [
+        "No, detengámonos aquí por hoy."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Lo siento mucho. Esto es toda culpa de mi\npropia negligencia.",
+      "choice_data_list": [
+        "No. Soy tu entrenador, y debería haber estado más\natento.",
+        "No. Soy tu entrenador, y debería haber estado más\natento."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Entrenador..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Parece que las carreras consecutivas en las que\nMejiro Ardan ha participado últimamente han puesto\nuna tensión considerable en sus piernas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Será mejor que revise el calendario de carreras y\nhaga algunas revisiones para asegurarme de que no\ntenga tantas carreras seguidas nunca más."
+    }
+  ]
+}

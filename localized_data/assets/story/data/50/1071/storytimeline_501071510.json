@@ -1,0 +1,164 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Voy camino a la oficina para una reunión con\nMejiro Ardan cuando de repente..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "<i>Huff, huff!</i> ¡L-lo siento! ¿Podrías ayudarme un\nmomento aquí?!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Saludos, Tamamo. ¿Qué parece ser el problema?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Es <i>ella...</i> ¡Ella viene tras mí!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Ohhh, Taaamtaaam! ¿A dónde has ido?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡E-esa es ella! No hay tiempo para explicar, ¡solo\ndéjame entrar, rápido!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "<i>Whewww!</i> Seguro que me salvaste."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Tamamo, ¿estás jugando a las escondidas con Creek?\nHehe, ciertamente son buenos amigos."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Ni lo digas! Si no hubieras intervenido justo\nahora, ¡habría estado atrapada siendo su muñeca\ntodo el día!",
+      "choice_data_list": [
+        "¿Su... muñeca?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Vaya... Creo que te dejaré recuperarte antes de\npresionarte para más detalles."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Bueno, verás, todo comenzó cuando Creak ganó este\njuguete sonajero elegante en una rifa."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Ella simplemente <i>tuvo</i> que intentarlo... así que\nintentó hacerme actuar como una muñeca de bebé que\nhace gu-gu-gu muñeca de bebé."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Vaya... así que eso es lo que te tenía tan\npreocupado."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Por lo que puedo reunir, sin embargo... parece que\nCreek simplemente quería jugar contigo, Tamamo."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡No sabes cómo es ella, Ardan! ¡Me gustaría ver a\n<i>ti</i> aguantar que te traten como a un bebé!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "En ese caso, ¿por qué no te acompaño? Eso haría\nlas cosas menos aterradoras, supongo."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Q-quiero decir sí, quizás, pero... hablando en\nserio, no creo que tenga el valor para ver a Creek\nahora mismo..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Vamos, solo estás sin aliento por tanto correr.\nVamos a hablar con Creek una vez que hayas\ndescansado."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Adelante, acuéstate aquí... Puedes descansar tu\ncabeza en mi regazo. No hay nada que temer."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "E-está bien..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Esto me recuerda a cuando los niños Mejiro se\nagotaban y luego venían a mi habitación para una\nsiesta por la tarde."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¡Hehe! Siento como si hubiera ganado una hermana\nmenor. Estás segura aquí... Duerme bien..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿M-más joven... hermana?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Espera un momento! ¡Estás haciendo exactamente lo\nmismo que Creek iba a hacer!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Oh? ¿Así es como parece?",
+      "choice_data_list": [
+        "Sí que das la impresión de ser una hermana mayor.",
+        "Pero \"hermana menor\" sigue siendo mejor que\n\"bebé\", ¿verdad?"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡No caigo! ¡Nadie me va a tratar <i>como </i>a una niña!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Aún no estoy a salvo! ¡Tengo que volver a mi\nhabitación!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "E-espera—"
+    },
+    {
+      "name": "Super Creek",
+      "text": "...¡Tamtam! ♪ ¡Te he estado buscando por todas\npartes! ♪"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡¡GYAAAAAAAH!!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Oh, vaya..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, comienza un juego sin cuartel de gato y\nratón, con Mejiro Ardan persiguiéndolas a ambas\nintentando mediar."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Grrraaahhh! ¡No me gusta <i>ninguna</i> de esas\nopciones, ¿entendido?!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Pero está bien... Por ahora, prefiero a Ardan\nantes que a Creek."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Jeje, es un honor ser tu refugio seguro. Ahora,\nintenta descansar un poco."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Quieres que te cante una nana? ♪"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Gahhh..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras el sonido de las nanas llena la oficina,\nTamamo Cross yace con la cabeza en el regazo de\nMejiro Ardan, con una expresión derrotada en su\nrostro."
+    }
+  ]
+}

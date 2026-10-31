@@ -1,0 +1,111 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Voy al gimnasio a pensar en un nuevo régimen de\nentrenamiento, cuando..."
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Grrr... No he terminaaaaaado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Veo a Twin Turbo temblando violentamente mientras\nintenta levantar una barra extremadamente pesada.",
+      "choice_data_list": [
+        "¿Estás... estás bien?"
+      ]
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "<i>Haa... Haa...</i> ¡Abs...olutamente!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Me estoy entrenando para ponerme súper-mega\nmusculoso!",
+      "choice_data_list": [
+        "¡Súper-mega musculoso?!"
+      ]
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Sí! ¡Quiero ser lo suficientemente fuerte para\nhacer que todos coman mi polvo!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "En mi última carrera, los otros corredores me\nganaron en la salida."
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡No es justo! ¡Quiero estar en la cabeza desde el\nprincipio hasta el final!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Si quiero ser primero, tengo que ponerme más\nfuerte!",
+      "choice_data_list": [
+        "Creo que deberías priorizar la velocidad, en\nrealidad.",
+        "¡Sí, la fuerza es el camino a seguir!"
+      ]
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¿Quéaaaa?! ¿No es la fuerza en lo que debo\nenfocarme?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Explico que el truco es abrumar a sus rivales con\nvelocidad aplastante al inicio, luego mantener su\nritmo durante el resto de la carrera."
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Debo abrumarlos con velocidad al inicio..."
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Jejeje. Mientras siga corriendo, siempre seré\nnúmero uno!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Vale! ¡Iré a la cinta y trabajaré en mis sprints\ncortos!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Hraaaaah! ¡Turboooo IMPULSO!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Twin Turbo rápidamente se sube a una cinta, la\npone en velocidad máxima y empieza a correr como\nun demonio."
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Jeje, ¡sabía que tenía razón! ♪"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Con el poder de la crema de sopa que he ganado,\nahora soy todopoderoso!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Allá voy! ¡Le mostraré a todos lo que significa\ntener <i>fuerza!</i>"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Hraaaaah! ¡Podeeeer IMPULSO!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Twin Turbo se dirige hacia una barra aún más\npesada y empieza a intentar levantarla."
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Nnngh! Mis brazos... ¡QUEMAN!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Pero puedo seguir... Puedo seguir... YOOOO!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como esperaba, tengo que detener a Twin Turbo\nantes de que se exceda y se lastime los brazos."
+    }
+  ]
+}

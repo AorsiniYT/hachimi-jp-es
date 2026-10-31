@@ -1,0 +1,247 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Falta menos de un mes para el Arima Kinen. Solo\nhay un pequeño problema..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La forma de correr de Biwa Hayahide es rígida.\nTodo en ella parece tenso. Ahora que el\nenfrentamiento está cerca, parece que siente la\npresión.",
+      "choice_data_list": [
+        "¿Por qué no respiramos hondo un par de veces para\nrelajarnos?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Vale."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Inhala. Exhala.",
+      "choice_data_list": [
+        "(Su respiración sigue siendo superficial...)",
+        "(Su respiración sigue siendo superficial...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Casi se nos acaba el tiempo en la pista, y las\notras Umamusume ya están terminando. Necesito\nencontrar una solución rápido..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡INHALA PROFUNDOOO!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Y EXHALAAAAA!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Vamos, Hayahide! ¡Hazlo conmigo! ¡IIINHALAAAA!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Suspiro...</i> Hay una línea muy fina entre ser útil y\nser molesto, idiota."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Taishin!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Levanta la cabeza, Hayahide. Encogerse así hace\nque parezca más grande de lo normal."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿¡Qué!? Mi cabeza está perfectamente—"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Mira, tu espalda se enderezó. Eso debería\nfacilitarte la respiración."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Oh...",
+      "choice_data_list": [
+        "¡Gracias!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Como sea. No vine aquí para dar las gracias. Solo\nlo dije porque ella está acaparando la pista y\ntodos están esperando."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Tu turno está por terminar, y ustedes dos están\nahí parados como si fueran dueños del lugar."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oh, vamos, Taishin ¡Tú fuiste el que decía: \"¡Oh\nno, vamos a ver qué le pasa a Hayahide!\""
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Cállate. Yo nunca dije eso...",
+      "choice_data_list": [
+        "Eres afortunado de tener amigos tan buenos.",
+        "Eres afortunado de tener amigos tan buenos."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "La verdad que sí. Casi son demasiado buenos para\nmí."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oye, ¿por qué no damos una vuelta más y terminamos\nel entrenamiento de hoy por todo lo alto?!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿En serio?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Vamos, chicos! ¡Vamosss!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Derbyyy!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Me pregunto si ya se dio cuenta de que el Derby\nterminó..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No sería Ticket si no gritara cosas al azar todo\nel tiempo. Además, su energía siempre me anima."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Estoy muy agradecida de haberlos conocido a los\ndos."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Sí, está bien, eso es muy dulce y todo. En fin..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Vas a correr o qué?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jeje, ¡cuenten conmigo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Olvidando por completo su acuerdo de correr solo\nuna vuelta, las tres amigas siguen hasta que se\nacaba el tiempo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Toda la tensión parece derretirse de los hombros\nde Biwa Hayahide, y su forma se ve genial una vez\nmás."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡HA-YA-HI-DE!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Oh, por favor... ¿Ahora usamos nombres como\ncántico de carrera?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Je."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡BO-LE-TO! ¡TAI-SHIN!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿¡En serio!?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Jeje! Oye, ¡no está mal! Además, el acto de\nvocalizar tiene un efecto demostrable en los\nmovimientos motores gruesos."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Pero más que eso, gritar sus nombres realmente me\nmotiva."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No me digas que tú también te estás volviendo\nloco..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Y? ¿Vamos a alcanzar a la niña salvaje o qué?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Hagámoslo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Biwa Hayahide, Winning Ticket y Narita Taishin\nsiguen corriendo por la pista sin preocupaciones."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que los gritos de ánimo de sus amigos\ntienen un efecto positivo en Hayahide, que no\npuede dejar de sonreír."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Raaaaah!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿¡Qué!?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Lo hice bien? Juraría que era el momento adecuado\npara gritar..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Pfft! ¡Jajaja! No, eso estuvo perfecto. Vamos,\ncorramos."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Nos vemos!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Oye! No es justo, Taishiiin!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Te importa si yo también voy, Entrenador?",
+      "choice_data_list": [
+        "¡Adelante! ¡Consigue esa W!",
+        "¡Adelante! ¡Consigue esa W!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Entendido!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Biwa Hayahide persigue a Winning Ticket y Narita\nTaishin."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Termina cruzando la línea de meta primero a pesar\nde su ventaja inicial."
+    }
+  ]
+}

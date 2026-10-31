@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Meisho Doto",
+      "text": "¡Buenos días, Entrenador!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Uf!",
+      "choice_data_list": [
+        "¿Estás bien?!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh... je, je. ¡Esta vez me salvé de caerme!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Sé que tiene que ver con que ayer descansé bien.\n¡Muchas gracias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que tiene suficiente energía para\nmantenerse firme."
+    }
+  ]
+}

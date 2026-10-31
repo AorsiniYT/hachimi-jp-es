@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sakura Bakushin O",
+      "text": "<i>Bostezo...</i>"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Ah, disculpa por interrumpirte en medio de una\nreunión. Sobre el daño al inferior...",
+      "choice_data_list": [
+        "¿Daño... al inferior? ¿Quisiste decir interior?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Ah, sí... Anoche, tomé una bebida para iniciar mis\npensamientos... y bebí demasiado café."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "La etiqueta decía algo como \"Siéntete alerta y di\nadiós al sueño.\" Pero nunca imaginé que sería tan\nefectivo como para mantenerme despierta tanto\ntiempo..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "<i>Yaaawn</i>... Deberías tener cuidado con el café\ntambién."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Solo una taza tuvo este efecto... Tomaré... solo\nmedia taza hoy."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Quizás debido a su personalidad ingenua, Sakura\nBakushin O sufre de insomnio después de beber solo\nuna taza de café..."
+    }
+  ]
+}

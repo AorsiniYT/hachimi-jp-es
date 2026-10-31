@@ -1,0 +1,74 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Me dirijo a la pista un poco temprano para el\nentrenamiento matutino. Tan pronto como llego..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Jeje, ¡parece que soy la primera otra vez! Ah, ¡se\nsiente tan bien ser la número uno en todo! ♪"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Bueno, hora de cambiarse! ¡Hoy voy a correr con\ntodas mis fuerzas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet parece estar de muy buen humor\nmientras se prepara para entrenar.",
+      "choice_data_list": [
+        "Buenos días. Hoy estás temprano."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Buenos días! ...¿Espera, qué?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Tú... tú estabas aquí antes que yo?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡No! ¡Pensé que era la primera en llegar! ¡No\npuedo creer que soy la segunda!",
+      "choice_data_list": [
+        "¿Siempre vienes tan temprano?",
+        "¿Siempre vienes tan temprano?",
+        "La segunda sigue siendo bastante buena."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡No! ¡Pensé que era la primera en llegar! ¡No\npuedo creer que soy la segunda!",
+      "choice_data_list": [
+        "¿Siempre vienes tan temprano?",
+        "¿Siempre vienes tan temprano?",
+        "La segunda sigue siendo bastante buena."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Sí, supongo que podrías llamarme una persona\nmatutina. Aunque parece que hoy me ganaste."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "La mañana es cuando puedo concentrarme mejor.\nPuedo correr libremente sin preocuparme de que\notros me vean."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Siempre estoy apuntando a ser la número uno.\nQuiero ser la primera en llegar a la escuela y la\ncorredora que complete más vueltas."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡No es lo mismo! ¡Quedar en segundo lugar no es\nuna opción! ¡Es primero o nada!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Llegar temprano no se siente igual si no soy la\nnúmero uno! Ugh, ¡estoy tan, tan, tan ENOJADA!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Mañana no tendrás tanta suerte! ¡Voy a ser la\nprimera en la escuela, seguro!"
+    }
+  ]
+}

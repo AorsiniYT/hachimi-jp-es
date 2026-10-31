@@ -1,0 +1,60 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es hora de mi segundo campamento de verano con\nSmart Falcon, y..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Sus niveles de motivación están por las nubes!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Entrenador! ¡Empecemos! ☆",
+      "choice_data_list": [
+        "¡¿Ya te cambiaste?!",
+        "¡¿Ya te cambiaste?!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Duh! El océano significa la playa, y la playa\nsignifica arena!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Y la arena significa a Silence Suzuka de la\nArena!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El nuevo apodo de Smart Falcon se está volviendo\ncada vez más popular entre los fans, y ella parece\nser muy consciente de ello."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Si voy a tomar prestado su nombre, necesito\nvolverme aún más fuerte para hacerle justicia!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "La fuerza de Suzuka es lo que le permitió\nconvertirse en una estrella y capturar el corazón\nde todos."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Así que quiero ser súper-duper fuerte, igual que\nmi homónima!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Tan fuerte que pueda... eh, que pueda... A ver..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Tan fuerte que pueda partir los mares con un solo\npaso!",
+      "choice_data_list": [
+        "...?!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Este campamento de verano, voy a convertirme en\nuna fuerza de la naturaleza!"
+    }
+  ]
+}

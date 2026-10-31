@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>Inhalar... exhalar...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El G2 Kinko Sho está aquí, y Silence Suzuka es la\nmás tranquila que jamás ha estado."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Ganar esta carrera es mi boleto para competir en\ncarreras aún más rápidas.",
+      "choice_data_list": [
+        "¿Cómo te sientes?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Apenas puedo contener mi emoción."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Todo lo que puedo pensar es hasta dónde podré\nllegar en esta carrera hoy."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Y encima de eso..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Tengo la sensación de que voy a ver algo especial\nesta vez.",
+      "choice_data_list": [
+        "¡Llega al frente y absorbe todo!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Lo haré!"
+    }
+  ]
+}

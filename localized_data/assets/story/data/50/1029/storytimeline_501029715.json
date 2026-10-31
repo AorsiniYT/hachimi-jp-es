@@ -1,0 +1,60 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Yukino Bijin y yo nos preparamos para regresar\ndespués del entrenamiento, cuando..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me doy cuenta de que mira hacia el atardecer."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Apuesto a que todas están cenando ahora mismo..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Ah! ¡No! ¡Tengo que concentrarme en lo que hago\naquí!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Entrenadora! ¡Necesito un favor! ¡Tienes que\ndejarme entrenar un poco más!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Quiero cumplir con las expectativas de toda la\ngente que me apoya en casa!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Quiero ser alguien de quien hablen en la cena y\nles alegre el día!",
+      "choice_data_list": [
+        "¡Entendido, un último esfuerzo!",
+        "Si te excedes, no habrá remedio"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Montones de gracias! ¡Ahora mira esto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como si dejara atrás todas sus preocupaciones,\nYukino Bijin sigue entrenando con fuerza."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ah, cierto. Supongo que esto es lo que quieren\ndecir con que lento y seguro se gana la carrera.",
+      "choice_data_list": [
+        "Descansemos bien para dar lo mejor mañana"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Entendido! ¡Descansaré para que la próxima vez\nque me veas, esté llena de energía!"
+    }
+  ]
+}

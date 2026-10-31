@@ -1,0 +1,65 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras recolecto materiales de\nreferencia para carreras en la biblioteca de la\nescuela..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Oh, espera! ¡Yo también quiero leer esa revista!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Estoy segura de que tiene un artículo sobre esa\ncarrera en la que la Presidenta se mantuvo en la\ndelantera todo el tiempo. ♪"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Uy, ojalá pudiera correr como Prez..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Siento que no empiezo a ir a fondo hasta la última\ncurva... Pero nunca se tienen demasiados trucos\nbajo la manga, ¿verdad?",
+      "choice_data_list": [
+        "¡Sí, la gente que puede hacer de todo es tan\ngenial!",
+        "¡Sí, la gente que puede hacer de todo es tan\ngenial!",
+        "Creo que ya tienes montones de armas bajo la\nmanga.",
+        "Creo que ya tienes montones de armas bajo la\nmanga."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Siento que no empiezo a ir a fondo hasta la última\ncurva... Pero nunca se tienen demasiados trucos\nbajo la manga, ¿verdad?",
+      "choice_data_list": [
+        "¡Sí, la gente que puede hacer de todo es tan\ngenial!",
+        "¡Sí, la gente que puede hacer de todo es tan\ngenial!",
+        "Creo que ya tienes montones de armas bajo la\nmanga.",
+        "Creo que ya tienes montones de armas bajo la\nmanga."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡¿Tú también lo crees?! Ajaja, ¡somos como dos\nguisantes en una vaina!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Va a ser difícil, pero voy a hacer todo lo posible\npara convertirme en alguien como Prez!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y con eso, Tokai Teio sale corriendo como un niño\ncon un subidón de azúcar. Parece que logré avivar\nsu motivación."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿¡En serio?! ¡Jeje! Bueno, ¡<i>soy</i> yo de quien\nestamos hablando! ♪ ¡Tengo que decir que tienes un\nbuen ojo!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Muy bien! ¡Voy a pulir las armas que tengo\nactualmente!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Hasta luego!"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Waaah! ¡Entrenador!",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Mi puntaje en el examen fue tan malo, que mi\nprofesor se puso furioso!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Tengo que hacer lecciones extra si repruebo otra!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Urgh... Mejor me pongo a estudiar..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todo el calvario apaga los ánimos de Taiki Shuttle\npor un tiempo."
+    }
+  ]
+}

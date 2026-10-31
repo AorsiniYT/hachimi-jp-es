@@ -1,0 +1,225 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Maruzensky está entrenando duro para el Osaka Hai.",
+      "color_text_info_list": [
+        "Osaka Hai"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Ahh! Este aire fresco es lo mejor. ¡Correr se\n<i>vuelve pan comido!</i>",
+      "choice_data_list": [
+        "Te ves genial ahí afuera.",
+        "Te ves genial ahí afuera."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡La carrera se acerca, así que estoy muy\nentusiasmada!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Cuando pienso en quiénes serán mis próximos\nrivales, me emociono tanto que no puedo quedarme\nquieta!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oye, mira allá!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Grass, eres increíble! ¡Has roto tu propio récord\notra vez!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Jeje, me alegra ver que mi entrenamiento da\nfrutos."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Ahora yo! ¡Hora de ponerme seria!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Mis rivales están trabajando súper duro para\ncompetir conmigo, ¿eh?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Para mantenerlos motivados, realmente necesito\ncumplir sus expectativas!",
+      "choice_data_list": [
+        "¡Muéstrales lo que puede hacer su modelo a seguir!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Absolutamente, positivamente!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Voy a dar una vuelta más! ¡Hora de ponerme a mil!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después del entrenamiento, Maruzensky continúa\nobservando a las estudiantes de primer año."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Jeje! Trabajan tan duro."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Me conmueve ver cuánto han crecido estas atletas\nadorables."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Yo me siento igual."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ah, Rudolf."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Seguir persiguiendo tus sueños frente a la\nadversidad puede ser difícil para cualquier\nUmamusume."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Sin embargo, ver a tu yo ideal corriendo justo\nfrente a ti es casi la mejor motivación que puedes\ntener."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Parece que te has convertido en una excelente guía\npara las estudiantes novatas, Maruzensky."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Bueno, ¡eso es un gran elogio!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Es cierto que he estado tratando de convertirme en\nun modelo a seguir para que otros me sigan..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Pero es solo porque quiero divertirme corriendo\ncon todos!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Deseas dar el ejemplo para poder disfrutar\ncorriendo..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Para mí, mi ambición de guiar a todas las\nUmamusume hacia adelante es lo que me mantiene."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Pero contigo, no puedo evitar querer correr para\nun propósito diferente."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿En serio? ¿Cuál sería?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Es simple, realmente. El impulso fundamental de\ntodos los corredores..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Quiero saber cuál de nosotras saldrá adelante."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oh! Sabes qué, ¡yo también tengo curiosidad! ¡Y\nno puedo esperar para averiguarlo!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Jeje, así es exactamente como me siento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Entonces, unos días después..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Entrenador! ¡Perdón por llamarte tan de repente!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Entrenador! ¡Perdón por llamarte tan de repente!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Escuché sobre un restaurante italiano genial donde\nvan todos los chicos más modernos, así que pensé\nque quizás podríamos ir a echar un vistazo—"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Eh? ¿Qué es esa gran multitud que se acerca?"
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Maruzensky! ¿Puedes responder algunas preguntas\nsobre tu próximo enfrentamiento en el Osaka Hai?"
+    },
+    {
+      "name": "Reportero B",
+      "text": "¿Qué tan segura estás de que puedes ganar?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡E-espera! ¡Despacio! ¡No puedo pensar cuando me\nbombardean así!"
+    },
+    {
+      "name": "Reportera C",
+      "text": "¡Hemos escuchado que Symboli Rudolf también va a\ncorrer en el Osaka Hai!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿E-en serio? ¡Entrenador, ¿sabías sobre esto?!",
+      "choice_data_list": [
+        "¡Es la primera vez que lo oigo!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿E-en serio? ¡Entrenador, ¿sabías sobre esto?!",
+      "choice_data_list": [
+        "¡Es la primera vez que lo oigo!"
+      ]
+    },
+    {
+      "name": "Reportero B",
+      "text": "¡Los medios ya están revolucionados con la\nnoticia! ¿Cómo te sientes al respecto?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Bueno, quiero decir, ¿no es obvio?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Si ustedes están tan emocionados con esto,¿cómo\nnosotras las corredoras <i>no</i> vamos a estar súper\nentusiasmadas?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oye, Entrenador. Perdón por cambiar los planes tan\nabruptamente, pero en lugar de ir por lo\nitaliano...",
+      "choice_data_list": [
+        "¿Quieres entrenar para el enfrentamiento, verdad?",
+        "¿Quieres entrenar para el enfrentamiento, verdad?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oye, Entrenador. Perdón por cambiar los planes tan\nabruptamente, pero en lugar de ir por lo\nitaliano...",
+      "choice_data_list": [
+        "¿Quieres entrenar para el enfrentamiento, verdad?",
+        "¿Quieres entrenar para el enfrentamiento, verdad?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Eso es! ¡Quiero que esta sea la mejor carrera de\ntodas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡El Osaka Hai, y el esperado enfrentamiento con la\n\"Emperatriz\" Symboli Rudolf, finalmente llegó!"
+    }
+  ]
+}

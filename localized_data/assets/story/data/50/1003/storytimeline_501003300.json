@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy marca el final de nuestro tiempo en el\ncampamento de verano."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Eh, el tiempo vuela! Parece que llegamos aquí\nayer.",
+      "choice_data_list": [
+        "Eso significa que sacaste mucho provecho de ello."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Entonces supongo que este campamento de verano\nvalió la pena."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Y pronto será hora de la carrera Kikuka Sho. Tengo\nque mantener el impulso después de regresar."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "No hay tiempo que perder para ti tampoco. Necesito\ntu plena cooperación."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Aquí vamos! La Kikuka Sho no sabrá qué le ha\ngolpeado."
+    }
+  ]
+}

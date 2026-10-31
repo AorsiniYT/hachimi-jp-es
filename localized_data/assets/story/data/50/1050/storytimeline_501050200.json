@@ -1,0 +1,155 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "¡Por fin es hora de la primera carrera de Narita\nTaishin!",
+      "color_text_info_list": [
+        "primera carrera"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Suspiro...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, parece muy nerviosa.",
+      "choice_data_list": [
+        "¿Quieres hacer algunos ejercicios de respiración\nconmigo?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Lárgate. No estoy asustada ni nada. ¿Entendido?",
+      "choice_data_list": [
+        "Pero—"
+      ]
+    },
+    {
+      "name": "Asistente de Carreras",
+      "text": "¡Narita Taishin! Por favor, dirígete al corral!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Oh... Claro, está bien."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Bueno, nos vemos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras se va, puedo ver que sus piernas tiemblan\nmuy ligeramente.",
+      "choice_data_list": [
+        "(¿Qué puedo hacer para animarla?)",
+        "(¿Qué puedo hacer para animarla?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los espectadores se agolpan, ansiosos por ver un\nvistazo de la Umamusume en el corral que algún día\npodría convertirse en leyenda."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Veo a Narita Taishin de pie entre las demás\ncorredoras."
+    },
+    {
+      "name": "Fan A",
+      "text": "Oye, ¿qué pasa con esa de allá? Es bastante\npequeñita..."
+    },
+    {
+      "name": "Fan B",
+      "text": "¿Acaso tiene oportunidad con esa estatura? Parece\nque cualquier ráfaga la derribaría."
+    },
+    {
+      "name": "Fan C",
+      "text": "¿E-estará bien? Espero que no se lastime..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Tch."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nadie parece esperar mucho de ella. Ella agacha la\ncabeza entre los murmullos que la rodean."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nadie puede negar que su falta de estatura es una\ndesventaja a la hora de correr.",
+      "choice_data_list": [
+        "(Pero...)"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "\"¡Eres demasiado baja!\" \"¡Eres demasiado débil!\"\n\"¡No estás hecha para ser corredora!\""
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Toda esa basura—¡estoy harta de escucharlo!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿¡Les queda claro?! ¡No me importa lo que diga la\ngente! ¡Me voy a quedar justo en la pista! ¡Les\nvoy a mostrar a todos ustedes, llorones idiotas!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Les voy a mostrar exactamente dónde debo estar!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Y me reiré cuando les diga que se lo metan desde\nel círculo de ganadores!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin es más fuerte y está más\ndeterminada a ganar que nadie, y tiene la\nhabilidad de hacer que todas sus declaraciones se\ncumplan."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como su entrenador, lo sé mejor que nadie.",
+      "choice_data_list": [
+        "¡Taiiishiiin!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿¡Qué?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy gritando antes de darme cuenta de lo que\nhago.",
+      "choice_data_list": [
+        "¡Taishiiin! ¡Tú puedes con eeeesto!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Oye, deja de gritar! ¡En serio!"
+    },
+    {
+      "name": "Fan A",
+      "text": "Caray, ¿qué estamos haciendo? Deberíamos animarla.\nEs su debut, después de todo."
+    },
+    {
+      "name": "Fan B",
+      "text": "¡Sí! ¡Ve a por ellos, Taishin!"
+    },
+    {
+      "name": "Fan C",
+      "text": "¡Estamos contigo hasta el final!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Mira lo que ese idiota empezó!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Primero, voy a ganar, y luego voy a patear a ese\nidiota al otro lado del mundo!"
+    }
+  ]
+}

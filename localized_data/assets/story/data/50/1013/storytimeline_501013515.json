@@ -1,0 +1,182 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mejiro McQueen me ha invitado a una fiesta de té\nen la casa de la familia Mejiro hoy."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Oh, ahí estás, Entrenador! ...Espera un momento."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Dije que podías usar tu ropa normal. ¿No tienes\nproblemas para respirar en ese traje restrictivo?",
+      "choice_data_list": [
+        "Quiero decir, esto es una fiesta de té con la\nrenombrada familia Mejiro, así que...",
+        "Quiero decir, esto es una fiesta de té con la\nrenombrada familia Mejiro, así que..."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ya veo... Lo que estás diciendo es que estás\nnervioso. En otras palabras, esta es una\noportunidad para mí de demostrar mis habilidades."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No te preocupes, Entrenador. Simplemente sígueme."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así, la fiesta de té comienza, pero..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ahora, el siguiente paso es usar tu cuchillo para\nuntar un poco de mermelada y crema cuajada en tu\nscone.",
+      "choice_data_list": [
+        "...¿A-así?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Jeje... ¡La mermelada y la crema están brillando!\nSe ven deliciosos..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...¡Gah! A-ahora, da un bocado."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Rápido, ahora, antes de que mi estómago tome el\ncontrol.",
+      "choice_data_list": [
+        "¿No vas a comer nada?",
+        "¿No vas a comer nada?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Todavía tengo un deber importante que cumplir!\nAsí que debo abstenerme..."
+    },
+    {
+      "name": "Personal de la Casa Mejiro",
+      "text": "Disculpe, señorita. ¿Es ahora un buen momento?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Oh, vaya, ha pasado un tiempo, ¿verdad? Sí, por\ntodos los medios, permíteme presentarte a mi\nentrenador."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Entrenador, di tu nombre mientras te das la mano.\nNo hay nada más importante para los buenos modales\nque un saludo apropiado.",
+      "choice_data_list": [
+        "¡E-entendido!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con el apoyo de Mejiro McQueen, sigo los modales\napropiados al intercambiar presentaciones con el\nmiembro del personal."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>Uf...</i> Lograste hacerlo correctamente.",
+      "choice_data_list": [
+        "Gracias por la ayuda."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No hay necesidad de agradecerme. No fue ningún\nproblema. Tú y yo somos un equipo, después de\ntodo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Estás inusualmente callado, Entrenador. ¿Hay\nalgo mal?",
+      "choice_data_list": [
+        "Solo estaba pensando en lo genial que eres.",
+        "Solo estaba pensando que será mejor que mejore mi\njuego para estar a la altura de estar a tu lado."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡¿Qué?! C-c..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Eh, quiero decir, por supuesto. Soy una Mejiro\norgullosa, después de todo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Pero... \"genial\", dices? ¿Realmente lo crees?\nJejeje..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Supongo que debo dar lo mejor de mí y mostrar te\nqué <i>genial</i> soy realmente."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Umm... Supongo que no había nada de qué\npreocuparse, pero... probablemente debería\nanunciar mi presencia, ¿eh?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿R-Ryan?! ¿Cuánto tiempo llevas parado ahí?!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Bueno... Capturé toda esa parte de \"mostrarte lo\ngenial que soy realmente\", si eso es lo que\nquieres decir."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ahaha... Realmente lo exageraste allí. Vaya..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡T-todo es un malentendido! Por favor, no tomes\nese comentario como si fuera arrogante. ¡M-me\nemocioné un poco!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro McQueen mantiene tanta \"genialidad\" como\npuede reunir mientras me apoya en nuestra fiesta\nde té."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Vaya!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Jeje... Digo que eres lo suficientemente bueno tal\ncomo eres. Aunque, esperaría tal noción de mi\nentrenador de todos modos."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Yo, también, debo corresponder a ese espíritu\ntuyo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Permíteme instruirte en una variedad de temas,\ndesde la forma adecuada de beber té hasta hacer\npresentaciones educadas."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Hoy, <i>yo</i> seré la entrenadora!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ooh, estás de buen humor, McQueen. Supongo que no\nnecesitaba preocuparme después de todo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Ryan! Sí, le estoy dando a mi entrenador mi\ncompleto apoyo."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Uhuh, buen trabajo, buen trabajo. ♪ Me gustaría\ntener una pequeña charla con tu entrenador\ntambién, en ese caso."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Oh? Bueno, por todos los medios."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡El entrenamiento intensivo comenzará de\ninmediato!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, Mejiro McQueen continúa\nenseñándome etiqueta mientras disfrutamos nuestra\nfiesta de té."
+    }
+  ]
+}

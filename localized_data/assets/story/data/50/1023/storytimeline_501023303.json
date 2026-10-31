@@ -1,0 +1,74 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Biwa Hayahide me ha pedido que revisemos juntas\nimágenes de carreras, así que después de regresar\na la escuela voy a encontrarme con ella."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hmm... Mi posicionamiento es un poco descuidado.\nTengo el mal hábito de solo mirar directamente\nhacia adelante durante las carreras."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Veámoslo de nuevo desde el principio. Estoy segura\nde que también encontraremos otros problemas.",
+      "choice_data_list": [
+        "¿No deberías descansar un poco?"
+      ]
+    },
+    {
+      "text": "Ya que acaba de terminar su primera carrera y\npresentación de concierto, supongo que debe estar\nbastante cansada."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No te preocupes por mí. Ahora que he experimentado\nuna carrera real, estoy descubriendo muchos\nproblemas que nunca noté antes."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Y necesitamos arreglarlos. La ecuación ganadora\nque tanto deseo completar es precisamente lo que\nusaré contra ella, después de todo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Cada segundo cuenta.",
+      "choice_data_list": [
+        "(Correcto... La ecuación ganadora contra Narita\nBrian.)"
+      ]
+    },
+    {
+      "text": "Parece que se ha dado cuenta de lo extremadamente\ndifícil que será perfeccionar su ecuación."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Aceleración... resistencia al viento... el ángulo\nen que mis pies golpean el suelo..."
+    },
+    {
+      "text": "Quizás mi rol como su entrenadora debería ser\nproporcionar experiencia práctica que le permita\ndesarrollar sus cálculos.",
+      "choice_data_list": [
+        "¿Quieres entrar al Asahi Hai F.S.?",
+        "¿Quieres entrar al Asahi Hai F.S.?"
+      ]
+    },
+    {
+      "text": "El Asahi Hai Futurity Stakes es una carrera G1\nentre las mejores corredoras junior.",
+      "color_text_info_list": [
+        "Asahi Hai Futurity",
+        "Stakes",
+        "G1",
+        "junior"
+      ]
+    },
+    {
+      "text": "La competencia es feroz, pero podría ser una buena\nexperiencia para ella."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hmm. Esa es una sugerencia interesante..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Y buena, además. Lo haré."
+    },
+    {
+      "text": "Sus gafas brillan bajo la luz mientras decidimos\nnuestro próximo curso de acción."
+    }
+  ]
+}

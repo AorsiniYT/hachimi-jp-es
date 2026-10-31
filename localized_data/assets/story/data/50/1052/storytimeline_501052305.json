@@ -1,0 +1,115 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Para que Haru Urara gane más experiencia, la he\nestado inscribiendo en una variedad de carreras.\nEn uno de sus días libres..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ura la la! ♪ Heehee... ¡Fue un paseo tan\ndivertido!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Además, comí montones de snacks! ¡Ahora estoy más\nque lista para el entrenamiento de mañana!"
+    },
+    {
+      "name": "Señora mayor",
+      "text": "¡Vaya, qué energética eres, joven!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ser energética es mi especialidad!"
+    },
+    {
+      "name": "Señora mayor",
+      "text": "Heh heh, ¡ya veo! Espera, ¿eres una Umamusume por\ncasualidad?"
+    },
+    {
+      "name": "Señora mayor",
+      "text": "Eso significa que corres en esas carreras,\n¿verdad?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí! ¡Corro un montón! ¡Me llamo Haru Urara!"
+    },
+    {
+      "name": "Señora mayor",
+      "text": "Haru Urara... ¡Vaya, eres exactamente como dicen!",
+      "choice_data_list": [
+        "¿Has oído hablar de ella?"
+      ]
+    },
+    {
+      "name": "Señora mayor",
+      "text": "¡Sí, por supuesto! Voy a menudo al distrito\ncomercial, ya ves."
+    },
+    {
+      "name": "Señora mayor",
+      "text": "Todos allí están encantados contigo. Incluso\ncrearon un Club de Admiradores de Haru Urara."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Encantados? ¿Qué?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le explico que es una expresión usada para\ndescribir las fuertes emociones que una persona\nsiente por otra, y en este caso, muestra lo\ndedicados que son sus admiradores."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ah, ya veo! Mmm, en realidad, ¡aún no lo\nentiendo!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Pero significa que mucha gente me está apoyando,\n¿verdad?"
+    },
+    {
+      "name": "Señora mayor",
+      "text": "Heheh, más o menos. Estoy empezando a pensar en\nunirme también."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Oh! ¡Hazlo! ¡Hazlo! De hecho, ¿puedo unirme yo\ntambién?",
+      "choice_data_list": [
+        "¿Tú... quieres unirte a tu propio club de\nadmiradores para apoyarte a ti misma?",
+        "¿Tú... quieres unirte a tu propio club de\nadmiradores para apoyarte a ti misma?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí, exactamente! ...Espera, ¿eso sería raro?"
+    },
+    {
+      "name": "Señora mayor",
+      "text": "Heh heh heh, ¡eres una graciosa, eso seguro! Puedo\nver por qué todos te adoran."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de despedirnos..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Heehee, estoy tan feliz. ¡Tanta gente me gusta!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Ahora que tengo mi propio club de admiradores,\n¡tengo que trabajar más duro!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuanto más crece su base de admiradores, más\nmotivada se pone Haru Urara.",
+      "choice_data_list": [
+        "¡Hagamos aún más admiradores!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí! Fans de Urara, ¡<i>vamoooos!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Estoy segura de que seguirá ganando experiencia\nen diferentes carreras mientras también hace\ncrecer su base de admiradores!"
+    }
+  ]
+}

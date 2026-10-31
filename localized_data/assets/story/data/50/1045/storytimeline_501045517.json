@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Super Creek",
+      "text": "¡Urgh, metí la pata...",
+      "choice_data_list": [
+        "¿Algo te preocupa?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Supongo que se podría decir que sí. Cometí un\npequeño error..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Fui a lavar el chándal de Tamtam, ¿ves? Pero\naccidentalmente eché lejía."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Nunca cometo errores así. Honestamente, no puedo\ncreerlo."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Tamtam lo dejó pasar a su manera usual con una\nsonrisa y una broma..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Pero aún intento entender cómo pude meter la pata\nasí. <i>¡Ufff...!</i>"
+    }
+  ]
+}

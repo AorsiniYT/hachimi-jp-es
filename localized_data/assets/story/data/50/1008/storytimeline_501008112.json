@@ -1,0 +1,238 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, después de que Vodka tiene muchas\nvictorias bajo su cinturón..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Entrenador! ¡Hay un límite de tiempo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vodka aparece de repente frente a mí, sin tener\nsentido.",
+      "choice_data_list": [
+        "¿De qué estás hablando?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡No me digas que olvidaste ese boleto!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Recuerdas el Año Nuevo al comienzo de mi último\naño? Gané un gran premio en esa rifa.",
+      "choice_data_list": [
+        "¡El boleto para las aguas termales!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Exacto! ¡Ese!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Quería ir allí en motocicleta..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Pensé que tendría una para cuando la Serie Twinkle\nterminara."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Pero aún no tengo una! Y ya no podemos sentarnos\na esperar."
+    },
+    {
+      "name": "Vodka",
+      "text": "Se nos acaba el tiempo.",
+      "choice_data_list": [
+        "Espera, ¿tiempo para qué?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡El boleto expira! Si no lo usamos pronto, será\nsolo un pedazo de papel."
+    },
+    {
+      "name": "Vodka",
+      "text": "Ya no tenemos tiempo para ser exigentes. Es hora\nde ir de viaje... ¡en tren!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Clinc, clanc... Clinc, clanc...</i>"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Oh, sí! ¡Veamos qué puede hacer esta belleza!",
+      "choice_data_list": [
+        "Vodka, estás molestando a la gente...",
+        "Vodka, estás molestando a la gente..."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "...¡Wooo! ¡Buen manejo, conductor!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vodka susurra vítores para el tren, y este nos\nlleva volando al alojamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Remojándonos en las aguas termales..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Uf! ¡Qué buen baño!"
+    },
+    {
+      "name": "Vodka",
+      "text": "El calor se filtró en mis huesos como <i>¡fwooshhh!</i>\nTodo mi cuerpo se calentó¡ahora!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Bueno, voy a tu habitación después de esto."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Tenemos que hablar sobre cómo manejamos ese\npuerto de montaña!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Aunque no hicimos ningún trabajo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sí. El tren nos robó un poco el protagonismo en\nesa."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Aughhh! No puedo creer que vinimos a aguas\ntermales en un tren traqueteante, balanceándonos\nsuavemente mientras comíamos bocadillos."
+    },
+    {
+      "name": "Vodka",
+      "text": "No es diferente a una excursión. Te quería justo\ndetrás de mí, agarrado fuerte mientras\natravesábamos esas curvas en la parte trasera de\nmi motocicleta.",
+      "choice_data_list": [
+        "¿Por qué no hablamos de otra cosa?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Tienes razón. Oh, bueno, ¡hablemos de nuestros\notros recuerdos, supongo!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Todavía tenemos montones de otras historias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vodka sigue hablando alegremente mientras\ndisfrutamos de una olla caliente con un lado de\nsashimi."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡En serio! Realmente no tenía idea de qué hacer en\nel Derby!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Si no me hubieras dado tan buenos consejos, me\nhabría rendido."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Y luego en el Fan Fest! ¡Me dijiste que siguiera\nsiendo yo cuando estábamos en la azotea!",
+      "choice_data_list": [
+        "¿Dije eso?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Espera. ¿¡Lo olvidaste?! ¡Debes estar bromeando!\nMe conmovió mucho."
+    },
+    {
+      "name": "Vodka",
+      "text": "Es por lo que dijiste que yo... yo..."
+    },
+    {
+      "name": "Vodka",
+      "text": "<i>Sollozando...</i>",
+      "choice_data_list": [
+        "...?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vodka de repente se queda sin palabras y empieza a\nsollozar.",
+      "choice_data_list": [
+        "¿Q-qué pasa?",
+        "¿Q-qué pasa?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Hablar así me hizo pensar... Bueno, me hizo darme\ncuenta..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Tú y yo siempre hemos estado de viaje. Ni siquiera\nlo noté.",
+      "choice_data_list": [
+        "¿Lo hemos estado?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Sí. Incluso sin motocicletas, siempre has estado\nmontado a mi lado."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Y cada vez que estaba a punto de tomar un giro\nequivocado o frenar, me pusiste de nuevo en la\npista!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Eres el que me dijo que siguiera recto y no\ntuviera miedo!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Estoy segura de que me habría caído si hubiera\nestado solo. ¡Incluso podría haberme rendido...!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Pero tú estuviste allí para mí! ¡Todo es gracias\na ti!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Incluso si no cabalgamos ese puerto de montaña,\ntodavía tenemos un montón de qué hablar! ¡Montones\ny montones de historias...!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Ugh, qué molesto! ¡Soy tan patética! ¡Quería que\nnos riéramos toda la noche...!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Pero no puedo detener estos sentimientos!\n¡Aughhh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy segura de que Vodka siempre ha sido\ncompasiva en el fondo. Parece que aquí, en este\nalojamiento sin nadie más, no puede mantener la\nfachada de chica dura."
+    },
+    {
+      "name": "Vodka",
+      "text": "Gracias, Entrenador... Gracias, compañero."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Por cierto, siéntete libre de reírte de lo\npatética que estoy siendo!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Pero será mejor que no le cuentes a nadie sobre\nesto! ¡Es que el balneario me derritió el corazón,\nnada más!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vodka muestra abiertamente sus verdaderos\nsentimientos en toda la noche y continúa riendo\nentre lágrimas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siento que Vodka y yo hemos formado un vínculo\nirremplazable durante este tiempo juntas."
+    }
+  ]
+}

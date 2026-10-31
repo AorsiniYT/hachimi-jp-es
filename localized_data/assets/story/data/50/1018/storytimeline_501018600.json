@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Antes de una carrera, encuentro a Air Groove\ntemblando en la sala de espera.",
+      "choice_data_list": [
+        "¿Nerviosa?",
+        "¿Nerviosa?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Yo? Ja."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Tonto. Todo lo contrario. Estoy absolutamente\nextasiada."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Después de todo, hoy doy un paso más para\nconvertirme en un modelo para todas las Umamusume.",
+      "choice_data_list": [
+        "¡Ganemos esto!"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Eso va sin decir. ¡Mantén tus ojos en la\nEmperatriz y sé testigo de mi victoria!"
+    }
+  ]
+}

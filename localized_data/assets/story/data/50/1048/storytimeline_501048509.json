@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Tosen Jordan y yo estamos en una reunión cuando..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Uy...! Mis uñas han crecido demasiado. Se ve\nmucha uña natural.",
+      "choice_data_list": [
+        "¿No vas a volver a hacértelas?",
+        "¿No vas a volver a hacértelas?"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿En qué tiempo libre? Lo único que hago es correr,\ncorrer y correr."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Mantengo mis uñas de los pies, pero... ¿mis uñas\nde las manos? Bueno, supongo que esto es mejor que\nnada."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Es patético, pero bueno... <i>Suspiro...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para alguien que siempre es tan particular con sus\nuñas, esto es una vista rara. Debe estar realmente\nfatigada. Podría ser buena idea echar otro vistazo\na su calendario de carreras."
+    }
+  ]
+}

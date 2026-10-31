@@ -1,0 +1,235 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Con una fantástica actuación en la Twinkle Series,\nGrass Wonder ha tenido unos impresionantes\nprimeros tres años."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un gran hito queda ahora atrás. Pero un pacífico\ndía..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Bueno entonces, todos..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ahora que las cosas se han calmado, ¿les gustaría\nacompañarme en una caminata por las montañas?",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Qué?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Cómo?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Como en <i>montaña</i> montañas?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Pensé que podría ser agradable que todos\ntuviéramos un viaje juntos antes de que El se vaya\nal extranjero."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Bueno, esto es nuevo, Grass siendo tan impulsiva."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Suena como que será muy divertido!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Y lo haces todo por mí? ¡Estoy tan tan tan tan\ntocada! ¡Tan agradecida! ¡Tan—"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Es solo una pequeña idea para que <i>todos</i>hagan\nalgunos recuerdos agradables, eso es todo."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ay! ¡Rechazada!",
+      "choice_data_list": [
+        "¿Estás seguro de que quieres que vaya?",
+        "¿Estás seguro de que quieres que vaya?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Pero por supuesto. Tu presencia es indispensable,\nEntrenador."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Je, je, a duras penas puedo esperar. ♪"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Bueno entonces, ¿nos dirigimos a la base de la\nmontaña?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Je, je. Ha pasado una eternidad desde que vi a\nGrass sonreír así."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Grrr... Me molesta saber que es porque ha estado\nganando como loca!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Aunque... es cierto que una sonrisa soleada es lo\nque le queda mejor a Grass."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Pero dicho esto, ¡voy a borrar esa sonrisa de su\nrostro eventualmente!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh, <i>¿lo harás</i>, El?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "C... ¡Vamos todos! ¡Vamos a perder toda la luz del\ndía arrastrando los pies así! ¡Corramos a la\nmontaña!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Suena como una carrera. Cuenten conmigo."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡El último en llegar tiene que cargar todas\nnuestras bolsas!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Las apuestas se han disparado! Eso es un poco\naterrador, Sei!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Vuelvan aquí!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¿¡Eh?! ¿¡Qué—?! ¿T-todos?!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Humph! ¡Muy bien entonces!"
+    },
+    {
+      "name": "Special Week",
+      "text": "No perderé, ¿me oyen?!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh my... Todos son tan competitivos.",
+      "choice_data_list": [
+        "(Mira quién habla...)",
+        "(Mira quién habla...)"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Entrenador? Tus pensamientos están escritos en\ntoda tu cara."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Dios mío... Je, je, je.",
+      "choice_data_list": [
+        "¿No vas a ir tras ellos?",
+        "¿No vas a ir tras ellos?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No hoy, no."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hoy... Quiero saborear cada paso del camino."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Grass Wonder y yo tomamos con calma las vistas a\nlo largo del sendero verde hacia arriba."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cada pie que colocamos sobre la tierra nos da otro\npaso adelante."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No hay camino ante mí, solo en mi estela."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "La primera vez que pisé la pista de carreras, supe\nque era donde debía estar."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Decidí que si iba a presionar hacia adelante, no\npodría permitirme detenerme hasta alcanzar la\nmisma cima."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Al principio, creí que sería sencillo.",
+      "choice_data_list": [
+        "Pero luego te topaste con giros y vueltas en el\ncamino."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sí... Tienes toda la razón."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Avanzaba torpemente por mi inmadurez, atrapado en\ntrivialidades. Incluso me regañó mi propio amigo."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Con lo lento que sentía mi progreso, hubo algunas\nnoches en que me pregunté si siquiera <i>podía</i>\nalcanzar la cima.",
+      "choice_data_list": [
+        "...Ya veo.",
+        "...Ya veo."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Pero ya no."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Tengo a Maruzen y a Sei. Suzuka, El y Spe,\ntambién...",
+      "color_text_info_list": [
+        "Suzuka",
+        "Spe"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Estoy rodeada de tantos amigos y seguidores... Y\nsobre todo, Entrenador, te tengo a ti."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Este es el camino que debía recorrer, porque soy\nla única que puede."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Un camino que se extiende lejos, a un destino que\nsolo yo puedo alcanzar."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Así que... Mantendré la cabeza alta y daré cada\npaso con propósito."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Para alcanzar la cima!"
+    }
+  ]
+}

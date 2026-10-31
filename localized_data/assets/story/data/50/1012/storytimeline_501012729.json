@@ -1,0 +1,30 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Hishi Amazon",
+      "text": "Hombre, casi te atrapan, Profe.",
+      "choice_data_list": [
+        "Lo siento..."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Vamos, no digas eso. Mantén la cabeza alta. ¡Lo\nhiciste genial!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Bueno, ¡hora de que yo lo intente! Profe, ¿me\nprestas una moneda o dos?",
+      "choice_data_list": [
+        "No tengo, lo siento..."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Vaya, bueno... Supongo que podría compensarlo con\nuna comida enorme para los novatos."
+    },
+    {
+      "text": "Bueno, eso fue decepcionante."
+    }
+  ]
+}

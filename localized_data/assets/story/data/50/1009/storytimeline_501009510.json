@@ -1,0 +1,185 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Veo a Daiwa Scarlet junto a las puertas de la\nescuela un fin de semana."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡No puedo esperar para nuestro almuerzo juntos,\nSpe!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Jeje. ¡Espero que te guste el lugar que elegí!",
+      "choice_data_list": [
+        "¿Ustedes dos tienen planes?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Oh, hola... digo, hola, Entrenador."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Hola! Scarlet y yo estamos a punto de ir a\nalmorzar!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Ya que estás aquí, ¿por qué no vienes con\nnosotros?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Eh?",
+      "choice_data_list": [
+        "¿Te parece bien?",
+        "¿Te parece bien?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Si a Spe no le molesta, entonces a mí no me\nimporta en absoluto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet acepta con una sonrisa, pero de\nrepente se acerca y susurra algo en mi oído."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Seguro que esto no hace falta <i>decirlo, pero </i>más te\nvale portarte bien frente a Spe.",
+      "choice_data_list": [
+        "...¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Pasa algo?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡No, nada en absoluto! ♪ ¿Nos vamos entonces?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y con eso, los sigo, un poco desconcertado por lo\neducada que suena Scarlet cuando no me habla a mí."
+    },
+    {
+      "name": "Empleado A",
+      "text": "¡Pedido listo! Una montaña de hamburguesa para\ntres!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Esto es de lo que te hablaba! ¡Oh, se ve bien!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "E-entonces... Así que esto es... lo que te gusta\ncomer..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una gran porción de hamburguesa, un enorme\nacompañamiento de verduras salteadas y una montaña\nde arroz cubren toda la mesa.",
+      "choice_data_list": [
+        "Literalmente es una montaña, ¿eh...",
+        "Literalmente es una montaña, ¿eh..."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡A comer!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras Special Week empieza a comer emocionada,\nDaiwa Scarlet me susurra."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Spe pidió esto especialmente para nosotras. ¡Sería\nuna falta de respeto no terminarlo!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Más te vale estar preparada para esto! ¡No\npodemos dejar ni una miga en los platos!",
+      "choice_data_list": [
+        "¡Devoremoslo antes de que nuestros estómagos\ntengan tiempo de alcanzarnos!",
+        "¡Empecemos con las verduras y hagámoslo\ntranquilamente!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Je, buen plan. ¡Lo acabaremos de una vez!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Aquí vamos!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "T-terminamos...",
+      "choice_data_list": [
+        "Qué comida..."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Guau! ¡Las dos terminaron todo!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡No puedo creer que hayan terminado antes que yo!\nDebe haberles gustado mucho, ¿eh?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "S-sí, estuvo... muy delicioso. ♪"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Yo también estoy a punto de terminar! ¡Hombre,\neso estuvo para chuparse los dedos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Termino con un terrible dolor de estómago por\ncomer demasiado rápido, y regreso al campus\nagarrándome la barriga."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Buen plan. Vamos a un ritmo lento y constante para\ntener tiempo de digerir bien y terminarlo."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Aquí vamos!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Terminado! Ahh... Como siempre, eso estuvo para\nchuparse los dedos!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Oh, perdón! ¿Dónde están mis modales? Ustedes dos\ntodavía están comiendo."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "I-increíble, Spe. Limpiaste ese plato rápido, pero\nno vamos muy atrás..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Glup...</i>"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "T-terminado...",
+      "choice_data_list": [
+        "Qué comida..."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Guau! ¡Las dos terminaron todo! ¿Les gustó\ntanto?!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "S-sí, estuvo... muy delicioso. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La comida me mantiene lleno todo el día, incluso\nmucho después de que se pone el sol."
+    }
+  ]
+}

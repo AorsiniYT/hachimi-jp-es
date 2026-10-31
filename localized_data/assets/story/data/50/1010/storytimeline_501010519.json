@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Pasando por la residencia, alcanzo a ver a Taiki\nShuttle limpiando sin energía."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "<i>Suspiro...</i> Finalmente terminé con la entrada. Para\nahora, apuesto a que todos ya..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "<i>Suspiro largo...</i>",
+      "choice_data_list": [
+        "Ese fue un suspiro largo.",
+        "Ese fue un suspiro largo."
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Toda la residencia está jugando juegos de mesa\nhoy..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Pero estoy de limpieza porque rompí el toque de\nqueda...<i>Suspiro...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Quizás debido al shock de todo el calvario, Taiki\nShuttle se mantiene desanimada por algún tiempo."
+    }
+  ]
+}

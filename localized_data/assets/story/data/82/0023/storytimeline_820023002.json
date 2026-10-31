@@ -1,0 +1,199 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sweep Tosho",
+      "text": "Mmm, ¿debería ir por esta? ¿O tal vez esta otra?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Oh, Sweep. ¿Aquí para leer un poco?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Perfecto timing, Rob Roy! ¿Conoces algunos\nnombres de plantas herbales realmente asquerosas?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Plantas herbales asquerosas? ¿Por qué querrías\nsaber sobre algo así?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "N-no hay razón. Solo soy curiosa... Entonces,\n¿conoces alguna?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Mmm, bueno... Diría que el <i>senburi</i> es conocido por\nser particularmente amargo."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Senburi, ¡entendido! Eso podría funcionar. ♪"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Um... ¿A dónde vas, Sweep?!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Eh, según la antigua enciclopedia de mi abuela\nsobre hierbas y flores silvestres... El senburi\ncrece en lugares soleados y tiene hojas largas y\ndelgadas..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿Acaso estás buscando senburi? Pero ¿por qué?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Jeje, ¿quieres saber? Bueno, ¿adivina qué? ¡Voy a\nhacerle una broma a Fuji!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡¿Una broma?! N-no creo que sea una buena idea.\n¡Será mejor que te detengas!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Ni hablar! ¡Se lo merece! ¡Me hizo comer verduras\nel otro día, así que le voy a dar una lección!"
+    },
+    {
+      "name": "???",
+      "text": "Esa sí que es una historia intrigante. ¿Y\nexactamente<i>quién</i> será el que aprenda esta lección?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Esa meanie líder de dormitorio, obviamente! Ella\nsiempre <i>está molestando</i> y diciéndome qué hacer!\n¡Bueno, le mostraré!"
+    },
+    {
+      "name": "???",
+      "text": "¿Líder de dormitorio malvada, dices? Interesante."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Oh, querido. Oh, querido, oh, querido... Sweep,\ncreo que debes detenerte no—"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Jejeje! ♪ Veamos cómo le gusta esta súper amarga\nbebida de hierbas. ¡No puedo esperar a ver qué <i>fea</i>\ncara pone!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Quién sabe... Quizás pondrá una cara... como esta?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Ajaja, ¡basta! Eso es tan divert...ido..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Eeeeek! ¿Por qué, solo por qué?! ¿Qué estás\nhaciendo aquí, Fuji?!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿Qué ahora... ¡Ya sé! ¡Tú allí! ¡Dame algún tipo\nde excusa!",
+      "choice_data_list": [
+        "¡Solo tenías las mejores intenciones de Fuji\nKiseki en mente, ¿verdad?!",
+        "¡Solo tenías las mejores intenciones de Fuji\nKiseki en mente, ¿verdad?!",
+        "Deberías ser honesto y disculparte."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¿Qué ahora... ¡Ya sé! ¡Tú allí! ¡Dame algún tipo\nde excusa!",
+      "choice_data_list": [
+        "¡Solo tenías las mejores intenciones de Fuji\nKiseki en mente, ¿verdad?!",
+        "¡Solo tenías las mejores intenciones de Fuji\nKiseki en mente, ¿verdad?!",
+        "Deberías ser honesto y disculparte."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...Sí, ¡eso es! Estaba buscando plantas\nmedicinales para que te mantengas saludable, Fuji!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Así que esa era tu intención. Plantas herbales\npara mantenerme saludable. Tu amabilidad me\ncomplace. Sin embargo..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Sería un desperdicio que yo disfrutara esto sola.\nSweep, tú deberías tener un poco conmigo."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...¿Qué?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Si esta hierba te hará saludable, como dices,\nentonces deseo que ambas estemos en buena salud.\n¿Qué te parece?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "E-em, uh... Ni siquiera he encontrado nin—"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "En efecto. ¿Dónde estás, senburi? Ah, ¿acaso mis\nojos me engañan? Sí, creo que he encontrado\nalguno."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡No puede ser, ya?! ¡Guac, guac, guac! ¡No voy a\nbeber nada!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ahaha, ahora ahora, divirtámonos, ¿verdad? Quizás\npodamos tener una pequeña fiesta de té con\n<i>infusión de senburi.</i>"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Noooo! ¿Por qué estás tan interesada en esto de\ntodos modos?!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Si Sweep es una bruja, entonces Fuji es una gran\nhechicera..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "En efecto. Te daré un regalo si te disculpas como\nuna buena brujita."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Espera, en serio?! Pero... ¿qué tipo de regalo?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Lo averiguarás después de que te disculpes. Bueno,\n¿qué dices?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Grrrr... está bien. Solo tengo que disculparme,\n¿verdad? Si es lo que quieres."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...Lo siento."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Eso no fue tan malo, ¿verdad? Creo que esta buena\nbrujita merece un regalo. ¿Podrían todos venir\ntambién?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Tengo un pastel lleno de nutrientes con mucha\ncrema dulce y esponjosa! ¡Vamos, prueba un bocado!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Yaaaay, pastel! Jeje, ¡no me importa si lo hago!\n♪"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Muchas gracias por darme un pedazo. Qué\nintrigante. Dime, ¿cómo metiste tantos nutrientes\nen una porción—"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "...Oh."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Oho, ¿has descubierto el secreto? Solo...\nguardemos esto como secreto de Sweep."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Así que tenía razón... El ingrediente principal\ndebe ser verduras. Si Sweep es una bruja, entonces\nFuji debe ser una gran hechicera..."
+    }
+  ]
+}

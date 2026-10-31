@@ -1,0 +1,213 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El Fan Fest ya está aquí, y fanáticos apasionados\nde lejos y cerca acuden a la Academia Tracen con\nla esperanza de ver a las estrellas corredoras de\nesta primavera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Oguri Cap está aquí, junto con Mejiro McQueen. Y\nentre ellas se encuentra... Mejiro Ryan."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Entrenador, ¿sabes lo del programa de entrevistas?\nBueno, yo... voy a hablar de cómo me siento."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "No sé qué tan bien será recibido, pero quiero que\nla gente vea a la verdadera yo!",
+      "choice_data_list": [
+        "¡Confía en ti!",
+        "¡Tú puedes!"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La despido con una palmada en la espalda. Debería\nhacer exactamente lo que quiera con esto."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Mi meta para esta primavera, ¿me preguntas? Bueno,\neso debería ser obvio."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Es convertirme en la heroína de las gradas del\nGran Cisne en Kioto. En otras palabras, reclamaré\nla victoria en el Tenno Sho de esta primavera!",
+      "color_text_info_list": [
+        "Tenno Sho"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Es mi destino como miembro de la familia Mejiro.\nEspero el generoso apoyo de todos allí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como se esperaba, Mejiro McQueen destaca entre la\nmanada. Por otro lado..."
+    },
+    {
+      "name": "Anfitrión A",
+      "text": "¿Y cuál es tu meta, Mejiro Ryan?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Eh, mi meta es..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Hacerlo lo mejor posible y esperar que salga\nbien!"
+    },
+    {
+      "name": "Anfitrión A",
+      "text": "Tú, eh... esperas que salga bien. Ya veo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella empieza con torpeza..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Lo sé. No estoy al nivel de las corredoras que\nconsiderarías estrellas..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Y no soy la oradora elegante que es McQueen..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Pero es frustrante para una Umamusume como yo!\nSiempre escondiéndome en las sombras..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Es triste pensar que personas que claramente dan\nlo mejor de sí nunca entrarán en el centro de\natención."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La atmósfera cambia, y todos empiezan a prestar\nmás atención a la entrevista."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Quiero creer que seré vista cuando me esfuerce al\nmáximo..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Quiero mostrarle a todos que personas como yo\ntambién pueden destacar cuando ponemos todo\nnuestro corazón en algo!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Nunca me sentí cómoda con las expectativas que la\ngente tenía de mí antes. No podía lidiar con\neso... ¡Pero las cosas son diferentes ahora!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Pongan sus ojos en mí! Porque estoy lista para\ncualquier cosa, ¡tal como soy!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Cumpliré sus expectativas, y correré con más\npasión que cualquier superestrella por ahí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las palabras de determinación de Ryan han echado\nraíces en los corazones de los fanáticos."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Hehe, ella realmente ha encontrado su lugar,\n¿verdad?",
+      "choice_data_list": [
+        "¿Hm?"
+      ],
+      "color_text_info_list": [
+        "★★★"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ryan—estoy segura de que ella te ha lamentado cómo\nle falta carisma.",
+      "choice_data_list": [
+        "Sí, lo ha mencionado.",
+        "Sí, lo ha mencionado."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ah, ella tiene tan baja autoestima. Como siempre,\nno se entiende particularmente bien a sí misma."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Solo le falta una cosa—la determinación para\ncargar con el peso de las expectativas de los\ndemás."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Un talento sobresaliente yace dentro de ella... Si\npuede encontrar la resolución para usarlo, se\nconvertirá en una estrella magnífica."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Además, cuando se trata de estrellas... Las que\nbrillan primero no siempre brillan más."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Algunas se vuelven cada vez más brillantes a\nmedida que ganan seguidores. Esa chica será la\nJuana de Arco de nosotras las Umamusume."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Ya regresé! Creo que lo hice mejor de lo que\nesperaba!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Eh, ¿pasa algo?",
+      "choice_data_list": [
+        "Fuiste como Juana de Arco allí."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "...Huh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ryan ha comenzado a mostrar signos de convertirse\nen una superestrella, así como su potencial para\nser una corredora increíble."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para que eso suceda, necesita seguir creciendo. Y\nlo primero es el Tenno Sho de primavera."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "...Huh?"
+    },
+    {
+      "name": "Hombre A",
+      "text": "Eh... ¿Ryan?"
+    },
+    {
+      "name": "Hombre A",
+      "text": "Dijiste que no estabas hecha para el centro de\natención, pero has sido famosa desde que eras\npequeña, ¿verdad?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Huh, en serio? ¿Yo?! ¡Desde cuándo?!"
+    },
+    {
+      "name": "Hombre B",
+      "text": "Eras el tema de conversación entre nosotros los\nentusiastas de las carreras. Sabíamos que serías\nuna gran corredora desde que eras niña."
+    },
+    {
+      "name": "Hombre B",
+      "text": "Así que por favor, ¡sigue mostrando tu belleza\nmuscular! Soy un gran coleccionista de tus fotos y\ntodo eso..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Entrenador, realmente existen! Puede que sean\nsolo unos pocos, ¡pero hay personas ahí afuera que\nme siguen y respetan!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hay más personas apoyándola de lo esperado. Y\nparece que algunos de los fanáticos también aman a\nRyan por su fuerte físico."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eso es aún más motivación para que los haga sentir\norgullosos. ¡Es hora de enfocarse en el Tenno Sho\nde primavera!"
+    }
+  ]
+}

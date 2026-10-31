@@ -1,0 +1,225 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Fuji Kiseki y yo estamos trabajando hacia el Arima\nKinen, pero también necesitamos descansos. En un\ndía de descanso en particular..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Oye, Entrenador, celebremos temprano! Está lo\nsuficientemente cerca del 25, ¿verdad?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Le interesaría una producción de <i>Romeo y Julieta?</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así es como terminamos yendo a ver una obra\njuntos."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Qué gran interpretación! Aunque sabía cómo\nterminaría la obra, igual lloré."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"¡Oh, piloto desesperado, ahora corre a\nestrellarte en las rocas tu barco mareado y\ncansado! ¡Brindo por mi amor.\""
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"¡Oh, verdadero boticario, tu pócima es rápida.\nAsí con un beso muero.\""
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Ahora recuerdo lo difíciles que son esas líneas!\nQuería decirlas perfectamente, así que practiqué\nmucho.",
+      "choice_data_list": [
+        "¿Cuándo fue eso?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ah, cierto, tú no sabes. Yo interpreté a Romeo en\nmi grupo de teatro juvenil."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Recuerdo estar muy nervioso porque era el primer\npapel principal que tuve la oportunidad de\ninterpretar."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Recitaba las líneas en voz baja todo el día en\ncasa hasta que mi mamá se enojó conmigo!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Jeje. Esto sí que me trae recuerdos. Nunca hubiera\npensado en ese entonces que cambiaría mi camino al\nde las carreras."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Escuchando a Fuji Kiseki contarme sobre su\ninfancia, nuestro viaje de regreso al campus\nparece no tomar nada de tiempo."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Gracias por salir conmigo hoy! Aunque es un poco\ntemprano, realmente sentí un ambiente festivo."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Oh, antes de que lo olvide, tengo un regalo para\nti!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Considéralo un símbolo de mi gratitud. ¡Gracias\npor todo lo que haces!",
+      "choice_data_list": [
+        "¡Gracias!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Miro la caja cuidadosamente envuelta. Parece que\npodría haber una joya en el interior."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "La piedra tiene un significado especial."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Significa: \"Que nuestro vínculo permanezca\neterno.\" Lo impregné con este deseo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Abro la caja y encuentro un collar con un pequeño\ndiamante que brilla como el reflejo del sol en el\nocéano.",
+      "choice_data_list": [
+        "¿Está bien si me lo pongo ahora?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Por supuesto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Intento ponérmelo, pero el broche es pequeño y mis\ndedos son torpes. Mientras lucho..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Déjame verlo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella toma el collar de mí y lo abrocha alrededor\nde mi cuello en un instante."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Te queda genial. Me alegra haber elegido una\npiedra más pequeña."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "No quería que fuera demasiado llamativo, ya que\nesperaba que lo usaras todos los días...",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡No te lo tomes tan en serio! De todas formas,\n¡buenas noches!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Este día con Fuji Kiseki se convierte en uno de\nmis recuerdos más cálidos y hermosos."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Te queda igual de bien de lo que pensé.",
+      "choice_data_list": [
+        "Lo atesoraré."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Eso significa mucho para mí. Además, eh..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Oh! Esa máquina expendedora vende cacao caliente\nrealmente delicioso. ¿Quieres probarlo?",
+      "choice_data_list": [
+        "...?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Perdón. Eso fue un poco aleatorio, ¿verdad?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Lo que quiero decir es... el día parece haber\npasado muy rápido."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Esperaba que pudiéramos pasar un poco más de\ntiempo juntos... si está bien para ti?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Aquí tienes. Está caliente, así que ten cuidado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El cacao que Fuji Kiseki me entrega es más dulce y\ndelicioso de lo que esperaba."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Gracias por pasar tiempo conmigo a pesar de lo\nocupado que estás. Realmente lo aprecio.",
+      "choice_data_list": [
+        "Me alegra que me hayas invitado a salir."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Jeje. Eres demasiado bueno para tu propio bien."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Sabes..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Cuando era joven, no podía entender el final de\n<i>Romeo y Julieta</i> en absoluto."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "No entendía por qué los dos se desesperaban tanto\nel uno por el otro."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Y me preguntaba cómo se sentiría tener a alguien\ntan preciado para mí que preferiría morir antes\nque estar sin ellos."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Pero ahora, finalmente entiendo lo que significa\ntener a una persona verdaderamente irremplazable\nen mi vida."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Podría ser porque he crecido y soy más sabio... o\nporque te he conocido?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Me pregunto... ¿Cuál crees que es?",
+      "choice_data_list": [
+        "Eh..."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Jaja! Solo te estoy molestando. ¿Tu corazón dio\nun vuelco?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Fuji Kiseki me mira con una expresión traviesa\nllena de sonrisas y travesuras."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Oh? ¿Qué pasa? Tu cara está toda roja."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Este día con Fuji Kiseki se convierte en uno de\nmis recuerdos más cálidos y hermosos."
+    }
+  ]
+}

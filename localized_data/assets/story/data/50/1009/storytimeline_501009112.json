@@ -1,0 +1,187 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, no mucho después de la exitosa serie con\nDaiwa Scarlet, me encuentro trabajando en mi\noficina como de costumbre."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ser el entrenador de la Umamusume número uno\nsignifica hacer tiempo para la prensa en mi\nagenda."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mi escritorio cruje bajo el peso de varios\nmontones de papel. Las fechas límite aún están\nlejos, pero podría quedarme despierto toda la\nnoche para sacarlo todo de encima..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Entrenador! ¡Es hora! ¿Dónde estás?!",
+      "choice_data_list": [
+        "¿Hora de qué?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡No finjas que no lo sabes! ¿Recuerdas esa cosa\nque te di esa vez en el distrito comercial?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Esa vez en el distrito comercial? Solo puede\nsignificar..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Guárdalo por ahora. No creo que pueda confiar en\nmí mismo con eso."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Pero más te vale no usarlo tú!Es <i>mi</i> premio,\n¿entendido?!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡El cupón de aguas termales! Expira este mes,\n¿verdad?",
+      "choice_data_list": [
+        "Oh... Claro, claro."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Ugh! Vamos, ¿qué estás esperando?!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Tenemos que encontrarlo! Por Dios, ¡mira este\nescritorio! ¡Está hecho un desastre total!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Te ayudaré, así que vamos, ¡vámonos!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡A las aguas termales!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet me fastidia para planear un viaje\nimprovisado a las aguas termales."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sumergiéndome en las aguas termales..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Mmm... Ahhh... El agua caliente se sintió tan\nbien.",
+      "choice_data_list": [
+        "Parece que te has estado divirtiendo."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Jeje, ¡quizás un poco!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Y tú? ¿Te sientes relajado? Como que por fin\npuedes tomártelo con calma por una vez?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me gustaría decir que sí, pero básicamente me\narrastró hasta aquí. Estoy más confundido que otra\ncosa.",
+      "choice_data_list": [
+        "Eh..."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Hmph."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Está bien, vale. Perdón por obligarte a esto de la\nnada."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Pero tú también tienes la culpa, ¿sabes?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "La Twinkle Series ha terminado por fin, así que\nesta debería haber sido la hora perfecta...",
+      "color_text_info_list": [
+        "Twinkle Series"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Pero siempre estás tan ocupado."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Obviamente, tienes mucho más en tu plato que la\nmayoría, estando a cargo de la Umamusume número\nuno y todo eso."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Pero verte trabajar hasta el agotamiento me da un\npoco de rabia."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Empiezo a preguntarme por qué eres el único que se\nagota, ¿sabes? ¿No se supone que debemos enfrentar\nnuestros obstáculos juntos?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿De verdad sientes que no puedes acudir a mí para\napoyo?",
+      "choice_data_list": [
+        "Eso no es lo que yo..."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿No lo es? Genial. Entonces dame la oportunidad de\ndemostrarte que me importas."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Déjame cargar con tus cargas a veces."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es entonces cuando recuerdo lo que dijo cuando\nganó el cupón de aguas termales."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "No lo creo. Quiero decir, estamos en medio de una\nserie muy importante. Ninguno de nosotros tiene\ntiempo para tomar un descanso todavía."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Quiero aprovechar al máximo esta oportunidad para\nrelajarme... y quiero que tú también la\naproveches."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...¿Qué? Me estás mirando raro.",
+      "choice_data_list": [
+        "Está bien. Estoy bajo tu cuidado.",
+        "Está bien. Estoy bajo tu cuidado."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hmph. Me alegra que finalmente lo entiendas."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Ahora, divirtámonos! Vinimos aquí para <i>alejarnos\ndel </i>trabajo, ¿recuerdas?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡No te dejaré ir hasta que hayas tomado un\ndescanso adecuado! Jeje. ¡Más te vale relajarte\ntodo lo que puedas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Arrastrado por el impulso de Daiwa Scarlet,\ndisfruto de unas vacaciones muy merecidas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Días después y sintiéndome completamente renovado,\ntermino el resto de mi carga de trabajo... con la\nayuda de Scarlet, por supuesto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siento que Daiwa Scarlet y yo hemos formado un\nvínculo irremplazable durante este tiempo juntos."
+    }
+  ]
+}

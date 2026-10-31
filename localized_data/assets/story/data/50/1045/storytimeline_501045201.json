@@ -1,0 +1,74 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El Sumire Stakes es una carrera abierta, por lo\nque los competidores están clasificados un poco\nmás bajo en comparación con las carreras con\ngrados.",
+      "color_text_info_list": [
+        "carreras con grados"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siento que Super Creek puede conquistarla si se\nentrega por completo, pero..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "<i>Haa... Haa...</i> Mnh...",
+      "choice_data_list": [
+        "¡¿Qué pasa?!",
+        "¡¿Qué pasa?!"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh, ¡no es nada! Creo que aún estoy un poco\ncansada de ayer."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Ha estado ocurriendo de vez en cuando últimamente.\nPero realmente no es nada de qué preocuparse."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Más importante, antes de que empiece la carrera...\n¿te gustaría almorzar conmigo en la plaza central?"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Yo... hice unos omelettes dulces... y perritos\ncalientes con forma de pulpo—",
+      "choice_data_list": [
+        "¡Tienes que ir a descansar—ahora!"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Entrenador..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Okay, lo siento. Me acostaré un rato..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Super Creek parece sentirse un poco mejor después\nde su siesta."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Gracias. Creo que ya estoy bien...",
+      "choice_data_list": [
+        "¿Quieres retirarte de la carrera?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡No, cualquier cosa menos eso! Puedo correr—de\nverdad."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Es una lástima que no haya podido ver las violetas\nsumire contigo..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Pero intentaré compensarlo con un hermoso\nresultado en esta carrera."
+    }
+  ]
+}

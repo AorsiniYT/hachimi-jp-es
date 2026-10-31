@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Taishin",
+      "text": "¿Puedo pedir el combo B con ensalada de\nacompañante?"
+    },
+    {
+      "name": "Dama del café",
+      "text": "¡Ay, lo siento! Parece que solo nos queda el combo\nA, querida."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué? ¿Ese es el de las cosas fritas, verdad? En\nese caso..."
+    },
+    {
+      "name": "Dama del café",
+      "text": "Y lo único que queda de acompañante es el cubo de\npapas fritas... Pero eres una chica en\ncrecimiento, ¡así que deberías comer bien!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Uf.",
+      "choice_data_list": [
+        "¿Estás bien?",
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...No preguntes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin no parece muy bien..."
+    }
+  ]
+}

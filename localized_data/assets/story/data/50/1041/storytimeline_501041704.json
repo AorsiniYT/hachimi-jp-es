@@ -1,0 +1,419 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, después de salir, Sakura Bakushin O\nempieza a verse melancólica de nuevo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A medida que se acerca el día de la partida de su\ncompañera pecosa, su estado de ánimo se vuelve más\ny más oscuro."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "...Sé que la Academia Tracen tiene muchos\nestudiantes que van y vienen."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Pero por alguna razón, creí que todos en la clase\npermaneceríamos juntos, creceríamos y mejoraríamos\njuntos, y luego nos graduaríamos juntos!",
+      "choice_data_list": [
+        "Ya veo..."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Aun así, el día en que ella nos dejará a todos\nrealmente se acerca..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Quiero hacer algo por ella como representante de\nclase durante el tiempo que le queda...",
+      "choice_data_list": [
+        "¿Qué tal un regalo?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Oh! ¡Qué gran idea!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Tiene que ser algo memorable! Hmm, ¿qué sería lo\nmejor?",
+      "choice_data_list": [
+        "Podrían correr juntos por diversión.",
+        "¿Tal vez una canción sincera?",
+        "Podrías animarla."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Correr?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El tiempo pasado juntas entrenando para su última\ncarrera termina siendo una experiencia preciosa\npara Sakura Bakushin O."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sugiero que vayan a correr juntas una última vez,\nsolo por diversión."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Oh ho! ¡No esperaba menos de ti! ¡Qué gran idea!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Ese entrenamiento especial no solo fue importante\npara ella, también fue un recuerdo precioso para\nmí."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Y así..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Gracias! ¡La invitaré lo primero mañana!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, Sakura Bakushin O y su compañera\npecosa se encuentran cerca de las pistas.",
+      "choice_data_list": [
+        "¡Qué día tan agradable!",
+        "¡Qué día tan agradable!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Sí! ¡Un cielo perfectamente despejado! ¡El clima\nideal para Bakushin!"
+    },
+    {
+      "name": "Umamusume Pecosa",
+      "text": "En realidad, se siente un poco nostálgico.\n¡Nuestro entrenamiento especial parece que fue\nhace tanto!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Jej, yo también. ¡Vamos, empecemos!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡No te contengas! ¡Demos lo mejor de nosotras!"
+    },
+    {
+      "name": "Umamusume Pecosa",
+      "text": "¡Por supuesto! ¡No voy a perder, Baku!",
+      "choice_data_list": [
+        "¡Vamos, ustedes dos!",
+        "¡Vamos, ustedes dos!"
+      ]
+    },
+    {
+      "name": "Juntas",
+      "text": "¡Sí! ¡BAKUSHIIIN!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las dos salen corriendo con sonrisas más\nbrillantes que el sol."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Continúan corriendo mientras su energía y tiempo\nlo permitan."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "<i>Haa... Haa...</i> ¡Ese fue un buen Bakushin de tu\nparte!"
+    },
+    {
+      "name": "Umamusume Pecosa",
+      "text": "¡Tú también, Baku! ¡Fue una carrera en pareja\nsúper divertida!"
+    },
+    {
+      "name": "Umamusume Pecosa",
+      "text": "...Sabes, estoy muy agradecida contigo, Baku. Y\npor supuesto con tu entrenador también."
+    },
+    {
+      "name": "Umamusume Pecosa",
+      "text": "¡Esta sensación vigorizante es gracias a los dos!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "No seas tan modesta. Te lo dije una vez antes,\n¿verdad?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Solo hice lo que se espera de mí como\nrepresentante de clase!"
+    },
+    {
+      "name": "Umamusume Pecosa",
+      "text": "Ah... ¿Eso fue todo?"
+    },
+    {
+      "name": "Umamusume Pecosa",
+      "text": "Y yo que pensé que nos habíamos vuelto buenas\namigas..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡N-no! ¡Por supuesto, también fue porque eres una\namiga importante para mí!"
+    },
+    {
+      "name": "Umamusume Pecosa",
+      "text": "Jej, ¡gracias! ♪ ¿Podemos seguir siendo amigas de\naquí en adelante?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Por supuesto! ¡No importa cuán lejos estemos,\nsiempre serás mi amiga!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Por siempre!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Una canción, ¿eh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las Umamusume en la Academia Tracen comparten sus\nsentimientos en forma de carreras o presentaciones\nen conciertos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le sugiero a Sakura Bakushin O que le haga saber a\nsu compañera de clase cómo se siente, poniendo sus\npalabras en una canción y haciendo un show en\nvivo."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Lo haré!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡También soy estudiante de la Academia Tracen!\nAdemás, ¡también soy una genio y representante de\nclase!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Compondré la mejor canción con los otros miembros\nde la clase, y daré un concierto en vivo que nunca\nolvidará!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, Sakura Bakushin O y sus\ncompañeros de clase reservan el gimnasio para dar\nun concierto en vivo.",
+      "choice_data_list": [
+        "¡Ven aquí, la actriz principal debería pararse en\nel centro!"
+      ]
+    },
+    {
+      "name": "Umamusume de pecas",
+      "text": "E-eh, está bien! ¿Esto es real? ¿Un concierto solo\npara mí?!"
+    },
+    {
+      "name": "Compañera A",
+      "text": "¡Sí, sí! ¡Trabajamos duro para preparar todo!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Jeje, gracias a todos, ¡hicimos una canción\nfantástica! ¡Te presento la mejor canción de ánimo\nde todas!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Okay! ¡Tus compañeros de clase están listos para\ncomenzar el BAKUSHIN LIVE SHOW!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "La mirada al frente, y caminar hacia el futuro. ♪\nIncluso si caminamos por un camino diferente. ♪"
+    },
+    {
+      "name": "Compañeros de clase",
+      "text": "¡Sí, sí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La voz honesta y dulce de Sakura Bakushin O,\ncombinada con los alegres aplausos de sus\ncompañeros de clase, resuena en los alrededores.\nPero antes de mucho..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Aunque esto es una despedida..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin saber qué decir, la mirada de Sakura Bakushin\nO cae al suelo.",
+      "choice_data_list": [
+        "Bakushin O..."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Lo siento, yo..."
+    },
+    {
+      "name": "Compañeros de clase",
+      "text": "...Nuestros corazones parecen directos, un enlace\ndirecto. ♪ Conectándonos bajo el cielo azul. ♪"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿T-todos?!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "(¿Qué estoy haciendo? Hundiéndome en el\nsentimentalismo e interrumpiendo la\npresentación...)"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "(¡Tengo que despedirla con una canción, como\nrepresentante de clase... como yo misma!)"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Es esto una despedida? ¡No! ♪ ¡Esto es progreso!\n♪ ¡Nos movemos hacia el futuro!"
+    },
+    {
+      "name": "Compañeros de clase",
+      "text": "¡RÁPIDO! ¡RÁPIDO!",
+      "choice_data_list": [
+        "¡A toda velocidad! ¡A toda velocidad!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sakura Bakushin O logra componerse y el concierto\nsale sin problemas."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Realmente lo siento por mostrarte un lado tan\nvergonzoso de mí antes."
+    },
+    {
+      "name": "Umamusume de pecas",
+      "text": "¡Para nada! ¡Gracias por la maravillosa\npresentación que hiciste para mí!"
+    },
+    {
+      "name": "Umamusume de pecas",
+      "text": "...Seguiré corriendo incluso después de dejar la\nacademia."
+    },
+    {
+      "name": "Umamusume de pecas",
+      "text": "Nuestra separación es solo un \"Bakushin straight\npara el futuro\", ¿verdad?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "...¡Sí! ¡Algún día, corramos juntos de nuevo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, con esta despedida, Sakura Bakushin O crece\nun poco."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Animarla?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así como Sakura Bakushin O se entristece por su\nseparación, la chica de pecas seguramente esté\nigual de triste por mudarse."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, si esto continúa, no será más que una\ndespedida lacrimosa. Así que le sugiero que le dé\nuna despedida alegre en su lugar."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Sí, tienes razón. ¡Es exactamente como dices!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Okay! ¡Voy a poner toda mi energía en un último\nánimo para despedirla!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡De esa manera, sonreirá cada vez que recuerde su\ntiempo en la Academia Tracen!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, llega el día de la separación..."
+    },
+    {
+      "name": "Umamusume de pecas",
+      "text": "¡Todos, gracias por venir a despedirme! ¡Incluso\ntrajeron a su entrenador, Baku!",
+      "choice_data_list": [
+        "Que te vaya muy bien en tu próximo lugar."
+      ]
+    },
+    {
+      "name": "Umamusume de pecas",
+      "text": "¡Sí! ¡Que les vaya muy bien a ustedes dos también!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Realmente quería quedarme en la misma clase y\ngraduarnos juntas... <i>Snif.</i>"
+    },
+    {
+      "name": "Umamusume de pecas",
+      "text": "Baku..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Pero tomé una decisión! ¡Voy a despedirte con una\ngran sonrisa como representante de clase!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Todos! ¡Vamos!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡GO! GO! FIGHT! ¡A toda máquina! ¡SUPER BAKUSHIN!"
+    },
+    {
+      "name": "Compañeros de clase",
+      "text": "¡GO! GO! FIGHT! ¡A toda máquina! ¡SUPER BAKUSHIN!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Junto con sus compañeros de clase, Sakura Bakushin\nO lanza un cálido ánimo a su amiga que se va."
+    },
+    {
+      "name": "Umamusume de pecas",
+      "text": "¡Gracias! Estoy realmente triste de dejarlos a\ntodos, pero daré lo mejor de mí en mi nuevo lugar!",
+      "choice_data_list": [
+        "Ah, creo que esa es la señal para abordar."
+      ]
+    },
+    {
+      "name": "Umamusume de pecas",
+      "text": "Lo siento, tengo que irme ahora. ¡Cuídense, todos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras todos observan a la chica apresurarse\nhacia la puerta de embarque, Sakura Bakushin O\nrápidamente la persigue."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "...¡E-espera! ¡Déjame decir una última cosa!"
+    },
+    {
+      "name": "Umamusume de pecas",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡No importa qué tan lejos estemos, siempre seré tu\nrepresentante de clase! ¡Eso solo nunca cambiará!"
+    },
+    {
+      "name": "Umamusume de pecas",
+      "text": "...¡Eso es!"
+    },
+    {
+      "name": "Umamusume de pecas",
+      "text": "¡Estoy tan feliz de haber podido estar en la misma\nclase que tú... y de tenerte como mi representante\nde clase!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de que su amiga desaparece de la vista,\nSakura Bakushin O mira al suelo con desánimo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero rápidamente levanta el rostro y nos mira con\nuna expresión enérgica una vez más."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Volvamos, todos! Tenemos que asegurarnos de que\nnuestra fama se extienda por todo el país para\ncompensar la falta de nuestra miembro!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Apuntemos a un futuro brillante! Bakushin,\nBAKUSHIIIN!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su voz alegre reverbera en los alrededores,\nañadiendo un poco de calidez a los corazones de\ntodos los presentes."
+    }
+  ]
+}

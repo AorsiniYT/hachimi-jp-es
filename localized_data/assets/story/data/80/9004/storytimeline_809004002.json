@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una tarde, veo a <chrname> regresando a su dormitorio\ndespués de que el entrenamiento del día se alarga\nun poco más de lo esperado. Justo después de\ndespedirnos..."
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "¡Entrenadora <username>! ¡Qué gusto verte! ¿Te diriges a\ncasa ahora?",
+      "choice_data_list": [
+        "¡Sí!"
+      ]
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "¡Ya veo! Acabo de despedir a Meek y estaba\npensando en volver a las residencias de\nentrenadores yo también, así que..."
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "Si no te molesta, ¿por qué no regresamos juntas?"
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "A menos que pienses que es un poco... cómo\ndecirlo... demasiado cercano? Después de todo,\nsomos compañeras de trabajo...",
+      "choice_data_list": [
+        "¡Para nada!"
+      ]
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "Jeje... Me alegra escucharlo."
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "Muy bien. ¿Vamos?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hablamos de varias cosas en el camino de regreso a\nlas residencias."
+    }
+  ]
+}

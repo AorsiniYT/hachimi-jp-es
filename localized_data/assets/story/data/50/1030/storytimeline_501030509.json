@@ -1,0 +1,25 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Rice Shower se dobla a mitad del entrenamiento.",
+      "choice_data_list": [
+        "¿Estás bien?",
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "S-Sí... Estoy... bien... Tengo que dar lo mejor\npara la próxima carrera..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Quiero participar en montones de carreras... para\npoder traer felicidad a todos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Se está exigiendo demasiado. Probablemente debería\najustar su calendario de carreras."
+    }
+  ]
+}

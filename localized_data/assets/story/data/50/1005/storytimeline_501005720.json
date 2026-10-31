@@ -1,0 +1,540 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día, llevo a <chrname> a la enfermería para un chequeo."
+    },
+    {
+      "name": "???",
+      "text": "¡Oh! Un custo—¡quiero decir, una estudiante!\n¡Hola!"
+    },
+    {
+      "name": "???",
+      "text": "¿Estás herido? ¿Enfermo? ¿Estresado? ¡Sea lo que\nsea, yo lo curo todo!",
+      "choice_data_list": [
+        "¿¡Quién eres?!"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Bueno, considerando que estás en la enfermería de\nla academia, diría que eso me convierte en tu\nconfiable enfermera escolar. ¡Sí, solo una\nempleada escolar promedio!",
+      "choice_data_list": [
+        "...No, ¿no lo eres?"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¡Jajaja! Supongo que no hay manera de engañarte.\nSupongo que debo empezar dándote mi nombre."
+    },
+    {
+      "name": "???",
+      "text": "¡Ahem! ¡Permíteme presentarme!"
+    },
+    {
+      "name": "???",
+      "text": "Soy la (probable) salvadora de todas las\nUmamusume, la (autoproclamada) legendaria\nacupunturista con el toque mágico..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡La única e inigualable Sasami Anshinzawa! ¿Ves?\nSin preocupaciones! ☆",
+      "choice_data_list": [
+        "..."
+      ],
+      "color_text_info_list": [
+        "Sasami Anshinzawa"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hmm... Su actuación es bastante buena, se lo\nreconozco. De todos modos, ¿deberíamos reportarla?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Caramba! ¡Pareces muy preocupado! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No importa! ¡No importa! Ya nos hemos presentado,\nasí que acuéstate y déjame poner estas agujas a\ntrabajar!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Espera un momento! ¿No crees que vas un poco\nrápido?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Jajaja! No hay necesidad de tener miedo. Todo lo\nque haré es deslizar estas agujas extraordinarias\nprecisamente en tus puntos de chakra."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y luego, voilà, presto! Sucederá algo\nindescriptible!",
+      "choice_data_list": [
+        "(Esto es indescriptiblemente sospechoso...)"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y permíteme asegurarte que no hay absolutamente\nnada sospechoso en esto! ¡Nunca ha salido nada\nmenos que perfecto!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "...Para mi maestro.",
+      "choice_data_list": [
+        "¿¡Para tu maestro?! ¡¿Y para ti?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No te preocupes! Esta es mi primera vez, así que\ntécnicamente, ¡tampoco he fallado nunca con un\npaciente!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y no es como si no tuviera experiencia! Pasé diez\naños bajo un maestro legendario, trayendo\ngotas—¡quiero decir, entrenando!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Ves? ¡Sin preocupaciones! ☆",
+      "choice_data_list": [
+        "(¡Necesitamos salir de aquí, ya!)"
+      ]
+    },
+    {
+      "text": "De ninguna manera vamos a hacer esto. Tomo a <chrname> y me\ndirijo a la puerta, cuando..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡E-espera! ¿¡A dónde van?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Eres Fuji Kiseki, ¿verdad?! Líder del Dormitorio\nRitto, hechicera de fans con tus actos ingeniosos,\ny la más adorable de las entertainers?",
+      "choice_data_list": [
+        "¿Has oído hablar de ella?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿He oído hablar de ella? ¡Por supuesto que sí!\n¡Soy una gran fan!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Precisamente por eso estoy aquí! ¡Para darte mi\napoyo! ¡Déjame ayudarte!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Dame una oportunidad! ¡Por faaaavor!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hm... ¿Confiar en ti o huir ahora mismo? <i>Esa</i> es la\npregunta..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Por favor! ¡Por faaaavor con zanahoria encima!\n¡Incluso te dejaré elegir qué chakra activo!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Estoy <i>segura</i> de que no arruinaré nada!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno... más o menos segura.",
+      "choice_data_list": [
+        "¿<i>Bastante</i> segura?!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Quiero decir, es el lado seguro! Eso es <i>bueno,</i>\n¿verdad?De todos modos, no te quedes atascado en\nlos detalles!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vamos a lo bueno! ¿Qué chakra debería activar?\n¿Quieres un impulso a tus habilidades? ¿Tu salud?\n¿O tal vez tu <i>encanto?</i>"
+    },
+    {
+      "text": "Huelo peligro en el aire, pero calculo que\npodría—y enfatizo <i>podría</i>—haber una oportunidad de\nconseguir algo especial con este tratamiento."
+    },
+    {
+      "text": "¿Qué deberíamos hacer?",
+      "choice_data_list": [
+        "Activar el chakra de la fuerza.",
+        "Activar el chakra de la victoria.",
+        "Activar el chakra de la salud.",
+        "Activar el chakra del encanto.",
+        "Esto es demasiado sospechoso. Salgamos de aquí\nmientras podamos."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra de la fuerza?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? ¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Muy bien, ¡déjalo en mis manos! ¡Hora de localizar\nese chakra! ¡Todos libres!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡Sin preocupaciones!\n☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ngh?!"
+    },
+    {
+      "text": "¡Pinchazo perfecto!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Qué sensación tan exagerada! Es casi como si mis\nsentidos se hubieran agudizado al máximo!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Olas de inspiración me están inundando! Me siento\ncomo si hubiera nacido de nuevo!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Haa...</i> No puede ser... ¡¿En serio funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
+    },
+    {
+      "text": "<chrname> está rebosando de tanto poder que casi no la\nreconozco!"
+    },
+    {
+      "text": "¡Arriesgamos y pagó! ¡Este es un gran salto hacia\nel logro de nuestro objetivo!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hm... Hmmm? Mi cuerpo... está tan pesado..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Mis brazos y piernas... se sienten como plomo...\nUrgh..."
+    },
+    {
+      "text": "La condición de <chrname> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso es todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿mira la hora? ¡Debería irme! ¡Adiós! ☆"
+    },
+    {
+      "text": "Debería haber sabido mejor que probar nuestra\nsuerte. Yo no soy la que sufre, y sin embargo\nestoy llena de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra de la victoria?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? ¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Muy bien, ¡déjalo en mis manos! ¡Hora de localizar\nese chakra! ¡Todos libres!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡Sin preocupaciones!\n☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ngh?!"
+    },
+    {
+      "text": "¡Pinchazo perfecto!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Qué sensación tan exagerada! Es casi como si mis\nsentidos se hubieran agudizado al máximo!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Olas de inspiración me están inundando! Me siento\ncomo si hubiera nacido de nuevo!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Haa...</i> No puede ser... ¡¿En serio funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
+    },
+    {
+      "text": "¡Puedo percibir una gran mejora en las habilidades\nde <chrname>!"
+    },
+    {
+      "text": "¡Arriesgamos y pagó! ¡Este es un gran salto hacia\nel logro de nuestro objetivo!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hm... Hmmm? Mi cuerpo... está tan pesado..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Mis brazos y piernas... se sienten como plomo...\nUrgh..."
+    },
+    {
+      "text": "La condición de <chrname> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso es todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿mira la hora? ¡Debería irme! ¡Adiós! ☆"
+    },
+    {
+      "text": "Debería haber sabido mejor que probar nuestra\nsuerte. Yo no soy la que sufre, y sin embargo\nestoy llena de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra de la salud?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? ¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Muy bien, ¡déjalo en mis manos! ¡Hora de localizar\nese chakra! ¡Todos libres!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡Sin preocupaciones!\n☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ngh?!"
+    },
+    {
+      "text": "¡Pinchazo perfecto!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Qué sensación tan exagerada! Es casi como si mis\nsentidos se hubieran agudizado al máximo!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Olas de inspiración me están inundando! Me siento\ncomo si hubiera nacido de nuevo!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Haa...</i> No puede ser... ¡¿En serio funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
+    },
+    {
+      "text": "¡Todo el cuerpo de <chrname> está irradiando un brillo\nsaludable! ¡Es la imagen absoluta de la salud!"
+    },
+    {
+      "text": "¡Arriesgamos y pagó! ¡Este es un gran salto hacia\nel logro de nuestro objetivo!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hm... Hmmm? Mi cuerpo... está tan pesado..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Mis brazos y piernas... se sienten como plomo...\nUrgh..."
+    },
+    {
+      "text": "La condición de <chrname> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso es todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿mira la hora? ¡Debería irme! ¡Adiós! ☆"
+    },
+    {
+      "text": "Debería haber sabido mejor que probar nuestra\nsuerte. Yo no soy la que sufre, y sin embargo\nestoy llena de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ya veo, ya veo. Entonces, ¿quieres que active el\nchakra del encanto?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Entonces empecemos! ¿Estás listo? ¡No hay vuelta\natrás después!",
+      "choice_data_list": [
+        "Adelante.",
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Muy bien, ¡déjalo en mis manos! ¡Hora de localizar\nese chakra! ¡Todos libres!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Ahora, solo relájate... ¿Ves? ¡Sin preocupaciones!\n☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y pinchazo!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ngh?!"
+    },
+    {
+      "text": "¡Pinchazo perfecto!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Qué sensación tan exagerada! Es casi como si mis\nsentidos se hubieran agudizado al máximo!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Olas de inspiración me están inundando! Me siento\ncomo si hubiera nacido de nuevo!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>Haa...</i> No puede ser... ¡¿En serio funcionó?!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡No puede ser! ¡No lo puedo creer! ¡Soy un genio\ntotal!"
+    },
+    {
+      "text": "¡<chrname> está rebosando de encanto! ¡Seguro que llamará\nla atención dondequiera que vaya!"
+    },
+    {
+      "text": "¡Arriesgamos y pagó! ¡Este es un gran salto hacia\nel logro de nuestro objetivo!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hm... Hmmm? Mi cuerpo... está tan pesado..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Mis brazos y piernas... se sienten como plomo...\nUrgh..."
+    },
+    {
+      "text": "La condición de <chrname> se deteriora rápidamente."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que... Eso es todo, supongo..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¿mira la hora? ¡Debería irme! ¡Adiós! ☆"
+    },
+    {
+      "text": "Debería haber sabido mejor que probar nuestra\nsuerte. Yo no soy la que sufre, y sin embargo\nestoy llena de arrepentimiento."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Oh, venga! ¡No seas así!",
+      "choice_data_list": [
+        "Rechazar.",
+        "Replantearlo."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú allí! ¡Espero que sepas que los intrusos\n<i>serán</i> procesados!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me han descubierto!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¡me voy de aquí! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Bueno, ella era sospechosa, <i>eso</i> es seguro..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Sin embargo, está poniendo una buena pelea contra\nTazuna, ... Algunas personas son solo un gran\nmisterio.",
+      "choice_data_list": [
+        "De acuerdo.",
+        "De acuerdo."
+      ]
+    },
+    {
+      "text": "Tengo curiosidad sobre quién es realmente este\npersonaje Anshinzawa, pero no sirve de nada\nrumiarlo. Mejor olvidar el día de hoy y seguir\nadelante."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Has cambiado de opinión, eh? No te preocupes,\n¡eso pasa!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Adelante, ¡dime qué chakra quieres que active,\nentonces!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡¿Bueno?! ¡No nos dejes en suspenso! Espera un\nsegundo... ¿Cuánto tiempo llevo aquí?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Tú allí! ¡Espero que sepas que los intrusos\n<i>serán</i> procesados!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Gah! ¡Me han descubierto!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, ¡me voy de aquí! ☆"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oye! ¡Alto ahí!"
+    },
+    {
+      "text": "La situación da un giro agudo antes de que pueda\ntomar una decisión."
+    },
+    {
+      "text": "¿Qué fue todo eso? <chrname> y yo nos miramos\ndesconcertados."
+    }
+  ]
+}

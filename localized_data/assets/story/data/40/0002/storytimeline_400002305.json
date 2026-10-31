@@ -1,0 +1,107 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, de camino al entrenamiento, escucho a Haru\nUrara canturreando para sí misma."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Vamos, vamos! ¡Tú puedes, Urara!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Corre rápido, corre rápido! ¡Tú puedes ganar,\nUrara!",
+      "choice_data_list": [
+        "¿Qué estás cantando?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Oh, hola, Entrenador! ¡Es una canción de ánimo\nque se me ocurrió para nuestro equipo!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Sabías que los equipos de béisbol cantan\ncanciones de ánimo para ponerse nerviosos?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Me enteré ayer de un cómic que estaba leyendo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Haru Urara hincha el pecho con orgullo. Tengo\ncuriosidad por ver qué ha ideado hasta ahora.",
+      "choice_data_list": [
+        "¿Puedo escuchar la canción?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Claro! Aunque solo estoy a la mitad."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Vamos, vamos! ¡Tú puedes, Urara! ♪ ¡Corre rápido,\ncorre rápido! ¡Tú puedes ganar, Urara! ♪"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "...",
+      "choice_data_list": [
+        "A-ah, ¿eso es todo?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí! Oh, pero puedo idear más... A ver..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Vamos, vamos! ¡Corre tan rápido como un guepardo!\n¡Corre rápido, corre rápido! ¡Escapa como un\nconejo!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Pisotón, pisotón va el elefante! ¡Rugido, rugido\nva el oso!",
+      "choice_data_list": [
+        "(¿De dónde sale esto?)"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Croac, croac va la rana! ¡Aleteo, aleteo va la\nmariposa!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ahora bailemos todos juntos! ¡Divirtámonos todos\njuntos!",
+      "choice_data_list": [
+        "(¿¡Por qué ahora hay baile!?)"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡La, la, la! ¡La-dee-da! ¡Bam-bam-crash! ¡Brilla,\nbrilla, chispa!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Gracias por escuchar!",
+      "choice_data_list": [
+        "(¡Uf, se acabó!)"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Jej, ¡eso fue súper divertido! ¿Verdad? ¡Hora de\nenseñarle las palabras a todos!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Espera... ¿Cómo era?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Jajaja! ¡Ups, lo olvidé por completo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después, se convierte en una cosa con todo el\nequipo improvisar canciones de ánimo en el\nmomento, y <chrname> también se mete mucho en eso."
+    }
+  ]
+}

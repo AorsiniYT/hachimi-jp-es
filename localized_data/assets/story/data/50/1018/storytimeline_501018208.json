@@ -1,0 +1,132 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡El Tenno Sho de otoño está a punto de comenzar!\n¡Por supuesto, todos tienen su atención puesta en\nla batalla entre la Emperatriz, Air Groove, y la\nCorredora de Otro Mundo, Silence Suzuka!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Las gradas están llenas de emoción! ¡Todos están\nal borde de sus asientos!"
+    },
+    {
+      "name": "Fan Femenina",
+      "text": "Apuesto a que Suzuka va a volar por delante y\ndejará a Air Groove en el polvo!"
+    },
+    {
+      "name": "Fan Masculino",
+      "text": "Estuve en el Sapporo Kinen, ¡así <i>que sé que </i>Air\nGroove tiene esto en el bolsillo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy a punto de despedir a Air Groove."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Hemos llegado hasta aquí.",
+      "choice_data_list": [
+        "Lo único que queda es correr.",
+        "Lo único que queda es correr."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Sí. Solo necesito dar todo lo que tengo."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Air Groove."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Suzuka..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Perdón por hacerte esperar."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Estoy tan aliviada."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Por qué?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Puedo sentir tu poder de nuevo. Has vuelto a ser\nla Air Groove que conozco tan bien."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "En realidad... no del todo."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Todavía hay algo diferente en ti ahora."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Qué quieres decir?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Te ves más rápida y aguda que la última vez que\ncorrimos. Siento que podrías adelantarme."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Eres más fuerte de lo que te he visto nunca. Esa\nes la sensación que tengo."
+    },
+    {
+      "name": "Air Groove",
+      "text": "..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Disfruté mucho corriendo en el Takarazuka Kinen."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Y al verte ahora... siento que puedo correr aún\nmás rápido que en aquel entonces."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Je."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Eso es exactamente lo que quería escuchar, Suzuka."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Espero con ansias verte correr aún más rápido que\nen el Takarazuka Kinen... antes de que te adelante\ny reclame mi victoria."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Bien. Pero no esperes que me rinda sin luchar."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Me voy ahora. Tengamos una buena carrera allá."
+    },
+    {
+      "name": "Air Groove",
+      "text": "No te preocupes. Ya no tengo miedo.",
+      "choice_data_list": [
+        "Creo en ti."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Así es. Cree en mí."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Soy la Emperatriz. Soy la retadora que impulsa a\ntodas las Uma Musume hacia adelante."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Y... soy tu ideal."
+    }
+  ]
+}

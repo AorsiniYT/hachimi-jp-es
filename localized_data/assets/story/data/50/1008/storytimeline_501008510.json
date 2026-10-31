@@ -1,0 +1,297 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, Vodka y yo damos un paseo por el parque\ncuando escuchamos un fuerte grito de Daiwa\nScarlet."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡E-eh! ¿Cuántas veces tengo que decirte que no\ntires de mi cola? ¡Ugh!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Eh? ¿Qué escándalo arma Scarlet ahora?"
+    },
+    {
+      "name": "Niños",
+      "text": "¡Ajaja! ¡Tu cola es tan suave!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Vamos, deja de agarrarla ya!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Haa... Haa...</i> ¡Caray!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Qué onda, Scarlet? Parece que te estás\ndivirtiendo con estos pequeños problemáticos."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Perdón?! ¡Estás bromeando, ¿verdad?!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Si a ti te parece divertido, eres más que\nbienvenida a ocupar mi lugar!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Nah, estoy bien. No quiero robarte el\nprotagonismo."
+    },
+    {
+      "name": "Vodka",
+      "text": "Vamos, Entrenador."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡E-eh! ¿Me vas a dejar aquí plantada?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Supongo que <i>podría</i> ayudarte, pero me deberás un\nfavor."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ugh... ¿Por qué tengo que deberte <i>a ti?!</i>",
+      "choice_data_list": [
+        "¿Por qué no la ayudas de una vez?",
+        "¿Por qué no la ayudas de una vez?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Eh? Hombre... Eres demasiado amable, Entrenador."
+    },
+    {
+      "name": "Vodka",
+      "text": "Está bien, está bien. Le echaré una mano."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Oye, ustedes, mocosos! No molesten <i>demasiado a\nScarlet, ¿vale?</i>"
+    },
+    {
+      "name": "Vodka",
+      "text": "Si quieren jugar tanto, ¿por qué no juegan conmigo\nen su lugar?"
+    },
+    {
+      "name": "Niño A",
+      "text": "¿En serio? ¡Hurra!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Y-ya soy libre... Ugh, estoy totalmente agotada..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Caray, ¿solo por eso? ¿Seguro que no estás\nesquivando el entrenamiento?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Qué?! ¡Claro que no! ¡Estos niños tienen\ndemasiada energía!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Todos los niños son así. Realmente les tienes que\ndar toda tu energía, así que necesitas una buena\ncantidad de resisten—"
+    },
+    {
+      "name": "Vodka",
+      "text": "...cia. ¿Resistencia?"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Espera, ya sé! Esto podría ser una buena forma de\nentrenar."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Oye, Entrenador! ¿Tienes ideas de entrenamiento\npara niños?",
+      "choice_data_list": [
+        "¡Es hora de jugar a las escondidas!",
+        "¡Es hora de jugar a las escondidas!",
+        "¿Qué tal el gimnasio de la selva?",
+        "¿Qué tal el gimnasio de la selva?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Oye, Entrenador! ¿Tienes ideas de entrenamiento\npara niños?",
+      "choice_data_list": [
+        "¡Es hora de jugar a las escondidas!",
+        "¡Es hora de jugar a las escondidas!",
+        "¿Qué tal el gimnasio de la selva?",
+        "¿Qué tal el gimnasio de la selva?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Las escondidas! ¡Buena idea! ¡Básicamente es todo\ncorrer!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Jeje. Estos mocosos no me van a ganar en velocidad\npronto."
+    },
+    {
+      "name": "Vodka",
+      "text": "A ver... ¡Scarlet debería ser 'la que pilla'\nprimero!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Espera un segundo! ¿Por qué tengo que jugar yo\ntambién?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Quiero decir, eres la única que tiene oportunidad\nde atraparme."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Eso es cierto... ¡Eh, espera!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Por qué tú eres una de las que corren? ¡Ve tú a\nser 'la que pilla'!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Vamos, todos! ¡Tenemos que huir de Scarlet!"
+    },
+    {
+      "name": "Niños",
+      "text": "Ahhh!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡E-eh! ¡Esperen!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Momentos después, Vodka y los niños están\ncorriendo por todo el parque, con Scarlet\npisándoles los talones."
+    },
+    {
+      "name": "Vodka",
+      "text": "<i>Haa, resuello...</i>"
+    },
+    {
+      "name": "Vodka",
+      "text": "Correr... así... realmente te deja sin aliento!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Haa, resuello...</i> ¿Cómo me... metí en esto?"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Jaja, lo dices como si no estuvieras esforzándote\nal máximo para atraparme!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hrk... N-no, ¡no era así!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Jaja! ¡No tienes que esconderlo!"
+    },
+    {
+      "name": "Vodka",
+      "text": "De todos modos, está bien correr como niños de vez\nen cuando, ¿verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras charla con Scarlet, la expresión de Vodka\nse suaviza en una sonrisa especialmente cálida y\nsatisfecha."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿El gimnasio de la selva? ¡No es mala idea!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Muy bien, ¡seré la primera en llegar arriba!"
+    },
+    {
+      "name": "Niño A",
+      "text": "¡Oye, no es justo! ¡Espera!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Jeje. ¡Intenta llegar arriba primero si no te\ngusta!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Suspiro...</i> No se supone que compitas con ellos\ncomo si estuvieran a tu nivel."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Qué se supone que significa eso?!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Solo estoy diciendo la verdad! ¡Todo en ti es\ninfantil!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Cómo <i>te sentirías </i>tú si un rival en la pista te\nsubestimara?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Si te menospreciaran... como si pudieran vencerte\ndormidos."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Me sentiría insultada, por supuesto. No los\ndejaría salirse con la suya."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Verdad? Lo mismo aplica para estos niños."
+    },
+    {
+      "name": "Vodka",
+      "text": "No es divertido si los tratas como si no\nimportaran."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡...!"
+    },
+    {
+      "name": "Vodka",
+      "text": "No tomarte en serio a tu rival es básicamente lo\nmás patético que se me ocurre."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Así que voy a correr hasta la cima antes que\nnadie!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Uf... Definitivamente voy a estar adolorida\nmañana. Mis brazos y piernas siento que se van a\ncaer."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Eh? ¿Qué es esa mirada, Scarlet? Solo dilo y\nllámame infantil de nuevo."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "No tiene sentido."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Qué se supone que significa eso?!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Quiero que guardes toda tu energía para cuando\ncorras <i>contra mí!</i>"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Pero no tiene sentido decírtelo, ya que de todos\nmodos no me harías caso."
+    },
+    {
+      "name": "Vodka",
+      "text": "Jeje, por supuesto que no. ¡Pero sabes que nunca\nte daría nada más que todo lo que tengo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No importa contra quién se enfrente Vodka en la\npista en el futuro, estoy segura de que nunca dará\nmenos que todo."
+    }
+  ]
+}

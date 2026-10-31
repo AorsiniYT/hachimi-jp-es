@@ -1,0 +1,113 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Llevo a Oguri Cap a cenar como recompensa por su\ncontinuo éxito en las carreras G1."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "<i>...Gulp.</i> Oye, ¿podría pedir otra hamburguesa?",
+      "choice_data_list": [
+        "¿Y-y aún puedes comer?",
+        "¿Y-y aún puedes comer?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿No dijiste que podía llenar la barriga?",
+      "choice_data_list": [
+        "Bueno, sí...",
+        "Bueno, sí..."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "En realidad, mejor no. En su lugar..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Terminaré con un poco de ensalada. ¿Te importa si\npido diez ensaladas de maíz?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Queriendo recompensarla por su repetido éxito en\nlas carreras G1, asiento e intento olvidarme de mi\npobre billetera."
+    },
+    {
+      "name": "Transeúnte A",
+      "text": "¡Oye, mira! ¿No es esa Ogurin?"
+    },
+    {
+      "name": "Transeúnte B",
+      "text": "¡Oh por Dios, tienes razón! ¡Oguriiin!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...¿Ogurin?"
+    },
+    {
+      "name": "Transeúnte B",
+      "text": "¡Guau! ¡Nos miró! ¡Es <i>tan</i> genial!"
+    },
+    {
+      "name": "Transeúnte B",
+      "text": "¡Somos grandes admiradores tuyos, Ogurin! ¡Buena\nsuerte en tu próxima carrera!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "O-oh... Gracias."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Recientemente, Oguri Cap ha estado encabezando\ntodas las listas de popularidad—incluso aquí en la\nciudad. Supongo que eso es lo que pasa cuando\ncompites en suficientes carreras.",
+      "choice_data_list": [
+        "¡¿No es genial?!",
+        "¡¿No es genial?!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí... Me hace feliz saber que la gente está de mi\nlado."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Espero contar con su apoyo en la próxima carrera\ntambién.",
+      "choice_data_list": [
+        "Esa será el Tenno Sho de otoño, ¿verdad?",
+        "Esa será el Tenno Sho de otoño, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí. Tama ha estado esperando este desafío, así que\nnecesito seguir mejorando mi juego."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Es como si un fuego se hubiera encendido en mi\ninterior."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Después de terminar con estas ensaladas, voy a\npedir cincuenta hamburguesas grandes!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus ojos brillantes están resplandeciendo tanto\nahora, que casi ciegan."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...¿Espera, qué? ¿Quieres decir que este lugar <i>no</i>\nes de todo lo que puedas comer?!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "L-lo siento mucho... Pensé que era algún tipo de\nbuffet..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...¡Oye! ¿Estás bien?! ¡Despierta!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso, las celebraciones por las victorias de\nOguri Cap en carreras G1 llegan a su fin."
+    }
+  ]
+}

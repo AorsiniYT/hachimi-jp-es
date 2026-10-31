@@ -1,0 +1,209 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Meisho Doto",
+      "text": "¡Lo logré! Esto no es un sueño—¡realmente hice mi\ndebut!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Pasé la puerta de salida, y no choqué con las\nbarreras, y mira—estoy tan energética!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Podría... podría... c-c-c-c—¡Caaaagh..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Pum!</i>"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Doto, qué te pasa?! ¡Doto! ¡Dotooooo!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "...¡Continuará!",
+      "choice_data_list": [
+        "¡No! ¡Llama a una ambulancia!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Wii wuu wii wuu...</i>"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ahhh... Lo siento por causar todos estos\nproblemas."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Caray, casi me da un infarto al escuchar lo que\npasó. Me alegra que no sea nada serio."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El examen no revela lesiones graves. Sin\nembargo..."
+    },
+    {
+      "name": "Doctor",
+      "text": "Podemos tachar el agotamiento y la anemia de la\nlista. En pocas palabras, tu colapso no fue\ncausado por fatiga."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Eh? Entonces... ¿por qué me desmayé?"
+    },
+    {
+      "name": "Doctor",
+      "text": "Aunque esto no es común en absoluto, mi conjetura\nsería..."
+    },
+    {
+      "name": "Doctor",
+      "text": "Tu cuerpo, quizás, aún no ha entrado en el estado\n\"listo para carrera\".",
+      "color_text_info_list": [
+        "listo para carrera"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "\"Listo para carrera...\" ¿Eso no es..."
+    },
+    {
+      "name": "Médica",
+      "text": "Ejem... Permíteme explicar los detalles del estado\n\"listo para carrera\"."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Saliendo desde detrás del médico, una médica se\nhace cargo de la conversación."
+    },
+    {
+      "name": "Médica",
+      "text": "Cuando una Umamusume alcanza cierta etapa de\nadolescencia, su cuerpo comienza a desarrollarse\nrápidamente."
+    },
+    {
+      "name": "Médica",
+      "text": "Nos referimos a ese período de crecimiento como\nconvertirse en \"listo para carrera\"."
+    },
+    {
+      "name": "Médica",
+      "text": "Este es el momento en que el atleta interior\ndespierta, alcanzando eventualmente el pico de sus\ncapacidades. Después, este pico eventualmente se\ndebilitará con el tiempo."
+    },
+    {
+      "name": "Médica",
+      "text": "Es importante saber cuándo una Umamusume ha\ncomenzado su desarrollo de listo para carrera. El\nreto es que no puede ser diagnosticado\nobjetivamente."
+    },
+    {
+      "name": "Médica",
+      "text": "El único método de diagnóstico es esencialmente\ninstinto—la atleta misma tendrá que sentir un\ncierto cambio."
+    },
+    {
+      "name": "Médica",
+      "text": "Por ejemplo, tu cuerpo puede sentirse inusualmente\nligero, desarrollas un apetito muy fuerte, y ahora\neres capaz de hacer cosas que antes eran\nimposibles para ti."
+    },
+    {
+      "name": "Médica",
+      "text": "Si experimentas algún cambio como este durante tu\ncrecimiento, entonces es muy posible que hayas\nentrado en la etapa de listo para carrera."
+    },
+    {
+      "name": "Médica",
+      "text": "Un método para confirmarlo por ti misma es\nparticipar en una carrera de prueba."
+    },
+    {
+      "name": "Médica",
+      "text": "Usualmente, cuando una Umamusume confirma su fase\nde crecimiento al evaluar su prueba, firma un\ncontrato con una entrenadora."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Si quiero saber si estoy lista para carrera...\nDebería unirme a una carrera de prueba."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Siento que ya lo hice. O sea... Debería haber..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Lo hice... corrí en una carrera de prueba,\n¿verdad, Entrenador?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Recuerdo cuando conocí a Meisho Doto, pero..",
+      "choice_data_list": [
+        "...¡No lo hiciste!",
+        "...¡No lo hiciste!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Quéeee? ¡Oh, por qué soy tan <i>distraída?!</i>¡Me salté\nlas pruebas y fui directo a mi debut!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Lo siento, lo siento, lo siento mucho,\nEntrenador..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "He arruinado todo de verdad. Quizás lo hice bien\nen mi debut... pero quizás eso no continúe en el\nfuturo, nnngh..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Tranquila, Doto... No es una situación tan mala."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Esto solo significa... Mi única opción ahora..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Nooo, no entres en pánico! Renunciar es lo último\nque deberías—"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Haré lo mejor que pueda! Paso... a paso..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Como no estoy lista para carrera, no puedo\nlanzarme de lleno a carreras grandes, pero si\ncorro en carreras más pequeñas..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Puede que sea un caso perdido, puede ser\nimposible, pero si subo gradualmente, paso a\npaso..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Entonces quizás, al menos, la gente me reconocerá\ncomo una corredora que has entrenado. ¿Eso... está\nbien?",
+      "choice_data_list": [
+        "¡Por supuesto que sí!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuando se trata de no rendirse, ella está en otra\nliga comparada con las demás. Decidimos esperar\nhasta que su cuerpo parezca listo."
+    },
+    {
+      "name": "Médica",
+      "text": "Bueno, nunca descartes la posibilidad de una\nsolución infalible. ¡Podría ser la solución\nperfecta a tus preocupaciones!"
+    },
+    {
+      "name": "Médica",
+      "text": "Y ahora... ¡a revelar mi disfraz! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Fwup!</i>"
+    },
+    {
+      "name": "Médica",
+      "text": "¿Qué tal un pinchazo rápido? ¿Uno para el camino?",
+      "choice_data_list": [
+        "No, estamos bien."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dejando a un lado a la extraña \"médica\", decidimos\nacumular experiencia en carreras gradualmente. Si\nMeisho Doto aumenta su número de fans, su\nconfianza sin duda seguirá."
+    }
+  ]
+}

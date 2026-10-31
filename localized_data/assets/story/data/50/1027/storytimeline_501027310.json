@@ -1,0 +1,106 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Ryan lucha duro, pero al final, no puede\nigualar a Oguri Cap, que está por encima del\nresto."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "<i>Resuello, resuello...</i> No sirvió de nada... Pensé\nque la tenía, pero Oguri siguió adelante..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ese poder... Qué carrera tan increíble... ¿Ella\nplaneó que sucediera así? ¿Es simplemente tan\ntalentosa?",
+      "choice_data_list": [
+        "Buen trabajo, Ryan."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Oh, gracias, Entrenador. Lo siento... no pude\nganarla."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ella era tan fuerte. Así es como es realmente una\nsuperestrella.",
+      "color_text_info_list": [
+        "superestrella"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Tú también lo hiciste bien allá afuera."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡¿Oguri Cap?!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Nunca esperé que una corredora de año clásico\nllegara aquí."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hagámoslo de nuevo el próximo año. A la misma\nhora, en el mismo lugar. Estoy emocionada de ver\ntu progreso."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Por supuesto! ¡Sería un honor, Oguri!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Y voy a seguir mejorando, incluso más que tú.\nPorque tengo hambre de ganar."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Eh? E-está bien..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de declarar extrañamente su próxima\nvictoria, Oguri Cap se aleja."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Entrenador, mírame. Mis piernas..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "No puedo dejar de temblar. Ella es una persona tan\ngraciosa, pero también me asusta..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las piernas de Ryan están temblando. Es justo como\ncuando le tenía miedo a Mejiro McQueen."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Pensé que me había fortalecido un poco, pero aún\ntengo un largo camino por recorrer..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Pero no voy a amargarme por eso! ¡Tengo que\nanimarme para el próximo año!",
+      "choice_data_list": [
+        "Correcto. ¿Qué carrera quieres establecer como tu\nobjetivo?"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Mi próximo objetivo... En realidad, ya he tomado\nuna decisión al respecto."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Quiero participar en el Tenno Sho de primavera!\nUsaré esta experiencia en una carrera contra\nMcQueen, ¡así que por favor ayúdame a prepararme!",
+      "choice_data_list": [
+        "¡De acuerdo, hagámoslo!",
+        "¡De acuerdo, hagámoslo!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le doy un gran asentimiento. La carrera de hoy\nservirá como una gran fuente de motivación para su\npróxima competencia."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Tenno Sho de primavera—su revancha con Mejiro\nMcQueen seguramente será una batalla para\nrecordar."
+    }
+  ]
+}

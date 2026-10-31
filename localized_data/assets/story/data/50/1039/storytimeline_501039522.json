@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mientras camino por el pasillo, veo a la Princesa\nKawakami abrumada por la tristeza."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Ughh! ¡Mi cara de princesa! ¿¡Cómo?! ¡Esto no\ndebería ser posible!",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Escucha esto, Entrenador! Ayer, quería hacer un\npoco de cuidado de la piel, así que intenté usar\nuna mascarilla de pepino..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Y una mascarilla de barro, y una de té, y una de\nmiel todo a la vez! ¡Pero mi piel! ¡Se ha vuelto\náspera!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¿No deberían <i>todos</i> los aspectos de una princesa\nser fuertes y nobles? ¿Cómo puede mi rostro caer\nen un estado tan desgraciado?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Resulta que la Princesa Kawakami está desanimada\npor sus problemas de piel."
+    }
+  ]
+}

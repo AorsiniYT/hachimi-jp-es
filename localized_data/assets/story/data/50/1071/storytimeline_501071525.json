@@ -1,0 +1,173 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, cuando visité la biblioteca para devolver\nalgunos materiales de referencia que he tomado\nprestados..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Oh, Entrenador. ¿Tienes algún asunto que atender\naquí también?",
+      "choice_data_list": [
+        "Sí. ¿Tú también, Ardan?",
+        "Sí. ¿Tú también, Ardan?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Sí, he venido a hojear algunos libros de historia.\nPoca gente sabe esto, pero esta biblioteca en\nrealidad alberga una extensa colección sobre\nhistoria."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "A menudo vengo aquí en mi tiempo libre para hacer\nuso de ella.",
+      "choice_data_list": [
+        "Claro, recuerdo que te gustan los libros de\nhistoria.",
+        "Claro, recuerdo que te gustan los libros de\nhistoria."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Sí. ...Son absolutamente cautivadores."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Estas páginas guardan los logros del pasado,\npermaneciendo para que los exploremos ahora, lo\nque me emociona enormemente..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Al indagar en la vida de quienes nos precedieron y\nsentir lo que los historiadores experimentaron, mi\npropio mundo se expande con emoción."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Cada vez que me sumerjo en uno de estos libros,\nsiento que espero vivir mi propia vida con tal\nsinceridad."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Siento que gano algo similar a... el valor\nnecesario para aprovechar los momentos que tengo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al detectar un indicio de emoción en la voz de\nMejiro Ardan, me encuentro queriendo experimentar\nla sensación que ella describe...",
+      "choice_data_list": [
+        "Estoy pensando en leer un libro de historia yo\ntambién.",
+        "Estoy pensando en leer un libro de historia yo\ntambién."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¡Oh, vaya! ¿De verdad quieres?"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Bueno, eh, en ese caso, si está bien contigo..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Por favor, permíteme ayudarte a buscar un libro\npara leer.",
+      "choice_data_list": [
+        "¿No te importa ayudar?",
+        "¿No te importa ayudar?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¡Para nada!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Así que, ¿alguna vez has querido leer un tipo\nparticular de libro de historia? Me gustaría hacer\nuna recomendación tan informada como sea posible."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Conociendo a Mejiro Ardan, no tengo duda de que\nella conoce el género a fondo. Debería ver qué\nrecomienda."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me gustaría leer un libro de historia que sea...",
+      "choice_data_list": [
+        "Lleno de eventos tumultuosos.",
+        "Accesible para principiantes.",
+        "Uno que te guste, Ardan."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Lleno de eventos tumultuosos... Entonces quizás\nuno que relate el ascenso y caída de un imperio\nsería de tu agrado?"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "A medida que las personas se enfrentan al posible\ncolapso de su propia civilización, sus myriad de\ndecisiones hacen olas en la historia y resultan en\nuna gran cantidad de tumulto."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Tengo unos cuantos buenos libros en mente. ¿Los\nechamos un vistazo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En poco tiempo, Mejiro Ardan me da su\nrecomendación seleccionada a mano."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus palabras resuenan en mi mente mientras leo el\nlibro de historia que ella eligió, y obtengo un\nvistazo de las cosas que ella atesora..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Accesible para principiantes... Entonces quizás\nuno que se centre en una figura histórica\nespecífica sería de tu agrado."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Los eventos históricos de su vida son transmitidos\ndesde su perspectiva, de la misma manera que la\nhistoria de una novela se cuenta a través de los\nojos de sus personajes."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Tengo unos cuantos buenos libros en mente. ¿Los\nechamos un vistazo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En poco tiempo, Mejiro Ardan me da su\nrecomendación seleccionada a mano."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus palabras resuenan en mi mente mientras leo el\nlibro de historia que ella eligió, y obtengo un\nvistazo de las cosas que ella atesora..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¡Un libro que a <i>mí</i> me gusta! Bueno, estaría\nperfectamente contenta de recomendar uno de esos,\npero..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Me pregunto qué debería hacer.",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Esto es muy embarazoso, pero eh... Simplemente\ntengo tantos favoritos que no puedo reducir la\nselección."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Tampoco he tenido muchas oportunidades como esta\npara recomendar libros de historia...",
+      "choice_data_list": [
+        "¿Por qué no me dices qué te gusta de todos tus\nlibros favoritos?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Entendido. Entonces haré precisamente eso—con\ngran detalle, y lo mejor que pueda!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Luego, mientras observo la presentación del libro\nde historia de Mejiro Ardan desarrollarse..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtengo un vistazo de las cosas que ella atesora\npor la forma en que habla con tanta emoción sobre\nsus libros de historia favoritos..."
+    }
+  ]
+}

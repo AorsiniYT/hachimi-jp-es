@@ -1,0 +1,248 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy, Vodka y Daiwa Scarlet tienen una entrevista\npara un reportaje de revista sobre \"Rivales\". Todo\nva bien..."
+    },
+    {
+      "name": "Fotógrafa",
+      "text": "...¡Y eso es todo! ¡Tenemos todo lo que\nnecesitamos! ¡Buen trabajo, ambas!"
+    },
+    {
+      "name": "Vodka y Daiwa Scarlet",
+      "text": "¡Gracias! ¡Gracias! ♪"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Uf... Finalmente, terminamos."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Tener que pasar todo el tiempo contigo fue\nhorrible."
+    },
+    {
+      "name": "Vodka",
+      "text": "..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Q-qué me miras así? Si tienes algo que decir,\n¡adelante, dilo!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Tu ropa de carrera es tan volante."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Qué? ¿Por qué sacas eso ahora?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Ahora que tuve la oportunidad de mirarla bien, me\ndi cuenta de lo loca que es. Me sorprende que\npuedas correr con todo eso revoloteando."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Te estás burlando de mí?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Para nada. Simplemente no es mi estilo, eso es\ntodo."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Eso me recuerda. Hay algo que he querido\npreguntarte desde hace rato."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Nunca puedo decidir si tu ropa de carrera se ve\nsexy para correr o genial."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Ohhh! ¡Así que lo notaste!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...¿Eh?"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Me aseguré de que tuviera de todo, para que fuera\nsúper genial al máximo!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Oye, los cinturones son geniales, ¡así que tengo\nun montón! Y aunque son de cuero, son ligeros y\nsúper fáciles para correr con ellos!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡El equilibrio entre lo atrevido y lo elegante es\nlo que lo hace tan genial! ¡Eso muestra mi\nnaturaleza dual... ¿Sabes?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Es por eso que corro tan bien... No podría\ndetenerme ni aunque lo intentara... Je."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...¿Quieres decir que no puedes dejar de ser tan\ntonta, verdad?"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Estás diciendo que no crees en la maestría de lo\natrevido y lo elegante en mi ropa de carrera\ncaracterística?"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Creo que tendré que hacerte entender!",
+      "choice_data_list": [
+        "¡Muéstrale qué tan bien corres!",
+        "Una carrera podría ser la forma más rápida de\nresolver esto..."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Oh, eso es perfecto! Después de todo, ver es\ncreer!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Mira esto, Scarlet! ¡Te voy a mostrar una carrera\nmaestra que nunca olvidarás!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Realmente no estoy interesada."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Oye, que mi ropa me dé poder es súper genial!\n¡Soy como una superheroína!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Caramba, apuesto a que hoy voy a recortar unos\nsegundos de mi tiempo! Asegúrate de cronometrarme,\nEntrenador!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ni siquiera me estás escuchando... Realmente eres\nuna total tonta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dándole el gusto a una Vodka muy emocionada,\ncronometro su carrera..."
+    },
+    {
+      "name": "Vodka",
+      "text": "<i>Jadeando, jadeando...</i> ¿Cómo me fue, Entrenador?",
+      "choice_data_list": [
+        "¡Increíble! ¡Superaste tu mejor tiempo!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Estás bromeando, verdad?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Jeje. ¿Viste eso, Scarlet? ¡Conseguí mi mejor\ntiempo de siempre!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Whooo! ♪ ¡Se sintió bien! ¡Voy a seguir!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Solo te obligaste a ti misma a batir tu récord?\nLos tontos como tú realmente dan miedo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Observamos a Vodka correr alegremente, mientras\nDaiwa Scarlet murmura entre dientes con lo que\npodría ser un toque de celos."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Qué? ¿Una carrera? ¿Podrías no involucrarme en\nesto, por favor?"
+    },
+    {
+      "name": "Vodka",
+      "text": "...Ah, ya veo. Y como Scarlet también lleva su\nropa de carrera característica, realmente podemos\ncompararnos."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Tengo justo lo que necesitas! ¡Ven conmigo!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Muy bien. ¡Empecemos con pesas libres! Después,\n¡nos enfrentaremos con equipo!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Odio esto, pero supongo que tengo que\npreguntar. ¿Por qué estamos en el gimnasio?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Escucha. Esta es una carrera entre las dos para\nver quién ha dominado realmente sus naturalezas\nduales."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Yo con el estilo atrevido y elegante, o tú con el\nestilo con volantes y enérgico?"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Veamos quién ha logrado sacar ambos lados mejor!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Tonta! ¡Realmente piensas las cosas más\nestúpidas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al final, Vodka sigue insistiendo y la batalla\ncomienza..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Muy bieeen! ¡Gané otra vez!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Ugh!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Jeje. ¿Qué pasa, Scarlet? ¡Hoy te estoy barriendo!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "P-pero esto es..."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Oye, ¿qué crees que esas dos están haciendo con su\nropa de carrera característica?"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Quién sabe... ¿Practicando para algo, quizás?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡No hay forma de que pueda concentrarme con toda\nesta gente alrededor!"
+    },
+    {
+      "name": "Umamusume C",
+      "text": "Eh, Scarlet? ¿Qué estás haciendo?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ehehe, ¡no mucho! No hay nada que ver aquí, todos.\nOlviden que vieron algo.☆"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Pero en cuanto a ustedes dos... más les vale\ncreer<i>que voy a</i> recordar esto."
+    },
+    {
+      "name": "Vodka",
+      "text": "...¿Viste esa cara? Da miedo..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Olvidé que cuando se trata de tener naturalezas\nduales, Scarlet siempre es la número uno..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Vodka ganó la batalla, pero perdió la\nguerra..."
+    }
+  ]
+}

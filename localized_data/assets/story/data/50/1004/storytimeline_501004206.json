@@ -1,0 +1,61 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es el día del Osaka Hai, la carrera G1 de\nprimavera que siempre atrae a los competidores más\nfuertes..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Jeje! Los fans están realmente emocionados,\n¿verdad?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Por supuesto, yo también estoy súper emocionada,\nporque voy a correr con Rudolf!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Quiero descubrir qué tan fuerte es alguien\nllamado \"el Emperador\"!",
+      "choice_data_list": [
+        "¡Pisa el acelerador a fondo!",
+        "¡Pisa el acelerador a fondo!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Jeje, ¡no hay límite de velocidad en la hierba!\n¡Es primera marcha o nada!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Oh, ahí está Maruzensky! ¡Grass, mira!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Cálmate, Spe. Se supone que debes mantener la\ncalma en el paddock."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oye, ustedes! ¿Vinieron todo el camino a Hanshin\npara ver la carrera?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sí, quería verte correr con mis propios ojos."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Preparándote para el Yasuda Kinen, eh? ¡En ese\ncaso, tendré que darlo todo!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Yo también te estaré animando, así que hazlo lo\nmejor posible!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Sí! ¡No puedo quedar mal frente a estas queridas\npequeñas estudiantes!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Les daré una carrera increíble que demuestre que\nsoy digna de ser perseguida!"
+    }
+  ]
+}

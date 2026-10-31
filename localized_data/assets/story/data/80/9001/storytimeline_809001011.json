@@ -1,0 +1,67 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Tazuna me invita a una visita al santuario de Año\nNuevo un poco tardía."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Guau... Las festividades de Año Nuevo ya\nterminaron, pero todavía hay mucha gente aquí!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Jeje, hablando de las multitudes de mediados de\ninvierno, esto me recuerda al Arima Kinen del año\npasado.",
+      "choice_data_list": [
+        "¡Así es, hubo una gran asistencia!"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡¿No que sí?! ¡Es el gran evento de fin de año,\ndespués de todo! ¡El final perfecto para todas las\ncarreras G1 que comienzan en otoño!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Y hablando del Arima Kinen, es una carrera\nrealmente importante para tantas Umamusume."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Solo los pocos elegidos pueden pararse en ese\nescenario—los que mejor se desempeñaron ese año y\nganaron los corazones de los aficionados..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Corredores de cada generación sueñan con pararse\norgullosos en el Hipódromo de Nakayama al final\ndel año.",
+      "choice_data_list": [
+        "¿Cada generación, eh?"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Así es... Todas lo anhelan."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Y de alguna manera, yo también siento ese anhelo!\nSé que está un poco lejos, pero ¿por qué no vamos\nal Hipódromo de Nakayama para echar un vistazo\nrápido?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Jeje. Visitar un santuario por el Año Nuevo está\nbien y todo, pero el bullicio del hipódromo está\nen otro nivel completamente diferente!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Hay gente en el hipódromo para ver correr a las\nUmamusume hoy también."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Entrenador. Por favor, continúa apoyando a tu\npupila."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Estaré animando a las dos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo la sensación de que mi amistad con Tazuna\nseguirá creciendo desde aquí."
+    }
+  ]
+}

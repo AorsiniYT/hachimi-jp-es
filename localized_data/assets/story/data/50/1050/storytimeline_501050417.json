@@ -1,0 +1,21 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin hace un trabajo fantástico en su\ncarrera debut, pero su viaje apenas ha comenzado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si quiere ser vista como una corredora\ncompletamente capaz, tendrá que superar uno de los\ndesafíos más difíciles que existen."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hace de la Triple Corona Clásica su objetivo\nprincipal para el próximo año, y para prepararse\nmejor, decidimos que corra en el Hopeful Stakes.",
+      "color_text_info_list": [
+        "Clásica",
+        "Hopeful Stakes"
+      ]
+    }
+  ]
+}

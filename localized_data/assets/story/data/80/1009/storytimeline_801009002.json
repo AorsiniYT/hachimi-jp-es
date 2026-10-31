@@ -1,0 +1,74 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras camino por la pista de\nentrenamiento..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Ay! Caray, eso dolió..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet se detiene de repente en medio de la\npista."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me pregunto si se lastimó en algún lado?",
+      "choice_data_list": [
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Eh? Oh, no es nada. Solo me salió una ampolla,\nnada más."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Por casualidad tienes vendas contigo?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Me gustaría correr un poco más, así que solo\nnecesito parchar esto rápido.",
+      "choice_data_list": [
+        "¿Quieres que lo haga por ti?",
+        "¡Deberías ir a la enfermería, por si acaso!",
+        "¡Deberías ir a la enfermería, por si acaso!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Me gustaría correr un poco más, así que solo\nnecesito parchar esto rápido.",
+      "choice_data_list": [
+        "¿Quieres que lo haga por ti?",
+        "¡Deberías ir a la enfermería, por si acaso!",
+        "¡Deberías ir a la enfermería, por si acaso!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Oh, qué buena oferta. Qué considerado de tu parte."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Acepto. ¡Asegúrate de poner la cinta bien\najustada!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hm, no está mal. Creo que puedo correr con esto.\nGracias. Todavía duele un poco, pero supongo que\nno se puede hacer nada al respecto."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Mira, dije que estoy bien. Honestamente, estás\nhaciendo un drama de la nada."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Pero... supongo que podría correr con más\ntranquilidad si lo trato adecuadamente ahora..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Suspiro...</i> Bueno. Haré que la enfermera lo vea."
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es verano, hora de que las Umamusume afronten\nnuevos desafíos en el campamento de entrenamiento\nplayero y soleado."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Adelante... hacia la belleza"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Chapoteo, salpicadura</i>"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ja, ahora brilla"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Salpicadura</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Opera O parece disfrutar jugando en el agua,\naunque no tengo idea de qué tipo de régimen es\neste."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "<i>Respiración agitada...</i> Bueno, entrenador, ¿te\ninspiró la fantasía de mi entrenamiento en el\nagua!",
+      "choice_data_list": [
+        "Mostraste mucho espíritu.",
+        "Mostraste mucho espíritu."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ja ja ja ja, excelente observación, como siempre.\nEl tema de esta actuación fue \"liberar mi\nverdadero yo\"."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "No solo se ganan músculos fuertes en el mar,\ntambién hay una fuerza interior que se puede\nobtener al expresar libremente el verdadero yo."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Mi onda en el agua es a veces serena y a veces\nturbulenta. Lo que verás ahora haría que una\nsirena se ponga verde de envidia"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "Oh, escuché hablar de ella. Es realmente... algo,\n¿no? Sé que es divertido salpicar en el agua, pero\naún así..."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Oh, eh, je je... Sí, para alguien como Opera O,\ntiene sentido. Incluso cuando corre, está\nrealmente, eh, a gusto"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No importa lo que digan las personas que nos\nrodean, Opera O continúa con determinación\nsingle-minded."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ahora un giro amplio aquí, rozar la arena de esta\nmanera... y revolotear como una mariposa"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Las nubes blancas, el mar azul, las olas\nrugientes y la hermosa <i>yo!</i> ¡Este verano solo\nocurrirá una vez, así que debo usar cada onza de\nmi ser!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ahora estoy aún menos seguro de qué está haciendo,\npero lo está haciendo con entusiasmo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Opera O está persiguiendo su objetivo sin vacilar,\nasí que su entrenador no puede simplemente\nsentarse y mirar.",
+      "choice_data_list": [
+        "Hagamos que este sea el mejor campamento de\nentrenamiento"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Bien dicho, mi entrenamiento será incansable como\nlas mareas, mi armonía con el vasto océano hará\nque la playa misma cante"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de nuestro largo día de entrenamiento,\nestoy de vuelta en los dormitorios tomando un\ndescanso muy necesario."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ahí estás, entrenador.",
+      "choice_data_list": [
+        "Hola, ¿qué pasa",
+        "Hola, ¿qué pasa"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Bueno, vengo con un asunto importante que\ndiscutir."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Pero primero, me gustaría ajustar la hora en que\nempezamos mañana. ¿Qué dices de las 4 a.m.",
+      "choice_data_list": [
+        "Eso es muy temprano"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Temprano, dices... Ah, tienes razón, verano es,\npero el sol aún no ha salido a esa hora."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Necesitaríamos más luz solar para un telón de\nfondo adecuado durante mi actuación. Estoy de\nacuerdo, es mejor esperar un poco más para\nempezar."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Mmm... Entonces, una vez que hayamos comenzado,\nentraré en el agua lentamente, mientras me peino\nel cabello de manera dramática."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Como un pez acurrucado entre anémonas de mar, me\nbalancearé y sincronizaré con las olas en una\ndanza elegante.",
+      "choice_data_list": [
+        "Algunas anémonas son venenosas, así que debemos\ntener cuidado con ellas...",
+        "Algunas anémonas son venenosas, así que debemos\ntener cuidado con ellas..."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "De verdad, no lo sabía. Entonces me aseguraré de\nno acercar demasiado mis extremidades a ellas."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Y después de una pausa dramática, surgiré del mar,\ncantando mientras las gotas saladas caen a mi\nalrededor, incluso las sirenas del mediodía se\nenamorarán de mi voz",
+      "choice_data_list": [
+        "¿Vas a cantar también",
+        "¿Vas a cantar también"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Al igual que un concierto después de una carrera,\nsiempre debemos coronar las cosas con una canción\nque conmueve el corazón."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Los bañistas se conmoverán hasta las lágrimas\nmientras me celebran con aplausos atronadores. Ah,\nserá perfecto"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ja ja ja ja, estoy llena de emoción para mañana,\nhasta que nos volvamos a encontrar en el campo de\nentrenamiento",
+      "choice_data_list": [
+        "¿No querías preguntarme algo"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ah, eso. Ya está resuelto."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Tenía varias inquietudes relacionadas con mi\nentrenamiento, sobre si realmente debería o no\nseguir adelante por mi propio camino."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Pero al hablar contigo ahora, me recordaste que\ntú, al menos, ofreces pensamientos candorosos de\npreocupación, no de negación."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Tu dirección es al punto, nunca desdeñosa ni dada\ncon los ojos vidriosos."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Supe que había tomado la decisión correcta. Así\nque no tengo más necesidad de confirmar y puedo\nproceder sin miedo.",
+      "choice_data_list": [
+        "¿Estabas pensando en todo eso?",
+        "¿Estabas pensando en todo eso?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Je, je, ¿qué? Incluso yo tengo momentos en que\ncuestiono mis propias acciones, si son correctas o\nno."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Pero nunca podría dejar que nadie viera tal duda\nen mis ojos. Soy la Umamusume que se convertirá en\nla Centurial Overlord después de todo.",
+      "choice_data_list": [
+        "Eres fuerte, ¿sabes?",
+        "Eres fuerte, ¿sabes?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Je, como una verdadera soberana debería ser."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Bueno, debo empezar a prepararme para mañana. No\nquiero que mi audiencia se decepcione."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ah, sí, eso es cierto. Había una cosa más."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Si alguna vez quiero recitar mis pensamientos\nsobre el futuro... ¿puedo contar con que me\nprestarás tu oído?",
+      "choice_data_list": [
+        "¡Absolutamente!"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Haaah ha ha ha ha! ¡Realmente soy increíble al\nencontrar un entrenador tan fino!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es otro día maravilloso, y Opera O está haciendo\nsu propia cosa para el entrenamiento de nuevo."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Mira, el sol naciente me bendice una vez más. No\ndesperdiciaré un segundo y me pondré a trabajar de\ninmediato."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Primero dejaré que mi cabello fluya en el aire\nfresco del mar. Un cepillado con la mano, y luego\nun destello de un guiño a mis adoradores fans..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Haaah ha ha ha ha! ¡Estoy <i>tan</i> espléndida hoy!"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "Esa Opera O se ve, er, soñadora como siempre."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Ajaja, en serio. Estoy un poco celosa, aunque. Me\ngustaría tener esa confianza."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Je, no hay una sola otra Umamusume en esta playa\nque pueda igualar mi radiación. ¿No estás de\nacuerdo, mi fino entrenador?",
+      "choice_data_list": [
+        "Sí, eres la mejor, Opera O"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Bien dicho! Pues <i>yo</i> seré la Soberana\nCentenaria—¡ella que bañará el mundo con su luz\ndeslumbrante!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "T.M. Opera O está explotando de confianza. Para\nella, eso es solo como cualquier otro día."
+    }
+  ]
+}

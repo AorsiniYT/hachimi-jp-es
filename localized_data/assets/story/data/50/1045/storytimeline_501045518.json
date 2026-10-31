@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Super Creek",
+      "text": "<i>¡Ufff...!</i>"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Lo siento, Entrenador... ¿Podría descansar aquí un\nmomento?",
+      "choice_data_list": [
+        "¿Te sientes mal?",
+        "¿Te sientes mal?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "No exactamente... Un amigo mío me pidió que\nayudara con las tareas del hogar que se habían\nacumulado."
+    },
+    {
+      "name": "Super Creek",
+      "text": "He estado limpiando y lavando la ropa desde esta\nmañana..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Fue muy divertido, pero había mucho más que hacer\nde lo que esperaba."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Hehe... Supongo que me emocioné un poco..."
+    }
+  ]
+}

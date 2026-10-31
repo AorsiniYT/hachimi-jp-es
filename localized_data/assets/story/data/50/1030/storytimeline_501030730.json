@@ -1,0 +1,39 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Rice Shower",
+      "text": "¡Guau, conseguiste tantos! ¡Eres increíble!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Los cuidaré bien para siempre!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...¿Oye, Hermano Mayor? Gracias. ¡Me has hecho\nsúper feliz!",
+      "choice_data_list": [
+        "¡De nada!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...¿Oye, Hermana Mayor? Gracias. ¡Me has hecho\nsúper feliz!",
+      "choice_data_list": [
+        "¡De nada!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Jeje. Espero poder hacerte sentir igual algún día."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Jeje. Espero poder hacerte sentir igual algún día."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡No podría haber salido mejor!"
+    }
+  ]
+}

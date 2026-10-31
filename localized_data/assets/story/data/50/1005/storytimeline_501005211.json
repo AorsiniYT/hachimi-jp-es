@@ -1,0 +1,99 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Ha llegado el día del Arima Kinen, y todos los\nparticipantes reunidos aquí son corredores de\nprimera categoría. El hipódromo de Nakayama está\nlleno de emoción."
+    },
+    {
+      "name": "Entrevistador",
+      "text": "Estamos aquí en la final de las cuatro carreras\nque Fuji Kiseki se propuso desafiar, y las gradas\nestán llenas de entusiasmo."
+    },
+    {
+      "name": "Espectador A",
+      "text": "Creo en Fuji Kiseki. Sé que puede hacerlo."
+    },
+    {
+      "name": "Espectador B",
+      "text": "Yo también. Vine aquí para verla realizar otro\nmilagro."
+    },
+    {
+      "name": "Entrevistador",
+      "text": "¿Tiene algún mensaje para la corredora que está\napoyando hoy!"
+    },
+    {
+      "name": "Miembro del club de fans de Fuji A",
+      "text": "Sí. Vamos, todos. Canalicemos algo de nuestra\nenergía hacia Fuji. Listos, y..."
+    },
+    {
+      "name": "Miembros del club de fans de Fuji",
+      "text": "Buena suerte, Fujiii. Puedes hacerlo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y, mientras todos esperan ansiosos por que\ncomience la carrera..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Jeje. Ese fue un aplauso muy fuerte. Gracias. Lo\nescuché perfectamente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Luego me mira directamente a mí."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Finalmente hemos llegado."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Estamos aquí en la final. La etapa de 2.500 metros\ndel Arima Kinen está lista."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Esta es mi última escena. Solo queda ver si\nconcluirá con lágrimas de alegría o tristeza..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Entrenador.",
+      "choice_data_list": [
+        "¿Sí?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Parezco radiante para ti?",
+      "choice_data_list": [
+        "Por supuesto."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Y cómo me ves?",
+      "choice_data_list": [
+        "Como la estrella más brillante y hermosa.",
+        "Como la estrella más brillante y hermosa."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...Bien."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Gracias. Me alegra tenerte aquí."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Bueno, entonces... Me voy."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras la veo dirigirse hacia la carrera final,\nlas palabras \"Dale todo de ti\" resuenan en mi\ncorazón."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Finalmente, se alzan las cortinas del Arima Kinen."
+    }
+  ]
+}

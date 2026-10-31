@@ -1,0 +1,211 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "De vuelta del entrenamiento, Oguri Cap y yo vemos\na Tamamo Cross consolando a un niño llorando."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Déjame esto a mí! No importa cuántos perritos se\nhayan perdido, ¡los encontraré en un instante!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...¿Qué está pasando?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El niño le cuenta a Oguri Cap cómo Tamamo Cross ha\nido a buscar a su perro perdido que huyó al\nbosque."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Ya casi oscurece. Y los bosques oscuros pueden\nser peligrosos. Iré a ayudar.",
+      "choice_data_list": [
+        "Voy contigo."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Eso sería genial. Vamos, apresurémonos."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Encontré algunas huellas. Frescas. Probablemente\nson de Tama, así que sigámoslas.",
+      "choice_data_list": [
+        "Necesitamos marcar por dónde hemos pasado."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "No hay necesidad. Los árboles pueden guiarnos de\nvuelta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Oguri Cap marcha sin dudar. Yo la sigo\nansiosamente, asegurándome de no separarme. Y\nentonces..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Maldición... Encontré al cachorro, pero no tengo\nidea de dónde diablos estoy ahora. A este ritmo,\nel grupo de búsqueda también vendrá a buscarme."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Y cualquiera que los escuche gritar: \"¡Aquí,\ncachorro! ¡Aquí, Tama!\" va a asumir que soy un\ngato!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Me dirán que maúlle, pero soy una Umamusume, no un\ngato!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Suena como si te estuvieras divirtiendo."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Whoa! ¿O-Oguri? ¡Ustedes dos no pueden\nsimplemente acechar a la gente así! ¡Di algo\nprimero!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El perro está sentado junto a los pies de Tamamo\nCross. Le explicamos que escuchamos sobre la\nsituación y vinimos a ayudar."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Así que ahora todos estamos perdidos, ¿eh? Eso es\nculpa mía.",
+      "choice_data_list": [
+        "En realidad, Oguri Cap conoce el camino..."
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Eso no suena prometedor. Oguri se pierde todo el\ntiempo incluso cerca de la ciudad. ¡Caray, incluso\nen la academia!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Ah, bueno. Necesito resolver esto por mí mismo.\nEste cachorro es súper amigable, pero no es como\nque pueda guiarnos de vuelta."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Lo tengo! ¡Por aquí!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡No me digas! Contigo liderando el camino, vamos a\nterminar aún <i>más</i> perdidos!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Juzgando por los árboles, los arbustos y la forma\nen que se siente la tierra bajo nuestros pies,\neste es definitivamente el camino que tomamos\nantes. Síganme."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Está demasiado oscuro para ver nuestras huellas,\npero... Reconozco este tronco de árbol de antes. A\ncontinuación, debemos girar por aquí."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿¡Huh?! ¡Mira tú, siendo tan confiable y esas\ncosas! ¿Verdad, Entrenador?",
+      "choice_data_list": [
+        "¡Realmente lo es!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿R-realmente? Gracias."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Sí. Está bien, puedo manejar esto. Te mostraré\nel camino."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Oguri Cap parece extremadamente segura de sí\nmisma, así que decidimos seguirla."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para mi sorpresa, nos encontramos de vuelta en la\nentrada del bosque."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Lo logramos! Tengo que decirlo, estoy\nimpresionado, ¡Oguri!",
+      "choice_data_list": [
+        "¡Increíble! ¡Muchas gracias!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Los árboles y plantas tienen formas diferentes\ndependiendo de dónde estés. Y la tierra también se\nsiente diferente. Mucho más fácil de navegar que\nuna ciudad."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Eres nuestra heroína, Oguri! Eres algo cuando te\nlo propones."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Realmente no fue nada especial."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡No tienes que ser tan modesta! ¡Fuiste una total\nsalvavidas! ¡Muchas gracias!",
+      "choice_data_list": [
+        "¡Gran trabajo, Oguri Cap!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Realmente ayudé a todos? ...Es la primera vez,\ncreo.",
+      "choice_data_list": [
+        "Siempre me ayudas.",
+        "Contaré contigo de ahora en adelante."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿De verdad lo dices? Y yo que pensé que era yo\nquien siempre necesitaba ayuda..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pero es agradable escucharlo de ti. Es bueno saber\nque he devuelto el favor."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hm... Realmente quiero devolverle a todos los que\nme han apoyado, ¡así que avísame si alguna vez hay\nalgo que pueda hacer!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Contar con... mí?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Quizás soy más confiable de lo que me di cuenta...\nSiempre pensé que correr era la única forma en que\npodía hacer feliz a la gente."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Bueno, en ese caso, no dudes en pedirme ayuda\nen cualquier momento."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Por supuesto! Estoy ansiosa por ello."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "En fin, ¡llevemos a este cachorro a su casa! Su\ncasa está cerca de la estación, así que desde\naquí..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Es por aquí."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Oye, ¿a dónde crees que vas? ¡Ese es el camino\nequivocado!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "O-oh. Supongo que es por aquí, entonces."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Esa es la dirección completamente opuesta! ¿Cómo\nes que puedes encontrar la salida de un bosque,\npero no puedes encontrar el camino por la calle?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al final, el perro regresa sano y salvo a casa—con\nTamamo Cross guiando el camino."
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Al comienzo del último año de Gold City, ganó\nboletos para unas vacaciones en un balneario en\nuna rifa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En ese entonces, no se sentía mentalmente lista\npara un viaje y se negó a ir. Pero ahora, sus\nsentimientos podrían haber cambiado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Creo que debería usar este momento para finalmente\ndescansar, así que la llamo para intentar\npersuadirla."
+    },
+    {
+      "name": "Gold City",
+      "text": "Claro. El balneario suena bien.",
+      "choice_data_list": [
+        "(¿Así de fácil?!)"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Consultaré con mi representante para ver cuándo\nestoy libre. Tú también deberías enviar tu\nhorario.",
+      "choice_data_list": [
+        "...¿Yo debería?",
+        "...¿Yo debería?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Eh? No querías que yo fuera sola, ¿verdad?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Dudo que mi representante lo permitiera, y para\nser honesta, no sé si incluso querría ir si fuera\nalgo en solitario."
+    },
+    {
+      "name": "Gold City",
+      "text": "Si voy a los balnearios, tienes que venir conmigo.\n¿Qué dices?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Remojándose en el balneario..."
+    },
+    {
+      "name": "Gold City",
+      "text": "<i>Suspiro...</i> Eso fue increíble. Todo el estrés se\nderritió al instante."
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Oíste? Dijeron que estos son manantiales de\nbicarbonato de sodio. Se supone que tienen efectos\nlimpiadores en la piel y esas cosas."
+    },
+    {
+      "name": "Gold City",
+      "text": "Mira. ¿No está mi piel tan brillante ahora?",
+      "choice_data_list": [
+        "No sé, siempre está brillante..."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Suenas tan tonto ahora... pero sí, supongo que es\nverdad."
+    },
+    {
+      "name": "Gold City",
+      "text": "Tuve este pensamiento antes, pero... estás\nbastante interesado en mi aspecto, ¿verdad?",
+      "choice_data_list": [
+        "¡No solo tu aspecto!",
+        "¡No solo tu aspecto!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Sí, sí, lo sé. No estoy implicando que eso sea\ntodo lo que te importa."
+    },
+    {
+      "name": "Gold City",
+      "text": "Nunca realmente hemos tenido la oportunidad de,\ncomo, solo hablar de tonterías como esta antes,\n¿verdad?"
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Quieres... tomar un poco de aire fresco?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Probablemente te preguntas por qué de repente\nacepté venir aquí."
+    },
+    {
+      "name": "Gold City",
+      "text": "La verdad es que quería averiguar cómo te sientes\nrealmente por mí."
+    },
+    {
+      "name": "Gold City",
+      "text": "Me he avergonzado frente a ti demasiadas veces, y\nme mataría si has tenido la impresión equivocada."
+    },
+    {
+      "name": "Gold City",
+      "text": "Porque... sí, no soy necesariamente tranquila.\nPuedo ser dura, y a veces tengo un poco de lengua\nsucia."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero eso es porque te has acercado demasiado.\nMírame desde, como, el punto de vista de un\nconocido y soy bastante genial... al menos, espero\nserlo.",
+      "choice_data_list": [
+        "Mi impresión de ti nunca ha cambiado.",
+        "Mi impresión de ti nunca ha cambiado."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...?",
+      "choice_data_list": [
+        "Eres hermosa, fuerte, orgullosa... la mejor\nUmamusume de todas.",
+        "Eres hermosa, fuerte, orgullosa... la mejor\nUmamusume de todas."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Jaja, ¿qué <i>es</i> eso? ¿Me estás coqueteando?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Normalmente, lo encontraría inapropiado, pero\nviniendo de ti, es diferente de alguna manera."
+    },
+    {
+      "name": "Gold City",
+      "text": "Es gracioso. No eres mi representante, y no eres\ncomo un compañero de trabajo. ¿Qué eres para mí?",
+      "choice_data_list": [
+        "Solo tu entrenador."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Eh, eso es solo un título, ¿verdad?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero... tal vez tengas razón. Solo mi\nentrenador... Me gusta cómo suena."
+    },
+    {
+      "name": "Gold City",
+      "text": "Alguien que me ve correr. Alguien que ve solo al\nverdadero yo."
+    },
+    {
+      "name": "Gold City",
+      "text": "No algún fan entusiasta que solo me ha visto desde\nlejos y no conoce el significado del espacio\npersonal."
+    },
+    {
+      "name": "Gold City",
+      "text": "No interfieres, juzgas, muestras lástima,\ninsultas, nada de eso."
+    },
+    {
+      "name": "Gold City",
+      "text": "Si no hubiera corrido contigo, no creo que jamás\nhubiera llegado a gustarme."
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Uy! Aquí estoy hablando sin parar. Me puse en\npiloto automático. ¿Resulté una molestia?",
+      "choice_data_list": [
+        "Estás bien.",
+        "Estás bien."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Qué indeciso. Je."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero creo que está bien. Solo eres mi entrenador,\ndespués de todo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siento que Gold City y yo hemos formado un vínculo\nirremplazable durante este tiempo juntos."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Ay! Urgh... Mi brazo está rígido y adolorido.",
+      "choice_data_list": [
+        "¿Tienes los músculos adoloridos?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Sí. Ya ves, estaba practicando mi velocidad al\ndesenfundar anoche."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Le di una buena vuelta a mi pistola de modelo\nalrededor de mi dedo, lo que realmente hizo que mi\nsangre bombeara... y el resto es historia."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "<i>Suspiro...</i> Espero no tener que lidiar con esto por\nmucho tiempo. Ay..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Taiki Shuttle no se siente muy bien..."
+    }
+  ]
+}

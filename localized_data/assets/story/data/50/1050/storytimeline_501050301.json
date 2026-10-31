@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Taishin",
+      "text": "Eso fue agotador."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No sé cuántas veces corrí contra Tannhauser en la\nplaya... Nature nunca nos dijo que nos\ndetuviéramos."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Luego Urara se fue por su cuenta a esa isla\ndesierta, y Rice no dejaba de llorar..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Este ha sido el campamento más cansado desde que\nentré a Tracen.",
+      "choice_data_list": [
+        "¡Pero pareces que te divertiste!",
+        "¡Pero pareces que te divertiste!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Ni lo sueñes! ¿Quieres que te dé una patada en el\ntrasero?!"
+    },
+    {
+      "text": "¡Tenemos algunos días verdaderamente\nenriquecedores antes del Tenno Sho de otoño!"
+    }
+  ]
+}

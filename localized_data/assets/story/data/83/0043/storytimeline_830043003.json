@@ -1,0 +1,198 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras paseaba por las calles..."
+    },
+    {
+      "name": "Figura Negra A",
+      "text": "...Por aquí. Date prisa.",
+      "choice_data_list": [
+        "¿Eso no es...?"
+      ]
+    },
+    {
+      "name": "Mujer con esmoquin",
+      "text": "¡Damas y caballeros! Les doy la más cordial\nbienvenida a nuestro torneo de casino! Lo que está\nen juego—nada más que su dignidad como gran\napostador! ¡Compitan a su antojo, solo por hoy! ♪",
+      "choice_data_list": [
+        "¿Q-qué es este lugar?"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Oh, por el amor de Dios. Pensé que vi un pez fuera\ndel agua, y aquí estás de nuevo."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Antes de que se te ocurra pensar algo raro, este\ntorneo es completamente legítimo, ¿vale? A pesar\nde los entrometidos no registrados que andan\nmetiendo su nariz."
+    },
+    {
+      "name": "Multitud",
+      "text": "¡Chist! Mira, es ella... ¡La legendaria\nvendedora—el Ángel de la Noche! ¡Oh, no puedo\ncreer que vaya a verla en persona!",
+      "choice_data_list": [
+        "¿No es esa la mujer que nos encontramos junto al\nrío?"
+      ]
+    },
+    {
+      "name": "Ángel de la Noche",
+      "text": "Oh, vaya. ¿Y a quién tenemos aquí? Jeje. Cuánto\ntiempo sin verte."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Bueno, bueno, bueno. Parece que <i>Tu Santidad</i> es\nbastante popular."
+    },
+    {
+      "name": "Ángel de la Noche",
+      "text": "Efectivamente, y te he elegido como mi rival. ¿Qué\ndices? ¿Te atreves a arriesgar tu orgullo?"
+    },
+    {
+      "name": "Multitud",
+      "text": "¡No puede ser! ¿Un oponente seleccionado\npersonalmente por el Ángel en persona? ¿Quién es\nesa? <i>¡Jej!</i>Nadie le gana al Ángel..."
+    },
+    {
+      "name": "Ángel de la Noche",
+      "text": "El nombre del juego es póker de cinco cartas.\nPuedes recoger tus fichas en la recepción. Las\nreglas son las habituales, en su mayoría."
+    },
+    {
+      "name": "Ángel de la Noche",
+      "text": "Hay un giro, sin embargo. El perdedor tiene que\nproporcionar una... <i>propina</i>, digamos, para manos\nde color y superiores."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "O sea, ¿estás diciendo que si alguien juega un\nfull house o un four of a kind, el otro jugador\ntiene que soltar más lana fuera del bote?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Oye, Entrenador. ¿Me cuidas la espalda, sí? No\nnecesito curiosos espiando mis cartas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así comienza la partida de póker. La primera ronda\nes para Nakayama Festa con un par de reyes. La\nsegunda termina en empate, seguida de otra ronda\npara Nakayama en el tercer asalto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin duda, Nakayama Festa tiene la suerte de su\nlado. La cuarta ronda comienza con las fichas de\nsu oponente muy mermadas. Luego, surge una\noportunidad aún mejor...",
+      "choice_data_list": [
+        "(¡Tiene tres ases!)"
+      ]
+    },
+    {
+      "name": "Ángel de la Noche",
+      "text": "...Yo llamo. ¿Y tú?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...Igualo. ¿Y tú?"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "...No tengo nada. Me retiro. Dame un segundo.\nNecesito algo de aire fresco."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Acabamos de terminar el mazo, ¿verdad? Asegúrate\nde barajarlo mientras no estoy."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Uf...",
+      "choice_data_list": [
+        "Pero tenías un trío..."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Muestra una, muestra todas. Aunque la mano esté\nterminada, no andes revelando las cartas."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Además, al menos tenía un color. Me hubieran\nobligado a pagar esa dichosa 'propina' si me\nhubiera quedado dentro.",
+      "choice_data_list": [
+        "¿En serio?!"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Esa es mi corazonada, al menos. Más importante, yo\nquería barajar el mazo."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Descartábamos nuestra mano cada ronda y nos\nrepartían cartas del mismo mazo. En otras\npalabras, podíamos contar las cartas.",
+      "choice_data_list": [
+        "¿Qué quieres decir?"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Es una forma de averiguar qué cartas quedan en la\nbaraja. Ella me hizo revelar mis cartas después de\ncada ronda, ¿recuerdas? Pero..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Ahora que la hice barajar toda la baraja, todo el\nconocimiento de cartas pasadas que acumuló se ha\nido por el desagüe. Quizás <i>es hora </i>de que yo\npruebe esa \"suerte insana\"."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "¿Qué te parece si lo arriesgamos todo? Ni te\npreocupes por la diferencia de fichas. Todo o\nnada."
+    },
+    {
+      "name": "Ángel de la Noche",
+      "text": "¿Qué?! ¿Vas a desperdiciar tu ventaja? Si así es\ncomo quieres jugar... ¡Tal vez tenga que aceptar\nese reto!"
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Adelante. Mis hombros se me están tensando de la\nemoción... No quiero conformarme con nada\nseguro—estoy <i>hambriento</i> de ganar."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Ahora, Repartidor. Quiero sacar una carta,<i>pero...</i>\nVoy a elegir cuál."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nakayama Festa cierra los ojos y señala una sola\ncarta en el mazo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es igualita a Special Week durante el Torneo de\nJuego de Cartas de Concentración de Tracen."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Poco después, el lugar hervía de comentarios sobre\ncómo una Umamusume sin nombre derrotó al\nrepartidor legendario con una escalera de color."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tras lo cual, recién ganada, rápidamente\ndesapareció del lugar sin hablar con nadie más."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Días después, veo a Nakayama Festa en la academia.",
+      "choice_data_list": [
+        "Tú...",
+        "Tú..."
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Oh, eres tú. Perdón por dejarte en medio de todo\nel otro día, pero no puedes culpar a nadie por\nquerer alejarse de todo ese alboroto."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "No es que buscara la fama, al fin y al cabo. Solo\nquería un reto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me doy cuenta de que hay un autobús estacionado\njusto delante de ella. Ahora que lo pienso, las\nnoticias de la mañana dijeron que ella corre hoy.",
+      "choice_data_list": [
+        "¿Te diriges al próximo desafío?",
+        "¿De camino al próximo desafío?"
+      ]
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Sí. Parece que va a ser un poco complicado..."
+    },
+    {
+      "name": "Nakayama Festa",
+      "text": "Jeje. Aún así, más te vale mirar. Te espera un\nespectáculo."
+    }
+  ]
+}

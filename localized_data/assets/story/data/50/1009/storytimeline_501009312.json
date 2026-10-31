@@ -1,0 +1,251 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Daiwa Scarlet",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet mira pensativamente a lo lejos.",
+      "choice_data_list": [
+        "¿Scarlet?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Eek?! ¡Qué demonios! ¡No me asustes así!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Y-ya es hora de entrenar, ¿verdad? Hum, ¡no hay\nproblema! ¡Estoy lista cuando sea!",
+      "choice_data_list": [
+        "¿Con tu uniforme escolar?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Muy bien, ¡tal vez hablé mal!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Lo que quise decir es que pensé que hoy íbamos a\nver una carrera!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Dónde se habrá metido ese control remoto? Ugh,\nestá bien. Lo haré manualmente..."
+    },
+    {
+      "name": "TV",
+      "text": "Todas las miradas están puestas en los atletas\ntalentosos de este año en el Japanese Derby..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Oh."
+    },
+    {
+      "name": "TV",
+      "text": "<i>Blip.</i>"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...",
+      "choice_data_list": [
+        "¿Aún te molesta?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Simplemente no lo entiendo."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Qué demonios significa ella con \"genial\"? Si ese\nes su objetivo, al menos podría ser consistente."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Se inscribió en el Oka Sho, luego cambió\ncompletamente de rumbo y cambió de tour. ¡Huyó\ncomo una cobarde a mitad de camino! ¿Se supone que\neso es genial? ¡Me parece bastante patético!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Y sin embargo...",
+      "choice_data_list": [
+        "¿Por qué se inscribió en el Derby?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Eso me gustaría saber! ¡No tengo ni idea!",
+      "choice_data_list": [
+        "Entonces, ¿qué tal si se lo preguntamos nosotros\nmismos?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...¿Perdón?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "E-Espera un momento, Entrenador. ¿A dónde crees\nque vas?"
+    },
+    {
+      "name": "Multitud",
+      "text": "<i>¡Uuuuuh!</i>"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "..."
+    },
+    {
+      "name": "Espectador A",
+      "text": "Hace mucho tiempo que no veo a alguien cambiar de\ntour. Años, al menos..."
+    },
+    {
+      "name": "Espectador B",
+      "text": "Realmente quería ver a Vodka tomar la ruta de tour\nusual y correr el Japanese Oaks, como Scarlet.\n¡Realmente podría haber tomado el trono de la\nReina...!"
+    },
+    {
+      "name": "Espectador A",
+      "text": "Nah, eso habría sido demasiado cliché. Esto es\nmucho más interesante."
+    },
+    {
+      "name": "Espectador B",
+      "text": "No para mí. Solo siento que ella huyó de la Tiara."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Parece que no todos están contentos con lo que ha\nhecho."
+    },
+    {
+      "name": "Locutor",
+      "text": "El grupo líder ha pasado el gran árbol y están en\nla recta final! ¿Quién se adelantará para tomar la\ndelantera?!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Y es Vodka! ¡Vodka ha irrumpido en el grupo...\npero parece que está luchando! ¡No puede superar\npor completo a la delantera!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "..."
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Miren, qué les dije! Debería haber ido por el\nJapanese Oaks, no por el Derby."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los murmullos escépticos surgen de la multitud,\npero Vodka sigue corriendo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con la cabeza alta y los ojos enfocados hacia\nadelante, ella descarta sus preocupaciones, sin\ndesviarse nunca de su camino."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Qué demonios?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Qué estás <i>haciendo?!</i> ¿De verdad vas a perder\nahora?!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Muéstrales por qué estás aquí! ¡Recupera la\ncompostura y corre como sé que puedes!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Muéstrales que no solo estabas huyendo de mí!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Esperen... Vodka está intentando adelantarse! ¡Lo\nlogró! ¡Usó sus habilidades de sprint para abrirse\npaso!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡La ganadora del Japanese Derby es Vodka! ¡Ella\nsuperó a las otras y llegó a la línea de meta!"
+    },
+    {
+      "name": "Multitud",
+      "text": "<i>¡UUUU!</i>"
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Miren! ¿No fue increíble?!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "Tienes razón. ¡Mi corazón estaba acelerado! ¡Ella\nfue la más genial!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Nunca olvidaré esta carrera por el resto de mi\nvida!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Una carrera... que la multitud nunca olvidará..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...",
+      "choice_data_list": [
+        "¿Hm?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Nada."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Vodka corrió el Derby. Eso es todo. Nada más, nada\nmenos."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Pero... ¿por qué no puedo quitármelo de la cabeza?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Por qué no puedo olvidar el momento en que se\nconvirtió en número uno?",
+      "choice_data_list": [
+        "Porque ella era genial.",
+        "Porque ella era genial."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Genial? ¿Qué significa eso siquiera?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Es solo un sinsentido que ella no deja de soltar.\nNo significa nada tangible... Entonces, por qué..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Entrenador, no aguanto esto! ¡Necesito vencerla!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ella me quitó mi título de \"número uno\". ¡Necesito\nrecuperarlo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una llama brillante arde en los ojos de Daiwa\nScarlet."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella todavía no es realmente capaz de ver a dónde\nla llevará esta búsqueda de \"número uno\", pero..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Creo que hemos encontrado una pista importante. Lo\nsiguiente es el Shuka Sho, la última carrera de la\nTriple Tiara."
+    }
+  ]
+}

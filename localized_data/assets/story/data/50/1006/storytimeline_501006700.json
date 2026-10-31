@@ -1,0 +1,65 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Oguri! ¡O-gu-ri! ¡Vamos, despierta ya!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "<i>Bostezo...</i> ¿Tama? ¿Qué pasa?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡No me digas '¿qué pasa?'! ¡Eres tú quien me rogó\nque te trajera a la cafetería para el almuerzo!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Ah, sí... Almuerzo... <i>Bostezo...</i>",
+      "choice_data_list": [
+        "Pareces agotada.",
+        "Pareces agotada."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Estuve despierta toda la noche intentando resolver\nalgo... Antes de darme cuenta, ya había amanecido."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Y para empeorar las cosas, no pude resolver mi\nproblema... ¿Alguna de ustedes puede ayudarme?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Suena como si te hubieras estado rompiendo la\ncabeza anoche. Adelante, ¡cuéntanos!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Gracias, Tama."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Ayer, comí una bola de arroz mientras corría en la\npista..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Eh?!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pensé que si comía mientras entrenaba, me haría\nmás fuerte."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pero no hizo mucha diferencia. ¿Debería comer más?\n¿O necesito cambiar la bola de arroz por un poco\nde pan?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Estoy bastante segura de que ese no es el\nproblema aquí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Poco después, una Oguri Cap medio dormida devora\nel almuerzo junto a una Tamamo Cross asombrada."
+    }
+  ]
+}

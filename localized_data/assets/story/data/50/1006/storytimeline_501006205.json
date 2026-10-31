@@ -1,0 +1,100 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es temprano y brillante en el día del Arima Kinen,\ny Oguri Cap me pide que nos reunamos para charlar."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Mmm... ¿Este lugar no es muy relajante?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estamos en uno de sus lugares favoritos—el bosque\ndetrás de la academia."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Anoche, estuve pensando en todos los recuerdos\nque hemos hecho hasta ahora."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "El día que nos conocimos, todas las sesiones de\nentrenamiento que hemos tenido juntas..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su voz, aunque aparentemente calmada, suena llena\nde varias emociones..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Al principio, solo hacía esto por el bien de todos\nen casa. Quería estar a la altura de sus\nexpectativas."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pero luego conocí a todas las diferentes personas\ncontra las que competiría, y me di cuenta de que\nla victoria era algo que yo también quería para\nmí."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Quiero ganar y hacer felices a todos."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Quiero hacer que todos mis fans se alegren de\nhaberme elegido para apoyarme."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Por eso quiero ganar ahora."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El ánimo de sus fans es lo que ha traído a Oguri\nCap hasta aquí. Hoy, en el legendario Arima Kinen,\nella les va a mostrar a todos de qué están hechos\nlos sueños."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Vine aquí para ganar, así que hagamos una\npromesa."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hoy, no voy a dejar que nadie más me gane. ¡Quiero\nque pongas todas tus esperanzas en mí!",
+      "choice_data_list": [
+        "¡Cuento contigo, Oguri!",
+        "¡Cuento contigo, Oguri!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Gracias. ¡Lo tengo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Podemos escuchar a la multitud animando. La gente\nestá gritando a Tamamo Cross, Super Creek y los\notros grandes nombres."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero eso no es todo."
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Oguri! ¡Tú puedes!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Oguriiin!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "También están gritando por Oguri Cap, la bestia de\nlas afueras.",
+      "color_text_info_list": [
+        "bestia"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Griten mi nombre tan fuerte como puedan, todos!\n¡Cuanto más fuerte griten, más rápido correré!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así comienza el Arima Kinen, la carrera que\ntermina con todas las carreras."
+    }
+  ]
+}

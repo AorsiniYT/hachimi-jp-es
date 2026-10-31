@@ -1,0 +1,195 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras Taiki Shuttle se entrenaba duro\npara el próximo Mile Championship..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Hm? Allá están muy animados. ¿Están haciendo una\nbarbacoa o algo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tal como esperaba, parece haber un grupo de\nreporteros apiñados. Al acercarme a mirar..."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Tu última actuación fue sencillamente fantástica!"
+    },
+    {
+      "name": "Reportero B",
+      "text": "¡Una exhibición absolutamente magnífica!\nEspecialmente en una situación como esa, donde no\npodrías haber imaginado que ganarías!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Qué quieres decir, que no podía imaginar que\nganaría? No existe tal carrera en este mundo."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Como la Emperatriz, ejemplifico la perfección en\ntodas las situaciones. Simplemente hice\nexactamente lo que había que hacer.",
+      "color_text_info_list": [
+        "Emperatriz"
+      ]
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡No esperaba menos de ti! ¡Qué forma tan\n>intimidante—digo, <i>impresionante</i> de ver las cosas!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Serán todas las preguntas por hoy? Si es así, me\nretiraré. Esto está recortando mi tiempo de\nentrenamiento."
+    },
+    {
+      "name": "Reportero B",
+      "text": "¡Por favor, un momento! ¡Air Groove!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Guau, es tan popular! ¡Así es Air Groove!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Estoy muy orgullosa de tenerla como amiga!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Groove ha tenido un rendimiento excepcional en\nvarias carreras G1.",
+      "choice_data_list": [
+        "Nosotras tampoco vamos a retroceder.",
+        "Nosotras tampoco vamos a retroceder."
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Lo dijiste! No voy a permitir que nadie se\ninterponga en mi camino para ser la Umamusume del\nAño... ¡ni siquiera mis amigas!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Bueno, de vuelta al entrenamiento! Tengo que\nconcentrarme y correr como si realmente me\nimportara.",
+      "choice_data_list": [
+        "(¿Hm? De repente, tengo un mal presentimiento...)"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Bueno, mira quién apareció! ¡Hola, Suzuka!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Taiki pierde el enfoque de inmediato, dejándome\nperseguirla."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Estás entrenando, Suzuka? ¿Por qué no me uno?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Eh? Pero..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Vas a correr en el Mile Championship, ¿verdad?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Por supuesto! ¡Es la única carrera donde puedo\nenfrentarme cara a cara con las seniors!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Entonces, lamentablemente, no puedo entrenar\ncontigo."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿¡Qué!? ¡No puede ser, Suzuka! ¿Por qué no?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Bueno, he decidido inscribirme yo también en el\nMile Championship..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡No puede ser! ¿¡En serio!? ¡Tú también vas a\nestar allí?!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Sí. Por eso... Hm, ¿cómo decirlo?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Verás, he estado replanteándome la forma en que\ncorro."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Eh? No estoy segura de entender."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Me gustaría probar diferentes enfoques... en\nmuchas carreras diferentes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pensándolo bien, Silence Suzuka le ganó a Air\nGroove con su estilo 'de fuga'."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Quizás esto es una de las cosas que descubrió en\nsu camino."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...Casi estoy allí. Siento que solo necesito un\npoco más para alcanzarlo."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Esta vez, quiero experimentar el ritmo rápido de\nun esprint en el Mile Championship."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Empiezo a entender la mentalidad de Silence\nSuzuka."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En cualquier caso, no nos queda más remedio que\nser cautelosas.",
+      "choice_data_list": [
+        "Las seniors no son tus únicas rivales.",
+        "Las seniors no son tus únicas rivales."
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Lo dijiste! No planeo perder, Suzuka. ¡Ese primer\npuesto es mío!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Jeje, me siento exactamente igual. Pienso ganar."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Wuju, ahora estoy motivada! ¡Pongamos esta\nenergía en el entrenamiento!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Lista, Suzuka? ¡Hora de hacer una vuelta a toda\nvelocidad!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...¡Espera, qué?!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Un momento, Taiki. ¿Me estabas escuchando? Dije\nque no puedo entrenar con mis rivales—"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh, olvídalo! ¡Corramos, Suzuka!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Estás bromeando, verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así, hemos aprendido que Silence Suzuka competirá\nen el Mile Championship junto con Taiki Shuttle."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es hora de entrenar, pero Grass Wonder no está por\nningún lado. Salgo a buscarla."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ah, Entrenador. Echa un vistazo a este libro."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Es un título tan popular que rara vez se queda en\nel estante de la biblioteca, pero finalmente logré\npedir prestada una copia."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Es una pieza literaria encantadora que explica a\nfondo las raíces de la cultura japonesa."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Incluso incluye imágenes estacionales de lugares\nque no han perdido su belleza incluso después de\nun milenio. ♪"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Te gustaría verlos también, Entrenador? Seguro\nencontrarás uno de tu agrado.",
+      "choice_data_list": [
+        "¿Y el entrenamiento?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Oh! L-lo siento mucho. ¿Cómo pude ser tan\ndescuidada?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Se me olvidó por completo. Prometo ser más atenta\nen el futuro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece genuinamente apenada, así que le doy el día\nlibre."
+    }
+  ]
+}

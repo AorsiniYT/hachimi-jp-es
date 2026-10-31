@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gold Ship",
+      "text": "Oye..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gold Ship no parece ser ella misma hoy.",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Nunca vas a creer esto..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡<i>Mystery Adventures</i> fue cancelado! ¡Era mi\nprograma favorito!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ahora nunca me presentarán como una de las siete\nmaravillas del mundo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gold Ship tarda un tiempo en recuperarse de la\ndevastadora noticia."
+    }
+  ]
+}

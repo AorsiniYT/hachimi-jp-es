@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Hishi Akebono",
+      "text": "<i>¡Uaaah!</i>",
+      "choice_data_list": [
+        "¡Guau, qué bostezo tan grande!"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Por alguna razón, no pude pegar el ojo después de\nmeterme en la cama anoche..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Dicen que estresarse por quedarse dormido solo\nempeora las cosas, así que simplemente me acosté\nde lado e intenté no preocuparme por ello..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Pero aún estaba completamente despierto cuando\nsalió el sol... ¿Tal vez debí esforzarme más por\ndormirme? <i>Bostezando...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Hishi Akebono tuvo una noche bastante\ninquieta..."
+    }
+  ]
+}

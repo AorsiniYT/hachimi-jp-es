@@ -1,0 +1,80 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Silence Suzuka",
+      "text": "Lo siento, Entrenador. Podré correr de nuevo antes\nde que te des cuenta.",
+      "choice_data_list": [
+        "Está bien. Deberías descansar por hoy."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Descansar..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Um, después de descansar un poco, ¿crees que puedo\ncorrer un poco más?",
+      "choice_data_list": [
+        "Solo empeorarás tu condición si te esfuerzas\ndemasiado.",
+        "¡Tan pronto como te sientas mejor, podrás correr\ntodo lo que quieras!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Um, después de descansar un poco, ¿crees que puedo\ncorrer un poco más?",
+      "choice_data_list": [
+        "Solo empeorarás tu condición si te esfuerzas\ndemasiado.",
+        "¡Tan pronto como te sientas mejor, podrás correr\ntodo lo que quieras!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Lo sé... pero..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Um... ¿Crees que podrías vigilarme para que no me\nponga a correr?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No estoy segura de tener... la disciplina."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Respeto la petición de Suzuka y me quedo a su lado\nen la enfermería hasta el anochecer."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...Está bien."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No podré correr hoy, ¿verdad? Qué lástima. Todavía\nestá tan claro afuera..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>Suspiro...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incapaz de correr debido a su lesión, Silence\nSuzuka cae en un bajón mental."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Por mucho que lo desee..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Está bien. Me pondré mejor lo antes posible, por\nel bien de correr."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Entrenador, quiero que busques muchos lugares\nhermosos para ir a correr."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Silence Suzuka arde de determinación a\npesar de su lesión. Debería ponerme a buscar\nnuevos circuitos de carrera de inmediato."
+    }
+  ]
+}

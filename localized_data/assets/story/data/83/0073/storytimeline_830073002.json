@@ -1,0 +1,240 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Taishin",
+      "text": "Ugh, no sirve. ¿Cómo se supone que debo practicar\nser sincera?",
+      "choice_data_list": [
+        "(¿Ella está tratando de practicar cómo ser más\nsincera?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Escuchar eso me recuerda el consejo que Tamamo\nCross le dio cuando discutían qué comprarle a\nSuper Creek."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Así que Narita Taishin va a devolver la bondad de\nSuper Creek expresando sus sentimientos más\nsinceramente? Eso es bastante loable.",
+      "choice_data_list": [
+        "¿Necesitas ayuda con ser sincera?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Huh? ¿Por qué te entrometes? Esto no tiene nada\nque ver con—espera, ¿estuviste espiándome?",
+      "choice_data_list": [
+        "Lo siento, parecías bastante molesta, así que..."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡C-cómo no! Ugh, eres tan... O sea, ¡<i>en serio!</i>"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Bien! ¿Y qué si estaba luchando? ¿Vas a ayudarme\no algo?",
+      "choice_data_list": [
+        "Solo si quieres."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hmm, así que quieres ser más sincera... Eso podría\nser un gran desafío.",
+      "choice_data_list": [
+        "Estaba pensando que sería mejor emparejarla con\nsus mejores amigas."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿S-sus mejores amigas? ¿Como, <i>MEJORES</i> amigas?!\n¿Taishin piensa que somos mejores amigas?! Waaah,\n¡estoy tan feliz! Ohhh, ¡Taishiiin!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ugh, ¡cállate ya! ¡Terminemos con esto!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Expresarte es parte de ser sincera. Así que para\nayudarte con eso, consulté varios libros de\npreguntas y se me ocurrió..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Responde con Sinceridad: El Quiz Especial de\nVerdadero o Falso de Hayahide!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Comencemos. Pregunta número uno—verdadero o falso?\n¿Has intentado previamente comerte una porción\nextra-grande completa del plato del día de la\ncafetería?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Quiero decir, tenía hambre..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Mhm... Desafiarte a ti misma <i>es</i> importante, pero\nno debes esforzarte demasiado. La próxima vez que\ntomes una tarea así, invítame también."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Pregunta número dos—verdadero o falso? Sueles\nprogramar tus sesiones de entrenamiento para\ncuando no hay muchas personas alrededor."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ahora, no hay nada malo en eso, pero estarías en\nmayor riesgo si tuvieras un accidente. Siempre\nsabe cuándo pedir ayuda a otros. Siguiente..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Espera un momento. ¿Cuántas más de estas molestas\n\"lecciones de vida\" tuyas tengo que escuchar?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Okay, mi turno! ¡Ta-dah! ¡Mira—es un café de\ngatos!",
+      "choice_data_list": [
+        "¿Por qué un café de gatos?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Porque, escucha esto... ¡Taishin realmente quiere\nhablar con gatos!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Huh? ¿De qué estás hablando?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡No me estás engañando! ¡Te vi pasando el rato con\ntu amiga felina en ese callejón del distrito\ncomercial! ¡Tuviste toda una conversación y todo!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué—?!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Pero te callaste cuando la gente se acercó! ¡Creo\nque sería bueno que te sientas cómoda hablando con\ngatitos incluso cuando otros están mirando!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿T-tú me viste?! Espera, eso no era—¡solo estaba\nhablando conmigo misma, no con el gato!",
+      "choice_data_list": [
+        "Eso no suena como una respuesta muy sincera."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Nnngh!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Así es. Si vas a charlar con un gato, ¡tienes que\nhacerlo con un corazón honesto y abierto!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Un corazón honesto y abierto..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Olvídalo! ¡Es imposible!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡De ninguna manera puedo ser más sincera o abierta\no lo que sea! ¡Esto me está dando náuseas en\nserio! ¡Idiotas!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jeje... Parece que finalmente has revelado los\nverdaderos sentimientos escondidos en tu corazón."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...¿Qué?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Alguna vez sentiste que Creek se obligaba a sí\nmisma a ayudarte? ¿O que se salía de su camino?"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Oh, se veían un poco gastados, y podrías\nlastimarte si se rompieran, así que los remendé!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Este es un momento <i>súper</i> importante para mí\ntambién, y quiero que ambos sigamos entrenando y\ntrabajando duro! ♪"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Oh..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(Ahora lo entiendo... Solo tengo que ser honesta\ncon ella... Eso es todo.)"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Espera. Si ya sabías lo que necesitaba hacer, ¿por\nqué me hiciste pasar por tantos obstáculos?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Quiero deciiiir, ¡no todos los días podemos verte\nsiendo honesta! ¡No pudimos resistirnos! ¿Verdad,\nHayahide?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Grrr! ¡Ustedes dos están <i>MUY</i> muertos!",
+      "choice_data_list": [
+        "Seguro que tienes grandes amigas.",
+        "Seguro que tienes grandes amigas.",
+        "¡La próxima vez, hagamos que esas dos sean\nsinceras!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Grrr! ¡Ustedes dos están <i>MUY</i> muertos!",
+      "choice_data_list": [
+        "Seguro que tienes grandes amigas.",
+        "Seguro que tienes grandes amigas.",
+        "¡La próxima vez, hagamos que esas dos sean\nsinceras!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Con amigas como estas... Ugh! Primero me tocan\ncomo un violín, ¡luego me echan sal en la herida!",
+      "choice_data_list": [
+        "Pero te dieron tu respuesta, ¿verdad?",
+        "Pero te dieron tu respuesta, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Bueno... Supongo que ayudaron un poco."
+    },
+    {
+      "name": "Hayahide y Ticket",
+      "text": "¡Uy, Taishin!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Pero solo un poco! ¡Apenas ayudaste en absoluto!\n¡Caray..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Sí, buena idea..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Empecemos contigo, Hayahide. Pregunta número\nuno... y recuerda, sé sincera."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Verdadero o falso: crees que tu cabello se ve bien\nhoy."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Q-qué?! Espera, ¿estás diciendo que <i>no</i> se ve\nbien?!"
+    }
+  ]
+}

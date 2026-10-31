@@ -1,0 +1,51 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras Smart Falcon y yo estamos afuera\njuntos..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oh, mira eso! ☆ ¡Qué peluches adorables! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella está mirando una máquina de garra llena de\npequeños peluches de Umamusume."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Apuesto a que rodearme de estas cosas adorables\naumentará mi poder Umadol! ♪"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Tú también lo crees, verdad?",
+      "choice_data_list": [
+        "Bueno, es posible..."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "En ese caso, tengo una petición para ti. ☆ Me\nencantaría que me consiguieras algunos peluches! ♪",
+      "choice_data_list": [
+        "¿Yo?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "No te preocupes, ¡te animaré con todo mi espíritu!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Creo en ti, Entrenador! ¡Tú puedes! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que me están metiendo en esto. De todos\nmodos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡No hay manera de que falle ahora!"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fuji Kiseki",
+      "text": "Es finalmente la hora, Entrenador. Pronto llegará\nla señal para que se levante el telón..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "No puedo esperar para ver qué espectáculo me\nespera más allá de esas cortinas de terciopelo.",
+      "choice_data_list": [
+        "Será solo la pista usual, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Sí, pero cada actuación cambia y se transforma de\nacuerdo a los actores que suben al escenario."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Tu relación con tus compañeros actores, las\nimprovisaciones que vienen a la mente..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Son impredecibles y parte de lo que hace que una\nactuación en vivo sea tan aterradora y\nentretenida!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Aah! ¡Cálmate, corazón latiente! ¡Hasta él sabe\nque la carrera de hoy seguramente será buena!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Vamos ya! No hay dos actuaciones iguales.\n¡Brindémosle al público un espectáculo único en la\nvida!"
+    }
+  ]
+}

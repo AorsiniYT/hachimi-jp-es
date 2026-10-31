@@ -1,0 +1,426 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Unos días después de la carrera debut de Mejiro\nArdan, la voy a visitar mientras se recupera en la\ncasa de descanso de su familia."
+    },
+    {
+      "name": "Nanny",
+      "text": "Buenos días, Entrenador.",
+      "choice_data_list": [
+        "Buenos días."
+      ]
+    },
+    {
+      "name": "Nanny",
+      "text": "Presumo que está aquí para ver a Señorita Ardan.\nPermítame mostrarle el camino."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sigo a la niñera de Mejiro Ardan y, a corta\ndistancia de la casa de descanso, llegamos a una\npequeña área boscosa donde Mejiro Ardan está\nrelajándose."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Hola, Entrenador. Qué lindo que hayas venido a\nverme.",
+      "choice_data_list": [
+        "...¿Cómo te sientes?",
+        "...¿Cómo te sientes?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Está absolutamente bien. El médico jefe dijo que\nhe recuperado mi fuerza y estoy al menos tan\nsaludable como antes de mi debut.",
+      "choice_data_list": [
+        "Qué alivio."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Entrenador, ¿te gustaría dar un paseo agradable y\nrelajante conmigo?"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Deseo hablar contigo en privado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Ardan me lleva a un claro elevado en una\npequeña colina más allá del bosque."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Entrenador."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Este momento, ahora mismo, es un momento crucial\npara ti.",
+      "choice_data_list": [
+        "¿Te refieres a—"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Puedo suponer cómo fue tu conversación con mi\nmédico el otro día."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "El hombre es el médico más estimado de mi familia,\ny lo conozco desde que era pequeña. Por eso,\nconfío en él tanto como en la Niñera."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Y en consecuencia, cualquier cosa que haya dicho\nsobre mi condición... debe ser creída."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Dicho esto..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Incluso si sus preocupaciones sobre mi cuerpo\nestán justificadas... e incluso si el camino que\nrecorro es tan peligroso como hielo fino..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Nunca me rendiré.",
+      "choice_data_list": [
+        "Ardan..."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Pero por supuesto, esta decisión refleja solo<i>mis</i>\ndeseos... y no los tuyos, Trainer."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Creo que para ahora, debes saber muy bien lo poco\nfiable y nebulosa que puedo ser. Incluso me\ndesmayé después de mi carrera debut."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Entrenador, si eliges quedarte a mi lado..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Estarás gestionando a una corredora tan frágil y\ndelicada como un adorno de vidrio."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Aún podrías lucirme en la pista... sabiendo que\npodrías terminar rompiéndome?",
+      "choice_data_list": [
+        "Podría."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...",
+      "choice_data_list": [
+        "Pero nunca te romperé."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Ardan me mira como si estuviera pensando\nalgo. Ya he decidido cómo voy a responder a su\npregunta.",
+      "choice_data_list": [
+        "Me gustaría mostrarte algo.",
+        "Me gustaría mostrarte algo."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Tienes... algo que mostrarme?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sacó mi tableta y se la entrego a Mejiro Ardan."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Esto... es un calendario de carreras... y un\nrégimen de entrenamiento? ¿Y no solo una, sino\nmúltiples variaciones?"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "E-esto no puede ser—",
+      "choice_data_list": [
+        "Esta es la medida de mi determinación.",
+        "Esta es la medida de mi determinación."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La tableta que le mostré a Mejiro Ardan contiene\nun montón de agendas de carreras y planes de\nentrenamiento que he diseñado para su año júnior y\nen adelante.",
+      "color_text_info_list": [
+        "año júnior"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esos planes también incorporan cada escenario\nprevisible que pensé en lo que respecta a la salud\ny el bienestar de Mejiro Ardan."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Entrenador... ¿Esto significa... que entendiste lo\nque intentaba decir?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por supuesto que sí. La forma en que me está\nponiendo a prueba con esto hablando de\nconsecuencias... Sé que solo me está alejando por\nbondad."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El punto es que no quiero bondad. Quiero otra\ncosa...",
+      "choice_data_list": [
+        "Ardan, deseo seguir siendo tu entrenador.",
+        "Ardan, deseo seguir siendo tu entrenador."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es precisamente porque quiero seguir siendo su\nentrenador que he pensado en lo que debería hacer\nen ese rol, y lo que ella podría querer de mí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decido que ahora es el momento de poner mi\nrespuesta en palabras. Como entrenador de Mejiro\nArdan...",
+      "choice_data_list": [
+        "No dejaré que tu luz se apague.",
+        "No dejaré que tu luz se apague."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como su entrenador, me aseguraré de proteger su\nfrágil cuerpo, para que pueda brillar en todas sus\ncarreras, ahora y para siempre."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y para ayudarla a ella—esta corredora que vive en\nel momento, y solo tiene ojos para el ahora...",
+      "choice_data_list": [
+        "Forjaré un camino hacia tu futuro.",
+        "Forjaré un camino hacia tu futuro."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Fue después de mi carrera debut... La tarde del\ndía que me transfirieron a la casa de descanso de\nla familia..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Aquella noche, tuve un sueño."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "En mi sueño, escuché el sonido del vidrio\nrompiéndose."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "La sensación de que todo se derramaba desde mi\ncuerpo fracturado era tan fría, tan vívida..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "No pude dejar ese sueño atrás... Y así hoy, me\nencontré cuestionándote, de una manera muy\ndescortés."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Lo siento mucho, de verdad.",
+      "choice_data_list": [
+        "Si algo, me alegra que <i>sí</i> me hicieras esas\npreguntas."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...¿Ah?",
+      "choice_data_list": [
+        "Gracias a ti, mi determinación es más fuerte que\nnunca.",
+        "Gracias a ti, mi determinación es más fuerte que\nnunca."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Entrenador...",
+      "choice_data_list": [
+        "Por favor, déjame acompañarte en tu viaje.",
+        "Por favor, déjame acompañarte en tu viaje."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...¿Cómo podría negarme?"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Me encantaría tenerte a mi lado mientras\ncontinuamos este viaje..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más tarde, Mejiro Ardan y yo vamos a hablar con su\nmédico."
+    },
+    {
+      "name": "Médico Jefe",
+      "text": "Por la presente, reconozco las intenciones de\nambos."
+    },
+    {
+      "name": "Médico Jefe",
+      "text": "Como médico jefe de la Señorita Ardan, por la\npresente le doy mi permiso formal para regresar a\nla academia.",
+      "choice_data_list": [
+        "¡Muchas gracias!"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Muchas gracias."
+    },
+    {
+      "name": "Médico Jefe",
+      "text": "Sin embargo, ten en cuenta que podría tener que\nrevocar esta decisión en caso de que algo le\nsuceda a la Señorita Ardan nuevamente.",
+      "choice_data_list": [
+        "Tomado en cuenta."
+      ]
+    },
+    {
+      "name": "Médico Jefe",
+      "text": "...Esto no es más que mi opinión personal, pero\napoyo plenamente la decisión que ambos han tomado."
+    },
+    {
+      "name": "Médico Jefe",
+      "text": "No dudes en acudir a mí con cualquier preocupación\nque puedas tener. Ahora, sin embargo, me retiro ."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Entrenador, parece que él también cree en ti.",
+      "choice_data_list": [
+        "Haré todo lo posible para cumplir sus\nexpectativas.",
+        "Haré todo lo posible para cumplir sus\nexpectativas."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Jeje. Y yo también."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después, la niñera de Mejiro Ardan conduce a los\ndos desde la casa de descanso de vuelta a la\nacademia."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Gracias por traernos, niñera."
+    },
+    {
+      "name": "Nanny",
+      "text": "He informado a los padres de los sucesos de hoy."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Oh. Acabo de escribirle una carta a Padre y Madre\nyo misma, para avisarles."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Te enviaré un mensaje una vez que haya llegado al\ndormitorio."
+    },
+    {
+      "name": "Nanny",
+      "text": "Señorita. Mientras caminas por este camino al que\nte has comprometido... por favor, cuídate."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Lo haré. No olvidaré ni un momento que he elegido\nel camino más empinado y agotador de todos."
+    },
+    {
+      "name": "Nanny",
+      "text": "Estaré pensando en ti, siempre. Mucha suerte para\nti."
+    },
+    {
+      "name": "Nanny",
+      "text": "Entrenador.",
+      "choice_data_list": [
+        "¿Sí?"
+      ]
+    },
+    {
+      "name": "Nanny",
+      "text": "...Por favor, cuida bien de la Señorita Ardan.",
+      "choice_data_list": [
+        "Tienes mi palabra."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La niñera de Mejiro Ardan hace una profunda\nreverencia al escuchar mi respuesta, luego se va\nsin pronunciar otra palabra."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Gracias por venir a verme hoy."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Ahora, en cuanto a nuestros planes de aquí en\nadelante..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Me preguntaba si tal vez podría molestarte en\ndecidir cada una de las carreras que correré\ndurante mi año júnior.",
+      "choice_data_list": [
+        "Por supuesto. ¿Estás segura de que no te molesta\nque yo elija todas, verdad?",
+        "Por supuesto. ¿Estás segura de que no te molesta\nque yo elija todas, verdad?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Para nada. Porque he tomado una decisión por mi\ncuenta hoy."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "He decidido perseguir el futuro que tú has trazado\npara mí.",
+      "choice_data_list": [
+        "Ardan..."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Por lo tanto, pido tu guía sobre en qué debería\nenfocarme <i>ahora,</i> Entrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al escucharla decir eso, siento como si Mejiro\nArdan... posiblemente esté depositando un poco más\nde confianza en mí de la que lo hacía antes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mi determinación para apoyarla se fortalece aún\nmás—¡está poniendo su vida en mis manos!",
+      "choice_data_list": [
+        "Trabajemos en mejorar, poco a poco."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lo que Mejiro Ardan necesita ahora es tanto\nexperiencia práctica como la capacidad física para\naguantar una carrera completa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Durante su año júnior, planeo que continúe\nentrenando mientras acumula experiencia real de\ncarreras a un ritmo que le convenga.",
+      "choice_data_list": [
+        "Después de eso, podemos apuntar a un escenario más\ngrandioso para que brilles."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Muy bien. En otras palabras, parece que es hora de\nque me someta a un entrenamiento bastante\nriguroso."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Contaré contigo una vez más, Entrenador, a\npartir de mañana."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con ambos completamente preparados para lo que se\navecina, Mejiro Ardan y yo damos la bienvenida a\nsu año júnior!"
+    }
+  ]
+}

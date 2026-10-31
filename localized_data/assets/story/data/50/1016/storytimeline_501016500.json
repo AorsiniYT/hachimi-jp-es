@@ -1,0 +1,49 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Informo a Narita Brian sobre algunos cambios\nrepentinos en su régimen de entrenamiento."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Ya veo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Qué? ¿Hay algo más?",
+      "choice_data_list": [
+        "Solo estaba pensando que lo tomaste bastante bien."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Quién crees que soy?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Si hay una buena razón para hacer un cambio, lo\naceptaré. Es lo más natural.",
+      "choice_data_list": [
+        "Aún no he explicado la razón..."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Nunca has dicho algo que no tuviera sentido\npara mí."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tus acciones siempre llevan al resultado deseado.\nAsumí que sería el caso esta vez también."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No me hagas empezar a arrepentirme ahora, ¿vale?"
+    },
+    {
+      "text": "Narita Brian parece estar satisfecha con los\nresultados de su entrenamiento."
+    }
+  ]
+}

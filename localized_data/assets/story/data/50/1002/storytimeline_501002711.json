@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Silence Suzuka",
+      "text": "Otra vez..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Tengo las piernas pesadas, como si estuviera\ncaminando por un pantano, completamente sola."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Entrenador, ¿qué debo hacer?",
+      "choice_data_list": [
+        "No te preocupes. ¡Ganaremos la próxima!",
+        "Quiero que corras a tu manera."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Nosotros... Así es. Ya no estoy sola."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Gracias. Cuento... Cuento contigo."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Corre a mi manera..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Ya veo... ¿Cómo puedo ganar si no estoy corriendo\na mi propia manera?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Muchas gracias. Correré a mi manera en la próxima\ncarrera."
+    }
+  ]
+}

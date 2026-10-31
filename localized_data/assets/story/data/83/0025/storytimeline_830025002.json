@@ -1,0 +1,218 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "De camino a casa después de comprar, encuentro a\nSpecial Week parada junto al río. Decido llamarla,\ncuando..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Oh, hola! ¿Regresas de un día de compras?",
+      "choice_data_list": [
+        "¿Qué estás haciendo aquí, Spe?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Je, je... Estaba caminando cuando me topé con\nSuzuka entrenando."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Mira, ella está allá! Wow, mira cómo su cabello\nbrilla a la luz del sol poniente..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Suzuka es tan deslumbrante como la primera vez que\nla vi..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Dios, ella es realmente hermosa! No puedo evitar\nestar fascinada por ella."
+    },
+    {
+      "name": "Special Week",
+      "text": "Mmm... quizás podría verme como Suzuka si me\ndejara crecer el cabello."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Vas a dejarte crecer el cabello?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Oh, Suzuka! Estuviste genial allí."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Sí, quiero ser hermosa como tú, Suzuka!",
+      "choice_data_list": [
+        "¿La admiras bastante, no es así?",
+        "¿La admiras bastante, no es así?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Más bien muchísimo! Ya sea que esté corriendo o\nsolo parada allí, ¡Suzuka es en quien aspiro a\nconvertirme!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Vaya... Creo que eres maravillosa tal como eres,\nSpe."
+    },
+    {
+      "name": "Special Week",
+      "text": "N-no de ninguna manera... Todavía tengo un largo\ncamino por recorrer comparada contigo, Suzuka!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Mira, ¡quiero ser una Umamusume tranquila y digna,\nexactamente como tú!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Así que por eso—oh no! ¿Estoy molestándote, por\ncasualidad?!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...No, para nada. Gracias por preguntar de todos\nmodos."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Je, je, eres muy del tipo honesto y directo, Spe."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Solo estoy siguiendo mi corazón! Todos siempre me\ndicen que nunca puedo quedarme quieta."
+    },
+    {
+      "name": "Special Week",
+      "text": "Y esa es una razón más para querer ser como tú. ¡O\nal menos, tener un poco de tu vibra!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Mmm... ¿Qué de Suzuka puedo emular?",
+      "choice_data_list": [
+        "¿Su peinado?",
+        "¿Su naturaleza reservada?",
+        "No creo que haya nada..."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Esa es probablemente la parte más fácil de copiar,\npero dejarme crecer el cabello tomará algo de\ntiempo..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Oh, qué tal si copio su diadema y sus accesorios\npara las orejas?!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Quieres copiar... eso?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Sí, totalmente! Podría usar el mismo accesorio\npero en un color diferente o algo. ¡Sería genial!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Je, je, los dos coincidiendo en estilo... ¿Qué\ncolor crees que me quedaría bien?!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Je, je, ¿qué tal si buscamos un color que te quede\nbien juntas?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Eso suena genial!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No estoy segura de que conseguir accesorios a\njuego sea la mejor manera de emular a alguien..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aun así, Special Week continúa aspirando a ser\ncomo Silence Suzuka, con los ojos brillando como\nestrellas."
+    },
+    {
+      "name": "Special Week",
+      "text": "Su naturaleza reservada... ¡Tiene sentido para mí!\n¡Cerraré estos labios con llave!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Qué?",
+      "choice_data_list": [
+        "¿Special Week? ¿Me escuchas?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "...",
+      "choice_data_list": [
+        "Deberías considerar volver a tu dormitorio\npronto..."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "S-Spe... Sé que soy callada, pero... no soy <i>muda.</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que ha entendido mal el punto ligeramente.\nEs asombroso lo salvaje que es el alcance de la\nimaginación de Special Week."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡¿Qué?! ¡¿Cómo puedes decir eso?!",
+      "choice_data_list": [
+        "No necesitas forzarte a copiarla..."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Y-y sé que no va a ser fácil, pero si voy tomando\nlas cosas paso a paso y me esfuerzo mucho,\n<i>mucho</i>..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Espera un segundo, Spe. No creo que debas poner\ntanta energía en—"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Pero <i>quiero</i> hacerlo, Suzuka! ¡De verdad!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "P-pero..."
+    },
+    {
+      "name": "Special Week",
+      "text": "...¿Sabes qué? ¡Primero, voy a dejarme crecer el\ncabello! Y cuando esté pensando en algo, comenzaré\na caminar en círculos en sentido antihorario!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Y, y! Sonreiré con elegancia—solo una leve\nsonrisa sin mostrar los dientes!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Sí, puedo hacer esto totalmente! Ahaha, incluso\nestoy un poco excitada por ello!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Espera! Por favor, cálmate, Spe. No creo que esto\nte lleve a alguna parte!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Mientras no me rinda, un día...Oookey dokey, ¡aquí\nvoy!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Copia perfecta de Suzuka, aquí voy! ¡Tú puedes\ncon esto, yo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Está todo emocionada. Parece que Special Week\nno es del tipo que se rinde, no importa cuán\naccidentado sea el camino."
+    }
+  ]
+}

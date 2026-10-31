@@ -1,0 +1,107 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Acompaño a Meisho Doto a la enfermería después de\nque sufre una lesión durante el entrenamiento."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Lo siento! ¡Lo siento mucho! Siempre te causo\nproblemas... Oogh."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Prometo que volveré a entrenar tan pronto\ncomo—¡Ay!",
+      "choice_data_list": [
+        "Si tienes dolor, mejor lo dejamos por hoy."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "P-pero... No tendré confianza de sobra si me\ndetengo ahora..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Aún puedo seguir! ¡Esta lesión no me va a\nd-detener!",
+      "choice_data_list": [
+        "Prefiero que descanses ahora mismo.",
+        "¿Quieres intentar volver al entrenamiento?",
+        "¿Quieres intentar volver al entrenamiento?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Aún puedo seguir! ¡Esta lesión no me va a\nd-detener!",
+      "choice_data_list": [
+        "Prefiero que descanses ahora mismo.",
+        "¿Quieres intentar volver al entrenamiento?",
+        "¿Quieres intentar volver al entrenamiento?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Pero, realmente no puedo quedarme quieta... Si el\ndolor se pone muy mal, me detendré. ¡Así que, por\nfavor!",
+      "choice_data_list": [
+        "Entrenar ahora podría ralentizar el proceso de\ncuración."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "P-pues..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Está bien... Tomaré un descanso."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Guh... He hecho un gran lío con esta lesión... Lo\nsiento mucho."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Meisho Doto traga su decepción, eligiendo\ndescansar hasta que esté completamente curada."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "S-sí, ¡por supuesto! ¡Muchas gracias, Entrenador!",
+      "choice_data_list": [
+        "Prométeme que no te forzarás."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Lo p-prometo! ¡Me detendré si el dolor es\ndemasiado!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Con cuidado ahora... Debería estar bien si no uso\ndemasiada fuerza."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡A-ayayay!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Eso fue una fracción de mi fuerza... Urk, no puedo\ncaminar así."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ejercer cualquier nivel de fuerza parece ser un\nesfuerzo agotador, y su lesión solo empeora."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh... Creo que aún puedo manejar. Con solo un poco\nmás de esfuerzo, quizá—",
+      "choice_data_list": [
+        "¡Quiero que te tomes las cosas con calma!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡S-sí! Eso es. ¡Tengo esa... promesa que cumplir!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Meisho Doto controla su fuerza, volviendo\nexitosamente a la práctica!"
+    }
+  ]
+}

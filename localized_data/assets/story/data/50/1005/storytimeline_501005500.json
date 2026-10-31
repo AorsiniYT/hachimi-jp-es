@@ -1,0 +1,76 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras Fuji Kiseki camina por el\npasillo..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ay... ¿Por qué mis músculos duelen? Pero si los\nmúsculos en esta área están doliendo, debe\nsignificar..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Tengo un mal presentimiento sobre esto. Mejor le\ndigo al Entrenador de inmedia—"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "No, eso solo causará preocupación innecesaria.\nDebería ir a la enfermería y que me revisen\nprimero..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Entrenador, ¿tienes un minuto? Verás, sentí un\ndolor corriendo por mi pierna hoy."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Fui a la enfermería para ver qué estaba mal, y...",
+      "choice_data_list": [
+        "¿Y?",
+        "¿Y?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Es solo dolor muscular normal. ♪"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Jaja! Juzgando por tu expresión, mi pequeña broma\nfuncionó.",
+      "choice_data_list": [
+        "Tu <i>broma</i> no fue buena para mi corazón..."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Perdón, perdón. No te culpo por estar preocupado.\nYo también tuve miedo al principio."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Normalmente nunca tengo dolor muscular porque\nsolía bailar tanto, y nunca he sentido dolor en\nesta área en particular."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Pero si ahora están adoloridos, debe significar\nque estoy entrenando y fortaleciendo músculos que\nno podía antes en el baile."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Y todo gracias al régimen de entrenamiento muy\nefectivo de cierta persona. ♪",
+      "choice_data_list": [
+        "Eso es bueno, entonces.",
+        "Eso es bueno, entonces."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Sí. Esto ha sido una experiencia de aprendizaje\npara mí también."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Se han abierto nuevas puertas, y puedo volar aún\nmás magníficamente por el césped que antes...\n¡Cuento contigo para que sigas con el buen\ntrabajo, Entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Fuji Kiseki ha aprendido que aún tiene\nun largo camino por recorrer en términos de\nentrenamiento."
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡La felicidad está aquí, con este nuevo año!\n¡Feliz Año Nuevo para los dos, Entrenador y Do—"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Espera... ¿Dónde está Doto?",
+      "choice_data_list": [
+        "Definitivamente no está aquí."
+      ]
+    },
+    {
+      "text": "Teníamos planes de pasar el Año Nuevo juntos, pero\nhe estado esperando un rato y Meisho Doto aún no\naparece."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡¿Huuuuh?! Seguro que prometimos celebrar el Año\nNuevo juntos..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "<i>¡Sniff!</i> ¡Entrenadooor, ¿dónde estásuu?!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "(¿Oh? ¿No es esa... Ayabe? Está completamente\nsola...)"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "(Me pregunto qué estará pidiendo. Se ve tan seria,\ny también... tan sola.)"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "(Ah, se mueve... ¿Debería realmente... solo\ndejarla en paz?)"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh... E-esto, A-Aya... ¡Ayabe!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Hum? Oh, eres tú... ¿Qué es?"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Bueno... Um..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Y-y-yo te compraré takoyaki, yo invito!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...¿Qué?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Huh... Entonces, ¿miré hacia abajo? ¿Y por eso\ntú..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Bueno, s-sí. Y... también para felicitarte por tu\nvictoria en Hanshin..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Eso explica el takoyaki, entonces..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Gracias."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "...¿Eh?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Sé que solo intentas ser considerado."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Oh, no, no, no digas eso! Quiero decir..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Parecías... tan seria cuando estabas rezando...\n¿Qué deseaste...?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Para qué corres?"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Para qué... corro?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Sí. ¿Cuál es la razón?"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "B-bueno, um... Me gustaría ser más segura...\ncreo..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ya veo. En cuanto a mí... corro por mi otro yo."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Por mi hermana menor... la que perdí el día que\nnacimos."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "...Oh."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Tengo que correr lo suficientemente bien por las\ndos. Tengo que brillar por ella: eso es lo máximo\nque puedo hacer para expiar."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Así que... hice una promesa en este santuario.\nDurante mi año clásico, voy a ganar tantas\ncarreras como pueda por mi hermana."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Por tu hermana... Así que eso es..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Sí, esa es mi razón. Si parecí severo/a contigo,\nes por eso."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Qué te parece si aceptas esa información como\npago por los takoyaki? Tengo que irme ahora."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Mira, Entrenador! Es Doto, ¡la encontré!",
+      "choice_data_list": [
+        "¡Doto, ¿estás bien?!",
+        "¡Doto, ¿estás bien?!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Entrenador... ¡Waaahaaah!"
+    },
+    {
+      "text": "Meisho Doto estalla en lágrimas en el momento en\nque la encontramos. La calmo antes de preguntarle\nqué le pasa."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Oh, qué trágico... No sabía que Ayabe tenía un\npasado tan desafortunado..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Entrenador, lo entendí todo mal..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Pensé que era mi cuerpo el que no era lo\nsuficientemente bueno, pero en realidad es mi\ncorazón. Mis sentimientos... no son suficientes.",
+      "choice_data_list": [
+        "¿Qué quieres decir?",
+        "¿Qué quieres decir?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ayabe está cargando con una misión tan pesada,\npero aún corre para honrar la memoria de su\nhermana."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Opera O también es así. Ella me dijo una vez que\nestá destinada a irradiar felicidad a todas las\npersonas del mundo."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Y luego estoy yo, solo corriendo para mí mismo.\nPor algunas ilusiones egoístas de confianza..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "No importa cuánto entrene... nunca podría llevarme\na ninguna parte... ¡Waaah!"
+    },
+    {
+      "text": "Puedo sentir su dolor a través de la angustia en\nsu voz. Sin embargo..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Nooo, no llores, Doto! ¡Por favor no llores! Hay\nesperanza para ti, ¡seguro!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Estoy segura de que tu entrenador tiene algunas\npalabras que te animarán al instante. Vamos,\nEntrenador, ¡di algo!",
+      "choice_data_list": [
+        "¡Tu corazón está pasando por un estirón!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Eh?",
+      "choice_data_list": [
+        "¡Tu corazón también está creciendo!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Entonces, ¿mi corazón está pasando por lo mismo...\nque mi cuerpo? Oh... No lo sabía. Entonces... ¿por\neso mis ambiciones son pequeñas?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Sí, tienes razón! No pasará mucho tiempo hasta\nque empieces a pensar en grande!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Todavía te queda un largo camino por recorrer,\nDoto. Dale algo de tiempo, y con suerte, las cosas\nempezarán a salir a tu favor."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ngh, quizás tengas razón... Eso sería...\nagradable."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Vale, elegiré creerles a los dos. Me gustaría\nhacer más cosas que me ayuden a crecer."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Mhm, mhm! Es una gran idea. De hecho, empecemos el\naño nuevo con un desafío. Entrenador, ¿qué debemos\nhacer?"
+    },
+    {
+      "text": "Esta podría ser una buena oportunidad para que\nella desahogue un poco. Ahora, ¿qué sería una\nactividad apropiada?",
+      "choice_data_list": [
+        "Una caminata en la montaña.",
+        "Ir de compras y comer snacks.",
+        "Juegos tradicionales de Año Nuevo."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Ooh, ¡una caminata en la montaña suena muy\ndivertida! Te veré cuando hayas regresado!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Waaagh, ¡es un puente colgante! N-no hay forma de\nque pueda hacer esto."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ya lo veo—empezará a balancearse, resbalaré, y\nluego me caeré del puente!",
+      "choice_data_list": [
+        "¿Deberíamos regresar?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "P-pero no puedo seguir siendo un cobarde...\n¡Necesito desafiarme a mí misma!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Tres, dos, uno, YA! ¡Kyaaaagh!"
+    },
+    {
+      "text": "<i>¡Crac! ¡Crujido!</i>"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh, gracias a Dios, ¡logré cruzar con vida!"
+    },
+    {
+      "text": "Meisho Doto logra cruzar el puente por los\npelos—un poco más valiente que antes."
+    },
+    {
+      "text": "Todas estas pequeñas experiencias se irán sumando.\nCreo que este año, empezaré a animarla a dejar que\nsus sueños crezcan más."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Oooh, ¡eso suena divertidísimo! Tienes que ver las\nbolsas de la suerte que tienen en oferta para Año\nNuevo!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Wow, Entrenador... Es el rincón de los dulces.\nMira todas estas deliciosas exquisiteces.",
+      "choice_data_list": [
+        "Traigamos algunos a mi oficina para comer."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Qué? ¿Está bien comprar algunos para nosotros?\nOh, ¡qué maravillosa forma de empezar el año!"
+    },
+    {
+      "text": "El crecimiento necesita cuidado. Como ella empezó\nel día con lágrimas, tendré que asegurarme de que\nse recupere completamente, con la ayuda de algo de\ncomida reconfortante."
+    },
+    {
+      "text": "En el camino a casa, de repente tengo un\npensamiento—no hay necesidad de apurarse. Esta\nprimavera, nuestro viaje debe recorrerse lento y\nconstante."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Oooh, ¡alguna diversión de Año Nuevo! ¡Volemos\ncometas y giremos trompos!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Waaaagh... Entrenador, mi cometa cayó al suelo y\nquedó hecha pedazos."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Waaagh... Lancé el trompo demasiado fuerte—oh, no,\nno, nooo..."
+    },
+    {
+      "text": "Meisho Doto entra en su pánico habitual. Pero\nnuestras actividades divertidas le han dejado\nalgunos trucos nuevos."
+    },
+    {
+      "text": "Y se me ocurre, no hay necesidad de apurarse. Esta\nprimavera, nuestro viaje hacia arriba debe\nrecorrerse lento y constante."
+    }
+  ]
+}

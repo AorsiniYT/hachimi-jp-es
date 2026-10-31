@@ -1,0 +1,169 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un par de días antes de la noche más festiva del\naño..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Regreso a mi oficina y encuentro que alguien la ha\ndecorado para las fiestas!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Yaaaay! ¡Felices fiestas, Entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Recuerdo que también confundió la fecha del Día de\nSan Valentín. ¿De verdad piensa que es...",
+      "choice_data_list": [
+        "Eh, tú <i>sí</i> sabes que hoy no es..."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Tsk, tsk! ¡Esta vez no me equivoco!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Tenemos la carrera Arima Kinen el 25, ¿verdad?\n¡Así que tenemos que celebrar antes!",
+      "choice_data_list": [
+        "(¡Qué consideración tan sorprendente viniendo de\nella!)"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Eso es lo que recomendó Hayahide!",
+      "choice_data_list": [
+        "(Ah, eso tiene más sentido.)"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Por eso hoy, tengo el regalo más increíble para\nti!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Diciendo eso, ella revela dramáticamente..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Ta-da-DAAA! ¡Una guía de deportes de invierno!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Este libro cubre todo, desde lo necesario hasta\nlos lugares populares para la temporada de\ninvierno!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Esquí, snowboard, motonieve... ¡Incluso tiene\nbiatlón y guerras de bolas de nieve!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hojéandolo, puedo decir que la información\ninterior es bastante completa."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡También tiene consejos para principiantes, así\nque es genial si quieres probar algo nuevo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Winning Ticket sabe un par de cosas sobre\ndeportes. Si ella lo recomienda, esta guía debe de\nser bastante buena.",
+      "choice_data_list": [
+        "¡Gracias!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Jeje... ¡Quiero que vayas y te reenergices!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Me gustan todos los deportes, así que vendré\ncuando tú quieras!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, revisamos el libro y pasamos unas\nmagníficas vacaciones de fin de año juntos."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Ta-da-DAAA! ¡Un pastel en forma de muñeco de\nnieve!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella me muestra un magnífico pastel de fiestas con\nla forma de un lindo muñeco de nieve."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Anoche nevó, así que ahí fue donde tuve el ¡zas!\nde inspiración!",
+      "choice_data_list": [
+        "(¿Querrá decir \"destello\" de inspiración?)"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡La crema batida no se quedaba en su lugar, así\nque fue bastante difícil de hacer!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Pero persistí, y al final salió bastante bien,\n¿verdad? ¡Je-je!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Ella hizo todo esto mientras también se preparaba\npara el Arima Kinen?!",
+      "choice_data_list": [
+        "¡Gracias, Ticket!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Je je! No, ¡yo te tengo que agradecer a ti,\nEntrenador!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Muy bien, ¡cortemos esto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Winning Ticket toma un cuchillo, pero..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Uwaaaah! ¡No puedo hacerlo! ¡No puedo cortarlo!",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Este pequeño nació ayer... Es demasiado triste!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al final, toma dos horas convencerla de que el\nmuñeco de nieve sería más feliz si se lo comen, y\nfinalmente cortamos el pastel."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "<i>Sniff...</i> Muñeco de nieve... Espero que estés\ncontento de que nosotros te comimos...",
+      "choice_data_list": [
+        "¡Seguro que sí!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sea verdad o no, el pastel en sí es suave y\ncremoso y perfectamente delicioso."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Qué ricooo! ¡Gracias, muñeco de nieve!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así, paso unas vacaciones de invierno inolvidables\ncon Winning Ticket."
+    }
+  ]
+}

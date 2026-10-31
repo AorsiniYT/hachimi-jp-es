@@ -1,0 +1,175 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "A medida que el Spring Tenno Sho se acerca, el\nrégimen de entrenamiento de Mejiro McQueen se\nintensifica."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>Haa... Haa...</i> Creo que estoy mejorando para\ncontrolar mi respiración."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Bueno, eso nos lleva al final del régimen de hoy.\n¿Tienes algo más para mí?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Solo para que sepas, todavía me queda mucha\nenergía."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que un poco más no me haría daño hoy. La\ndejaré hacer lo que quiera.",
+      "choice_data_list": [
+        "Muy bien, hagámoslo de nuevo."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que un poco más no me haría daño hoy. La\ndejaré hacer lo que quiera.",
+      "choice_data_list": [
+        "Muy bien, hagámoslo de nuevo."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Je, je, por supuesto. Es demasiado temprano para\ndetenernos hoy."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Voy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Extrañamente, esto se siente como si McQueen y yo\nestuviéramos entrenando verdaderamente <i>juntos</i> por\nprimera vez desde que tomé el equipo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Supongo que ayuda tener un objetivo singular hacia\nel que trabajar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Supongo que ayuda tener un objetivo singular hacia\nel que trabajar."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Hola, entrenador! McQueen se ve mejor que nunca."
+    },
+    {
+      "name": "<username>",
+      "text": "Hola, Ryan."
+    },
+    {
+      "name": "<username>",
+      "text": "Hola, Ryan."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Ryan sonríe brillantemente, como si hubiera\nsacado un peso de sus hombros."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El estado de ánimo mejorado de McQueen es, sin\nduda, gracias al consejo de Ryan."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ahora que mi rival ha vuelto al juego, parece que\ntengo que aumentar mi propio trabajo de\npreparación para el Spring Tenno Sho al 200%.",
+      "choice_data_list": [
+        "Gracias, Ryan."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Je, je, no hay de qué. Me alegra haber podido\nhablar contigo sobre eso."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Realmente estoy emocionada por el día de la\ncarrera. Pero solo sabes que seré el que se\nllevará la victoria."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Spring Tenno Sho se está convirtiendo en una\ncarrera que no olvidaremos pronto. Necesito\nasegurarme de que McQueen esté en la mejor\ncondición."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Spring Tenno Sho se está convirtiendo en una\ncarrera que no olvidaremos pronto. Necesito\nasegurarme de que McQueen esté en la mejor\ncondición."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los próximos días pasan en un suspiro. El día del\nSpring Tenno Sho ha llegado."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "..."
+    },
+    {
+      "name": "<username>",
+      "text": "..."
+    },
+    {
+      "name": "<username>",
+      "text": "¿Qué piensas comer después de ganar?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Eh? Ah, sí. Bueno... Como estamos en Kioto, tal\nvez algo de la cocina de Kioto."
+    },
+    {
+      "name": "<username>",
+      "text": "Suena... bien."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Entrenador... Eres <i>abismal</i> para aliviar el\nambiente."
+    },
+    {
+      "name": "<username>",
+      "text": "Parece que sí..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Vamos, anímate. Eso es algo que deberías tener\nbajo control como entrenador."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Estoy empezando a preocuparme de que esos nervios\ndeshechos se me contagien a mí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Son momentos como estos que deseo tener la\npersonalidad sociable de mi mentor."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Puede que no sea muy bueno para ayudar a mi\nentrenada a relajarse, pero...",
+      "choice_data_list": [
+        "Te animaré el doble para compensarlo."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Puede que no sea muy bueno para ayudar a mi\nentrenada a relajarse, pero...",
+      "choice_data_list": [
+        "Te animaré el doble para compensarlo."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Je, je... Sí, por favor."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Mi sueño está justo frente a mis ojos. Solo queda\nir allí y agarrarlo.",
+      "choice_data_list": [
+        "Buena suerte allí, McQueen."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Gracias. Regresaré con el trofeo en la mano."
+    }
+  ]
+}

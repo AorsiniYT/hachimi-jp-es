@@ -1,0 +1,326 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Han pasado unos días desde que quité el Kikuka Sho\ndel horario de Eishin Flash, pero ella todavía\nparece un poco perdida."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Ah.",
+      "choice_data_list": [
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Mi horario de entrenamiento requiere cambios."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Este fue diseñado originalmente para carreras de\nlarga distancia para prepararme para el Kikuka\nSho...",
+      "choice_data_list": [
+        "Entonces ajustémoslo."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sí, excepto que no sé cómo. Cambiar un solo\nelemento podría causar un trastorno total."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Para colmo, todavía hay una posibilidad de que\npueda correr en el Kikuka Sho...",
+      "choice_data_list": [
+        "Entonces, ¿por qué no mantenemos el programa como\nestá?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Como seguir entrenando para carreras de larga\ndistancia?",
+      "choice_data_list": [
+        "Es buena práctica para el Arima Kinen."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...",
+      "choice_data_list": [
+        "No pareces muy convencida."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Disculpa, pero necesito tiempo para pensar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para bien o para mal, tiene la mente fija. Ahora\nque su horario está mal, no podrá avanzar sin un\ngran convencimiento.",
+      "choice_data_list": [
+        "(Pero, ¿cómo la convenzo?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella necesita una experiencia que le dé una nueva\nperspectiva. Pienso en su carrera con el Sr. C.B."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Sr. C.B. le dio a Eishin Flash una experiencia\ninvaluable al correr con ella antes del Derby."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En este momento, Flash podría necesitar\nexperimentar otro contratiempo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Justo entonces, una voz animada llena el aire."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ahaha! ¡Esto es pan comido! ♪ ¡Tráeme unas\nmancuernas más pesadas!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Quién soy? ¡La Invencible Teio, así es!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "De hecho, el título le queda. Tokai Teio asumió la\nTriple Corona Clásica con un récord impecable y\nllegó tan lejos como para obtener dos coronas,\npero una lesión la mantuvo fuera del Kikuka Sho.",
+      "color_text_info_list": [
+        "Tokai Teio"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuando le pregunto si podría hablar con Eishin\nFlash, acepta sin dudar."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Así que quieres saber cómo me sentí cuando me bajé\ndel Kikuka Sho, ¿verdad?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...!",
+      "choice_data_list": [
+        "Sí, por favor."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Entrenador, esto no es—"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "No te preocupes, Flash. Yo accedí a esto misma,\nasí que está bien."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Por supuesto, las cosas fueron muy difíciles\ncuando sucedió."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Hay alguien que es realmente, realmente importante\npara mí, sabes. ¿Puedes adivinar quién?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "La presidenta Symboli Rudolf, supongo. A menudo\nveo a las dos juntas."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Bingo! La razón por la que quería ganar la Triple\nCorona era porque quería ser como la presi."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Y estaba en racha también! Llegué al Derby sin\nuna sola derrota, lo gané e incluso fui elogiada\npor la presi!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Y luego, ¡puf! No pude correr en la última carrera\ny mi sueño se fue por la borda."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sin embargo, todavía corres, incluso ahora."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Cómo lograste recuperar tu rumbo después de ser\narrojada del camino que seguías?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Me pregunté qué haría la presi en mis zapatos."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ella nunca, nunca se rendiría. La presi seguiría\nmirando hacia adelante y seguiría marchando."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Así que eso hice."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡No quería verme mal frente a la persona que\nadmiro!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "La persona que admiras..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Por qué decidiste compartir todo esto conmigo?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Oh, eso es fácil."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Porque la presi habría hecho lo mismo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de separarme de Tokai Teio..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No tengo idea...",
+      "choice_data_list": [
+        "¿De qué?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Qué harían aquellos a quienes admiro—mis padres—en\nmi posición. El pensamiento no se me ocurrió en\nese momento."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Quería convertirme en exactamente como ellos, así\nque me aferré a mi horario."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sin embargo, al final, todo lo que hacía era\nimitar sus métodos."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Ahora que me he desviado de su forma de hacer las\ncosas, no sé cómo mis padres manejarían esta\nsituación.",
+      "choice_data_list": [
+        "Entonces, ¿qué tal si te preguntas qué es lo que\n<i>no</i> harían?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Qué?",
+      "choice_data_list": [
+        "Pensarlo al revés podría ayudar."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Qué es lo que definitivamente no harían? Eso\nsería ..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Entrenador. En cuanto a mi próxima carrera..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Sería posible correr en el Japan Cup un año antes\nde lo programado?",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Corredores de todo el mundo vienen a competir en\nel Japan Cup, y no hace falta decir que solo los\nmejores de los mejores participan en él."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Le di un pensamiento a tu sugerencia—sobre qué no\nharían las personas a quienes admiro,\nconcretamente mis padres."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No abandonarían su camino. Lo más probable es que\nintentarían hacer correcciones de rumbo."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "La razón por la que llegué a esta conclusión es\nporque no es correcto desechar completamente un\nhorario una vez que se ha creado."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Por lo tanto, para que yo corrija el rumbo, debo\nbuscar una ruta paralela que me lleve a través de\nlas mismas dificultades que el Kikuka Sho."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "El Japan Cup tiene la misma longitud que el Derby\ny se celebra en el mismo recinto. Ya he corrido\nesa carrera, así que debería poder recuperarme en\nun mes."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Dado que los grandes de mi generación se centran\nen las carreras de otoño, me enfrentaría a\noponentes de año superior."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Incluso si corro en el Kikuka Sho, debería asumir\neste desafío para compensar los días que he\ndesperdiciado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Japan Cup es extremadamente competitivo,\npero...",
+      "choice_data_list": [
+        "Sé que puedes defenderte, incluso contra\ncorredoras de año superior.",
+        "Sé que puedes defenderte, incluso contra\ncorredoras de año superior."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Gracias. Ahora, ideemos una estrategia para que no\ntenga que comerme mis palabras.",
+      "choice_data_list": [
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Parece que estoy en deuda contigo una vez más.",
+      "choice_data_list": [
+        "¿Por qué dices eso?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Para decir la verdad, estaba completamente perdida\ny no tenía idea de cómo avanzar..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Pero exponerme a perspectivas alternativas, como\ncuando me enfrenté a C.B., ayudó a traer claridad\ny comprensión."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Tiendo a atascarme en mis propios pensamientos,\nasí que agradezco la entrada externa.",
+      "choice_data_list": [
+        "Tus fortalezas compensan con creces el pensar\ndemasiado."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Muchas gracias."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Eishin Flash adopta una mentalidad positiva\nmientras se prepara para el Japan Cup."
+    }
+  ]
+}

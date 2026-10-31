@@ -1,0 +1,221 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mientras camino por la academia, me encuentro con\nWinning Ticket que parece muy preocupada por algo."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ahhh... Ummm... Hmmm!",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Entrenador! ¡Buen momento!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Estaba haciendo práctica extra corriendo con los\ndemás, pero algo empezó a sentirse realmente raro!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Como... ¡Me sentía toda apretada y aplastada!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Entiendes a lo que me refiero?!",
+      "choice_data_list": [
+        "...No, lo siento."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Hombre, sí, ¡eso pensé! Urghhh, ¿cómo puedo\nexplicar esto?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "...¿Eh? Allá, ¿no es ese..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡OYE! ¡RIIIICE!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Te asusté? ¡Lo siento!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡De todos modos, tengo que preguntar! ¿No estabas\nhaciendo práctica libre justo ahora?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Oh, eh... Quiero decir... sí."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Nos cruzamos antes. ¿Por casualidad me viste\ncorriendo?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Eh, sí... más o menos..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Eso es GENIAL! ¡Voy a estar bien, Entrenador!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Qué?!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Rice es súper observadora. ¡Apuesto a que ella\nsabe por qué empecé a sentirme raro!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Q-qué?! Eh, no sé si tengo algo útil que\ndecirte..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡POR FAVOR!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...?!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Si... <i>snif...</i> Si no lo resuelvo... me va a\nobsesionar tanto..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Ni siquiera podré disfrutar mi comiiida!\n¡Waaaahhh!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡O-oh no! P-por favor no llores... Eh, eh..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Espera... ¡Lo sé! Eh, creo que tu velocidad sí\npareció bajar un poco... hacia el final..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Lo noté cuando luchabas por el primer lugar...\nP-pero no, probablemente solo fue mi\nimaginación...",
+      "choice_data_list": [
+        "¿Su velocidad bajó, dices?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Oh, Entrenador?! ¿Has descubierto algo?",
+      "choice_data_list": [
+        "Mejoremos tu potencia de sprint.",
+        "Quizás estabas demasiado consciente de los otros\ncorredores."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Mmm, más potencia, ¿eh? Quieres decir, para que\npueda seguir acelerando incluso al final, ¿verdad?",
+      "choice_data_list": [
+        "Exacto. Intentémoslo en tu próximo entrenamiento."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Entendido!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Guau, realmente eres increíble, Rice! ¡Sabía que\neras súper observadora!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "N-no, probablemente no deberías darle mucha\nimportancia a lo que yo—"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Muchas gracias! ¡Eres increíble! ¡Un genio!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿¡Qué?! N-no, imposible, no soy..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Una Umamusume TOTALMENTE GENIAL!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Aahhh... Mi voz no es lo suficientemente fuerte\npara competir con la de ella..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras Rice Shower se encoge ante los gritos,\nWinning Ticket parece haber superado su confusión."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oh, ahora que lo pienso, hacia el final sí me di\ncuenta de que estaba corriendo con todos a mi\nalrededor!",
+      "choice_data_list": [
+        "¿O sea, te sentiste atrapada?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Whoooaa! ¡Eso es! ¡Hizo que moverse fuera mucho\nmás difícil!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Así que si quiero evitar eso, tengo que asegurarme\nde no quedar atrapada en la multitud!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Muy bien! Ahora que entiendo qué se sentía raro,\nme siento mucho mejor!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Increíble."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Oh? ¿Qué es, qué es?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Oh, eh, eh... Solo creo que es increíble cómo...\nqué rápido te animaste, eso es todo..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿En serio? ¡Tú también tienes que probarlo, Rice!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Q-qué?!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Lo sé—¡deberías venir a entrenar conmigo algún\ndía!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡¿Ehhhh?!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Corramos juntas, y las dos nos sentiremos súper\nrenovadas al final!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No pasó mucho tiempo, Winning Ticket ha\npresionado—eh, <i>convencido</i> —a Rice Shower para\nprogramar una sesión de entrenamiento con ella,y\nparece estar en la luna por ello."
+    }
+  ]
+}

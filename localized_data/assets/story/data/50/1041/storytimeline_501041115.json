@@ -1,0 +1,256 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Continúo entrenando con Sakura Bakushin O para su\npróxima carrera. Un día, algunas buenas noticias\ntocan la puerta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella fue seleccionada para 'The Year's Notable\nUmamusume'. Inmediatamente voy a buscarla para\ncompartir la noticia..."
+    },
+    {
+      "name": "Compañera A",
+      "text": "¡Eres simplemente increíble, Bakushin O!"
+    },
+    {
+      "name": "Compañera B",
+      "text": "¡Tener tu nombre en una revista con tanta\ninfluencia, solo tú podrías lograrlo! ¡La\nvelocidad realmente paga, eh?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Jeje, ¡lo sé, verdad?!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Por supuesto que yo, su muy talentoso\nrepresentante de clase, haría que sus corazones\nestallaran de emoción!"
+    },
+    {
+      "name": "Compañera B",
+      "text": "Yo no lo llevaría tan lejos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que se lo está pasando bien con sus\ncompañeros. Le hablaré después..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Oh, Entrenador! ¡Hola!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Has venido en el momento justo! ¡Actualmente\nestoy siendo inundada con cumplidos!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Nada menos para alguien tan talentosa como yo!\n¡No te sientas tímido para unirte a la diversión!",
+      "choice_data_list": [
+        "¿Sobre qué te estaban felicitando?",
+        "¿Sobre qué te estaban felicitando?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Bueno, ya ves!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Espera, qué era de nuevo?!"
+    },
+    {
+      "name": "Compañera A",
+      "text": "Fuiste seleccionada por una revista para su\nreportaje especial, 'The Year's Notable\nUmamusume'..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡No puede ser!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Qué espléndido! ¡Esas personas de los medios\nrealmente tienen buen ojo para las cosas!"
+    },
+    {
+      "name": "Compañera A",
+      "text": "Solo te dijimos..."
+    },
+    {
+      "name": "Compañera B",
+      "text": "Sabes que así es ella. Entrenador, dejaremos el\nresto en tus manos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus compañeros desaparecen así nomás. Creo que\ntengo una idea de cómo son sus días habituales en\nel salón ahora."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Parece que el mundo está alcanzando mi velocidad\nBakushin!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Por favor, permíteme ver esa revista de inme—"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Eh?! ¿Dónde está todos?!",
+      "choice_data_list": [
+        "Se fueron.",
+        "Se fueron."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ya veo! ¡Entonces debo buscarlo yo misma!",
+      "choice_data_list": [
+        "Tengo una copia en mi oficina.",
+        "Tengo una copia en mi oficina."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le explico a Sakura Bakushin O que este reportaje\nde la revista es por qué vine a buscarla."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ya veo! ¡Entonces partamos hacia tu oficina!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Bakushin!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, su buen humor no dura mucho..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Grrr!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Qué. Es. <i>Esto?!</i> Invoco mi título como\nrepresentante de clase y me opongo a esta\ninformación!",
+      "choice_data_list": [
+        "Creo que han escrito cosas bastante agradables\nsobre ti."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La selección se basó en el voto de unos pocos\nreporteros muy reconocidos. Estaban cantando solo\nalabanzas para Sakura Bakushin O..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡No, no! ¡Estás olvidando algo muy importante!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Solo <i>por qué</i> pusieron mi nombre en la \"División\nde Velocidad\"?!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Aquí dice: \"<i>El Favorito del Pueblo Velocista</i>\"...\n¡Los medios han perdido la cabeza! No, han perdido\ntoda la piscina!",
+      "choice_data_list": [
+        "Eso... es una oración completamente diferente."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Me estás escuchando? ¡No soy una Umamusume para\nser clasificada en una categoría pequeña como\n'velocista'!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Y sabes por qué?! ¡Porque soy representante de\nclase!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Por qué debo estar confinada a una categoría tan\npequeña...? ¡Es frustrante!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Definitivamente, <i>definitivamente</i> ganemos los\nClassics este año! ¡Así les mostraremos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Parece que los elogios fervientes de los\nreporteros solo hacen a Sakura Bakushin O más\ncompetitiva."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No deseo nada más que ella gane los Classics, pero\nincluso si se aleja de las carreras cortas, no\nayudaría mucho a la situación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...¡Tengo que convencer a Sakura Bakushin O de\ncambiar de idea, cueste lo que cueste!",
+      "choice_data_list": [
+        "¡Tengo una idea!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Dime, ¿cuál es?",
+      "choice_data_list": [
+        "¿Esperamos tus resultados en la Spring Stakes?",
+        "¿Esperamos tus resultados en la Spring Stakes?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Eh? ¿Qué quieres decir?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sakura Bakushin O es una Umamusume que está segura\nde ganar cualquier carrera en la que se proponga\ncorrer. Me parece increíble."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, aún le falta. Dependiendo de los\nresultados de la Spring Stakes, podríamos tener\nque revisar nuestros métodos de entrenamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Podría significar concentrarnos en correr\ndistancias más cortas este año para trabajar en\nesa excepcional velocidad suya. O al menos así lo\nexplico..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Entonces quieres decir que existe la posibilidad\nde que no pueda correr en los Classics este año?!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Eso no significaría desviarme del Bakushin Road?!",
+      "choice_data_list": [
+        "¡Debes capear el temporal!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "...!",
+      "choice_data_list": [
+        "Todo esto es para el Arima Kinen..."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Uy! No estoy muy seguro de lo que quieres decir,\npero—"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Sonaste bastante genial!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Creo que le he agarrado el truco de manejarla,\no mejor dicho, guiarla."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Entiendo... ¡Hagamos una promesa! Confío en que la\ncumplirás."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Si llego a perder, entonces me enfocaré en el\nentrenamiento de esprint."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Pero solo si me acerca a mis metas futuras!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...<i>La acercará</i> a su futuro, eso seguro. En\ncualquier caso, esta es una forma de convencerla\nde que se mantenga en el entrenamiento de\nvelocidad."
+    }
+  ]
+}

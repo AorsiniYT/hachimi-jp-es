@@ -1,0 +1,47 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Voy camino al distrito comercial cuando me\nencuentro con Haru Urara cantando una melodía."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Duti-du-du! ♪ Duti-du! ♪",
+      "choice_data_list": [
+        "¿Algo te puso de buen humor?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Oh, Entrenador! ¡Hola!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡La gente del distrito comercial me dio un regalo\nde \"¡tú puedes!\"! ¿No es genial?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡La última vez fue un regalo de \"no te excedas\",\npero ahora es \"¡tú puedes\"!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Apuesto a que es porque ahora tengo mucho más\n\"ímpetu\" en mis carreras!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Y tú eres parte de la razón, Entrenador!",
+      "choice_data_list": [
+        "¡Ambos estamos en esto para ganar!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí! ¡Tres hurras por nosotros! ¡Hip, hip, hurra!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le prometo a Haru Urara que ambos daremos nuestro\nmejor esfuerzo."
+    }
+  ]
+}

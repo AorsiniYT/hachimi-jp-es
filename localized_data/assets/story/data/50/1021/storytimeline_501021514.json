@@ -1,0 +1,226 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy, Tamamo Cross organizará una modesta fiesta de\ntakoyaki para tres."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Muy bien, ¡escuchen! ¡Todo está en la muñeca!\n¡Tienes que dominar el ritmo de chasquido!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Clavas el palillo así y... ¡gira! ¡Gira! Déjalos\nasentarse un segundo, ¡luego sácalos!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Por último, solo rocía la salsa secreta encima y\n¡pum! ¡Tienes un lote de mis takoyaki extra\nsuaves!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Oh, vaya! Eres un genio, Tama."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Lo soy! Si buscas takoyaki, ¡soy la número uno!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Gracias... ¡Quiero que me hagas este takoyaki\ntodas las mañanas!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Guau, ese es un pedido bastante alto que estás\nhaciendo ahí!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Vaya, es takoyaki—no la sopa de miso de tu mamá.",
+      "choice_data_list": [
+        "Eso solo demuestra lo impresionada que está."
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Aún así, ¡me alegra que estés contenta! ¡Y tú,\nEntrenador! ¡Ni siquiera has probado uno!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Vamos, come! ¡Están calientes en el centro, así\nque ten cuidado de no quemarte la lengua!",
+      "choice_data_list": [
+        "Ahí va nada—¡ay! ¡Está caliente!"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Hombre, ¡solo te dije que tuvieras cuidado! Aquí,\ntoma un poco de agua bien fría."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Mm?!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Vaya, ¡no tú también!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Oh, estoy bien, solo me sorprendí... Es tan\nesponjoso y pegajoso."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Los jugos tienen un aroma tan maravilloso... Así\nes como sabe el takoyaki auténtico..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Jeje, un sabor así no es fácil de conseguir, ¿eh?\n¡Ahora prueba uno con mayonesa de hueva de\ncodorniz!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Lo haré! ¡Podría comerme cien de estos!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Hecho, y hecho! ...Realmente eres un pozo sin\nfondo, ¿sabías?",
+      "choice_data_list": [
+        "¡Son tan deliciosos que no puedo parar!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "<i>Mordiendo, mordiendo...</i> Creo que tengo espacio\npara mil más!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Mi brazo se va a caer! Pero oye, ¡me alegra que\nte gusten tanto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tamamo Cross está ocupada cocinando, pero no la he\nvisto comer un solo takoyaki ella misma todavía...",
+      "choice_data_list": [
+        "¿Por qué no comes tú también?"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Eh? Nah, no te preocupes por mí! ¡Me divierto\nsolo haciéndolos!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "La buena comida sabe mejor cuando se comparte con\ntodos. Solo te daré un par de los míos..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Aquí tienes... go... ¡Ngh!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Estoy bien, ¡en serio! Además, es difícil aceptar\ntu oferta cuando te ves tan angustiada por\ncompartirlos!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "No puedo dejarte pasar hambre... Toma el plato—¡oh\nno!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Los takoyaki empiezan a rodar fuera del plato!",
+      "choice_data_list": [
+        "¡No podemos dejar que se desperdicien!",
+        "¡Yo los salvaré!",
+        "¡Yo los salvaré!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Los takoyaki empiezan a rodar fuera del plato!",
+      "choice_data_list": [
+        "¡No podemos dejar que se desperdicien!",
+        "¡Yo los salvaré!",
+        "¡Yo los salvaré!"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Justo lo que estaba pensando! ¡Hup!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "<i>Mordiendo, mordiendo...</i> ¡Je! ¡Lo atrapé! Mmm sí,\n¡no hay como mis takoyaki!",
+      "choice_data_list": [
+        "Gracias a Dios..."
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Un poco de takoyaki ayuda mucho! ¡No voy a dejar\nque se desperdicie ni un solo bocado de comida!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "De acuerdo. Tama pudo vencerme esta vez, ¡pero la\nsiguiente bola es mía!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Oh, ¿en serio? Parece que tenemos una carrera\naquí. Pero te advierto, ¡si hacemos esto, yo gano!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Espera, ¿por qué no simplemente los comemos\nnormalmente?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El grito desconcertado de Tamamo Cross resuena por\nla habitación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Me tiro al suelo, atrapando el takoyaki en mi\nboca antes de que toque el suelo!",
+      "choice_data_list": [
+        "Uf, están tan calientes..."
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Guau! ¡Ese es el espíritu, Entrenador!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Atraparlo en el aire fue un movimiento audaz!",
+      "choice_data_list": [
+        "Pusiste tanto esfuerzo haciéndolos. No podía dejar\nque se desperdiciara ninguno."
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Hombre, ¡sabes cómo halagarme... pero es difícil\ntomarte en serio cuando tienes salsa por toda la\ncara.",
+      "choice_data_list": [
+        "¿Eh, aquí?"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡No, no ahí! Vaya, mírate, manchando comida por\ntoda la cara como un bebé."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Solo te lo limpiaré... ¡Muy bien, limpio!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Oh, e-espera, no, ¡lo siento! Estoy tan\nacostumbrada a mis hermanos y todo..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Eres bastante maternal, ¿eh, Tama...",
+      "choice_data_list": [
+        "Gracias, mamá."
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Vaya. ¿Qué esperas cuando tengo que cuidar a\nustedes dos todo el—espera, ¿quién me llama mamá?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El grito exasperado de Tamamo Cross resuena por la\nhabitación."
+    }
+  ]
+}

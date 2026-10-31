@@ -1,0 +1,257 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras trabajo en mi oficina, Sakura\nChiyono O entra de golpe."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Entrenador! Aquí tienes una lección: \"¡La naranja\nmás jugosa es la que va al frente!\"",
+      "choice_data_list": [
+        "¿Y eso qué se supone que significa?",
+        "¿Y eso qué se supone que significa?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Si comes una caja de naranjas demasiado lento,\ntodas se pondrán mohosas antes de que te des\ncuenta."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Por eso tienes que comerlas mientras estén\nmaduras y en temporada! ¡Lo mismo aplica para\ndisfrutar otras cosas mientras están en temporada!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "De todos modos, ¿estás libre este fin de semana?",
+      "choice_data_list": [
+        "¿Este fin de semana?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Sí! Es diciembre, y sabes lo que eso significa..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Es la temporada! La temporada navideña, para ser\nexactos."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Entrenador, mira! ¡Las luces de allá son\npreciosas!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Oh! ¡También hay montones de ofertas de invierno!\n¿Por qué no vamos a echar un vistazo?",
+      "choice_data_list": [
+        "Seguro que estás emocionado.",
+        "Seguro que estás emocionado."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Jeje. ¿Cómo no iba a estarlo? ¡Quiero disfrutar\nesto al máximo!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Después de todo, las estaciones van y vienen en\nun abrir y cerrar de ojos."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Si solo se nos permite disfrutar ciertas cosas en\nciertos momentos, entonces quiero aprovecharlas al\nmáximo mientras pueda."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Y si estoy contigo, siento que puedo experimentar\nla temporada de una manera más madura. Jeje.",
+      "choice_data_list": [
+        "¿Qué te hace pensar eso?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Oh, no actúes como si no supieras de qué hablo!\nVamos, llévame a un café elegante al que los niños\nno puedan ir, ¿por favor?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Quiero disfrutar las fiestas en algún lugar que\nno sea la arcade o el centro comercial!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si acaso, las súplicas de Chiyono la hacen parecer\n<i>más</i> infantil, pero estoy de acuerdo en buscar\nun lugar que se adapte a sus deseos."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿P-p-pero esto será s-simplemente mi imaginación,\nn-no creen que este lugar para comer es un poco,\neh, e-extravagante?",
+      "choice_data_list": [
+        "¿Por qué hablas así?"
+      ]
+    },
+    {
+      "name": "Waitstaff",
+      "text": "¿Puedo tomar su orden de bebida, señorita?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Oh, eh... Tomaré té con leche, p-por favor..."
+    },
+    {
+      "name": "Waitstaff",
+      "text": "Jeje. Volveré con su té. Disfruten."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Uf... Realmente siento que he subido de nivel en\nmadurez.",
+      "choice_data_list": [
+        "¿Solo porque estamos aquí?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Falalala! ♪"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Oh. Esta canción..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Yo también la reconozco. Es una canción popular en\nesta época del año."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Jeje. La escucho todo el tiempo, pero escucharla\naquí de alguna manera la hace sentir especial."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Este es un lugar tan especial y desconocido para\nmí. Imagina si se hubiera lanzado un hechizo aquí\npara detener el flujo del tiempo."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Entonces este día duraría para siempre. El próximo\naño nunca llegaría, y el tiempo solo se repetiría.",
+      "choice_data_list": [
+        "...La magia así no existe."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Sí, es verdad. Lo sé mejor que eso."
+    },
+    {
+      "name": "Waitstaff",
+      "text": "Aquí está su té con leche. Lo dejaré en la mesa\npara usted."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "O-oh, ¡gracias!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Ves? Ahora mi té con leche está aquí.",
+      "choice_data_list": [
+        "Algunas cosas solo suceden debido al paso del\ntiempo."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Como la llegada de mi té con leche?",
+      "choice_data_list": [
+        "Sí. Bébelo antes de que se enfríe."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Es dulce, pero tan ligero y refrescante.",
+      "choice_data_list": [
+        "Incluso ese sabor es gracias al paso del tiempo."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Ah... Jeje. Sí, tienes razón."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras escucha la música festiva, Sakura Chiyono\nO se bebe todo su té con leche."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Ves? Ahora mi té con leche está aquí.",
+      "choice_data_list": [
+        "Algunas cosas solo suceden debido al paso del\ntiempo."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Como la llegada de mi té con leche?",
+      "choice_data_list": [
+        "Como la llegada de tu té con leche."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Brrr! Aquí afuera sí que se ha puesto frío.",
+      "choice_data_list": [
+        "Bueno, adentro estaba muy cálido."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Verdad... ¡Espera!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Wow! ¡Qué hermoso! ¡Mira eso! Las luces son\ndiferentes a las de esta tarde..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Oh... Debo poder verlas así solo gracias al paso\ndel tiempo también.",
+      "choice_data_list": [
+        "Eso es.",
+        "Eso es."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Ya veo... Es impresionante..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Eres tan maduro, Entrenador. Sabes mucho más que\nyo.",
+      "choice_data_list": [
+        "Soy un adulto, después de todo."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Jeje. Supongo que también seguiré volviéndome más\nmadura con el tiempo."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Cuando pienso que podría crecer para ser más como\ntú, me hace esperarlo un poco."
+    }
+  ]
+}

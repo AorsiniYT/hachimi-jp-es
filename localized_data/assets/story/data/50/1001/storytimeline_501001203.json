@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Special Week",
+      "text": "Uf... Esta atmósfera es algo más... Es como si\ntodos estuvieran al límite."
+    },
+    {
+      "name": "Special Week",
+      "text": "Me pregunto si Sei se siente igual."
+    },
+    {
+      "name": "Special Week",
+      "text": "Dicen que la Umamusume que gana el Kikuka Sho es\nla mejor, ¿verdad?",
+      "choice_data_list": [
+        "Tenemos que ganarlo si quieres convertirte en la\nmejor de Japón.",
+        "Tenemos que ganarlo si quieres convertirte en la\nmejor de Japón."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Sí, así es!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Vuelvo pronto, Entrenador!"
+    }
+  ]
+}

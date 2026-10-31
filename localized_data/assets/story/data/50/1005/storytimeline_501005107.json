@@ -1,0 +1,223 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Estudiantes",
+      "text": "Aaaaah!"
+    },
+    {
+      "text": "Hoy, la Academia Tracen está llena de los ecos de\ngritos agudos. La causa de todo esto? Fuji Kiseki.",
+      "color_text_info_list": [
+        "Academia Tracen"
+      ]
+    },
+    {
+      "text": "Una fila larga, larga serpentea por el patio como\nhilo enredado."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Gracias. Saborearé cada bocado de este chocolate\nque tan amablemente hiciste para mí."
+    },
+    {
+      "name": "Fan de Umamusume A",
+      "text": "¡Espero que te guste!"
+    },
+    {
+      "name": "Miembro del Club de Fans de Fuji",
+      "text": "¡Bien! ¡Siguiente en fila, por favor!"
+    },
+    {
+      "name": "Fan de Umamusume B",
+      "text": "¡S-siempre voy a tus carreras, Fuji! ¡Te estoy\nanimando!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Gracias. Seguiré haciendo todo lo posible para que\nvalga la pena para ti."
+    },
+    {
+      "name": "Fan de Umamusume B",
+      "text": "¡O-oh!",
+      "choice_data_list": [
+        "(Debe ser difícil ser tan popular.)"
+      ]
+    },
+    {
+      "text": "Fuji Kiseki saluda a cada uno de sus fans con una\nsincera sonrisa y encantadora cortesía—la fila\nnunca parece acortarse."
+    },
+    {
+      "text": "Por la noche..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Buenas noches, Entrenador!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Gracias a Dios que aún estás aquí! Quería venir a\nverte al almuerzo, pero estaba muy ocupada.",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Jeje. Solo pensé que tal vez habrías estado\nesperando algo de mí."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Mantén esto en secreto de todos, ¿vale? Feliz Día\nde San Valentín."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...¿Eh? ¿A dónde se fue?",
+      "choice_data_list": [
+        "...?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Hice un poco de chocolate solo para ti, pero se\nfue!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Podría haberlo extraviado en el almuerzo? Pero\nno, aún lo tenía hace un momento..."
+    },
+    {
+      "text": "Fuji Kiseki murmura para sí misma mientras\nfranticamente vuelve todos sus bolsillos del\nrevés, pero el chocolate en cuestión no se\nencuentra por ningún lado."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Oh no, ¡debo haberlo perdido! Lo siento mucho...",
+      "choice_data_list": [
+        "¡Está bien!",
+        "¡Está bien!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "No, no es e—¡espera! ¿Puedes revisar tus bolsillos\ntambién?",
+      "choice_data_list": [
+        "¿Eh? ¿Por qué?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Por favor? ¿Puedes solo revisar tu bolsillo\nderecho rápidamente?"
+    },
+    {
+      "text": "No puede ser... Meto la mano en mi bolsillo... y\nsaco un chocolate bellamente envuelto."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Jeje, espero que no hayas pensado que eso fue\ndemasiado cursi. No es el Día de San Valentín\ntodos los días, así que quería sorprenderte.",
+      "choice_data_list": [
+        "¡Gracias!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "No. Gracias <i>a ti.</i> Espero con interés nuestra\ncolaboración continua."
+    },
+    {
+      "text": "Fuji Kiseki y yo pasamos un inolvidable Día de San\nValentín juntos."
+    },
+    {
+      "text": "Fuji Kiseki saca un hermoso ramo de flores.",
+      "choice_data_list": [
+        "¡Gracias!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡De nada! Además... tengo una petición.",
+      "choice_data_list": [
+        "¿Qué es?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Esto podría sonar extraño, pero ¿puedo tener una\nde estas flores?"
+    },
+    {
+      "text": "No estoy segura de por qué quiere una, pero no veo\nrazón para negarme."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Gracias! Solo tengo <i>mucho</i> hambre."
+    },
+    {
+      "text": "Ella lleva el ramo a sus labios..."
+    },
+    {
+      "text": "Y se come una pequeña rosa.",
+      "choice_data_list": [
+        "¿¡Qué demonios!?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Mmm, eso estuvo delicioso."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Me encantan las rosas. Las espinas pueden ser\ndolorosas de comer a veces, pero eso solo añade a\nla textura."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Mis favoritas son las rosas rojas. Su dulce\nfrutalidad las hace extra sabrosas."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Qué dices? ¿Quieres probar un bocado?"
+    },
+    {
+      "text": "Ella me entrega el ramo, y yo lo sostengo\ntontamente, sin saber qué hacer."
+    },
+    {
+      "text": "Entonces, noto el dulce olor a caramelo.",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Jeje, ¿finalmente notaste? ¡En realidad están\nhechos de azúcar!",
+      "choice_data_list": [
+        "¿Qué?"
+      ]
+    },
+    {
+      "text": "Es imposible decir que son falsos sin acercarse\nmucho a mirarlos. Sus colores y formas se ven\nexactamente como el verdadero."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Están bastante bien hechos si lo digo yo mismo. Yo\npractiqué hacerlos solo para hoy."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Quería darte un presente memorable. ¿Cómo lo hice?",
+      "choice_data_list": [
+        "¡Realmente me sorprendiste!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Ajaja! ¡Lo llamaré un éxito, entonces!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Ejem!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "\"Las rosas son rojas, las violetas son azules, el\nazúcar es dulce, pero no tan dulce como tú.\""
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Brindo por más dulces días juntos, mi querido\nEntrenador."
+    },
+    {
+      "text": "Fuji Kiseki y yo pasamos un inolvidable Día de San\nValentín juntos."
+    }
+  ]
+}

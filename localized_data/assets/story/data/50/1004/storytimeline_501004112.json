@@ -1,0 +1,241 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, Maruzensky me contacta sobre algún tipo de\n\"cita especial\", y cuando llego a la estación para\nencontrarla..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡BRRRUUUM!</i>"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oye, Entrenador! ¿Disfrutando tus días de ser\njoven y libre?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oye, Entrenador! ¿Disfrutando tus días de ser\njoven y libre?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Maruzensky está allí en su speedster rojo.\nRealmente ama ese coche.",
+      "choice_data_list": [
+        "...¿Joven y libre?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Cuando llamé a mi mamá el otro día, me dijo algo."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ella dijo: \"¡Ciertamente estás aprovechando al\nmáximo tu juventud! Deberías recordar agradecer a\ntu entrenador.\""
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Así que estoy aquí para agradecerte y dar un poco\nde exuberancia juvenil! ¡Tengo un boleto para\nSpringtopia con tu nombre! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras dice esto, Maruzensky saca algo para\nmostrármelo..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Es un vale para aguas termales!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, y este es tu único tren para allá."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Si recuerdo correctamente, tú <i>prometiste</i>que irías\nconmigo."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Si recuerdo correctamente, tú <i>prometiste</i>que irías\nconmigo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tiene razón. Hicimos esa promesa cuando ella ganó\nel vale en una rifa.",
+      "choice_data_list": [
+        "¡Por supuesto! Entonces... ¿deberíamos ir en tren?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Qué, quieres hacer sentir mal a Tata? ¡Vamos,\nsube ya! ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Una vez que lleguemos al hostal, vamos a meternos\ndirecto en las aguas termales, luego beberemos\nleche, y finalmente tendremos una pelea de\nalmohadas!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Va a ser increíble!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Conduciendo salvajemente a toda velocidad, de\nalguna manera llegamos a las aguas termales sanos\ny salvos..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, ¿están limpiando los baños ahora?"
+    },
+    {
+      "name": "Dueña del hostal",
+      "text": "Me temo que sí. Tengan nuestras más sinceras\ndisculpas por hacerlos esperar."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Para nada! ¡Ahora que sé que los baños estarán\nbrillando de limpios, los ansío aún más!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Qué dices, Entrenador? Vamos a matar el tiempo,\n¿no?",
+      "choice_data_list": [
+        "¿Tal vez podamos relajarnos en nuestras\nhabitaciones separadas?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Qué dices, Entrenador? Vamos a matar el tiempo,\n¿no?",
+      "choice_data_list": [
+        "¿Tal vez podamos relajarnos en nuestras\nhabitaciones separadas?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "<i>¡Ni hablar!</i> Necesitamos un plan más emocionante\npara pasar nuestro tiempo..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Mmm... ¡El viento es tan refrescante! Y hay un río\ntambién!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oye, amigo! ¡Vamos a meternos en el agua!",
+      "choice_data_list": [
+        "Descalzo en un río... Justo como cuando era niño."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oye, amiga! ¡Vamos a meternos en el agua!",
+      "choice_data_list": [
+        "Descalzo en un río... Justo como cuando era niño."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Exacto! ¡Ese es mi plan lleno de juventud!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Hoy seamos solo niños!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Después de todo, somos los únicos aquí!",
+      "choice_data_list": [
+        "...Supongo que sí.",
+        "...Supongo que sí."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Jaja! ¡Respuesta correcta!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡La escuela terminó por el verano, así que es hora\nde jugar!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Vamos, vámonos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Chis, chas</i>"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Jaja! ¡Esto se siente tan bien! ¡Toma esto,\nEntrenador!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Jaja! ¡Esto se siente tan bien! ¡Toma esto,\nEntrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Maruzensky y yo continuamos jugando en el río\nhasta que el sol se pone."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Regresamos al hostal empapados y nos dirigimos a\nlas aguas termales, todavía riendo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Chirridos, chirridos... Spshhhh...</i>"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hm hm hmmmm... ♪ ¿Eh?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Ay! ¿Qué demonios...?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Soy tan despistada! No puedo creer que olvidé\nponerme protector solar!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Jeje, me pregunto cuál de las dos se emocionó\nmás..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Jeje, me pregunto cuál de las dos se emocionó\nmás..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Remojándonos en las aguas termales..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oye, Entrenador. ¿No estuvo genial el agua\ncaliente?",
+      "choice_data_list": [
+        "¡Estuvo genial!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Remojándonos en las aguas termales..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oye, Entrenador. ¿No estuvo genial el agua\ncaliente?",
+      "choice_data_list": [
+        "¡Estuvo genial!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Jeje. ¡Me alegra que te estés divirtiendo!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Muy bien, ¡ahora bebamos algo de leche! Luego será\nhora de nuestra pelea de almohadas!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Disfrutemos siendo jóvenes un poco más, no?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siento que Maruzensky y yo hemos formado un\nvínculo irremplazable durante este tiempo juntos."
+    }
+  ]
+}

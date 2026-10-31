@@ -1,0 +1,35 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Estoy en medio de una reunión con Fuji Kiseki,\ncuando..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ngh... Perdón, mi garganta se siente un poco rara\nhoy.",
+      "choice_data_list": [
+        "¿Estás bien? ¿Atrapaste un resfriado o algo?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "No, no es eso."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "La cosa es que fui a cantar karaoke ayer."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Tenían muchas canciones de musicales menores, así\nque me emocioné."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Terminé cantando cada una como si estuviera\nactuando en el escenario, y... <i>¡Tos,tos!</i>"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ugh... He aprendido la lección. Nunca es bueno\nexcederse, ya sea en carreras o cantando."
+    }
+  ]
+}

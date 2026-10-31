@@ -1,0 +1,287 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Fuji Kiseki se ha llevado la victoria! Como se\nesperaba, ¡actuó de manera notable!"
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Cada vez está mejor! ¿Viste ese poder explosivo\nsuyo? ¡Salió de la zona de preparación como un\ncohete!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Oh, sé que ganará la Triple Corona este año!\n¡Estoy tan emocionado!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "(¡Todos tienen tanta fe en mí!)"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Perfecto!"
+    },
+    {
+      "text": "La carrera terminó hace rato, y estoy dando un\npaseo para ayudar a mi cena a digerir, cuando..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Haaaaah!"
+    },
+    {
+      "text": "Encuentro a Fuji Kiseki entrenando sola.",
+      "choice_data_list": [
+        "¿Qué estás haciendo aquí?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Hola, Entrenador! ¡Perdón por escaparme sin decir\nnada!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Mi próxima carrera es el Satsuki Sho—la primera\ncarrera de la Triple Corona Clásica."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Es una carrera de alto perfil incluso entre las\ncarreras clásicas, ampliamente publicitada y\ntransmitida en todas partes."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Todos tienen grandes esperanzas en mí. Cuando\npienso en cuánto esperan de mí, simplemente no\npuedo quedarme quieta."
+    },
+    {
+      "text": "Parece que la presión la está afectando. No puedo\ndejar que lo cargue todo sola.",
+      "choice_data_list": [
+        "Déjame unirme a ti.",
+        "Déjame unirme a ti."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿En serio? ¿Estás seguro? Pero debes estar cansado\nde hoy...",
+      "choice_data_list": [
+        "Estoy segura. Soy tu entrenador, ¿verdad?",
+        "Estoy segura. Soy tu entrenador, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Jeje! ¡Así que eres!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Gracias. Aceptaré tu oferta, entonces."
+    },
+    {
+      "text": "Entrenamos hasta que es casi la hora del toque de\nqueda."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "<i>¡Haa... Resuello...</i> ¿Cómo estuvo mi tiempo?"
+    },
+    {
+      "text": "Miro el cronómetro en mi mano. Es un buen tiempo,\ncerca de su mejor marca personal, pero..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Mmm... Eso no es lo suficientemente bueno."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Para darle a todos el espectáculo que realmente\nquieren, no será suficiente con que simplemente\ncorra y gane."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Me pregunto si puedo superar mi velocidad máxima y\nextender mi límite solo un paso más."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Estoy segura de que haría una carrera\nsorprendente, pero..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Supongo que todo está en el ritmo. ¡Voy a quedarme\nun poco más y trabajar en descubrir mis límites!"
+    },
+    {
+      "text": "Ella intenta, falla e intenta de nuevo mientras\nintenta apuntar más alto y mejorar.",
+      "choice_data_list": [
+        "(Debería detenerla pronto.)"
+      ]
+    },
+    {
+      "text": "Ha entrenado mucho más de lo que debería en un\ndía. Justo cuando miro hacia arriba para decirle\nque esta será su última vuelta..."
+    },
+    {
+      "text": "Veo cómo pasa junto a mí a una velocidad\nincreíble.",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Más rápido! ¡Tengo que correr... más rápido!"
+    },
+    {
+      "text": "Ella está corriendo más allá de su velocidad\nmáxima. La tierra vuela por el aire y el viento\naúlla."
+    },
+    {
+      "text": "Se ve como un cohete, desgarrándose en el espacio.\nNo. Se ve más como una estrella fugaz, ardiendo en\nel cielo nocturno."
+    },
+    {
+      "text": "Bajo la luna vigilante, Fuji Kiseki sprinta\npasando la línea de meta."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Raaaaah!"
+    },
+    {
+      "text": "Es extraño. No hay nadie a nuestro alrededor, pero\nsiento que puedo escuchar el sonido de una\nmultitud animándola."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "<i>¡Haa... Resuello...</i> ¿Cómo estuvo? ¿Cómo lo hice?!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Oye, has dejado caer el cronómetro!",
+      "choice_data_list": [
+        "¿Qué?!"
+      ]
+    },
+    {
+      "text": "¡Debo haber estado tan cautivada que ni siquiera\nme di cuenta de que lo había dejado caer!"
+    },
+    {
+      "text": "Pero no hay duda de que Fuji Kiseki corrió más\nrápido de lo que jamás había corrido durante ese\nsprint final."
+    },
+    {
+      "text": "Si puede correr tan rápido, entonces ganar la\nTriple Corona no es un sueño tan distante. Pero\nmás que nada...",
+      "choice_data_list": [
+        "(¡Ese fue un sprint tan cautivador!)"
+      ]
+    },
+    {
+      "text": "En ese momento, parece más claro que nunca que\nFuji Kiseki tiene lo que se necesita para ser una\nverdadera artista."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Es una carrera de alto perfil incluso entre las\ncarreras clásicas, ampliamente publicitada y\ntransmitida en todas partes."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Todos tienen grandes esperanzas en mí. Cuando\npienso en cuánto esperan de mí, simplemente no\npuedo quedarme quieta."
+    },
+    {
+      "text": "Ella parece nerviosa por subir a un escenario tan\ngrande, y me pregunto qué puedo hacer para\nayudarla."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Jeje! Entrenar en la playa hace que se sienta\ncomo ¡estamos en un campamento de verano!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "El viento se siente tan agradable y fresco.\n¡Vuelvo ya! ¡Voy a dar una vuelta rápida!"
+    },
+    {
+      "text": "Después de esa conversación con Fuji Kiseki,\nbusqué áreas escénicas en Kanto, encontré una\nplaya famosa por su paisaje, y la traje aquí para\nentrenar."
+    },
+    {
+      "text": "Al parecer, es particularmente impresionante justo\nalrededor de la puesta del sol."
+    },
+    {
+      "text": "También tengo un truco más bajo la manga, por así\ndecir.",
+      "choice_data_list": [
+        "(¡Voy a hacer que esto funcione o morir\nintentándolo!)"
+      ]
+    },
+    {
+      "text": "En realidad, pasé toda la noche practicando un\ntruco de magia para ella.",
+      "choice_data_list": [
+        "(¡Apuesto a que estará tan sorprendida!)"
+      ]
+    },
+    {
+      "text": "Mientras realizo ejercicios y ayudo a Fuji Kiseki\na entrenar, espero que ella pueda encontrar algo\nde paz y tranquilidad hoy."
+    },
+    {
+      "text": "Las horas pasan, y finalmente, el sol comienza a\nponerse."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Oh, guau!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Mira, Entrenador! La vista es espectacular... ¡Es\ncomo un cuadro!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "El océano se ve como oro derretido. ¡No tenía idea\nde que una puesta del sol pudiera verse tan\nhermosa!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Solo la vista de eso me hace sentir como si\nhubiera sido reinvigorado, cuerpo y alma!"
+    },
+    {
+      "text": "Este no es el único sorpresa que tengo preparada\npara ella, sin embargo. Señalo hacia arriba hacia\nla primera estrella de la noche.",
+      "choice_data_list": [
+        "¡He aquí, una estrella digna de tu gracia!",
+        "¡He aquí, una estrella digna de tu gracia!"
+      ]
+    },
+    {
+      "text": "Extiendo la mano en un gran gesto y me muevo como\nsi estuviera arrancando la estrella del cielo.\nLuego, deslizo el broche con forma de estrella que\ntenía en la palma de mi mano.",
+      "choice_data_list": [
+        "¡Lo arrebataré de su percha como un regalo para\nti—¡ups!",
+        "¡Lo arrebataré de su percha como un regalo para\nti—¡ups!"
+      ]
+    },
+    {
+      "text": "Tropiezo en el último segundo y el broche se cae\nde mi mano, deteniendo el truco de repente."
+    },
+    {
+      "text": "Me agacho rápidamente para recuperar el broche.\nEstoy demasiado avergonzado para mirar a Fuji\nKiseki a los ojos."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Me sorprendiste...",
+      "choice_data_list": [
+        "¡L-lo siento por eso!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Jeje! ¿Por qué te disculpas? ¡Fue tan\nconsiderado!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "No tenía idea de que tenías tanto planeado para\nmí."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hiciste todo esto por lo alterada que estaba\nantes, ¿verdad? Lo siento por preocuparte."
+    },
+    {
+      "text": "Ella toma el broche cubierto de arena de mí."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Es hermoso... Es la estrella más hermosa que jamás\nhaya existido."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Así que esto es lo que se siente al estar en el\nlado recibidor de las cosas..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Gracias."
+    },
+    {
+      "text": "Después de eso, disfrutamos juntos de la hermosa\npuesta del sol."
+    },
+    {
+      "text": "La próxima carrera es el Satsuki Sho, y quiero\nestar ahí para Fuji Kiseki en cada paso del\ncamino!"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Biwa Hayahide tiene una lesión grave, así que\ncancelo la práctica y voy a visitarla para dejarle\nalgunas cosas."
+    },
+    {
+      "name": "Doctora de la enfermería",
+      "text": "¡Hola! Si buscas a Hayahide, salió para el\ngimnasio hace un rato."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "<i>Jadeando... jadeando...</i> No pensé... que esta\nlesión me afectaría tanto...",
+      "choice_data_list": [
+        "¡¿Qué estás haciendo?!",
+        "¡¿Qué estás haciendo?!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Entrenador!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Lo sé. Lo siento, pero por favor, no te preocupes."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sufrí una lesión grave de niña, así que sé lo\ndesastroso que puede ser un contratiempo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Por eso no quiero perder el tiempo. Quiero seguir\nperfeccionando mis ecuaciones en su lugar."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Prestaré mucha atención a mi lesión mientras sigo\nhaciendo mis cálculos, así que por favor..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Por favor, no me impidas progresar!",
+      "choice_data_list": [
+        "Tenemos que volver a la enfermería.",
+        "Si estás tan decidida a hacer esto... ¡entonces lo\nharemos juntos!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Ya veo. Así que no me queda más que quedarme\nquieta mientras todos sprintean por delante otra\nvez...",
+      "choice_data_list": [
+        "Si tu lesión empeora, <i>nunca</i> las alcanzarás."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tienes razón. Lo sé... Intelectualmente, al menos."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sé que no puedo cometer el mismo error que en el\npasado. Pero..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No, olvídalo. Haré como dices."
+    },
+    {
+      "text": "Biwa Hayahide lucha ferozmente contra sus miedos\nde quedarse atrás, pero acepta descansar y\nrecuperarse."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Gracias... Gracias por entender. ¡Empecemos!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Ah!"
+    },
+    {
+      "text": "<i>¡Golpe!</i>",
+      "choice_data_list": [
+        "¿¡Hayahide!?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "E-estoy bien... Solo... solo me tropecé."
+    },
+    {
+      "text": "Biwa Hayahide está tan agobiada por su primera\nlesión que termina causándose otra. Ahora tardará\naún más en sanar..."
+    },
+    {
+      "text": "Después de eso, empiezo a trabajar con ella para\nprobar sus cálculos."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ya veo... Según esta frecuencia cardíaca... la\ncantidad de esfuerzo muscular disminuyó, como\npredije."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "<i>Uf...</i> Bueno, eso fue productivo. Incluso aprendí\ncosas no relacionadas con mis cálculos.",
+      "choice_data_list": [
+        "¿A qué te refieres?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Me di cuenta de que tengo otras ventajas además de\nmis habilidades analíticas. Tengo a alguien a mi\nlado, dispuesto a repasar teorías y cálculos\njuntos, todo por el bien de la mejora."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Lo que quiero decir es... que eres increíblemente\nimportante para mí. No puedo esperar para empezar\na entrenar de nuevo."
+    }
+  ]
+}

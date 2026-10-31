@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Entro."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Suspiro...</i> Necesito acostarme en el sofá.",
+      "choice_data_list": [
+        "¿Qué pasó?",
+        "¿Qué pasó?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Nada. Incluso una estudiante de honor como yo\nnecesita un descanso de vez en cuando."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Y como solo estás tú aquí, este lugar es\nperfecto."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "De todos modos, voy a estar aquí un rato. Ahora\nvuelve a tu trabajo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Daiwa Scarlet está agotada... Tendré\nque tener cuidado de no exigirle demasiado."
+    }
+  ]
+}

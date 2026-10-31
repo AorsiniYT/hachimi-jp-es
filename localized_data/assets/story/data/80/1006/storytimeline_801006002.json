@@ -1,0 +1,68 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día, mientras paso por la estación de camino a\ncasa..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hmm, ¿qué debería hacer?",
+      "choice_data_list": [
+        "¿Algo te preocupa?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí. Quiero comprar un boleto, pero hay tanta gente\nque no puedo llegar a las máquinas expendedoras de\nboletos."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "No sé qué hacer...",
+      "choice_data_list": [
+        "Ábrete paso entre la multitud.",
+        "Espera el momento adecuado para colarte."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Abrirme paso, huh? Vale. Eso es algo que se me da\nbien."
+    },
+    {
+      "text": "Oguri Cap se dirige a la máquina expendedora de\nboletos, abriéndose paso entre la multitud como\nuna quitanieves en pleno invierno."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Uf... Logré conseguir un boleto. Eso fue más\ndifícil de lo que pensé."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "No tenía idea que hacer una compra en una máquina\nexpendedora de boletos sería una experiencia tan\nestresante..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "De todos modos, gracias. Tu consejo fue muy útil.\nAhora me voy."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Esperar el momento adecuado, ¿eh? Vale, veré qué\npuedo hacer."
+    },
+    {
+      "text": "Oguri Cap se abre paso lentamente entre la\nmultitud y sale justo frente a la máquina\nexpendedora de boletos."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Gracias por el consejo. Logré agarrarme un boleto."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Oh, parece que mi tren está casi aquí. Mejor me\nvoy ahora. Adiós."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Esperar el momento adecuado..."
+    },
+    {
+      "text": "Igualar el ritmo de los que te rodean, luego\nirrumpir en el momento final... Eso podría ser una\nbuena estrategia de carrera en pistas más lentas."
+    }
+  ]
+}

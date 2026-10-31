@@ -1,0 +1,187 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Haru Urara y Rice Shower son elegidas para un\nreportaje especial de \"Umamusume Friends\"."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¿Pueden contarme sobre un momento que dejó una\nimpresión en las dos?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Impresión? ¿Quieres decir como algo sorprendente?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Mmm, me sorprende cada día... No puedo pensar en\nalgo específico!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "U-una impresión?! Um... Bueno yo..."
+    },
+    {
+      "name": "Reportera A",
+      "text": "Eh, permíteme reformular... ¿Cuál es un buen\nrecuerdo que las dos comparten?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Un recuerdo? ¡Pero siempre estamos creando\nrecuerdos!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Mmm... Eh..."
+    },
+    {
+      "name": "Reportera A",
+      "text": "Oh, ya veo... Entonces, eso significa... ¿tienen\nmuchos recuerdos juntas?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esta entrevista no está yendo como el periodista\nesperaba."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¿Qué tal si tomamos un pequeño descanso para\nreplantear mi enfoque? Quiero obtener la mejor\ntoma posible de estos dos.",
+      "choice_data_list": [
+        "Suena bien. Gracias."
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Hola, Entrenador! ¿Cómo nos fue? ¿Lo hicimos\nbien?",
+      "choice_data_list": [
+        "Tu personalidad realmente brilló."
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Jeje! ♪ ¡Yay! Las entrevistas son más difíciles\nde lo que pensé, pero son muy divertidas!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Eh? Rice, ¿qué pasa?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "L-lo siento por estar tan callada. Tenemos tantos\nrecuerdos juntos... Pero no pude hablar de\nninguno..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Estaba muy feliz de ser elegida para el reportaje\nespecial contigo, pero lo arruiné todo..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡¿Qué?! ¡No seas tonto! Yo también estoy súper\nfeliz, ¡sabes!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Es como un sueño hecho realidad estar en un\nreportaje especial contigo!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "P-pero yo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En ese momento, se me ocurre una buena forma de\ncalmar los nervios de Rice Shower y la energía de\nHaru Urara.",
+      "choice_data_list": [
+        "Calmarlos con aperitivos.",
+        "Anímales a salir a jugar."
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Aperitivos?! ¡Hurra! ¡Gracias!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Eh? ¿De verdad está bien que yo también tenga?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Haru Urara y Rice Shower pasan el tiempo\natiborrándose de aperitivos juntos."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Uf! ¡Estaba delicioso! Me pregunto por qué saben\nmejor de lo normal?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Probablemente están imbuidos de un tipo especial\nde magia que crea sentimientos felices..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Oh! Eso me recuerda al pastel de zanahoria que\nhicimos antes!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Le echamos un hechizo de buena suerte, y salió\nmuy bueno!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Sí! ¡A mí también me sorprendió! Un bocado me\ndejó muy feliz."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Rice, ¡hagamos otro!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Sí! ¡Y lo encantaremos de nuevo!"
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Qué historia tan maravillosa! ¿Puedes contarme\nmás sobre ella?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El ambiente está mucho mejor cuando la entrevista\ncomienza de nuevo, y la reportera obtiene más que\nsuficiente material para el reportaje especial."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Podemos ir a jugar? ¡Hurra!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Te pillé!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿¡Eh?! ¿¡Qué?!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ahora tienes que intentar pillarme!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Ah! ¡Ah! ¡Despaciooo!"
+    },
+    {
+      "name": "Reportera A",
+      "text": "Espera. Eso es..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La reportera nota a las dos corriendo emocionadas\npor ahí y prepara la cámara."
+    },
+    {
+      "name": "Reportera A",
+      "text": "Je, ¡esto quedará una buena toma!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Te pillé! ¡Jejeje!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Jajajaja! ¡Me atrapaste! Ahora para mi ataque\nsecreto... <i>¡Urara Dash!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Unos días después, el video espontáneo de ellas\njugando se usa en el reportaje especial. Se\nconvierte en un gran éxito entre sus seguidores."
+    }
+  ]
+}

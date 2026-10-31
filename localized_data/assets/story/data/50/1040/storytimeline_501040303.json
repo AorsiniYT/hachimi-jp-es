@@ -1,0 +1,113 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gold City",
+      "text": "Uf..."
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Sí! ¡Ahora soy una corredora de verdad!"
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Felicidades por tu debut, City! ¡Fue una carrera\nfantástica!"
+    },
+    {
+      "name": "Gold City",
+      "text": "...Gracias."
+    },
+    {
+      "name": "Reportero B",
+      "text": "¡Los fans se preguntan sobre tu futuro! ¿Qué tipo\nde planes tienes en mente?!"
+    },
+    {
+      "name": "Reportero B",
+      "text": "¿Pondrás tus ojos en las carreras G1? ¿Quizás el\nHanshin Juvenile Fillies?",
+      "color_text_info_list": [
+        "G1",
+        "Hanshin Juvenile Fillies"
+      ]
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡El glamour de la carrera te quedaría! Además es\nuna importante que lleva al tour de la Tiara!"
+    },
+    {
+      "name": "Gold City",
+      "text": "El tour de la Tiara...",
+      "choice_data_list": [
+        "Si quieres hacer más preguntas, tendré que pedirte\nque programes una entrevista."
+      ]
+    },
+    {
+      "name": "Reportera A",
+      "text": "Ah—¡solo una última cosa! ¡Tus fans están ansiosos\npor ver más de tu llamativa carrera!"
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Unos días después del exitoso debut de Gold City,\nla llamo para decidir su próximo objetivo.",
+      "choice_data_list": [
+        "Estoy pensando en el Asahi Hai F.S. o el Hanshin\nJ.F."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Asahi Hai F.S. suele atraer a corredoras que\napuntan al tour de la Triple Corona Clásica,\nmientras que el Hanshin J.F. es para el tour de la\nTiara.",
+      "color_text_info_list": [
+        "Asahi Hai F.S."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Tanto la Triple Corona Clásica como la Triple\nTiara son series de primer nivel."
+    },
+    {
+      "name": "Gold City",
+      "text": "Como corredora de verdad... ese es el tipo de\ngloria a la que tengo que aspirar.",
+      "choice_data_list": [
+        "De cualquier manera es un gran camino.",
+        "De cualquier manera es un gran camino."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Creo... que el Hanshin J.F. podría quedarme mejor.",
+      "choice_data_list": [
+        "¿Por qué?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Parece que mis fans realmente quieren verme con la\nTriple Tiara."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La Triple Tiara consiste en el Oka Sho, el\nJapanese Oaks y el Shuka Sho—tres carreras famosas\npor su espectáculo glamuroso.",
+      "color_text_info_list": [
+        "Oka Sho",
+        "Japanese Oaks",
+        "Shuka Sho"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Es como dijo ese reportero, todos esperan una\nactuación llamativa de mí, ¿verdad?"
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Si ese es el caso, debería darles lo que quieren!",
+      "choice_data_list": [
+        "¡Entonces vamos al Hanshin J.F.!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Sí!"
+    }
+  ]
+}

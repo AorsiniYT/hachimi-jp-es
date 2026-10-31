@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Maruzensky aún no está aquí para entrenar, así que\nempiezo a hacer otro trabajo cuando..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oh, rayos, Entrenador!",
+      "choice_data_list": [
+        "¿Qué te retuvo?",
+        "¿Qué te retuvo?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oh, rayos, Entrenador!",
+      "choice_data_list": [
+        "¿Qué te retuvo?",
+        "¿Qué te retuvo?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Me temo que no puedo decirte eso..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Pero tenía algunos asuntos urgentes que atender.\nAsí que córtame un poco, Jack. ¡Jeje!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "No te preocupes. ¡Sabes que lo compensaré!",
+      "choice_data_list": [
+        "Intenta no llegar tarde la próxima vez.",
+        "Intenta no llegar tarde la próxima vez."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Bien. Perdón por hacerte preocupar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy segura de que debe haber una razón, y no\nquiero ser demasiado estricto... Decido no\ninsistir en el tema."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más tarde, me entero de que Maruzensky ha estado\nintentando ayudar a los estudiantes de cursos\ninferiores con sus problemas."
+    }
+  ]
+}

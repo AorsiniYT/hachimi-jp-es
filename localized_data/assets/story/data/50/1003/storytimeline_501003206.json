@@ -1,0 +1,64 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy es el Tenno Sho de primavera, una carrera\ndonde se reúnen todos los corredores de último año\nmás poderosos."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡He tenido admiradores gritándome todo el día!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Me ha puesto súper motivada y lista para ir!",
+      "choice_data_list": [
+        "Pareces que podrías salir disparada en cualquier\nmomento."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Es una carrera de último año y estoy contra\nMcQueen, pero ¡eso no importa! De cualquier\nmanera, ¡no perderé!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Todos serán testigos de la abrumadora fuerza de\nla poderosa Teio!",
+      "choice_data_list": [
+        "¡Muéstrale a todos quién manda!",
+        "¡Muéstrale a todos quién manda!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Sí! ¡Me voy! ¡Más te vale que me estés animando,\nEntrenador!"
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Muéstrale que eres la mejor, McQueen!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Tus admiradores también están viendo, ¿verdad? No\npuedes defraudarlos."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Por supuesto. Estoy segura de que estarán bastante\nsatisfechos con cómo resulte esta carrera."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "(¡Guau... Está súper seria.)"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "(Bueno, qué lástima, porque ¡estoy lista para\nrockear! No hay manera de que pierda!)"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "..."
+    }
+  ]
+}

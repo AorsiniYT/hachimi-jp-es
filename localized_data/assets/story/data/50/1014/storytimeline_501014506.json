@@ -1,0 +1,94 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una mañana temprano, noto a El Condor Pasa\npracticando baile sola."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Sí! ¡Ju! ¡Ja!",
+      "choice_data_list": [
+        "¿De verdad te estás esforzando mucho, ¿eh?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Oye, Entrenador! ¿Qué piensas? ¿Bailo bastante\ndinámico, verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque los movimientos ciertamente son dinámicos,\nyo no puedo evitar preocuparme de que ella pueda\nchocar con algunos de los otros artistas durante\nlos conciertos.",
+      "choice_data_list": [
+        "Debes tener en cuenta que estarás bailando con\notros."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Ahhh... Eso sí que complica las cosas. Normalmente\npierdo la noción de mis alrededores cuando bailo\nsola.",
+      "choice_data_list": [
+        "Bailemos en algún lugar donde puedas mantener un\nojo en tus alrededores.",
+        "Deberías intentar bailar mientras te miras en un\nespejo."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Qué?! En algún lugar donde pueda ver mis\nalrededores... ¿Como dónde?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "<i>Haa... Haa...</i> Definitivamente tengo que mirar a mi\nalrededor en un lugar como este..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Caray, toma mucho más fuerza de lo que esperaba no\nchocar con la gente..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Esto es difícil!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Pero! ¡Es exactamente por eso que quiero\ndesafiarme a mí misma!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Soy el tipo de chica que siempre intenta superar\ncualquier obstáculo! ¡Voy a mejorar, no importa\nqué!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡La próxima vez, te mostraré el mejor baile que\nhayas visto! ¡Solo espera!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Unos días después, veo una mejora significativa en\nsu baile, justo como ella prometió."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Un espejo?!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Entonces debo mirarme mientras bailo?",
+      "choice_data_list": [
+        "Deberías mirarte a los ojos mientras bailas."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ya veo! Justo el tipo de consejo que espero de\nti, Entrenador! ¡Eso es algo que puedo practicar\npor mi cuenta!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Aunque, mirarte a los ojos mientras bailas es\nbastante intenso!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡No voy a perder contra mí misma! ¡Puedo hacerlo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, El Condor Pasa practica mientras\nse mira en el espejo hasta que aprende a bailar\nsin obstaculizar a los demás."
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es mi día libre, así que decido dar un paseo por\nel centro cuando..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ah, Mamá. Lo siento por molestarte cuando estás\nocupada. Es solo... que me preguntaba sobre tus\nplanes para el próximo mes."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Mhm, mhm... ¿Es así? Mhm... Entendido, gracias.\nHablamos luego."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Genial. Ahora que sé en qué hotel se va a quedar,\nestoy lista. Solo me falta encontrar un regalo...\nJeje. ♪",
+      "choice_data_list": [
+        "¿Estabas al teléfono con tu mamá!",
+        "¿Estabas al teléfono con tu mamá!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿¡E-Entrenador?! ¿Qué estás haciendo e—espera, no\nme digas—¿estuviste <i>espiando?</i> ¡No es un pasatiempo\nmuy respetable, si me preguntas!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Suspiro...</i> El cumpleaños de Mamá es el próximo\nmes, así que necesitaba saber dónde enviarle mi\nregalo."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Bueno, una sorpresa. Si Mamá se sorprenderá o no\nes otra cuestión, aunque."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Estoy tratando de pensar en el regalo número uno\npara ella... El regalo que la hará más feliz, que\nla hará pensar: \"Esa es mi pequeña niña.\"",
+      "choice_data_list": [
+        "¿Necesitas una mano?",
+        "¿Necesitas una mano?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Quieres ayudar? Hm, supongo que tener que cargar\ncon mis bolsas sería bastante agradable."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Está bien, te dejo que me acompañes. ¡Vamos, no\ntenemos todo el día!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, decido ayudar a Scarlet a buscar regalos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero elegir un regalo resulta ser más difícil de\nlo esperado."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Quizás un collar... Hmmm. Es lindo, pero no puedo\nimaginar a Mamá usando esto."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Este pendiente es bonito, pero un poco demasiado\nllamativo. Algo un poco más refinado le quedaría\nmejor..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Oh, pero ¿y si le comprara ropa? Como esta, es la\nmarca más popular en este momento—"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "—pero eso es todo lo que es. Ves a la gente usar\nesto en todas partes. Si es para Mamá, quiero algo\nque se sienta más especial.",
+      "choice_data_list": [
+        "¿Qué tal un ramo de flores?",
+        "¿Qué tal un ramo de flores?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "No es mala idea... pero realmente quiero darle\nalgo con más emoción. Como es su cumpleaños y\ntodo, quiero hacer que salte de alegría."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Y para hacer eso, necesito elegir el regalo número\nuno para ella, un regalo que solo yo podría\npensar."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Probablemente no encontraré nada más aquí. ¡La\npróxima parada, el centro comercial!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hmmm. Hay mucho que elegir, pero ninguno de ellos\nme grita: \"Mamá\".",
+      "choice_data_list": [
+        "¿De verdad amas a tu mamá, eh?",
+        "¿De verdad amas a tu mamá, eh?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Por supuesto que sí! Después de todo, ¡Mamá era\nuna <i>increíble</i> corredora!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ganó muchos premios durante su carrera como\ncorredora, y ahora viaja por todo el mundo\nhaciendo todo tipo de trabajo."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Es como <i>la</i> Umamusume que todos admiran—es\nmaravillosa.",
+      "choice_data_list": [
+        "¿Entonces es tu modelo a seguir?",
+        "¿Entonces es tu modelo a seguir?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Mhm, eso es correcto."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "La primera vez que gané una carrera, Mamá no\nestaba allí para verme, pero aún así me dejó un\nmensaje de voz que decía: \"Felicidades.\""
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "En ese momento, estaba tan feliz... Y incluso\nahora, me envía un mensaje cada vez que gano."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Siempre son breves y al punto, pero para mí\nsignifican el mundo.",
+      "choice_data_list": [
+        "¿Es por eso que quieres ser la número uno?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Bueno, algo así. También odio perder, pero estoy\nsegura de que ya lo sabes."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "De cualquier manera, es por eso que tengo que\nelegir el regalo número uno. No me conformaré con\nnada menos. ¡Así que vamos, sigamos buscando!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Hmmm, estoy empezando a quedarme sin ideas. Ni\ndulces, ni accesorios, ni zapatos..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hey, ¿tienes alguna idea allí? Te escucharé, pero\nsolo esta vez."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Y solo para que sepas, los regalos genéricos no\nfuncionarán. Tiene que ser algo especial, algo que\nsolo yo pueda darle."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Algo especial, que la hará feliz... ¿Qué haría que\nla mamá de Scarlet sea feliz... Lo tengo."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Qué? ¿Pensaste en algo?",
+      "choice_data_list": [
+        "¡Solo necesitas ganar una carrera.",
+        "Solo necesito ganar una carrera"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Ganar una carrera? ¿Y eso será mi regalo"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hm... Puede funcionar, supongo Mama siempre me\nenvía mensajes cuando gano, después de todo."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Convertirme en la número uno para Mama... Así que\nterminaré primera, y cuando me entrevisten,\ngritaré: ¡Feliz cumpleaños, Mama",
+      "choice_data_list": [
+        "Será el mejor cumpleaños que haya tenido",
+        "Será el mejor cumpleaños que haya tenido"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡S-sí, lo sería ¿¡verdad?! Puede que no sea\nexactamente el día de su cumpleaños..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Pero definitivamente es algo único, algo que solo\nyo puedo hacer. Daré lo mejor de mí para Mama"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Una idea sólida, al menos viniendo de ti. Te doy\ncrédito donde se debe."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Bien! ¡Está decidido ¡Definitivamente ganaré la\npróxima carrera ¡Eso es lo que tú también quieres,\n¿verdad ¡Es una situación en la que todos ganan",
+      "choice_data_list": [
+        "¡Lo tienes"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Entonces por qué estamos perdiendo el tiempo aquí\n¡Vamos a entrenar"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Haa... Haa...</i> Uf."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Me pasé un poco de la raya allí. El sudor me está\nentrando en los ojos..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "No, acabo de empezar ¡Me siento muy motivada",
+      "choice_data_list": [
+        "Estoy segura de que a tu mamá le encantará.",
+        "Estoy segura de que a tu mamá le encantará."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Mhm... Eso es lo que me mantiene adelante."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Je, je, debería pensar en qué decirle a Mama\ndurante mi entrevista de victoria"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Pero por ahora, sigamos adelante, Entrenador ¡Ese\npuesto número uno es tan bueno como mío, así que\ntú también deberías ponerte a trabajar"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Algún tiempo después, Daiwa Scarlet logra una\nvictoria decisiva, llevándose a casa el puesto\nnúmero uno."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Justo a tiempo, recibe una llamada de felicitación\nde su mamá. Al contestar el teléfono, se ilumina\ncon una sonrisa pura y preciosa en su rostro."
+    }
+  ]
+}

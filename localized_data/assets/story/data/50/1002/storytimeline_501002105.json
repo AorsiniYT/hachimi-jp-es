@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy es el primer día del campamento de verano."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Uf. Hace tanto calor como siempre...",
+      "choice_data_list": [
+        "¿No te va tan bien con el calor?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No, no. Supongo que al menos sirve como una\noportunidad para mejorar mi resistencia."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Con un poco más, podría exigirme aún más..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Así que no te contengas. ¡Vamos a ello!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así marca el comienzo de mi último campamento de\nverano con Silence Suzuka."
+    }
+  ]
+}

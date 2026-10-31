@@ -1,0 +1,201 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Biwa Hayahide",
+      "text": "Felices fiestas, Entrenador. Aquí tienes un regalo\npara ti de Santa Claus. Que te traiga mucha\nalegría.",
+      "choice_data_list": [
+        "\"Santa Claus\" ¿o sea... tú?",
+        "\"Santa Claus\" ¿o sea... tú?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sí, aunque solo por hoy. Verás, fui a una fiesta\nnavideña recientemente donde hablé con Oguri..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Así que escuché que tu atuendo fue armado por\nalgunas amigas tuyas. Suena como algo que mis fans\nharían. Qué maravilloso..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sí. Aún así, es una lástima que solo lo usaré hoy.\nOjalá tuviera más oportunidades..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Oh, eso es fácil. ¿Por qué no eres nuestro próximo\nSanta?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Y así fue como fui elegida para interpretar el\npapel de Santa para el evento navideño de la\nacademia."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ahora que lo estoy haciendo, me siento un poco\npreocupada. No estoy segura de si todos estarán\ncontentos de que yo tenga el papel."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡AH! ¡ENCONTRÉ A SANTA HAYAHIDEE!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Imaginé que destacarías vestida así en el campus."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "De hecho. Pero sí hace un perfecto Santa. ¡Ambos\nhan hecho un gran trabajo! Aunque si yo <i>tuviera</i>\nalguna reserva..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Biwa Hayahide explica sus preocupaciones sobre si\npodrá hacer que el evento sea adecuadamente\ndivertido."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "En ese caso, podrías animar a todos con <i>impacto!</i>\nComo... ¡Sí! ¿Qué tal esto? Hayahide, ¡gira!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Lo sabía! ¡Desde atrás, tu cabello se ve\nexactamente como la barba frondosa de Santa! ¿Y si\ncorres hacia atrás mientras repartes los regalos?!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿B-barba <i>frondosa?!</i> ¿Mi cabello?!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Sí, te hace ver exactamente como Santa!\n¡Podríamos llamarte \"Santa Alrevés\"!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué, y acercarse a la gente en reversa como en\nuna película de terror? Los asustará... Ella es la\nestrella del día, así que solo debería repartir\nregalos normalmente.",
+      "choice_data_list": [
+        "¡Esfuerza por impacto y corre hacia atrás!",
+        "Interpreta el papel principal y reparte regalos\nnormalmente."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Correr... hacia atrás? ¿Con una... barba espesa?\nNgh... Supongo que <i>haría</i>un impacto. Muy bien."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Hoo! ¡Haa! ¡Felices fiestaaas!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡¿Qué?! ¿Era Santa hace un momento... corriendo\n<i>hacia atrás?!</i>"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Haa! ¡Taa! ¡Felices fiestaas!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡WHOAH! ¿Quién diablos es esa figura sospechosa\ncorriendo por los pasillos?! ¡No me digas que\nalguien se ha colado en la academia?!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Bakushin O! ¡Tú también viste a ese Santa maníaco\nesprintando hacia atrás?!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Sí! ¡Tenemos un intruso sospechoso! ¡Esto es\nsúper excitante, ¿verdad?! ...Espera, no—¡no lo\nes! ¡Es una CRISIS EN EL CAMPUS!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Correcto! ¡Es hora de que un héroe salve el día!\n¡Le mostraré a ese raro quién manda! ¡Jejeje!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(¡Urk! ¡Sus ojos brillan positivamente! Pero no\npuedo permitir que me atrape!)"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(¡Debo interpretar el papel! ¡Si la gente descubre\nque Santa soy en realidad yo, sus sueños se harán\nañicos!)"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¿¡Qué?! ¡Maldición! ¡Los perdí! Grrr. Se fue mi\noportunidad de hacer algunas heroicidades!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "<i>Jadeando... Resoplando...</i> (¡Logré escapar! Eso\nestuvo cerca, pero logré cumplir mi papel como\nSanta Claus!)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Biwa Hayahide continúa repartiendo los regalos, y\npronto una gran multitud de estudiantes se reúne a\nsu alrededor."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿El \"papel principal\", dices? Eso significa que\ndebo abordar el papel con <i>confianza,</i> entonces."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Felices fiestas! Ahora bien, ¿quién aquí quiere\nun regalo?"
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "¡Yo! ¡Yo! ¡Yo! ¡Quiero un regalo maravilloso! ☆"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Whoooa! ¡Yo también quiero un regalo! ♪ ¡Dame\nalgo para adultos, por faaavor! ☆"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¿Eh, estás repartiendo regalos? ¡Yay! ¡Dame todos!\n¡Quiero todo en esa bolsa!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿¡Qué?! ¡Eso no es justo! ¡Yo también los quiero\ntodos!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jeje, solo uno cada uno, ¿vale? Y no olvides, si\nestás en la lista de los traviesos, no obtendrás\nnada."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hm... Entonces, mientras seamos buenos, ¿obtenemos\nun regalo?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Eso significa... ¡puede que tengas uno para mí!\n¡Estoy bastante segura de que estoy en la lista de\nlos buenos!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Oguri?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No esperaba que te emocionaras tanto, jeje. Pero\npor supuesto, tengo un regalo para ti aquí mismo."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Gracias! Me pregunto qué será. Espero que sea\ncomestible."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Biwa Hayahide continúa repartiendo los regalos, y\npronto una gran multitud de estudiantes se reúne a\nsu alrededor."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No se preocupen, hay muchos más regalos para\ntodos. Solo sean pacientes, todos."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Perdón por el retraso. Estaba preparando regalos\nespeciales para las dos. Estos vienen con cartas."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ooh, ¿qué dice el mío? \"A medida que comienzo a\ntranscribir mi gratitud hacia ambas, encuentro que\nlas razones para agradecerles son interminables.\nLa primera me remonta al día que nos conocimos...\""
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Es tan largo. Lo leeré cuando regrese a mi\ndormitorio. Jeje..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Por supuesto. Solo espero que hoy resulte ser un\ndía especial para ambas. Felices fiestas."
+    }
+  ]
+}

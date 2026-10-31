@@ -1,0 +1,200 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Seiun Sky y King Halo están jugando una partida de\nshogi en el salón de clases."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Estás totalmente abierto! ¡Te daré jaque con este\npróximo!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ay... Esto no se ve bien.",
+      "choice_data_list": [
+        "(Sky está en mala posición.)"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Ohohoho! Mis fuerzas solo necesitan avanzar, todo\nmientras mi rey observa desde la seguridad de su\ntrono!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Una victoria cómoda, pero de primera! Acepta tu\nderrota con dignidad, Sky!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Un rey de primera observando desde su trono, ¿eh?\n¿De verdad estás bien con eso?"
+    },
+    {
+      "name": "King Halo",
+      "text": "...¿Qué estás insinuando?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oh, nada. Solo me preguntaba si la victoria sería\nsuficiente para una chica de primera como tú."
+    },
+    {
+      "name": "King Halo",
+      "text": "Yo... no caeré en ninguna de tus artimañas.\n¡Siempre tienes algún tipo de plan en marcha!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Vamos, ¿no puedes oírlos? Tus peones te están\nllamando."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "\"Mientras luchamos por la supremacía en este campo\nde batalla...\""
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ugh, mi plan está arruinado... Supongo que es\nesto..."
+    },
+    {
+      "name": "General de Plata del Rey",
+      "text": "¡Nuestro enemigo está al borde de la derrota! Por\nfavor, mi señor, ¡asesta el golpe final!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡El rey permanece en el trono! ¡No necesito\nmanchar mis manos!"
+    },
+    {
+      "name": "General de Plata del Rey",
+      "text": "¡La moral del enemigo es baja, este es el momento\nperfecto para atacar! ¡Demuestra tu poder\nterminando personalmente la batalla!"
+    },
+    {
+      "name": "General de Plata del Rey",
+      "text": "¡Oh Rey! ¡Muéstranos tu gloria!"
+    },
+    {
+      "name": "King Halo",
+      "text": "...¿De verdad deseas verme terminar esto?"
+    },
+    {
+      "name": "General de Plata del Rey",
+      "text": "¡Rey! ¡Rey! ¡Rey! ¡Nuestro señor, oh gran Rey!\n¡Nuestro Rey de primera!"
+    },
+    {
+      "name": "King Halo",
+      "text": "...Je, jejeje! ¡Jajajaja!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Ohohoho! ¡Muy bien! ¡Entonces sean testigos de la\nmajestad de este gobernante de primera!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Soldados, contempladme! ¡Os concedo el derecho a\ncompartir historias de este día con vuestros\nhijos, y los de ellos también!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡E-esto es malo! ¡Todas las fuerzas, retirada!\n¡Retirada!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Diciendo, fingiendo retirada."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Ahora, tropas! ¡Emboscadlos!"
+    },
+    {
+      "name": "Sky's Forces",
+      "text": "¡Raaaah!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡¿Qué?! ¡I-imposible! ¿Cómo me rodearon tan\nrápido?!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Qué lástima... Muy bien, Rey. Creo que vas a tener\nque mostrarnos cómo se ve una derrota graciosa."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Maldición!"
+    },
+    {
+      "name": "King Halo",
+      "text": "...¿Aceptar la derrota con gracia? Qué necio. ¿De\nverdad crees que ese es un comportamiento\napropiado para un rey de primera?!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Si deseas mi cabeza, ven a tomarla! ¡Pero\nprepárate para probar mi filo!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Jaja. <i>Sabía</i> que dirías eso."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pero ya gané. ♪"
+    },
+    {
+      "text": "En solo unos pocos movimientos, Seiun Sky\nhábilmente atrae al rey de King Halo al peligro,\n¡luego arrebata una victoria en el último momento!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Uuugh! La próxima vez... La próxima vez..."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡La victoria será MÍA!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ahí va. Bueno, así es King.",
+      "choice_data_list": [
+        "Su persistencia sí que es algo.",
+        "Su persistencia sí que es algo.",
+        "Su orgullo es su debilidad.",
+        "Su orgullo es su debilidad."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ahí va. Bueno, así es King.",
+      "choice_data_list": [
+        "Su persistencia sí que es algo.",
+        "Su persistencia sí que es algo.",
+        "Su orgullo es su debilidad.",
+        "Su orgullo es su debilidad."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Jaja! Tienes razón en eso. La hace un verdadero\ndolor de cabeza para enfrentar directamente."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Ahí! ¡He calmado mis emociones!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Enfréntate una vez más, Sky! ¡Te reto a una\npartida de ajedrez!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...¿Qué te dije?"
+    },
+    {
+      "text": "Obligada a jugar contra King Halo de nuevo, la\nenergía de Seiun Sky se desvanece gradualmente.\nPero también parece estar divirtiéndose."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Sí, pensé lo mismo al principio, pero... ¿de\nverdad puedes llamar a eso una debilidad?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Entiendo cómo otros podrían pensar eso, pero tengo\nun punto de vista diferente."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Quizás algún día pueda convertirlo en una\nestrategia... Jaja."
+    },
+    {
+      "text": "Con una expresión profunda en su rostro, Seiun Sky\nsonríe mientras observa a King Halo alejándose\nfuriosa."
+    }
+  ]
+}

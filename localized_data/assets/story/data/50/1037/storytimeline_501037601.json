@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Eishin Flash",
+      "text": "La última carrera puede haber dejado un sabor\namargo en mi boca, pero prometo reclamar la\nvictoria hoy."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Estoy completamente preparada. He hecho todo lo\nque puedo para prepararme.",
+      "choice_data_list": [
+        "¡Respira hondo y anímate!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "<i>Inspira... espira... inspira... espira...</i>"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Uf... Estoy lista."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "El momento ha llegado. ¡Vamos!"
+    }
+  ]
+}

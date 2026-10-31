@@ -1,0 +1,266 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Desde ese día, a menudo veo a Meisho Doto\nentrenando para su gran carrera."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "<i>Haa... Haa...</i> ¡U-una vuelta más!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "<i>Haa... Haa... Resuello...</i> M-muy cansada... ¡No!\n¡Tengo que seguir!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No importa cuán exhausta se vea, simplemente sigue\navanzando, paso a paso."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Esta será... la mejor carrera de todas!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Hyah?!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Je! Impresionante, Doto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Finalmente, llega el día del Tracen Meet! Las\ngradas están llenas a rebosar de corredoras que\nhan venido a participar, y de quienes han venido a\nverlas."
+    },
+    {
+      "name": "Compañera A",
+      "text": "¿Escuchaste? Opera O y Doto se enfrentarán en la\ncarrera de 1,800 metros de hoy. ¡Mira este\nfolleto! \"Doto vs. Opera O—¡Una Bella Sinfonía!\""
+    },
+    {
+      "name": "Compañera B",
+      "text": "¿\"Una Sinfonía\"? Eh... Más allá del marketing,\n¿por qué Doto? O sea... Ella solo va a hacer el\nridículo, ¿verdad?",
+      "choice_data_list": [
+        "(¡Demuéstrales que se equivocan, Meisho Doto!)"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Finalmente, hoy es el día en que nuestra sinfonía\nresonará más fuerte y más bellamente que cualquier\notra! ¡Que gane la mejor corredora, Doto!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡C-correcto!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "<i>Inhalar... Exhalar...</i> Okay... Zapatos, revisado.\nNúmero de carrera, revisado... Náuseas\naplastantes... ¡Ninguna! ¡Lo tengo!"
+    },
+    {
+      "name": "Locutor",
+      "text": "Todas las corredoras han entrado en la puerta...\n¿Quién de ellas será la ganadora de los 1,800\nmetros de hoy? ¡Y... partieron!"
+    },
+    {
+      "name": "Locutor",
+      "text": "Las corredoras han alcanzado la tercera curva. La\nfavorita de hoy, T.M. Opera O, está en el centro\ndel grupo, pero claramente tiene los ojos en la\ndelantera!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "(P-puedo sentir la presencia de Opera O... Ahora\nes solo cuestión de tiempo antes de que—)"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Hemos llegado a la recta final! ¡T.M. Opera O\navanza desde el exterior!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "(¡Ahí viene!)"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "El único final apropiado para la historia de hoy\nes... ¡yo dando otro paso en el camino hacia la\nvictoria!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Haaaaah!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "(E-se está alejando cada vez más. Opera O\nrealmente es asom—)"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Eep!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Ay, Meisho Doto pierde el equilibrio! ¿¡Se\ntropezó consigo misma?!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "(¿¡Por qué? ¿Por qué justo ahora de todos los\nmomentos?! Y-yo soy un inútil—)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"Creo que la tenacidad es uno de tus puntos\nfuertes.\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"Creo que la tenacidad es uno de tus puntos\nfuertes.\""
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Urgh... ¡Urrraaagh!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Y se recupera rápidamente! ¡Ahora tiene los ojos\npuestos en Opera O! Doscientos metros para el\nfinal... ¿¡Mantendrá Opera O su ventaja? ¿O Doto\nla superará?!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "(Puedo alcanzarla... ¡Puedo pasarla!)"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Aaaah!",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Locutor",
+      "text": "¡T.M. Opera O y Meisho Doto están luchando por el\nprimer lugar! Nuestra ganadora es... ¡T.M. Opera\nO!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "<i>Haa... Haa... Suspiro...</i> No pude alcanzarla\ndespués de todo..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "(Aun así... Es bueno ver tantas sonrisas... Quizás\nfui una buena villana para Opera O después de\ntodo...)"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ahhh, escuchen esos vítores! ¡Siento las miradas\nde adoración sobre mí! ¡Excelente! ¡Gracias,\ngracias a todos!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Sin embargo, ¡el papel principal no es nada sin su\nelenco de apoyo! ¡Así es, hablo de la villana con\nun espíritu indomable, la tenaz Meisho Doto!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿¡Eh?!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Se enfrentó a mi brillante genio y aun así logró\ndar un espectáculo magnífico! ¡Un aplauso para\nMeisho Doto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Uooo!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿¡Q-qué?! M-muchas gracias, p-pero ¿¡por qué?!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡La persistencia que mostraste en tu entrenamiento\nsuperó mis expectativas, justo como esperaba!\n¡Demostraste una vez más que tenías razón!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Hm? P-pero ¿no fue solo una coincidencia que me\neligieras?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ja, ja, ja! ¿¡De qué estás hablando?! En\ncualquier caso, ¡espero correr contigo de nuevo,\nDoto!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡...!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Meisho Doto se queda allí, inmóvil, mientras los\natronadores aplausos la inundan una vez más."
+    },
+    {
+      "name": "Compañera A",
+      "text": "¡Qué carrera! ¡Me asusté tanto cuando pensé que se\niba a caer! ¡Buen recuperación, Doto! ¡Lo lograste\nde verdad!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nadie se burla de Meisho Doto ahora. Emocionado,\nbajo corriendo a su lado."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Así que viniste a ver la carrera también...\nGracias. E-estoy contenta de haber podido\nterminar... Ehehe..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Pero sabes... Siento que di un paso adelante hoy."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella claramente está minimizando lo que logró hoy,\nasí como lo duro que trabajó. Mirando hacia abajo,\nveo todas las vendas en sus piernas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esta corredora se ha caído incontables veces y ha\nderramado innumerables lágrimas. Sin embargo, cada\nvez, se limpió los ojos y se levantó de nuevo.",
+      "choice_data_list": [
+        "Eres una luchadora.",
+        "Eres una luchadora."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿¡Hm?! ¿¡D-de dónde salió eso?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si es cambio lo que quiere, sé que tiene lo\nnecesario para hacerlo suceder. Después de todo...\nella nunca sabe cuándo rendirse.",
+      "choice_data_list": [
+        "Quiero ver a dónde te lleva esa fuerza.",
+        "Quiero ver a dónde te lleva esa fuerza."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "E-espera... ¿Eso significa...",
+      "choice_data_list": [
+        "¡Por favor, sé mi aprendiz!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿¡Qué?! ¿¡E-estás seguro de que me quieres a\nm-m-mí?!",
+      "choice_data_list": [
+        "¡Positivo!",
+        "¡Positivo!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "A-ahora que lo pienso, yo... ¡Pensé en tus\npalabras mientras corría hoy!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Me dijiste que mi tenacidad es mi fuerza... Y-y\neso pareció empujarme hacia adelante. A-así que,\num..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Me dijiste que mi tenacidad es mi fuerza... Y-y\neso pareció empujarme hacia adelante. A-así que,\num..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "S-si estás a mi lado, ¡siento que puedo cambiar!\nAsí que, um, ¡espero poder trabajar contigo,\nEntrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Tropezón!</i>"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Hyah! ¿¡Y-yo pisé tu pie?! ¿¡E-estás bien?!\n¿¡Entrenador?!"
+    }
+  ]
+}

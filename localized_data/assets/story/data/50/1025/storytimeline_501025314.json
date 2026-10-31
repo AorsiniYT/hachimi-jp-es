@@ -1,0 +1,155 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Manhattan Cafe! <i>¡Es Manhattan Cafe!</i>Ella ha pasado\nla línea de meta, pero incluso ahora su mirada se\nqueda en el horizonte!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¿Hacia dónde diablos se dirige? ¿Y qué tan fuerte\nse volverá?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "<i>Jadeando, jadeando...</i> No pude alcanzarla.\nRealmente... resististe allí..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No me gusta. La forma en que actúas como si nadie\nmás fuera una amenaza. Ni siquiera yo, cuando\nestoy justo detrás de ti."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Pero bueno, supongo que es mutuo. No te alcanzaré\ncorriendo en la misma dirección."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Estás muy adelante en la distancia... pero eso\nprecisamente es lo que hace que perseguirte valga\nla pena."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Tachyon..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Suspenderé el experimento aquí. A partir de este\nmomento, no hay Plan A ni Plan B. Los combinaré a\nambos..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Para comenzar un plan completamente nuevo. Será el\n\"Plan C\"."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Plan... C."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Sí, los planes se fusionarán como una doble\nhélice—influyéndose y acelerándose mutuamente."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Me gustaría que te unieras a mí, Cafe. Únete a mí\ny participa en este gran experimento."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Um... Lo... consideraré."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Manhattan Cafe no va al círculo de ganadores. En\ncambio, se queda perfectamente quieta, mirando más\nallá de la pista.",
+      "choice_data_list": [
+        "¿Eh... Café?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Entrenador..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Se ha ido ahora... Mi amiga. Eso fue culpa tuya.",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Supongo que debo haber asustado a la amiga de\nManhattan Cafe hace un momento. Voy a disculparme\ncuando—"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Eso... no es lo que quise decir."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Es tu culpa... mi amiga se volvió tan rápida\nque... no puedo mantener su ritmo. Eso es lo que\nquise decir."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Sí... Ella evoluciona..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Cuanto más altos pongo mis estándares, más rápido\nse vuelve..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Cuantos más obstáculos supero... más lejos se\naleja. Siempre llamándome más cerca, diciéndome\nque puedo ir más lejos."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Si hubiera estado sola, probablemente la habría\nalcanzado para ahora... Y ahí habría terminado.\nPero..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Incluso ahora... Todavía estoy mirando al cielo.\nInclino mi cabeza cada vez más hacia atrás, pero\nlas cimas de los rascacielos permanecen fuera de\nvista..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Y es porque tú... elevaste a mi amiga más alto.\nPorque tú... me elevaste más alto."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Más y más alto... más allá de mi alcance."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Cuál es la verdad detrás de su amiga? Finalmente\nsiento que estoy parado en el umbral de la\ncomprensión."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella no es ni buena ni mala. Porque..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Ella solo va a ponerse más rápida, ¿verdad? ...Mi\namiga."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Y podemos seguir persiguiéndola, ¿verdad?\nJuntos..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Ella ya no es solo <i>mi</i> amiga."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Ambos la hemos visto, en nuestra mente... así que\nquiero que la persigamos juntos, sin importar a\ndónde nos lleve.",
+      "choice_data_list": [
+        "La perseguiré contigo... Lo prometo.",
+        "La perseguiré contigo... Lo prometo."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Uno al lado del otro, miramos al cielo juntos...\nreflexionando sobre lo precioso que es tener una\nmeta sin límites."
+    }
+  ]
+}

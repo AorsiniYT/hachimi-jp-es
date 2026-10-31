@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Haru Urara",
+      "text": "¡Guau, voy a correr hoy! ¡Voy a correr súper\nrápido!",
+      "choice_data_list": [
+        "Sé que esta es una carrera prestigiosa, pero\nintenta mantenerte concentrado.",
+        "Sé que esta es una carrera prestigiosa, pero\nintenta mantenerte concentrado."
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Presti-gio-so? ¿Qué significa?",
+      "choice_data_list": [
+        "Significa que es muy importante. Esta es una\ncarrera de categoría, después de todo."
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Una gran carrera? Sí, apuesto a que va a ser\nasombrosa!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Okay! ¡Es hora de moverse o perder!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Aquí voy!"
+    }
+  ]
+}

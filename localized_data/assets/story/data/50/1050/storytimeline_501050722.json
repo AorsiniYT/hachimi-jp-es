@@ -1,0 +1,50 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Por casualidad veo a Narita Taishin y estoy a\npunto de llamarla cuando ella me detiene con una\nmirada mortal."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Alto! ¡No te atrevas a acercarte más!",
+      "choice_data_list": [
+        "¡¿Qué hice?!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No puedo lidiar con tontos ruidosos como tú o\nTicket ahora mismo."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Mi cabeza se partirá si me gritas como siempre lo\nhaces!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Un paso más... y te patearé en serio al espacio.",
+      "choice_data_list": [
+        "¿Deberíamos cancelar el entrenamiento hoy,\nentonces?",
+        "¿Deberíamos cancelar el entrenamiento hoy,\nentonces?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Ni lo sueñes! Estaré bien una vez que descanse un\nra—"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Urgh!",
+      "choice_data_list": [
+        "De verdad creo que deberías descansar.",
+        "De verdad creo que deberías descansar."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ugh, ¡está bien! ¡Iré a la enfermería! ¿¡Ahora\nestás contento?!"
+    },
+    {
+      "text": "Ella me mira con la desesperación de una bestia\nherida mientras se aleja."
+    }
+  ]
+}

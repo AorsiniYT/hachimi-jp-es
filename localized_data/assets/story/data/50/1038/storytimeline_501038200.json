@@ -1,0 +1,58 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Finalmente es el día del debut de Curren Chan. Me\nimagino que podría estar nerviosa, así que le\npregunto cómo está, pero su respuesta es un\npoco...",
+      "color_text_info_list": [
+        "debut"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hm... Necesito una buena \"pose nerviosa\"."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Qué tal esto? Sí, esto está bien..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Yupi! ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "\"#Debut #TanNerviosa #Anímame\" ...Y listo,\n¡publicado!",
+      "choice_data_list": [
+        "Eh... ¿estás <i>realmente</i> nerviosa?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡¿Qué?! ¡Qué grosero! ¿Crees que mentiría para\nconseguir me gusta?",
+      "choice_data_list": [
+        "No, pero..."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Por supuesto que estoy nerviosa. Esto marca el\ncomienzo de mi camino hacia adelante."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "El comienzo de mi camino para dominar la\nternura... Jeje. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella sonríe de manera tierna. Definitivamente está\nnerviosa... o al menos tiene una extraña energía\nnerviosa a su alrededor."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Supongo que es hora. Allá voy..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Hora de hacer mi debut! ♪"
+    }
+  ]
+}

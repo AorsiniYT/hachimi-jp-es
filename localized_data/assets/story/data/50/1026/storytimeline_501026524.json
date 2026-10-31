@@ -1,0 +1,87 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Me desperté más temprano de lo habitual esta\nmañana, así que decido dar un paseo saludable a lo\nlargo del río, cuando..."
+    },
+    {
+      "text": "<i>pum, pum, pum, pum, ¡PUM!</i>"
+    },
+    {
+      "text": "Mihono Bourbon llega corriendo por la orilla del\nrío con velocidad asombrosa."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Veinte repeticiones de carrera en pendiente\ncompletadas. Treinta repeticiones restantes.",
+      "choice_data_list": [
+        "¿Estás haciendo algo de entrenamiento en\nsolitario?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Sí. Padre dijo que correr por las pendientes de la\norilla del río es buen entrenamiento para las\npiernas. Este ha sido mi régimen de entrenamiento\ndesde antes de entrar a Tracen."
+    },
+    {
+      "text": "Sin embargo, tengo un régimen de entrenamiento\ndiferente planeado para la tarde. No podemos\npermitir que se esfuerce demasiado en la mañana.",
+      "choice_data_list": [
+        "(Pero quizás ella realmente quiere liberar su\nenergía...)",
+        "(Pero quizás ella realmente quiere liberar su\nenergía...)",
+        "(Quizás sea hora de hacer que se detenga.)"
+      ]
+    },
+    {
+      "text": "Sin embargo, tengo un régimen de entrenamiento\ndiferente planeado para la tarde. No podemos\npermitir que se esfuerce demasiado en la mañana.",
+      "choice_data_list": [
+        "(Pero quizás ella realmente quiere liberar su\nenergía...)",
+        "(Pero quizás ella realmente quiere liberar su\nenergía...)",
+        "(Quizás sea hora de hacer que se detenga.)"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿Entrenador?",
+      "choice_data_list": [
+        "¡Sigue así, Bourbon!"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¡Entendido!"
+    },
+    {
+      "text": "Ella continúa su entrenamiento hasta el último\nmomento posible antes de que deba regresar a la\nacademia."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Proceso completo. Fuerza en las piernas\nconfirmada."
+    },
+    {
+      "text": "Ver lo fácilmente que pudo completar sus\nejercicios realmente me hace entender cuánto ha\nmejorado."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "<i>Haa... Haa...</i> Disminución en la producción de\npotencia... detectada."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Siguiente tarea... La escuela comienza en treinta\nminutos. Todavía puedo... lograrlo..."
+    },
+    {
+      "text": "Ella ha agotado completamente su energía haciendo\nsus ejercicios matutinos, así que la ayudo a\nllegar a la academia."
+    },
+    {
+      "text": "Le digo que termine su ejercicio matutino por hoy,\nconsiderando que tiene más entrenamiento en la\ntarde."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Órdenes confirmadas. Actualizando prioridades\nprincipales. Cambiando a modo de conservación de\nenergía en preparación para la tarde."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Cuota de producción de energía proyectada para ser\ncumplida durante el entrenamiento de la tarde."
+    },
+    {
+      "text": "Por su bien, tendré que hacer que el entrenamiento\nde la tarde sea más riguroso de lo habitual."
+    }
+  ]
+}

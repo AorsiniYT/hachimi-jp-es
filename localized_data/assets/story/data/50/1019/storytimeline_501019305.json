@@ -1,0 +1,218 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Agnes Digital avanza con fuerza! En su elemento\nen césped y tierra, esta maravilla nos ha mostrado\nsu fuerza hoy!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "<i>Jadeando...</i> Lo logré... Gasté toda mi fuerza...\nsin reservar ni siquiera para mis ídolos..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "El cielo está... tan... lejano..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Pero hay una luz..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Ah, esta luz..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Clonk!</i>"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Digital! ¡Despierta, Digital!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Mmm... Uhh..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Opera O... y... ¿Doto?"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh, gracias a Dios que despertaste. No sabía qué\nhacer."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Entrenador?",
+      "choice_data_list": [
+        "Lo hiciste muy bien.",
+        "Lo hiciste muy bien."
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "E-em... Gracias... Todavía soy inexperta, pero\nsabía que si no me empujaba al límite, no podría\nver el mismo paisaje que mis ídolos."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Pero olvida eso. ¿Qué están haciendo ustedes dos\naquí?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Te estuvimos observando en secreto desde antes de\nque comenzara la carrera, vestidos con la\nindumentaria de vendedores del estadio."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "No quería molestarte, por eso no te hablé en el\ncorral."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Ah, eso explica esa sensación que tuve..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Eso es increíble! No puedo creer que ustedes dos\nse hayan tomado la molestia de venir a verme."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Um... Debería decir... ¡Creo que aprendí algo hoy!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Alcancé a ver por qué tú, Opera O, forjas un\ncamino tan atrevido—y por qué tú, Doto, persigues\nla gloria de manera tan deslumbrante!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Finalmente lo entiendo... al menos un poco..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Jaa ja ja! No me digas. Aunque sería negligente\nde mi parte no señalar que mi magnífico talento\nfue heredado al nacer."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Pero si estás decidida a adorarme así, ¿por qué no\nte muestro algo aún más resplandeciente?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Por supuesto, me refiero a nuestra primera\nactuación competitiva, un enfrentamiento entre\nDoto y yo."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Ooh... ¡un enfrentamiento! ¡Increíble!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Sí. Finalmente corro en una G1. Por supuesto, solo\nsoy una de muchas, eso sí."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Pero finalmente podré correr con mi héroe Opera O\nen el Takarazuka Kinen!",
+      "color_text_info_list": [
+        "Takarazuka Kinen"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Hrngh!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "<i>¡Ah!</i> ¡Digital!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Los cielos se derrumban! ¡Mis ídolos van a lo\ngrande?! ¡Esto es como un evento sagrado a nivel\nde concierto en domo!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Tendré que preparar un festín para las diosas en\nagradecimiento por lo bien que estoy comiendo\nahora!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Jaa ja ja! Por todos los medios, ven a ver. A\ncambio..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Hay un arco en tu historia que aún no has\nrevelado. ¿No es así?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "He escuchado que eres la llamada \"todoterreno\" que\nse desempeña con igual seguridad—sin importar el\nescenario."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Hoy, te presentaste en césped. Por lo tanto,\nespero que tengas un as bajo la manga."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Si no me equivoco, hay una carrera de tierra ideal\nmás o menos al mismo tiempo que el Takarazuka\nKinen."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una gran carrera de tierra celebrada más o menos\nal mismo tiempo que el Takarazuka Kinen...",
+      "choice_data_list": [
+        "Estás pensando en el Japan Dirt Derby.",
+        "Estás pensando en el Japan Dirt Derby."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Bien hecho. Parece que ya tienes el campo\nreconocido."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Por favor, considéralo como reciprocidad por el\nTakarazuka Kinen."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Reciprocidad... Entonces, estoy en deuda con Opera\nO y Doto..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Entrenador! ¡Tengo que estar allí!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "La pista estrellada... El curso que atrapa el\ncorazón que ilumina el amor en los corazones de\nlas parejas—¡un segundo Tokio!",
+      "choice_data_list": [
+        "¿Hipódromo Oi?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Eso es. Corramos en el Japan Dirt Derby. Quiero\nmostrarle a Opera O y Doto lo que puedo hacer, por\nsupuesto. Pero no es solo eso...",
+      "color_text_info_list": [
+        "Japan Dirt Derby"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Tengo que averiguar si ese brillo... esa\nintensidad que vi hoy en el NHK Mile Cup..."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Tengo que saber si es lo mismo en carreras G1 de\ntierra también!",
+      "choice_data_list": [
+        "Entonces, está decidido.",
+        "Entonces, está decidido."
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Gracias! Esta vez, ¡contemplemos a las poderosas\nUmas que juegan en la tierra!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡No soy exigente con las pistas o las carreras!\n¡Aceptaré lo que sea que me pongan enfrente!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No entiendo muy bien esa última parte... Pero de\ncualquier manera, ¡parece que tenemos la mira\npuesta en la próxima G1 Japan Dirt Derby!"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "De vuelta de un paseo, le sugiero a Oguri Cap que\nayude en una tienda como una forma de abordar su\ntorpeza con los grupos."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Oh, ¿esta es la tienda? Mira todas estas\nespecialidades regionales... Deben traerlas de\ntodo el país."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Incluso tienen cosas de mi pueblo... Esto sí que\ntrae buenos recuerdos."
+    },
+    {
+      "name": "Señora Amable A",
+      "text": "¿Eres tú la que nos está ayudando hoy?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Así es. Gracias por tenerme aquí hoy."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Oguri Cap termina de prepararse y se dirige a su\nposición asignada, con los ojos llenos de\ndeterminación."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Esto es perfecto. Estoy segura de que podré\ninteractuar con mucha gente de mi edad trabajando\naquí."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Dicho eso, no tengo experiencia en servicio al\ncliente... ¿Crees que estaré bien?",
+      "choice_data_list": [
+        "¡Solo imagina que los clientes son gente de tu\npueblo!",
+        "¡Solo imagina que los clientes son gente de tu\npueblo!",
+        "¡Imagina que todos los clientes son zanahorias!",
+        "¡Imagina que todos los clientes son zanahorias!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Dicho eso, no tengo experiencia en servicio al\ncliente... ¿Crees que estaré bien?",
+      "choice_data_list": [
+        "¡Solo imagina que los clientes son gente de tu\npueblo!",
+        "¡Solo imagina que los clientes son gente de tu\npueblo!",
+        "¡Imagina que todos los clientes son zanahorias!",
+        "¡Imagina que todos los clientes son zanahorias!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hm... Eso podría funcionar..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Okay, lo intentaré."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Hmm... ¿Qué deberíamos comprar?"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Quiero algo para picar..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Um, disculpe..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Si buscan snacks, les recomiendo los mochi. ¡Están\nllenos de fruta!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "La acidez va muy bien tanto con la pasta de frijol\nrica como con la opción de crema dulce. No pueden\nequivocarse de ninguna manera."
+    },
+    {
+      "name": "Umamusume C",
+      "text": "Ooh, ¡suena delicioso!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "De verdad lo son. Probé uno hace un momento, y no\npodía creer lo dulce que era."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "De lo contrario, podrían optar por estas galletas\nen forma de tacos. Comerlas antes de una carrera\nsiempre me da un impulso."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¿Antes de una carrera? Ahora que lo pienso, te ves\nfamiliar."
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¡Espera, lo sé! ¿No eres Oguri Cap?"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡¿Qué?! ¡No puede ser! ¡Fui a tu última carrera!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¿Trabajas a tiempo parcial? Suena difícil, ¡pero\nsigue así! ¡Todas te apoyamos!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Gracias... Intentaré tan duro en este trabajo como\nen correr. Si hay algo más en lo que necesites\nayuda, por favor no dudes en preguntar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, Oguri Cap continúa atendiendo a\nsus clientes con confianza y gracia."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Zanahorias, ¿eh? Zanahorias... Zanahorias..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Los clientes son zanahorias... ¡Muy bien,\nentendido!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Disculpe! ¿Por qué esta muñeca viene en tantos\ncolores diferentes?"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¡Yo también me preguntaba eso!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Estas muñecas traen diferentes tipos de buena\nsuerte dependiendo del color. Toma la de\nzanahoria, por ejemplo..."
+    },
+    {
+      "name": "Umamusume C",
+      "text": "¿La de zanahoria?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "El dicho dice que serás bendecida con la\noportunidad de comer muchas zanahorias."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Te comerás zanahorias grandes... y zanahorias\nsuaves y jugosas también... <i>Mrmgh...</i>"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¿Eh?!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¿Q-qué pasa?"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "No estoy muy segura, pero creo que solo sentí un\nescalofrío recorrer mi espalda..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Si hay algún otro carro—quiero decir, <i>colores</i> que\nte gusten, ¡solo avísame! ¡Muerdo—quiero decir,\n<i>estaré</i> encantada de ayudar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de esa extraña interacción, Oguri Cap\ncontinúa adentrándose en el mundo del servicio al\ncliente."
+    }
+  ]
+}

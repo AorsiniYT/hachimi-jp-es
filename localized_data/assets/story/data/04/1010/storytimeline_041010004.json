@@ -1,0 +1,230 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mi reunión se prolongó y ahora llego tarde a mi\nsesión de entrenamiento con Taiki Shuttle",
+      "choice_data_list": [
+        "Tengo que apurarme"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Llego al curso de entrenamiento y encuentro a\nTaiki de pie, sola, con una expresión\ncompletamente abatida"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "<i>Sollozo...</i>",
+      "choice_data_list": [
+        "Lo siento, llego tarde, Taiki",
+        "Lo siento, llego tarde, Taiki"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Ay, caramba! Entrenador"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Golpe!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su abrazo lloroso es como una tackleada aplastante"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "<i>Sollozo...</i>",
+      "choice_data_list": [
+        "¿Te sientes mejor!",
+        "¿Te sientes mejor!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Sí... Lo siento por desmoronarme así, Entrenador"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "No puedo soportar volar en solitario, me pone tan\ntriste que las lágrimas no paran de fluir"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Todo estaba bien mientras mis amigos estaban aquí\nentrenando y tenía con quién hablar"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Pero eventualmente, todos los demás se fueron a\ncasa y me quedé completamente sola, y tú no\nestabas por ninguna parte"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "<i>Sollozo...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es difícil de decir, ya que siempre está rodeada\nde amigos, pero parece que se siente sola con\nbastante facilidad"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "<i>Sollozo...</i> ¿Eh"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Lo siento, supongo que llorar tanto me ha dado\nhambre",
+      "choice_data_list": [
+        "Vamos a buscar algo rico para comer"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para compensar por perder su sesión de\nentrenamiento, decido invitar a Taiki a una comida"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh, un restaurante con mesas!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Mira toda la comida y las bebidas que hay para\nelegir, es como si hubiera muerto y fuera al cielo",
+      "choice_data_list": [
+        "Pide lo que quieras",
+        "Pide lo que quieras"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿De verdad, Entrenador, eres muy generoso"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Oh, ¿no se notaba, lo siento, solo quería decir...\nque eres muy generoso"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Qué debería elegir, bistec, una hamburguesa o tal\nvez el postre especial"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "...En segundo lugar, ¡me lo llevaré todo"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dejo que Taiki siga pidiendo hasta que su estómago\nesté suficientemente satisfecho"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Probablemente sea mejor no pensar en lo ligero\nque se ha vuelto mi billetera"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Uf, gracias, Entrenador, estoy tan llena y tan\nfeliz"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Pero los bistecs japoneses son un poco pequeños"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Los bistecs que solía comer con mi familia eran\ndos, no, tres veces más grandes"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Eso me recuerda a cuando solía hablar con mi\nfamilia y amigos sobre una buena comida"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Los extraño mucho"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Taiki baja la cabeza tristemente, considerando lo\nfácil que se siente sola, la nostalgia debe ser\nparticularmente dura para ella",
+      "choice_data_list": [
+        "Estoy aquí para ti para que no te sientas sola",
+        "Estoy aquí para ti para que no te sientas sola"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "<i>¡Haa!</i> Oh, Entrenador!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Gracias, gracias mucho"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "No voy a casa todavía, no hasta que gane la serie\nTwinkle"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Mi familia y amigos queridos están apoyándome"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Me encanta ver sus sonrisas felices cada vez que\ngano"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Ver a todos sonreír es mi cosa favorita en el\nmundo, nada me hace más feliz"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Así que no dejaré que un poco de soledad me\ndetenga para darlo todo"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Con usted a mi lado, puedo conquistar el mundo",
+      "choice_data_list": [
+        "Vamos a hacerlo, tú y yo"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Sí, haremos que todos sean felices, juntos"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, con nuestros espíritus renovados, fijamos\nnuestra mirada en la victoria"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Oh, mira, veo a Dober allí"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Hola, amigo"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿Eh, qué, qué"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Dobeeeer"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿Qué—¡ay, caramba"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Choque!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que todavía tenemos mucho trabajo por\nhacer."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Oh, ¡lo siento! ☆"
+    }
+  ]
+}

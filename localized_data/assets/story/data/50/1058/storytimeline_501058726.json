@@ -1,0 +1,50 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día, durante un paseo con Meisho Doto..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oooh..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Oh! Lo siento... l-lo siento por detenerme tan de\nrepente!"
+    },
+    {
+      "text": "Meisho Doto señala hacia una máquina de garra\nllena de peluches de Umamusume.",
+      "choice_data_list": [
+        "¿Quieres uno?",
+        "¿Quieres uno?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Y-yo quiero! Tienen a Opera O y a tantos otros\ncorredores talentosos... Entonces..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Si tuviera uno para mí, quizás su confianza se me\npegaría..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Pero soy horrible en estos juegos... Incluso si\nlogro agarrar uno con la garra, siempre se cae...\n<i>¡Snif!</i>",
+      "choice_data_list": [
+        "¿Quieres que gane uno para ti?",
+        "¿Quieres que gane uno para ti?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿¡Qué!? No, e-e-so sería una c-carga terrible..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Aunque... me haría muy feliz."
+    },
+    {
+      "text": "¡No hay manera de que falle ahora!"
+    }
+  ]
+}

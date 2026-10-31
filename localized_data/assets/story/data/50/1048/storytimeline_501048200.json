@@ -1,0 +1,255 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Nuestra carrera debut se acerca. Una vez que eso\nquede atrás, tenemos que decidir el calendario de\ncarreras de Jordan, así que...",
+      "choice_data_list": [
+        "¿Qué carreras te gustaría correr?",
+        "¿Qué carreras te gustaría correr?"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Ni idea. Te lo dejo a ti.",
+      "choice_data_list": [
+        "Bueno, entonces, ¿cuáles son tus metas?"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Eh? Uh..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella empieza a sentirse abrumada, pero tener una\nmeta concreta ayudará con su motivación diaria y\nsu crecimiento.",
+      "choice_data_list": [
+        "(Me encantaría que ella misma se diera cuenta de\neso.)"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Oh."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Puede que tenga una.",
+      "choice_data_list": [
+        "¿Cuál es?"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Bueno..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Quiero triunfar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella me da una meta tan vaga e informe como una\nnube pasajera en el cielo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y ahora, el día de su carrera debut ha llegado."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tosen Jordan espera inquieta en la sala de\npreparación, jugueteando con sus uñas entre\nsorbitos de agua.",
+      "choice_data_list": [
+        "¿Nerviosa?"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡N-no para nada! Estoy bien..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Toc, toc.</i>"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Pasa!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¡Hey! ¡Vine a animarte! ¿Estás suelta y relajada?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Palmer?"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "También tengo un mensaje de City y las chicas.\nDijeron que te dijera: \"Esto es en serio, así que\n¡trae una victoria!\""
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "En serio..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Pero, y si yo..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "E-eh, no importa. No es nada."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "...¿En serio?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A veces puede ser más fácil discutir un problema\nsolo con tus amigos...",
+      "choice_data_list": [
+        "Voy a salir un momento."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¡Claro! ¡Tómate tu tiempo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Pum.</i>"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¿Y? ¿Qué pasa, Jordan?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Yo..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Palmer... tengo miedo. ¡Esto es en serio!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Sí..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "O sea, <i>en serio.</i> ¡Siempre pensé que sería mucho\nmás dura cuando llegara el momento!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Hasta le dije a mi entrenadora que iba a\ntriunfar! Pero yo... yo..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Y si es como antes de conocer a mi entrenadora, y\nno puedo correr bien..."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "..."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Si realmente estás asustada y es demasiado para\nti, siempre puedes salir huyendo."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿¡Eh!?"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Ah, pero tus ojos ahora mismo me dicen que huir no\nes una opción."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Quizás estés aterrorizada de verdad, pero tu\nnecesidad de ponerte a prueba es aún más fuerte."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Quizás quieras ver si esta tú más fuerte puede\nfinalmente rendir en el momento de la verdad."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "..."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "La razón por la que entrenamos cada día es para\npoder correr en carreras, ¿verdad?"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Así que toma toda esa práctica que has hecho hasta\nahora y usa esas piernas para ganar esta."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...Tienes razón."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¡Además! Incluso si la fastidias, solo corres en\nuna carrera de potrancas después. ¡De hecho, eso\nhice yo!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¡Es sorprendentemente bien! Te pone bastante\nmotivada a su manera. En serio, vale la pena\nintentarlo al menos una vez."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿¡Qué!? ¡La razón por la que quiero ganar es para\nevitar eso!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Ajaja, perdón. ¿Te enojaste? Culpa mía, amiga."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Pero deberías aferrarte a ese sentimiento hasta\nque cruces la meta. Estarás bien—tú puedes."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Tu entrenadora y yo te estaremos viendo."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Incluso si <i>te equivocas</i> esta vez, siempre te\nestaré animando."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Eres mi chica, después de todo. Y tu\nentrenadora..."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Bueno, tú misma dijiste que tu entrenadora\nprobablemente es buena para ti. Eso significa que\ntrabajan bien juntas, ¿verdad? Al menos un poco."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Palmer..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Oye, Entrenadora. Me dirijo al paddock.",
+      "choice_data_list": [
+        "¡Buena suerte!"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...Sí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tosen Jordan sale a su carrera debut."
+    }
+  ]
+}

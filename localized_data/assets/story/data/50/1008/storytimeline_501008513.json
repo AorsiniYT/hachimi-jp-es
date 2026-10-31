@@ -1,0 +1,210 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estoy caminando con Vodka frente a la estación en\nnuestro día libre, cuando..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Guau! E-e eso es increíble!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Entrenador! ¡Mira a esos tipos por allá!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vodka mira a un grupo de hombres de aspecto rudo\ncon chaquetas de cuero que están conversando entre\nellos."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Esas chaquetas que llevan son vintage— hablo de\nhace cincuenta años!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Y no hay error en esos remaches con forma de\nestrella! Mi papá siempre ha soñado con usar esa\nmarca!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Eso es una locura! ¡Son supergeniales!",
+      "choice_data_list": [
+        "De verdad te gustan las chaquetas de cuero, ¿eh?",
+        "De verdad te gustan las chaquetas de cuero, ¿eh?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Sí, porque son supergeniales!"
+    },
+    {
+      "name": "Vodka",
+      "text": "A mi papá también le gustan, así que a veces le\npido prestada la suya..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡La sensación del cuero genuino realmente está en\notro nivel! Cuanto más la usas, más cómoda se\nvuelve. ¿Lo sabías?"
+    },
+    {
+      "name": "Vodka",
+      "text": "...Aunque yo solo tengo una barata hecha de cuero\nfalso."
+    },
+    {
+      "name": "Vodka",
+      "text": "Aun así me gusta, por supuesto, ¡pero la de verdad\nbrilla como una belleza!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Me encantaría tener una...",
+      "choice_data_list": [
+        "Podrías quitársela a la fuerza...",
+        "Sigue usando la que tienes y llegará a ser así."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Quéeee?! ¿Estás loco?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Como voy a hacer algo tan patético!",
+      "choice_data_list": [
+        "¡Perdón! Era solo un mal chiste."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dejando los chistes aparte, le digo que siempre\npodría pedirles que le muestren sus chaquetas."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Crees eso? Pero, ¿no sería descortés si\nsimplemente aparezco de la nada?",
+      "choice_data_list": [
+        "Seguro que estará bien si eres educada.",
+        "Seguro que estará bien si eres educada."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Sí, pero... ¿Qué diría siquiera?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vodka de repente empieza a moverse inquieta.\nSupongo que se pone tímida con gente que no\nconoce. En ese momento..."
+    },
+    {
+      "name": "Hombre con Chaqueta de Cuero A",
+      "text": "¡Oye, ustedes dos! No dejan de mirar para acá...\n¿Tienen un problema?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Agh! Q-quiero decir... Uhhh...",
+      "choice_data_list": [
+        "¡Tú puedes, Vodka!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "..."
+    },
+    {
+      "name": "Vodka",
+      "text": "E-eeh... Sus chaquetas... Son de la primera\nedición de BoTTs, ¿verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vodka reúne valor y les habla. Poco después..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Eso es increíble! ¡Están en tan buen estado! ¡Y\nmira ese brillo!"
+    },
+    {
+      "name": "Hombre con Chaqueta de Cuero A",
+      "text": "¿Verdad? ¡Sabes lo que te digo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vodka se lleva de maravilla con los tipos de las\nchaquetas de cuero."
+    },
+    {
+      "name": "Hombre con Chaqueta de Cuero B",
+      "text": "Oye, ¿quieres probar la mía? ¡Es súper cómoda!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿De verdad?! ¡Claro que quiero probarla!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Guau! ¡Es súper pesada!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Eh, ¿les importa si saco una foto? ¡Quiero\npresumirle a mi papá!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vodka parece bastante satisfecha después de una\nlarga y animada discusión sobre moda motera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le aseguro a Vodka que su chaqueta será igual de\ngenial que la de ellos algún día."
+    },
+    {
+      "name": "Vodka",
+      "text": "Sí... tienes razón. ¡Lo será!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Todo lo que tengo que hacer es usarla mucho y se\nverá tan vintage como la de ellos!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Je, je, ¡entonces está decidido! ¡Voy a dedicarle\ntiempo para hacer de esta la mejor chaqueta de\ncuero que exista!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Con estas dos manos... voy a crear la cima de\ntodo lo genial!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Justo cuando Vodka empieza a entusiasmarse de\nverdad..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Mmm... Pero me pregunto cuánto tiempo tomará\neso..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Ya sé! Apuesto a que puedo acelerar las cosas\nusándola bajo la lluvia."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Dañarla es definitivamente la forma más rápida de\nconseguir ese look vintage!",
+      "choice_data_list": [
+        "¿De verdad es genial si lo fuerzas?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Mmm. Tienes un punto..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Mi papá sí me dijo que algunas cosas son\ngeniales<i>porque</i> tardan en envejecer."
+    },
+    {
+      "name": "Vodka",
+      "text": "Pero... ¡esperar sentada no es mi estilo!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Vamos, Entrenador. ¡Corramos por la carretera tan\nrápido que mi chaqueta se ensucie!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Esta chaqueta contará mi historia—sobre lo dura\nque soy, por supuesto!"
+    }
+  ]
+}

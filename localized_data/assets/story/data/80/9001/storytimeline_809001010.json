@@ -1,0 +1,47 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, Tazuna visita mi oficina."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Hola, Entrenador! ¡Espero no estar interrumpiendo\nnada!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Solo un puñado de estudiantes en la academia han\nlogrado encontrar tanto éxito en los últimos tres\naños."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Estoy tan feliz de haber podido cuidar de ustedes\ndos todo este tiempo! ♪",
+      "choice_data_list": [
+        "¡Gracias por trabajar tan duro por nosotros!"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Para nada... En fin..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿Te gustaría que tú y tu pupila se unieran a mí\ndespués de esto?",
+      "choice_data_list": [
+        "¿En el... lugar de siempre?"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Sí, el lugar de siempre! ♪"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Pero primero compremos manzanas para todos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después, los tres festejamos con ramen y\nempanadillas salteadas."
+    }
+  ]
+}

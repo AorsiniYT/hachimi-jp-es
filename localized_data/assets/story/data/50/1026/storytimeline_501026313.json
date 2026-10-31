@@ -1,0 +1,128 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡...!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Jadeando... Jadeando...</i>"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "<i>Resoplando... Resoplando...</i>"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¡Perdí!"
+    },
+    {
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Reportando resultados. Logré placement en la\ncarrera pero no logré derrotar a ninguna de mis\nrivales.",
+      "choice_data_list": [
+        "¡Puedes aprender de esta experiencia!"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Sí, gracias. Y también, lamento mucho.\nEntrenador..."
+    },
+    {
+      "text": "Me mira con una expresión vagamente perdida. No\npuedo evitar preocuparme por su salud.",
+      "choice_data_list": [
+        "¿E-estás bien?",
+        "¿E-estás bien?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Siento que podría salir corriendo en cualquier\nmomento si no logro contenerme.",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Mi mandíbula se aprieta por su propia voluntad, y\nemociones negativas surgen dentro de mí, como un\nincendio forestal descontrolado."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Los controles del sistema están fallando.\nMantenimiento de emergencia requerido."
+    },
+    {
+      "text": "Al ver la actitud agitada de Mihono Bourbon, no\npuedo evitar reírme a carcajadas."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "No entiendo tu reacción.",
+      "choice_data_list": [
+        "Lo que sientes ahora es frustración.",
+        "Lo que sientes ahora es frustración."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿\"Frustración\"?"
+    },
+    {
+      "text": "Le explico cómo la mayoría de la gente se siente\nfeliz cuando gana y frustrada cuando pierde."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Ganar crea \"felicidad\". Perder crea \"frustración\".\nConocimiento nuevo adquirido."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Eso explica mi estado actual."
+    },
+    {
+      "text": "Mihono Bourbon se coloca una mano en el pecho,\ncomo para verificar físicamente sus emociones."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Esta \"frustración\" se siente caliente dentro de\nmí. Sin embargo, no es lo único que siento."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Mi \"deseo de ganar\" también está creciendo a una\ntasa exponencial."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Entrenador, yo... quiero competir contra rivales\naún más fuertes."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¡Por ejemplo... Tokai Teio!",
+      "choice_data_list": [
+        "¡...!"
+      ]
+    },
+    {
+      "text": "Como está ahora, Mihono Bourbon ciertamente podría\nrivalizar con Tokai Teio."
+    },
+    {
+      "text": "Pero Tokai Teio actualmente se está recuperando de\nuna lesión, así que intento pensar en la carrera\nen la que más probablemente entrará después de\nsanar.",
+      "choice_data_list": [
+        "¡Entonces nuestro próximo destino es el Japan Cup!"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¡Entendido!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Así que esa es Mihono Bourbon!"
+    },
+    {
+      "text": "Y así, comienza una nueva batalla. Ponemos todo en\nel entrenamiento diario una vez más mientras nos\ndirigimos al Japan Cup!",
+      "color_text_info_list": [
+        "Japan Cup"
+      ]
+    }
+  ]
+}

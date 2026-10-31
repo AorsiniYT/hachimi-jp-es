@@ -1,0 +1,90 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El campamento de verano se acaba sin que nos demos\ncuenta,y Mejiro Ryan sigue siendo inexperta en...\n<i>ciertas</i> áreas."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Bueno... No tuve absolutamente <i>cero</i> encuentros\nrománticos este verano."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Lo hice genial en el concurso de partir sandías, y\nayudé a cargar el mikoshi en el festival de\nverano, pero eso fue todo.",
+      "choice_data_list": [
+        "No te preocupes, Ryan.",
+        "No te preocupes, Ryan."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡No puedo evitar preocuparme!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Hm, quizás sea lo mejor. Con el Arima Kinen\napproaching, el entrenamiento tiene que ser mi\nmáxima prioridad."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Esto estará bien. Cuando se trata de amor,\nnecesitaré más confianza que en las carreras antes\nde encontrarlo."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Algún día, cuando mi corazón sea más fuerte, podré\ndecirle a alguien que me gusta..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ese es el tipo de amor al que aspiro."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "...Jeje. ♪",
+      "choice_data_list": [
+        "Esa risita arruinó un poco el momento."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Uy, ¡no tenías que señalarlo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El autobús sale pronto hacia la Academia Tracen,\ndonde esperan las rivales de Ryan."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Oye, Entrenador, ¿escuchaste la noticia?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Dicen que el Arima Kinen de este año será la\núltima carrera de Oguri en la Serie Twinkle.",
+      "choice_data_list": [
+        "No lo sabía..."
+      ],
+      "color_text_info_list": [
+        "Oguri"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Llega un momento en que todo debe terminar,\nincluso para una superestrella como Oguri Cap."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eso significa que la próxima vez será la última\noportunidad de Ryan de correr contra ella."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "El Arima Kinen ahora será todo sobre Oguri."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ella aparecerá decidida a ganar. Si no puedo\nvencerla allí, entonces mi sueño es como si ya se\nhubiera ido..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una prueba colosal ahora la espera al final.\nTendremos que hacer algo especial para prepararnos\npara este invierno."
+    }
+  ]
+}

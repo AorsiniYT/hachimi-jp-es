@@ -1,0 +1,83 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mejiro Ryan",
+      "text": "<i>Haa... Haa...</i> ¡Gracias por todo, Entrenador!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Gracias a ti, pude darlo todo ahí afuera. Y\nahora...",
+      "choice_data_list": [
+        "¡Vamos a los Clásicos!",
+        "¡Vamos a los Clásicos!"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Sí! No puedo creerlo. ¡Por fin voy a mostrar de\nqué estoy hecha en el lugar con el que siempre\nsoñé!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Voy a tener que entrenar aún más. Tengo que\nasegurarme de que mi preparación sea perfecta, y\nquizás..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Si McQueen no está, y estoy en mi mejor forma,\nentonces..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Eh? ¿Por qué todos están animando?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos apresuramos de vuelta a la pista."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Allí, en la pantalla central, hay una transmisión\nde otra carrera."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Está avanzando con fuerza! ¡Increíble! ¡Se ha\nseparado del grupo! ¡Las otras corredoras no\npueden alcanzarla!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Y la ganadora es Ines Fujin! ¡Ines Fujin se lleva\nel primer lugar!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Guau... ¡Ines ganó!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ehe, um... Seguro que todos están aquí para ver a\nlas Mejiro, ¡pero yo no iba a perder! ♪"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Cuando se trata de la famosa Mejiro Ryan, yo soy\nla que mejor conoce su forma de correr—¡después de\ntodo somos compañeras de cuarto!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Estoy tan, tan, <i>tan</i> emocionada por la primera\nronda de los Clásicos. ¡Nos vemos en el Satsuki\nSho! ...Incluso si soy una compañera.",
+      "color_text_info_list": [
+        "Satsuki Sho"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Guau, Ines...",
+      "color_text_info_list": [
+        "Ines"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vemos la pantalla mientras Ines Fujin se proclama\nvencedora en otro hipódromo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque su tono es ligero, claramente está lanzando\nun desafío a Ryan."
+    }
+  ]
+}

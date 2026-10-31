@@ -1,0 +1,211 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Voy a las aguas termales con Mayano Top Gun un día\ndespués de completar numerosas carreras."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Pit, pit, pit... ¡Ratatá!</i>"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Maya hace su aparición para el aterrizaje!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Hola, Entrenador! ¡Estoy aquí, justo en tu\nhabitación!",
+      "choice_data_list": [
+        "Baja la voz."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Hey, no seas como un profesor aburrido! ¡Se\nsupone que debes decir \"Hola, Maya\" con una mirada\nllena de amor!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡He estado esperando y esperando este viaje a las\naguas termales!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estamos usando el cupón de vacaciones en aguas\ntermales que ganamos en el distrito comercial para\neste viaje."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ahora que Mayano Top Gun ha cumplido sus\nobjetivos, esta es nuestra oportunidad de tomar un\ndescanso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ambas vamos a aliviar nuestro agotamiento\nrelajándonos un poco."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Pero, ¿cómo es que estamos en habitaciones\nseparadas?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿No te vas a sentir sola? ¿De verdad quieres estar\npor tu cuenta?",
+      "choice_data_list": [
+        "Sobreviviré.",
+        "Sobreviviré."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Mmmgh... Pero, o sea..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Si estás sola, ¿con quién vas a pelear con\nalmohadas y jugar a las cartas?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Puedo hacer esas cosas contigo! Si estás conmigo,\n¡te divertirás cien veces más!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Puedo decir por su cara lo mucho que quiere\nholgazanear conmigo...",
+      "choice_data_list": [
+        "Está bien, podemos pasar el rato un rato."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Yay!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Ehehe! ¿Ves? ¡Hasta tú piensas que es mucho más\ndivertido conmigo cerca!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No es muy común que podamos relajarnos así, así\nque Mayano Top Gun y yo pasamos un tiempo juntas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Antes de darme cuenta, ha pasado el día entero.\nDeberíamos movernos si realmente queremos usar las\naguas termales..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "<i>Bostezoooo...</i>",
+      "choice_data_list": [
+        "...Parece que ya se rindió por hoy."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No me veo capaz de despertarla, así que la dejo\ndurmiendo en mi habitación y voy a las aguas\ntermales solo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Hmph! No me dejes atrás así, Entrenador...",
+      "choice_data_list": [
+        "¿¡Mayano?!"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "<i>Snif...</i> Yo también quiero bañarme."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "<i>Bostezo...</i>",
+      "choice_data_list": [
+        "No te duermas dentro del agua."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Está bien...",
+      "choice_data_list": [
+        "¿Promesa?",
+        "¿Promesa?"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Está bien...",
+      "choice_data_list": [
+        "Te esperaré hasta que termines.",
+        "Te esperaré hasta que termines."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "...¿Eh? ¿Aquí? ¿Te vas a quedar aquí todo el\ntiempo?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Estás diciendo que podré verte en cuanto termine?",
+      "choice_data_list": [
+        "Estaré justo aquí.",
+        "Estaré justo aquí."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Yay! ¡No te vayas a ninguna parte!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Ehehe! Es como si fueras mi papá."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Ehehe! Es como si fueras mi mamá."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Remojándome en las aguas termales..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Aaah! ¡Qué bien se sintió! ¡Me siento calentita\npor todos lados!",
+      "choice_data_list": [
+        "¡Parece que te despertaste!",
+        "¡Parece que te despertaste!"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Sí! ¡Tengo mil veces más energía!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Oh, están vendiendo helado por allá!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Y es triple bola! No simple, no doble, sino\n¡triple! ¡Quiero vainilla, fresa y chocolate!",
+      "choice_data_list": [
+        "Quizás estés un poco <i>demasiado</i> energética..."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Jaja! ¡Apúrate! ¡Estoy a punto de despegar! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso, Mayano Top Gun sale corriendo hacia el\npuesto de helado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque vinimos a las aguas termales a relajarnos,\ncomo siempre, una vez más me están arrastrando..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Qué sabor te gustaría? ¡Podríamos compartir!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siento que Mayano Top Gun y yo hemos formado un\nvínculo irremplazable durante este tiempo juntas."
+    }
+  ]
+}

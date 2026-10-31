@@ -1,0 +1,44 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El campamento de verano termina en un abrir y\ncerrar de ojos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mayano Top Gun ha trabajado extremadamente duro."
+    },
+    {
+      "name": "Conductora de bus",
+      "text": "Hemos llegado a la Academia Tracen.",
+      "color_text_info_list": [
+        "Academia Tracen"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "<i>Zzz... zzz...</i>",
+      "choice_data_list": [
+        "Ya llegamos, Mayano.",
+        "Ya llegamos, Mayano."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Eh? Entrenador..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Oh... No te preocupes, lo sé..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "<i>Zzz... zzz...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dado que trabajó muy duro este verano, solo es\njusto dejar que descanse un poco más."
+    }
+  ]
+}

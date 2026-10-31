@@ -1,0 +1,153 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Manhattan Cafe se lesiona hacia el final del\nentrenamiento, así que la llevo a la enfermería."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Lo siento. Todo es mi culpa... Estaba siendo\ndescuidada..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Espera... ¿Por qué...",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Oh, es solo que... La enfermería tiene muchos\nvisitantes hoy..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella dice eso, pero a mí me parece completamente\nvacía..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Um, estaré bien... Volvamos al entrenamiento..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Además, mi lesión no es nada grave...",
+      "choice_data_list": [
+        "Necesitas descansar.",
+        "Muy bien, entonces..."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Te... agradezco que me cuides, pero..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Parece que todas las camas están ocupadas por los\notros pacientes..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las camas me parecen vacías, así que los pacientes\ndeben ser invisibles para todos excepto para\nella...",
+      "choice_data_list": [
+        "Sentémonos y esperemos a que se libere una cama."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Vale... Eso debería estar bien..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Oh, cierto. Traje un poco de café para beber\ndespués del entrenamiento..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Iré a buscarlo...",
+      "choice_data_list": [
+        "Te lo traeré.",
+        "Te lo traeré."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Vale, gracias... Lo siento por la molestia..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de beber un poco de café juntos, la hago\nreposar en una cama disponible."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Gracias por entender. Bueno, entonces..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "De repente, una ráfaga de aire frío pasa\nrápidamente."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Ah, espera... Todavía están... ¡Alto!",
+      "choice_data_list": [
+        "¿Ca-Cafe?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Perdón por eso. Mi lesión duele, así que creo\nque solo descansaré..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Si no te importa... ¿podrías traerme algo para\nbeber?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Mientras tanto, yo... intentaré ocuparme de las\ncosas por aquí.",
+      "choice_data_list": [
+        "Pero..."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Estaré bien... ¡Apúrate!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Casi me echa de la habitación. Para cuando regreso\ncon una bebida, se ve completamente exhausta..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Clic!</i>"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Jeje... Apagaron las luces...",
+      "choice_data_list": [
+        "¿Esta es su forma de decirnos que vayamos a\nentrenar?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Sí. Y nos animan mientras lo hacen..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Oh, todos han decidido acompañarnos..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Parece que tienen curiosidad sobre nuestro\nentrenamiento...",
+      "choice_data_list": [
+        "Más nos vale mostrarles de lo que somos capaces.",
+        "Más nos vale mostrarles de lo que somos capaces."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Sí. Dupliquemos el esfuerzo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de nuestra sesión de entrenamiento, me doy\ncuenta de que no veo ningún rastro de su lesión.\nEs como si hubiera desaparecido misteriosamente."
+    }
+  ]
+}

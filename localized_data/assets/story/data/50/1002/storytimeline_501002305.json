@@ -1,0 +1,123 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Qué carrera tan increíble de Silence Suzuka!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Uoooooh!</i>"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "(¡El aire se siente... increíble!)"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Arrgh! ¡Estuve <i>a punto</i> de pasarla!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...",
+      "choice_data_list": [
+        "Buen trabajo, Suzuka."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Entrenador..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Lo siento. Me cuesta un poco concentrarme.",
+      "choice_data_list": [
+        "Estoy aquí si necesitas hablar.",
+        "Estoy aquí si necesitas hablar."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Eh..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...No, es nada. Estoy bien."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Agradezco la preocupación. Pero estaré bien por mi\ncuenta.",
+      "choice_data_list": [
+        "Está bien. Lo entiendo.",
+        "Está bien. Lo entiendo."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Además... Sobre el Satsuki Sho..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Si corro en él ahora, siento que quizás no pueda\ndarlo todo."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Es difícil de explicar."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Así que... ¿Puedo tomarme un tiempo para\nconsiderar si quiero participar o no?",
+      "choice_data_list": [
+        "Tómate todo el tiempo que necesites.",
+        "Tómate todo el tiempo que necesites."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Lo siento..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, no es bueno no tener un objetivo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En cuanto a las carreras Clásicas, aún podría\ncorrer en el Kikuka Sho en otoño si ponemos la\nmira en el Kobe Shimbun Hai de septiembre como\npreparación.",
+      "choice_data_list": [
+        "¿Qué tal si corremos en el Kobe Shimbun Hai?",
+        "¿Qué tal si corremos en el Kobe Shimbun Hai?"
+      ],
+      "color_text_info_list": [
+        "Kikuka Sho",
+        "Kobe Shimbun Hai"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No sé si podré desempeñarme tan bien...",
+      "choice_data_list": [
+        "Es mejor que no correr en absoluto."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Sí, tienes razón..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Está bien, entonces."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pasó los siguientes días preguntándome qué puedo\nhacer por ella."
+    }
+  ]
+}

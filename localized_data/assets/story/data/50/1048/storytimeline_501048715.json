@@ -1,0 +1,69 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una noche, después de una sesión de entrenamiento\ncon Tosen Jordan..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Uf... A continuación, correré junto al río y\nllegaré a la residencia cinco minutos antes del\ntoque de queda. Excelente—todo está saliendo según\nlo planeado hoy."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Vas a correr en <i>esa</i> zona? ¿No va a estar super\nlleno? Ese lugar ha estado de moda en Umasta por\nlas escenas nocturnas relajadas."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿En serio?! No tenía idea de esos detalles."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Solo me quedan dos minutos para irme. No tengo\ntiempo para modificar la ruta... ¿Quizás pueda\nacortar la distancia? Ah, pero entonces—"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Oh, ¿quieres que te diga una ruta mejor? Está más\ncerca que el río."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Déjame ir contigo—quería pasar por la tienda de\nconveniencia de abajo de todos modos.",
+      "choice_data_list": [
+        "¡Vale, vuelve pronto!",
+        "Para ti, correr más sería demasiado."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Genial, entonces vámonos. Está oscuro, así que ten\ncuidado con el paso."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡Espera, por favor! Primero, tengo que calcular la\ndistancia y el tiempo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así que Tosen Jordan termina corriendo mucho más\nde lo habitual."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Vamos, vamos! ¡No te preocupes! ¡No seas\naguafiestas!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sin duda, correr demasiado no sería bueno. Creo\nque ese es un juicio preciso."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Si tan solo me dieras indicaciones, te estaría muy\nagradecida."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Está bien, está bien... Llámame si te pierdes.\nEstaré despierta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tosen Jordan le dice a Eishin Flash la ruta más\ncorta y la despide antes de regresar a la\nresidencia."
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Las estaciones han cambiado una vez más."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Exacto, City. Entonces, mi entrenador—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Desliza!</i>"
+    },
+    {
+      "name": "Gyaru A",
+      "text": "¡Jordan! ¡Ven aquí un momento! ¡Hay algo que\nquiero mostrarte!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Whoa, whoa, whoa... ¿Qué está pasando? Me estás\napurado de verdad."
+    },
+    {
+      "name": "Gyarus B y C",
+      "text": "¡Haaa!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Oh! Están en la pista de carreras..."
+    },
+    {
+      "name": "Gyaru A",
+      "text": "¡Sí! ¡Se unen a las próximas pruebas! ¡Ambas están\ntotalmente motivadas! Dicen que definitivamente\nconseguirán entrenadores!"
+    },
+    {
+      "name": "Gyaru A",
+      "text": "¡Mi carrera debut también se decidió! Entonces,\ncomo..."
+    },
+    {
+      "name": "Gyaru A",
+      "text": "¡Enséñame a correr, Jordan! ¡Quiero ganar carreras\nexactamente como tú!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Totalmente—como si yo dijera que no!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tosen Jordan ha logrado dejar una marca\nmaravillosa estos últimos tres años. Gracias a\neso, el próximo año también se ve—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Toc, toc... Deslizar.</i>"
+    },
+    {
+      "name": "Profesora",
+      "text": "Gracias como siempre por todo tu trabajo duro,\nEntrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La mujer en la puerta es la profesora titular de\nTosen Jordan. Hemos tenido la oportunidad de\nhablar cada vez que Jordan necesitaba clases extra\no un examen de recuperación.",
+      "choice_data_list": [
+        "Tú también."
+      ]
+    },
+    {
+      "name": "Profesora",
+      "text": "Bueno, para mí ha sido pan comido comparado\ncontigo. De todos modos, me preguntaba... ¿Jordan\nplanea correr el próximo año también?",
+      "choice_data_list": [
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Profesora",
+      "text": "Ah... Me alegra escucharlo."
+    },
+    {
+      "name": "Profesora",
+      "text": "Entonces podré seguirla en la TV, aunque ya no sea\nmi estudiante.",
+      "choice_data_list": [
+        "Oh, ¿te vas a algún lado?"
+      ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¡Corre como el viento! ¡Waahey!"
+    },
+    {
+      "name": "Gyarus",
+      "text": "¡Yupi!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Jaja... ¡Vas atrasada! Palmer es directamente\nsalvaje, ¡así que no podrás alcanzarla!",
+      "choice_data_list": [
+        "¿Enseñándole a tus amigas a correr?",
+        "¿Enseñándole a tus amigas a correr?"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Meh, ¡algo así! ¡Dijeron que todas tienen pruebas\npronto! Así que estamos recibiendo ayuda de Palmer\ny City también..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Por cierto, ¿qué hace mi profesora titular detrás\nde ti? Es gracioso—¿desde cuándo se volvieron\namigas?",
+      "choice_data_list": [
+        "Desde que tuviste que hacer todas esas clases\nextra.",
+        "Desde que tuviste que hacer todas esas clases\nextra."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Ah... Jajaja... Bueno, gracias por programar todo\neso.",
+      "choice_data_list": [
+        "Entonces, tengo algo de qué hablar contigo."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Quieres que te vea correr? ¿Por qué?",
+      "choice_data_list": [
+        "Dijo que se va de la academia."
+      ]
+    },
+    {
+      "name": "Profesora",
+      "text": "Así es. Verás, me voy a casar. Mi prometido y yo\nnos mudaremos de vuelta a mi ciudad natal."
+    },
+    {
+      "name": "Profesora",
+      "text": "Por eso quiero ver por mí misma hasta dónde ha\nllegado el dolor de cabeza número uno de mi clase."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Whoa, ¿te permiten decirle eso a tus estudiantes?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Meh, lo que sea. Lo haré."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tosen Jordan y sus amigas se alinean en la pista.",
+      "choice_data_list": [
+        "Listos, preparados... ¡ya!"
+      ]
+    },
+    {
+      "name": "Jordan y Amigas",
+      "text": "¡Haaa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todas salen al mismo tiempo. Mejiro Palmer logra\narrebatar la delantera, con Daitaku Helios justo\npersiguiéndola."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tosen Jordan está en medio del pelotón. Ella y\nGold City están esperando su oportunidad..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡GRRRR!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Y por alguna razón, Gold Ship aparece detrás de\nellas."
+    },
+    {
+      "name": "Profesora",
+      "text": "...Sabes, nunca pude hacer que se mantuviera\ndespierta en clase. Pero mira qué feliz se ve\ncuando está corriendo."
+    },
+    {
+      "name": "Profesora",
+      "text": "Hablando de eso, ¿no hubo una vez que entré\nvolando a tu oficina justo después de las\nvacaciones de Año Nuevo para hablar de eso?",
+      "choice_data_list": [
+        "Sí, eso es."
+      ]
+    },
+    {
+      "name": "Profesora",
+      "text": "Era un problema—estaba genuinamente preocupado.\nPero desde que te convertiste en su entrenador..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡No voy a perdeeer!"
+    },
+    {
+      "name": "Profesora",
+      "text": "Siento que ha cambiado. No, es como si se hubiera\nconvertido en la <i>verdadera</i> Jordan."
+    },
+    {
+      "name": "Profesora",
+      "text": "Así que... gracias."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Uuugh... Estoy corriendo con el tanque vacío..."
+    },
+    {
+      "name": "Profesora",
+      "text": "Gracias, Jordan. Sigue con el buen trabajo."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Um, seguro..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Tú también. Gracias por todo."
+    },
+    {
+      "name": "Profesora",
+      "text": "Por supuesto."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "<i>Suspiro...</i> Así que realmente se va, ¿eh?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Así que me uní a mis amigas para practicar hoy,\n¿verdad? Porque tienen pruebas pronto.",
+      "choice_data_list": [
+        "Oh, eso es.",
+        "Oh, eso es."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Un año, tres años... El tiempo en serio vuela en\nun abrir y cerrar de ojos. O sea, siempre pensé\nque mañana sería igual que hoy."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Pero, o sea... tanta cosa ha cambiado."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Oye... Entrenador?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Quiero ganar más y más carreras, y no solo\nnormales—carreras G1 de nivel leyenda también."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Quiero hacerme grande! Así que... hasta que\nllegue el momento en que tengamos que\nsepararnos..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Todo el camino hasta entonces... Quiero que seas\nmi entrenador.",
+      "choice_data_list": [
+        "Vamos a hacerte <i>enorme.</i>",
+        "Vamos a hacerte <i>enorme.</i>"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Ahaja... Suena bien."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Cuento contigo!"
+    }
+  ]
+}

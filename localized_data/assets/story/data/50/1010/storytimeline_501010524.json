@@ -1,0 +1,123 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Escucho una voz particularmente fuerte mientras\ncamino por el pasillo..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oye, tú! ¿Quieres intentar este acertijo?"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "L-lo siento, ¡no puedo! Tengo que ir a entrenar..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Hola! ¿Te apetece un acertijo especial? ¡Viene\ncon una gran sorpresa y todo!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Lo siento, pero la profesora quiere hablar\nconmigo..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Mmm... ¡Oh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Acabamos de hacer contacto visual?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Buen momento, Entrenador!",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "La verdad es que un amigo me contó un acertijo\nterriblemente interesante!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Je, je. ¿Crees que tienes lo necesario para\nresolverlo? ¡Vamos a resolver acertijos!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Qué es naranja y suena como una paloma?",
+      "choice_data_list": [
+        "...¿Una zanahoria?",
+        "¿Estás seguro de que es \"paloma\"?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Bingo! ¡Lo tienes en una!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Eres algo, Entrenador! Todavía no le encuentro\nsentido!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "O sea... Nunca he escuchado que una zanahoria\nsuene como nada..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Bueno, whatever! Mientras todos se diviertan,\n¡eso es suficiente!",
+      "choice_data_list": [
+        "Estoy de acuerdo."
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Yay! ¡Voy a preguntarles este acertijo a más\npersonas, entonces! ¡Hasta luego!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Gruñido...</i>"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "De hecho, toda esta conversación de zanahorias me\ntiene el estómago rugiendo."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Tal vez guarde los acertijos para otro momento.\n¡Nos vemos!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Je, je, ¡supongo que estás atascado! ¡La respuesta\nes 'una zanahoria'!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "No te preocupes. Yo también tuve problemas al\nprincipio. Jajaja..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "En realidad, ¿por qué <i>es</i> \"zanahoria\" la\nrespuesta?Las zanahorias no suenan como palomas.",
+      "choice_data_list": [
+        "Creo que es \"perico,\" no \"paloma.\" ¡Rima!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Oh... ¿Sabes qué? ¡Tienes razón! <i>¡Se suponía </i>que\ndebía ser 'perico'!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Zanahoria... suena como 'perico'. ¡Eso tiene todo\nel sentido!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Gracias un millón, Entrenador! ¡Qué listillo\neres, tú!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Ahora tengo que ir a decírselo a todos! ¡Nos\nvemos!"
+    }
+  ]
+}

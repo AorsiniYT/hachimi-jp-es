@@ -1,0 +1,208 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "T.M. Opera O y yo nos dirigimos de regreso a la\nacademia. El sol empieza a ponerse mientras el\ntoque de queda de la residencia se acerca."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡No! ¡Santa madre de misericordia!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Haber olvidado algo tan vital... Esto es muy\nindigno de la Soberana!",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡He olvidado una pieza esencial de la obra maestra\nviviente que soy yo!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡No compré pétalos de rosa para poner a flotar en\nla bañera!",
+      "choice_data_list": [
+        "Casi es el toque de queda. ¿No puede esperar hasta\nmañana?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡NO! Con cada onza de mi ser, <i>¡no!</i>"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Qué imperdonable locura sería negligir\ndeliberadamente mi brillo radiante!",
+      "choice_data_list": [
+        "E-entonces está bien."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ahora que entiendes la gravedad de mi\npredicamento, puedes acompañarme a comprar dichas\nrosas."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Piensa en esos preciosos pétalos, esperando\nansiosos compartir un momento juguetón conmigo en\nla bañera—ahora revolcándose en la desesperación\nde que aún no los he reclamado."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Debo ir en este instante y rescatarlos de su\nangustia!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Apresúrate!",
+      "choice_data_list": [
+        "¡Tendremos tiempo si nos apuramos!",
+        "¡Tendremos tiempo si nos apuramos!",
+        "No. Es mejor que sigas el toque de queda.",
+        "No. Es mejor que sigas el toque de queda."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Apresúrate!",
+      "choice_data_list": [
+        "¡Tendremos tiempo si nos apuramos!",
+        "¡Tendremos tiempo si nos apuramos!",
+        "No. Es mejor que sigas el toque de queda.",
+        "No. Es mejor que sigas el toque de queda."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le hago prometer que regresará a la academia antes\ndel toque de queda, y nos dirigimos a su tienda\nhabitual."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y entonces..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Cinco minutos antes del toque de queda... Y las\nrosas están seguras en mi amoroso abrazo."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Hehe! ¡La Soberana cumple su palabra! ¿Te he\ninspirado una vez más?",
+      "choice_data_list": [
+        "Nunca dudé—"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Que soy tan grande y hermosa como noble?\n¡Mediocre! ¡Esos rasgos deberían ser más que\nobvios para ti en este punto!",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Oh, sí! Debo ofrecer mis gracias por acompañarme.\nAquí, una rosa para ti."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Lo sabías, Entrenador? Las rosas llevan consigo\ndos significados especiales..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Mantén el corazón y \"regresarás con esperanza.\""
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿No crees que esas palabras describen\nperfectamente esta noche?",
+      "choice_data_list": [
+        "Y-yo creo...",
+        "Y-yo creo..."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Oh? No pareces tan seguro. Estaba segura de que\nesa revelación te tendría en lágrimas..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Gah! ¿Estás insinuando lo que creo?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ya estás contento, porque la esperanza que has\nganado no es otra que yo!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Touché, Entrenador! ¡Me atrapaste esa vez!\n¡Jaaajaja!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con T.M. Opera O de buen humor, la despido y\nregreso a casa."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Hm? ¿Qué quieres decir?",
+      "choice_data_list": [
+        "Romper el toque de queda y te espera una\nconferencia hasta altas horas de la noche.",
+        "Romper el toque de queda y te espera una\nconferencia hasta altas horas de la noche."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le digo que ninguna cantidad de rosas compensará\nla falta de sueño de belleza."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Qué?!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Esto es terrible!",
+      "choice_data_list": [
+        "...?!"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ay, ¡había olvidado algo tan básico!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Extremidades con el brillo del pez hielo! ¡Piel\nsuave como la seda! ¡La bella y apuesta Soberana!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Todo eso preservado llevando un estilo de vida\napropiado, y sin embargo, aquí estoy..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Gracias, Entrenador, por recordarme esta\nimportante verdad."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Mi corazón duele por esas pobres rosas que, ay,\ndeben ser dejadas esperando en vano. Recibirán mi\npleno afecto mañana."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Esta noche será para acostarse temprano. Eso\naplica para ti también.",
+      "choice_data_list": [
+        "¿Yo?",
+        "¿Yo?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ciertamente. ¡Toma este consejo de mí, como una\nexpresión de mi gratitud!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Porque te encontraré en tus sueños, Entrenador..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Y tendremos una fiesta de baile, en el patio\nlleno de rosas de un hermoso castillo bajo las\nestrellas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Imagino la elaborada escena que ella ha descrito.\nAlgunos sueños interesantes seguramente me\nvisitarán esta noche."
+    }
+  ]
+}

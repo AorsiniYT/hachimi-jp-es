@@ -1,0 +1,72 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fine Motion",
+      "text": "Ngh... <i>Gruñido...</i>",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Disculpe... Es solo que he tenido un dolor de\ncabeza durante un rato. No creo que sea algo que—"
+    },
+    {
+      "name": "Capitán de Seguridad",
+      "text": "Atención, todas las unidades. ¿Escucharon eso?\n¡Escolten a Su Alteza a la instalación médica más\ncercana de inmediato!",
+      "choice_data_list": [
+        "...?!"
+      ]
+    },
+    {
+      "name": "Oficial de Seguridad",
+      "text": "¡Capitán! ¡Los preparativos de transporte están\ncompletos! ¡También hemos reservado a Su Alteza\npara una evaluación médica completa!"
+    },
+    {
+      "name": "Voz por la Radio",
+      "text": "Aquí Escuadrón Águila. Ahora enviando helicóptero\nal techo de la escuela. ETA en dos minutos. Fin."
+    },
+    {
+      "name": "Capitán de Seguridad",
+      "text": "Recibido. ¡Todos, tomen sus posiciones! Operación\nVisita del Doctor está—"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡DETÉNGANSE!"
+    },
+    {
+      "name": "Equipo de Seguridad",
+      "text": "...!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Ahem! Por el poder investido en mi nombre, por la\npresente les ordeno que aborten esta operación de\ninmediato!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "No debemos causar un alboroto innecesario en la\nacademia. No necesito tratamiento médico en este\nmomento."
+    },
+    {
+      "name": "Capitán de Seguridad",
+      "text": "¡Entendido, Su Alteza! Mis disculpas. ¡Todas las\nunidades, retírense! ¡Regresen a sus posiciones\npor defecto!",
+      "choice_data_list": [
+        "D-dejemos ver cómo te sientes en un rato.",
+        "D-dejemos ver cómo te sientes en un rato."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Sí, eso suena—"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Ay!... Todo ese grito ha hecho que mi cabeza\nvuelva a latir..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, la migraña de Fine Motion no se va, y\nella lucha con el dolor por un rato."
+    }
+  ]
+}

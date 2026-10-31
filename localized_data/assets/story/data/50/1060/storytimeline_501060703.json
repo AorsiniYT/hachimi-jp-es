@@ -1,0 +1,195 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "De vuelta después de un día fuera, Nice Nature\nparece tener algo que decir. Decido preguntarle al\nrespecto."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ah, en realidad... Voy a ir a las pistas de\nentrenamiento."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "No es que tenga planes ni nada. Solo quiero ir a\npracticar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ahora que su madre viene a verla correr, Nice\nNature está extra motivada.",
+      "choice_data_list": [
+        "¡Tienes que mostrarle a tu mamá tu mejor versión!",
+        "¡Tienes que mostrarle a tu mamá tu mejor versión!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "N-no es nada de eso. Solo siento que el\nentrenamiento lo es todo."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Incluso yo tengo el impulso de solo salir y correr\na veces."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella se da la vuelta para irse, pero la detengo y\nle digo que supervisaré su entrenamiento extra."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Oh? ¿Tú también estás aquí para practicar,\nNature?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Algo así. He estado holgazaneando un poco\núltimamente."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Si ese es el caso, ¿te apuntas a correr en pareja?\n¡Me estoy aburriendo de volar solo!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Correr en pareja, ¿eh?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Si mi entrenador está de acuerdo, no me importa.",
+      "choice_data_list": [
+        "No hay problemas por aquí.",
+        "No hay problemas por aquí."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Yay! ¡Gracias, Nature! ♪"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Muy bien. Ve y prepárate. Estaré justo detrás de\nti."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Okay! ¡Te esperaré allí!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Pensaste que diría que no, ¿verdad?",
+      "choice_data_list": [
+        "¡No lo hice! ¡Hazlo lo mejor que puedas!",
+        "Creo que será una buena práctica."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le explico que en realidad hay mucho que puede\naprender de Mayano Top Gun."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Además, con su madre viniendo, debemos usar todo\nlo que podamos para prepararnos."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Sí, sí. Sabía que dirías eso.",
+      "choice_data_list": [
+        "Entonces, ¿tú también lo estabas pensando?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Bueno, un poco, supongo."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Quizás cierto entrenador que conozco está\nempezando a influenciarme?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso, Nice Nature despega con Mayano Top Gun..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Y logra terminar exactamente al mismo tiempo que\nsu compañera de carrera!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Eso espero, al menos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mayano Top Gun es excepcionalmente talentosa, así\nque si Nice Nature es capaz de mantener el ritmo\ncon ella, espero que gane algo de confianza.",
+      "choice_data_list": [
+        "¡Deberías ser capaz de competir de igual a igual\ncon ella!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Vamos, Entrenador. No es bueno ponerme ese tipo de\npresión, ¿sabes?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Pero supongo que sí necesito esa mentalidad si de\nverdad quiero ganar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso, Nice Nature despega con Mayano Top Gun..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Y logra terminar exactamente al mismo tiempo que\nsu compañera de carrera!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "(¿Mayano y yo... empatamos?)"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡No es justo! ¡Has estado practicando sin mí?!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Oh, vamos. Tú también practicas cuando no estoy,\n¿verdad?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Ah, ¡supongo que tienes razón! ¡Entonces es\ntotalmente justo! ☆"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Gracias por la carrera! ¡Ahora sé exactamente qué\ntan rápido eres! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso, Mayano Top Gun deja la pista."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Esa Mayano... Es una verdadera monada, y brilla en\nla pista también. Todo lo contrario a mí, ¿no\ncrees?",
+      "choice_data_list": [
+        "¡Tú también brillaste allí!",
+        "¡Tú también brillaste allí!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Gracias... Me alegra que el papel de soporte haya\ntenido una buena actuación esta vez.",
+      "choice_data_list": [
+        "¡Tu mamá definitivamente estará feliz de verte\ncorrer así!",
+        "¡Tu mamá definitivamente estará feliz de verte\ncorrer así!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ugh, ahí vas de nuevo, haciendo un drama con todo."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "(Pero, bueno... Espero que eso sea verdad.)"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "(Quiero mostrarle a mamá que lo estoy haciendo\nbien... Quizás así no se preocupe tanto.)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras observo a Nice Nature mirar al cielo,\nalgo en su expresión me dice que ha ganado algo de\nconfianza."
+    }
+  ]
+}

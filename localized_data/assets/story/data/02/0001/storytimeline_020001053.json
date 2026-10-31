@@ -1,0 +1,69 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "<username>",
+      "text": "McQueen, esa carrera fue impresionante.\n¡Felicitaciones!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "..."
+    },
+    {
+      "name": "<username>",
+      "text": "¿McQueen?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Lo logré!"
+    },
+    {
+      "name": "<username>",
+      "text": "¡Guau!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Los pasillos de Mejiro están adornados con\ninnumerables victorias — y finalmente he ganado\nuna placa para mí misma."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No esperaba una demostración tan sonora de alegría\nde la siempre comedida McQueen."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Está claro lo mucho que la carrera significó para\nella y por qué se sintió tan presionada para\nganarla."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Disculpa, perdí la <i>compostura. Sin embargo, </i>creo\nque he ganado un poco de euforia."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Además, quiero agradecerte por ayudarme a alcanzar\neste resultado."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Pensar que dedicarías todos tus esfuerzos solo por\nmí... Estoy verdaderamente agradecida."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Soy yo quien debería estar agradeciendo. Tú\npusiste toda tu fe en una entrenadora novata como\nyo y logramos una victoria increíble."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Si le dijera eso ahora, probablemente me\nregañaría por falta de confianza en mí misma.",
+      "choice_data_list": [
+        "Una victoria increíble para el Equipo Sirius.",
+        "Una victoria increíble para el Equipo Sirius."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Jaja, sí. Sigamos aprovechando esas oportunidades\ndondequiera que nos lleve el camino."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ahora, iré a hacer que el concierto de la victoria\nsea inolvidable. Es lo menos que puedo hacer para\nagradecer a todos los que me apoyaron."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Buenos días, Entrenador!",
+      "choice_data_list": [
+        "Buenos días. ¿Descansaste bien?"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Sí, me siento completamente renovada. ¡Usé mi\ntiempo libre para volver a ver la antigua serie de\nPrincess Fighter!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "<i>Princess Fighter☆Stars,</i> ambientada en el espacio,\nes increíble, pero tampoco puedes ignorar la pura\ngenialidad de <i>Princess Fighter vs. Dark Princess\nFighter</i>! ¿No crees?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que ha descansado bien y está llena de\nenergía una vez más."
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una tarde, mientras Symboli Rudolf y yo vamos por\nel distrito comercial..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Hm? ¿Qué pasa por allí?"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben su suerte con nuestra rifa\nde Año Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Los ganadores del primer premio reciben una\nhamburguesa de zanahoria deluxe, el segundo un\nfardo de zanahorias y el tercero una sola\nzanahoria."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Ustedes dos de allí! ¿Quieren probar suerte?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Parece una rifa, Entrenador. ¿Vamos?",
+      "choice_data_list": [
+        "Esto es sorprendente.",
+        "Esto es sorprendente."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Qué, que yo esté intrigada? Resulta que tengo un\nboleto."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Brian me lo dio. Recuerdo que dijo que necesitaba\n\"a alguien a quien endosárselo\"."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Pero incluso si no lo hubiera hecho, me interesa\nla rifa por sí misma."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Confiar el destino al azar y recibir un premio\nacorde a cambio..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Es casi como una prueba del verdadero valor de\nuno... Difícilmente podría llamarme Emperador si\nno gano algo adecuadamente extravagante."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "O sea, no me conformaré con menos que el gran\npremio: el viaje a las aguas termales.",
+      "choice_data_list": [
+        "(Se está tomando esto muy en serio...)"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Qué dicen? ¿Demostramos nuestro valor?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos miramos, asentimos y luego giramos la manija\njuntos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de la abertura\ndel tambor..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Caramba! ¡Tenemos un ganador del gran premio!\n¡Venga a recoger el cupón para sus vacaciones en\naguas termales! ¡Felicidades!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Hoy hemos superado a la suerte, al parecer.",
+      "choice_data_list": [
+        "¡Lo logramos!",
+        "¡Lo logramos!"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "En efecto. Estoy bastante complacida.",
+      "choice_data_list": [
+        "¿Segura?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ja, ¿no se nota? Te prometo que estoy más\nentusiasmada de lo que crees."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Pero ahora me deja con un dilema.",
+      "choice_data_list": [
+        "¿No te gustan las aguas termales?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Al contrario. No me gusta nada más que relajarme\nen el agua caliente mientras me empapo de la\nbelleza de la naturaleza."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Sin embargo... No creo ser aún digna de tales\nlujos."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Así que aquí. El boleto es tuyo.",
+      "choice_data_list": [
+        "¿Me lo das?",
+        "¿Me lo das?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Así es. Guárdalo hasta que me haya ganado las\nvacaciones."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "En cuanto a cuándo será, lo dejo a tu criterio. Sé\nque me juzgarás de manera justa y verdadera.",
+      "choice_data_list": [
+        "Si estás segura..."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Jaja... No hay necesidad de preocuparse demasiado."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Trabajaré aún más con la ilusión de nuestro viaje\njuntos."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Y cuando llegue ese día, celebraré tanto como\ncualquiera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El boleto se siente pesado en mi mano, pero con\nesa responsabilidad viene la promesa de unas\nvacaciones divertidas."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicidades! ¡Se lleva un filete de\nhamburguesa de zanahoria de lujo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "El nombre parece apropiado. Esta hamburguesa\nciertamente es sustanciosa."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Hace mucho tiempo que no veía una comida tan\nexquisita.",
+      "choice_data_list": [
+        "¿Normalmente no comes este tipo de cosas?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "No a menudo, no."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Normalmente elijo cortes simples de filete cuando\nme apetece carne, debido a su bajo contenido de\ngrasa."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Somos lo que comemos, como dicen. Aunque dudo que\ntú, de todas las personas, necesites que te lo\nrecuerden."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Aun así, este es un premio digno. Sería un\ndesperdicio no aprovecharlo al máximo."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Quedaría perfecto con un poco de queso derretido,\nuna guarnición de perejil y... ¡Oh! ¿Qué tal una\nde esas banderitas en miniatura?",
+      "choice_data_list": [
+        "Te estás emocionando mucho con esto.",
+        "Te estás emocionando mucho con esto."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Por supuesto. Cuando se recibe un regalo tan fino,\nes deber de uno disfrutarlo al máximo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pasamos un buen rato discutiendo cómo decorar\nmejor la hamburguesa."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es su día\nde suerte! ¡Se va a casa con un haz de zanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ah, espléndido. Estas resultarán útiles.",
+      "choice_data_list": [
+        "¿Útiles?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "El consejo estudiantil estaba planeando justo un\nevento para levantar el ánimo de los estudiantes."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Con esta cantidad de zanahorias, me atrevería a\ndecir que podemos ofrecer una comida especial ese\ndía."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Me pondré en contacto con la cafetería para ver\nqué pueden hacer a corto plazo."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Quizás tú podrías ayudar? Ya sé, ¿por qué no eres\nmi catador real?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Te advierto, este es un deber importante. Confío\nen que no lo eludirás."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así es como me gané un prestigioso puesto en la\ncorte del Emperador."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Miren esto! ¡Ha ganado el tercer premio! ¡Aquí\ntiene su zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Respóndeme esto, Entrenador. ¿Cuál es el aspecto\nnutricional más notable de una zanahoria?",
+      "choice_data_list": [
+        "...¿Caroteno?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Exactamente. El cuerpo convierte el caroteno en\nvitamina A, que mantiene la salud de la piel y las\nmembranas corporales. También tiene otros\nbeneficios."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Entonces, ¿cómo prepararías una zanahoria para\nayudar mejor a la absorción del caroteno?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Dime, Entrenador."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Me gustaría saber qué plato haría un uso óptimo de\nesta zanahoria."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En el camino a casa, terminamos envueltos en un\nacalorado debate sobre cómo sacar lo mejor de las\nzanahorias."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Ohhh, mala suerte! ¡Parece que sacó un boleto en\nblanco! ¡Tome este paquete de pañuelos como premio\nde consolación!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Pañuelos...",
+      "choice_data_list": [
+        "Una lástima que nos hayamos perdido los grandes\npremios.",
+        "Una lástima que nos hayamos perdido los grandes\npremios."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Bueno, no hay necesidad de desanimarse. Probar la\nsuerte no sería divertido sin el riesgo de\nfracasar."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Además, justo se me están acabando los pañuelos.\nEsto me ha ahorrado el problema de tener que\ncomprar más."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Fiel a su estilo, el Emperador toma la decepción\ncon calma sin una palabra de queja."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Por cierto, ¿tienes otros compromisos hoy?",
+      "choice_data_list": [
+        "¿Perdón?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Tengo un poco de tiempo antes de mi próxima cita.\nDado que estamos cerca, pensé que podríamos—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Bzzzt, bzzzt...</i>"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Perdóname, pero parece que se me acabó el tiempo.\nDebo regresar a la academia."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Podría ser mi imaginación, pero Symboli Rudolf\nparece un poco desanimada mientras se aleja."
+    }
+  ]
+}

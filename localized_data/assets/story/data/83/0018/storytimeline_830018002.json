@@ -1,0 +1,192 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mientras me relajo en un café al aire libre..."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Eh... ¿Sky?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Qué pasa, Flower? Estás murmurando."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Eh, ¿nos... destacamos mucho?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Eh? Ni hablar."
+    },
+    {
+      "name": "Mujer A",
+      "text": "¡Mira, mira! ¡Son tan lindas! ♪ ¡Deben de ser de\nla Academia Tracen!"
+    },
+    {
+      "name": "Mujer B",
+      "text": "Oh, sí. ¡Deben estar de descanso! Me sorprende que\nconozcan este lugar. ¡Qué chicas tan maduras! ♪"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Ahhh... Creo que deberíamos irnos."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Por qué? Ni siquiera han traído nuestras bebidas."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Pero... todos a nuestro alrededor nos están\nmirando..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿No eras tú la que decía que quería venir aquí?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Algo sobre que era todo 'chic' y 'adulto'?"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Sí, pero... no sé si estaba lista para este lugar\naún."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Hum!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Flower, mira a ese cliente de allá."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¿Allá?",
+      "choice_data_list": [
+        "(Siento como si alguien me estuviera mirando...)"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Ves qué tranquilos están? No les molesta lo\nelegante que es este lugar."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Eso es porque son adultos..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Bueno, entonces, ¿sabes qué hace a alguien un\nadulto?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Es tener la confianza para no preocuparse por\ncosas así. Se trata de confianza."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Confianza!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Sí! Querías ser más madura, ¿verdad?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Entonces tienes que actuar como tal! ¡Empieza a\ncomportarte como adulta!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¿C-comportarme como adulta? Uhhh..."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Hum!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oh... Sí, eso es. Muy maduro. Estoy segura de que\nnuestra amiga de allá estaría de acuerdo—¿verdad?",
+      "choice_data_list": [
+        "Muy maduro.",
+        "Eh..."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¿Qué? ¿En serio?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Ves? ¿Qué te dije? ¡Ya te estás volviendo más\nmadura!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Ya veo. Soy... madura. ♪"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Sí, así que relájate ya. Siente la brisa\nagradable."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡No! Ya te dije, tengo entrenamiento pronto, así\nque no puedo quedarme mucho tiempo."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Ah, sí? ...Creo que te he dado demasiada\nconfianza."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¿E-Eres Sky?!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Qué? ¿Me equivoqué? Bueno, entonces intenta\nsonreírnos."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Seguro que eso te hará ver más madura."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¿En serio? Bueno..."
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¿Así? Heehee... ♪"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oh, sí! ¡Qué linda! ☆"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Sky... ¿Me... estás tomando el pelo?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Quéeee? ¡Nooo!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oh, ¡ya vienen nuestras bebidas! ¡Asegúrate de\nverte madura!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¿Eh? Ah, ah!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Hum!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Espera, Skyyy!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Ñajajá! ☆"
+    }
+  ]
+}

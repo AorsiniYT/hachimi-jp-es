@@ -1,0 +1,219 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El torneo de policías y ladrones, suspendido\ndebido a la carga caótica de Twin Turbo, se\nreanuda otro día."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Otra reñida contienda entre los dos equipos se\ndesarrolla bajo un cielo azul despejado!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "<i>Haa... Haa...</i> Jeje, ¡escapé de nuevo!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Psh! ¡Esto es demasiado <i>fácil! ¡Nunca van </i>a\natraparme antes de que se acabe el tiempo!",
+      "choice_data_list": [
+        "El juego está casi terminando.",
+        "El juego está casi terminando."
+      ]
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Ay, quéee?! ¡Pero todavía me queda gasolina en el\ntanque! ¡Voy a ganar sin siquiera romper a sudar—"
+    },
+    {
+      "name": "Umamusume del Equipo Ladrones",
+      "text": "¡Corre, Turbo! ¡Corre! Los policías—ellos están..."
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¿Eh? ¡Guau! ¡Están detrás de mí!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Ahora, todos. ¡Rodéenlos!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "No habrá tiempo para más intentos, pero si podemos\ncapturar a las dos últimas personas ahora, la\nvictoria será nuestra."
+    },
+    {
+      "name": "Umamusume del Equipo Policías",
+      "text": "¡Valeee! ¡Vamos!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Guau-ho-ho! ¡También vienen de frente! ¡Genial!\n¡Ahora sí que me estoy calentando!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Vamos, mi pequeño secuaz! ¡Tú también tienes que\nescapar!"
+    },
+    {
+      "name": "Umamusume del Equipo Ladrones",
+      "text": "¡Uy! ¡Ay!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Secuaaaaz! ¿Estás bien?!"
+    },
+    {
+      "name": "Umamusume del Equipo Ladrones",
+      "text": "¡A-alejarse! ¡Déjenme atrás y corran, Turbo!\n¡Tienes que ganar!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "...¡Vale! ¡Escaparé y ganaré! ¡Por ti!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Este es un camino recto rodeado de árboles y un\nestanque. No hay ruta de <i>escape... ¡Los </i>atraparán!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡No! ¡Tengo que escapar por el bien de todos los\notros ladrones!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡TURBO BOOOOOST! ¡Estoy encendiendo los quemadores\ntraseros!"
+    },
+    {
+      "name": "Tendero",
+      "text": "¡Ella quemó a todos los que la perseguían con su\nveloz carrera roja! ¡Así es Twin Turbo!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "<i>Haa... Resuello...</i> Aún me queda... gasolina en el\ntanque..."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Parece que ha gastado toda su energía. ¡Ahora es\nnuestra oportunidad!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Noooo! ¡No te dejaré que me atrapes!",
+      "choice_data_list": [
+        "¡A toda máquina con ese motor Turbo!",
+        "¡Recupera el aliento!"
+      ]
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Urgh! ¡Más! ¡TURBO BOOOOOST COMPLETO!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Ahhhhh! ¡VAAAA! ¡Aléjate de ellos, Twin Turbo!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "No escaparás... ¡HAAAAAH!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Ikuno Dictus! ¡Tú puedes atraparla! ¡Vamos,\nvamos, vamoooos!"
+    },
+    {
+      "name": "Umamusume del Equipo Ladrones",
+      "text": "¡Puedes hacerlo, Turbo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El torneo llega a su fin entre los sonidos de\npasos atronadores y vítores de la multitud..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Y el lado que se abre paso hacia la victoria\nes... los ladrones!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Jejeje! ¿Qué les dije? ¡Ganamos! ¡Debes estar\ncontentísima de ser una ladrona!",
+      "choice_data_list": [
+        "¡Solo estaba vigilando las cosas!",
+        "¡Solo estaba vigilando las cosas!"
+      ]
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Sigo diciéndote que no te preocupes por las cosas\npequeñas! ¡Tu estrategia fue un éxito total!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Twin Turbo irradia orgullo después de usar su\nfirma turbo boost para asegurar la victoria."
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Nooo! ¡No puedo creerlo! ¡Me atraparon! ¡Ikuno me\natrapó a mí!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "No. No fuiste víctima mía, sino de los esfuerzos\ncombinados de todo el equipo de policías."
+    },
+    {
+      "name": "Cop Team",
+      "text": "¡Sííí! ¡Eres tan genial, Ikuno!"
+    },
+    {
+      "name": "Tendero",
+      "text": "¡Aunque fue una carrera increíble! ¡Buen trabajo,\nTwin Turbo!",
+      "choice_data_list": [
+        "¡Seguro que escaparás la próxima vez!"
+      ]
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Argh! ¡Sí! La próxima vez,\n<i>definitivamente</i>escaparé!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "<i>Haa... Haa...</i>",
+      "choice_data_list": [
+        "¡No tienes que respirar tan rápido!"
+      ]
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "No importa... Mientras corra... tan rápido... como\npueda... hasta... el... final..."
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "...¡Te atrapé!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡No me rendiré! ¡NO LO HARÉ! ¡YAAAAAH!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Piiii!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El silbato señala el final del juego. Y el ganador\nde la última pelea uno contra uno es..."
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡SÍÍÍ! ¡Yo... gané! ¡Escapé!"
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "Ehehe... ¿Me vieron? ¡Soy tan fuerte!"
+    },
+    {
+      "name": "Ikuno Dictus",
+      "text": "Muy cerca, y sin embargo la victoria se nos\nescapó... Me duele admitirlo, pero lo hiciste\nbien."
+    },
+    {
+      "name": "Twin Turbo",
+      "text": "¡Estoy lista para correr de nuevo cuando quieras!\n¡Tengo muchas ganas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La multitud llueve aplausos sobre los dos\ncorredores mientras se elogian el desempeño del\notro en la reñida contienda."
+    }
+  ]
+}

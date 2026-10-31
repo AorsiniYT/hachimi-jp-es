@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Le estoy explicando el plan de entrenamiento de\nhoy a Air Groove, pero parece desequilibrada.",
+      "choice_data_list": [
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Estoy bien. Continúa con lo que estabas diciendo.",
+      "choice_data_list": [
+        "No pareces estar bien.",
+        "No pareces estar bien."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Si digo que estoy bien, estoy bien—fin de la\ndiscusión."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ay..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Disculpas. Para decirte la verdad, he estado\nsufriendo de migraña recientemente."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Me ha puesto de mal humor. <i>Suspiro...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Groove parece estar plagada por un dolor de\ncabeza severo."
+    }
+  ]
+}

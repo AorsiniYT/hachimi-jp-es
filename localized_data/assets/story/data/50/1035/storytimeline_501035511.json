@@ -1,0 +1,239 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Al entrar en un restaurante local, escucho una\nanimada discusión proveniente de una de las\nmesas..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Está bien, Tickezo! ¡Fue mi culpa!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Urghh... No... ¡No quiero rendirme!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "No tienes, como, que demostrarte aquí! ¡En serio!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En su mesa hay algo como una pared enorme... Pero\nal mirar de nuevo, me doy cuenta de que es una\nhamburguesa gigante, medio comida.",
+      "choice_data_list": [
+        "¿Qué están haciendo?",
+        "¿Qué están haciendo?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oh, Entrenador... Esto es... urp!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Yikes! Lo explicaré—¡cierra esa boca!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Entonces, en este lugar, hacen estos desafíos\ncomida, ¿verdad? Yo la <i>animé un poco</i> a intentarlo."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Como broma, ¿sabes? Pero Tickezo no hace realmente\n<i>bromas</i>, ¿sí?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Urgh... pero... sonaba divertido."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Sí, pero como, por eso lo sugerí. ¡Totalmente no\npensé que sería tan enorme!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella tiene razón. El tamaño de esta hamburguesa\nestá muy más allá de lo que cualquiera esperaría\nde un desafío de comida."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Simplemente ríndete. Incluso dije que podemos\ncomerlo juntos—"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Nunca me rendiré!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Solo voy a la mitad de la carrera! ¡Aquí es donde\nuna rezagada como yo brilla!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "No puedo... perder... <i>Gulp...</i>"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Esta no es tu tipo de pista! Necesitarías, como,\nun estómago de nivel Oguri para terminar esa cosa!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Vamos, ¡eres su entrenador! No te quedes ahí\nparado—¡tienes que decírselo también!",
+      "choice_data_list": [
+        "¡Anímate y termínalo todo!",
+        "¡Anímate y termínalo todo!",
+        "¡En momentos como este, hay que usar la fuerza!"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Vamos, eres su entrenador! No te quedes ahí\nparado, ¡tienes que decírselo también!",
+      "choice_data_list": [
+        "¡Anímate y termínalo todo!",
+        "¡Anímate y termínalo todo!",
+        "¡En momentos como este, hay que usar la fuerza!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡SÍIIII! Tienes razón, Entrenador. ¡Tengo que\nponerme las pilas!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Whoa, mente volada! ¿De dónde salió toda <i>esa</i>\nenergía?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Con el apoyo de mi entrenador, ¡<i>sé</i> que puedo ganar\nesto!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Ya voy a la mitad del camino! ¡Allá voyoo!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Ay! ¿Cómo es que está acelerando tan tarde en el\njuego?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La mitad restante de la torre de hamburguesas se\nhace cada vez más pequeña."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Eso es una locura... ¿Puede hacer todo esto solo\ncon ponerse las pilas?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Sabes, presenciar esto me está emocionando!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Adelante, Tickezo! ¡Tú puedes!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ticket continúa comiendo con un impulso increíble\nhasta que..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Uno... más... bocado!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Woooo!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡RAAAAAAH! ¡Gané! ¡Victoriaaa!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Lo hice... lo terminé! ¡Le gané a la gigantesca\nhamburguesa!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Felicidades, Tickezo! ¡Estoy súper conmovido\nahora mismo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras llora lágrimas de alegría, los dos se dan\nun gran abrazo."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Eh? ¿Qué quieres decir?",
+      "choice_data_list": [
+        "¡Aplasta la hamburguesa primero!",
+        "¡Aplasta la hamburguesa primero!"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Ah, ya entiendo! Eso es, como, un movimiento de\nprofesional!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Q-qué?! ¿Por qué estamos aplastando la\nhamburguesa ahora? ¿Qué va a hacer eso?!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Sabes, como ves en las películas y todo.\n¡Aplástala bien!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Así será mucho menos voluminosa! ¡Tomará menos\nbocados para comérsela toda!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Ahhhh, ya entiendo! Entrenador, ¡eres un genio!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Okay, la aplastaré bien! ¡Allá voy!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Jordan, ¡déjame subir a tu espalda!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Qué?!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Esta hamburguesa es demasiado alta! ¡No puedo\nalcanzar la cima desde aquí! ¡Así que tienes que\nlevantarme!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Sí, eh, no. ¡Absolutamente no!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de bastantes intentos y errores..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Urgh... M-manejé comerlo todo... por mi cuenta..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Guau, Tickezo, eso fue salvaje. Nunca pensé que\nrealmente la terminarías."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Esa salsa goteaba <i>por todas partes</i>, y los bollos\nestaban a punto de salirse."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Aún así... lo hice. Y sabes, creo que aprendí algo\nhoy."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Puedes superar cualquier cosa con poder! ¡SÍ!\n¡WOOOOO!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Guau, ahora eres una persona totalmente\ncambiada... ¿Estás bien?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Winning Ticket no parece escuchar a Tosen Jordan\nmientras se deleita en la alegría de terminar su\ngigantesca hamburguesa."
+    }
+  ]
+}

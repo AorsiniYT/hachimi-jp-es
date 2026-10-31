@@ -1,0 +1,35 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Dormiste lo suficiente anoche?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Aquí, déjame verte mejor.",
+      "choice_data_list": [
+        "Oh..."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Mmm. Las ojeras bajo tus ojos están un poco más\ntenues que el otro día. Bien. Eso me hace sentir\nun poco mejor.",
+      "choice_data_list": [
+        "(Me alegra escuchar eso, pero ella—)"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Conozco esa cara. Creés que me preocupo demasiado\notra vez, ¿verdad?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Bueno, ¿de quién creés que es la culpa de que me\npreocupe tanto en primer lugar? Hum."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "De todos modos, me voy. Es hora de demostrar qué\ntan efectiva es la ecuación que creamos."
+    }
+  ]
+}

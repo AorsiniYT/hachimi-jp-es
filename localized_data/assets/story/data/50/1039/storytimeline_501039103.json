@@ -1,0 +1,52 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Ya casi está aquí! ¡Mañana es el día en que\ncomienza el campamento de verano!"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Así es, Kawakami. ¡Así que duerme ya! ¡Guarda toda\ntu emoción para mañana!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "P-pero!"
+    },
+    {
+      "name": "Seeking the Pearl",
+      "text": "Ahora, ahora, esto es por tu propio bien... Duerme\nbien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Tic, tac, tic, tac...</i>"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "(¡No puedo dormir en absoluto!)"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Buenos días, Entrenador...",
+      "choice_data_list": [
+        "¿Dormiste bien?"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Oh, sí, como un bebé... Estoy completamente\ndespierto y listo para..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "<i>Zzz...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Puede que sea el primer día de campamento de\nverano, pero yo alteró su horario de inmediato\npara que pueda descansar adecuadamente antes de\ncomenzar el entrenamiento."
+    }
+  ]
+}

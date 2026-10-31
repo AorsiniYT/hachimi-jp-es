@@ -1,0 +1,108 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de un día en la ciudad con Daiwa Scarlet,\nla acompaño de vuelta a las residencias."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Uf...</i> ¡Eso fue maravilloso! ¡Está bien tomar las\ncosas con calma de vez en cuando! ♪"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Y estoy segura de que también fue un buen cambio\nde ritmo para ti, ¿verdad? Quiero decir, conmigo\ncerca, no hay forma de que no te hayas divertido."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...¿Te <i>divertiste</i>, verdad?",
+      "choice_data_list": [
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡O-oh, cielos! ¡Mira qué oscuro se ha puesto!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Sabes, ahora que lo pienso, regresar tan tarde\nprobablemente no sea buena imagen para una\nestudiante modelo.",
+      "choice_data_list": [
+        "¡Solo piensa en ello como parte del entrenamiento!",
+        "¿Realmente es para tanto?",
+        "¿Realmente es para tanto?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Qué estás diciendo? No hay forma de que eso lo\nexcuse."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Pero, si empiezo a entrenar ahora, entonces no\nserá solo una excusa, ¿verdad?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Lo dije en broma, pero ahora tengo ganas de\nsalir a la pista."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Muy bien! ¡Esa excursión fue solo un\ncalentamiento para el entrenamiento real! ¡Hora de\nestirar las piernas!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Y tú vienes conmigo, obviamente!",
+      "choice_data_list": [
+        "¡Sí, señora!",
+        "¡Sí, señora!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet pasa toda la sesión de entrenamiento\ncon una gran sonrisa."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Por supuesto que lo es! Si la gente nos viera\nregresar juntos, podrían pensar que... fuimos a\nalgún lugar juntos—"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Urgh, ¡ni lo menciones! El punto es que sí, es un\nproblema. ¡Podría dañar mi reputación!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Bueno, quiero decir... no es como si <i>yo</i> tuviera un\nproblema con salir del campus contigo..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Solo no quiero que la gente se lleve la idea\nequivocada, pensando que somos amigos o algo así.",
+      "choice_data_list": [
+        "Solo finge que te arrastré para un descanso."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hehe, no podrías \"arrastrarme\" a ninguna parte\naunque lo intentaras. Además, culparte a ti hace\nque suenes mal."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Podrías terminar siendo removido como mi\nentrenador, y... no quiero eso."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Pero sé que solo estás preocupándote por mi\nreputación, así... creo que lo que quiero decir\nes..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Gracias."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Algo parece haberla puesto de buen humor."
+    }
+  ]
+}

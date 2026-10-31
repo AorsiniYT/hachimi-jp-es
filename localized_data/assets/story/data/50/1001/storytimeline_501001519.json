@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Special Week",
+      "text": "Urk... Mi cuerpo...",
+      "choice_data_list": [
+        "¿Algo anda mal?",
+        "¿Algo anda mal?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Encontré una máquina expendedora antes que vende\nbebidas misteriosas..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Era tan intrigante, que simplemente tuve que\nprobar una. ¡Pero ahora mi cuerpo se ha sentido\nraro desde entonces!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Ni siquiera sé cómo describir cómo me siento!\nTengo algo de calor, pero también frío? Y también\nduele un poco."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Special Week continúa sintiéndose generalmente mal\npor un buen rato..."
+    }
+  ]
+}

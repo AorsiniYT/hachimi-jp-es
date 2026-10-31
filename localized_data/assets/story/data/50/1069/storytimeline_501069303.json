@@ -1,0 +1,198 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sakura Chiyono O",
+      "text": "<i>Haa... Resuello...</i>"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Así que esto... es mi límite actual!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Volví!",
+      "choice_data_list": [
+        "¡Buen trabajo! Lo hiciste bien.",
+        "¡Buen trabajo! Lo hiciste bien."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Ehehe... Pero aún tengo mucho que mejorar, como\ncómo debería empezar mi esprint final y cosas así."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Las carreras reales se sienten tan diferentes del\nentrenamiento. No pude mover mis piernas como\nquería... ni siquiera alcanzar la misma velocidad\nque Yaeno."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No está equivocada en eso. Mientras veía su\ncarrera, noté que sus zancadas eran menos afiladas\ny nítidas de lo que me hubiera gustado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero puedo explicárselo de una mejor manera.",
+      "choice_data_list": [
+        "Tus piernas están mejor adaptadas para acelerar\ngradualmente.",
+        "Tus piernas están mejor adaptadas para acelerar\ngradualmente."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Oh... O sea, les falta la habilidad para dar\nráfagas explosivas de poder, ¿verdad?",
+      "choice_data_list": [
+        "Claro, pero a cambio, tienen la resistencia para\ncorrer para siempre."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Oh! ¡Nunca lo había pensado así!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras la veo escribir en su cuaderno, dirijo mi\nmente al siguiente asunto en cuestión."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En este momento, su objetivo final es ganar el\nDerby Japonés."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En ese caso, necesitará cultivar la determinación\npara tomar el control de sus carreras y aprender a\naprovechar el momento perfecto para hacer un\nmovimiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para poner toda nuestra energía en el Derby,\ntendremos que apuntar a una carrera de alto nivel\na continuación.",
+      "choice_data_list": [
+        "¿Quieres intentar correr una carrera G1?",
+        "¿Quieres intentar correr una carrera G1?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Eh? ¿Qué? ¿U-una G1?!",
+      "color_text_info_list": [
+        "G1"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡S-sí! Si está bien, ¡quiero correr en el Asahi\nHai Futurity Stakes! ¡Por favor!",
+      "choice_data_list": [
+        "El Asahi Hai Futurity Stakes, ¿eh?",
+        "El Asahi Hai Futurity Stakes, ¿eh?"
+      ],
+      "color_text_info_list": [
+        "Asahi Hai Futurity Stakes"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Asahi Hai Futurity Stakes es una carrera de\n1,600 metros en césped."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para ser honesto, estaba pensando más en el\nHopeful Stakes de 2,000 metros— como una carrera\nde media distancia en césped como el Derby, parece\nla opción más natural, pero...",
+      "color_text_info_list": [
+        "Hopeful Stakes"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Sí! ¡Quiero correr en la misma carrera que ganó\nMaruzen!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La emoción en su tono es prácticamente palpable.\nSolo hay una cosa que puedo decirle a sus ojos\nbrillantes.",
+      "choice_data_list": [
+        "¡Bien! ¡Entrenemos para el Asahi Hai Futurity\nStakes!"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Sííí! ¡Gracias! ¡Haré lo mejor que pueda!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Y así fue como decidimos aceptar el desafío del\nAsahi Hai Futurity Stakes!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Eso significa que serás la única entre nosotras en\naceptar el desafío de convertirte en la campeona\njunior.",
+      "color_text_info_list": [
+        "junior"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Qué quieres decir con que seré la única? ¿Tú no\nvas a correr, Yaeno?"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "No. Mis piernas aún no han mejorado lo suficiente,\nasí que mi debut se ha retrasado.",
+      "color_text_info_list": [
+        "debut"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Pero esta es una buena oportunidad. Desde ese\ndía..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "El Derby. Mi sueño es correr en el Derby."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "He estado esperando ver el momento en que muestres\ntus colmillos."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Todo lo que hago es para pagarle a mi abuelo. Todo\nlo que hago es por el bien de mi entrenamiento."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Por lo tanto, aprovecharé esta oportunidad para\nevaluar tus habilidades en el Asahi Hai Futurity\nStakes. Bueno, me voy."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "E-está bien..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Quizás también debería ir a verte."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Para... evaluarme?"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Jeje. ¿Quién sabe?"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Aunque por supuesto, solo podré ir si obtengo\npermiso de mi médico."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Haz lo mejor que puedas, Chiyono O. Te estaré\nanimando."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "E-entonces gracias. Por supuesto. Haré lo mejor\nque pueda."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Ambas se han ido."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ahora que la llama del destino ha sido encendida,\nnuestro siguiente paso es el Asahi Hai Futurity\nStakes."
+    }
+  ]
+}

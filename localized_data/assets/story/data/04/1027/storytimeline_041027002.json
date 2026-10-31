@@ -1,0 +1,233 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Llega el día de las pruebas. Todas las Umamusume\nparticipantes se afanan en calentar, con la\nesperanza de mostrar su verdadero poder a los\nentrenadores prospectivos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las gradas están llenas de sus fanáticos y amigos,\nlistos para animarlas. Entre ellos se encuentran\nlos entrenadores de ojo avizor, ansiosos por\nbuscar a la próxima estrella."
+    },
+    {
+      "name": "Fanática de Mejiro Ryan",
+      "text": "¡Ryaaan! ¡Tienes esto en la bolsa!"
+    },
+    {
+      "name": "Fan de Mejiro Ryan",
+      "text": "¡Muéstrales lo que pueden hacer esas piernas! ¡Haz\nque coman tu polvo!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Guau, gracias, chicos! No se preocupen, no los\ndefraudaré."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Guau, alguien es tan popular como siempre!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Jajaja... solo corro alrededor de la escuela\nmucho, así que naturalmente me encuentro con mucha\ngente. Nunca hace daño decir hola a alguien que\nves todos los días."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Sí, y hacer eso es lo que hizo que todas estas\npersonas salieran para tu gran día."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Es un poco vergonzoso cuando lo pones de esa\nmanera... Pero no puedo decir que no lo aprecie.\n¡Mejor hacer que valga la pena!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Sí, eso va para mí también! No perderé contra ti.\n...Aunque no esté participando en las pruebas esta\nvez."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Jajaja, tendremos que guardar nuestra batalla\ncara a cara para otra vez! De todos modos, mejor\nbajar a la pista. ¡Hasta pronto, Ines!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Sí! ¡Destrúyelos, Ryan!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Desde las gradas, veo a Mejiro Ryan caminar hacia\nla pista y empezar a prepararse para la carrera\nentre las otras Umamusume."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Este es! ¿Hasta dónde me llevarán mis piernas\nhoy? ¡Jeje, no puedo esperar!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¿De qué te ríes? Esta es una carrera importante\naquí, que <i>algunas</i> de nosotras estamos tomando en\nserio."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Eh? Ah... Lo-Lo siento."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "...¡Hum."
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Hey... Lo siento por ella. Es de una familia\nbastante famosa, así que está preocupada por\nhacerlos orgullosos."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Hacerlos... orgullosos..."
+    },
+    {
+      "name": "Locutor",
+      "text": "Y con eso, todas las Umamusume están en la puerta\nde salida."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "(Hacerlos orgullosos...)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Bam!</i>"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿¡Eh?! Ah, maldita sea."
+    },
+    {
+      "name": "Locutor",
+      "text": "¿¡Qué es esto?! Mejiro Ryan sale tarde de la\npuerta."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "<i>Respiración agitada</i> Nngh."
+    },
+    {
+      "name": "Fan de Mejiro Ryan",
+      "text": "¡Vamos, Ryaaan!"
+    },
+    {
+      "name": "Fanática de Mejiro Ryan",
+      "text": "¡Eso es! ¡Todavía puedes alcanzar!"
+    },
+    {
+      "name": "Locutor",
+      "text": "Y hemos llegado al tramo final. Mejiro Ryan ha\nlogrado recuperarse de su salida retrasada y ha\nllegado hasta el segundo lugar. ¿Llegará al\nprimero?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ah, la corredora en primer lugar es... la de\nantes..."
+    },
+    {
+      "name": "Locutor",
+      "text": "Se acercan a la línea de meta. Ryan está ganando\nvelocidad y alcanzando rápido. ¿Lo logrará?"
+    },
+    {
+      "name": "Locutor",
+      "text": "Y... No hay caso. La corredora de cabeza cruza la\nlínea de meta, con Mejiro Ryan llegando en un\nsegundo lugar muy cerca."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¿Eh? Hmmm...",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Es solo... algo anda mal con Ryan..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "En efecto. Su forma de correr era diferente a la\nhabitual. Le faltaba su energía habitual."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ah, McQueen. No sabía que estabas aquí."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Voy a correr en las próximas pruebas, así que es\nnatural que esté aquí para prepararme. Pero no\nimporta eso..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Creo que necesito hablar con Ryan."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¿¡Eh?! ¡Espera! ¡Quiero hablar con ella también!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras Mejiro McQueen se dirige a Ryan, Ines\nFujin y yo nos quedamos atrás."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Eh? Ines, McQueen y... el entrenador de antes.\n¿Qué pasa?"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Eso es lo que nos gustaría saber. ¿Qué pasa, Ryan?\nEsa carrera no fue como tú en absoluto."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Yo-yo solo..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Supongo que las pruebas no fueron tan fáciles como\npensé. Los demás corredores estaban súper serios.\nApuesto a que estaban tratando de hacer una buena\nimpresión."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Al final, su pasión se impuso. Quiero decir...\ncorrer es solo otra forma para mí de hacer lo que\namo: hacer ejercicio."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "No tengo grandes sueños ni razones para correr.\nSolo... practico mi pasatiempo."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¿P-para qué dirías eso? ¡Entrenas más que nadie\nque conozca! ¡No hay forma de que hagas todo eso\nsolo por un pasatiempo sencillo."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ah, lo que quiero decir es... estaba tan ocupada\npreparando mi cuerpo que me olvidé de preparar mi\nespíritu también. Supongo que tendré que trabajar\naún más duro."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ryan."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "...Sí, McQueen."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Por qué viniste a la Academia Tracen en primer\nlugar?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿P-por qué? Eso es..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Lo siento. Tal vez esa fuera una pregunta\ninsensible. Me iré."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¿¡Qué?! McQueen, espera."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Por qué... vine aquí?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Eso duele mucho viniendo de ti, McQueen."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso, una deprimida Mejiro Ryan se va antes de\nque pueda hablar con ella."
+    }
+  ]
+}

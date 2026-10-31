@@ -1,0 +1,258 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mr. C.B.",
+      "text": "¿Quieres que corra con Flash otra vez? Mmm..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le pido al Sr. C.B. una revancha inmediatamente\ndespués de volver de nuestro viaje, pero..."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Podría haber sido divertido justo después del\nDerby, pero yo no sé...",
+      "choice_data_list": [
+        "Hay mucho más en ella ahora."
+      ]
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "¿Oh? Pareces muy seguro de eso."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Muy bien, entonces déjame ver de qué es\ncapaz—¡ahora mismo!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Muy bien. Corramos una carrera de 2,400 metros a\nla izquierda de nuevo, como hicimos antes."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Suena bien. Estoy lista cuando tú lo estés."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Entrenador, me gustaría tu consejo."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...No he podido visualizarme ganando desde que se\ndecidió esta revancha.",
+      "choice_data_list": [
+        "Podrías perder, seguro.",
+        "Podrías perder, seguro."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Um... ¿Entrenador?",
+      "choice_data_list": [
+        "Pero has convertido contratiempos en éxitos muchas\nveces antes.",
+        "Pero has convertido contratiempos en éxitos muchas\nveces antes."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Perder contra el Sr. C.B. la última vez fue lo que\ndespertó su deseo de ganar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esa pérdida la impulsó a perseguir su meta con\ntotal seriedad y obtener resultados de ello."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Kikuka Sho también fue un tropiezo. Esa\nexperiencia le enseñó a seguir adelante y\nenfrentar a fuertes rivales en Japan Cup y Arima\nKinen."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella ha crecido y aprendido mucho a través de sus\nfracasos mientras perseguía su idea de perfección.",
+      "choice_data_list": [
+        "Estoy muy orgulloso de en lo que te has\nconvertido.",
+        "Estoy muy orgulloso de en lo que te has\nconvertido."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...!",
+      "choice_data_list": [
+        "Has trabajado más que nadie. Ten fe en ti misma."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Por eso creo que deberías simplemente intentarlo\ny hacer lo que quieras! ♪ ¡Sé que puedes lograr\ncualquier cosa que te propongas!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Aún siento que voy a perder... que las cosas\ncambiarán en mi contra en los últimos cien\nmetros..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sin embargo... Creo que, como soy ahora... puedo\ncambiar las cosas a mi favor en los últimos diez\nmetros."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "¿Estás lista? ¿Debemos empezar?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "¿Oh? Parece que hoy tengo tu atención."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "¡Vamos a hacerlo!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "<i>¡Haa!</i>"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "(Enfócate en la carrera frente a ti... y solo\ncorre... ¡como siempre!)"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡Creo... en mí!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "(¿Eh? Mis piernas se sienten ligeras, y puedo ver\nlos movimientos del Sr. C.B. perfectamente...)"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "(¡Puedo hacerlo!)"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Uf... ¡Haaaaah!"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Eso estuvo muy reñido... ¡Pensé que te ibas a\nescapar!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Aún lograste alcanzarme, pero..."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Usaste tu último empujón en el momento exacto. ¡Lo\nhiciste genial!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...!"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Uf, no he tenido este tipo de emoción en mucho\ntiempo. ¡Eso fue divertido!"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Ver a la nueva generación crecer y mejorar\nrealmente calienta el corazón..."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "¡Hagámoslo de nuevo! ¡Pero en una carrera real!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de despedirme del Sr. C.B...",
+      "choice_data_list": [
+        "Parece que aferrarse al calendario fue la decisión\ncorrecta.",
+        "Parece que aferrarse al calendario fue la decisión\ncorrecta."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Yo... yo había perdido la pista de mí misma."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Tenía miedo, y no confiaba en el trabajo duro y\nprogreso que había construido hasta ahora..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Intenté sonar noble diciendo que era flexible,\npero al final, todo lo que hacía era huir de mi\nmiedo."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Mis piernas se sintieron ligeras como una pluma\nhoy, aunque antes se sentían pesadas como lodo."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Tus palabras me dieron el poder de avanzar."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "He... he crecido y me he vuelto más fuerte. La\nacumulación de mi trabajo duro ha dado frutos.",
+      "choice_data_list": [
+        "¡Y no hay arma más poderosa que el trabajo duro!",
+        "¡Y no hay arma más poderosa que el trabajo duro!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Entrenador? Si... si no hubiera hecho ningún\ncambio a mi calendario en absoluto..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Crees que aún habría podido hacer que mis padres\nse sientan orgullosos?",
+      "choice_data_list": [
+        "Absolutamente."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Me has presentado evidencia sólida y\nconvincente en lugar de argumentos vagos y\nfilosóficos."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Por lo tanto, no tengo más remedio que creer en\nti... y en mí misma por haber llegado hasta aquí.",
+      "choice_data_list": [
+        "Ve y haz que tus padres se sientan orgullosos.",
+        "Ve y haz que tus padres se sientan orgullosos."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...¡Lo haré!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Aceptaré el desafío, sin importar mi rival o lo\nformidable que sea."
+    }
+  ]
+}

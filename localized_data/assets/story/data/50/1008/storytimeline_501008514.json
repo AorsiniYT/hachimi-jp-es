@@ -1,0 +1,256 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Vodka me invita a ver una llamada película de\ntipos duros en el cine."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de que termina la película..."
+    },
+    {
+      "name": "Vodka",
+      "text": "<i>Snif... sollozo...</i>"
+    },
+    {
+      "name": "Vodka",
+      "text": "Ahhhh... ¡Eso estuvo muy bueno! ¡Es una maldita\nobra maestra!"
+    },
+    {
+      "name": "Vodka",
+      "text": "El protagonista y su mejor amigo lucharon para\nllegar a la cima de la escuela—¡literalmente!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Y luego cuando se enfrentó uno contra uno con el\ntope de la escuela rival y terminaron siendo\namigos... ¡Guau!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Supongo que los mejores amigos son los que te\nempujan a luchar con todo lo que tienes."
+    },
+    {
+      "name": "Vodka",
+      "text": "Sé que <i>mi</i> rival más feroz es a quien considero mi\nmejor... amig..."
+    },
+    {
+      "name": "Vodka",
+      "text": "P-pero eh, no <i>todos</i> mis rivales son geniales. ¡Uno\nes realmente molesto!",
+      "choice_data_list": [
+        "(Esto... es sobre Daiwa Scarlet, ¿verdad?)"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Bueno, ¡ya basta de eso! Lo que intento decir\nes..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Entrenador... ¿No crees que también deberíamos\ntener una batalla uno contra uno?",
+      "choice_data_list": [
+        "...¿Qué?!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Me equivoco? Las Umamusume y sus entrenadores\ntienen que entenderse a un nivel profundo,\n¿verdad?"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Y hay cosas que solo puedes comunicar con los\npuños! Así que hagámoslo, Entrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que esa película le dio a Vodka algunas...\nideas interesantes. Entiendo lo que intenta decir,\npero no es como si pudiéramos pelearnos de\nverdad...",
+      "choice_data_list": [
+        "¿Qué tal si peleamos con las piernas en su\nlugar—una carrera?",
+        "¿Qué tal si peleamos con las piernas en su\nlugar—una carrera?",
+        "¡Entonces enfrentémonos, corazón a corazón!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que esa película le dio a Vodka algunas...\nideas interesantes. Entiendo lo que intenta decir,\npero no es como si pudiéramos pelearnos de\nverdad...",
+      "choice_data_list": [
+        "¿Qué tal si peleamos con las piernas en su\nlugar—una carrera?",
+        "¿Qué tal si peleamos con las piernas en su\nlugar—una carrera?",
+        "¡Entonces enfrentémonos, corazón a corazón!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Eh? ¿Una carrera?"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Ajajaja! ¡No me hagas reír!"
+    },
+    {
+      "name": "Vodka",
+      "text": "<i>¿Tú?</i> ¿Desafiarme <i>a mí?</i> ¿Estás fuera de tu mente?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Lo siento, pero no tienes ni una opo—"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Eh?! ¡Aaaughhh!"
+    },
+    {
+      "name": "Vodka",
+      "text": "E-espera... Lo que acabo de decir..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Es exactamente lo que el tipo de la película dijo\njusto antes de que le dieran una paliza!",
+      "choice_data_list": [
+        "...Espera, ¿qué tipo?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Sabes, el matón que miró una vez al protagonista y\nbajó completamente la guardia."
+    },
+    {
+      "name": "Vodka",
+      "text": "Si lo mismo está pasando aquí... ¡No me digas que\nen realidad eres súper rápida?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "...¡Ja! E-entonces. Supongo que aceptas."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Pero no hoy! Si de verdad quieres hacer esto,\ntendrás que esperar.",
+      "choice_data_list": [
+        "¿Por qué?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡No te equivoques! ¡No me estoy echando atrás ni\nnada!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Solo digo que creo que ya tuvimos suficiente\nbatalla hoy después de esa película... ¿verdad?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Así que sí, ¡nuestra pelea está en pausa por\nahora! Volvamos."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Y luego haré algo de entrenamiento! ¡Por si\nacaso!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que evité el desafío por el momento.\nSecretamente aliviado, me uno a Vodka para su\nentrenamiento."
+    },
+    {
+      "name": "Vodka",
+      "text": "Uhhh... ¿Qué significa eso siquiera?",
+      "choice_data_list": [
+        "...¿O sea, podríamos golpearnos con nuestros\nmejores cumplidos?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Eh? ¿Quéeeee?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿C-cumplidos? ¡Ni hablar! ¿Cuál es el punto? ...Y\nademás, ¡eso no es una pelea!",
+      "choice_data_list": [
+        "Tienes razón. Olvídalo...",
+        "Tienes razón. Olvídalo..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Solté lo primero que se me ocurrió, así que\nintento cambiar de tema. Pero..."
+    },
+    {
+      "name": "Vodka",
+      "text": "...Pero supongo que aceptas. Soy lo\nsuficientemente fuerte para aguantar unos cuantos.",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Q-quiero decir, si necesitas desahogarte,\nadelante, dispara."
+    },
+    {
+      "name": "Vodka",
+      "text": "Estaré bien. Un verdadero amigo no teme caer por\nun amigo. ¡Así que dame tu mejor golpe!",
+      "choice_data_list": [
+        "Está bien... Lo intentaré entonces."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Y-yo también! ¡V-ven!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así enumero todas las cosas buenas que he notado\nsobre Vodka desde que la conocí, hasta que..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Basta! ¡Basta, basta, basta, basta! Ya está bien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después del cumplido número cincuenta más o menos,\nde repente me detiene."
+    },
+    {
+      "name": "Vodka",
+      "text": "Vamos, ¿cuántos tienes?! Esto es tan vergonzoso,\n¡me vas a hacer desmayar!",
+      "choice_data_list": [
+        "Y eres muy trabajadora..."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Aughhh! ¡Dije que basta ya!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Caray. ¿Cuántos eran? Estás loca...",
+      "choice_data_list": [
+        "Está bien, te toca."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Qué?! ¡Yo también tengo que hacerlo?!",
+      "choice_data_list": [
+        "Es una pelea uno contra uno, ¿no?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "<i>¡Glup!</i>"
+    },
+    {
+      "name": "Vodka",
+      "text": "Bien. No es propio de mí solo recibir golpes.\n¡Dame un segundo, te derribaré de un golpe!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Lo que pasa contigo es que..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Eres... muy amable!",
+      "choice_data_list": [
+        "¡Oye, gracias!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Hyaaaah! ¡Se supone que debes estar avergonzada,\nidiota!"
+    }
+  ]
+}

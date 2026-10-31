@@ -1,0 +1,129 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Invito a Tazuna a ir al cine ya que tengo un cupón\nde descuento para el teatro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Llego al teatro y encuentro a Tazuna extasiada."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Entrenador! ¡Entrenador!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿Sabías que el cine acaba de someterse a una\nrenovación a gran escala?!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡El sistema de sonido tuvo <i>grandes</i>mejoras! Parece\nque estaban repartiendo cupones para celebrar la\ngran reapertura."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "La pantalla gigante y el sonido atronador son las\nmejores partes de ir al cine, ¿no crees?",
+      "choice_data_list": [
+        "¡Realmente te gustan las películas, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Claro que sí! ♪"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ahora que lo pienso, ¡aún no hemos decidido qué\npelícula ver!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "No tengo preferencias de género específicas, así\nque ¡cualquier cosa sería genial!",
+      "choice_data_list": [
+        "Veamos <i>La Esposa Mala: La Mujer de los Veinte Mil\nMillones de Yenes.</i>",
+        "Veamos <i>Disparo a la Luna: Béisbol de Sangre\nCaliente!</i>"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Oh, claro, ¡esa película de espías! Sí, eso suena\nemocionante!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Hay algo atractivo en llevar una doble vida\nsecreta así. ♪"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "...Oh. Perdón, pero ¿te importa si voy a comprar\nuna toalla?",
+      "choice_data_list": [
+        "¿¡Una toalla!?"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Bueno... Verás..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Definitivamente voy a llorar con esta! ¡Un\npañuelo no será suficiente!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Y así Tazuna y yo disfrutamos una película\njuntos."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Ahhh, eso fue muy divertido! ¡Muchas gracias por\ninvitarme hoy!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "He estado tan ocupada últimamente que no he podido\nir al cine, así que estaba muy feliz de volver al\nmundo del cine hoy! ♪",
+      "choice_data_list": [
+        "¡Realmente amas las películas!"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Sí! Las películas en sí son geniales, por\nsupuesto, pero yo—¿cómo decirlo? ¡Realmente amo\nlas salas de cine!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Con los smartphones e internet, es fácil ver\npelículas en cualquier lugar, pero..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Tomar el tren, caminar al cine, elegir tu asiento,\nver los tráilers y esperar la película\nprincipal..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡No me canso de esa sensación de anticipación! ¡Es\ncomo esperar a que se abran las puertas de salida!\n♪",
+      "choice_data_list": [
+        "...¿Cómo sabes cómo se siente eso?"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Eh, lo que quiero decir es..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oh! ¡Esta es nuestra parada!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Bueno, ¡aquí es donde debemos separarnos! ¡Ten\ncuidado en el camino a casa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de que Tazuna se va, miro el cartel\ndigital frente a la estación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"Ella dejó su huella, pero luego abandonó el mundo\nde las carreras para siempre... Sin embargo, su\nleyenda ha perdurado a través de los siglos...\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"<i>La Umamusume Fantasma,</i> volviendo pronto a un\nteatro cerca de ti!\""
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "De camino a la pista, soy interceptado por una\nTaiki Shuttle visiblemente alegre."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Mira esto, Entrenador! ¡Acabo de ser invitada a\nir a correr en pareja otra vez!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Y todo es culpa tuya!",
+      "choice_data_list": [
+        "¿<i>Mi</i> culpa?",
+        "¿<i>Mi</i> culpa?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Sí, <i>tu</i> culpa! La chica que preguntó dijo que\npodía aprender mucho de mí!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Estaba ansiosa por descubrir cómo le di tanto\nsabor a mi forma de correr!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Así que le dije que era tu culpa por expandir mis\nhorizontes!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Me enseñaste sobre un mundo donde la velocidad\nsola no te da victorias. ¡Ahora me dan mariposas\npensando en cómo superarlo!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡No he podido calmarme desde el día que nos\nconocimos, Entrenador!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Siempre estoy ardiendo de pasión..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Más te vale que asumas la responsabilidad por\ndejarme participar en algo tan emocionante!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Vamos a forjar este futuro juntos! ¡Si te echas\natrás ahora, te voy a cazar! ¡Pum!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque aprecio el gesto, probablemente debería\nhacer algo sobre su elección de lenguaje antes de\nque alguien se lleve la idea equivocada."
+    }
+  ]
+}

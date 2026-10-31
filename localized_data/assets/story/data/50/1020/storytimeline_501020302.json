@@ -1,0 +1,371 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Después de que Seiun Sky y yo terminamos de\nentrenar, vamos al centro comercial juntos."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Guau, hay mucha gente aquí hoy."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Ganadoras del primer premio reciben una\nhamburguesa de zanahoria deluxe, segundo un fardo\nde zanahorias y tercero una sola zanahoria."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡No dejes pasar esta oportunidad! ¡Consigue un\nboleto ahora y gira para tener la oportunidad de\nganar!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Miren, ¡es una rifa!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Espera un segundo, ¿no recibimos algo del cajero\ncuando compramos nuestros snacks?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oh, ¡es un boleto de rifa! ¡Qué coincidencia más\nrara! ☆ ¡Supongo que debemos probar suerte!",
+      "choice_data_list": [
+        "Podrías simplemente decir que quieres hacer la\nrifa..."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Eh? ¡¡Me viste a través de mí?!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Qué mal. Quería hacerte sentir emocionado, como si\nla fortuna te sonriera."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oh, bueno. Yo, por supuesto, ¡quiero ganar esas\nvacaciones en aguas termales!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Así que el resto depende de ti, Entrenador!",
+      "choice_data_list": [
+        "¿¡Quieres que lo haga yo?!",
+        "¿¡Quieres que lo haga yo?!"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Mantener a tu Umamusume motivada es una parte\nimportante de tu trabajo! Con unas vacaciones en\naguas termales como cebo, <i>¡tendré que </i>dar lo mejor\nde mí en el entrenamiento! ☆"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿No suena atractivo? ¡Ahora ve y gana ese premio!"
+    },
+    {
+      "text": "Con Sky mirando por encima de mi hombro, y mi\ncorazón palpitando rápidamente, ¡tiro de la\npalanca de la rifa!"
+    },
+    {
+      "text": "Una pequeña bola de plástico cae de la abertura\ndel tambor..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Santa trucha! ¡Tenemos un ganador del gran\npremio! ¡Ven y recoge el cupón para tus vacaciones\nen aguas termales! ¡Felicitaciones!"
+    },
+    {
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Uooooooo!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Lo lograste! ¡Ganaste las vacaciones en aguas\ntermales!",
+      "choice_data_list": [
+        "¡Gané!"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Maestro entre entrenadores! ¡Estás rebosante de\nmagia de entrenador!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ok, ¿cuándo deberíamos ir? ¿Mañana? ¿Al día\nsiguiente?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Qué tal si vamos justo después de entrenar un\ndía? ¡Se sentiría tan bien lavar todo ese sudor!",
+      "choice_data_list": [
+        "Esa no es una mala idea.",
+        "Esa no es una mala idea."
+      ]
+    },
+    {
+      "text": "Pero entonces me doy cuenta de hacia dónde va la\nconversación y salgo de ella. ¡De ninguna manera\npodemos tomarnos un viaje despreocupado a aguas\ntermales justo al comienzo de su último año!",
+      "choice_data_list": [
+        "¡Iremos una vez que las cosas se calmen un poco!"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿¡Eh?!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Maldición, me descubriste. ¡Y estaba tan cerca!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Eres un aguafiestas, ¡desperdiciando una\noportunidad para calentarme para el año!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿No te dije que trabajaré más duro si me das una\nrecompensa?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Por favor! Si me llevas a las aguas termales,\nrealmente empezaré a entrenar en serio. ¡Lo\nprometo!",
+      "choice_data_list": [
+        "Hagámoslo así..."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Qué?",
+      "choice_data_list": [
+        "¡Primero, trabajas <i>duro, luego </i>vamos a las aguas\ntermales!"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Hmph, ¿por qué no me sorprende?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Entonces prométeme que me llevarás a las aguas\ntermales una vez que haya trabajado lo suficiente.",
+      "choice_data_list": [
+        "¡Lo prometo!"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿En serio?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Harás todos los preparativos necesarios antes del\nviaje? ¿Y me tratarás como a una princesa para que\nno tenga que levantar un dedo?",
+      "choice_data_list": [
+        "Claro que yo—¿¡eh?!"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Dijiste que sí! ☆ Ahora estoy tan emocionada de\nponer esfuerzo para esas aguas termales. ♪"
+    },
+    {
+      "text": "Así es como termino guardando el boleto para las\nvacaciones en aguas termales."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Recibes una hamburguesa\nde zanahoria de lujo!"
+    },
+    {
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Guau, ¡primer premio! ¡Increíble!",
+      "choice_data_list": [
+        "Perdón por no ser el boleto de aguas termales."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿De qué estás hablando? ¡Esto es increíble\nsuficiente!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Hombre, ¡esta hamburguesa de zanahoria se ve\ndeliciosa! ♪ ¡Voy a devorar a este bebé esta\nnoche!",
+      "choice_data_list": [
+        "¿Puedes terminar todo eso tú sola?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Eh, en realidad soy una Umamusume muy\nimpresionante, para que lo sepas."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Quiero decir, no como tanto como Spe o Grass..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Entendido. Si estás preocupado, ¿por qué no te\nunes a mí?",
+      "choice_data_list": [
+        "¿Puedo?",
+        "¿Puedo?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Por supuesto! Tú eres el que lo ganó después de\ntodo."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Pero yo doy el primer mordisco a la zanahoria! ♪"
+    },
+    {
+      "text": "Después, regresamos a la academia y dividimos la\nhamburguesa de zanahoria, y sin dudar, Sky me da\nla porción más grande."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te vas a casa con un montón de\nzanahorias!"
+    },
+    {
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Increíble! Solo mira tooodas estas zanahorias..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Qué se supone que debo hacer con ellas?",
+      "choice_data_list": [
+        "Esa es una buena pregunta.",
+        "Esa es una buena pregunta."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Supongo que podría repartir algunas a cualquiera\nque las quiera en el campus."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Nya-ha! Acabo de pensar en algo aún mejor. ☆"
+    },
+    {
+      "text": "<i>Charla, charla...</i>"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Muy bien, ¡todos formen una fila! ¿Qué tal si\nescuchamos primero de ti?"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Ok! ¡Encontré el lugar perfecto para colgar una\nhamaca en el pueblo de al lado!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oooh, eso suena perfecto para una siesta. Por esta\ninformación valiosa, te doy... ¡cinco zanahorias!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Yay! Gracias. ♪"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Yo después, Sei!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ya sé, ya sé. Todavía hay montones de zanahorias\npara dar, no hay razón para apresurarse."
+    },
+    {
+      "text": "Parece que Seiun Sky encontró una nueva forma de\nrecopilar información."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Miren aquí! ¡Has ganado el tercer premio! ¡Aquí\nestá tu zanahoria!"
+    },
+    {
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Guau, una zanahoria.",
+      "choice_data_list": [
+        "Perdón..."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Por qué te disculpas? Estoy loca por las\nzanahorias. ☆"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Mi nivel de motivación se mantiene estable! Pero\nsi quieres hacerlo aún mejor..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Qué tal si compramos una croqueta de papa bien\ncaliente mientras estamos aquí? ☆",
+      "choice_data_list": [
+        "Compremos también las de carne picada."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Yay! ☆ ¡Eres tan generoso, Entrenador!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ay, eso está <i>caliente... Sopla, sopla...</i>"
+    },
+    {
+      "text": "Observo a Sky mientras lucha por comer las\ncroquetas calientes con su zanahoria."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Ohhh, mala suerte! ¡Parece que sacaste una en\nblanco! ¡Toma este paquete de pañuelos como premio\nde consolación."
+    },
+    {
+      "text": "Obtuviste: <itemname>",
+      "choice_data_list": [
+        "...Lo siento."
+      ],
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Jaja! No hay necesidad de disculparse. Es un\njuego de suerte, así que no hay nada que podamos\nhacer al respecto."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pero aún así..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "No te sorprendas si mi motivación disminuye. ☆",
+      "choice_data_list": [
+        "¿¡Eh?!"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Perdón, Entrenador. Mantener mi estado de ánimo\ntambién depende de la suerte."
+    },
+    {
+      "text": "Al día siguiente, como era de esperar, Seiun Sky\nllega tarde a la práctica..."
+    }
+  ]
+}

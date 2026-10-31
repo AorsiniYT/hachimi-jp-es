@@ -1,0 +1,64 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, después de mi sesión de entrenamiento con\nEishin Flash..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Hm?",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No es nada. La sesión terminó antes de lo que\nesperaba."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No debería ser posible que termine todas mis\nvueltas tan rápido."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Podría ser que nos hayamos equivocado en la\ncuenta?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Pero cuando reviso los números, todas mis vueltas\nestán contabilizadas, lo que solo puede significar\nuna cosa.",
+      "choice_data_list": [
+        "Debes haberte vuelto más rápido.",
+        "Debes haberte vuelto más rápido."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Bueno... Qué error de cálculo tan feliz."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Esto nunca pasó cuando entrenaba por mi cuenta."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Gracias. No podría haber logrado esto sin tu\nayuda.",
+      "choice_data_list": [
+        "Por supuesto. ¡Ahora sigamos así!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Jeje. Debemos ponernos a revisar mi horario de\nentrenamiento inmediatamente."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Apreciaría cualquier consejo que puedas darme."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que mi entrenamiento está dando frutos."
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Tokai Teio suelta un largo gemido. Eso es inusual."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Bueno, nadie me ha estado elogiando últimamente!",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Necesito cumplidos! ¡O si no pierdo toda\nmotivación!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Y yo aquí preguntándome qué era todo el alboroto.\nQué niña eres."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Sin embargo..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Je, je. Conozco el lugar perfecto para alguien\ncomo tú."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy un poco preocupado por la sonrisa de Mejiro\nMcQueen, así que decido seguir a las dos."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...Me engañaste."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No he dicho ninguna mentira. ¿Qué mejor manera de\nganar aclamación que dedicarte a obras de caridad?",
+      "choice_data_list": [
+        "No está equivocada..."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Sí, pero esto es solo voluntariado en un parque..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Espabila, Teio. Debes recoger toda la basura de\naquí."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "(Esto no es lo que estaba pensando <i>en absoluto!</i>)"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "<i>Suspiro...</i> Tomo un descanso. No hay nadie por aquí\nanyway."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "(Si ni siquiera voy a recibir cumplidos, prefiero\nvolver y entrenar.)"
+    },
+    {
+      "name": "Señora mayor",
+      "text": "Hola, hola. ¿Están aquí para limpiar el parque por\nnosotros?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Eh? Oh, eh, ¡sí!"
+    },
+    {
+      "name": "Señora mayor",
+      "text": "Bueno, qué cosa más linda. Ha habido menos basura\ny grafitis últimamente gracias a jóvenes amables\ncomo ustedes."
+    },
+    {
+      "name": "Señora mayor",
+      "text": "Oh, se ve justo como antes en los viejos tiempos.\nEse es el estanque al que mi esposo le gustaba\ntanto..."
+    },
+    {
+      "name": "Señora mayor",
+      "text": "Y ahí está el banco donde solíamos sentarnos y\nconversar. Realmente no puedo agradecerles lo\nsuficiente."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Eh, bueno, mi descanso casi termina, así que debo\nvolver. ¡Nos vemos!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Oye! ¡Dame algo que hacer! ¡Haré lo que sea!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Me preguntaba a dónde te habías ido. ¿Por qué tan\nansioso de repente?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Bueno, yo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tokai Teio relata su encuentro con la anciana."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Yo también tengo un recuerdo muy importante!\n¡Cuando vi a la Prez correr justo después de\nmatricularme!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Allá en la hierba, me parecía el sol! ¡Incluso\nahora, la veo clarísima!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Así que si este parque tiene recuerdos\nimportantes para esa anciana, quiero protegerlo!",
+      "choice_data_list": [
+        "¡Entonces te toca recoger basura!",
+        "¡Entonces te toca recoger basura!",
+        "¡Entonces te toca eliminar grafitis!",
+        "¡Entonces te toca eliminar grafitis!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Así que si este parque tiene recuerdos\nimportantes para esa anciana, quiero protegerlo!",
+      "choice_data_list": [
+        "¡Entonces te toca recoger basura!",
+        "¡Entonces te toca recoger basura!",
+        "¡Entonces te toca eliminar grafitis!",
+        "¡Entonces te toca eliminar grafitis!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Sí, lo hacemos! ¡Vamos, McQueen!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gracias a sus esfuerzos, toda la basura del parque\nse reúne en un lugar en un abrir y cerrar de ojos."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Qué vista tan hermosa."
+    },
+    {
+      "name": "Señora mayor",
+      "text": "Oh, pero miren quién está aquí."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Oh, hola! ¡Acabamos de terminar de limpiar!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Guau, está todo verde y brillante como la hierba\nde las carreras!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Y espero que esté como en tus recuerdos. ♪"
+    },
+    {
+      "name": "Señora mayor",
+      "text": "Jaja, ciertamente lo es. Gracias."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras observa su obra con la anciana, Teio\nparece erguirse un poco más que antes."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Sí, lo hacemos! ¡Vamos, McQueen!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡La desfachatez de algunas personas! Haciendo\ngrafitis en propiedad pública... Verdaderamente un\nacto infantil y egoísta."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "(Egoísta, huh... Yo también estaba actuando\nbastante egoísta allá atrás.)"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Okay! ¡Vamos a dejar esta pared impecable ya\nmismo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gracias a sus esfuerzos, todos los grafitis\nalrededor del parque desaparecen en un abrir y\ncerrar de ojos."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Oh? Esa anciana que nos hace señas... ¿Es la que\nmencionaste?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Es ella! ¡Voy a darle la buena noticia!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Hoooooola! ¡El parque ya está todo limpio! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras observo a Tokai Teio salir corriendo,\nsiento que ha crecido bastante."
+    }
+  ]
+}

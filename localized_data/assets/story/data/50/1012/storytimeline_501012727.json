@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Qué botín tan enorme! ¡Lo hiciste genial!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Esto debería ser más que suficiente! ¡Muchas\ngracias, Profe!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "...Jeje.",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Nada en especial. ¡Ver cómo presumes de tus\nhabilidades me ha dado picazón por un poco de\ncompetencia!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Veamos quién consigue más premios! ¿Te apuntas?!",
+      "choice_data_list": [
+        "Pensé que no tenías dinero."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "...Ah, cierto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡No podría haber salido mejor!"
+    }
+  ]
+}

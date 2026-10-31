@@ -1,0 +1,383 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Con su debut no muy atrás, participamos en algunas\ncarreras de práctica muy necesarias para\nfortalecer su habilidad para competir en grupos\ngrandes, pero..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "<i>Haa... Resuello...</i> ¿Tercer lugar?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¡Maldición!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En una carrera de práctica tomará el primer lugar,\nluego tomará el sexto en la siguiente. Y luego\nprimero otra vez. Sus resultados se niegan a\nestabilizarse.",
+      "choice_data_list": [
+        "(Con este ritmo, solo va a estresarse...)",
+        "(Con este ritmo, solo va a estresarse...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero a través de estas carreras de práctica, he\nllegado a identificar su problema..."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Graaah!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¡Hya!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuando es desafiada por otra corredora, ella\nenfoca su energía en la retadora hasta que se\nretire, para toda la carrera si es necesario."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, cuando corre contra múltiples oponentes..."
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Haaa!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Crees que puedes pasarme?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Narita Brian es incapaz de correr a su ritmo\nnatural."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "<i>Resuello, resuello...</i>"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Tch!",
+      "choice_data_list": [
+        "(Quiero hacer algo, pero...)",
+        "(Quiero hacer algo, pero...)"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Oye, tú!",
+      "choice_data_list": [
+        "¿¡Yo!?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Eres el entrenador de Brian, ¿verdad? ¿Ella está\nenferma o algo últimamente?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡No ha sido ella misma desde su debut!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Dónde está esa fuerza insana que vi durante\nnuestro uno contra uno?",
+      "choice_data_list": [
+        "Brian es mejor en carreras uno contra uno.",
+        "Brian es mejor en carreras uno contra uno."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "<i>¡Gulp!</i> B-Bueno sí, no puedo discutir eso\nconsiderando que me destrozaron por completo..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Urk... ¡Vamos! ¡No me hagas recordar eso!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Apúrate y haz que Brian se recupere! Solo le doy\nuna paliza a la gente cuando están en su mejor\nmomento.",
+      "color_text_info_list": [
+        "★★★"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Cuanto más tenga que contenerme ahora, más voy a\nsoltarme cuando corramos!",
+      "choice_data_list": [
+        "(Contenerse... luego soltarse...)"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Qué es, Entrenador?",
+      "choice_data_list": [
+        "Quieres ganar, ¿verdad?",
+        "Quieres ganar, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tch... Obvio. ¿Crees que hay una corredora por ahí\nque quiera perder?",
+      "choice_data_list": [
+        "En ese caso, ¿por qué no cambiamos nuestra\nestrategia?",
+        "En ese caso, ¿por qué no cambiamos nuestra\nestrategia?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Qué quieres decir?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...En resumen, si alguien me pasa en medio de la\ncarrera, ¿debería simplemente dejarlos?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Me estás diciendo que simplemente huya con la\ncola entre las patas cuando hay un desafío justo\nen frente mío?",
+      "choice_data_list": [
+        "¡No, no es a eso a lo que me refiero!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Bueno, entonces ¿qué <i>quieres</i> decir?",
+      "choice_data_list": [
+        "No es huir ni contenerse—es ahorrar tu energía\npara después.",
+        "No es huir ni contenerse—es ahorrar tu energía\npara después."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿Ahorrar energía?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todos sus problemas provienen de su feroz espíritu\ncompetitivo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dado eso, si ella puede construir ese espíritu,\nconvertirlo en energía y liberarlo en una enorme\nexplosión...",
+      "choice_data_list": [
+        "Puedes correr de una manera que sea especial para\nti.",
+        "Puedes correr de una manera que sea especial para\nti."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Especial... para mí?",
+      "choice_data_list": [
+        "El primero en cruzar la meta es el ganador,\ndespués de todo.",
+        "El primero en cruzar la meta es el ganador,\ndespués de todo."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Tienes que ser más detallado que eso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En la siguiente carrera de práctica, siete nuevas\ncorredoras vienen a participar."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Como Brian lo ha estado haciendo tan mal\núltimamente, siento que ¡realmente puedo ganar!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¡Yo también! ¡Definitivamente no voy a perder!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Entrenador."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "\"Acumula y luego explota\", ¿verdad?",
+      "choice_data_list": [
+        "Así es.",
+        "Así es."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Y el momento?",
+      "choice_data_list": [
+        "Eso lo dejo a ti.",
+        "Eso lo dejo a ti."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al igual que cuando corre uno contra uno, sus\ninstintos competitivos son excelentes cuando está\nen pleno control de sí misma."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Pff...!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin nada más que decir, ella se dirige a la\npuerta. Y entonces..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Clonc!</i>"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡El primer lugar es mío!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¡Como si simplemente lo fuera a entregar! Jeje,\n¡nos vemos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tan pronto como se abre la puerta, las dos\ncorredoras luchan vigorosamente por el primer\nlugar. En cuanto a Narita Brian..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Oh, disculpe. ¿Le importa si me siento a su lado y\nmiro?",
+      "choice_data_list": [
+        "Adelante."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Qué es esto? Se ve mucho más relajada que antes.\n¿Encontramos una nueva solución, verdad?"
+    },
+    {
+      "name": "Skilled Trainer",
+      "text": "La competencia es bastante feroz en la parte\ndelantera. Narita Brian debe estar ahí también."
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "¿Huh? ¡No está! ¡Todavía se mantiene en el medio!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Oh? Es bastante raro que se mantenga fuera de la\nacción intencionalmente."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "(Gah... Tan frustrante... ¡Solo quiero correr al\nfrente!)"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "(Esto en realidad me está matando... Mi presa\nestá<i>ahí mismo,</i> mía para tomar, y yo no puedo\nalcanzarla!)"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "(Ya basta, no puedo aguantar más—¡necesito cazar!)"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Jaja... Ahora lo entiendo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿Así que esto es ahorrar energía? ¡Realmente me\nestás pidiendo mucho, Entrenador!"
+    },
+    {
+      "name": "Skilled Trainer",
+      "text": "Oh, casi están en la cuarta curva. Y la ventaja...\n¿no ha cambiado?"
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "Ella no estaba progresando antes, pero creo que\nesto lo confirma—Brian realmente está en un bajón."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Eso no puede ser cierto... Esto no se alinea con\nmis cálculos. ¿Ha perdido su pasión? O, no me\ndigas...",
+      "choice_data_list": [
+        "(Así es. Esto no es el final.)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Brian ha estado esperando el momento,\nesperando su momento perfecto para atacar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y entonces, cuando salen de la cuarta curva..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "(Hora de rematar—romper estas restricciones y\narrebatar la victoria.)"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Por fin, el momento que he estado esperando."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¿Huh? ¿Qué fue eso justo ahora?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡RAAAHHH!"
+    },
+    {
+      "name": "Umamusume A y B",
+      "text": "¡Gya!"
+    },
+    {
+      "name": "Skilled Trainer",
+      "text": "¿¿¿Qué demonios?! ¡Narita Brian se abalanza al\nfrente!"
+    },
+    {
+      "name": "Veteran Trainer",
+      "text": "¡Es rápida! ¿Cómo puede ser tan rápida?! ¡No podía\npasar a nadie antes!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Qué feroz! ¡Así es como corre ahora!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No... la palabra \"carrera\" apenas encaja. Esto es\nmás como... ¡una cacería!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Brian se dispara como un ave de presa\nlanzándose hacia su presa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin preocuparse por su público embelesado, ella\n¡atraviesa la línea de meta!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "<i>Haa... Haa...</i>",
+      "choice_data_list": [
+        "¡Así se habla!",
+        "¡Así se habla!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Pfff, ¡jajaja!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿De qué estás hablando? Nunca me he sentido así\nantes."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Qué estabas pensando al enseñarme esto? ¡Esta\nsensación podría convertirse en una adicción!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Brian no muestra signos de su fatiga usual\nen la carrera. De hecho, está positivamente\nradiante."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Creo que hemos dado un paso más hacia el futuro."
+    }
+  ]
+}

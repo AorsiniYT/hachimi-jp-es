@@ -1,0 +1,347 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Silence Suzuka y yo vamos de regreso a casa\ndespués de una salida cuando decidimos pasar por\nel distrito comercial."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Guau, está tan lleno!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben su suerte con nuestra rifa\nde Año Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Ganadores del 1.º: ¡hamburguesa de zanahoria\ndeluxe! 2.º: ¡un saco de zanahorias! 3.º: ¡una\nzanahoria!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡No dejes pasar esta oportunidad! ¡Consigue un\nboleto ahora y gira para tener la oportunidad de\nganar!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Oh, hay una rifa. No es de extrañar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lo que me recuerda, estoy segura de que\nconseguimos un boleto antes cuando estábamos\ncomprando.",
+      "choice_data_list": [
+        "Tenemos un boleto, ¿por qué no intentarlo?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Te dieron el boleto a ti, así que deberías ser tú\nquien lo intente!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Rin-rin! ¡Rin-rin!</i>"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Bueno, miren esto! ¡Tenemos un afortunado ganador\ndel primer premio! ¡Te llevas la hamburguesa de\nzanahoria de lujo! ¡Felicidades!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Oh... Esa campana suena tan familiar..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Jeje, me trae recuerdos.",
+      "choice_data_list": [
+        "Oh, ¿en serio?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Sí... En mi pueblo natal, había esta pequeña\ncarrera en la que corría cuando era niño."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Se llamaba la Carrera Infantil. Era tan pequeña e\ninformal que ni siquiera teníamos una línea de\nmeta adecuada."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "En cambio, uno de los adultos tocaba una campana\nde mano cuando uno de nosotros terminaba."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Sonaba exactamente como la que el empleado acaba\nde tocar.",
+      "choice_data_list": [
+        "¡Entonces obtengamos el primer lugar y escuchemos\nla campana de nuevo!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Obtener el primer lugar? ¿No quieres decir \"ganar\nel primer premio\"?",
+      "choice_data_list": [
+        "¡No! ¡Tienes que obtener el primer lugar como lo\nhiciste en la Carrera Infantil!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Jeje. ¿Es así?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Estás seguro de que puedo usar tu boleto?",
+      "choice_data_list": [
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Muchas gracias. ¡Entonces voy a obtener el primer\nlugar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella va con el empleado, cambia el boleto y gira\nla manivela del giratorio de la rifa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de la abertura\ndel giratorio..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Caramba! ¡Tenemos un ganador del gran premio!\n¡Ven a recoger el cupón para tus vacaciones en\naguas termales! ¡Felicidades!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>¡Haa!</i> ¡Quedé en un lugar incluso más alto que el\nprimero?!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Eso es siquiera posible en una carrera,\nEntrenador?!",
+      "choice_data_list": [
+        "Supongo que es como romper un récord?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Romper un récord..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Jeje, esa es una forma divertida de pensarlo."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Pero, ¿qué se supone que debo hacer con este\ncupón?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Solo he ido de vacaciones con mi familia, así que\nno sé qué hacer...",
+      "choice_data_list": [
+        "Puedes ir con un amigo también. ¿Por qué no\ninvitas a alguien?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Oh, ciertamente es una idea..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Entonces... ¿a quién debería invitar? Las\nvacaciones son ocasiones tan especiales, después\nde todo..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Mmm...",
+      "choice_data_list": [
+        "No tienes que decidir ahora.",
+        "No tienes que decidir ahora."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Es verdad. En ese caso..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Crees que podrías guardarme este cupón, por\nfavor?",
+      "choice_data_list": [
+        "Puedo, pero ¿por qué?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Si lo guardara, estaría constantemente preocupada\npor a quién debería invitar."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Una vez que haya decidido, te lo aseguro que lo\nrecogeré de ti. ¿Podrías guardarlo seguro hasta\nentonces?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hago lo que ella pide y tomo el cupón para\nguardarlo."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicidades! ¡Obtienes una hamburguesa de\nzanahoria de lujo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Oh! ¡Obtuve el primer lugar! Jeje.",
+      "choice_data_list": [
+        "¡Felicidades!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Gracias!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Incluso si es solo una rifa, estoy tan feliz de\nhaber obtenido el primer lugar.",
+      "choice_data_list": [
+        "Bueno, se ve deliciosa la hamburguesa.",
+        "Bueno, se ve deliciosa la hamburguesa."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Ciertamente lo es."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Pero es un poco demasiado considerando que aún\ntengo que pensar en la cena en el dormitorio...\n¿Así que te gustaría compartirla conmigo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy más que feliz de hacerlo, así que acepto\ncompartir la hamburguesa con ella."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te vas a casa con un haz de\nzanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Oh... Estuve tan cerca de ganar el primer lugar..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Pero vaya, qué cantidad increíble de zanahorias."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Qué debo hacer con todas?",
+      "choice_data_list": [
+        "¿Por qué no las compartes con los demás en el\ndormitorio?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Oh! Es una buena idea. Lo haré."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Jeje, Spe estará tan emocionada cuando las vea."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ayudo a Silence Suzuka a llevar sus zanahorias de\nvuelta al dormitorio."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Miren aquí! ¡Has ganado el tercer premio! ¡Aquí\nestá tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Oh... Tercer lugar..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Lo siento, Entrenador. Supongo que no tuve\nsuficiente suerte para tomar el primer lugar\nhoy..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Quizás debería haberle pedido a Fukukitaru un\namuleto de la suerte primero.",
+      "choice_data_list": [
+        "¿Un amuleto de la suerte?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Al parecer, ella tiene uno que está destinado a\naumentar tu suerte para sacar papeles de la\nfortuna y cosas así."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No puedo decir con seguridad qué tan efectivo es,\nsin embargo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Metemos su zanahoria del tercer premio en una\nbolsa de compras, y regresamos a la academia\nmientras vemos el sol ponerse más allá del\nhorizonte."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Oh, mala suerte! Es el premio de consolación para\nti: un paquete de pañuelos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Oh no! ¡Ni siquiera quedé entre los tres\nprimeros!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Esto es terrible!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Entrenador, ¡necesitamos comenzar a entrenar de\ninmediato!",
+      "choice_data_list": [
+        "¡Está bien! ¡Es solo una rifa!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Oh, ¡sí! T-tienes razón."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>Suspiro...</i> Lo siento, me dejé llevar un poco por\nel momento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Silence Suzuka se ve bastante desanimada mientras\nregresamos a casa, mirando el sol ponerse más allá\ndel horizonte."
+    }
+  ]
+}

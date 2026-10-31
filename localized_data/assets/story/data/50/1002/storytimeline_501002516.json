@@ -1,0 +1,79 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después del almuerzo, encuentro a Silence Suzuka\nmirando su plato vacío."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Mi próxima carrera se acerca. ¿Qué hacer...",
+      "choice_data_list": [
+        "¿Qué te preocupa?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Oh, Entrenador... Estoy tratando de decidir si\ndebería comer postre o no."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "En esta época del año, tienen todo tipo de dulces\ncon tema de invierno. Lo llaman la Feria de la\nNieve."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Creo que nunca he visto tantos treats escarchados\nespectaculares en un solo lugar!",
+      "choice_data_list": [
+        "¡La presentación los hace ver extra deliciosos!",
+        "¡La presentación los hace ver extra deliciosos!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Estoy de acuerdo!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Estoy especialmente interesada en este, el Parfait\nGigante Iglú."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Pero con la próxima carrera acercándose, tengo que\nrealmente tener cuidado con mi ingesta...",
+      "choice_data_list": [
+        "¿Qué tal si lo compartimos?",
+        "No te preocupes. ¡Hora de darse un gusto!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Estás seguro? ¡Muchas gracias!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Jeje. Es tan lindo. Casi da pena comérselo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella tenía razón en preocuparse. Este parfait debe\nestar lleno de calorías. La nieve es más probable\nque le dé acidez que congelación."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Bueno, si tú lo dices, debe estar bien. ¿Verdad?",
+      "choice_data_list": [
+        "Puedes correr todo lo que comas después."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Cierto..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Mmm... Puedo comer todo lo que quiera... y luego\ncorrer todo lo que quiera."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Es una situación ganar-ganar, ¿verdad? Jeje."
+    }
+  ]
+}

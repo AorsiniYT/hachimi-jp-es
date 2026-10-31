@@ -1,0 +1,224 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "En mi día libre, me dirijo al barrio comercial y\nveo una multitud reunida..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Me llamo Haru Urara! ¡Por favor, tomen uno!",
+      "choice_data_list": [
+        "¿Qué estás haciendo, Urara?",
+        "¿Qué estás haciendo, Urara?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Oh, entrenador! ¡Estoy repartiendo volantes!"
+    },
+    {
+      "name": "Tendero enérgico",
+      "text": "¡Hola! ¡Aquí tienes uno!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Miro el volante que me han dado..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"¡Vota por Haru Urara para el Arima Kinen!\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "...está escrito.",
+      "choice_data_list": [
+        "Esto es..."
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Los participantes del Arima Kinen se deciden por\nvotación, ¿verdad?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Así que mi club de fans dijo que deberíamos\nintentar conseguir votos de otros fans!"
+    },
+    {
+      "name": "Tendero enérgico",
+      "text": "Sería muy difícil que Urara se clasifique por su\ncuenta."
+    },
+    {
+      "name": "Tendero enérgico",
+      "text": "¡Así que pensamos que deberíamos hacer algo para\nayudarla!"
+    },
+    {
+      "name": "Tendero enérgico",
+      "text": "Ella siempre nos trae alegría, ¡así que queremos\nayudarla a cumplir su sueño!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Jejee, ¡gracias a todos! ¡Definitivamente voy a\nparticipar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que el club de fans de Haru Urara quería\nayudarla de alguna manera, y esto es lo que se les\nocurrió. Qué gesto tan notable."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque no estoy segura de que Haru Urara comprenda\ntotalmente todo lo que están haciendo por ella."
+    },
+    {
+      "name": "Transeúnte A",
+      "text": "¡Guau, Haru Urara va a por el Arima Kinen? ¡Oh,\nDios mío!"
+    },
+    {
+      "name": "Transeúnte B",
+      "text": "No te preocupes, ¡votaremos por ti! ¡También se lo\ndiré a mis amigos!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿En serio? ¡Gracias! ¡Necesito todos los votos que\npueda conseguir!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Haru Urara es bastante popular. De hecho, estoy\nsegura de que conseguirá suficientes votos para\nentrar en el Arima Kinen así."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Vamos a dar lo mejor, entrenador! ¡Estoy muy\nemocionada!",
+      "choice_data_list": [
+        "Oye, Urara...",
+        "Oye, Urara..."
+      ]
+    },
+    {
+      "name": "Umamusume A",
+      "text": "...¿Qué demonios es esto?",
+      "choice_data_list": [
+        "Oye, tú eres...",
+        "Oye, tú eres..."
+      ]
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¿Cómo puedo sonreír ahora mismo?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es la Uma Musume que compitió contra Haru Urara en\nel February Stakes. Mira el volante con desagrado."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Oye, mucho tiempo sin verte! ¡Estoy repartiendo\nvolantes!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Sí, se nota... Para el Arima Kinen, ¿verdad?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Así es! No estaba en camino de clasificarme, así\nque..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Todos me ayudan a conseguir votos!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "...Oye, Urara. ¿De verdad sabes lo que estás\nhaciendo ahora mismo?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Eh? Um, estoy pidiendo a la gente que vote por\nmí..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Así podré participar en el Arima Kinen..."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡¿Qué demonios te pasa?!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Estamos hablando del Arima Kinen... Todas quieren\nentrar, pero solo las que se esfuerzan lo\nconseguirán. Por eso todas entrenamos como locas."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Pero aquí estás tomando el camino fácil: usando la\nregla de votación para sobornar tu entrada."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Estás burlándote de todos nosotros que nos\ntomamos en serio correr en esta carrera!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡No quiero competir contra alguien que solo hace\nesto por diversión!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Yo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Haru Urara mira en silencio mientras la Umamusume\nse aleja furiosa."
+    },
+    {
+      "name": "Transeúnte A",
+      "text": "...Cuando lo piensas, ella tiene razón."
+    },
+    {
+      "name": "Transeúnte A",
+      "text": "Sí quiero que Urara corra en el Arima Kinen, pero\ndebería basarse en sus habilidades como corredora."
+    },
+    {
+      "name": "Transeúnte B",
+      "text": "Sí. El Arima Kinen es una carrera muy importante\nal fin y al cabo. Pero aún quiero ver a Urara\ncorrer en ella..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Todos..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Parecía enojada conmigo. No sé qué hacer..."
+    },
+    {
+      "name": "Tendero Enérgico",
+      "text": "... Lo siento, Urara. Es nuestra culpa."
+    },
+    {
+      "name": "Tendero Enérgico",
+      "text": "Esta fue nuestra idea, y causó una pelea entre tú\ny tu amiga."
+    },
+    {
+      "name": "Tendera enérgica",
+      "text": "¡Lo sentimos mucho!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Por qué se disculpan? ¡Ustedes no hicieron nada\nmalo!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Y-yo solo no entiendo nada de esto..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Pero la regué, eso sí lo sé."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El ambiente alegre de antes se agria, y el club de\nfans decide dejar de repartir los volantes.\nDespués de dar por terminado el día, llevo a Haru\nUrara de vuelta a las residencias."
+    }
+  ]
+}

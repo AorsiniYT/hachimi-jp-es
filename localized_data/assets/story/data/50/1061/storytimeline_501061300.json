@@ -1,0 +1,58 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "La última mañana del campamento de verano ha\nllegado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todas las Umamusume están abordando el autobús de\nregreso a la Academia Tracen."
+    },
+    {
+      "name": "King Halo",
+      "text": "No queda tiempo hasta la Kikuka Sho...",
+      "choice_data_list": [
+        "...¿King?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "...",
+      "choice_data_list": [
+        "¡King!"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¿¡Eh?! ¡Así es! Soy la Umamusume de primera, King\nHalo!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¿Quién es la más inteligente de todas?"
+    },
+    {
+      "name": "King Halo",
+      "text": "...¡Espera un segundo! ¡No es momento para\npreguntas y respuestas! ¡No me distraigas!",
+      "choice_data_list": [
+        "(Bueno, disculpa...)"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Te lo juro, mantén tus bromas con moderación. No\ntenemos tiempo ahora mismo..."
+    },
+    {
+      "name": "King Halo",
+      "text": "Tan pronto como termine el verano, tenemos la\nKikuka Sho, la última carrera del tour de la\nTriple Corona!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Es una carrera de larga distancia de 3,000 metros\nen césped. Será desafiante, pero debo\nprevalecer..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "King Halo mira por la ventana en el viaje en\nautobús de regreso a la academia, perdida en sus\npensamientos."
+    }
+  ]
+}

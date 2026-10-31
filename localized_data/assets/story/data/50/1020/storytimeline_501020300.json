@@ -1,0 +1,121 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "El campamento de verano terminó, y así, Seiun Sky\nestá..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "<i>Bostezo...</i>",
+      "choice_data_list": [
+        "(Está completamente agotada.)"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Estoy acabada... Dame un segundo para descansar."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Y por \"un segundo\", me refiero a \"hasta el Kikuka\nSho\".",
+      "choice_data_list": [
+        "¡Ni hablar!",
+        "¡Ni hablar!"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Sky..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oh, King. ¿Por qué te ves tan seria?",
+      "color_text_info_list": [
+        "King"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Parece que te esforzaste bastante en el campamento\nde verano... Supongo que estás tramando algo?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Tramando? No seas mala. Todos se esfuerzan en el\ncampamento de verano."
+    },
+    {
+      "name": "King Halo",
+      "text": "Sí, bueno... Estaba entrenando con Special Week."
+    },
+    {
+      "name": "King Halo",
+      "text": "Ella mejoró mucho en el campamento. Es <i>mucho más\n</i>fuerte ahora de lo que era en el Derby."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Bueno, así es Spe. Cuanto más trabaja, mejor se\npone."
+    },
+    {
+      "name": "King Halo",
+      "text": "¿No te preocupa nada? ¿Por qué eres tan—"
+    },
+    {
+      "name": "King Halo",
+      "text": "<i>No, ¿cómo </i>exactamente planeas superar tales\nobstáculos?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Whoa, whoa—incluso si tuviera algunas ideas, qué\nte hace pensar que las compartiría contigo?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Tú también corres en el Kikuka Sho, ¿verdad?"
+    },
+    {
+      "name": "King Halo",
+      "text": "...Uf. Exactamente."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Bueno, supongo que puedo decirte una cosa."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿No sería divertido si la favorita número uno—la\n<i>que todos esperan </i>que gane... <i>recibiera una\npaliza?</i>"
+    },
+    {
+      "name": "King Halo",
+      "text": "...!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Ohohoho!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Uh... No esperaba eso."
+    },
+    {
+      "name": "King Halo",
+      "text": "Heh, eso es hablar grande. ¡Espero que estés lista\npara respaldarlo!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Te dejaré con esto. Yo <i>también </i>he ascendido a\nnuevas alturas."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Y no perderé ante Special Week <i>ni ante </i>ti!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "King es tan altiva y poderosa como siempre, ¿eh?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Bueno, cuanto más alta esté, más divertido será\nhacerla caer. ♪"
+    },
+    {
+      "text": "Con eso, nuestra emocionante experiencia en el\ncampamento de verano llega a su fin."
+    }
+  ]
+}

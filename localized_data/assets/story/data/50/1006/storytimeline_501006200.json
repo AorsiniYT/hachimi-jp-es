@@ -1,0 +1,35 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Con su debut a solo momentos de distancia, el\nmomento de Oguri Cap finalmente ha llegado.",
+      "color_text_info_list": [
+        "debut"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Aquí estamos. En realidad me siento...\nextrañamente tranquila."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sin duda, es todo gracias a ti.",
+      "choice_data_list": [
+        "¿Yo?",
+        "¿Yo?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí. Tú me cuidas, como todos en casa. Por eso me\nsiento tan relajada."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Quiero devolverle a todos por apoyarme. Es gracias\na ellos que puedo estar aquí hoy."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Es hora de correr. Aquí es donde todo comienza."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gold Ship",
+      "text": "¡Buya, buya! ¡BUU-YAAAH!",
+      "choice_data_list": [
+        "¡Eso fue fantástico, Gold Ship!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Viste eso, April?! ¡Te he vengado!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Si tienen el descaro de celebrar el Satsuki Sho en\ntu mes otra vez, ¡cuenta conmigo!",
+      "choice_data_list": [
+        "...¿Eh?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Estos puños rugirán con la misma ferocidad por ti\nel próximo año!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "RAAAAAH!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella sale corriendo antes de que pueda informarle\nde que solo los corredores de año clásico pueden\nparticipar en el Satsuki Sho..."
+    }
+  ]
+}

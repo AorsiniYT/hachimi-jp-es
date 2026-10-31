@@ -1,0 +1,68 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Haru Urara",
+      "text": "¡Entrenador! ¡Algo anda mal conmigo!",
+      "choice_data_list": [
+        "¿Qué es?!",
+        "¿Qué es?!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Mi pecho está apretado! ¡Y se siente caliente,\ncomo si estuviera en llamas!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Estoy temblando y sudando. ¿Qué pasa conmigo?",
+      "choice_data_list": [
+        "Eso suena como si te lo estuvieras tomando en\nserio."
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿¡En serio!?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Oh, así que esto es lo que significa tomar algo en\nserio... ¡Creo que ahora lo entiendo!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Así que está bien que me sienta así? ¡Entonces\ndaré lo mejor de mí, con sudor y todo!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Entrenador! ¡Esta vez voy a quedar en primer\nlugar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esta va a ser una carrera difícil. Estoy segura de\nque Haru Urara lo sabe. Solo el hecho de poder\nparticipar ya es todo un logro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero ella no se rendirá. No es ese tipo de\npersona. Así que...",
+      "choice_data_list": [
+        "¡Estaré viendo!",
+        "¡Estaré viendo!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Allá voy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los vítores del público se hacen más fuertes.\nEstoy segura de que entre ellos hay bastantes fans\nde Haru Urara. Fans que creen en ella."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y... ¡yo también creo en ella! ¡Espero con ansias\ntu victoria, Haru Urara!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y... ¡yo también creo en ella! ¡Espero con ansias\ntu victoria, Haru Urara!"
+    }
+  ]
+}

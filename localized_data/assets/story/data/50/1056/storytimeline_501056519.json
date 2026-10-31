@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día entro a mi oficina, solo para encontrar..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "H-hoy es mi día de mala suerte...",
+      "choice_data_list": [
+        "¡Gah! ¡Me asustaste!"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "N-no está lloviendo, Entrenador..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Mis técnicas de adivinación con zapatos y con\nflores ambas me dijeron que definitivamente iba a\nllover hoy!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡No puedo creer que esa profecía divina no se\ncumpliera... ¡Esto definitivamente es mala suerte\nen acción!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Argh! A este ritmo, una procesión de luchadores\nde sumo me va a impedir cruzar la calle, o una\nrepentina ráfaga de viento hará que mis ofrendas\nal santuario se hundan en el fondo de un estanque!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hago lo posible por tranquilizar a\nMatikanefukukitaru, pero su imaginación desbocada\ntermina poniéndola nerviosa."
+    }
+  ]
+}

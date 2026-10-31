@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es hora de entrenar, pero Symboli Rudolf no está\npor ningún lado. Curioso, me dirijo a la oficina\ndel consejo estudiantil."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "<i>Zzz...</i> Mm... Oh... Air Groove... Eres tú..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como era de esperar, la encuentro dormitando entre\npilas de documentos."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "No... No necesito que esa silla se mueva... Je...\nSilla mover... Air Groove..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que está durmiendo pacíficamente, así que\ndecido no molestarla."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Por favor, acepta mis más sinceras disculpas por\nno haber cumplido con nuestro horario.",
+      "choice_data_list": [
+        "Solo ten más cuidado la próxima vez."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Por supuesto. Tomaré precauciones para asegurarme\nde que esto no vuelva a suceder."
+    }
+  ]
+}

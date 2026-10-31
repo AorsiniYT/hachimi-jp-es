@@ -1,0 +1,154 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Estoy detectando algo en mi radar! ¡El objetivo\nestá en mi mira! Interceptación en tres, dos,\nuno..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Me viste, Entrenador? ¿Viste cómo corrí? ☆",
+      "choice_data_list": [
+        "¡Gran trabajo ahí afuera!",
+        "¡Gran trabajo ahí afuera!"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Ehehe! ☆ ¡¿Verdad?! ¿Ves? ¡Soy yo a quien debes\nmirar! ♪"
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "¡Señorita Top Gun! ¡Mayano Top Gun!"
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "Soy Otonashi de la revista <i>Twinkle Monthly</i>.¿Puedo\npreguntar cómo te sientes respecto a la carrera?",
+      "color_text_info_list": [
+        "Otonashi",
+        "Twinkle Monthly"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Wow! ¿Quieres entrevistarme?! ¡Sin problema! ☆\n¡Pregúntame lo que quieras!"
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "Gracias. Ahora entonces..."
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "Después de muchas pruebas y tribulaciones,\nelegiste correr el Kikuka Sho. Tu estilo de\ncarrera exhibe tu aptitud para distancias\nlargas..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "...?"
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "Oh, disculpe. Eh, ¿cómo decirlo?"
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "Entre tus esfuerzos este año, parece que el Kikuka\nSho fue tu principal enfoq—"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Um, no necesitas reformularlo. Entiendo lo que\ndices."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Es solo que yo tampoco estoy segura del porqué."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Quería correr en el Kikuka Sho, así que corrí en\nél. Además, Brian corrió antes."
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "¿Brian? ¿Te refieres a Narita Brian?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Sí! ¡Verme correr fue mucho más emocionante que\nver a Brian, verdad? ¿Verdad?"
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "Oh... guau."
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "¡Así que corriste para competir contra Brian!\n¡Increíble!"
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "Entonces permíteme ser directo y\npreguntar—¿también vas a correr en el Arima Kinen\nde este año?",
+      "color_text_info_list": [
+        "Arima Kinen"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿El Arima Kinen? ¿Yo?"
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "Sí. La campeona de la Triple Corona, Narita Brian,\nha anunciado que correrá en el Arima este año.",
+      "color_text_info_list": [
+        "Arima"
+      ]
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "No querrías perder la oportunidad de enfrentarla\ndirectamente, ¿verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Arima Kinen—la carrera final del año. Un\nescenario donde tanto la popularidad de un\ncorredor entre los fans como sus habilidades\nindividuales brillan."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aparte de la campeona de la Triple Corona, Narita\nBrian, otras corredoras destacadas—como la \"Reina\nde las Amazonas\" Hishi Amazon—han indicado que\ntambién tienen intención de participar.",
+      "color_text_info_list": [
+        "Reina de las Amazonas",
+        "Hishi Amazon"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Bueno entonces... ¡Supongo que yo también estaré\nallí!",
+      "choice_data_list": [
+        "(¡Más fácil decirlo que hacerlo!)"
+      ]
+    },
+    {
+      "name": "Otonashi Etsuko",
+      "text": "¡Jeje! Me pregunto quién brillará más\nintensamente—la superestrella, o la estrella en\nascenso. ¡Estoy ansiosa por el Arima de este año!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Jeje. ♪ Supongo que el Arima Kinen es el\nsiguiente! ¡Hagámoslo lo mejor posible,\nEntrenador. ☆",
+      "choice_data_list": [
+        "¿De verdad estás segura del Arima Kinen?",
+        "¿De verdad estás segura del Arima Kinen?"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Sí. Podré correr directamente contra Brian allí,\n¿verdad?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Jeje, he esperado esta oportunidad por tanto\ntiempo! ¡Esta es mi oportunidad de mostrarte..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Que puedo hacer que tu corazón lata mucho más\nrápido de lo que Brian puede! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Habiéndolo dicho en voz alta, la meta que se fijó\nal principio del año parece un paso más cercana\nahora!"
+    }
+  ]
+}

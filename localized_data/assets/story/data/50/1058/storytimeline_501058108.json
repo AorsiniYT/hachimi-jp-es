@@ -1,0 +1,220 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Es el día del Festival de Fans. Meisho Doto se\nsupone que participará en la carrera de relevos de\nbúsqueda del tesoro y la competencia de\nesconderse..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Waaargh!"
+    },
+    {
+      "name": "Comentarista de Evento",
+      "text": "¡Uh-oh, es Meisho Doto! Parece que acaba de\nderramar la taza que pidió prestada para la\ncarrera de búsqueda del tesoro."
+    },
+    {
+      "name": "Compañera de clase",
+      "text": "¡No te preocupes! Era solo una taza barata. ¡Aquí,\nusa esta en su lugar!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Lo siento, l-l-lo siento. Lo siento mucho, mucho,\nmucho por esto..."
+    },
+    {
+      "name": "Comentarista de Evento",
+      "text": "¡Pero ahora está lista para volver al juego! Está\npasando el testigo—"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Noooo!"
+    },
+    {
+      "name": "Comentarista de Evento",
+      "text": "¡Ella <i>no</i> ha pasado la antorcha!"
+    },
+    {
+      "text": "El testigo, desafortunadamente, no sobrevivió la\ncaída de Meisho Doto, colocándola en último\nlugar..."
+    },
+    {
+      "text": "Ella huye llorando. Recorro el campus buscando\nhasta que finalmente la encuentro acurrucada en la\nesquina del campo.",
+      "choice_data_list": [
+        "...¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Por qué... oh, por qué soy tan torpe? Todos me\nestaban animando también..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Si hubiera sostenido la taza y el testigo\nm-mejor... ¡podría haber ganado!"
+    },
+    {
+      "text": "Realmente está destrozada por esto... Pero aún\nqueda la competencia de esconderse después."
+    },
+    {
+      "text": "Estoy a punto de animarla a hacer el último\nempuje, cuando..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡La próxima vez, no... voy a permitirme\narruinarlo!",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡He... sido elogiada por mis habilidades para\nesconderme antes!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Además, solía esconderme siempre en esquinas para\nevitar causar problemas a nadie, ¡así que creo que\nsé un par de cosas sobre escondites!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "...Está bien. Voy a hacer lo mejor que pueda. Sé\nque puedo."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡V-vamos!"
+    },
+    {
+      "text": "Ella encuentra la fuerza en sí misma para ponerse\nde pie—para mí, es una señal segura de su\ncrecimiento. Luego, unas horas después..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Ahora, sé que ustedes Mati-no pueden esperar más!\nSoy Matikanefukukitaru, y seré su anfitriona para\nesta competencia de esconderse!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Tenemos un montón de premios milagrosos\npreparados para los buscadores exitosos!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Ahora, todos, prepárense, listos... y ya!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Hyah?! ¿Qu-qué?! ¡El juego ya ha comenzado!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Pero, pero está bien. Escondiéndome aquí, al\nmenos, ¡no seré la primera en ser encontrada!"
+    },
+    {
+      "text": "Sin embargo..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Llevamos varias horas en esta extravagancia de\nesconderse! El Festival de Fans está a punto de\nterminar, pero..."
+    },
+    {
+      "name": "Fan A de Doto",
+      "text": "¡Dotoooo! ¿Dónde estás?"
+    },
+    {
+      "name": "Fan B de Doto",
+      "text": "¡Hemos revisado todos lados posibles! Supongo que\ntendremos que dar otra vuelta."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Doto aún no ha sido encontrada! Incluso la\nazotea, la última esperanza de todos, estaba libre\nde su presencia! Pero, tenemos un horario que\nseguir, así que..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "No se puede negar—¡Doto es la ganadora de la\ncompetencia de esconderse!"
+    },
+    {
+      "name": "Admiradoras de Doto",
+      "text": "¿¡Qué?!"
+    },
+    {
+      "text": "La competencia concluye con un resultado\ninesperado."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Lo s-siento... Intentaré esconderme en algún lugar\nmás obvio cuando llegue el próximo año..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Pero... en realidad... quizás no juguemos a las\nescondidas el próximo año..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "En cambio, quiero... tener suficiente confianza\npara hablar con mis admiradoras...",
+      "choice_data_list": [
+        "¡...!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Mis fans se esforzaron tanto para encontrarme...\nQuiero corresponderles..."
+    },
+    {
+      "text": "A pesar de los numerosos errores, parece que esta\nexperiencia con sus fans ha inspirado a Doto."
+    },
+    {
+      "name": "Fan A de Doto",
+      "text": "¡Ah, te encontré, Doto!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Ay!"
+    },
+    {
+      "name": "Fan A de Doto",
+      "text": "¡Gua! ¡Eres aún más linda en persona!"
+    },
+    {
+      "name": "Fan B de Doto",
+      "text": "¡Te animo en todas tus carreras! Y de verdad\nquería conocerte hoy!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡¿Eh?! ¡¿Eh, eh, eh?! ¿Por qué hay tanta gente\nahora?!"
+    },
+    {
+      "text": "La multitud sigue atrayendo a más gente, y sin\ndarse cuenta, ¡Meisho Doto está completamente\nrodeada!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Guau!"
+    },
+    {
+      "text": "Entro para sacarla, pero para entonces, ella está\ncompletamente agotada."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "...Ah.",
+      "choice_data_list": [
+        "¿Estás... bien?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Estoy... bien. Solo fue una sorpresa, nada más..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "No sabía que tenía tantos fans... Me tomó por\nsorpresa..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Pero... me hizo feliz...",
+      "choice_data_list": [
+        "¡...!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Siento la fuerza de cada uno de mis seguidores...\nEs... asombroso."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Pero ahora mi corazón y cuerpo están\nagotados...<i>Suspiro...</i>"
+    },
+    {
+      "text": "A pesar de su torpe interacción con sus fans,\nparece que la experiencia fue muy inspiradora para\nella."
+    }
+  ]
+}

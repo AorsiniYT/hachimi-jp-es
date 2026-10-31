@@ -1,0 +1,76 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Eishin Flash",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Gracias por correr conmigo hoy! ¿Qué planeas\ncorrer a continuación?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Estaba pensando en el Arima Kinen..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¿En serio? ¡Yo también pensaba correr esa! ¡Brindo\npor tener otra buena carrera si terminamos en ella\njuntas!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Me divertí mucho corriendo contigo hoy!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Oh, yo también! ¡Espero con ansias la próxima\nvez!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Así que esto es de lo que son capaces las\ncorredoras mayores..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Aprendí mucho hoy. No puedo permitir que las\ncosas salgan igual la próxima vez."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No pude ganar, pero...",
+      "choice_data_list": [
+        "Fue una carrera reñida.",
+        "Fue una carrera reñida."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Lo fue. Puedo sentir mi propia mejora. Estoy\nsegura de que podré lograr mejores resultados la\npróxima vez."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Parece que tanto Spe como Rob Roy planean correr\nen el Arima Kinen.",
+      "choice_data_list": [
+        "Supongo que las verás de nuevo en la pista, ¿eh?",
+        "Supongo que las verás de nuevo en la pista, ¿eh?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Arima Kinen es lo siguiente en el horario de\nEishin Flash. Las tres sin duda chocarán de nuevo\nasí como están ahora."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "En efecto.",
+      "choice_data_list": [
+        "Ya te has enfrentado a las dos mejores corredoras,\nasí que estarás bien."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Es seguro asumir que serán mis mayores adversarias\nen el Arima Kinen."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Así que para ganar, todo lo que debo hacer es\nsuperar a esas dos. Al menos eso simplifica las\ncosas."
+    }
+  ]
+}

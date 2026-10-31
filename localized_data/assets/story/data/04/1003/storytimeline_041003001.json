@@ -1,0 +1,227 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es el día anterior a las pruebas, y estoy dando un\npaseo por la tarde en un parque cercano, cuando de\nrepente..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Eh, eh! ¡Mueve! ¡Mueve!",
+      "choice_data_list": [
+        "¿¡?!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Hop!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Zas!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al ver que no pude reaccionar a tiempo, Tokai Teio\nsalta limpiamente sobre mi cabeza. Momentos\ndespués..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Uf! ...Aquí, tu sombrero."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al parecer, el sombrero de esta niña se había\nquedado atascado en un árbol, y Teio lo ha\nrecuperado para ella."
+    },
+    {
+      "name": "Niña A",
+      "text": "¡Guau! ¡Muchas gracias, señorita! Ese salto fue\nsúper alto. ¡Pareciste tan genial!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Tsk, tsk, ¿no sabes mi nombre? Soy la increíble,\nla invencible Teio. ♪"
+    },
+    {
+      "name": "Niña A",
+      "text": "In...vencible. No sé qué significa, pero suena\ngenial."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Je, je, je. Puedes cubrirme con todo el elogio que\nquieras."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Oh, casi me olvido. Tú, allí. Lo siento por el\nsusto."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "No tengo frenos en estas piernas, así que terminé\nvolando justo sobre ti. Oh, no estás herido o\nalgo, ¿verdad?",
+      "choice_data_list": [
+        "Debería ser yo preguntándote <i>a ti,</i> esa es bastante\naltura la que alcanzaste. ¿Tus piernas están bien\ndespués del aterrizaje?",
+        "Debería ser yo preguntándote <i>a ti,</i> esa es bastante\naltura la que alcanzaste. ¿Tus piernas están bien\ndespués del aterrizaje?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ja. Se necesitaría más que eso para lastimarme.\nMira, ni un rasguño."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esa no fue una caída corta, pero realmente parece\nestar bien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es dura, y ágil también, si ese salto es algo por\nlo que guiarse, una físico de atleta natural."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Te asusté? Totalmente te asusté, ¿verdad? Je. ♪"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Oh, disparo. Casi me olvido de que estaba en medio\nde una carrera. ¡Hasta luego!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y con eso, Tokai Teio se aleja corriendo, sus\npasos ligeros como una brisa, otro testimonio de\nsu talento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras la observo desde la línea de banda en las\npruebas del día siguiente, todavía está en mi\nmente."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Eso es, Teio! ¡Sigue así!"
+    },
+    {
+      "name": "Locutor",
+      "text": "Y viene de atrás Tokai Teio, apuntando al liderato\ncon un resorte en su paso."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Je, je. El primer lugar es mío."
+    },
+    {
+      "name": "Locutor",
+      "text": "Tokai Teio se aleja cada vez más. No se está\ndesacelerando, ¡está dejando a todos los demás en\nel polvo."
+    },
+    {
+      "name": "Locutor",
+      "text": "Y cruza la línea con cuatro longitudes sobre el\nsegundo lugar. El triunfo de las pruebas de hoy es\npara Tokai Teio. ¡Qué demostración abrumadora de\nfuerza!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Uf. ¡Hola! ¿Qué pensaron de mi carrera?"
+    },
+    {
+      "name": "Fan A",
+      "text": "Eres la mejor, Teio."
+    },
+    {
+      "name": "Fan B",
+      "text": "Eres tan genial."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Je, gracias. Pero, solo otro día para mí.",
+      "choice_data_list": [
+        "Actuación increíble allí."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Eh? Tú... Ah. ¡Tú eras la persona del parque de\nayer! Espera, pero ¿qué estás haciendo aquí?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Oh, lo entiendo. ¡Eres un entrenador! Incluso\ntienes la insignia y todo."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Así que si estás hablando conmigo... ¿significa\nque estás aquí para reclutarme?",
+      "choice_data_list": [
+        "Me encantaría ser tu entrenador.",
+        "Me encantaría ser tu entrenador."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ehehe. Ohhh, no sé... Mira, he sido abordada por\nun <i>montón</i> de entrenadores, incluso antes de las\npruebas."
+    },
+    {
+      "name": "New Trainer A",
+      "text": "Ah. ¡Allí estás, Tokai Teio! Tu actuación fue\nsimplemente increíble. <i>¡Tienes que </i>dejarme\nreclutarte."
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "Teio, trabajemos juntos. Conmigo, no solo serás un\ncampeón G1, ¡serás un campeón de la Triple Corona."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Eh, eh? Y ahora hay más. Nnngh, tantos\nentrenadores quieren reclutarme, es imposible\nelegir."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Pero, bueno, como seré yo quien haga la carrera\nreal, tal vez no importe quién sea mi entrenador."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Bien, quien me gane en piedra, papel o tijera\npuede reclutarme."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Vamos, Teio—el vínculo entre entrenador y\ncorredora no debe tomarse tan a la ligera."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ahh, es la Prez. La Prez ha llegado."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Viniste a ver mis pruebas. ¿Y? ¿Y? ¿Qué te\npareció. ¡Llegué primera de nuevo."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Sí, sí, lo vi con mis propios ojos. Corriste una\ncarrera excelente, como siempre."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Woohoo. Jeje. Un cumplido de la Prez. ♪ Hey hey,\n¿todos escucharon eso."
+    },
+    {
+      "name": "New Trainer A",
+      "text": "¿Eh? S-sí, pero no importa eso ahora—estoy aquí\npara hablar sobre el ojeo."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿\"No importa\"? ¿Qué quieres decir con \"no\nimporta\". ¿Tienes <i>alguna</i> idea de lo grande que es\nla Prez."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ella no es solo la presidenta del consejo\nestudiantil, es la corredora más rápida y fuerte y\n<i>más genial</i> de todas, <i>y</i> también es mi mayor\nmodelo a seguir!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Un día, voy a ser igual que ella, entonces ella me\nestará dando cumplidos todo el día."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Así que, si estás en serio sobre el ojeo, entonces\nprimero debes aprender todo sobre lo grande que es\nella."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Empezando con, veamos... ¿Has visto su carrera de\ndebut. No hay forma de que no la hayas visto,\n¿verdad. Oh, Dios mío, la forma en que dobló esa\nprimera curva."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Teio procede a contarles a los entrenadores\nesperanzados historias de las hazañas de su amada\npresidenta del consejo estudiantil."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Innecesario decir, no hubo tiempo para hablar\nsobre el ojeo."
+    }
+  ]
+}

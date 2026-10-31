@@ -1,0 +1,352 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Rice Shower ha decidido correr en el Takarazuka\nKinen, pero..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Transeúnte A",
+      "text": "¡Oh, es Rice Shower! ¡Sigue así!"
+    },
+    {
+      "name": "Transeúnte B",
+      "text": "¡Te voté en la encuesta de fans! ¡Estoy segura de\nque ganarás!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿¡En serio?! ¡G-gracias!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Uf... Creo que es hora de un descanso."
+    },
+    {
+      "name": "Señora del distrito comercial",
+      "text": "¡Oh, no eres... Rice Shower?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "S-sí! Soy yo..."
+    },
+    {
+      "name": "Señora del distrito comercial",
+      "text": "¡Wow! ¡Mis hijos son grandes fans! ¡Por favor, ven\ny come una mis croquetas!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿¡E-en serio?! ¿Puedo realmente tener una?!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hehehe... No puedo creer que tantas cosas buenas\nme estén pasando... ¿De verdad está bien?",
+      "choice_data_list": [
+        "Considerando lo mucho que te esfuerzas, te lo\nmereces."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "C-creo..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Ahí están! ¡Los he estado buscando!",
+      "choice_data_list": [
+        "¿Pasa algo?"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "En realidad, acabo de recibir noticias del Hanshin\nRacecourse..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Rice, parece que tienes el primer puesto asegurado\nen el concurso de popularidad de fans. ¡Y quieren\nque participes en la ceremonia de apertura!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿¡Qué?!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Hablando de eso, el ensayo es mañana, así que—",
+      "choice_data_list": [
+        "¡E-espera un segundo!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Soy... la número uno en popularidad? <i>¿Yo?</i> ¿Y\nquieren que esté en la ceremonia de apertura?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "B-Big Brother... Pínchame la mejilla, por favor."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "B-Big Sister... Pínchame la mejilla, por favor."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Esto tiene que ser un sueño...",
+      "choice_data_list": [
+        "No, es real.",
+        "No, es real."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ahaha... Perdón. Yo también me puse un poco\nemocionada."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Todos los detalles están escritos en este papel.\nPor favor, échale un vistazo cuando tengas un\nmomento."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Con permiso."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Wow... Toda esta gente... ¿votó por mí?",
+      "choice_data_list": [
+        "¿Quieres ir a la ceremonia?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...¡Sí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, Rice Shower y yo nos dirigimos\nal Hanshin Racecourse."
+    },
+    {
+      "name": "Personal A",
+      "text": "¡Señorita Rice Shower! Aquí es donde estará parada\ncuando presentemos las flores."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "E-está bien... ¡Quiero decir, sí!"
+    },
+    {
+      "name": "Personal B",
+      "text": "Ah, cuando termines por allí, ¿podríamos robarle\nun momento de su tiempo?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ehhh... ¡Está bien! ¡Entendido!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Uf.",
+      "choice_data_list": [
+        "¿Quieres tomar un descanso?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ehehe, está bien. Es solo..."
+    },
+    {
+      "name": "Personal C",
+      "text": "Disculpe, Señorita Rice Shower! Nos gustaría hacer\nuna prueba de sonido más, si no es molestia."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡C-claro! ¡Y-yo estaré allí!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Quiero dar lo mejor de mí hasta el final, si\neso es lo que se necesita para hacer sonreír a\ntodos."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Así que por favor, ¡sigan animándome!"
+    },
+    {
+      "name": "Personal A",
+      "text": "Muy bien, ¡buen trabajo a todos! Eso es todo por\nhoy ensayo!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Uf... Finalmente terminado...",
+      "choice_data_list": [
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "S-sí... Estoy totalmente bien. Quiero decir, hubo\nmuchas primeras veces hoy..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pero cuando pienso en esta ceremonia y en toda la\ngente que estará aquí... Me doy cuenta de que aún\nhay cosas que puedo hacer."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Así que no me siento cansada en absoluto. Todo lo\nque quiero hacer es... trabajar más duro."
+    },
+    {
+      "name": "Personal B",
+      "text": "Disculpe, Señorita Rice? Creo que puede haber\nolvidado algo en la parte de atrás."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿¡Huh?! L-lo siento! ¡Iré a buscarlo!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Eek!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Crac... crac, crac, crac... ¡criiiic!</i>"
+    },
+    {
+      "name": "Personal C",
+      "text": "¡W-whoa! ¡La puerta se va a caer! ¡Cuidado,\nSeñorita Ri—",
+      "choice_data_list": [
+        "¡Arroz!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Bam!</i>"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡H-Hermano mayor?!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡H-Hermana mayor?!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Hip... hip...</i> H-Hermano mayor...",
+      "choice_data_list": [
+        "¿Dónde estoy?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Hip... hip...</i> H-Hermana mayor...",
+      "choice_data_list": [
+        "¿Dónde estoy?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡B-Big Brother! ¡Big Brother! ¿Estás bien? ¿Tienes\ndolor?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡B-Big Sister! ¡Big Sister! ¿Estás bien? ¿Tienes\ndolor?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que logré proteger a Rice Shower, pero me\ngolpearon la cabeza mientras lo hacía.",
+      "choice_data_list": [
+        "Creo que estoy bien."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "N-no, ¡no lo estás! Tenemos que llevarte al\nhospital!"
+    },
+    {
+      "name": "Personal A",
+      "text": "¡Gracias a Dios estás despierto! La ambulancia\ndebería estar aquí en cualquier momento!",
+      "choice_data_list": [
+        "Gracias."
+      ]
+    },
+    {
+      "name": "Personal A",
+      "text": "¡Para nada! De hecho, les debemos una disculpa. No\npuedo creer que la puerta se cayera así..."
+    },
+    {
+      "name": "Personal A",
+      "text": "Nuevamente, tienen nuestras más sinceras\ndisculpas. Yo los acompañaré al hospital."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de mi examen en el hospital..."
+    },
+    {
+      "name": "Personal A",
+      "text": "...Entiendo. Me alegra mucho saber que tienes un\nbuen estado de salud.",
+      "choice_data_list": [
+        "Perdón por todas las molestias."
+      ]
+    },
+    {
+      "name": "Personal A",
+      "text": "Nosotros somos los que deberíamos disculparnos."
+    },
+    {
+      "name": "Personal A",
+      "text": "Y... también necesito disculparme contigo,\nSeñorita Rice Shower."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿P-por qué? Todos se han disculpado lo suficiente."
+    },
+    {
+      "name": "Personal A",
+      "text": "Acabamos de recibir la noticia de que el Hanshin\nRacecourse ya no podrá realizar la ceremonia—ni el\nTakarazuka Kinen tampoco, para el caso."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...!",
+      "choice_data_list": [
+        "¿Qué quieres decir?"
+      ]
+    },
+    {
+      "name": "Personal A",
+      "text": "Verás... aún no podemos determinar la causa del\naccidente en el paddock."
+    },
+    {
+      "name": "Personal A",
+      "text": "Además, resultaste herida. Debemos realizar una\ninspección completa del hipódromo."
+    },
+    {
+      "name": "Personal A",
+      "text": "Lo cual, junto con las reparaciones, se estima que\ntomará al menos tres semanas."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pero el Takarazuka Kinen..."
+    },
+    {
+      "name": "Personal A",
+      "text": "Hemos hecho todo lo posible por evitar cancelarlo,\npero... algo así nunca había sucedido antes."
+    },
+    {
+      "name": "Personal A",
+      "text": "Sé lo emocionadas que estaban las dos por esto.\nTienen mis más sinceras disculpas."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Así que tan pronto como llegué, algo que nunca\nhabía sucedido de repente sucedió?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Es... mi culpa?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su voz es tan suave, pero cada palabra se siente\ntan pesada..."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Meisho Doto",
+      "text": "¿¡Q-qué!?"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Has atrapado tantos! Al final había esperanza\npara nosotros!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Estoy asombrada! Sabes, ver estos peluches\nrealmente me hace pensar..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡En la próxima carrera, y-yo... podría lograrlo!",
+      "choice_data_list": [
+        "Estoy segura de que estarás bien.",
+        "Estoy segura de que estarás bien."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡G-gracias!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Le daré todo! ¡N-nadie me eclipsará!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡No podría haber salido mejor!"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, llego a la pista de entrenamiento y la\nencuentro mucho más llena de lo habitual."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Charla...</i>"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Pues... hoy sí que hay un montón de visitantes.",
+      "choice_data_list": [
+        "¿Estás nerviosa?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No, no pasa nada. De todos modos, ya estoy\nacostumbrada a este tipo de bullicio de mis\ncarreras."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Dicho esto, <i>es</i> mucho más fácil para mí\nconcentrarme cuando está tranquilo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Continuamos con nuestro entrenamiento, pero no\npuedo evitar notar que la carrera de Grass Wonder\nparece un poco deslucida ese día."
+    }
+  ]
+}

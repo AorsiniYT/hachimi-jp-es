@@ -1,0 +1,84 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "La carrera de <chrname> se acerca. Estoy segura de que\nhemos corrido lo suficiente en preparación, pero\nno puedo sacudirme del todo mis ansiedades..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras me preocupo por si nuestro entrenamiento\nha sido suficiente para ganar, cierta corredora\npasa por aquí..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Esa es una mirada bastante severa en tu rostro.\n¿Sucede algo?",
+      "choice_data_list": [
+        "Solo me siento nerviosa, eso es todo..."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Jaja. Puedo relacionarme profundamente con ese\nestado mental."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Sin embargo, sería mejor no mostrar tu inquietud\ntan libremente, no sea que también pongas ansiosa\na tu pupila."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Si me preguntas, ustedes dos deberían tener\nconfianza en ustedes mismas. La cantidad y calidad\nde sus carreras no tienen igual."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Buenos resultados seguramente seguirán, así que\nmantén la calma en tu corazón y descansa\ntranquila. Por supuesto, supongo que esto es mucho\nmás fácil decirlo que hacerlo."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Debe haber más que pueda hacer para\ntranquilizarlas... Ah, tengo justo la idea.\nDíganme cómo se están preparando para su carrera.",
+      "choice_data_list": [
+        "Nos estamos enfocando en entrenamiento de\nvelocidad moderada.",
+        "Nos estamos entrenando duro para prepararnos para\nel peor escenario."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Enfocarse en la velocidad mientras se preserva la\nenergía... Ya veo. Sí, esperaba tanto. Ese es un\nenfoque ortodoxo y lógico."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "El camino que han elegido está muy transitado, lo\ncual, supongo, es precisamente por qué se sienten\ntan inquietas."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Pero no se preocupen. Mantenerse en ese camino sin\nduda llevará a la gloria."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Creo que ustedes dos tienen la fuerza para seguir\nel camino que han elegido. No hay necesidad de\ndudar de ustedes mismas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las palabras de Symboli Rudolf calman un poco mis\nansiedades, y siento que la confianza brota dentro\nde mí una vez más."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Hm, ya veo. Así que estás calmando esos miedos\ntuyos entrenando intensamente y preparándote para\ncualquier y todas las posibilidades."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Aunque puede no ser el enfoque más ortodoxo, puedo\nver cómo podría ser el mejor para su situación\nactual."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Una vez que te dejes llevar por la emoción de la\ncarrera, todos tus miedos, dudas y aprensiones\nquedarán atrás en el polvo como suspiros\nolvidados."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Sí, creo que han tomado la decisión correcta.\nVayan adelante y guíen a su corredora con\nconfianza."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las palabras de Symboli Rudolf calman un poco mis\nansiedades, y siento que la confianza brota dentro\nde mí una vez más."
+    }
+  ]
+}

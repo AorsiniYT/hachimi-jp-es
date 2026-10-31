@@ -1,0 +1,227 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El Condor Pasa y yo estamos de vuelta después de\nun paseo cuando su teléfono suena."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Esto es malo, Entrenador! Esto acaba de aparecer\nen un sitio de lucha..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ellie Condra se retira!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿¡Por qué haría esto!? ¡Aún no ha demostrado que\nes la más fuerte del mundo!",
+      "choice_data_list": [
+        "¿Es oficial?",
+        "¿Es oficial?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Aún no estoy segura, pero... es un sitio de fans\nbastante confiable."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Tengo que verificarlo con ella misma! La agencia\ncon la que trabaja está cerca, ¡así que vamos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dado que no se ha declarado oficialmente, es\nimprobable que obtengamos una respuesta incluso si\npreguntamos directamente. Sin embargo..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Tengo que saber!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ella es mi rival!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Incluso si soy la única que lo piensa... su\ndesempeño en el ring es lo que me hizo sentir así!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Así que simplemente <i>tengo</i> que preguntar!",
+      "choice_data_list": [
+        "Vamos entonces."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "...¡Bien! ¡Gracias, Entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ellie Condra no está en su agencia. Aparentemente,\nestá entrenando para su próximo combate."
+    },
+    {
+      "name": "Personal de la Agencia",
+      "text": "Ella se fue a correr por la orilla del río hace un\nrato. En cuanto a dónde está ahora... Bueno..."
+    },
+    {
+      "name": "Personal de la Agencia",
+      "text": "No creo que tenga planes de volver hoy. También\ncomienza el campo de entrenamiento mañana."
+    },
+    {
+      "name": "Personal de la Agencia",
+      "text": "En cuanto a información sobre su retiro, eso\ndebería aclararse en su próximo combate. Eso es\ntodo lo que puedo decir, lo siento."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Su próximo combate... es un combate de despedida?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Aunque sea mi rival, también soy una de sus fans."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Incluso si no tengo realmente una opción, no hace\nmás fácil esperar hasta su próximo combate..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El personal de la agencia dice que Ellie Condra\nacaba de irse. Dada esa información...",
+      "choice_data_list": [
+        "¡Veamos si podemos encontrarla!",
+        "¡Veamos si podemos alcanzarla!"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Esa es una gran idea!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Puede que aún esté cerca, o por el río!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Vámonos, Entrenador! ¡Vamos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Buscamos hasta que oscurece, pero\ndesafortunadamente, no la encontramos."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Gracias por venir conmigo, Entrenador."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Aunque no la encontramos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella parece un poco decaída. Pienso en cómo\nconsolarla, pero luego veo la mirada en sus ojos."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Incluso si ella renuncia a su sueño, yo no\nrenunciaré al mío."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "No solo ella. Incluso si cada uno de mis rivales\ntira la toalla..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Seguiré elevándome pase lo que pase!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Tomaré la pasión y el coraje que todos mis\nrivales me han dado... y lo convertiré en poder!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella es apasionada y llena de espíritu de lucha.",
+      "choice_data_list": [
+        "Es posible que algo haya pasado.",
+        "Es posible que algo haya pasado."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Es verdad. Algo terrible podría haberla forzado a\nrenunciar..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Lo averiguaremos en el próximo combate!\n¡Esperemos hasta entonces!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Es muy tarde, ¿eh? ¡Vamos a casa, Entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su sonrisa parece un poco forzada, pero sigue\nsiendo la misma El Condor Pasa, con la vista en el\nfuturo."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Así es! ¡Dijeron que acaba de irse! ¡Quizás\npodamos alcanzarla!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Vamos a la orilla del río!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Llegamos a la orilla del río, pero Ellie Condra no\nestá por ningún lado."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Quizás esté un poco más adelante! ¡Revisaré por\nallá!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Buscamos un poco más en la zona, pero no la\nencontramos. Se está poniendo oscuro..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Hmm... ¡Probemos en otro lugar!",
+      "choice_data_list": [
+        "Deberíamos regresar."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Pero no podemos rendirnos!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ellie Condra dijo que se iba a demostrar a sí\nmisma! ¡Igual que yo!",
+      "choice_data_list": [
+        "¿De verdad crees que se está rindiendo?",
+        "¿De verdad crees que se está rindiendo?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Hmmm..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La convicción con la que Ellie Condra habló cuando\nla vimos en la estación ciertamente no era\nmentira."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Así es. Dijo que iba a ser campeona mundial."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Tengo mucha curiosidad sobre sus razones, pero\ncreo en lo que dijo ese día!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Simplemente haré lo que necesito para demostrar\nque <i>soy</i>el más fuerte del mundo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque no diría que ha superado la noticia, El\nCondor Pasa se marcha con la vista en el futuro."
+    }
+  ]
+}

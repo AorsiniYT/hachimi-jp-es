@@ -1,0 +1,132 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Espectadores",
+      "text": "¡Sigue así, Nice Nature! ¡Estuviste increíble allá\nafuera!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "Estaba decepcionado de que Teio no estuviera en la\ncarrera, pero... ¡corres tan bien!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los gritos que resuenan desde las gradas lo dicen\ntodo... Nice Nature hizo esta carrera suya."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Entrenador! Corrí la carrera a mi manera,\n¿verdad?",
+      "choice_data_list": [
+        "¡Sí!",
+        "¡Sí!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Me alegra... Jeje."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Bueno, si así es como termina el Kikuka Sho para\nmí, ¡no me quejo! ¡Me daré unas palmaditas en la\nespalda!",
+      "choice_data_list": [
+        "¡Ahora te presento... el premio \"Buen Trabajo\"!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Oh, ¡otro trofeo hecho a mano!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le di a Nice Nature un trofeo de origami en el\nKokura Kinen para aumentar su confianza. Ella ha\nllegado a esperarlo, así que lo hice de nuevo."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...No puedo creer que hayas hecho otro. Jeje, este\ntambién está flácido."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Genial. Hagamos la ceremonia de premiación\ndespués."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Puedes felicitarme por mi éxito entonces. ♪"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Bromeando. No puedo ser demasiado engreído\naquí. No habría sido así si Teio estuviera aquí."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Me pregunto si ella está bien... y qué tan grave\nes la lesión..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Incluso Teio debe sentirse mal después de no poder\nparticipar.",
+      "choice_data_list": [
+        "Estoy segura de que estará bien."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Tienes razón. Debe serlo."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Es Teio de la que estamos hablando, después de\ntodo. Ella solo dirá algo como \"¡Soy invencible!\"\ny regresará en un santiamén."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Tengo que ser más fuerte para entonces.",
+      "choice_data_list": [
+        "Todavía nos queda una gran carrera."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Eh? ¿Gran carrera? Pero ya casi es invierno. ¿Qué\ngrandes carreras se realizan entonces?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "<i>¡Haa!</i> No querrás decir...",
+      "choice_data_list": [
+        "¿Por qué no apuntamos al Arima Kinen?",
+        "¿Por qué no apuntamos al Arima Kinen?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nice Nature tuvo una buena actuación en el Kikuka\nSho y tiene una base de fans fuerte. ¡Seguramente\npuede enfrentar el Arima Kinen ahora!",
+      "color_text_info_list": [
+        "Arima Kinen"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Además, el Arima Kinen reunirá a algunos de los\ncorredores más notables de este año. Correr con\nellos la ayudará a crecer aún más."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "El Arima Kinen, ¿eh?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Esa sería la carrera perfecta para devolverle el\nfavor a la gente que siempre me apoya."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Podría ser imposible para mí ganar. Incluso si\nentro, todo podría desvanecirse una vez que se\nabran las puertas. Aún así..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Quiero competir en el Arima Kinen!",
+      "choice_data_list": [
+        "¡Hagámoslo!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, decidimos que la última carrera de su año\nclásico será el Arima Kinen!"
+    }
+  ]
+}

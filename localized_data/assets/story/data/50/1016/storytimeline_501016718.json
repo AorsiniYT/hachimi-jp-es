@@ -1,0 +1,26 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "El descanso está por terminar, y me dirijo de\nvuelta a la oficina temprano para preparar el\nentrenamiento, cuando..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Estás aquí temprano.",
+      "choice_data_list": [
+        "Eso nos hace dos."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¡Hmph! Es porque pude descansar bien."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Dame un entrenamiento con mordida. Algo lo\nsuficientemente fuerte para enfriar mi sangre\nhirviendo."
+    },
+    {
+      "text": "Descansada adecuadamente, Narita Brian está llena\nde energía y vigor."
+    }
+  ]
+}

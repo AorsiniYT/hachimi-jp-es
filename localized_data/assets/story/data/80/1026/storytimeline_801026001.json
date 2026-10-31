@@ -1,0 +1,72 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una noche, cuando voy a revisar las condiciones de\nla pista..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "<i>¡Uf!... ¡Uf!...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Escucho un golpeteo metálico viniendo de algún\nlugar... Miro en la dirección del sonido y veo a\nMihono Bourbon corriendo."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Prueba concluida. Todas las condiciones dentro de\nparámetros aceptables. Aumento de carga confirmado\ncomo seguro. Peso óptimo calculado en..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras ella está allí después de su carrera,\necho un vistazo a sus pies y veo lo que parecen\nser pesas extremadamente pesadas atadas a sus\ntobillos.",
+      "choice_data_list": [
+        "¿Qué son esas?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Estas son pesas de tobillo hechas a medida para\naumentar la resistencia durante el entrenamiento.",
+      "choice_data_list": [
+        "Se ven súper pesadas...",
+        "Son algo ruidosas para tan tarde en la noche...",
+        "Se ven súper pesadas...",
+        "Son algo ruidosas para tan tarde en la noche..."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Estas son pesas de tobillo hechas a medida para\naumentar la resistencia durante el entrenamiento.",
+      "choice_data_list": [
+        "Se ven súper pesadas...",
+        "Se ven súper pesadas...",
+        "Son algo ruidosas para tan tarde en la noche...",
+        "Son algo ruidosas para tan tarde en la noche..."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Las pesas no plantean ningún problema. Basado en\nmis evaluaciones previas, duplicar esta carga aún\ncaerá dentro de un rango aceptable."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Continuaré calculando el límite de masa más óptimo\npara mí. Adiós."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Observo a Mihono Bourbon mientras se aleja\ncorriendo con facilidad, a pesar de haber añadido\nmás pesas a sus tobillos."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Preocupación reconocida. Las perturbaciones\nauditivas de las sesiones de práctica nocturnas\npodrían impactar negativamente el área\ncircundante."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Mis sinceras disculpas. No era consciente de los\nproblemas de ruido. Gracias por traer esta\ninformación a mi atención."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "En el futuro, tomaré medidas apropiadas, como\najustar mis horas de práctica, para asegurarme de\nno molestar a otros durante el entrenamiento."
+    }
+  ]
+}

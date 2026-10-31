@@ -1,0 +1,110 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Haa... Resuello...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet se acerca a las gradas completamente\nsin aliento.",
+      "choice_data_list": [
+        "¡Gran trabajo allí!",
+        "¡Gran trabajo allí!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hum... ¿Por qué te alteras tanto? Esto no es nada\npara mí."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Soy la futura número uno, después de todo! ¿Qué\nharía si tropiezo durante mi primera carrera?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Vamos a prepararnos para la siguiente. No tenemos\ntiempo para perder."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet mira la pantalla digital de la\npista."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los participantes de la siguiente carrera de debut\ndel día ya están listados."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esos son nombres que Daiwa Scarlet verá en\ncarreras futuras... y solo un pequeño puñado de\nlas corredoras que tendrá que superar en su camino\na la cima."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lo que significa, nuestro siguiente paso es\nobvio..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Entrenador! ¡Voy a inscribirme en el tour de la\nTiara!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ahora llega el momento de decidir su tour... una\nelección crucial que determina el futuro de una\nUmamusume."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Triple Crown tour con Satsuki Sho, Japanese\nDerby y Kikuka Sho... o el Tiara tour con\nOka Sho, Japanese Oaks y Shuka Sho. Las\nUmamusume solo tienen un intento en cada una.",
+      "color_text_info_list": [
+        "Japanese Derby",
+        "Kikuka Sho",
+        "Oka Sho",
+        "Japanese Oaks",
+        "Shuka Sho"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Elegir qué camino tomar equivale a elegir el\npropio destino."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Las Umamusume más radiantes hasta la fecha han\nvenido todas del tour de la Tiara."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿No suena como lo mío? ¡Tanto en distancia como en\nelegancia!",
+      "choice_data_list": [
+        "Suena perfecto.",
+        "Suena perfecto."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Jeje, ¡entonces está decidido! ¡Mi próxima carrera\nserá la Tulip Sho!",
+      "color_text_info_list": [
+        "Tulip Sho"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La Carrera Tulipán es una carrera reconocida\nconocida como la puerta de entrada al éxito en el\nOka Sho. Ganarla garantizará vientos favorables\npor delante."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Voy a ganar. No importa contra quién sea."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Si voy a ser la número uno, no tengo tiempo que\nperder."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Verdad, Entrenador?",
+      "choice_data_list": [
+        "¡La Carrera Tulipán ya es nuestra!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Sí! ¡El primer lugar es mío por derecho! ¡No\ndejaré que nadie más lo tenga!"
+    }
+  ]
+}

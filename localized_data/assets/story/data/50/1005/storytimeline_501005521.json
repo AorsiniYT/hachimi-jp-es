@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fuji Kiseki",
+      "text": "<i>Bostezo...</i>",
+      "choice_data_list": [
+        "Alguien está soñoliento.",
+        "Alguien está soñoliento."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Oh, anoche estaba viendo una de las obras de mi\nmadre en un sitio de transmisión en línea."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ni siquiera recuerdo cuántas veces la vi, pero\npara cuando me di cuenta, ya era de mañana.",
+      "choice_data_list": [
+        "Debes amar realmente las obras de tu madre.",
+        "Debes amar realmente las obras de tu madre."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Sí. Ver una obra a través de la pantalla no es\nnada comparable a experimentar la acústica y la\nintensidad en persona, pero todavía... <i>Bostezo.</i>"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Lo siento. Tendré que tener cuidado de no hacer\nmás noches en vela. Intentaré despertarme a tiempo\npara el entrenamiento."
+    }
+  ]
+}

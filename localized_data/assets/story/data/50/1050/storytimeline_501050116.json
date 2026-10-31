@@ -1,0 +1,395 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Narita Taishin tampoco está aquí hoy."
+    },
+    {
+      "text": "He oído que no la han visto por la academia desde\nhace algún tiempo."
+    },
+    {
+      "text": "Aunque estoy preocupado por ella, ella sigue\nsiendo la única que puede decidir si continuará\ncorriendo o no."
+    },
+    {
+      "text": "Así que...",
+      "choice_data_list": [
+        "(Voy a esperarte aquí.)",
+        "(Voy a esperarte aquí.)"
+      ]
+    },
+    {
+      "text": "Siempre he creído en ella y siempre lo haré."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(¿Qué debería hacer ahora?)"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Oh... Taishiiiin! ¡Tienes una visita!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡TAISHIN!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ticket... ¿Qué te pasa—"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Ven conmigo! ¡Ahora!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué demonios? ¿Quieres que vea un juego de\nbaloncesto?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Claro que sí!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Hay una jugadora que he estado siguiendo\núltimamente, y ¡está en el quinteto inicial en el\njuego de hoy! ¡Ha pasado mucho tiempo desde que\nempezó!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Quiero decir, sé que te gustan los deportes, pero\n¿tenías que arrastrarme a esto?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Me siento muy energizado cuando veo deportes.\nComo, \"¡Yaaah!\" Motivado, ¿me entiendes?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Así que, bueno... Supuse que si tú también\nveías..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Podrías sentirte como yo y ponerte todo... YAAAH!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Sí, sí. Okay, te entiendo."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Veré el juego, así que deja de gritar ya."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Yay, Taishin! ¡Jeje! ¡Encenderé la TV!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Hm?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(Estoy segura de haber visto a esa jugadora con el\npelo rojo antes.)"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Cuenta esa canasta! Con su undécimo tiro de tres,\nanota la canasta sobre la bocina y le asegura la\nvictoria a su equipo!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Whoooaaa! ¡Eso fue tan, tan, <i>tan</i> increíble!\n¡Woooow!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Viste eso, Taishin?! ¡La chica con el pelo rojo\nfue increíble, ¿verdad?!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Parecía no estar yendo bien el año pasado, pero\nluego de repente se puso súper buena esta\nprimavera!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(¿Esta primavera?)"
+    },
+    {
+      "name": "Chica de pelo rojo",
+      "text": "¡Vamos! ¡Nadie te apoya! ¡Nadie cree que puedas\nganar!"
+    },
+    {
+      "name": "Chica de pelo rojo",
+      "text": "¿Eso no te hace querer rendirte? La mayoría de la\ngente lo haría..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Oh! Es la entrevista posterior al juego—¡van a\nhablar con ella!"
+    },
+    {
+      "name": "Reportera",
+      "text": "¡Fuiste increíble en la cancha!"
+    },
+    {
+      "name": "Chica de pelo rojo",
+      "text": "¡Gracias! Me alegra que mi entrenamiento haya\nvalido la pena."
+    },
+    {
+      "name": "Reportera",
+      "text": "Escuchamos que habías estado luchando durante\nalgún tiempo—¿algo te hizo cambiar?"
+    },
+    {
+      "name": "Chica de pelo rojo",
+      "text": "Bueno, soy una jugadora de baloncesto, pero no fui\nbendecida con altura, como puedes ver."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...!"
+    },
+    {
+      "name": "Chica de pelo rojo",
+      "text": "Me estaban dejando atrás debido a mi estatura, y\nestaba en un lugar bastante malo esta primavera."
+    },
+    {
+      "name": "Chica de pelo rojo",
+      "text": "Quería rendirme todo ya que pensé que nadie\nesperaba nada de mí, pero..."
+    },
+    {
+      "name": "Chica de pelo rojo",
+      "text": "Alguien me dio el valor para no rendirme. Su forma\nde pensar es un poco extraña, pero no es una que\nse rinde. Es más fuerte que cualquiera que\nconozco."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(Es ella...)"
+    },
+    {
+      "name": "Chica de pelo rojo",
+      "text": "No jugamos el mismo deporte, pero ella es la\natleta que más admiro."
+    },
+    {
+      "name": "Chica de pelo rojo",
+      "text": "Es por eso que decidí mostrarle al mundo quién soy\nde verdad—¡no importa cuán débil o patética me\npuedan ver!"
+    },
+    {
+      "name": "Chica de pelo rojo",
+      "text": "¡Quiero estar orgullosa de mostrarle a todos el\nverdadero yo!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Waaah! ¡Eso es tan conmovedor!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué es eso? ¿Algún golpe pasivo-agresivo hacia\nmí? \"¡Oh, mírala! ¡Es tan pequeña, pero lo\nintenta! ¡Qué inspiración!\" Ugh."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Estás equivocado!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Te niegas a perder incluso cuando las\nprobabilidades están en tu contra, y nunca te\nrindas no importa cuán difícil sea!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Tu determinación es lo que te hace tan genial!\n¡Realmente me inspiras y animas!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Al menos, eso es lo que siempre he pensado sobre\nti, Taishin!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡No eres mi rival porque eres pequeña!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Eres mi rival porque eres <i>tú!</i>"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "..."
+    },
+    {
+      "text": "Ni siquiera puedo contar la cantidad de veces que\nhe vacilado entre irme o esperar un poco más por\nNarita Taishin."
+    },
+    {
+      "text": "Pero justo cuando el sol comienza a ponerse...\nella aparece."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Has estado aquí todo este tiempo?",
+      "choice_data_list": [
+        "...Sí.",
+        "...Sí."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Quieres decir, como, todos los días?",
+      "choice_data_list": [
+        "Sí.",
+        "Sí."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Por qué tienes tanta fe en mí?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Has sido así desde que me reclutaste, aunque no\ntengo el más mínimo bit de fe en mí misma."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ya no sé qué hacer. Yo...",
+      "choice_data_list": [
+        "¿Quieres rendirte?",
+        "¿Quieres rendirte?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué?",
+      "choice_data_list": [
+        "Elegir no correr también es una elección noble.",
+        "Elegir no correr también es una elección noble."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡No! ¡No quiero rendirme! ¡Como si hiciera eso\nahora mismo!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Pero no sé qué hacer! ¡No estoy orgullosa de\nquién soy! ¡Solo veo a alguien patéticamente\nrepugnante!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Cómo se supone que voy a creer que estoy bien tal\ncomo soy—que puedo continuar corriendo así? ¡No\nhay manera!",
+      "choice_data_list": [
+        "¡Si no puedes creer en ti misma, entonces\nsimplemente duplicaré mi fe en ti!",
+        "¡Si no puedes creer en ti misma, entonces\nsimplemente duplicaré mi fe en ti!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué?",
+      "choice_data_list": [
+        "¡Descarga todas tus inseguridades en <i>mí!</i>",
+        "¡Descarga todas tus inseguridades en <i>mí!</i>"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿T-todas?",
+      "choice_data_list": [
+        "¡Seguiré tranquilizándote hasta que creas en ti\nmisma!",
+        "¡Seguiré tranquilizándote hasta que creas en ti\nmisma!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "En serio, ¿qué demonios? ¿Qué estás diciendo ahora\nmismo..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Mira, he llegado hasta aquí, pero mi mentalidad no\nha cambiado en absoluto."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Por qué duplicarías tu fe para cubrirme? ¿Y si te\nquedas atascado con esa mierda para siempre?",
+      "choice_data_list": [
+        "¡No me importa cuánto tiempo tome!",
+        "¡No me importa cuánto tiempo tome!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Y si toma toda tu vida, estúpido?!",
+      "choice_data_list": [
+        "¡Aún lo haría!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Pf."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Je... ¡Jajaja!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No puedo creer que aceptes creer en mí por toda tu\nvida."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Realmente eres un idiota."
+    },
+    {
+      "text": "Narita Taishin dice que intentará correr un poco\nmás."
+    },
+    {
+      "text": "Tomada su decisión, comenzamos a hablar de nuestra\npróxima carrera."
+    },
+    {
+      "text": "Hay una que quiero sugerir que podría ayudarla a\nganar una perspectiva más positiva de las cosas."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿El Nikkei Sho?",
+      "choice_data_list": [
+        "Se lleva a cabo en el Nakayama Racecourse, igual\nque el Satsuki Sho.",
+        "Se lleva a cabo en el Nakayama Racecourse, igual\nque el Satsuki Sho."
+      ],
+      "color_text_info_list": [
+        "Nikkei Sho"
+      ]
+    },
+    {
+      "text": "El Satsuki Sho es donde Narita Taishin dejó su\nmarca en el mundo—donde finalmente todos\nreconocieron sus habilidades."
+    },
+    {
+      "text": "Planteo la idea de correr de nuevo en el lugar\ndonde tuvo su gran punto de inflexión."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Okay, lo intentaré.",
+      "choice_data_list": [
+        "¿En serio?",
+        "¿En serio?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Sí."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Iré contigo de nuevo... e intentaré."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, cuando estoy a punto de comer en la\ncafetería..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "\"¡Mont Blanc Especial! ¡Solo Diez Disponibles al\nDía!\" Eso suena tentador, pero parecen tan altos\nen calorías...",
+      "choice_data_list": [
+        "Tienes una cara rara. ¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Eeek! B-bueno, solo eres tú. ¡Agradecería que no\nme asustaras tanto!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Más importante, ¡deseo buscar tu consejo! Yo—ejem.\nQuiero decir, una <i>amiga</i> mía tiene un pequeño\nproblema..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "A pesar de entender la importancia de mantener su\npeso para prepararse adecuadamente para su\ncarrera, bueno..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Digamos que tiene problemas para adherirse a su\nestricta dieta en el mejor de los casos. ¿Tienes\nalgún consejo para ella sobre este tema?",
+      "choice_data_list": [
+        "Debería hacer lo posible por mantenerse en su\ndieta hasta que la carrera termine.",
+        "Estará bien si corre más para quemar lo que come."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "S-sí, por supuesto! Ciertamente es importante\nmantenerse fiel a la palabra, y uno debe practicar\nel autocontrol."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Muchas gracias por tu consejo! Yo aprecio—quiero\ndecir, ¡estoy segura de que mi <i>amiga</i>lo apreciará!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Sí, indeed! ¡Yo también pensaba eso! Reprimir tus\nimpulsos por demasiado tiempo es perjudicial para\ntu salud, después de todo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Jeje! ¡Tomaré solo un poquito de esto como un\ngusto! Lo saborearé más tarde. ♪"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Muchas gracias por tu consejo! Yo aprecio—quiero\ndecir, ¡estoy segura de que mi <i>amiga</i>lo apreciará!"
+    }
+  ]
+}

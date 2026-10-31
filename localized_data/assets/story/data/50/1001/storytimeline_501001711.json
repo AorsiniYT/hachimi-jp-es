@@ -1,0 +1,47 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Special Week",
+      "text": "Lo siento. Perdí de nuevo..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Todos son tan rápidos... Intenté alcanzarlos pero\nfue imposible."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Incluso con todo el entrenamiento que hemos\nestado haciendo... <i>Snif...</i>",
+      "choice_data_list": [
+        "No seas tan dura contigo misma. Podemos intentarlo\nde nuevo.",
+        "No seas tan dura contigo misma. Podemos intentarlo\nde nuevo.",
+        "¡No llores! Vas a ser la mejor Umamusume en todo\nJapón, ¿verdad?",
+        "¡No llores! Vas a ser la mejor Umamusume en todo\nJapón, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "<i>Sollozos...</i> ¡Waaahhh!"
+    },
+    {
+      "name": "Special Week",
+      "text": "<i>Snif...</i> ¡Haré lo mejor! ¡Trabajaré súper duro y...\ny... definitivamente ganaré la próxima vez!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Especialmente porque siempre estás a mi lado\nhaciendo lo mismo!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Tienes razón. Nunca seré la mejor Umamusume en\ntodo Japón si todo lo que hago es sentarme aquí y\nllorar."
+    },
+    {
+      "name": "Special Week",
+      "text": "<i>Snif...</i> Entrenador, por favor sigue enseñándome."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Y cuida de mí hasta que me convierta en la mejor\nUmamusume en todo Japón!"
+    }
+  ]
+}

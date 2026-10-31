@@ -1,0 +1,170 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Brillando espléndidamente en primer lugar no es\notra que Narita Brian! ¡Esta es su segunda corona\ntras su victoria en el Satsuki Sho!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡La multitud está enloqueciendo! Y Narita Brian,\nla nueva Campeona del Derby, levanta el puño en el\naire en respuesta!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Je."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "(Si cierro los ojos, aún puedo ver esa recta\nfinal. Todos esforzándose, luchando por la línea\nde llegada.)"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "(Siento que aún estoy allí, aún corriendo... Más.\nQuiero más...)"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Quiero ganar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Brian! ¡Brian! ¡Brian! ¡Brian!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Volví.",
+      "choice_data_list": [
+        "¡Lo hiciste genial!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Gracias. Pero la siguiente carrera es el Kikuka\nSho, donde solo el corredor más fuerte puede\nganar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Kikuka Sho es una carrera de larga distancia de\n3.000 metros en césped. Es la carrera final del\nrecorrido de la Triple Corona Clásica y requiere\ntanto velocidad como resistencia para ganar."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "La batalla por la línea de llegada continúa. Una\ncarrera aún más emocionante aguarda..."
+    },
+    {
+      "name": "Reportera",
+      "text": "¡Brian! ¡Felicitaciones por tu segunda corona!"
+    },
+    {
+      "name": "Reportera",
+      "text": "¡Estamos ansiosos por verte seguir los pasos de\nSymboli Rudolf y convertirte en el próximo Campeón\nde la Triple Corona!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...",
+      "choice_data_list": [
+        "Me encargaré de ellos como siempre."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Gracias."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "La Campeona de la Triple Corona siguiendo a\nRudolf, ¿eh?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¡Ridículo! ¿Quién <i>sigue</i> a alguien?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Las metas no son para perseguir, son para\n<i>superarlas!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después del concierto, llevo a Narita Brian de\nvuelta a la academia, donde..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Ahí estás."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿Amazon?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Gané el Japanese Oaks y tú ganaste el Japanese\nDerby."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Eh? ...¿Así que ahora tienes dos tiaras?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Sí. Y me estoy preparando para derrotarte."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Oh? Entonces, ¿cuándo vamos a enfrentarnos?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Jajá, no te adelantes. El Arima Kinen es donde va\na ocurrir."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Ahí veremos quién es el mejor."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Y si uno de nosotros no consigue sus tres\ntrofeos?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Importa? Siempre estás hablando de cómo no te\ninteresan los títulos."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Pff..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Entrenador, quiero hablar sobre lo que viene\ndespués de la Triple Corona Clásica.",
+      "choice_data_list": [
+        "¿El Arima Kinen?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Sí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es el gran evento de fin de año—una carrera de\n2.500 metros en césped en Nakayama, donde los\ncorredores de primer nivel ganan su reputación.",
+      "choice_data_list": [
+        "Competirías con corredores de último año.",
+        "Competirías con corredores de último año."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Así que el Kikuka Sho determina quién es el más\nfuerte de su generación, y el Arima Kinen\ndetermina quién es el más fuerte de todos."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Jaj... Suena genial. Ir por la cima es de lo que\nse trata ser una Umamusume!"
+    }
+  ]
+}

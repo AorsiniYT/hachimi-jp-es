@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Riko Kashimoto",
+      "text": "Cuando noté que tu luz estaba encendida, no quería\ncreer que aún estuvieras despierto, pero aquí\nestamos."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Te ves muy pálido. ¿Has estado durmiendo lo\nsuficiente?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Riko Kashimoto—un miembro ejecutivo de la URA\nactualmente empleada por Tracen Academy—está de\nrepente a mi lado.",
+      "choice_data_list": [
+        "He estado un poco ocupado últimamente..."
+      ]
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "¿Qué pensarían los estudiantes si tú, un\nentrenador, te desmayaras por agotamiento?\nDeberías ser más consciente de tu posición."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su advertencia es dura, pero no puedo evitar notar\nque también ella debe haber terminado un día\ndifícil de trabajo."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Bueno... Supongo que no estoy en posición de\nregañar a otros por trabajar hasta tarde hoy."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Vamos, deberíamos irnos ahora."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Salimos de la oficina mientras compartimos algunas\nnotas e información entre nosotros."
+    }
+  ]
+}

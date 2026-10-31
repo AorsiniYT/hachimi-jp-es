@@ -1,0 +1,163 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Seiun Sky",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Seiun Sky hace un trabajo increíble en el Arima\nKinen, pero regresa con una expresión severa en su\nrostro.",
+      "choice_data_list": [
+        "¿Te divertiste?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Sí, me divertí. Fue divertido y todo, pero..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Fue un poco... más de lo que esperaba.",
+      "choice_data_list": [
+        "¿Estás hablando de Grass Wonder?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Sí. Sabía que era fuerte desde el principio y que\nhabía mejorado desde que se recuperó de su lesión."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Pero es como si hubiera evolucionado a su segunda\nforma!",
+      "choice_data_list": [
+        "Tú también fuiste increíble.",
+        "Tú también fuiste increíble."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Por supuesto, por supuesto. Es porque usé todos\nlos trucos que tenía bajo la manga para esto."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "No fui arrogante, y no subestimé a la competencia.\nLo tomé tan en serio como cualquier otro, pero aún\nasí..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "De repente se queda en silencio. Mirando de cerca,\npuedo ver que sus hombros están temblando.",
+      "choice_data_list": [
+        "...¿Deberíamos tener una reunión secreta de\nestrategia?",
+        "...¿Deberíamos tener una reunión secreta de\nestrategia?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Eso es lo que quiero decir. Vamos a tener que usar\nnuestras cabezas, de lo contrario no voy a\nlograrlo en mi último año.",
+      "color_text_info_list": [
+        "último año"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Así que, sí... Vamos a tener una reunión de\nestrategia superdivertida."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras Sky se sacude sus preocupaciones y se\nprepara para seguir adelante, otra figura en la\nzona observa."
+    },
+    {
+      "name": "King Halo",
+      "text": "Así que... aquí es donde termina."
+    },
+    {
+      "name": "King Halo",
+      "text": "Finalmente estoy preparada."
+    },
+    {
+      "name": "King Halo",
+      "text": "Tienes que caminar tu camino. Y yo..."
+    },
+    {
+      "name": "King Halo",
+      "text": "Caminaré el mío."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "A propósito, quería hablar contigo sobre mi\npróxima carrera... si no te importa, jeje...",
+      "choice_data_list": [
+        "Adelante."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Qué tal si hacemos el Tenno Sho de primavera?",
+      "color_text_info_list": [
+        "Tenno Sho de primavera"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Tenno Sho de primavera es una carrera histórica\nde alto estatus. También es la más larga de las\ncarreras G1 con 3,200 metros.",
+      "color_text_info_list": [
+        "G1"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Creo que podría dar un buen rendimiento en una\ncarrera de larga distancia."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Y si gano, puedo cambiar mi nombre a Seiun Stayer.\n☆",
+      "color_text_info_list": [
+        "★★★"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Además, Spe también estará allí. Estoy segura de\neso... quizás. Solo lo siento en mis entrañas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que quiere probar su verdadera habilidad y\nenfrentarse una vez más a su mayor rival.",
+      "choice_data_list": [
+        "Suena bien. Corramos en el Tenno Sho de primavera."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Genial, a toda máquina."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Excepto... Ya no tengo energía para hoy—o sea,\ncansada como un perro y muerta de cansancio."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oye, ¿por qué no tenemos nuestra reunión durante\nel almuerzo? ¡Invítame a algo extra especial! ☆",
+      "choice_data_list": [
+        "¡Claro, vamos!"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Eso funcionó? ¡Nunca es una mala idea preguntar!\n¡Voy a comer hasta reventar! ☆"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡S, S, S! ♪ La S en Sky significa... ¡Sushi!\n¡Sukiyaki! ¡Mariscos! ♪",
+      "choice_data_list": [
+        "¡¿Qué es esa canción?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de una rápida comida, nos pusimos a\nintensificar el entrenamiento de Seiun Sky en\npreparación para el Tenno Sho de primavera!"
+    }
+  ]
+}

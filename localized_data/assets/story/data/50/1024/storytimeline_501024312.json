@@ -1,0 +1,67 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Bien?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿Bien qué?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Si ya terminamos aquí, me voy de vuelta a la\nuniversidad."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿A correr, por casualidad?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Cállate."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "<i>Haa... Haa...</i> ¿Cómo me fue, Entrenador?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "He mejorado mucho, ¿verdad? Ahora soy mucho más\nrápida.",
+      "choice_data_list": [
+        "¡Claro que sí!"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Ehehe! ¡Gracias! ♪ Hoy realmente me sentí yo\nmisma. ☆"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Hehe! ¡No iba a dejar que nadie en la pista\nalterara mi trayectoria! ♪"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Bueno! ¡Ya aseguramos nuestro próximo objetivo!\nEs...",
+      "choice_data_list": [
+        "¡El Tenno Sho de otoño!"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Entendido! ☆"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Muy bien! ¡A toda velocidad! ♪"
+    }
+  ]
+}

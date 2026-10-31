@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Super Creek",
+      "text": "Uf... El sol está muy brillante. Me está mareando.",
+      "choice_data_list": [
+        "¿Te sientes mal?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "No... Es solo que hay un niño hospedándose en casa\nde mis padres ahora mismo..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Siguen despertándose en medio de la noche y no se\nduermen hasta que hablan conmigo por alguna razón."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Recibo múltiples llamadas telefónicas cada\nnoche..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Mnh... Siento que podría desmayarme en el acto..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Super Creek continúa bostezando con sueño..."
+    }
+  ]
+}

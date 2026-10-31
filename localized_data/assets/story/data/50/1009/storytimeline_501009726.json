@@ -1,0 +1,56 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras estoy en la ciudad con Daiwa\nScarlet..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Ah! ¡Entrenador! ¡Mira allí!",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Esa máquina de garra! ¡Está llena de peluches\nadorables!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet señala hacia una máquina de garra\nllena de peluches de Umamusume."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿No son adorables? ¡Mira, hay tantos!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Quiero coleccionarlos todos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet prácticamente brilla de emoción\nmientras mira los peluches.",
+      "choice_data_list": [
+        "¿Quieres que gane uno para ti?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Yo... yo solo estaba mirando, eso es todo. No es\ncomo si realmente quisiera uno o algo."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Pero si <i>realmente</i> quieres darme un regalo,\nentonces supongo que puedo hacerte caso."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Así que, eh, hazlo lo mejor que puedas, supongo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡De ninguna manera puedo fallar ahora!"
+    }
+  ]
+}

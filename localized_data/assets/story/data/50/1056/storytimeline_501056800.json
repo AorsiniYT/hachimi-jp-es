@@ -1,0 +1,274 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estoy vagando por la academia en mi día libre,\ncuando Matikanefukukitaru viene cargando\ndirectamente hacia mí."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Por fin te encontré, Entrenador! Oh, me alegra\ntanto verte que estás bien!",
+      "choice_data_list": [
+        "¿Qué quieres decir?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡No hay tiempo para hablar! ¡Tengo que llevarte a\nun lugar seguro de inmediato! ¡Rápido, sígueme!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incapaz de comprender el caos que tengo ante mí,\nme encuentro siendo arrastrado a la estación de\ntren más cercana..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Uf! ¡Genial, el tren está a punto de llegar! No\nte preocupes, ¡ya casi estamos!",
+      "choice_data_list": [
+        "¿¡Casi dónde?!"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Eh? ¡Oh, perdón! ¡Se me olvidó por completo darte\nuna explicación!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Intenta mantener la calma, ¿vale? Se trata de tu\nhoróscopo. Hoy, tienes..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "<i>¡Super-ultra-mega mala suerte!</i>"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Pero no te preocupes! Vine corriendo a darte este\namuleto de la suerte de alta potencia—fuerte\ncontra las calamidades más traicioneras!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Te protegeré con mis poderes de la suerte,\nincluso de la gran mala suerte que se cierne sobre\nti mientras hablamos!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Así que por favor no te alejes de mi lado! Si lo\nhaces, un rayo podría caer desde arriba, o el\nsuelo podría abrirse y tragarte entero!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella está completamente seria. Se pega a mí como\nuna escolta, incluso mientras nos movemos.",
+      "choice_data_list": [
+        "...Entonces, ¿por qué vinimos aquí?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Jejeje, justo iba a eso. Verás, esta ciudad tiene\nun santuario que es renombrado en todo el país!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡También es uno de los sitios sagrados más\nprominentes de Japón! ¡Estoy segura de que un\nlugar como este te limpiará por completo de la\nmala suerte!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Deberíamos ir a rezar! Oh, o podríamos\nconseguirte otro amuleto de la suerte!",
+      "choice_data_list": [
+        "Vamos a rezar.",
+        "Consigamos un amuleto."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Correcto! ¡Lo mejor que podemos hacer aquí es\npedir ayuda a los dioses!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Operación Rompe Mala Suerte está en marcha!\nAhem... Rovah, rivah, vah vuu vee... Lleguemos a\nnuestra meta con seguridad..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, vinimos al santuario en un día\nfestivo. Hay muchos más visitantes de lo esperado,\ny pierdo de vista a Matikanefukukitaru antes de\ndarme cuenta."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Uf! ¡Qué multitud hoy! Pero no te preocupes, ¡ya\ncasi estamos!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "...¿Eh? E-Entrenador? ¿Dónde estás?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es más probable que pase justo a su lado que\ncualquier otra cosa si voy a buscarla, así que me\nquedo donde estoy hasta que Matikanefukukitaru me\nllama."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Estás bien, Entrenador?! ¡Lo siento mucho!\n¡Prometí protegerte y mira lo que pasó!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Pero no me rindo! ¡Definitivamente te encontraré,\nasí que solo quédate quieto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nunca había escuchado a Matikanefukukitaru sonar\ntan determinada antes... No es propia de ella."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Ninguna mala suerte le hará daño a mi\nentrenador—¡no bajo mi vigilancia!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decido no mencionar que puedo verla a unos treinta\nmetros gritando en su teléfono."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Hola? ¿¡Hola?! ¿Estás ahí?! ¡Di algo! ¡Háblame,\nEntrenador!",
+      "choice_data_list": [
+        "...¡Sé que me encontrarás!",
+        "...¡Sé que me encontrarás!"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Vale! ¡Voy a buscarte ahora mismo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Justo como me pidió, me quedo quieto hasta que me\nencuentra... unos quince minutos después."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Entrenador! ¡Gracias a Dios! ¡Oh, alabado sea!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Matikanefukukitaru y yo compartimos un momento\nconmovedor (?), reunidos al fin."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Uf! Realmente me estaba preocupando por un minuto\nallí, pero parece que nuestras oraciones fueron\nbien recibidas!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Con esto, ahora estás seguro y sano! Después de\ntodo, yo rezé súper duro para que estuvieras\nprotegido por toda la eternidad!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "...¡Espera!",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Crees que pedir un favor tan grande de una vez es\nun poco demasiado?!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Mejor añado una ofrenda extra, por seguridad...\nDéjame ir a comprar un amuleto de la suerte\nrápido!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al final, nos vamos cargando bolsas llenas de\namuleto de la suerte."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Es bueno tener la suerte como tu escudo! ¡Vamos a\nmovernos!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Bueno, si no es Fukukitaru! ¡Qué gusto\nencontrarte por aquí!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Gyahhhhh! ¡Taiki y Suzuka! ¿Qué están haciendo\nustedes dos aquí?!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Estamos aquí de turismo... Estábamos a punto de\nbuscar algunos recuerdos."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh, y tu entrenador también está aquí! ¡Déjame\nacercarme para saludar como es debido!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "E-espera un segundo! ¡No te acerques a mi\nentrenador!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Eh, pero por qué?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡No lo hagas! ¡Tengo que ser la que esté al lado\nde mi entrenador!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Bueno, eso no debería ser un problema! Ahora que\ntodos estamos aquí, supongo que podemos ir como\ngrupo!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Eso no funciona! Hoy es... Es solo... ¡Tengo que\nestar con mi entrenador!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Y tiene que ser solo nosotros dos, ¿vale?!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Um... No entiendo del todo, pero quizás es mejor\nno meterse en su camino, Taiki."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Podría ser que tengan algunos asuntos importantes\nque discutir. Creo que será mejor dejarlos solos,\nde todos modos."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Asuntos importantes? Solos..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Ohhh! ¡Entiendo lo que quieres decir!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Perdón por eso! ¡No quisimos interrumpir nada!\n¡Vayan y tengan un lindo día, ¿me oyen? ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo la sensación de que hay un pequeño\nmalentendido, pero Matikanefukukitaru suspira\naliviado mientras se alejan."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Eso estuvo cerca! Si te acercabas más, les\nhabrías contagiado tu mala suerte, Entrenador!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Si eso hubiera pasado, te habrías ganado la fama\nde entrenador de la muerte—exiliado del mundo de\nlas carreras..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Apresurémonos y compremos un amuleto de la suerte\nantes de que pase algo más!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Yo elegiré los mejores! No te preocupes, estás en\nbuenas manos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las palabras de Matikanefukukitaru suenan bastante\nreconfortantes, pero cuando llegamos al\nmostrador..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Oh, vaya! ¡Hay montones de amuletos ultra raros\naquí! ¡Míralos todos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Terminamos comprando todos los que podemos\nconseguir."
+    }
+  ]
+}

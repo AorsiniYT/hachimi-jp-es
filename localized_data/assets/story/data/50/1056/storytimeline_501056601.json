@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Ups... A pesar de mis mejores esfuerzos, el\nresultado de mi última carrera fue demasiado\nlamentable para ofrecer a Shiraoki..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Pero hoy... definitivamente ganaré!",
+      "choice_data_list": [
+        "Es genial que te lo tomes tan en serio.",
+        "Es genial que te lo tomes tan en serio."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Como dicen, \"¡Incluso la paciencia de un santo\ntiene límites!\" Si pierdo de nuevo, ¡quién sabe\nqué tipo de castigo Shiraoki me traerá!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Por eso aseguré que todo salga bien: orienté mi\nalmohada, visité el santuario cien veces y saqué\ntiras de fortuna hasta obtener \"gran fortuna\"."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Con confianza y suerte de mi lado, seguro que\nganaré!"
+    }
+  ]
+}

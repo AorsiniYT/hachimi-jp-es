@@ -1,0 +1,87 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, Agnes Tachyon me lleva a cierto lugar..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Guau! Es un día hermoso, ¿verdad? Bueno,\nentonces, ¡empecemos!",
+      "choice_data_list": [
+        "¿Dónde estamos?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Pensé que haríamos un experimento aquí hoy. No te\npreocupes, no será difícil."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Primero, muéstrame tus límites. Ahí es donde\ncomienza el verdadero experimento."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Reduciré la velocidad a tu ritmo y correré a tu\nlado, ¡así que intenta ir tan rápido como puedas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Corro a lo largo de la playa de acuerdo con las\ninstrucciones de Agnes Tachyon."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pasa una hora... otra... Mi cuerpo pesa más y los\npies se hunden en la arena a cada paso."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Entrenador! ¡Cuidado con el paso!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de escuchar la voz de Agnes Tachyon desde\natrás de mí, miro hacia abajo a mis pies. Ahí\nveo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...¡Un erizo de mar! ¡Es demasiado tarde, no puedo\nevitarlo!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Entrenador, abre los ojos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al abrir los ojos, el erizo estaba junto a mí.\nAgnes Tachyon me apartó justo a tiempo."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Caray! Eres todo un peligro. Necesito que evites\nlesionarte fuera de experimentos.",
+      "choice_data_list": [
+        "¡Gracias!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Me debes una ahora! Sucedió tan rápido, mi\nfrecuencia cardíaca se disparó..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...Hm? ¡No, espera!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Esa sensación... Quizá sirva para mi investigación\nde modificación corporal."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Je, je! ¡Buen trabajo, Entrenador! ¡Apresurémonos\na volver al laboratorio!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Debo hacer un registro de ese momento antes de\nque lo olvide!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agnes Tachyon ganó algo con su impulso. ¡Su\ndesempeño mejoró notablemente desde entonces!"
+    }
+  ]
+}

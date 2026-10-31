@@ -1,0 +1,190 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "El Condor Pasa",
+      "text": "¿¡En serio?! Pensé que iba a shockear al mundo con\nun tiempo récord!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Después de todo, soy increíble! ¡Una genio—la más\nrápida del mundo! Pero bueno..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Al menos estoy en la tabla de puntuación. Eso\nservirá para hoy.",
+      "choice_data_list": [
+        "Gran trabajo hoy, El."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Me viste, Entrenador?! ¡Estaba elevándome con\ntoda mi fuerza!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las expectativas e ideales de El Condor Pasa\nsuperan con creces a las de cualquier otro. A\nveces, se sienten tan infinitos como el cielo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y ella lo hizo excelente hoy. De hecho, si su\nresistencia puede soportar una carrera así...",
+      "choice_data_list": [
+        "¿Cómo te sientes, El? ¿Cansada?",
+        "¿Cómo te sientes, El? ¿Cansada?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Qué? ¿Cansada? Estoy totalmente bien."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Soy dura como una roca y siempre estoy lista\ngracias a toda la comida picante que como!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus pies son firmes. Realmente podría tener lo que\nse necesita para hacer realidad su sueño."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella mencionó una vez su deseo de competir con sus\nrivales en su año clásico. Al menos una vez,\nquiero que ese sueño se haga realidad."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Bueno entonces, Entrenador, ¿qué carrera\ndeberíamos apuntar ahora? ¿Supongo algo en otoño?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Si vamos por el otoño, puedo correr con las\nmayores...",
+      "choice_data_list": [
+        "¿Qué tal el Japanese Derby?",
+        "¿Qué tal el Japanese Derby?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "...¿Qué? Um, Entrenador... ¿Escuché bien?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Creí que acababa de escucharte decir el Derby...",
+      "choice_data_list": [
+        "¡Así es! ¡Vamos al Japanese Derby!",
+        "¡Así es! ¡Vamos al Japanese Derby!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Se lo digo de nuevo con más vigor. Será una\ncarrera difícil, pero..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "El Japanese Derby... El Derby... Pero eso es como\njusto después de esto!",
+      "color_text_info_list": [
+        "Japanese Derby"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Esto es increíble! Pensé que tenía que elegir\nentre el Derby y el NHK Mile Cup..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿De verdad está bien, Entrenador?!",
+      "choice_data_list": [
+        "Si te sientes capaz.",
+        "Si te sientes capaz."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Por supuesto! ¡Me siento mejor que nunca después\nde escuchar esto!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Bueno! ¡Bueno! ¡Bueno, bueno, buenooo!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Puedo correr en el Japanese Derby..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Con todas mis amadas amigas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"¡El Condor Pasa va al Derby!\" La noticia se\nesparce rápidamente por toda la Academia Tracen.",
+      "color_text_info_list": [
+        "Academia Tracen"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Grass... ¿escuchaste la noticia?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Yo tampoco tenía idea. Supongo que El habló con su\nentrenador y decidió por impulso."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡El!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Pum!</i>"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡El! ¡Necesitamos hablar!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Ah, Spe!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Yo... decidí ir al Derby de repente! Um..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Está bien contigo?"
+    },
+    {
+      "name": "Special Week",
+      "text": "<i>Snif...</i> ¿Te parece bien?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Yujuu!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡¿Qué?!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Siempre he querido correr contigo en el Derby!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Hagamos una carrera increíble! ¡Tú y yo!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Spe!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Sí! ¡Lo sabes!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Resulta que todos querían que esta carrera\nocurriera. El Condor Pasa ya no tiene razón para\nsentirse como una intrusa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todo lo que puedo hacer es esperar que tengan una\nincreíble carrera—una donde luchen con todo lo que\ntienen... en el escenario más grande de los\nClásicos."
+    }
+  ]
+}

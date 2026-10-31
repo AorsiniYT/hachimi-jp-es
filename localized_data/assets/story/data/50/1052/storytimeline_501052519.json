@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Voy camino a mi oficina cuando escucho un\nmurmullo."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Zanahorias grandes más helado... igual a presente\nprogresivo...",
+      "choice_data_list": [
+        "¿E-estás bien?!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Jeje. Estoy ya mismo a punto de terminar con mi...\ntarea extra..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Me cuesta recordar las reglas gramaticales, así\nque ¡estoy usando comida como ejemplos!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Si conjugo zanahorias grandes, entonces el helado\ndebería ser..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Uh... Solo escribiré, \"Me gusta el helado de\nzanahoria.\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "La extraña técnica de Haru Urara no la ayuda a\nrecordar ninguna regla gramatical, así que tiene\nque tomar aún más clases extra... lo que lleva al\nagotamiento."
+    }
+  ]
+}

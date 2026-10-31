@@ -1,0 +1,39 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Eishin Flash recibe su segundo campamento de\nverano con frialdad y serenidad."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No tenemos mucho tiempo antes del Tenno Sho de\notoño."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Abordemos este campamento de verano como si fuera\nla última oportunidad para prepararme para él.",
+      "choice_data_list": [
+        "(La última oportunidad...)"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Una vez que haya hecho lo que necesito hacer,\npondré mis ojos en la jubilación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Este podría ser mi último campamento de verano con\nEishin Flash..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Hm? ¿Pasa algo?",
+      "choice_data_list": [
+        "¡No! Para nada!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Será mejor que grabe la imagen de ella corriendo\npor la pista en mi memoria. Puede que no haya\nmuchas más oportunidades."
+    }
+  ]
+}

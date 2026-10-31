@@ -1,0 +1,35 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fuji Kiseki",
+      "text": "Mmm... Todavía está agotado.",
+      "choice_data_list": [
+        "¿Qué es?",
+        "¿Qué es?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Oh, solo uno de mis cremas para manos favoritas."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "No es particularmente popular, pero no he podido\nconseguir otro desde que se agotó la semana\npasada."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Le recomendé el mismo producto a una yegua querida\nla semana pasada. Me pregunto si logró comprar\nuno.",
+      "choice_data_list": [
+        "Quizás se agotó <i>porque</i> se lo recomendaste."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Ja! Inconcebible."
+    },
+    {
+      "text": "Pero en efecto, esa fue la razón. Todos los\nfanáticos de Fuji Kiseki se apresuraron a comprar\nla misma crema para manos, dejando sus manos secas\ny escamosas por un tiempo."
+    }
+  ]
+}

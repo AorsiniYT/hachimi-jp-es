@@ -1,0 +1,25 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿Esto... es un error? En ese caso...",
+      "choice_data_list": [
+        "¿Estás bien?",
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Frecuencia cardíaca aumentada y opresión en el\npecho detectadas. He determinado que estoy en un\nestado anormal de estimulación."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Basándome en esto, creo que estoy \"temblando de\nexcitación.\""
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Definitivamente ganaré esta carrera,\nEntrenador."
+    }
+  ]
+}

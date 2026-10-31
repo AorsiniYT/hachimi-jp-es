@@ -1,0 +1,24 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Silence Suzuka",
+      "text": "Gracias por el día libre.",
+      "choice_data_list": [
+        "¿Te divertiste?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Sí. Fui a correr un rato largo y agradable en un\nlugar que quería visitar desde hacía tiempo."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Eso también podría explicar por qué mis piernas se\nsienten tan ligeras hoy."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al parecer Silence Suzuka ha logrado refrescar\nadecuadamente tanto su cuerpo como su mente."
+    }
+  ]
+}

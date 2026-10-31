@@ -1,0 +1,391 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estoy en el albergue del campamento haciendo algo\nde trabajo mientras las corredoras están en\ndescanso."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Veo que estás trabajando duro, Entrenador. ¿Son\ntodos ajustes a mi régimen?",
+      "choice_data_list": [
+        "Sí. Es importante sacar el máximo provecho de la\ntemporada.",
+        "Sí. Es importante sacar el máximo provecho de la\ntemporada."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hehe... Aprecio tu consideración."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Por cierto, ¿te estás hidratando? ¿Te gustaría un\nvaso de té de cebada endulzado?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sé lo que estás pensando: ¿azúcar en el té de\ncebada? Sorprendente, lo sé... pero funciona bien."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Por favor, toma un poco, y podemos relajarnos—"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Relajarse?! ¡Ni hablar!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡No cuando tú y yo tenemos una cuenta que saldar,\nGrass!",
+      "color_text_info_list": [
+        "Grass"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh... El... ¿Qué te ha pasado de repente?",
+      "color_text_info_list": [
+        "El"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡El poder del sol! ¡Las olas estrellándose en la\nplaya! ¡Me llaman!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "En otras palabras, tu emoción ha desbordado y\nquieres que te ayude a quemar el exceso de\nenergía?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Así es una forma de decirlo!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Hagámoslo, Grass! ¡Una pelea! ¡Una competencia!\nNecesito algún tipo de desafío!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hmmm... Pero esto es tan repentino..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La sonrisa de Grass Wonder parece forzada, pero\nesta es una oportunidad para enfrentar a una rival\nque correrá contra ella en la Japan Cup."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella podría aprender algo útil. Con eso en\nmente...",
+      "choice_data_list": [
+        "¿Qué tal un juego de banderas de playa?",
+        "¿Qué tal una batalla de resistencia?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Entonces, ¿una carrera para agarrar una bandera\nclavada en la arena?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Una actividad adecuada para divertirse en la\nplaya! ¡Hagámoslo! ¡Ándale! ¡Ándale!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sé razonable, El. No puedes simplemente—"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Oh? ¿Te estás achicando, Grass?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Bueno, siempre fuiste de esas que \"van despacio\".\nNo te culpes por huir cuando las cosas se ponen\ndifíciles!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Habla todo lo que quieras. Tus burlas baratas no\nme afectarán."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Te haré caso por una ronda, y solo una ronda. Así\nque espero que eso te haga feliz."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, un partido único de banderas de playa da\ncomienzo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡FIU!</i>"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Guaaaaa! ¡Q-qué rápida!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hehe... ¿Te lo he dicho alguna vez?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "He probado el arte de desenvainar la espada, el\niaido, así que tengo un poco de confianza en mi\ntiempo de reacción. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al final, debido a las constantes peticiones de\nrevancha de El Condor Pasa, Grass Wonder termina\nenfrentándola varias veces más con una sonrisa\nconfiada."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Entonces... si te entendí correctamente, ¿hay un\nreto de comer comida muy caliente con el aire\nacondicionado apagado?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ahahaha! Entrenador, eso es un deseo de muerte."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Supongo que no lo sabes. Grass puede no parecerlo,\npero ¡odia el calor!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Como justo antes de dormir cuando está súper\nhúmedo y caliente, a veces su pancita—"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿El?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿¡Huh?! ¿Es solo yo, o de repente hace un poco de\nfrío?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hehehe... Gracias por la maravillosa sugerencia,\nEntrenador."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sin embargo, somos Umamusume. Arreglamos las cosas\ncon nuestras piernas. Por lo tanto..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Por qué no tenemos una carrera, El? ♪"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Te ayudará a quemar tooodo ese exceso de energía."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "HYAAAAAH!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En general, poder correr junto a El Condor Pasa\nparece haber sido una experiencia fructífera para\nGrass Wonder."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más tarde esa noche, regreso a la playa para\nencontrar..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Nghh... Me excedí un poco esta tarde... Voy a\nestar adolorida mañana.",
+      "choice_data_list": [
+        "Lo hiciste genial, El Condor Pasa."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Ah, ¡el entrenador de Grass! Buenas noches."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Gracias por la sugerencia anterior! ¡Fue el\ndesfogue que realmente necesitaba!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Pero creo que vacié mi tanque demasiado...",
+      "choice_data_list": [
+        "Tú y Grass parecen ser buenas amigas.",
+        "Tú y Grass parecen ser buenas amigas."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Jaja! ¿Lo somos?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Te lo digo, la cosa es que. Cuando nos conocimos\npor primera vez..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Pensé que era un rollo de los grandes!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Fue durante el examen de ingreso a la Academia\nTracen.",
+      "color_text_info_list": [
+        "Academia Tracen"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Primero todos recibimos un vistazo para evaluar\nnuestro potencial. Luego fue hora de correr..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Pero ¿yo? Estaba aburridísima."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "(Hmmm... sé que es solo el examen de ingreso, pero\npensé que la Academia Tracen sería más, no sé,\ndesafiante?)"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "(Como, más pasión, más estilo. ¡Más KA-BOOM!\n...Eso es lo que busco.)"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Disculpa. ¿Por casualidad eres El Condor Pasa?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Qué? Ah, ¡sí! Soy yo."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Tú y yo hemos sido asignadas al mismo bloque de\ncarreras. Mi nombre es Grass Wonder."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Incluso los encuentros casuales están\npredeterminados. Que ambas tengamos una carrera\nfructífera."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Te veré en la pista."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Uh-huh, igual..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Y eso fue todo! ¿Puedes creerlo?!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Estábamos a punto de correr! ¡Una carrera grande,\ncon nuestras carreras en juego!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Pero ella está toda apática y sonriente. ¿Dónde\nestá el fuego? ¿Dónde está la determinación?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Vaya decepción. ¿Por qué tengo que correr con este\nrollo, sabes?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Pero entonces..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Vuela! ¡Surca! ¡HACIA EL CIELOOOO!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Wow, mira qué larga es su zancada! ¡También lo\nhizo increíblemente bien en las otras pruebas,\npero esto—esto es de otro nivel!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Ella no es la única."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¿Huh? ¿Qué quieres decir?"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¿No estabas prestando atención en la prueba de\nfitness? La que realmente nos dejó a todos en\nvergüenza fue..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Haaah!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "...?!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Podía decir que era diferente."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Su forma, su aura, sus agallas! ¡Grass no era\nnada como las demás!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Durante la carrera, yo tomaba la delantera, ella\nla recuperaba, luego yo otra vez, ida y vuelta.\nFinalmente terminamos empatados."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Fue mi primera experiencia con eso, el ardiente\ndeseo bajo esa sonrisa serena."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Estaba temblando en mis zapatillas."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ahí fue cuando lo supe!",
+      "choice_data_list": [
+        "¿Qué supiste?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Je!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Que si quiero demostrar que soy el corredor más\nfuerte del mundo tengo que vencer a Grass Wonder\nen su mejor momento."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Voy a vencerla de frente cuando esté dando lo\nmejor de sí!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Y entonces todos verán que nadie es más rápido que\nel uno y único... ¡El Condor Pasa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Puedo ver la determinación ardiendo en los ojos de\nEl Condor Pasa."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Tengo que ser yo."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Juro que haré que esos suaves ojos azules <i>hiervan</i>\nmientras ella me ve arrasar en la pista!",
+      "choice_data_list": [
+        "...El?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ups! ¡Hablé de más!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Te lo contaré después, cuando se abra la puerta de\nsalida!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Adiós... ¡Hasta la Japan Cup!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y con eso, El Condor Pasa corre como el viento en\nla noche."
+    }
+  ]
+}

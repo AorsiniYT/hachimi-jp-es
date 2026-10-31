@@ -1,0 +1,100 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Espectador Entusiasta",
+      "text": "¡Oye! ¿Quién crees que va a ganar el Derby de este\naño?"
+    },
+    {
+      "name": "Espectador Amante de la TV",
+      "text": "Sin duda uno de los tres grandes. ¡Eso es lo que\ndijeron en la TV!"
+    },
+    {
+      "name": "Espectador Entusiasta",
+      "text": "En ese caso, apuesto a que será el bebé de la\ndinastía. ¡Ya sabes, la hija de esa corredora\nlegendaria!"
+    },
+    {
+      "name": "Espectador Amante de la TV",
+      "text": "Bueno, ¡yo quiero que gane Special Week! Estaba\nviendo este especial donde..."
+    },
+    {
+      "name": "King Halo",
+      "text": "Aquí estoy... en el Derby."
+    },
+    {
+      "name": "King Halo",
+      "text": "...",
+      "choice_data_list": [
+        "¿Nerviosa?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Ja! ¡C-como si! ¡Estoy tan c-c-calmada como\nsiempre!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Esto NO será un problema! ¡Me viste en el Satsuki\nSho, verdad?"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡No tengo nada de qué preocuparme! ¡Voy a ganar\nhoy, eso es todo!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Incluso si <i>es</i> el Derby! ¡No! Precisamente<i>porque</i>\nes el Derby!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Ganaré esta carrera, pase lo que pase..."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Entonces mi madre finalmente me reconocerá!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cinco minutos después..."
+    },
+    {
+      "name": "King Halo",
+      "text": "Todo lo que veo ante mí... son zanahorias. Campos\ny más campos de zanahorias."
+    },
+    {
+      "name": "King Halo",
+      "text": "Está bien. Estoy bien. No hay nada de qué\npreocupar ..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Lo juro! ¡Son tan ruidosos! ¡Ni siquiera he\nsalido aún!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Oh... Pero eso significa... ¿Para quién están\nvitoreando?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Guau! ¡Gracias por su apoyo!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡No perderé esta carrera! ¡Voy a correr con el\napoyo de todos impulsándome!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Voy a ganar el Derby y hacer que todos ustedes se\nsientan orgullosos!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Este es para ambas mis madres: la que me dio a\nluz y la que me crió!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Voy a ser la número uno de las Umamusume en\nJapón!"
+    }
+  ]
+}

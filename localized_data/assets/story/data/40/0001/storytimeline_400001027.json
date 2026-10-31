@@ -1,0 +1,157 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras camino por el pasillo..."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Duplicar el equipo de la academia, todo por el\nbien de las Umamusume... Simplemente asombroso!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡De acuerdo! ¿Verdad? ¡Pero eso es solo el\ncomienzo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Escucho voces provenientes de una habitación\ncercana y decido echar un vistazo."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Declaración! Prometo convertir este gimnasio en\nun centro de excelencia deportiva sin igual! ¡Lo\nampliaré diez... no, cien veces!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Cien veces... Asombroso! ¡Simplemente asombroso!\n¡Solo la directora de la prestigiosa Tracen\nAcademy emprendería tal hazaña!",
+      "choice_data_list": [
+        "¡Cuánto espacio crees que tenemos?!"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Impacto! Esa interjección al estilo Tazuna... Oh,\neres tú, Entrenador <username>!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Disculpas! Me dejé llevar por la entrevista y\nolvidé por completo el tamaño de los terrenos de\nla academia!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Oh, querido... Yo también tengo la culpa. Me dejé\nllevar un poco con el amor de la directora por las\nUmamusume."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Pero la fuerza de ese amor es solo una parte de lo\nque la hace tan asombrosa."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¿Podría molestarte para un comentario? Desde tu\nperspectiva como entrenador, ¿cuál es tu opinión\nsobre la directora?"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Anticipación! ¡Me encantaría escuchar tu opinión!",
+      "choice_data_list": [
+        "La respeto mucho.",
+        "A veces puede descontrolarse."
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Vergüenza! Me siento bastante tímida, siendo\nelogiada tan francamente!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Pero todavía tengo mucho margen para crecer.\nTodavía hay mucho por hacer por las Umamusume del\nmundo."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Por lo tanto! ¡Por favor, guarda la palabra\n\"respeto\" para después de que haga de la URA\nFinale un éxito!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Inspirador! ¡Qué persona verdaderamente\nmaravillosa es la directora!",
+      "choice_data_list": [
+        "(¡El estilo de habla de la directora se está\nextendiendo!)"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Incluso sabiendo que tiene el respeto de sus\nentrenadores, se niega a comprometerse en su\npropia mejora!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Claramente, no tiene intención de detenerse hasta\nque proporcione un escenario donde las Umamusume\nde todo el mundo puedan brillar! ¡Simplemente\nasombroso! ¡Debo escribir sobre esto!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Permiso concedido! A medida que Tracen Academy se\nextiende su influencia por todo el globo, por\ntodos los medios, ¡documenta cada uno de nuestros\nmovimientos!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Y tú! ¡Entrenador <username>! ¡Hagamos todo lo posible para\nayudar a cada Umamusume a brillar!",
+      "choice_data_list": [
+        "¡A-afirmativo!"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Ah, el verdadero espíritu de Tracen Academy...\nEsto hará un artículo asombroso!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En un abrir y cerrar de ojos, me he visto atrapada\nen un escándalo internacional..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero estoy tan inspirada por la pasión de la\ndirectora que vuelvo a entrenar a <chrname> con entusiasmo\nrenovado."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Escandaloso! Tazuna <i>sí</i> me advierte a menudo que\npiense antes de hablar..."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Pero por favor, clemencia! Te aseguro que solo\ndeseo ayudar a nuestras Umamusume a rendir al\nmáximo en carreras!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Ya veo, así que el comportamiento errático de la\ndirectora es todo por su amor a las Umamusume..."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "E-es decir, ¿dirías que estás comprometida a dar a\ntus estudiantes cualquier apoyo que necesiten?"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¿Significa eso que buscas cuidarlos no solo desde\nel nacimiento hasta la graduación, sino más allá\nde su jubilación y en su vejez?!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Exactamente! Por la presente juro apoyar las\nvidas de todas las Umamusume! ¡Creo que eso hará\nun artículo maravilloso!",
+      "choice_data_list": [
+        "¡T-Tazunaaa!"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡D-disculpas! Me dejé llevar de nuevo—"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Directora! ¿Qué has hecho ahora?!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Eep! ¡A huir!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una vez más, Tazuna advierte estrictamente a la\ndirectora que piense antes de hablar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero estoy tan inspirada por la pasión de la\ndirectora que vuelvo a entrenar a <chrname> con entusiasmo\nrenovado."
+    }
+  ]
+}

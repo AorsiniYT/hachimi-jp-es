@@ -1,0 +1,88 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras camino por la academia..."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "<i>Hip...</i> ¿Dónde estoy?",
+      "choice_data_list": [
+        "¿Estás perdida?"
+      ]
+    },
+    {
+      "name": "Umamusume A",
+      "text": "S-sí... Acabo de llegar aquí desde fuera de la\nciudad hoy..."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Pensé que daría un pequeño paseo antes de que\ncomience la orientación, pero... <i>¡Hip!</i>"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡OYE! ¿Qué haces, haciéndole llorar a esa pobre\nchica?! ¡Explícate!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Intimidada por la mirada acusadora de Tamamo,\nintento desperadamente defenderme."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Así que las cosas fueron así, ¿eh? Perdón por\nsacar conclusiones precipitadas."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Oye, novata. Vine hasta aquí desde Osaka yo misma,\nasí que entiendo lo abrumador que debe ser para\nti."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Vale, te llevaré a la orientación! ¡Hasta te\nmostraré por dónde están las cosas realmente\nimportantes en el campus de camino!",
+      "choice_data_list": [
+        "¿Ah? ¿Hablas de la biblioteca?",
+        "¿Ah? ¿Hablas del gimnasio?"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Sí, tienes que saber dónde está la biblioteca\npara estudiar!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Aquí estamos. Escucha, tienes que estar callada en\nla biblioteca—¿entendido?"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Gracias por tu ayuda. No puedo creer que ya esté\nrecibiendo ayuda de una estudiante de menor curso."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Solo viniste a un recorrido por el campus, pero\nestás muy organizada. Necesito ser más como tú."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡¿Qué estás llamando estudiante de menor curso?!\n¿No ves que llevo el uniforme de la academia?! ¡Tú\neres <i>mi</i> subalterna!"
+    },
+    {
+      "name": "Bibliotecaria Estudiantil",
+      "text": "¡Tamamo Cross! ¡Esto es una biblioteca! ¡Por\nfavor, guarda silencio!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Sí, la va a usar mucho pronto!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Y aquí estamos. En cuanto a equipo, si puedes\nnombrarlo, está aquí. ¡Asegúrate de entrenar tu\nenergía y tus agallas!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Absolutamente! ¡Me aseguraré de dar un buen\nejemplo como tu senior!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡YO SOY LA SENIOR AQUÍ!"
+    }
+  ]
+}

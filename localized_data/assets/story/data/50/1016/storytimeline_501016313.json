@@ -1,0 +1,99 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Qué fuerza increíble! ¡Narita Brian gana el\nKikuka Sho!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Y la multitud enloquece! ¡El Hipódromo de Kyoto\nexplota en celebración!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Entrenador.",
+      "choice_data_list": [
+        "¡Felicitaciones, Brian!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Gracias. Pude ganar el Kikuka Sho sin problemas.",
+      "choice_data_list": [
+        "Has recorrido un largo camino.",
+        "Has recorrido un largo camino."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Sí, creo que también. Este último año—no, desde\nque debuté..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tú has—"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Ahora, espera un minuto!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Este no es momento para estar envolviendo las\ncosas! ¿Qué están pensando ustedes dos?!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Oh, eres tú, Amazon."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Así es, soy yo! Ahora, ven aquí un momento,\n¿quieres?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...",
+      "choice_data_list": [
+        "Adelante."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Bien."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Así que, ha llegado el momento de que cumplamos\nesa promesa. ¿Eh, Brian?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "No viniste todo este camino solo para que podamos\ndarnos palmaditas en la espalda y darnos por\nvencidos, ¿verdad?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...?!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Por supuesto que no. Este nivel de éxito apenas es\nsuficiente para satisfacerme."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Así que..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Así que te veré en el Arima Kinen."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Brian regresa a la sala de espera con un\npoco de brinco en su paso, luciendo bastante\nsatisfecha."
+    }
+  ]
+}

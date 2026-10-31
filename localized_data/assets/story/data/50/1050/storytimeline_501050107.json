@@ -1,0 +1,214 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Como es el Día de San Valentín mañana, decido\ndarle un regalo a Narita Taishin.",
+      "choice_data_list": [
+        "Pero, ¿qué le debería regalar si no le gusta el\ndulce?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Termino eligiendo unas galletas cubiertas en\nchocolate amargo y regreso."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Mmm? ¿Qué es eso?",
+      "choice_data_list": [
+        "¡Feliz Día de San Valentín, Taishin!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué? Oh... ¿Hoy es?",
+      "choice_data_list": [
+        "¿Lo olvidaste?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No... Bueno, quizás. Más o menos."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No realmente intercambio chocolate con amigas o\nnada."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Espera, ¿en serio eso es para mí?",
+      "choice_data_list": [
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...¿Eh. Okay."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Eh... Gracias, supongo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esa noche, mientras me relajo en mi cuarto, hay un\ngolpe en la puerta."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Oye... ¿Estás ahí?",
+      "choice_data_list": [
+        "¿Taishin?!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Ya cenaste? Si no, te traje un poco de comida.",
+      "choice_data_list": [
+        "Oh, gracias... ¡Espera, qué?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Miro a Taishin con confusión y noto que ella\nsostiene un recipiente lleno de un plato de curry\nseco."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No he comido aún, así que estoy hambriento, y\nacepto felizmente la comida. Aún así...",
+      "choice_data_list": [
+        "(¿Por qué de repente me trajo comida?!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y no solo eso...",
+      "choice_data_list": [
+        "¡Esto está realmente delicioso!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Por qué actúas como si fuera una gran sorpresa?",
+      "choice_data_list": [
+        "¡Porque no sabía que eras tan buena cocinera!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No realmente. Solo aprendí a cocinar ya que mi\nfamilia tiene un negocio. Mis padres estaban\ndemasiado ocupados para cuidarme."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No tienes que hacer tanto drama por eso. Solo es\nun curry seco...",
+      "choice_data_list": [
+        "¡Pero está realmente bueno!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No estoy mintiendo ni exagerando. El curry tiene\nuna dulzura suave y profundidad que me hace\npreguntarme si tiene algún ingrediente secreto.",
+      "choice_data_list": [
+        "(¿Mmm?)"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Bueno, supongo que es mejor que decir que sabe\nasqueroso."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "En fin, tengo un toque de queda que respetar.\nLuego."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin sale corriendo como si estuviera\ndesesperada por irse."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El sabor del curry deja un persistente toque de\ndulzura en mi boca."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo tanta hambre y el curry es tan increíble que\nlimpio mi plato antes de darme cuenta.",
+      "choice_data_list": [
+        "¡Gracias! ¡Eso estuvo genial!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Sí, sí, no hay problema."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un breve silencio cuelga en el aire."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Dime..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Sabes esa cosa que dijiste sobre yo creer en mí\nmisma?",
+      "choice_data_list": [
+        "¿Eh? Oh, ¡sí!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una vez le dije que creería en ella el tiempo\nnecesario hasta que ella también creyera en sí\nmisma."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y creería en ella incluso si tomara una vida\nentera."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Bueno... Hablando hipotéticamente..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué si digo que ahora creo en mí misma?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué harías?",
+      "choice_data_list": [
+        "¿Mmm?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Te retirarías porque ya hiciste tu trabajo, y ya\nestá? ¿Te irías?",
+      "choice_data_list": [
+        "Bueno..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No lo diría con tantas palabras, pero supongo que\nsi ella ha ganado confianza en sí misma, entonces\neso es suficiente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Abro la boca para hablar, pero ella me interrumpe\nantes de que pueda sacar las palabras."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No, no digas nada."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Todavía no. No quiero escucharlo."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Lo siento. Me voy."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin sale corriendo como si estuviera\ndesesperada por irse."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El sabor del curry deja un toque de amargura en mi\nboca."
+    }
+  ]
+}

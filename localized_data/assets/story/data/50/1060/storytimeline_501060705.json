@@ -1,0 +1,283 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Después de un día fuera con Nice Nature, los dos\nestamos caminando a casa, cuando..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Oye... ¿no es esa City parada allí? Me pregunto si\nestará en medio de una sesión de modelaje."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Guau... Solo la forma en que está parada emana un\naura de otro mundo..."
+    },
+    {
+      "name": "Fotógrafa",
+      "text": "Hmmm, quiero ver un poco más de sol en tu\nrostro... ¡Hagamos un descanso de cinco minutos!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Claro."
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Hm?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Oh, Nature. ¿Qué estás haciendo? Con tu entrenador\ntambién, veo.",
+      "choice_data_list": [
+        "Solo estábamos volviendo a casa—"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Habla de impresionante! Te veías tan divina, ¡mis\nmanos se juntaron instintivamente en oración!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Mis sentimientos van más allá de la admiración—es\nadoración! Me siento tan bendecido!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Pfft... ¡Jaja! No puedo decir que haya escuchado\neso antes."
+    },
+    {
+      "name": "Fotógrafa",
+      "text": "¡Así se hace, esa es la sonrisa que quería ver!\nOye, ¿ustedes dos quieren unirse a la sesión de\nfotos?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Quieres que nos unamos... a una sesión de fotos?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Um... Espera ahora. No quiero molestarlos.",
+      "choice_data_list": [
+        "¿Quieres intentarlo? Acababas de hablar de cuánto\nla admiras, después de todo."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Espera! ¡Eso era solo hablar! ¡No puedo hacerlo!\n¡No soy modelo!",
+      "choice_data_list": [
+        "Nunca sabrás a menos que lo intentes.",
+        "Nunca sabrás a menos que lo intentes.",
+        "¡Entonces lo haré yo!",
+        "¡Entonces lo haré yo!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Espera! ¡Eso era solo hablar! ¡No puedo hacerlo!\n¡No soy modelo!",
+      "choice_data_list": [
+        "Nunca sabrás a menos que lo intentes.",
+        "Nunca sabrás a menos que lo intentes.",
+        "¡Entonces lo haré yo!",
+        "¡Entonces lo haré yo!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "E-eso podría ser cierto, pero el hecho de que sea\nimposible para mí es toda la razón por la que\n<i>admiro</i> ¡a los modelos!"
+    },
+    {
+      "name": "Gold City",
+      "text": "...Entiendo completamente lo que dices. Dicen que\nel primer paso es el más difícil."
+    },
+    {
+      "name": "Gold City",
+      "text": "En ese caso, déjalo en mis manos. ¡Cuenta conmigo.",
+      "choice_data_list": [
+        "¡Mucha suerte!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿En serio? ¿De verdad estás hablando en serio?!\n¡Realmente no sé si puedo hacer esto!"
+    },
+    {
+      "text": "Y así, comienza la sesión de fotos."
+    },
+    {
+      "name": "Gold City",
+      "text": "Jaja, estás aún más rígido que yo. Pensemos en\nalgo gracioso y relájate."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿A-algo gracioso?! ¡No me queda capacidad mental\npara eso!",
+      "choice_data_list": [
+        "(Esto suena como un trabajo para el maestro de las\ncaras graciosas—¡yo!)"
+      ]
+    },
+    {
+      "name": "Nature y City",
+      "text": "¡Pffft!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Jajaja! ¿Cómo haces eso?!"
+    },
+    {
+      "name": "Fotógrafa",
+      "text": "¡Increíble! ¡Esa es la sonrisa que quería ver!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Finalmente terminamos..."
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Buen trabajo! Y gracias por la ayuda. El\nfotógrafo quedó realmente impresionado.",
+      "choice_data_list": [
+        "Ustedes dos se veían increíbles."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Uh-huh, gracias. Y eres bueno con los cumplidos,\ncomo siempre."
+    },
+    {
+      "name": "Gold City",
+      "text": "Heh... Bueno, te enviaré una copia cuando la\nrevista salga. Puedes ver cómo quedó entonces."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ohhh... Esta debe ser la revista."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Espera, ¿por qué nuestra foto es tan grande?! No\nmerezco tanto espacio!",
+      "choice_data_list": [
+        "Parece que también estás de moda en línea. ¿Ves?",
+        "Parece que también estás de moda en línea. ¿Ves?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡No, no me lo muestres! No quiero ver lo que todos\nlos odiadores están—"
+    },
+    {
+      "text": "La pantalla está llena de comentarios alabando a\nGold City y las hermosas sonrisas de Nice\nNature... y deseando su éxito."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...E-eso es suficiente. Lo entiendo, lo entiendo."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "<i>Suspiro...</i> ¿Hace calor aquí o soy yo?",
+      "choice_data_list": [
+        "Brillemos también en la pista.",
+        "Brillemos también en la pista."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Sí, sí."
+    },
+    {
+      "text": "Nice Nature parece más entusiasta de lo normal en\nel entrenamiento después de eso."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Vamos, Entrenador! ¡Déjame verte hacer una pose!"
+    },
+    {
+      "text": "Y así, comienza la sesión de fotos."
+    },
+    {
+      "name": "Gold City",
+      "text": "Así que por eso eres el entrenador de Nature, ¿eh?\nTienes habilidad.",
+      "choice_data_list": [
+        "¡Oh, gracias!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Heh, ahora me tienes <i>a mí</i> motivado."
+    },
+    {
+      "name": "Fotógrafa",
+      "text": "¡Increíble! ¡Esa es la sonrisa que quería ver!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Gran trabajo, Entrenador. ¿Cómo fue tu primera\nexperiencia como modelo?",
+      "choice_data_list": [
+        "Estresante."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Oh, ¿en serio? Creo que lo hiciste bastante bien."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Y City, te luciste, como se esperaba. Es como si\nhubieras transformado todo el espacio con tu\npresencia."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Eres realmente algo más."
+    },
+    {
+      "name": "Gold City",
+      "text": "Eso es exactamente lo que iba a decirte."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Qué?!"
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Qué crees que estuvimos hablando durante la\nsesión? Eras tú, Nature. Todo el tiempo."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Um... ¿Qué quieres decir?",
+      "choice_data_list": [
+        "Simplemente terminó así..."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Qué?! ¡Todas esas sonrisas vinieron de hablar de\nmí?!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Eso es tan... vergonzoso!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Sí, puedo ver eso. Pero, oye, seguro que me\nmotivó. Estoy ansioso por competir contigo."
+    },
+    {
+      "name": "Gold City",
+      "text": "Supongo que podríamos decir que ahora tenemos un\nvínculo especial. De cualquier manera, nos vemos\nen la pista."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...¡Ugh! ¡Nooo!",
+      "choice_data_list": [
+        "¡Parece que tenemos otra carrera que ganar!",
+        "¡Parece que tenemos otra carrera que ganar!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "<i>Suspiro...</i> No tienes idea de cómo me siento..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Pero está bien, lo entiendo. Lo intentaré con\ntodas mis fuerzas e intentaré brillar a mi manera."
+    },
+    {
+      "text": "Nice Nature parece más entusiasta de lo normal en\nel entrenamiento después de eso."
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Sakura Bakushin O y yo hemos estado trabajando\nduro durante el campamento de verano de la\nAcademia Tracen, y finalmente hemos llegado al\núltimo día."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Ohhh... ¡Qué día más hermoso! Puedo sentir la\nenergía del sol llenándome!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Ahora, vamos al grano."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Como modelo de puntualidad, nunca desperdicio el\ntiempo. Ni siquiera un milisegundo."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "No puedo esperar para esta noche. ♪ Hace mucho\ntiempo que no voy a un festival. ¿Crees que\ntendrán manzanas caramelizadas?"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Deberían tener, ¿verdad? Aunque yo prefiero\nrodajas de fruta caramelizada. Puedes comértelas\nde un solo bocado."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Un festival, eh... No tenía idea.",
+      "choice_data_list": [
+        "¿Quieres ir después del entrenamiento?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Estaba a punto de sugerir lo mismo. Je, je,\nestamos en la misma longitud de onda."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Muy bien, está decidido. Vamos a un festival\ndespués de esto. ¡Que esto sea motivación extra\npara el entrenamiento de hoy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una vez que terminamos nuestro día de\nentrenamiento en la playa, Sakura Bakushin O y yo\nregresamos para prepararnos para el festival."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Charla, charla...</i>"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¿Quién...? ¿Todos van al festival? Uh... podría\nestar un poco concurrido."
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Un poco! Eso es un eufemismo... Mejor nos quedamos\njuntos. No queremos perdernos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al ver a todas las Umamusume preparándose para ir\nal festival, comienzo a ponerme nerviosa. ¿Y si\npierdo a Sakura Bakushin O en la multitud..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Disculpa por la espera, Entrenador. ¡Estoy lista\npara ir!",
+      "choice_data_list": [
+        "Antes de eso, necesito que me prometas algo."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿De acuerdo? ¿Qué es?",
+      "choice_data_list": [
+        "Haz tu mejor esfuerzo por no perderte, ¿de\nacuerdo?",
+        "Haz tu mejor esfuerzo por no perderte, ¿de\nacuerdo?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Por supuesto! Como representante de la clase, la\nseguridad siempre es mi prioridad número uno.",
+      "choice_data_list": [
+        "Si te pierdes, llámame.",
+        "Si te pierdes, llámame."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Genial! La comunicación es una herramienta\nimportante para cualquiera, pero especialmente\npara la representante de la clase. ¡Déjalo en mis\nmanos!",
+      "choice_data_list": [
+        "¿Tienes siquiera tu teléfono celular?",
+        "¿Tienes siquiera tu teléfono celular?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Sí, lo tengo en mi bolso—"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡AHHH! ¡Mi bolso! Casi me olvido de él."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "No te preocupes. ¡Voy a buscarlo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La distraída de Sakura Bakushin O <i>no me </i>inspira\nconfianza..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Uooo! ¡Mira todos estos puestos! La comida. La\ndanza del festival."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Esto me trae muchos recuerdos... Mis padres\nsiempre estaban impresionados con mis habilidades\nen los juegos de disparos y pesca."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Ohhh, esto es emocionante."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Eso es todo, vamos a visitar TODOS los puestos.\n¡Vamos a empezar por allá. Listos, ¡ya!",
+      "choice_data_list": [
+        "E-espere.",
+        "E-espere."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡BAKUSHIIIN!",
+      "choice_data_list": [
+        "No te vayas corriendo."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mis esfuerzos por detenerla son vanos, y antes de\nque me dé cuenta, desaparece en la multitud..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con el lugar del festival tan concurrido como\nestá, pronto pierdo la pista de Sakura Bakushin O\npor completo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como estaba planeado, trato de llamar a su\nteléfono celular, pero solo escucho un mensaje\nautomático que dice que no puede ser contactada...\nDebería encontrar a los organizadores y—"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡ENTREEENNAAADOOORRR!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Puedes oírme? Estoy aquí, Entrenador. ¿Dónde\nestás?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me doy la vuelta al escuchar la voz de Bakushin O.\nSolo veo más gente, pero me dirijo hacia la\ndirección de sus llamadas."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Hola, hola? Entrenador, ¡respóndeme! Trai—espera,\n¿por qué mi pantalla está negra?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Traaaiiineeerrr. ¿Dónde estás? Mi teléfono celular\nno funciona."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pantalla negra... A juzgar por el hecho de que\nno he recibido ninguna llamada, eso solo puede\nsignificar una cosa...",
+      "choice_data_list": [
+        "Enciende tu teléfono",
+        "Enciende tu teléfono"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿¡Eh?! Ah, ahora que lo mencionas, ¡está apagado!\nEspera—Entrenador"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Menos mal que me encontraste. Pensé que te había\nperdido para siempre",
+      "choice_data_list": [
+        "Así que intentaste llamarme...",
+        "Así que intentaste llamarme..."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Por supuesto que lo hice"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "La representante de la clase siempre cumple sus\npromesas"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Además, confío en ti, Entrenador. Sé que solo\ntienes mis mejores intereses en mente"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Al igual que siempre tengo en cuenta a mis\ncompañeros de clase",
+      "choice_data_list": [
+        "Me alegra que nos hayamos encontrado"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "De acuerdo"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Considerando la multitud, me preocupaba que\npodrías haber resultado herido"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Pero parece que no sucedió... ni a ti ni a mí"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Y ahora, nos hemos reunido. Y se siente tan bien"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Diría que somos una combinación ganadora si es que\nhay alguna. No puedo esperar para ver adónde vamos\nen el futuro. ¡Salud por nosotros, Entrenador.\n¡Vamos allá. Bakushin"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Apreté la mano de Sakura Bakushin O mientras suena\nla música del festival. Aún podemos mejorar y\nquiero ver qué hace esta \"combinación ganadora\"."
+    }
+  ]
+}

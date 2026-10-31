@@ -1,0 +1,183 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "En la cafetería a la hora del almuerzo..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ya veo. Así que no son solo los productos que uno\nusa los que marcan la diferencia, sino también la\nforma en que uno se lava y seca el cabello."
+    },
+    {
+      "name": "Gold City",
+      "text": "Exactamente. Cómo lo secas es especialmente\nimportante. Eso tiene un efecto enorme en tus\nopciones de peinado al día siguiente."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sabía que podía contar contigo para consejos.\nMuchas gracias por dejarme hacerte preguntas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Biwa Hayahide está charlando animadamente con Gold\nCity, aparentemente sobre el tema del cuidado del\ncabello."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Ah, Entrenador! Hola.",
+      "choice_data_list": [
+        "¿Conseguiste algunos consejos?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Así es. City aquí es una modelo profesional. Pensé\nque podría pedirle algunos consejos de cuidado del\ncabello."
+    },
+    {
+      "name": "Gold City",
+      "text": "Personalmente, no creo que necesites preocuparte\ntanto."
+    },
+    {
+      "name": "Gold City",
+      "text": "Tu cabello es súper hermoso. Tienes ondas\nnaturales muy bonitas, y―"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No, confía en mí, no entiendes."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Mi cabello está así solo porque constantemente\nestoy en guerra con él."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Si lo descuido por incluso un día, termina\nluciendo como un dragón furioso."
+    },
+    {
+      "name": "Gold City",
+      "text": "...¿Un dragón furioso, huh?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Bueno, ¿qué te parece esto? Déjame ayudarte a\nencontrar un buen estilista."
+    },
+    {
+      "name": "Gold City",
+      "text": "Ahora muchos lugares se especializan en cuidado\ndel cabello, así que seguramente haya un lugar que\nse ajuste a lo que necesitas."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Me ayudarás a encontrar un lugar? ¡Eso sería\nmaravilloso!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Vale, entonces, este lugar es cien por ciento\norgánico."
+    },
+    {
+      "name": "Gold City",
+      "text": "Usan productos de tratamiento realmente buenos.\nAdemás, está cerca, lo cual es súper conveniente."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hmm. Sí, encontrar un lugar cercano ciertamente\nsería un plus."
+    },
+    {
+      "name": "Gold City",
+      "text": "Luego está este salón, que está muy popular ahora.\nSu eslogan es: \"Un tú completamente nuevo,\ncomenzando con tu cuero cabelludo.\""
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Vaya! ¡Esa es una promesa bastante elevada!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Se supone que es increíble. ¡La limpieza del cuero\ncabelludo cambia tu cabello a un nivel\nfundamental, dicen!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿En serio? Si estás diciendo que podría domesticar\nestos rizos desordenados míos, ¡eso es algo a\nconsiderar!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Oh... Ups."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Qué pasa?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Parece que se mudaron. Al oeste, a Kansai..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Qué?!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Sí... Kansai probablemente esté un poco lejos para\nti, ¿eh?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Bueno, podría valer la pena... Si es por un yo\ncompletamente nuevo...",
+      "choice_data_list": [
+        "¡No puedes estar pensando en serio en ir a Kansai!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Gah! ¡Lo sé, lo sé! ¡Lo entiendo, vale?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Pero estamos hablando de un yo completamente\nnuevo! ¿No crees que valdría la pena el viaje?",
+      "choice_data_list": [
+        "Creo que un lugar cercano sería suficiente.",
+        "Bueno, ¿quizás podamos ir la próxima vez que\nestemos en Kansai?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sí. Supongo, hablando lógicamente, que esa es una\nevaluación razonable."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "P-pero... ¡Finalmente encontré un lugar que podría\nayudarme, así que trata de entender!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Q-quiero decir, ¡hay otros buenos salones con\ncuidado del cuero cabelludo también, sabes! Mucho\nmás cerca que Kansai."
+    },
+    {
+      "name": "Gold City",
+      "text": "Mira. Está este. ¡Y este! Estos parecen funcionar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gold City y yo invertimos un esfuerzo considerable\ntratando de persuadir a Biwa Hayahide de que no\nviaje a través del país por cuidado del cuero\ncabelludo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Ah! ¡Ni siquiera pensé en eso! Es una gran idea,\nEntrenador."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Podemos pasar la próxima vez que visitemos el\nHanshin Racecourse!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Guau. ¿En serio?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Por supuesto que soy seria! ¡Es por un yo\ncompletamente nuevo! ¡Comenzando con mi cuero\ncabelludo!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Apenas puedo esperar. ¡Le ganaré a todos en la\ncarrera, y luego también venceré a este dragón\nfurioso en mi cabeza!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Biwa Hayahide reúne tanta información como\npuede sobre el salón y el Hanshin Racecourse, en\npreparación para el \"gran día\"."
+    }
+  ]
+}

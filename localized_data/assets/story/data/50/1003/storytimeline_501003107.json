@@ -1,0 +1,156 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es principios de febrero, y el clima aún está\nheladoramente frío."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Hey! ¡Hey, Entrenador! ¡Tengo una pregunta para\nti!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Eres más de \"dulce\" o de \"amargo\"?",
+      "choice_data_list": [
+        "¿De qué estás hablando?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Vamos, solo responde la pregunta! Tengo un montón\nque repasar!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Mayano dice que los adultos usualmente prefieren\nel amargo, pero ¿qué hay de ti, Entrenador?",
+      "choice_data_list": [
+        "Amargo, supongo."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Entiendo... Está bien, siguiente pregunta."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Eres de los que prefieren la forma de corazón? ¿O\nte vale cualquier forma?",
+      "choice_data_list": [
+        "¿Esto se trata de chocolate de San Valentín?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ahhh! ¡Cómo lo descubriste?!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ay, realmente quería sorprenderte!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debe haber pensado mucho en esto. Ahora me siento\nmal..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Bueno, parece que el gato salió del saco."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Sí, voy a darte chocolates de San Valentín. Pero\nsigue respondiendo mis preguntas de todos modos,\n¿vale?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así que le digo mi tipo favorito de chocolate, los\ningredientes que me gustan, y así..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Bueno, ya tengo tus gustos todos averiguados!\nSolo tú espera, ¡voy a hacer el <i>perfecto</i> dulce\npara ti!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En poco tiempo, llega el gran día."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Es decir, el reloj literalmente acaba de marcar\nmedianoche."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Toc, toc, toc.</i>"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Feliz Día de San Valentín!",
+      "choice_data_list": [
+        "¡Ya estás aquí?!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Jeje. Mira, estaba un poco triste porque mi gran\nsorpresa se arruinó."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Pero de esta manera, ¡aún te tengo! ¡Ah, eso fue\ndivertido!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Bueno, tengo que volver a mi dormitorio ahora. Nos\nvemos mañana―¡digo, hoy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gracias al amor de Tokai Teio por las sorpresas,\ntengo la sensación de que recordaré con cariño el\nDía de San Valentín de este año durante mucho\ntiempo."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Bueno, ¡última pregunta!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Pregunté todo eso porque iba a hacerte algunos\nchocolates, pero ¿prefieres los comprados en la\ntienda?",
+      "choice_data_list": [
+        "¡Hechos en casa son los mejores!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Jeje... Está bien, ¡qué bueno saberlo! Puedes\nempezar a emocionarte ya!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, llega el Día de San Valentín..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Feliz Día de San Valentín!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Vamos! ¡Come uno ya! Los hice justo como te\ngustan!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pruebo un lindo chocolate en forma de corazón."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El sabor se extiende por mi boca. Está ligeramente\namargo, con toques de... <i>wasabi?!</i>"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Oh! ¿Ya probaste el de wasabi?!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Jajaja! ¡Estos son chocolates de ruleta rusa! ¡Te\npillé bien, ¿verdad?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "O sea, quería sorprenderte originalmente,\n¿recuerdas? El resto son normales, así que tú\npuedes relajarte. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El impacto del chocolate casero de wasabi de Tokai\nTeio dejará una impresión duradera en mi corazón."
+    }
+  ]
+}

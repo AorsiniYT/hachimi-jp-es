@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Dama del Café",
+      "text": "¡Gracias por esperar! ¡Aquí tiene! ¡El Set de\nPollo Frito Sanzoku de Resistencia Especial con\ncinco piezas extra y acompañamiento de cerdo con\njengibre!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Gracias."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Encuentro a Narita Brian en la cafetería con una\ncomida que se asemeja a algo de un desafío de\ncomida.",
+      "choice_data_list": [
+        "¡¿Qué es esa comida?!",
+        "¡¿Qué es esa comida?!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ah... Me siento un poco rara en este momento."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "He aprendido por experiencia que cada vez que\nestoy cansada, la carne es el camino a seguir."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Una vez que como carne, eso normalmente arregla\ncualquier problema."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me pregunto si esta forma salvaje de autocuidado\nrealmente la hará sentir mejor."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tal vez quiera reconsiderar su calendario de\ncarreras..."
+    }
+  ]
+}

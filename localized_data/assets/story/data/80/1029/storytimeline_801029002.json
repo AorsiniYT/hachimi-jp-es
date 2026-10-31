@@ -1,0 +1,82 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras estoy comprando suministros..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Caramba! ¡Qué casualidad encontrarte aquí!",
+      "choice_data_list": [
+        "¿Haciendo compras?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡No! Estoy visitando lugares de moda que Grass y\nlos demás me contaron!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Pero es la primera vez que estoy por aquí, así que\nestoy completamente perdida..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Traje un mapa, pero he estado caminando en\ncírculos por un rato ya...",
+      "choice_data_list": [
+        "Déjame echar un vistazo a ese mapa... Si quieres\nir aquí...",
+        "Deberías usar una aplicación de GPS.",
+        "Deberías usar una aplicación de GPS."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Traje un mapa, pero he estado caminando en\ncírculos por un rato ya...",
+      "choice_data_list": [
+        "Déjame echar un vistazo a ese mapa... Si quieres\nir aquí...",
+        "Deberías usar una aplicación de GPS.",
+        "Deberías usar una aplicación de GPS."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Miro el mapa de Yukino Bijin y le señalo el camino\nque debe tomar para llegar a su destino."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Uy! ¡He estado caminando en la dirección\nequivocada todo este tiempo! ¡Hubiera sido malo si\nseguía!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Ustedes los de la ciudad son algo más! ¡Gracias\npor señalarme la dirección correcta!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Bueno, ¡me voy ahora! ¡Hasta luego!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La vista de Yukino Bijin explorando con su mapa en\nla mano me hace darme cuenta de que caminar por la\nciudad podría ser un buen ejercicio de\nentrenamiento de resistencia."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le cuento a Yukino Bijin sobre la aplicación que\nme gusta usar."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Genial! ¿Quién sabía que existía una aplicación\ntan útil? ¡Incluso te dice cómo llegar a tu\ndestino!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡No me perderé sin importar a dónde vaya en la\nciudad si tengo esta aplicación!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Bueno, ¡me voy ahora! ¡Hasta luego!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si incorporas métodos más eficientes, puedes\nllegar a tu meta más rápidamente. Esto también\npodría ser buen consejo para las carreras."
+    }
+  ]
+}

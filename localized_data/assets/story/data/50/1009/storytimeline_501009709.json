@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Nooo! ¡Estuve tan cerca! ¡Casi lo logro!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Al menos quedé en posición... pero estuve <i>a esto</i>\nde ser número uno!",
+      "choice_data_list": [
+        "¡Aún así lo hiciste genial!",
+        "Simplemente no pudiste rematarlo.",
+        "Simplemente no pudiste rematarlo."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Al menos quedé en posición... pero estuve <i>a esto</i>\nde ser número uno!",
+      "choice_data_list": [
+        "¡Aún así lo hiciste genial!",
+        "Simplemente no pudiste rematarlo.",
+        "Simplemente no pudiste rematarlo."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡No! ¡No me importa! ¡Es primer lugar o nada!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡La próxima vez, daré una actuación de la que\npueda estar orgullosa! ¡Más te vale alabarme hasta\nel cielo, ¿me oyes?!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Tú también lo crees, eh? ¡Bueno, ahora me estoy\nmotivando!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Mi próxima carrera será perfecta en todo sentido!\n¡Ya lo verás!"
+    }
+  ]
+}

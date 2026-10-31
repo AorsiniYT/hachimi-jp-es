@@ -1,0 +1,220 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy, se lleva a cabo una conferencia de prensa\npara la primera carrera de los Clásicos—el Satsuki\nSho."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Guau! ¡Mira a todos esos reporteros! Jej, debo\nser realmente increíble, ¿eh?"
+    },
+    {
+      "name": "Reportera A",
+      "text": "Mucha gente está siguiendo tu progreso. ¿Cómo te\nsientes acerca del Satsuki Sho?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Estoy totalmente lista para ganarlo, por\nsupuesto!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Aspiro a ser la mejor corredora de todos los\ntiempos, lo que significa que primero tengo que\nser la número uno entre mis contemporáneas!"
+    },
+    {
+      "name": "Reportero B",
+      "text": "¿A quién considerarías tu mayor rival?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Rival? ¿No es obvio? ¡Es la presidenta del\nconsejo estudiantil, Symboli Rudolf!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Cuando se trata de los Clásicos, Prez es famosa\npor ser una campeona de la Triple Corona, ¿verdad?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Así que el Satsuki Sho es solo el comienzo.\n¡Necesito ganar el Derby y el Kikuka Sho también!",
+      "color_text_info_list": [
+        "Derby"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Entonces seré una campeona de la Triple Corona,\nigual que Prez!"
+    },
+    {
+      "name": "Reporteras",
+      "text": "¡Guau!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Todos los reporteros parecían bastante\nemocionados! ¡No me daba cuenta de lo importante\nque soy hoy en día!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Pero ahora mi corazón no deja de latir! ¡Los\nClásicos ya están aquí!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Dije que voy a ser campeona de la Triple Corona,\nasí que tengo que entrenar aún más duro que antes!",
+      "choice_data_list": [
+        "¡Primero, el Satsuki Sho!",
+        "¡Primero, el Satsuki Sho!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Sí! ¡Estoy en ello!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...Por cierto, tengo una idea. ¿Tienes un minuto?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Recuerdas cuando hice esa carrera en pareja con\nAir Groove? ¡Quiero incorporar más de esas en mi\nentrenamiento!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Pero solo con corredoras veteranas! ¡Cuanto más\nfuertes, mejor!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si hay una cosa que aprendí de nuestra experiencia\ncon Air Groove, es que Teio puede ganar mucho del\nentrenamiento con corredoras tan experimentadas.",
+      "choice_data_list": [
+        "Muy bien, intentémoslo."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Sabía que estarías de acuerdo!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Bien. ¡Entonces iré a buscar a algunas personas\npara correr contra!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "<i>Haa... Haa...</i> Eres muy rápida, Oguri."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Podría decir lo mismo de ti—es impresionante cómo\nmantienes el ritmo, considerando que aún estás en\ntu año de clásicos."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Jej! ¡Tú lo sabes!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Bueno, ustedes dos forman una pareja extraña. ¿Qué\ndemonios están haciendo?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ah, ¡Tamamo! ¡Justo a tiempo!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Tienes que correr contra mí también! ¡Vamos, acá!\n¡Ponte en posición de salida!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Eh? ¡Espera un segundo! ¿De qué estás hablando?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tokai Teio continúa perfeccionando sus habilidades\npara los Clásicos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy reflexionando sobre su progreso mientras la\nveo entrenar, cuando..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Teio ciertamente parece emocionada por enfrentar\nel Satsuki Sho."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ha hecho un buen trabajo mejorando sus habilidades\ndesde su debut.",
+      "choice_data_list": [
+        "Su talento es innegable."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Sí... Está muy lejos de cuando se olvidó de sí\nmisma y solo estaba obsesionada con un anhelo\nciego."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Donde antes era solo una espectadora aplaudiendo,\nahora ha bajado a la hierba, persiguiéndome."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Y dice que también planea convertirse en una\ncampeona de la Triple Corona. Jej... Realmente ha\nllegado muy lejos.",
+      "choice_data_list": [
+        "La tienes en la mira.",
+        "La tienes en la mira."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Supongo que sí..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Desde hace tiempo me he propuesto crear un mundo\ndonde todas las Umamusume puedan alcanzar la\nverdadera felicidad."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Al principio, vigilaba por preocupación de que\nella pudiera elegir vivir a mi sombra, en lugar de\nperseguir la verdadera cima que todos los\ncorredores deberían buscar."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Pero ahora...",
+      "choice_data_list": [
+        "¿Ahora?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "\"¡Voy a convertirme en el rey de reyes, una\nMonarca que supere incluso al todopoderoso\nEmperador!\"",
+      "color_text_info_list": [
+        "Emperador"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Cuando Teio me proclamó eso—cuando vi esa\nferocidad ardiente en sus ojos—una llama se\nencendió en mi propio corazón."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Una llama que arde fuerte incluso ahora."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Como el Emperador, deseo su felicidad. Pero bajo\nel velo... en el fondo..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Quizás he estado esperando... por alguien como\nTeio.",
+      "choice_data_list": [
+        "Me aseguraré de que te supere.",
+        "Me aseguraré de que te supere."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Jaja... Bueno, ten por seguro que pondré bastante\npelea."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Symboli Rudolf espera en la cima más alta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Sin embargo, Tokai Teio atravesará los Clásicos y\nla seguirá no importa qué haya adelante!"
+    }
+  ]
+}

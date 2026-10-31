@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Haru Urara",
+      "text": "¡Buenos días, Entrenador! Y con eso..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Hora de dormir! ¡Buenas noches!",
+      "choice_data_list": [
+        "¿Ya te vas a dormir?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Ugh, tengo muchíííísimo sueño. Estudié con Rice\npara el examen durante mi descanso."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Me memoriqué tres páginas completas! Pero ahora\nme duele la cabeza."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "<i>Bostezo...</i> Buenas noches... <i>Ronquido...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Haru Urara necesita un descanso\nadecuado."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Taishin",
+      "text": "...Uf.",
+      "choice_data_list": [
+        "¡Eso fue genial, Taishin! Debes estar cansada."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ni lo digas. Demonios, este no es el momento para\nestar cansada."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Esto es solo el comienzo."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Vamos, vámonos."
+    },
+    {
+      "text": "Su actitud fría nunca vacila, pero puedo decir que\nsu zancada es mucho más confiada que antes de la\ncarrera."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Entonces, sobre mi próxima carrera...",
+      "choice_data_list": [
+        "¿Ya estás pensando en la próxima carrera?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Tienes un problema con eso, o estás buscando que\nte pateen de nuevo?",
+      "choice_data_list": [
+        "No, no realmente..."
+      ]
+    },
+    {
+      "text": "Todavía me duele la que me dio antes de la\ncarrera, y sacudo la cabeza apresuradamente."
+    },
+    {
+      "text": "Si ella hubiera sido seria, estoy segura de que\npodría haberme mandado al hospital, así que\nsupongo que debió de estar conteniéndose..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "De cualquier manera, sobre mi próxima carrera... O\nbueno, supongo que esto es más sobre mis planes\nfuturos."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Quiero enfrentar la Triple Corona Clásica.",
+      "choice_data_list": [
+        "...!"
+      ],
+      "color_text_info_list": [
+        "Clásica"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Si voy a demostrarles a todos mis odiadores, no\npuedo correr cualquier carrera."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Mi única opción es ganar el Satsuki Sho, el Derby\nJaponés y el Kikuka Sho, donde solo los mejores se\nreúnen para competir.",
+      "color_text_info_list": [
+        "Satsuki Sho",
+        "Derby Japonés"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Las ganaré y haré que todos se traguen sus\npalabras.",
+      "choice_data_list": [
+        "Muy bien, ¡hagámoslo!",
+        "Muy bien, ¡hagámoslo!"
+      ]
+    },
+    {
+      "text": "Sin embargo, el Satsuki Sho todavía está lejos.\nSería mejor inscribirla en algunas carreras junior\npara que gane más experiencia.",
+      "color_text_info_list": [
+        "junior"
+      ]
+    },
+    {
+      "text": "Con ese fin...",
+      "choice_data_list": [
+        "¿Qué te parece correr primero el Hopeful Stakes?",
+        "¿Qué te parece correr primero el Hopeful Stakes?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Esa no es una carrera G1 junior?",
+      "color_text_info_list": [
+        "G1"
+      ]
+    },
+    {
+      "text": "Al igual que el Satsuki Sho, el Hopeful Stakes es\nuna carrera de 2,000 metros celebrada en el\nHipódromo Nakayama.",
+      "color_text_info_list": [
+        "Hopeful Stakes"
+      ]
+    },
+    {
+      "text": "Le digo que sería una buena oportunidad para tener\nuna idea de cómo será la carrera real."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Entendido. Entonces hagámoslo."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Y si la corro, entonces la ganaré.",
+      "choice_data_list": [
+        "¡Sí!",
+        "¡Sí!"
+      ]
+    },
+    {
+      "text": "Con eso, ponemos nuestra mirada en el Hopeful\nStakes!"
+    }
+  ]
+}

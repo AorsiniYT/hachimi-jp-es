@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Maruzensky",
+      "text": "Ay... ay... <i>Bostezo...</i>",
+      "choice_data_list": [
+        "¿Tienes sueño?",
+        "¿Tienes sueño?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Je, je, un poco... Tuve una noche larga ayer."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Fui a una tienda que tiene todo tipo de cosas\ngeniales y compré una bola de discoteca para mi\ncasa."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "No es de extrañar que desarrollara un caso grave\nde fiebre de discoteca y terminara bailando toda\nla noche..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Uuugh... Estoy tan dormido..."
+    }
+  ]
+}

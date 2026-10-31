@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ugh! ¡Aquí todavía está brillante y soleado,\nentonces por qué?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Entro en la sala de entrenamiento para encontrar a\nuna El Condor Pasa con cara de irritada."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Escucha esto, Entrenador!",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Aquí estaba pensando que mi papá iba a felicitarme\npor bajar mi tiempo de vuelta..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Pero se quedó dormido por la diferencia horaria!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Estúpida diferencia horaria... Debería darle un\nsúplex alemán!"
+    }
+  ]
+}

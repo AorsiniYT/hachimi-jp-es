@@ -1,0 +1,68 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gold City",
+      "text": "¡Ahhh! No puedo creer que perdí!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Los dejé que me alcanzaran y no pude contraatacar.\nLa diferencia solo se hizo más y más amplia...",
+      "choice_data_list": [
+        "Así es, ¡desahógate!",
+        "La próxima vez, los dejarás atrás."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Esto es realmente lo peor! ¡Esa última parte no\ndeja de repetirse en mi cabeza!",
+      "choice_data_list": [
+        "Aunque ahora te ves bien.",
+        "Aunque ahora te ves bien."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Eh? ¿Te estás burlando de mí?",
+      "choice_data_list": [
+        "Pareces alguien ansioso por la victoria.",
+        "Pareces alguien ansioso por la victoria."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...!"
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Obviamente! ¡No voy a perder nunca más!"
+    },
+    {
+      "name": "Gold City",
+      "text": "¡No quiero que nadie me pase de nuevo!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Los dejaré a todos en el polvo. ¡Nadie se\ninterpone en mi carrera!",
+      "choice_data_list": [
+        "Entonces tienes que convertirte en una ganadora."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Alguien habla muy grande. ¿De verdad eres tan\nsegura?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Entonces más te vale asumir también la mitad de la\nresponsabilidad. ¡Adelante y <i>haz</i> de mí una\nganadora!"
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es campamento de verano. Quiero usar esta\noportunidad para preparar a Agnes Tachyon para su\npróximo G1—el Kikuka Sho."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero de alguna manera, me encuentro haciendo\nentrenamientos a su petición en su lugar."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "141, 142... ¡Casi llegas! ¡Pon más empeño,\nconejillo de indias!",
+      "choice_data_list": [
+        "(¿Por qué... yo?!)",
+        "(¿Por qué... yo?!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de ser campamento de verano, estoy sujeto\na su experimentación desde el amanecer hasta el\nanochecer, como siempre."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...149, y 150. ¡Bien, alto! Ahora déjame medir tus\nniveles de secreción de endorfinas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En ese momento, varios periodistas vienen\ncorriendo."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¿Eres Agnes Tachyon, correcto?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...Eso es correcto. Lo siento, pero ¿puedes volver\nmás tarde? Estoy en medio de un experimento ahora\nmismo..."
+    },
+    {
+      "name": "Reportero B",
+      "text": "¿Puedes contarme más sobre por qué no te\ninscribiste en el Gekkei Hai?",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Justo antes de que comenzara el campamento de\nverano, Agnes Tachyon decidió retirarse del Gekkei\nHai."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Originalmente una carrera especial destinada a\nestimular la emoción dentro de la comunidad\nhípica, la noticia se propagó como pólvora."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incluso hubo voces criticando su falta de\ncompromiso."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Vaya. Sabía que vi algunos rostros desconocidos\ncolarse en el campamento de verano...",
+      "choice_data_list": [
+        "Necesitas pasar por la academia primero si quieres\ntener una entrevista."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me abro paso entre la multitud de periodistas,\npero encuentro los micrófonos que antes apuntaban\na ella de repente todos apuntándome a mí."
+    },
+    {
+      "name": "Reportera A",
+      "text": "Como su entrenador, ¿entiendes los problemas\ncausados por la cancelación repentina de tu\ncorredora?"
+    },
+    {
+      "name": "Reportero B",
+      "text": "Aunque es estudiante de la Academia Tracen, ha\nhabido rumores que afirman que le faltaba\nmotivación incluso para su carrera debut.",
+      "choice_data_list": [
+        "Como acabo de decir, tendrán que hacer una\nsolicitud formal para poder realizar una\nentrevista..."
+      ],
+      "color_text_info_list": [
+        "Academia Tracen"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Están mucho más cerca de un conejillo de indias\nque de un entrenador real. Por lo tanto, sería\nmucho más constructivo si dirigieran sus preguntas\na mí.",
+      "choice_data_list": [
+        "(¡Tachyon!)"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Están mucho más cerca de un conejillo de indias\nque de un entrenador real. Por lo tanto, sería\nmucho más constructivo si dirigieran sus preguntas\na mí.",
+      "choice_data_list": [
+        "(¡Tachyon!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una vez más, los micrófonos rodean a Agnes\nTachyon."
+    },
+    {
+      "name": "Reportera A",
+      "text": "Entonces, como una Umamusume muy talentosa,\n¿cuáles son tus pensamientos sobre el futuro del\nmundo Umamusume y tus responsabilidades hacia él?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "A diferencia de la presidenta del consejo\nestudiantil, soy terrenal."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Sin embargo, si esa es tu pregunta, entonces\npermíteme hacer otra."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Supongamos que lograron obtener una respuesta de\nmí. ¿Realmente mi respuesta contribuiría al futuro\nde Umamusume? ¿Pueden explicarme la importancia\ndel tiempo dedicado a esto?"
+    },
+    {
+      "name": "Reportera A",
+      "text": "...!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No soporto un uso tan trivial del tiempo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agnes Tachyon se aleja de los periodistas que se\nencogen."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Deberíamos irnos, conejillo de indias? Parece que\nhoy no es un día apto para experimentación."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Tch!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No puedo evitar sentir una inquietud persistente\nante la frustración visible de los periodistas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "\"Problemática en la Comunidad Umamusume, Agnes\nTachyon. Je, je, je, ¡qué provocación tan\ndivertida!\""
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "\"Renunciando al entrenamiento de campamento de\nverano para experimentar, esta Umamusume usa a su\nentrenador, a quien llama 'conejillo de indias',\ncomo sujeto de sus crueles pruebas científicas...\""
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "\"Con una perspectiva de indiferencia y apatía\nhacia el futuro de Umamusume...\""
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Esto es increíble! Su malicia es aparente, pero\nno fabricaron una sola palabra."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella parece estar de buen humor, pero si esta\nsituación continúa, su carrera profesional podría\nverse negativamente afectada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para colmo, ni siquiera he escuchado su razón para\nretirarse del Gekkei Hai."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Hmm? ¿Pasa algo, Entrenador? ¿Por qué esa cara\nlarga?",
+      "choice_data_list": [
+        "¿Por qué te retiraste de la carrera?",
+        "¿Por qué te retiraste de la carrera?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Oh? ¿Todavía tienes curiosidad sobre eso?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ahora que lo pienso, realmente no sabes por qué,\n¿verdad? Supongo que eso obstaculiza tus deberes\ncomo mi entrenador."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Desafortunadamente, hay circunstancias inevitables\nque me impiden contarte más."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como se esperaba, no tiene intención de compartir\nsus razones."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero como está, no podré protegerla cuando llegue\nel momento.",
+      "choice_data_list": [
+        "Estoy preocupado por ti.",
+        "Estoy preocupado por ti."
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Preocupado, dices. Hmm... Tienes razón, <i>sí</i> eres\nbastante preocupón."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hm... Permíteme predecir esto diciendo que este\nocultamiento de información es una decisión\nconsciente."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Me retiré del Gekkei Hai por una buena razón."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras me dice esto, me mira directamente a los\nojos. Su tono es suave pero su expresión es\ninusualmente honesta."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Si todo sale bien, tendremos una buena\nconversación larga sobre ello. Te lo prometo.",
+      "choice_data_list": [
+        "(Hay tantas cosas de las que no sé nada...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Contrario a lo que afirmaba el artículo, sé que\nella no es indiferente. Tiene algún tipo de plan\nen mente, estoy segura.",
+      "choice_data_list": [
+        "(Creo en ella.)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Asiento en silencio en acuerdo, a lo que ella\nresponde con una pequeña sonrisa de alivio."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Mhm, gracias."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Muy bien. Con eso fuera del camino, ¡vamos a la\nplaya! Cielos azules agradables y no demasiado\ncalor—es el día perfecto para realizar\nexperimentos!",
+      "choice_data_list": [
+        "¿¡Más experimentos?!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Ja, ja, ja! ¡No seas tímido! Con suerte,\nlograremos terminar para el final del día!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Para decirte la verdad, ¡el Plan A finalmente ha\npasado a la fase de prueba de hipótesis!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Te dejaré elegir por hoy! ¿Te gustaría hacer\nentrenamiento de fuerza o correr en la playa?",
+      "choice_data_list": [
+        "Entrenamiento de fuerza, por favor.",
+        "Correr en la playa, por favor."
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Excelente elección! En ese caso, cuenta las\nrepeticiones para mí, ¿quieres?",
+      "choice_data_list": [
+        "¡Espera, <i>eres tú</i> quien lo hace?!",
+        "¡Espera, <i>eres tú</i> quien lo hace?!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Je, je, por supuesto. Todavía estás fuera de\nservicio por las pruebas anteriores."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Para verificar la hipótesis del Plan A, se\nrequerirá mi propio cuerpo."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Tienes el contador en mano? ¡Entonces empecemos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por primera vez en un tiempo, paso el día\nvigilando su entrenamiento."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "<i>Haa... Haa...</i> Je, je, je, je!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Sí! ¡Se sintió genial! ¡Casi ningún problema!\n¡Por fin, éxito!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de superar su meta original, su cuerpo\ncede sobre la arena."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...¡Éxito!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Miro a Agnes Tachyon y veo una sonrisa\ndeslumbrante en su rostro."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Bien. Estaré corriendo vueltas alrededor de la\nplaya, así ¡registra mis tiempos!",
+      "choice_data_list": [
+        "¡Espera, <i>eres tú</i> quien lo hace?!",
+        "¡Espera, <i>eres tú</i> quien lo hace?!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Por supuesto. Todavía estás fuera de servicio por\nlas pruebas anteriores."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Para verificar la hipótesis del Plan A, se\nrequerirá mi propio cuerpo."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Tienes el cronómetro en mano? ¡Entonces\nempecemos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin perder un segundo, ella sale corriendo. El\nhorizonte rápidamente engulle su figura."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Ahaha, jajajaja! ¡Sí! ¡Está al alcance, por fin!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras regresa, sus ojos están en llamas con\nexcitación. No la he visto tan entusiasmada en un\ntiempo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella recupera el aliento mientras su cuerpo cede y\ncae sobre la arena."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...¡Éxito!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Miro a Agnes Tachyon y la veo sonriendo de oreja a\noreja."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, ella anuncia formalmente su plan\nde correr en el Kikuka Sho."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La crítica acalorada dirigida a su actitud frívola\nciertamente no es para tomarlo a la ligera,\npero..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hmm... Realmente no hubo declaraciones falsas en\nlos artículos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como pensé, ella no está prestando atención a los\nescépticos."
+    }
+  ]
+}

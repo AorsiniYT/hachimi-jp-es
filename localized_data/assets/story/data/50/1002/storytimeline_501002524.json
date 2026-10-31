@@ -1,0 +1,81 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, durante una reunión..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...",
+      "choice_data_list": [
+        "¿Algo te llamó la atención?",
+        "¿Algo te llamó la atención?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No, es solo...Hay tan pocas nubes en el cielo hoy."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Se ve tan bonito."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Eh, ¿podríamos continuar nuestra reunión esta\nnoche?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin darme un segundo para responder, Silence\nSuzuka sale corriendo por la puerta."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>Haa... Resuello...</i>"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Entrenador, escucha!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Estaba mirando al cielo mientras corría, y cuando\nel sol empezó a ponerse..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Todo el cielo se volvió de un rojo profundo.\nLuego, de repente, pude ver las estrellas y la\nluna..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Fue tan maravilloso. Jejeje."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Retomamos nuestra reunión donde la dejamos, aunque\nSilence Suzuka parece estar de mucho mejor humor."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "He vuelto. <i>Suspiro...</i>",
+      "choice_data_list": [
+        "¿Pasa algo?",
+        "¿Pasa algo?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No, es solo..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Se nubló tan pronto como empecé a correr. No pude\nver el sol en absoluto."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Era mucho más bonito cuando salí. Ojalá hubiera\nsalido antes..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Está claro que Silence Suzuka está decaída, así\nque decido posponer el resto de nuestra reunión\nhasta mañana."
+    }
+  ]
+}

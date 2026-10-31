@@ -1,0 +1,83 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Oguri Cap me ha pedido que visite un santuario con\nella.",
+      "choice_data_list": [
+        "¿Por qué quisiste venir a un santuario?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Me he sentido un poco lenta últimamente."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sigo cometiendo pequeños errores en todo lo que\nhago. Simplemente no me siento yo misma..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Masa siempre decía: 'En tiempos difíciles, pide\nayuda a lo divino.'"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Y como era de esperar, rezar en el santuario de la\npista de carreras de mi pueblo pareció funcionar.\nIncluso me ayudó a ganar una carrera o dos."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Por eso he decidido pedir ayuda a los dioses.",
+      "choice_data_list": [
+        "Rezaré contigo."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Lo harás? Gracias. Realmente lo aprecio."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Oguri Cap y yo rezamos juntos."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "También dejé una ofrenda, así que espero que\nnuestras oraciones sean escuchadas..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...¿Hm? Hay algo en mi bolsillo."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡No puede ser! ¡Es un cupón para una porción extra\ngratis de ramen! ¡Los dioses sí que escuchan\nrápido!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Creo que me están diciendo que me atiborre de\nramen para recargar energías!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Ya me siento mejor. Muy bien, ¡vamos a comer\nramen!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Armada con la respuesta a sus oraciones, Oguri Cap\nsalta feliz por el camino mientras nos dirigimos a\ndisfrutar de un buen ramen."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "E-eh... ¡Espera un momento!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Este cupón ya caducó..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "No puedo creer que haya dejado que un cupón tan\nbueno se perdiera... <i>Suspiro.</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esto no parece una buena señal de lo que vendrá..."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Matikanefukukitaru",
+      "text": "<i>¡Haa!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al dirigirme al entrenamiento, veo a\nMatikanefukukitaru parada muy quieta, con una\nexpresión horrorizada en su rostro.",
+      "choice_data_list": [
+        "Oye, ¿qué pasa?",
+        "Oye, ¿qué pasa?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Toda la zona está inundada por una alfombra de\nverde-amarillo. ¡Oh, ¿qué <i>hago,</i> entrenador?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡De ninguna manera puedo correr hoy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La calmo para que pueda explicar qué la tiene tan\nagitada."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Mi color de la mala suerte hoy es el\namarillo-verde, ¿sabes?..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Lo que significa que toda la hierba a nuestro\nalrededor va a traerme mala suerte!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Acabaré maldiciéndome para siempre si corro en la\npista ahora mismo! ¡Gah! ¡Ni siquiera quiero\npensar en eso! ¡Correr simplemente no es una\nopción hoy!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Lo siento, pero ¡me tomo el día libre!",
+      "choice_data_list": [
+        "¡E-espera un momento!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No quiero invalidar sus creencias, pero parece\nexcesivo dejar que se salte un día completo de\nentrenamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le pregunto si hay algo que podamos hacer para que\npueda entrenar sin preocuparse por su color de la\nmala suerte."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Hmm... Pregunta interesante. Tomar el asunto en\nnuestras propias manos es ciertamente un enfoque\nnovedoso..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Aún así, no es como si pudiéramos teñir la hierba\nde otro color..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "A menos que..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Lo tengo! ¡Espera aquí, Entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de un momento, vuelve corriendo... con un\npar de gafas de sol."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Encontré una solución! Si me las pongo, los\ntemidos matices amarillo-verdes a nuestro\nalrededor se verán como un marrón apagado e\ninofensivo!",
+      "choice_data_list": [
+        "(¿Realmente es tan simple?)"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Lo probaré ahora mismo!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Oh! ¡Tenía razón! ¡Ahora todo es marrón! ¡Hurra!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "De hecho, ¡los terrenos de entrenamiento se\nsienten aún más místicos bañados en tonos sepia!\n¡Oh, qué maravilloso!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Supongo que a veces vale la pena pensar fuera de\nlo común!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Ahora no tendré que preocuparme por encontrarme\ncon nada amarillo-verde! ¡Ah, qué día tan\nbendecido!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gracias a sus gafas de sol, Matikanefukukitaru\nestá llena de energía durante toda la sesión de\nentrenamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su entusiasmo brillante también pone de buen humor\na los demás, y lo pasan bien en el entrenamiento."
+    }
+  ]
+}

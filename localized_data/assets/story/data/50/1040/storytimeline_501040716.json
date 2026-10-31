@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Antes del entrenamiento, Gold City está teniendo\nuna entrevista para una revista."
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Qué me gusta? Bueno, recientemente comencé a\npracticar yoga. Conozco a una buena profesora."
+    },
+    {
+      "name": "Reportera A",
+      "text": "Ya veo. Justo como se esperaba, ¡eres consciente\nde mantener tu físico!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Um... Es más para relajación y fortalecer mi\nnúcleo."
+    },
+    {
+      "name": "Reportera A",
+      "text": "Oh, por supuesto. Con la cantidad de entrenamiento\nque haces, ¡seguro que no tienes problemas para\nmantenerte en forma!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Jaja... Supongo que tienes razón."
+    },
+    {
+      "name": "Gold City",
+      "text": "Eso estuvo muy cerca. Hubiera estado acabada si le\ndecía que el yoga era para complementar mi dieta.",
+      "choice_data_list": [
+        "¿Estás a dieta?",
+        "¿Estás a dieta?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "<i>¡Haa!</i> ¡Entrenador?! ¿Estabas escuchando?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Bueno, ya sabes... cuando estoy con gente como\nJordan, tiendo a comer un poco de más."
+    },
+    {
+      "name": "Gold City",
+      "text": "Ugh, esto es vergonzoso. Pronto habré alcanzado mi\nmeta, así que ¡no le digas a nadie sobre la dieta!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más tarde, y quizás gracias a los beneficios de\nhacer yoga, Gold City recupera su físico habitual."
+    }
+  ]
+}

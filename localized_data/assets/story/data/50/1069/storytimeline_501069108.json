@@ -1,0 +1,274 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El Spring Fan Fest ha llegado, y acérrimos\naficionados de todas partes han acudido a la\nAcademia Tracen para vislumbrar a las Umamusume\nactivas de este año."
+    },
+    {
+      "name": "Anfitriona Umamusume",
+      "text": "¡La ronda final del 34º gran prix anual de comer\nrápido está en marcha! ¡Nuestro último alimento\npara el concurso es el taiyaki!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Disculpe..."
+    },
+    {
+      "name": "Anfitriona Umamusume",
+      "text": "Oh, ¡es Oguri Cap! Su presencia es tan abrumadora\ncomo siempre—¿podría estar indicando que ya\nterminó su porción?!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Me he quedado sin té. ¿Sabes dónde podría\nconseguir más?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Este postre está delicioso, sería una lástima no\ndisfrutarlo con té caliente..."
+    },
+    {
+      "name": "Anfitriona Umamusume",
+      "text": "¡Y Oguri Cap se ha ido! ¿No entiende cuál es el\nobjetivo del concurso?!"
+    },
+    {
+      "name": "Anfitriona Umamusume",
+      "text": "¡El primer puesto está a la vista para Super\nCreek! ...Pero espere! ¡Otra Umamusume está\navanzando hacia el primer puesto!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Vamos, no es momento de rendirse!"
+    },
+    {
+      "name": "Anfitriona Umamusume",
+      "text": "¡Y la victoria es para Inari One! ¡El estómago de\nhierro de Oguri finalmente encontró su rival!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Ngh... Heh... Testigo el poder... de Edo..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Inari, quédate con nosotros! Es Mamá. ¿Puedes\noírme?!"
+    },
+    {
+      "name": "Inari One",
+      "text": "...No. No eres mi mamá..."
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Fue un buen concurso! ¡Nunca pensé que Oguri Cap\nperdería!"
+    },
+    {
+      "name": "Fan B",
+      "text": "¡Jaja! ¡Sí! ¡Esa Inari es bastante fuerte—escuché\nque también correrá en el Takarazuka Kinen! ¡Ay!\n¡Oye, me estás pisando el pie!",
+      "color_text_info_list": [
+        "Takarazuka Kinen"
+      ]
+    },
+    {
+      "name": "Fan C",
+      "text": "¡Ack! ¡Lo siento! ¿Te lastimé?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "E-este lugar está lleno! ¡No puedo creer lo\npopulares que son las Tres Mejores!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"Las Tres Mejores\"—Oguri Cap, Inari One y Super\nCreek."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hábiles y poderosas, no es de extrañar que sean\npopulares, tanto aquí en el Fan Fest como en\ngeneral."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Quizás la glotonería es el secreto de su fuerza...",
+      "choice_data_list": [
+        "¿Qué clase de razonamiento es ese?",
+        "¿Qué clase de razonamiento es ese?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Bueno, ¡ya sabes lo que dicen! ¡El hambre no\nespera a nadie! ¡Quizás haya otro concurso que aún\nbusca participantes!"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "¡Regístrese aquí para el Concurso de Comer del\nEntrenador y Yo!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Eso es perfecto!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Guau... Veo... Esto seguro es mucho..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En la mesa frente a nosotros hay una montaña de\nperros calientes."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡El récord actual es quince! ¡Y ofrecemos un coche\nen miniatura de edición especial de la Academia\nTracen a cualquiera que pueda superarlo!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Ooh... Ese es un buen premio..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sorprendida por el interés inusual de Sakura\nChiyono O, me preparo para empezar a comer perros\ncalientes.",
+      "choice_data_list": [
+        "Si solo son quince, supongo que podríamos superar\nel récord..."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Suena como un plan! ¡Aimemos a dieciséis platos\nde perros calientes entonces!",
+      "choice_data_list": [
+        "¡Dieciséis <i>platos?!</i>"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Sí. Cuentan el número de platos después de que\nterminas, y cada plato tiene diez perros\ncalientes."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Si queremos superar el récord, necesitaremos comer\nmás de quince platos... ¡Así que tenemos que\napuntar a 160 perros calientes!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Probablemente pueda comer unos 150 perros\ncalientes de este tamaño, así que tú solo\nnecesitas comer diez, ¡por favor y gracias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El gong de inicio suena..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "<i>¡Ñam! ¡Crunch!</i>"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Ngh...! Mmm... ¡Urgh...!",
+      "choice_data_list": [
+        "(...¿Mmm?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Miro a mi lado y veo que Sakura Chiyono O se ha\ndetenido. Está mirando fijamente los platos con\nuna expresión tensa.",
+      "choice_data_list": [
+        "¿Chiyono O? ¿Estás bien?",
+        "¿Chiyono O? ¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Oh. Jaja... Estoy bien... Solo... cuarenta perros\ncalientes... para llevar...",
+      "choice_data_list": [
+        "No te ves muy bien..."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "P-puedo hacerlo... Después de todo... normalmente\ncomo... mucho más que esto..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Urgh!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Uf. ¿Ves? Estoy perfectamente... bien...",
+      "choice_data_list": [
+        "¡Estoy bastante seguro de que no!",
+        "¡Estoy bastante seguro de que no!"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Jeh. Jeje... Urk...",
+      "choice_data_list": [
+        "¡Disculpe! ¡Nos rendimos!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No veo otra opción que rendirme. Le impido a\nSakura Chiyono O comer más y la llevo rápidamente\na la enfermería."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El gong de inicio suena..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "<i>¡Ñam! ¡Crunch!</i>"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Uf! ¡Dejaré el resto para ti, Entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con una expresión satisfecha en su rostro, Sakura\nChiyono O me da los perros calientes restantes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "He logrado comer ocho perros calientes yo mismo\nhasta ahora, lo que significa que solo quedan...",
+      "choice_data_list": [
+        "¿¡Por qué aún quedan doce?!"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Jeje..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "L-lo siento! Estoy tan llena... Normalmente como\nmucho más que esto..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Urgh..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Juzgando por la expresión en el rostro de Sakura\nChiyono O, ya ha superado su límite. Y si ese es\nel caso, solo hay una cosa que puedo hacer...",
+      "choice_data_list": [
+        "¡Yo me encargo!",
+        "¡Yo me encargo!"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Vamos, Entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Animada por el entusiasta ánimo de Sakura Chiyono\nO, logro de alguna manera seguir metiendo perros\ncalientes en mi boca."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y finalmente..."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Y así es, gente! ¡Sakura Chiyono O y su\nentrenador han roto el récord! ¡Aquí está su\npremio!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Guau! ¡Muchas gracias! ¡Ay, es un sedancito!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de ver la sonrisa en el rostro de Sakura\nChiyono O, me desmayo de inmediato."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Oh my god! ¡Entrenador?! ¡Entrenador!"
+    }
+  ]
+}

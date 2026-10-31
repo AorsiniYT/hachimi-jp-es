@@ -1,0 +1,291 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "A medida que Oguri Cap participa en más y más\ncarreras, su base de fans continúa creciendo—y esa\nno es la única tipo de atención que está\natrayendo."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Ya veo. Entrevistas, ¿eh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los recientes logros de Oguri Cap parecen haber\ncaptado la atención de los reporteros—muchos de\nlos cuales han solicitado una entrevista con la\nprometedora Umamusume."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esta es una oportunidad para aumentar su\npopularidad, así que no puedo arriesgarme a\ndejarla escapar."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Ha pasado un tiempo desde que me entrevistaron.\nLos reporteros siempre solían hablarme después de\nmis carreras en mi pueblo.",
+      "choice_data_list": [
+        "Debes ser toda una profesional, entonces."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Ojalá. Sabes que no soy muy buena hablando.",
+      "choice_data_list": [
+        "Siempre puedes rechazar las entrevistas."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si esto es algo con lo que ella lucha, no hay\nnecesidad de que se esfuerce. Pero cuando digo\nalgo así...."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "No. Quiero hablar con ellos."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Si aprendo a expresarme mejor, la gente podría\nempezar a tomarme más en serio."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Esto se siente como un momento crucial para mí,\nasí que... sí, quiero hacer las entrevistas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No puedo evitar sentirme preocupado viendo a Oguri\nCap tan ansiosa. Pero dado que también está\nclaramente determinada, aceptamos todas las\nentrevistas."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Oguri Cap! ¿Puedes resumir cómo te sientes sobre\nesta carrera en unas breves palabras?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Uhhh... Voy a... ser la mejor corredora que hay."
+    },
+    {
+      "name": "Reportera A",
+      "text": "...Bueno, eso concluye la entrevista de hoy.\nGracias mucho."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Gracias a ti. <i>...Suspiro.</i>",
+      "choice_data_list": [
+        "¿Quieres tomar un descanso?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "No, solo estoy un poco cansada. No estoy\nacostumbrada a hablar tanto. Puedes llamar al\nsiguiente reportero."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dado que tiene tiempo de sobra, Oguri Cap se\nenfrenta a entrevista tras entrevista. Puedo decir\nque ella está cansada, pero lo ha hecho genial\nhasta ahora."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las entrevistas la agotan, pero confío en que\npodrá terminarlas sin problemas. Apenas lo pienso,\n..."
+    },
+    {
+      "name": "Reportero B",
+      "text": "...Hola. Eres Oguri Cap, ¿verdad? Soy de Racer\nTimes.",
+      "choice_data_list": [
+        "Por aquí, por favor."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Mucho gusto."
+    },
+    {
+      "name": "Reportero B",
+      "text": "Hm, veamos... Entonces he escuchado por ahí que\nlos residentes de tu pueblo natal son una fuente\nde inspiración para ti."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Uhh, sí. Yo... quiero que la gente de mi pueblo\nvea cuán duro trabajo."
+    },
+    {
+      "name": "Reportero B",
+      "text": "...Entonces, ¿cuál es tu objetivo final? ¿Qué tipo\nde carrera quieres correr?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Umm... Bueno... Yo..."
+    },
+    {
+      "name": "Reportero B",
+      "text": "...Ya, ya veo. Vamos a terminar aquí."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿R-realmente? ¿Estás seguro?"
+    },
+    {
+      "name": "Reportero B",
+      "text": "Sí, creo que he escuchado más que suficiente.\nPuedo ver que no eres una persona muy motivada."
+    },
+    {
+      "name": "Reportero B",
+      "text": "Déjame darte un consejo. Necesitarás más que solo\ntrabajo duro si quieres tener alguna oportunidad\nde salir en la cima en las carreras centrales."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "<i>Suspiro.</i>",
+      "choice_data_list": [
+        "¿Aguantando?",
+        "¿Aguantando?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí, estoy bien. No estoy molesta ni nada. Es\nsolo..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Oye, vi eso! ¿Qué diablos está pasando?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...¿Tama?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es Tamamo Cross, la compañera de cuarto de Oguri\nCap. Escucho que son realmente buenas amigas."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Ese reportero de allá era un tipo desagradable,\n¿eh? ¡Hablando de dar consejos no solicitados!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Supongo que no soné lo suficientemente\ncomprometida."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Vaya, Oguri, ¡ponte en marcha! ¿Realmente vas a\ndejar que la gente te hable así?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Que te subestimen es lo peor! Te pone realmente\nfurioso, ¿verdad? ¡Apuesto a que estás ansioso por\ndemostrar que se equivocan!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Ugh!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Qué diablos? ¿Te quedaste sin palabras? ¡Ser una\nbuena chica no te va a dar el crédito que te\nmereces!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Necesitas ser fiel a ti misma y seguir ganando!\nEsa es la única forma en que puedes hacer que la\ngente te vea por quien eres."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Ese es el secreto de mi éxito también!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tamamo Cross logró debutar incluso antes que Oguri\nCap. Ella debe haber pasado por su propia cuota\njusta de pruebas y tribulaciones para hacerlo."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Ugh..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Eres bastante mala para hablar desde el principio,\ny cuando intentas sonar bien, ¡es aún peor!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Entonces, ¿por qué molestarse? ¡Solo cierra la\nboca y entrena en su lugar! De todos modos, nos\nvemos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso, Tamamo Cross se va tan rápido como\napareció."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Tama tiene razón. Parte de mí intentaba mucho\ndecir lo correcto."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pero esa no es la forma de expresar mis\nsentimientos. Ese reportero probablemente ya se\nhartó."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Entrenador, hay algo que quiero que hagas por\nmí. ¿Me escucharás?",
+      "choice_data_list": [
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Gracias. Bueno..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Oguri Cap me pide que invite a todos los\nreporteros que la entrevistaron a una conferencia\nde prensa."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Gracias por venir, todos. Hay algo que quiero\ndecirles a todos."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Uf...",
+      "choice_data_list": [
+        "(¡Tú puedes, Oguri Cap!)"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Quiero... que todos me vean correr. Quiero que\nvean por sí mismos lo fuerte que soy."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Prometo que estaré a la altura de sus\nexpectativas—soy fuerte así."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Soy más fuerte que cualquier otro en la Twinkle\nSeries."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Eso es todo. Gracias por su tiempo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La atmósfera es notablemente diferente después de\nsu discurso."
+    },
+    {
+      "name": "Reportera C",
+      "text": "¿Fue esa una declaración de guerra? ¡Esta Oguri\nCap seguro que es una fuerza a tener en cuenta!"
+    },
+    {
+      "name": "Reportera A",
+      "text": "Tengo que volver y subir este artículo ya mismo.\n¡Seguro que se hace <i>viral</i>!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La sinceridad de Oguri Cap ciertamente ha\nconmovido algunos corazones hoy."
+    },
+    {
+      "name": "Reportero B",
+      "text": "...Vaya, supongo que tengo que revisar ese\nartículo. Ya sé cuál debería ser el titular."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, el titular \"Yo Soy Fuerte\" está\nen la portada de casi todos los periódicos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ganar sola no hizo mucho para ponerla en el centro\nde atención, pero ahora, todas las miradas están\nen Oguri Cap."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Conociéndola, estoy segura de que ella aprovechará\neste momento en el centro de atención para lograr\nuna gran victoria. ¡No puedo esperar a su próxima\ncarrera!"
+    }
+  ]
+}

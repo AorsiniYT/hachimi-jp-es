@@ -1,0 +1,414 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una tarde, mientras caminamos por el barrio\ncomercial..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Eso parece muy divertido!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El primer premio de este año es un\ncupón para unas vacaciones en aguas termales para\ndos personas!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Primer premio: hamburguesa deluxe de zanahoria.\nSegundo: fardo de zanahorias. Tercer: una\nzanahoria."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Oh, Urara, qué gusto verte! ¿Qué dices? ¿Quieres\nprobar suerte en la rifa?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Una rifa! ¡Sí, sí, sííí!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Entrenador! ¿Puedo intentarlo?",
+      "choice_data_list": [
+        "¿Tienes un boleto?",
+        "¿Tienes un boleto?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Un boleto? ¿Qué es eso? ¿Necesito uno para la\nrifa?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le explico que necesita comprar cosas en el barrio\ncomercial para obtener un boleto."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Oh! ¿Te refieres a este boleto que me dio esa\nseñora el otro día?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Me dio uno junto con un caramelo!",
+      "choice_data_list": [
+        "¡Puedes probar con eso!",
+        "¡Puedes probar con eso!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Yujuu! ¡Le daré una vuelta!",
+      "choice_data_list": [
+        "¿Qué premio te gustaría ganar?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Eh? Um, hmmm..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ir a las aguas termales suena divertido, pero\nrealmente me gusta la hamburguesa, y por supuesto\ntambién estoy contenta con zanahorias!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Incluso si pierdo, solo hacerla girar es\ndivertido! ¡Así que estoy bien de cualquier\nmanera! ♪"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Apuesto a que girará muy rápido!\n¡Girando-girando-giiiiirando! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Haru Urara me anima emocionada a unirme a ella\npara jalar la palanca."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de la abertura de\nla ruleta..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Santo cielo! ¡Tenemos un ganador del primer\npremio! ¡Ven a recoger tu cupón para tus\nvacaciones en aguas termales! ¡Felicitaciones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Guau! ¡Ese sonido fue increíble! Oye, ¿puedo\nescucharlo de nuevo?",
+      "choice_data_list": [
+        "¡¿Eso es en lo que te enfocas?!"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡U-Urara! ¡Ganaste el primer premio! ¡El cupón de\naguas termales!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Aguas termales? ¿Voy a ir a las aguas termales?!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Yujuu! ¡Gané, Entrenador!",
+      "choice_data_list": [
+        "¡Felicitaciones!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí! Oye, ¿cuándo puedo ir? ¿Mañana?",
+      "choice_data_list": [
+        "Mañana es un poco pronto..."
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Eh? Entonces, ¿cuándo? ¿Pasado mañana? ¿O al día\nsiguiente?!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Cuántas veces tiene que cruzar el sol el cielo\nantes de que podamos ir? ¡<i>Apúrate,Señor Sol!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque entiendo su emoción, irnos de viaje a las\naguas termales cuando estamos en medio del\nentrenamiento se siente mal... ¿Quizás pueda\nusarlo como motivación?",
+      "choice_data_list": [
+        "¿Qué tal si lo guardamos como un premio por ganar\nuna carrera?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Un premio? Eso es algo que solo la gente buena y\ntrabajadora recibe, ¿verdad?!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Quiero un premio! ¡Llévame a las aguas termales\ncomo premio algún día!",
+      "choice_data_list": [
+        "¡Entonces está decidido!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Oh! ¿Qué tal si tú guardas el cupón? ¡Estaré\nsuper feliz cuando lo reciba como premio por\nganar!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Entonces puedes decir, \"¡Oye! ¡Aquí está tu\npremio!\" y dármelo!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Jejee, ¡no puedo esperar! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Guardaré el cupón de aguas termales seguro hasta\nque sea el momento de usarlo."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos un ganador del primer premio!\n¡Felicitaciones! ¡Recibes una hamburguesa de\nzanahoria de lujo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Guau! ¡Una hamburguesa de zanahoria! ¡Se ve tan\nbuena!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Esto no es una hamburguesa cualquiera!¡Es una\n<i>deluxe</i>!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Te prometo que esta hará que todos los demás que\nhas probado parezcan agua!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "<i>Glup...</i> ¿Eso significa..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Si la como, mi estómago va a explotar?!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Las hamburguesas comunes son deliciosas por sí\nsolas! ¡Si esta va a hacerme expulsar toda el\nagua, entonces debe tener una bomba dentro!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Hmmm, ¿aún debería probarla?",
+      "choice_data_list": [
+        "...¿Eres lo suficientemente valiente?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Lo soy!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Solo mira! ¡El Entrenador y yo vamos a acabar con\ntu bomba de hamburguesa!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "No estoy segura de lo que estás hablando, pero\nnunca te he visto tan emocionada!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Lo dejaré en tus manos! Aquí tienes, la\nhamburguesa de zanahoria de lujo!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Hora de comer!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de regresar a la academia, dividimos la\nhamburguesa y disfrutamos de su sabor explosivo."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te vas a casa con un haz de\nzanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Guau! ¡Son tantas zanahorias!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Este premio fue básicamente hecho para ti, Urara!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí, <i>me encantan</i> las zanahorias!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Pero esto es un poco demasiado... ¿Realmente puedo\ncomérmelas todas solita?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Oh, lo sé! ¡Las compartiré con mis amigos!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Veamos... Le daré una a Spe, Teio, Sei, King,\nRice, y...",
+      "choice_data_list": [
+        "Tienes a mucha gente con quien compartir estas.",
+        "Tienes a mucha gente con quien compartir estas."
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí! ¡Tengo tantos grandes amigos!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Conozco montones y montones de gente que querría\ncomer algunas zanahorias ricas!"
+    },
+    {
+      "name": "Vendedor de Verduras",
+      "text": "¡Qué amiga tan dulce eres, Urara!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Oh! ¡Qué tiempo sin verte! ¿Qué haces aquí? ¿No\ndeberías estar en tu puesto de verduras?"
+    },
+    {
+      "name": "Vendedor de Verduras",
+      "text": "¡Esas son mis zanahorias, tonta! ¡También agregaré\nalgo extra, así que pasa por mi puesto!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿En serio? ¡Gracias! ♪"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Jejee... ¡Voy a hacer una fiesta de zanahorias\npara todos en la escuela!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por supuesto, no es suficiente para una fiesta en\ntoda la escuela, pero con la adición de los extras\ndel vendedor de verduras, nos vamos a casa con un\nmontón grande de zanahorias."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Miren aquí! ¡Has ganado el tercer premio! ¡Aquí\nestá tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Guau! ¡Qué zanahoria tan brillante! ¡Gracias!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¿Estás contenta con solo una zanahoria? Qué chica\ntan dulce eres."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Una sola zanahoria sigue siendo una zanahoria!\n¡Es deliciosa y nutritiva!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Te daré la mitad, Entrenador! ¿Cuál quieres? ¿La\nde abajo o la de arriba?",
+      "choice_data_list": [
+        "Tú decides."
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿En serio? Entonces tomaré la mitad de arriba..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡No importa! ¡Te daré la mitad de arriba!",
+      "choice_data_list": [
+        "¿Por qué?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Porque hay más para comer! ¡Así que tú deberías\ntenerla!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Urara... Tienes un corazón tan increíblemente\namable... <i>Sniff...</i>"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿¡Eh?! ¿Por qué estás llorando?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de ser elogiada, Haru Urara me da la mitad\nsuperior de la zanahoria. Sabe dulce y crujiente."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Oh, mala suerte! ¡Parece que sacaste un blanco!\nToma este paquete de pañuelos como premio de\nconsolación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Aw, solo pañuelos..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Pero al menos hacerla girar fue muy divertido!\n¡Gracias!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Lo siento, eso es todo lo que obtienes, Urara..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡No hay problema! ¡Los pañuelos son muy útiles!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Puedo tomar un montón y arrugarlos todos juntos,\nyaaaaa..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ta-ta! ¡Es una zanahoria!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "No se parece mucho porque es blanca, pero las\nzanahorias son naranjas..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Oh, diablos, ahora realmente quiero una\nzanahoria..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que toda su famosa energía ha sido\nabsorbida por esta decepción."
+    }
+  ]
+}

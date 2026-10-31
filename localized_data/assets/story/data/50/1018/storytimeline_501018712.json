@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Air Groove no se presentó al entrenamiento, así\nque voy a buscarla dentro de la academia."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Exactamente. ¿Recuerdas la fórmula que repasamos?\nIntenta usarla aquí."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Bien... Entonces aplico eso así, y... ¡Dios mío!\nLo hice!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "En serio, esto es bastante estándar. Quizás\ndeberías dedicar un poco más de tiempo a tus\nestudios..."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Supongo que tienes razón..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Pero deberías estar bien para el examen mañana.\nHaz lo mejor que puedas, ¿vale?"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Lo haré! ¡Muchas gracias!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Je... Qué problemática.",
+      "choice_data_list": [
+        "Eres una buena profesora.",
+        "Eres una buena profesora."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿C-cuándo llegaste aquí?!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "¡Oh! El entrenamiento de hoy... Ngh, ¿cómo pude\nolvidarlo?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Mis disculpas. Asumo toda la responsabilidad, y me\naseguraré de que no vuelva a suceder."
+    }
+  ]
+}

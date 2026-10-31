@@ -1,0 +1,94 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El campamento de verano está llegando a su fin..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "<i>Bostezo...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y Seiun Sky hizo todo lo que le pedí en el\ncampamento, pero..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "No, ya supera eso. ¡Esta es una reunión táctica\nsecreta! <i>Sí que quieres idear </i>una estrategia para\nel Kikuka Sho, ¿verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A diferencia del año pasado, ella no ofreció una\nsola estrategia. Así que ahora..."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Ohohoho! He pasado de primera a súper primera\ndescomunal!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "<i>Bostezo...</i>"
+    },
+    {
+      "name": "King Halo",
+      "text": "...",
+      "choice_data_list": [
+        "Vamos, Sky."
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "No, está bien. La irresponsabilidad de Sky <i>es su\n</i>problema."
+    },
+    {
+      "name": "King Halo",
+      "text": "He pulido mi arsenal de carreras, ya\nsabes—suficientemente para aplastarte en el Tenno\nSho de otoño.",
+      "color_text_info_list": [
+        "Tenno Sho de otoño"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¿Pero qué te ha pasado? ¿Pasaste tu verano\ncontinuando por el camino de la impropiedad?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...No sé. Entrenador, voy a ir y subir al autobús."
+    },
+    {
+      "name": "King Halo",
+      "text": "¿Ella no habrá perdido seriamente su voluntad de\nluchar, verdad?"
+    },
+    {
+      "name": "King Halo",
+      "text": "Desde el Takarazuka Kinen, ha estado actuando tan\nextraño. ¿Perdió su deseo de correr después de\ncompetir contra Special Week y los demás?",
+      "choice_data_list": [
+        "Eso no puede ser."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Seiun Sky ha superado obstáculo tras obstáculo sin\nrendirse ni una vez. No hay manera de que se rinda\nahora."
+    },
+    {
+      "name": "King Halo",
+      "text": "Y sin embargo...",
+      "choice_data_list": [
+        "Hablaré con ella.",
+        "Hablaré con ella."
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Recuerda—no debes tener miedo de usar el palo\ncuando la zanahoria no funciona."
+    },
+    {
+      "name": "King Halo",
+      "text": "Tú <i>eres</i> su entrenador después de todo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El campamento de verano terminó, pero me quedan\nalgunas cosas por hacer como entrenador."
+    }
+  ]
+}

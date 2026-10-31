@@ -1,0 +1,195 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "¡La Carrera de la Umamusume Afortunada está por\ncomenzar! Cada Año Nuevo, esta tradición atrae a\nmuchos corredores veloces, y este año no es\ndiferente."
+    },
+    {
+      "name": "MC",
+      "text": "Parece que también tenemos una corredora invitada\nde la Academia Tracen este año. ¡Démosle un gran\napauso, todos!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Jaa ja ja ja! ¡Alégrense, todos! Porque este año,\nla única e insustituible T.M. Opera O está\nhonrando el escenario."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Qué afortunados son de estar en mi presencia,\nporque hoy, serán testigos del momento en que\nyo—bendecida como soy—me convierta en la Umamusume\nAfortunada."
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Guau! ¡Es T.M. Opera O! ¡Podría ser el año en que\nuna corredora invitada gane el primer lugar!"
+    },
+    {
+      "name": "Fan B",
+      "text": "Sí, eso no va a pasar. Las corredoras invitadas\nsiempre son marcadas por todas las corredoras,\nponiéndolas en desventaja. Además, no están\nacostumbradas al recorrido..."
+    },
+    {
+      "name": "Fan B",
+      "text": "Además, <i>ella</i> está aquí de nuevo este año. Por lo\nque he escuchado, ha estado entrenando para esta\ncarrera específicamente. Oooh, sé que nos va a dar\nun buen espectáculo.",
+      "choice_data_list": [
+        "(Me pregunto de quién estarán hablando...)"
+      ]
+    },
+    {
+      "name": "Umamusume Semiprofesional",
+      "text": "¡Hmph! Perdón por arruinar la fiesta, pero podrías\nrendirte ahora, porque la victoria será mía de\nnuevo este año."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Bueno, ahora! ¡Debe ser muy hábil para estar tan\nsegura!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Un oponente digno sube al escenario... Muy bien!\nYo nunca me contengo en una carrera, y esta no\nserá la excepción."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Las chispas vuelan entre los dos contendientes!\nEl agudo estallido de la pistola de salida resuena\nen el frío aire de invierno."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bajo los ojos vigilantes de la multitud alineada a\nlo largo de la ruta, el líder del grupo se hace\nvisible..."
+    },
+    {
+      "name": "MC",
+      "text": "¡A la cabeza del grupo está la Umamusume de la\nSuerte del año pasado! ¿Podrá mantener su\nventaja?! ¡Parece que T.M. Opera O va pisándole\nlos talones!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "<i>Haa... Haa...</i> ¡Ahora te tengo, mi digno rival!"
+    },
+    {
+      "name": "Niña Umamusume",
+      "text": "¡Gyah! ¡Ay! Mi dedo del pie..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿¡Hm?! ¿Estás bien?"
+    },
+    {
+      "name": "Niña Umamusume",
+      "text": "<i>Snif...</i> Duele, pero... Estoy bien. ¡Así que vete!\n¡Vas a perder si no te apuras y corres!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "...!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Jejejeje... ¡Ja ja ja ja!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Te preocupas por los demás incluso en medio de tu\npropio dolor? ¡Qué corazón tan hermoso y noble\ntienes!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Pero no te preocupes. ¡Se necesita más que una\nbreve pausa para arrebatar la corona de la\nvictoria de mi frente!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Entrenador! ¡Dejo a este niño en tus capaces\nmanos!",
+      "choice_data_list": [
+        "¡Entendido!"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Hup!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡YAAAH!"
+    },
+    {
+      "name": "MC",
+      "text": "¡Espera, ¿qué es esto?! ¡T.M. Opera O ha tomado la\nventaja! ¡Ha atravesado directamente el grupo con\nuna potente ráfaga de velocidad!"
+    },
+    {
+      "name": "MC",
+      "text": "¡Y con una gran ventaja, T.M. Opera O se asegura\nla carrera y se convierte en la Umamusume de la\nSuerte de este año! ¡Acabamos de presenciar la\nascensión de la Umamusume de la Suerte Centenaria!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ja ja ja ja! ¡Todos! ¡Saluden a la Umamusume de\nla Suerte de este año—yo misma!"
+    },
+    {
+      "name": "Niña Umamusume",
+      "text": "¡Wow! ¡Fuiste increíble! Quiero poder correr\nexactamente como tú algún día!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Es así? Bueno, ese es un objetivo muy digno y\nnatural, dado mi increíble regreso!",
+      "choice_data_list": [
+        "¡Fuiste realmente increíble!",
+        "¡Fuiste realmente increíble!"
+      ]
+    },
+    {
+      "name": "Uma Musume Semi-Profesional",
+      "text": "No solo se detuvo a ayudar a un niño, sino que\nincluso ganó la carrera... He sido completamente\nderrotado. Parece que tengo un largo camino por\nrecorrer..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Pusiste una lucha valiente. Un protagonista solo\nbrilla frente a un rival digno. ¡Mereces el premio\nal mejor papel de reparto!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Wooooo! ¡Felicitaciones, Umamusume de la Suerte\nCentenaria!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Vengan todos a chocar los cinco conmigo!\n¡Permítanme compartir mi suerte con todos!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ja ja ja ja! ¡Jaaaaah ja ja ja!"
+    },
+    {
+      "name": "MC",
+      "text": "¡Miren eso! ¡Es T.M. Opera O! ¡T.M. Opera O ha\nllegado a la cabeza! ¡Yyyyy las dos cruzan la\nlínea de meta simultáneamente!"
+    },
+    {
+      "name": "MC",
+      "text": "¡Una actuación digna de la semi-profesional más\nrápida! ¡Este año tampoco cedió ni un centímetro,\namigos! Y llegando en un cercano segundo lugar\nestá T.M. Opera O!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ngh! Estuve a solo un paso de la victoria... ¿Es\neste otra prueba que uno debe enfrentar para\nconvertirse en la estrella principal?!"
+    },
+    {
+      "name": "Niña Umamusume",
+      "text": "Opera O... ¡Fuiste tan genial! ¡Nunca he visto a\nnadie correr como tú!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Es así? ¡Jeje! Si pude poner una sonrisa en tu\nrostro, ¡entonces valió la pena! ¡Debo felicitarme\npor un trabajo bien hecho!"
+    },
+    {
+      "name": "Uma Musume Semi-Profesional",
+      "text": "...Gané. <i>Soy</i> la Umamusume de la Suerte de este\naño, pero..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Felicitaciones por tu victoria! Tu demostración\nde fuerza fue digna de iluminar mi gran escena!"
+    },
+    {
+      "name": "Uma Musume Semi-Profesional",
+      "text": "Oh, vamos... Eres demasiado sincero para tu propio\nbien. Ayudaste a ese niño y aún así lograste hacer\nuna jugada increíble por el primer lugar... Eres\ntan genial que casi duele."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Jeje. ¡Pero por supuesto que lo soy! Supongo por\ntus palabras que tú también has caído bajo mis\nencantos."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Pensar que sería capaz de capturar corazones\nincluso en la derrota... ¡Cielos! ¿Mi encanto no\nconoce límites?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El título de Umamusume de la Suerte se ha escapado\nde los dedos de T.M. Opera O, pero su gallardía\nasegura que brille más que cualquier estrella en\nel cielo!"
+    }
+  ]
+}

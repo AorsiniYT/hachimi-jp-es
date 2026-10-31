@@ -1,0 +1,107 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "En una isla desierta en algún lugar del medio del\nocéano... Un barco deja a una atónita Mejiro\nMcQueen y se marcha rápidamente."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Qué significa esto? ¿Qué podrían querer decir con\n\"sobrevivir la noche\"?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Sabes algo sobre esto, Entrenador?",
+      "choice_data_list": [
+        "Es un proyecto para el periódico de la escuela."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le cuento todo lo que sé: que esto es para un\nartículo llamado \"Isla Desierta: ¿Cómo Sobrevivirá\nla Consentida?\""
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ya veo. Así que quieren que alguien mimado como yo\nintente superar los peligros de un lugar así."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Entonces aceptaré el reto con gusto! ¡No me\nintimidará una isla como esta!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Dicho esto, es un lugar bastante inquietante. La\nidea de tener que pasar toda la noche aquí es..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡¡¡Aaaah!!! ¿Eso es un tigre? ¿Un tigre de\nBengala?!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡No me dejaré vencer!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Lo primero es lo primero. Debemos elaborar un\nplan. ¡Necesitaré tu ayuda, Entrenador!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Cuál es lo más importante para sobrevivir en una\nisla desierta? Vamos, escuchemos tu respuesta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lo más esencial para la supervivencia es...",
+      "choice_data_list": [
+        "Comida.",
+        "Resistencia."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Comida... ¿Estás diciendo que mientras tengamos\nsustento, no hay nada que temer?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Tienes razón. Nunca volveré a casa si solo me\nquedo sentada aquí temiendo lo peor. ¡Es hora de\nque empiece a valerme por mí misma!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Muy bien, Entrenador, cuando estés listo.",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡¿La comida?! ¿Vas a traernos algo, verdad?\n¡Prometo que comeré lo que sea necesario para\nsobrevivir!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No seré quisquillosa, sea fruta o marisco. ¡Ahora,\nhazlo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así Mejiro McQueen logra conseguir comida sin\nsiquiera mover un dedo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Resistencia... Ya veo. Sin resistencia inagotable,\nvolver a casa a salvo no es más que una fantasía."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Supongo que eso significa que tendré que vencer a\nese tigre para ponerme más fuerte..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Eeeeeek! ¿Todavía está acechando en el matorral?!\n¡Creo que no puedo hacer esto después de todo!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No creo que esta idea de la resistencia funcione,\nEntrenador... No podría— ¡aaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La bestia persigue a Mejiro McQueen por todos\nlados. No puedo evitar pensar que esto puede\nayudar a mejorar su resistencia."
+    }
+  ]
+}

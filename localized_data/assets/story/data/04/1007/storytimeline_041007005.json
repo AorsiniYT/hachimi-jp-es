@@ -1,0 +1,167 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una Umamusume y su entrenador son dos partes de un\ntodo. Se animan y apoyan mutuamente para lograr la\nvictoria."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El papel del entrenador es sacar el máximo\npotencial de una Umamusume a través de una\npráctica diaria rigurosa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así que necesito darlo todo para el entrenamiento\nde Gold Ship para que ella pueda ganar."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hola, entrenador. Espero que estés listo para\nsaquear un templo submarino.",
+      "choice_data_list": [
+        "Eh, espera un momento. Hoy estamos entrenando.",
+        "Eh, espera un momento. Hoy estamos entrenando."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Eh? ¿Estás insinuando que explorar algunas ruinas\nhundidas no es entrenamiento!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Hay esplendor antiguo en las profundidades! ¿¡Y\nestás diciendo que la noble búsqueda de lo\ndesconocido no es <I>entrenamiento</I>?!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Bueno, tendrías absolutamente razón."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "En fin, parece que realmente quieres practicar\nhoy. No te preocupes, buen entrenador, entiendo\nperfectamente de dónde vienes.",
+      "choice_data_list": [
+        "¿De verdad?",
+        "¿De verdad?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Cuando digo hola, tú dices adiós. Soy el Sherlock\nde tu Holmes."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Estamos tan cerca que no necesitamos palabras\ntontas para interponernos en el camino. Así que\nvámonos. Sígueme.",
+      "choice_data_list": [
+        "¡Gold Ship!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nunca pensé que estaríamos en la misma página.\nMejor apuro tras ella hacia la pista."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ahora que finalmente estamos en el curso de\nentrenamiento... Espera, esto no es la pista."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Aaahhh. Peces. Peces. Pescando peces. ¿Qué vamos a\npescar? Vamos a por el más grande, el más enorme.\nEs todo o nada."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Vamos, no te quedes ahí parado. Estamos en esto\njuntos.",
+      "choice_data_list": [
+        "Eh... ¿En qué estamos juntos?",
+        "Eh... ¿En qué estamos juntos?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "En serio. Vinimos hasta el frente marítimo.\nObviamente, lo único que podemos hacer es ir a\npescar."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Pobre viejo papá, el mejor pescador del pueblo, se\nretiró del deber antes de que pudiera pescar al\ngran abuelo de este río..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Por eso. Como su orgullosa hija, voy a pescar a\nesa leyenda. Arrrgh. Prepárate, pez estúpido. Te\natraparé si es lo último que hago."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mi cabeza todavía está dando vueltas por todo\nesto, pero lanzamos nuestras líneas al río. Varios\nminutos después..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "No sirve de nada. Lo único que hemos pescado son\nestúpidas hierbas acuáticas."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Grrr... Aaahhh. No puedo soportarlo, estoy a punto\nde desmayarme de aburrimiento."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Sígueme, entrenador. Estoy poniendo rumbo a Marte."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esto podría ser bueno. Tal vez se aburrió tanto\nque finalmente quiere empezar a entrenar."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Oye, camarera. Un plato de pescado a la parrilla,\ny pon mucha arroz."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Uf, eso fue un susto. No pescamos nada, pero comer\nuno aquí debería compensar."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Basta de charla, hora de comer."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Apenas segundos después de que llega su plato de\npescado, se lo come todo de un par de tragos..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ahh, justo lo que necesitaba. Estoy eternamente\nagradecida por la existencia de la comida.",
+      "choice_data_list": [
+        "Entonces... ¿podemos empezar a entrenar por fin?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Qué? ¿Quieres decirme que pescar peces y luego\ncomer peces no es entrenamiento?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Estamos viviendo de la tierra aquí. Es una lucha\npor la supervivencia, llena de peligros..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Vivir en armonía con la naturaleza y afinar\nnuestros sentidos en la naturaleza... Abre los\nojos. Todo está conectado con las carreras.",
+      "choice_data_list": [
+        "Ah, así que todo esto es para entrenar tus\ninstintos de carreras.",
+        "Ah, así que todo esto es para entrenar tus\ninstintos de carreras."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Nah, probablemente no sirva de nada."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "En ese caso, ahora que he comido, puedo ir a la\ngranja Golshi y cuidar las zanahorias."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Nos vemos en el otro lado del sistema solar.\nAdiós."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella sale por la puerta antes de que me dé cuenta\nde que pasamos todo el día sin hacer un minuto de\nentrenamiento..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una Uma Musume y un entrenador son dos partes de\nun todo... Se supone que debemos trabajar <I>juntos</I>\npara lograr la victoria!"
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "\"Para mi querido Hermano. Tengo algo importante\nque decirte.\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"Para mi querida Hermana. Tengo algo importante\nque decirte.\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"Por favor, ve mi siguiente mensaje para detalles.\nEstaré esperándote a las 11 a.m. mañana. –Curren\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "Este mensaje llega en la noche sin advertencia.\nTiene un sentido de gravedad inusual... Me\npregunto si ella quiere hablar sobre el año\nsenior.",
+      "color_text_info_list": [
+        "año senior"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No, estamos hablando de Curren Chan. Podría no\ntener nada que ver con las carreras en absoluto.\nInseguro de cómo sentirme, voy a encontrarme con\nella el siguiente día..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Gracias por venir, Hermano. Dije que tengo algo\nimportante que decirte, así que solo vamos a\nello..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Gracias por venir, Hermana. Dije que tengo algo\nimportante que decirte, así que solo vamos a\nello..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "He averiguado quiénes serán mis rivales del año\nsenior con más probabilidad, así que me gustaría\nreportártelos.",
+      "choice_data_list": [
+        "(¡Así que al final quiere hablar de carreras!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La actitud de Curren Chan es mucho más seria que\nlo usual. Entendiendo la necesidad de ser\nprofesional y prestar mucha atención, me siento\nderecho."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Okay, aquí está la información que reuní."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Avísame de inmediato si algo capta tu atención,\n¿vale? Ahí va..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Avísame de inmediato si algo capta tu atención,\n¿vale? Ahí va..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Curren Chan coloca lo que parece su tablet\npersonal en la mesa y reproduce un video que\nparece haber editado ella misma."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "\"¡Hyaaah!\""
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "\"¡Con la llama de la justicia en mi corazón, me\napresuro a la escena para destruir todo mal! Yo\nsoy... Biko Pegasus!\"",
+      "color_text_info_list": [
+        "Biko Pegasus"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Esa es Biko Pegasus. Por lo que he reunido, ella\nestá pensando en correr en el Takamatsunomiya\nKinen del próximo año."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "En otras palabras, pronto me enfrentaré a ella. No\nsolo eso, sino que..."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "\"¡Okay, todos! ¡Pasémoslo bien y...\""
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "\"¡Estén atentos a más de mis Umatoks!\"",
+      "choice_data_list": [
+        "(...?!)"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Sí. A Biko le encanta UmaTok. Hace videos cortos\nmuy inspirados en programas de superhéroes, así\nque niños y fans de superhéroes realmente la\nadoran.",
+      "color_text_info_list": [
+        "Biko"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Diría que es como una superhéroe UmaToker."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "\"...¿Está grabando? ¡Oh!\""
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "\"¡Cada día es bueno! Mientras más grande y\nsabroso, mejor. ♪ ¡Yo soy Hishi Akebonooo! ♪\"",
+      "color_text_info_list": [
+        "Akebono"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Esa es Hishi Akebono. Es mi amiga y una cocinera\nexcelente. Usa ese talento para..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "\"¡Me pidieron un pastel con flores lindas, así que\nen el Umastagram Live de hoy, eso es exactamente\nlo que voy a hacer! ♪\""
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Es linda y alta, pero también sube videos de cómo\nhace pasteles y otros platillos con diseños\ndelicados. ¡Es un éxito enorme!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Flower, con quien corrí antes, se especializa en\nalmuerzos, pero Akebono no se limita a un solo\ngénero.",
+      "color_text_info_list": [
+        "Akebono"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Ella ayudó a iniciar la tendencia de las foodies\nen Umastagram. Lo siguiente es...",
+      "choice_data_list": [
+        "¡Guau, espera!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Entendido! Y... ¡pausa!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Qué pasa?",
+      "choice_data_list": [
+        "¿Qué es exactamente esto?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Creí que te lo había dicho antes, estas son mis\nfuturas rivales."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eso dijo... pero solo parece que me está mostrando\na todas las Umamusume de la Academia Tracen que\nson populares en redes sociales."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Bueno, si eso es todo, voy a darle play. ♪"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "\"¡Hola a todos! ¡Soy yo, Taiki Shuttle!\"",
+      "color_text_info_list": [
+        "Taiki Shuttle"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Esa es Taiki Shuttle. Es una vloguera diaria súper\nalegre en UmaTube."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "\"¡Hoy voy a hacer una buena barbacoa a la\nantigua!\""
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "\"Mi gente me mandó un montón de filetes\ngigantescos, y hoy tenemos un cielo azul precioso,\nasí que creo que es hora de encender la parrilla!\""
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Tiene una personalidad enorme, es dinámica y sube,\ncomo, toda su vida a UmaTube. Todos la adoran."
+    },
+    {
+      "name": "Air Groove",
+      "text": "\"¡Taiiikiii! ¡Cuántas veces debo decirte que no\nases a la parrilla en terrenos de la escuela?!\"",
+      "color_text_info_list": [
+        "Taiiikiii"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "\"¡Bueno, si no es nuestra primera invitada! ¡Ya la\nconocen—es Air Groove!\""
+    },
+    {
+      "name": "Air Groove",
+      "text": "\"¡No me hagas tu invitada!\""
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "\"Así que, eh... ¡No! ¡Romper! ¡Las reglas de la\nacademia! ¿Entendido?!\""
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "\"¡BOOM! ¡Publicado! ¡JA-JA-JA! ¡Perfecto!\""
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "\"¡Realmente soy la mejor representante de clase!\nNunca me canso del día a día de ser\nrepresentante...\""
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "\"O sea, publicando las reglas de la academia en\nUmatter <i>¡todos los días!</i> ¡Vamos yo! ¡Soy\nincreíble! ¡La increíble representante de clase!\""
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Básicamente ya lo explicó, pero esa es Sakura\nBakushin O, la representante de clase.",
+      "choice_data_list": [
+        "(<i>¿Esa</i> es la representante de clase?)"
+      ],
+      "color_text_info_list": [
+        "representante de clase"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "\"...Oh, ¡ya tengo una notificación! Tal vez es un\nestudiante felicitándome por un buen trabajo!\""
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "\"¿¡QUÉ?! ¿Mi publicación dice \"<i>sí</i> romper las\nreglas de la academia\"?! ¿Publiqué lo\nincorrecto?!\""
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Sakura Bakushin O se está volviendo popular en\nUmatter por todas sus publicaciones aleatorias y\nla aterradora cantidad de errores tipográficos que\ncontienen.",
+      "color_text_info_list": [
+        "Sakura Bakushin O"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Bueno, eso es todo. Esas son mis rivales."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Creo que mi mayor competencia es Akebono ya que\nella también es UmaStagrammer.",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Eh, ¿hermano mayor?",
+      "choice_data_list": [
+        "¿Y qué hay de <i>las carreras?!</i>"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Eh, ¿hermana mayor?",
+      "choice_data_list": [
+        "¿Y qué hay de <i>las carreras?!</i>"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Eh? ¿No te has dado cuenta?"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Eh? ¿No te has dado cuenta?"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Vamos. Incluso después de verlas a todas alineadas\nasí... ¿no notaste nada?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Biko Pegasus, Hishi Akebono, Taiki Shuttle y\nSakura Bakushin O. Lo que todas tienen en común\nes...",
+      "choice_data_list": [
+        "¡Son todas sprinters!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Eso es! ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Es súper conveniente para mí, ¿no creen? Las\nestrellas de Umastagram, Umatter y UmaTok son\ntodas sprinters."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Si me meto en la mezcla, podríamos incluso\nconseguir más atención que el Derby o el Tenno\nSho... o incluso el Arima Kinen.",
+      "color_text_info_list": [
+        "Tenno Sho"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "No, no solo \"podríamos\". ¡Voy a hacer que suceda!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Quien gane la carrera más grande... será\ntotalmente la corredora más linda. ♪",
+      "choice_data_list": [
+        "En otras palabras..."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Las enfrentaré a todas el próximo año!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Las enfrentaré a todas el próximo año!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Todavía estoy perfeccionando los detalles! Solo\nesperen un montón de cosas divertidas el último\naño. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Curren Chan está planeando algo... Los eventos de\nhoy me dicen que necesito prepararme para lo que\nsea que pase."
+    }
+  ]
+}

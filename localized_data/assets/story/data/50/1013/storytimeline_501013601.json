@@ -1,0 +1,25 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mejiro McQueen",
+      "text": "Cada vez que pienso en esa última decepción... me\npongo tan amarga."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Vindicaré mi honor, aquí y ahora. No... <i>debo</i>\nvindicarlo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Porque soy un miembro orgulloso de la familia\nMejiro!",
+      "choice_data_list": [
+        "¡Corre con todas tus fuerzas!",
+        "¡Corre con todas tus fuerzas!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Sí! ¡Pondré mi fuerza, mi determinación,mi <i>todo</i>\nen ello!"
+    }
+  ]
+}

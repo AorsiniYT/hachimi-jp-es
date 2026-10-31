@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ugh, el sol está cegador..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Esperé hasta la mañana y aún no he recibido\nrespuesta... Siento que solo quiero derrumbarme...",
+      "choice_data_list": [
+        "¿Recibir respuesta? ¿Sobre qué?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ayer, envié algunos materiales a un instituto de\ninvestigación que conozco, pero..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Aunque esperé hasta la mañana, no ha habido\nrespuesta..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Hmm... Aún no he escuchado nada... Esto es lo\npeor..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agnes Tachyon se mece somnolienta como si fuera a\ncaerse en cualquier momento."
+    }
+  ]
+}

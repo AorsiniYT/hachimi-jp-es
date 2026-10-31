@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy es el día de las Wakagoma Stakes, una carrera\nque nos preparará para los Clásicos por venir."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Respira hondo, Teio. Hoo... Hah... Hoo... Hah..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...Ah, probablemente piensas que estoy nerviosa,\n¿eh?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Pero estás equivocado! ¡Solo estoy emocionada de\nque nos estamos acercando y acercando a los\nClásicos!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Solo me estaba calmando para no volverme\ndemasiado loca allá afuera por la emoción!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Solo consigue un helado, luego siéntate y\nrelájate! ¡Habré conseguido el primer lugar para\ncuando tú termines!",
+      "choice_data_list": [
+        "¡Sal ahí y domina!",
+        "¡Sal ahí y domina!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Sí! ¡Le mostraré a todos de qué está hecha la\nestrella en ascenso Teio!"
+    }
+  ]
+}

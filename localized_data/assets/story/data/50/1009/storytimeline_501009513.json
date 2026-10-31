@@ -1,0 +1,89 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet hace una serie de poses frente a un\nespejo sola."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Ahí, fabuloso! ...Espera, no, ¿qué tal esto?",
+      "choice_data_list": [
+        "¿Qué estás haciendo?",
+        "¿Qué estás haciendo?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Gyaaah!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Oh, solo eres tú... No me asustes así.",
+      "choice_data_list": [
+        "Perdón. No quise interrumpir.",
+        "Perdón. No quise interrumpir."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Estoy intentando descubrir qué pose combinaría\nmejor con mi atuendo de carreras característico."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Me tomarán fotos después de que gane, así que no\npuedo permitirme verme desordenada!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Pero nada se siente del todo bien... ¿Qué crees\nque grite, \"¡Soy la número uno!\"?",
+      "choice_data_list": [
+        "Pon tu dedo índice arriba como si fueras el número\nuno.",
+        "Golpéalos con tu clásico \"¡Jeje! ♪\""
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Número uno, ¿hm? ¡Ya veo! ¡Eso sí suena como yo!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Pero ahora me pregunto sobre la mejor forma de\nseñalar..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Debería hacerlo normalmente? ¿O debería levantar\nel brazo por encima de mi cabeza? ¡Incluso podría\nhacerlo un movimiento de cuerpo completo..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Argh, esto solo se está convirtiendo en más\ntrabajo... Voy a probar algunas cosas diferentes.\nTú siéntate allí y mira, ¿vale?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Te advierto que no te vas a librar hasta que lo\nresuelva! ¡Esta fue tu idea, así que más te vale\nasumir la responsabilidad!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Termino viéndola experimentar con diferentes poses\nhasta que se pone el sol."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Ex-<i>cúsame</i>?! ¿Se suponía que eso era<i>yo?!</i>"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡No <i>sueno</i> en absoluto tan infantil! ¡Soy mucho más\ngenial y madura!",
+      "choice_data_list": [
+        "Pensé que lo hice genial...",
+        "Pensé que lo hice genial..."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Pues no lo hiciste! Eso no sonó como yo <i>en\nabsoluto!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que ella no conoce realmente sus propios\nhábitos. Hoy he aprendido algo nuevo."
+    }
+  ]
+}

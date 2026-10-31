@@ -1,0 +1,106 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Ay, ay, ay! ¡Duele como loco!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Pero tengo que darme prisa y volver al\nentrenamiento!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Oh, cierto! ¡En momentos como este, puedo\nsimplemente vendar, tomar algunos analgésicos y\nseguir adelante!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Mientras cuide adecuadamente mi lesión, podré\nseguir!",
+      "choice_data_list": [
+        "Necesitas descansar.",
+        "Está bien, pero te detendré si intentas algo\nimprudente.",
+        "Está bien, pero te detendré si intentas algo\nimprudente."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Mientras cuide adecuadamente mi lesión, podré\nseguir!",
+      "choice_data_list": [
+        "Necesitas descansar.",
+        "Está bien, pero te detendré si intentas algo\nimprudente.",
+        "Está bien, pero te detendré si intentas algo\nimprudente."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Pero... si solo arreglo el dolor, ¡entonces podré\nseguir corriendo!",
+      "choice_data_list": [
+        "Suprimir el dolor no ayudará a que tu lesión sane."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ugh, tienes razón... Si solo termino empeorándolo,\neso derrotará todo el propósito..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "<i>Suspiro...</i> ¡Esperar pacientemente simplemente no\nestá en mi naturaleza!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Está bien! ¡Prometo que no haré nada imprudente!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Comencemos de inmediato, entonces. Umm, ¿la cinta\nmédica está en el botiquín?",
+      "choice_data_list": [
+        "Oh, ¡yo iré a buscarla para ti!",
+        "Oh, ¡yo iré a buscarla para ti!"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Eeek! ¡Ayayay!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La Princesa Kawakami se cae y agrava su lesión.\nNaturalmente, le digo que tome un tiempo libre\npara recuperarse."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Muy bien, Entrenador, ¿puedo pedirte que traigas\nla cinta del botiquín?"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Hora de Vendaje de Princesa! ¡Dolor, dolor, vete\nlejos!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Uf! ¡Ahora puedo volver al entrenamiento de\nfuerza sin problema!",
+      "choice_data_list": [
+        "¡Pareces estar bien!",
+        "¡Pareces estar bien!"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Desde luego! Gracias por creer en mí y permitirme\ncontinuar mi entrenamiento."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Entrenador... Siento que puedo superar cualquier\nobstáculo que se interponga en mi camino."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Mientras te tenga a mi lado, por supuesto."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Y hablando de eso, ¡es hora de sumergirse de nuevo\nen el entrenamiento! ¡A toda máquina! ¡Pero con\nprecaución! ¡A levantar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, la Princesa Kawakami logra superar su\nlesión y continuar su entrenamiento, teniendo\ncuidado de no esforzarse demasiado."
+    }
+  ]
+}

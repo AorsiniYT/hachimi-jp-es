@@ -1,0 +1,259 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Y así, el día de la ceremonia de premios de la\nURA..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Aquí es donde dice el mapa. Mmm... Tiene cierto\naire de formalidad."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Resulta que la ceremonia de premios es en un lugar\ndiferente este año, donde incluso la entrada tiene\nun aire muy solemne."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Je, valió la pena venir temprano. Mira por allí,\nEntrenador."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Podemos verlos con nuestros propios ojos... Los\ndepredadores alfa."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Mejiro McQueen and Mihono Bourbon.",
+      "color_text_info_list": [
+        "Mejiro McQueen",
+        "Mihono Bourbon"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro McQueen es conocida por todos como la mejor\nfondista. Ganó con éxito el Tenno Sho de primavera\ndonde se decide a la mejor corredora de larga\ndistancia."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y luego está Mihono Bourbon, que forjó su físico y\nresistencia en una máquina afinada. También ha\nsido la Umamusume del Año."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Y por allí, está Oguri Cap y...",
+      "color_text_info_list": [
+        "Oguri Cap"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Oguri Cap surgió de carreras regionales y arrasó\nen las nacionales. Es seguro decir que su\npopularidad y fuerza juntas la convierten en una\ncorredora de primer nivel."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Symboli Rudolf."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ah, parece que algunos de los invitados están aquí\nen reconocimiento a esfuerzos previos, no solo por\npremios."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hermana..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jeje. Divisé a la estrella del día así que pensé\nen venir a saludar."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "El código de vestimenta de este año es ropa de\ncarrera de firma, aparentemente elegida en tu\nhonor. Son ropas para una corredora, después de\ntodo, lo que significa—"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Basta. No quiero que se me suban los humos."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Por qué hablas de cabezas grandes?! ¡Mi cabeza no\nes grande!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No estaba hablando de ti."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...En cualquier caso, apresurémonos a entrar."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Has preparado un discurso para cuando aceptes tu\npremio?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿Discurso?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿¡¿Qué?! Dime que no es en serio!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Entrenador.",
+      "choice_data_list": [
+        "¡Mientras respondas sus preguntas honestamente,\nestarás bien!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ya veo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...¿De verdad lo cree?"
+    },
+    {
+      "name": "Anfitrión",
+      "text": "Y sin más preámbulos, ¡por favor den la bienvenida\na la Umamusume del Año, Narita Brian! ¡Por favor,\nsuba al escenario!"
+    },
+    {
+      "name": "Público",
+      "text": "¡Ooooh!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Narita Brian está que arde ahora mismo! Si sigue\nasí, ¿crees que superará a Rudolf?"
+    },
+    {
+      "name": "Reportero B",
+      "text": "¡Quiero saltar directamente a las finales! Me\npregunto cuál de ellas es más fuerte?"
+    },
+    {
+      "name": "Anfitrión",
+      "text": "¡Felicitaciones por tu premio, Narita Brian!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Gracias."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Anfitrión",
+      "text": "..."
+    },
+    {
+      "name": "Anfitrión",
+      "text": "E-Eh... Entonces, ¿a quién te gustaría más\nexpresarle tus sentimientos sobre recibir este\npremio?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Bueno, tendría que ser..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Cada una de las corredoras aquí hoy."
+    },
+    {
+      "name": "McQueen y Bourbon",
+      "text": "...!"
+    },
+    {
+      "name": "Oguri y Rudolf",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Acabo de terminar mi año clásico. Las carreras\nSenior vienen después."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Eso significa que incluso si me llamas Umamusume\ndel Año, aún no he competido contra todas las que\nestán aquí hoy. ¿De verdad puedes llamar a eso\nimpresionante?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No lo creo. Es solo un título temporal. Podrían\nquitarme el premio y el título ahora mismo, y no\nme importaría."
+    },
+    {
+      "name": "Anfitrión",
+      "text": "¿¡Qué?!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Así que le pregunto a cada Umamusume aquí hoy—¿qué\ntal una batalla por la cima?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Descubramos cuál de nosotras es realmente la más\nfuerte."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Murmullos...</i>"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Eso es todo."
+    },
+    {
+      "name": "Anfitrión",
+      "text": "E-Espera un momento, por favor! Todavía estamos\nplaneando—"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No yo. Todo lo que planeo es la carrera."
+    },
+    {
+      "name": "Reportera A",
+      "text": "...¿¡Qué acaba de pasar?! ¿¡Acaba de desafiar a\n<i>todos</i> a una carrera?!"
+    },
+    {
+      "name": "Reportero B",
+      "text": "¡O-olviden superar a Rudolf! ¡Esto es algo\ntotalmente sin precedentes!"
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Oye, contacta al departamento editorial! La\nportada del periódico de mañana será \"¡El Desafío\nSin Precedentes de Brian!\""
+    },
+    {
+      "name": "Reportera A",
+      "text": "\"Llamando al Emperador y a todas las demás\ncorredoras: ¿Quién será la que derrote a Narita\nBrian?\""
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...Mmm."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Tu anuncio causó un gran revuelo, Brian."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de buscar mucho, finalmente encuentro a\nNarita Brian parada fuera del lugar."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Uf.",
+      "choice_data_list": [
+        "¡Qué discurso!",
+        "¡Qué discurso!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tú fuiste quien me dijo que fuera honesta."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Quiero competir más. Quiero ganar. Es tan simple\ncomo eso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque no estoy segura de si ella tiene alguna\nidea de qué esperar a partir de aquí, Narita Brian\nsonríe sin miedo de todos modos."
+    }
+  ]
+}

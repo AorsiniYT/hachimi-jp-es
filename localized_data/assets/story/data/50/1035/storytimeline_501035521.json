@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Winning Ticket murmura con sueño..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "<i>Bostezo...</i> Me dejé llevar tanto viendo videos de\ncarreras y leyendo manga y esas cosas..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Creo que el sol ya había salido cuando me fui a\ndormir... Ahora mis párpados están tan pesados,\nque no puedo mantenerlos abiertos...",
+      "choice_data_list": [
+        "No deberías dormir tan tarde."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Espera, ¿quieres decir que necesito acostarme\ntemprano?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿O quieres decir... cuando es tarde, no debería\ndormir?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Aaaah! ¡Ya no sé qué es qué!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de desvelarse, Winning Ticket ni siquiera\npuede pensar con claridad."
+    }
+  ]
+}

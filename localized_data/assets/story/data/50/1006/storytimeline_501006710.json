@@ -1,0 +1,67 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Oguri Cap",
+      "text": "Oye... Perdón por perder así."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pero ahora no es momento para desanimarse."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Después de todo, no puedo disfrutar de mi comida\ndespués de la carrera si estoy desanimada.",
+      "choice_data_list": [
+        "¡Seguro que la próxima vez te irá mejor!",
+        "¡Seguro que la próxima vez te irá mejor!",
+        "¡Volvamos a entrenar ya mismo!",
+        "¡Volvamos a entrenar ya mismo!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Después de todo, no puedo disfrutar de mi comida\ndespués de la carrera si estoy desanimada.",
+      "choice_data_list": [
+        "¡Seguro que la próxima vez te irá mejor!",
+        "¡Seguro que la próxima vez te irá mejor!",
+        "¡Volvamos a entrenar ya mismo!",
+        "¡Volvamos a entrenar ya mismo!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Gracias. No te defraudaré de nuevo... ¿Hm?",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Acabo de recibir un mensaje de la gente de mi\npueblo."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "\"¡Qué gran carrera! ¡La próxima vez les ganarás!\""
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...¡La próxima vez, quiero quedar en primer lugar\ny hacerlos sentirse orgullosos a todos!"
+    },
+    {
+      "text": "El mensaje de casa parece haber renovado la\ndeterminación de Oguri Cap para ganar."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Suena bien! ¡No te contengas conmigo!",
+      "choice_data_list": [
+        "¡Déjalo en mis manos!",
+        "¡Déjalo en mis manos!"
+      ]
+    },
+    {
+      "text": "Con Oguri Cap llena de determinación, nos lanzamos\na una sesión de entrenamiento improvisada."
+    }
+  ]
+}

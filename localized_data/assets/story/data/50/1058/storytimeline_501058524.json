@@ -1,0 +1,177 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, voy de camino al entrenamiento como\nsiempre, cuando..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Pfft, jejeje!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Veo a Meisho Doto riendo."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh, e-esto no es lo que parece! Esto es, eh..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Según su historia, un accidente de lavandería ha\ncubierto el reverso de su ropa con bolitas de\npelusa."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "A-así que se siente un poco picante al usarlo y\nu-un poco... ¡hace cosquillas!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "P-planeo comprar ropa nueva mañana, así que ¡esto\ntendrá que servir por hoy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, si no puede concentrarse, podría\nhacer el entrenamiento más difícil.",
+      "choice_data_list": [
+        "Cancelaré el entrenamiento para que puedas usar el\nresto del día para ir de compras."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Eh? P-pero, esto no afectará mi carrera. Estaré\nbien—"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Jeje! ¡Jejeje!",
+      "choice_data_list": [
+        "Intentar superar el entrenamiento de hoy.",
+        "Precaverse y tomarse el día libre."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Y-yupi! ¡Muchas gracias!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Trabajaré muy duro ya que escuchaste mi petición\negoísta!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "...Pfft, jejeje!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡D-detente! Reír significa que estoy perdiendo mi\nconcentración... ¡Tengo que dar lo mejor de mí!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "...Jejeje!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Qué tenemos aquí? ¡Estás de muy buen humor, Doto!\n¡Pero no puedes superar mi espíritu!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Jaaajaja!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "<i>Haa... Haa...</i> Creo que necesito un pequeño\ndescanso..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Eek! ¡Me siento toda con picazón-picazón!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¿Hay algo que la esté molestando?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de los contratiempos, ¡Meisho Doto logra\nsuperar el entrenamiento!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Uf... Me alegra que esto esté funcionando. ¡Por\nfin me acostumbré a la sensación!",
+      "choice_data_list": [
+        "Parecía que estabas pasando un mal momento.",
+        "Parecía que estabas pasando un mal momento."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh, no, no... esto es todo culpa mía desde el\nprincipio, así que no puedo quejarme."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Considerando eso, siento que hice mucho más\nejercicio de lo normal."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Supongo que todo estuvo bien al final... jeje."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡La sesión de hoy parece haber contribuido al\ncrecimiento de Meisho Doto después de todo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "<i>Haa... Haa...</i> ¡Jejeje!",
+      "choice_data_list": [
+        "¿Todo está bien?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "E-estoy b-bien. ¡Estoy segura de que la sensación\nde cosquillas se irá con la cantidad correcta de\nconcentración!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Hyah?!",
+      "choice_data_list": [
+        "Doto!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Uff, ay ay..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ha perdido gran parte de su capacidad de\nconcentración. Si seguimos así, podría lastimarse."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Definitivamente es mejor descansar por hoy."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "P-pero...",
+      "choice_data_list": [
+        "A cambio, demos el doble de esfuerzo mañana."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Oh! E-está bien. ¡Hagámoslo!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Entendido. Entonces, iré a comprar ropa nueva hoy."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ummmm..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella se va a comprar ropa nueva, y al día\nsiguiente, volvemos a nuestro horario de\nentrenamiento regular."
+    }
+  ]
+}

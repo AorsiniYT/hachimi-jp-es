@@ -1,0 +1,48 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estoy teniendo una reunión con Eishin Flash,\ncuando..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Ngh.",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Mis disculpas. Me desperté con dolor de cabeza\nesta mañana..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Ugh... No otra vez...",
+      "choice_data_list": [
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sí, no hay motivo de preocupación."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Tomé medicamento hace treinta minutos. Debería\nhacer efecto en un momento."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "El dolor debería desaparecer a las 5 p.m. como muy\ntarde..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "P-por favor... continúa la reunión..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella intenta poner cara dura, pero el dolor no\ndisminuye. Peor aún, es atormentada por dolores de\ncabeza por un tiempo después."
+    }
+  ]
+}

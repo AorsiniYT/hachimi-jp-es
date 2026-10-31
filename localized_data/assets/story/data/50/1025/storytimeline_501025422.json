@@ -1,0 +1,20 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Manhattan Cafe corre maravillosamente en el St.\nLite, y todo gracias al trabajo de preparación que\nhemos estado haciendo desde la primavera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque su resistencia está mejorando, sus uñas\nsiguen siendo preocupantemente frágiles."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No obstante, con el apoyo tanto de su amiga como\nde Agnes Tachyon, Manhattan Cafe decide correr en\nel Kikuka Sho.",
+      "color_text_info_list": [
+        "Kikuka Sho"
+      ]
+    }
+  ]
+}

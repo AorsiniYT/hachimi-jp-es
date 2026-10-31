@@ -1,0 +1,337 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Con sus encantos naturales, Mayano Top Gun se ha\nvuelto bastante popular desde que empezó a\ntransmitir."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, parece que ha dejado de transmitir\npor alguna razón. Pasamos el día entero juntos,\nasí que...",
+      "choice_data_list": [
+        "¿Ya no vas a transmitir más?",
+        "¿Ya no vas a transmitir más?"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Emm... ¡Nah, se volvió aburrido! ¡Salir contigo es\nmucho más divertido!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Estuvo bien recibir tantos elogios, pero creo que\nya he tenido suficiente!",
+      "choice_data_list": [
+        "Pero parecías estar disfrutando mucho..."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "E-está bien! ¡Cambiemos de tema!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Hay un nuevo número de mi revista favorita, así\nque voy a ir a comprar una copia! ¡Nos vemos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin realmente decir nada, Mayano Top Gun sale\ncorriendo a toda velocidad.",
+      "choice_data_list": [
+        "Algo está mal..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decido revisar sus grabaciones archivadas para ver\nsi puedo averiguar qué está pasando.",
+      "choice_data_list": [
+        "Parece que hay muchos comentarios negativos sobre\nmí...",
+        "Parece que hay muchos comentarios negativos sobre\nmí..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ahora que he aparecido en algunas de sus\ntransmisiones, se nota un celo hacia mí en los\ncomentarios."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me pregunto si estos comentarios son la razón por\nla que Mayano Top Gun dejó de transmitir.",
+      "choice_data_list": [
+        "Tengo que hablar con ella..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hay tantos lugares a los que podría haber salido\ncorriendo, así que los reviso uno por uno."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Entrenador?!",
+      "choice_data_list": [
+        "¡Finalmente! ¡Aquí estás!"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Has estado buscándome todo este tiempo?",
+      "choice_data_list": [
+        "Descubrí por qué dejaste tus transmisiones en\nvivo."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "N-no quiero hablar de eso. Ya te dije por qué lo\ndejé...",
+      "choice_data_list": [
+        "Gracias por preocuparte por mí.",
+        "Gracias por preocuparte por mí.",
+        "Deja que los odiadores sigan odiando.",
+        "Sería un desperdicio de tu talento renunciar\nahora.",
+        "Sería un desperdicio de tu talento renunciar\nahora."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "N-no quiero hablar de eso. Ya te dije por qué lo\ndejé...",
+      "choice_data_list": [
+        "Gracias por preocuparte por mí.",
+        "Gracias por preocuparte por mí.",
+        "Deja que los odiadores sigan odiando.",
+        "Sería un desperdicio de tu talento renunciar\nahora.",
+        "Sería un desperdicio de tu talento renunciar\nahora."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una vez que le diga que vi los comentarios\nnegativos y lo agradecida que estoy por su\nconsideración..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "E-eso no es! ¡Solo me aburrí, lo juro!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Decidí parar por un tiempo y me di cuenta de que\nbrillo más cuando estoy corriendo!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Quiero seguir corriendo y trabajando duro contigo\na mi lado."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Quiero hechizar a la gente como nunca antes!",
+      "choice_data_list": [
+        "Mayano..."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡D-detente! ¡Deja de poner esa cara triste!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Siempre seré feliz mientras estés conmigo,\nEntrenador—no importa lo que esté haciendo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Asiento en silencio a sus palabras."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incluso si ella está mintiendo, estoy segura de\nque es por una buena razón, y no debería intentar\nexponerla a la fuerza."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En cambio, como su entrenador, es mi trabajo\nayudarla a alcanzar sus sueños y hacerla brillar.",
+      "choice_data_list": [
+        "¡Te prometo que te haré feliz!",
+        "¡Te prometo que te haré feliz!"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡¿Eh?!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "E-E-Entrenador! ¿Qué acabas de—",
+      "choice_data_list": [
+        "¡Te haré brillar más que cualquier otra corredora!",
+        "¡Te haré brillar más que cualquier otra corredora!"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Oh... Entonces eso es lo que quisiste decir."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Vale, ¡yo también haré una promesa!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Prometo que me convertiré en una dama\ndeslumbrante que nunca pierde! ¡Seré tan brillante\ncomo las estrellas!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Mientras esté contigo. ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le explico que quiero que siga transmitiendo\nexactamente como lo ha hecho hasta ahora..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Pero por qué?!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Deberías estar molesta! ¡Debería doler! Siempre\ntrabajas tan duro..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Me ayudas con la filmación y el entrenamiento, y\nsiempre me estás apoyando..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Pero esos comentarios son mi culpa... Son mi\nculpa, así que ¿por qué?!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Estás siendo tonto, Entrenador! ¿Por qué no estás\nenojado conmigo?!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "<i>Haa...</i>",
+      "choice_data_list": [
+        "Lo siento...",
+        "Lo siento..."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "<i>Sollozando...</i> Esto es a lo que me refiero..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Me gusta cómo eres súper amable conmigo, pero no\nestás permitido a ser tan amable con nadie\nmás—¡solo conmigo!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Puedes enojarte todo lo que quieras con los\ncomentarios que dicen que eres innecesaria o algún\ntipo de molestia!",
+      "choice_data_list": [
+        "Demostrémosles que se equivocan en tu próxima\ncarrera."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Entrenador..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Bien! ¡Supongo que no tengo opción!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Vale. Voy a tomar el primer lugar solo para ti, mi\ndulce Entrenador!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Eso pondrá a los odiadores en vergüenza!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El cielo nocturno está lleno de estrellas\nbrillantes, como si representaran el futuro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella no debería dejar de transmitir solo por\nalgunos comentarios negativos dirigidos hacia mí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le pregunto si se ha divertido con su audiencia\nhasta ahora."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Por supuesto que sí, pero dijeron cosas tan\nterribles sobre ti...",
+      "choice_data_list": [
+        "Creo que entenderán si solo les dices cómo te\nsientes."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "...Está bien. Lo intentaré una vez más."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Pues... Hace mucho tiempo, ¿eh? Este es el Canal\nMaya."
+    },
+    {
+      "name": "Comentarios",
+      "text": "Espectador A: ¿Maya? ¿Eres realmente tú?!\nEspectador B: ¡Te he extrañado mucho! Espectador\nC: Parece un poco triste."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Ehehe, lo siento. Tengo algo de lo que quiero\nhablar con ustedes hoy..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Diciendo esto, Mayano Top Gun baja la mirada hacia\nel suelo, insegura de cómo abordar el tema.",
+      "choice_data_list": [
+        "(¡Tú puedes, Mayano!)"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "...Transmitir ha sido muy divertido, y estoy muy\nagradecida de que ustedes me hayan estado viendo."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Pero todos los comentarios negativos hacia mi\nentrenador me ponen triste."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Ambos estamos trabajando muy duro para que pueda\nganar mis carreras..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Estoy súper agradecida de tener su apoyo, pero no\nquiero estar triste, ¿saben?"
+    },
+    {
+      "name": "Comentarios",
+      "text": "Espectador D: ¡Te amamos! Espectador E: Lo siento,\nMaya. Espectador F: Supongo que nos excedimos,\n¿eh..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Gracias a todos. Pero aún creo que voy a tomar un\ndescanso de transmitir por un tiempo.",
+      "choice_data_list": [
+        "¿Qué?!"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Durante mi pequeño descanso, me di cuenta de\nalgo—estoy en mi máximo esplendor cuando estoy\ncorriendo."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Los voy a extrañar, pero... ¡Quiero mostrarles la\nmejor y más increíble versión de mí misma!"
+    },
+    {
+      "name": "Comentarios",
+      "text": "Espectador G: ¿En serio? Espectador H: Esto\napesta..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Chicos..."
+    },
+    {
+      "name": "Comentarios",
+      "text": "Espectador I: ¡Te apoyaré, Maya! Espectador J: ¡Yo\ntambién! Espectador K: ¡Iré a ver tu próxima\ncarrera!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Gracias! ¡Ustedes siempre pueden venir a mis\ncarreras! ¡Los estaré esperando en la pista!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En el siguiente entrenamiento, noto una multitud\ninusualmente grande de fans animando a Maya."
+    }
+  ]
+}

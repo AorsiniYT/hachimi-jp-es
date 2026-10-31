@@ -1,0 +1,374 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Siempre me han gustado las cosas divertidas más\nque las cosas molestas."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Oye, Jordan! ☆ ¿Quieres agarrar una hamburguesa\ndespués de la escuela?",
+      "color_text_info_list": [
+        "Jordan"
+      ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¡Escuché que esta tienda está haciendo una\ncolaboración con esa marca que te gusta, y puedes\nconseguir una bolsa de compras especial!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿¡No es broma?! ¡Tenemos que ir, entonces!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Espera, Jordan! ¡Los plátanos se consideran un\nsnack! ¡No olvides la bolsa de compras!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿¡En serio?! Ok entonces, también agarraré algunos\nplátanos..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Espera, qué tienen que ver los plátanos con\nnada?! ¡No me importan los plátanos!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Ahahaha! ¡Qué lástima! ¡Hasta luego, apestoso!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Qué demonios..."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "En fin... ¿Qué quieres hacer? ¿Ir después de la\nescuela?"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¿Qué hacemos? ☆ ¿Comer, charlar, relajarnos?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Oh! Entonces, sobre eso..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "(No tengo idea de qué pasa con Golshi, pero Palmer\ny Helios son mis mejores amigos. Siempre están\ndispuestos a hacer el tonto, y los amo a muerte!)",
+      "color_text_info_list": [
+        "Golshi",
+        "Palmer",
+        "Helios"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Oh, mierda. Casi es la hora."
+    },
+    {
+      "name": "Profesora",
+      "text": "¡Espera, Jordan! Sobre esa tarea de literatura..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Ay... ¿Por qué esa cara de susto?"
+    },
+    {
+      "name": "Profesora",
+      "text": "¡¿Por qué crees?! ¿No les dije específicamente a\ntodos que hicieran el trabajo ellos mismos?\nEntonces, ¿vas a decirme por qué copiaste todas\ntus respuestas de los otros?!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Ah, bueno... Intenté hacerlo yo misma, pero\ncomo... ya sabes..."
+    },
+    {
+      "name": "Profesora",
+      "text": "<i>Suspiro...</i> Entiendo que no te sientas motivada,\npero no puedes continuar así. Necesitas adquirir\nel hábito de realmente esforzarte."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Bip, bip, bip!</i>"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Oh, hora de hacerme las uñas. ¡Luego, Profe! ☆"
+    },
+    {
+      "name": "Profesora",
+      "text": "¡¿Tus uñas?! ¡Esto es mucho más importante! ¡Alto\nahí mismo, Jordan!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿¡En serio me vas a perseguir?! ¿En serio,\nliteralmente?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hoy, me han llamado a la oficina de la directora\njunto con los otros entrenadores."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Felicitaciones! Para todos ustedes que enfrentan\nel tercer año junto con sus trainees, les deseo la\nmejor de las suertes!",
+      "color_text_info_list": [
+        "tercer año"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ya hemos informado a los profesores de los\ntrainees sobre la situación, así que por favor\nguíen a sus pupilos mientras se coordinan con sus\nprofesores cuando sea necesario."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "No olviden, aunque las Umamusume pueden ser\natletas competitivas, también son estudiantes de\nesta academia.",
+      "choice_data_list": [
+        "¡Entendido!"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Esperamos con ansias tres años fructíferos! ¡Los\nanimamos a todos! ♪"
+    },
+    {
+      "name": "Gold City",
+      "text": "Ah, aquí estás, Jordan. Y veo que te has pintado\nlas uñas de nuevo. ¿Top coat?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Ah, ¿City?",
+      "color_text_info_list": [
+        "City"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "(Además de ser una corredora, City también es una\nmodelo—es la verdadera. ¡No tengo más que\nrespeto!)"
+    },
+    {
+      "name": "Gold City",
+      "text": "Sabes, la profesora me pidió que te dijera algo.\nSupongo que tienes que hacer clases extra, asi que\nnecesitas hablar con tu entrenador para averiguar\ncuándo."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Uy! ¡Perdón por hacer que me lo dijeras!"
+    },
+    {
+      "name": "Gold City",
+      "text": "No es gran cosa. Tenía tiempo, y estaba de camino."
+    },
+    {
+      "name": "Gold City",
+      "text": "De todos modos, realmente eres un desastre, ¿eh?\n¿Por qué no le dijiste simplemente a la profesora\nlo que pasó?"
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Cómo intentaste hacer el trabajo tú misma, pero\nno podías leer ninguno de los kanji en las\npreguntas?"
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Así que pasaste el <i>todo</i> el día buscando cómo\nleerlos en tu teléfono?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Cómo supiste eso?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Escuché a Tickezo llorando por eso en la plaza\nantes.",
+      "color_text_info_list": [
+        "Tickezo"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Ella estaba hablando de cómo estudiaste tan duro\nanoche."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Ahhh... Bueno, eso suena como ella."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "La cosa es... Simplemente no sé realmente cómo\nexplicarlo. No creo que la profe lo entienda."
+    },
+    {
+      "name": "Gold City",
+      "text": "Aun así, es importante que intentes."
+    },
+    {
+      "name": "Gold City",
+      "text": "Quiero decir, la gente se equivoca sobre ti\nincluso en los mejores momentos."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Eso es cierto..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Ok. De todos modos, tengo algunos asuntos propios.\nAquí, esto es para ti."
+    },
+    {
+      "name": "Gold City",
+      "text": "Es un esmalte de uñas especial recomendado para\ndeportes. Yo escuché que estás tratando de\nfortalecer tus uñas, así que ¿por qué no probarlo\nhoy?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Guau... ¡Gracias! Sí, porque hoy es el gran día!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "El día en que realmente empiezo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ya es hora de mi sesión de entrenamiento con Tosen\nJordan. Me dirijo a la pista como está programado,\npero...",
+      "choice_data_list": [
+        "Me pregunto dónde está ella."
+      ],
+      "color_text_info_list": [
+        "★★★"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Mierda... Ya estás aquí. Ni siquiera me he puesto\nmis tacos aún.",
+      "choice_data_list": [
+        "¿Es un mal momento?"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Mis uñas aún no se han secado. No puedo correr por\nun rato. Podrían romperse. Tengo que esperar."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Um... Y, bueno..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Es solo que... eres tan paciente todo el tiempo,\nincluso ahora."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Nunca me dices que deje de inventar excusas o que\ndeje de jugar con mis uñas.",
+      "choice_data_list": [
+        "Porque eso significaría que no te estoy\nescuchando.",
+        "Porque eso significaría que no te estoy\nescuchando."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Mmm..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Entonces, volviendo a lo que decía. Mis uñas de\nlos pies son frágiles. Si no las cuido, no podré\ncorrer al máximo."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Como, estaríamos fritos si alguna se rompe. No\npodría participar en ninguna carrera."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "La verdad es que quería terminar el cuidado de mis\nuñas antes, pero la profe no dejaba de\nfastidiarme. Así que como..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Uh, sabes... Um...",
+      "choice_data_list": [
+        "¿No tuviste suficiente tiempo?",
+        "¿No tuviste suficiente tiempo?"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Sí! ¡Exacto!",
+      "choice_data_list": [
+        "Entrenemos una vez que tus uñas estén secas."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Claro!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "(No puedo explicar exactamente cómo, pero la\npersona frente a mí—mi entrenador—es diferente a\notros adultos.)"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "(Mi entrenador tiene un auténtico... aire de\nentrenador.)"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Vale, una más!",
+      "choice_data_list": [
+        "¿Aún puedes correr?"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Totalmente! ¡Sin problema! Tengo que prepararme\npara mi carrera debut, ¿verdad?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Además, aparentemente tengo clases extra. Si las\nprograman el día de mi debut, sería un gran\ndesastre, ¿sabes? Así que, como, ¿podrías hablar\ncon mis profesores? Graaacias.",
+      "choice_data_list": [
+        "¡Vaya, ¿por qué es la primera vez que me entero de\nesto?!"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Porque solo te lo estoy diciendo ahora. De todos\nmodos, deberías poder hacer que lo entiendan,\nsiendo que eres un adulto, por no mencionar que\neres entrenador."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Puede que sea tonta, pero puedo correr con los\nmejores!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Y así, Tosen Jordan y yo comenzamos nuestro\nviaje para enfrentar la Twinkle Series.",
+      "color_text_info_list": [
+        "Twinkle Series"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...Oh. Vaya."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Eh? ¿Qué pasa?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Ah, no es nada. Solo quiero ir a comprar una nueva\nbase. ¿Sabes?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Uf. Mi uña del pie está negrísima. Es como...\nesmalte natural? Raaaro"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "En serio. Intentas hacerlas brillar un poco y esto\nes lo que pasa. ¿Por qué me han traicionado, uñas?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Oye, vamos. Eres parte de mí, así que haz lo que\ndebes y ayúdame a correr!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Sin duda, ¡voy a ganar esto!"
+    }
+  ]
+}

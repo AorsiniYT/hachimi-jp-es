@@ -1,0 +1,252 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sakura Chiyono O",
+      "text": "E-eh ¡Entrenador! ¿P-puedes hacerme un favor?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿P-puedes tomarme una foto?!",
+      "choice_data_list": [
+        "Claro, pero ¿por qué?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Mi familia dice que quiere ver cómo soy en la\nescuela..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Les he enviado muchas fotos, pero mi hermana menor\nno deja de molestarme para que le envíe más."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Estoy segura de que solo se está burlando de mí,\nasí que quiero conseguir una foto realmente buena\nque la haga dejar de molestarme. ¡Tienes que\nayudarme, Entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No puedo negarme a ayudarla después de eso, así\nque comenzamos nuestra sesión de fotos\nimprovisada, esperando la toma perfecta, pero..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Vale, aquí voy! ¡Hmph!",
+      "choice_data_list": [
+        "¿Qué es eso del libro?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Es un accesorio! Quiero hacer parecer que estoy\nleyendo un libro con calma mientras soy inmune a\ntodo el caos a mi alrededor!",
+      "choice_data_list": [
+        "...¿Siempre lees libros en el pasillo?",
+        "...¿Siempre lees libros en el pasillo?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "N-no... pero veo cosas así en las revistas todo el\ntiempo..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Es muy fuera de mi personaje? Está bien,\nentonces, ¿qué te parece esto?!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Está bien... Adelante, toma la foto. Muy bien,\ntengo esto...",
+      "choice_data_list": [
+        "¿Qué estás bebiendo?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Esto? Es café... Quiero capturar la imagen de mí\nrelajándome y sosteniendo una taza de café.",
+      "choice_data_list": [
+        "...¿A quién intentas copiar?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Eh? Eh... City..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "La vi en una revista el otro día, sosteniendo un\ncafé en una mano y empujando su cabello hacia\natrás con la otra. ¡Se veía tan genial!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Pero supongo que no encaja del todo con mi imagen,\n¿eh? Hm...",
+      "choice_data_list": [
+        "Deberías ser tú misma.",
+        "Deberías ser tú misma."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿C-crees realmente eso? Hehe. Entonces actuaré\nnatural..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Espera. ¿Cómo actúo normalmente de nuevo? ¿Esto\nestá bien? ¿O algo así?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que está pensando demasiado las cosas y ha\nolvidado cómo actuar natural. Pienso en qué\npodemos hacer para que vuelva a la normalidad.",
+      "choice_data_list": [
+        "Invitemos a algunos de tus amigos a unirse.",
+        "¿Por qué no le muestras a tu familia cómo son las\ncosas directamente?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Oh, sí! Como dice el refrán, ¡tu verdadero yo no\nse esconde con un amigo a tu lado!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Bueno, nunca pensé que tendría una sesión de fotos\ndentro de nuestro salón de clases."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Gracias por su ayuda, Ardan y Yaeno!",
+      "choice_data_list": [
+        "Está bien, ¿por qué no intentan posar todos?"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...¿Cómo se ve esto?"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Esa es una pose muy valiente, pero no captura\nrealmente la personalidad de Chiyono O."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Qué tal si tomamos una foto de todos sentados\njuntos y tomando notas? Una muestra de estudio\napasionado es más fiel a su naturaleza."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Eso sería más fiel a su personaje, pero como esto\nes para su familia, ¿no sería mejor tomar una foto\nmás desenfadada?"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Tienes un punto... Supongo que deberíamos hacer\nalgo que encarne el espíritu de \"wahey\", entonces."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Helios dice eso a menudo, y creo que es una señal\nde que algo divertido está por comenzar."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Pero espera—si es una señal, entonces, ¿por qué\nsiempre dice \"wahey\" múltiples veces en la\nconversación?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Pfft... ¡Ahahaha! Es demasiado gracioso verlos a\nlos dos decir \"wahey\" con caras completamente\nserias! ¡Hehehe!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Es extraño? También la he escuchado exclamar\ncosas como, \"¡Wahey! ¡Somos mejores amigos para\nsiempre!\""
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Abandonemos esta idea de \"wahey\" por ahora. Es un\nconcepto muy específico de Helios y no creo que\nseamos capaces de encarnarlo todavía."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Oh, los conceptos son una gran idea! Como dice el\nrefrán, \"¡la fiesta no puede empezar hasta que las\nvibras entren!\" ¿Por qué no creamos nuestra propia\nversión de wahey?"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Entonces, al final, ¿todavía vamos con la idea de\nwahey?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una sonrisa natural florece en el rostro de Sakura\nChiyono O, y aprovecho la oportunidad para tomar\nuna foto de ella charlando con sus amigos."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Viste la foto? Hehe. ¿Mis amigos no son geniales?\n♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, ella envía la foto a su familia,\ny la escucho felizmente contándoles sobre su vida\nescolar."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Q-qué?! ¿Quieres decir como... ¿tener una\nvideollamada con ellos?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "No lo sé... No hemos hablado últimamente... No\nestoy segura de que eso vaya bien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como Sakura Chiyono O es demasiado reacia a\nhacerlo, tomo su teléfono para mostrarle a su\nfamilia exactamente cómo es en la academia en su\nlugar."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Ack! Espera, ¿por qué <i>todos</i> están en la llamada?!"
+    },
+    {
+      "name": "Hermana menor de Chiyono O",
+      "text": "¡Fuiste tú quien de repente dijo que iba a empezar\nuna videollamada, así que por supuesto queremos\nver qué pasa!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Qué quieres decir?! ¡<i>Ustedes</i> fueron los que me\ndijeron ayer en LANE que querían verme!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Entonces, ¿qué piensas? ¡Adelante, empápate de la\nvista de tu hermana mayor en la Academia Tracen!"
+    },
+    {
+      "name": "Segundo hermano mayor de Chiyono O",
+      "text": "¿De <i>verdad estás </i>en la Academia Tracen? ¡Apuesto a\nque solo nos estás mintiendo!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Disculpa! ¡Elegí un lugar sin gente alrededor\nporque soy considerada así! ¡Realmente estoy en\nTracen ahora mismo!"
+    },
+    {
+      "name": "Hermano mayor de Chiyono O",
+      "text": "Jaja. Vamos, muéstranos el lugar. Quiero ver cómo\nes."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Eh... ¿Está bien si damos una vuelta, Entrenador?"
+    },
+    {
+      "name": "Hermana menor de Chiyono O",
+      "text": "¿Qué?! ¡Tu entrenador está ahí?! ¡No way! ¡Quiero\nver cómo es tu entrenador!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Acaso te importo?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La llamada de Sakura Chiyono O con sus hermanos\ncontinúa por un largo rato."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Mi hermana menor es terrible! ¡Ella tomó un\nmontón de capturas de pantalla de mí durante\nnuestra videollamada anoche y me las envió!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Excepto que todas son de mí con los ojos medio\ncerrados o haciendo caras raras! Ugh, ella solía\nser tan linda, pero ahora es una mocosa!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Y mi segundo hermano mayor también me estuvo\nmolestando. Honestamente, la única persona de mi\nlado es mi hermano mayor!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero a pesar de todas sus quejas, Sakura Chiyono O\nse ve extremadamente feliz."
+    }
+  ]
+}

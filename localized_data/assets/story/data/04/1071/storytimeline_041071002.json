@@ -1,0 +1,202 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mejiro Ardan",
+      "text": "Uno, dos, tres... Uno... Uno, dos, tres, cuatro..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Uf... <i>Haa... Haa...</i> Tres series completadas...\nCreo que esa cantidad de peso debería bastar..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Observo desde un lado mientras Mejiro Ardan hace\nsu entrenamiento. Es de intensidad ligera, y es\nevidente que va tomando las cosas con calma."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Entre cada ejercicio, la veo sacar una tableta y\ndeslizar la pantalla. Me pregunto qué estará\nhaciendo..."
+    },
+    {
+      "name": "Estudiante A",
+      "text": "Muy bien, hora de levantar pesas—¡guau! ¡Está\nlleno aquí! Eh... ¿hay algún espacio libre?"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Disculpe. Puede usar este espacio si lo desea.\nAcabo de terminar mi entrenamiento."
+    },
+    {
+      "name": "Estudiante A",
+      "text": "¿¡En serio!? ¡Hombre, este es mi día de suerte!\n¡Muchas gracias!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "De nada. Ahora bien, me voy."
+    },
+    {
+      "name": "Estudiante C",
+      "text": "Espera, ¿ya terminó? ¡Pero acaba de llegar!"
+    },
+    {
+      "name": "Estudiante B",
+      "text": "Bueno... No es la más saludable, ¿verdad? Quizás\neso es lo mejor que puede hacer."
+    },
+    {
+      "name": "Rookie Trainer A",
+      "text": "Puede que sea una Mejiro, pero su mala salud opaca\nsu linaje familiar..."
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "De acuerdo. Forzarla a esforzarse también sería\npeligroso... Ella simplemente no está hecha para\nla pista de carreras."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Tazuna tenía razón. Los entrenadores\nobviamente no creen que Ardan tenga lo necesario\npara ser una corredora.",
+      "choice_data_list": [
+        "(¿Pero qué piensa Ardan?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con ese pensamiento, decido seguir a Mejiro Ardan\nfuera del gimnasio, con la esperanza de hablar con\nella."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¡...!",
+      "choice_data_list": [
+        "¿¡Estás bien!?",
+        "¿¡Estás bien!?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras Mejiro Ardan cae al suelo, corro a su\nlado, sosteniéndola."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Oh, disculpa por preocuparte. Solo me sentí un\npoco mareada, pero ahora estoy bien.",
+      "choice_data_list": [
+        "¡Gracias a Dios!"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Jeje, supongo que trabajé un poco demasiado. Solo\nme dieron de alta ayer—¿oh? ¿Dónde está mi\ntableta?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Escaneo el área a mi alrededor, y mis ojos caen en\nun objeto cuadrado justo junto a mis pies—la misma\ntableta que vi a Ardan mirando en el gimnasio.",
+      "choice_data_list": [
+        "¡Aquí está!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras tomo la tableta en mis manos, la pantalla\nse ilumina, y me quedo asombrada por lo que veo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mostrando en la pantalla hay una hoja de cálculo.\nDebajo de cada ejercicio hay notas sobre el\nmétodo, repeticiones, series, peso usado, así como\nsu tempo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incluso a simple vista, es evidente... Ella está\ndecidida a ver hasta dónde puede llegar."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Gracias por recoger eso para mí... ¿Puedo tenerlo\nde vuelta ahora?",
+      "choice_data_list": [
+        "Ah, ¡por supuesto! Perdón por eso.",
+        "Ah, ¡por supuesto! Perdón por eso."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Ardan recupera su tableta antes de\nmarcharse. En mi aturdimiento, yo completamente\nolvidé que quería hablar con ella. En cambio, solo\nmiro cómo se va.",
+      "choice_data_list": [
+        "Ella está... maximizando sus resultados."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incluso los ejercicios estándar llevan su cuerpo\nal límite, pero eso no la detiene de intentarlo.\nEsa hoja de cálculo debe ser solo el principio de\nsu determinación.",
+      "choice_data_list": [
+        "Mejiro Ardan... Guau."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ahora espera... ¿¡Estás segura, Ardan?!",
+      "choice_data_list": [
+        "¿¡...?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Varios días pasan hasta que veo a Mejiro Ardan de\nnuevo, donde la encuentro parada frente a una muy\npreocupada Tazuna."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Debería haber un cupo libre, ¿no? Si es así, me\ngustaría tomarlo."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Por favor, avise al personal que correré en los\n1,200 metros en la pista de tierra.",
+      "choice_data_list": [
+        "(¿¡La pista de tierra?! ¿¡Y por qué un sprint?!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No puedo creer mis oídos. He investigado las\naptitudes de Mejiro Ardan, y lo que estoy\nescuchando no—"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Pero eres más adecuada para carreras de media\ndistancia en pista de césped! No digo que sea\nimposible que ganes, pero tu verdadero potencial\nno brillará."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ardan... ¿Quizás podrías esperar a las próximas\npruebas en unos meses? De esa manera, puedes\nentrar en una carrera más adecuada a tus talentos\ny—"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Pero esos \"pocos meses\" marcan una gran\ndiferencia... Creo que tú y yo somos conscientes\nde lo que quiero decir."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡...!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Nosotras las Umamusume solo podemos brillar por un\ntiempo. Una vez que estemos listas para correr,\nnuestros talentos solo pueden declinar desde allí."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Mis repetidas hospitalizaciones me han impedido\ncorrer en las pruebas... Como tal, el tiempo que\ntengo después de estar lista para correr ha sido\ndisminuido significativamente."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Si retraso mi debut más tiempo, mi mejor momento\nhabrá terminado antes de que pueda siquiera soñar\ncon la Serie Twinkle."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Yo... no quiero que eso pase."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Pero!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Entiendo tus preocupaciones, señorita Tazuna, pero\nmi decisión está tomada."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Por favor, proceda con mi registro de carrera."
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "De vuelta de un paseo, me encuentro con\nMatikanetannhauser y algunas de sus amigas, y\ntodas regresamos a la academia."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Vaya... No puedo creer que terminé quedándome\ndormida durante las escondidas...",
+      "choice_data_list": [
+        "¿Estaban jugando a las escondidas?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Sí. Estábamos jugando con algunos niños como parte\nde nuestro trabajo voluntario."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Pero terminé quedándome dormida en medio del\njuego..."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡No hay necesidad de ponerse tan triste por eso!\nTodos parecían estar divirtiéndose mucho."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Pero Tannhauser, tengo que preguntar, ¿dónde\ndiablos te escondiste?"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Incluso después de que los niños se fueron,\ntodavía no podíamos encontrarte. Estábamos\nentrando en pánico, pensando que te había pasado\nalgo."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Escuché que íbamos a jugar a las escondidas en el\nparque, así que fui y revisé los mejores lugares\nde antemano."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Espera, no me digas..."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "¿Ese cuaderno está lleno de lugares para\nesconderse?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Pero no lo entiendo. Pensé que había elegido un\nlugar donde incluso un niño debería poder\nencontrarme fácilmente..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...¡Espera!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¿Podría ser que soy tan normal y aburrida que los\nniños simplemente me olvidaron?!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Eh, no... Realmente creo que es solo que te\nescondiste demasiado bien..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Oh, esto no está nada bien! ¡Tengo que\nconvertirme en una Umamusume rebosante de\npersonalidad para que nadie me olvide de nuevo!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "¡Eh! Creo que estás bien y eres memorable tal como\neres!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Gracias por la confianza! Pero está bien, estoy\ndecidida a ser mejor!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Así que, aquí es donde te pido a ti, el entrenador\nprofesional, que me des algunos consejos.",
+      "choice_data_list": [
+        "Tal vez deberías hablar de esto con otras\nUmamusume.",
+        "Creo que estás bien como eres."
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Tienes toda la razón! ¡La Academia Tracen está\n<i>llena</i>de Umamusume únicas!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡De acuerdo! ¡Voy a hablar con ellas!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Unicidad, dices? Ah, ya veo... anhelas ser\nincluso una fracción de lo remarkable que soy yo,\nel gran T.M. Opera O!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Excelente! ¡Pon esos sentimientos en una canción!\nVen, ¡tócala para mí! ¡El aria de tu alma!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Eh, de acuerdo—¡allá voy! Oh, ¡cómo ruegooo! ♪ Que\nme convertiré en una Umamusume únicaaaa! ♪"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Bueno, e-e-es una canción hermosa, pero..."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Quizás esa no sea la <i>mejor</i> manera de definirse,\nTannhauser..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Deseas ser única? Jeje, ¡qué proposición\nespléndida! Aquí, te daré mi nuevo brebaje!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Con solo un sorbo te transformarás en un ser\nverdaderamente magnífico, uno que ha trascendido\nlos límites de una Umamusume!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¿Puede realmente hacer todo eso?!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡DETÉNTE!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "¡Eso es demasiado peligroso!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No importa cuántas veces sus amigos intenten\ndetenerla, el deseo de Matikanetannhauser de\ndefinirse a sí misma no puede ser apaciguado."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¿Quedarme como soy? ¿Quieres decir \"quedarme\nordinaria y aburrida\"?"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "No diría que eres ordinaria, precisamente... pero\neres maravillosa tal como eres!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "¡Sí! Siempre eres trabajadora y directa,\nTannhauser! ¡Ya eres la mejor versión de ti misma!",
+      "choice_data_list": [
+        "No hay nada de qué preocuparse."
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Wowww! ¡Muchas gracias a todos!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¿Quedarme como soy, eh? Jeje. Me siento bastante\nsegura de repente."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Así que, en lugar de preocuparme por cómo ser\nyo... solo necesito seguir intentando dar lo mejor\nde mí a mi manera."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Tengo que mantenerlo simple y no pensar demasiado.\nSolo mantener la vista en el premio y..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Reinventarme completamente a través de la moda y\nun nuevo corte de cabello!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "¡Qué?!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¿Por qué harías eso?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, los tres intentamos\ndesesperadamente detener a Matikanetannhauser de\nelegir pelucas y ropa extrañas."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ya veo lo que están haciendo... ¡Están tratando de\nconsolarme, verdad?! ¡Ese es un gesto tan\namable..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Hmmm... ¿Puede la amabilidad ser un rasgo único?\nQuizás si soy amable con suficientes personas..."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Eh... ¿Tannhauser?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Como ayudar a personas en problemas o buscar gatos\nperdidos de carteles de desaparecidos..."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Eh, ¿ya no haces esas cosas?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Sí! ¡Creo que funcionará! ¡Muy bien, es hora de\nir!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Gracias a todos! ¡Voy a volverme súper amable!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "Eh, Tannhauser?!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Ella salió corriendo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Matikanetannhauser sale corriendo con nueva\ndeterminación. Un rato después..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Encontré un gato y ayudé a un montón de gente,\npero..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ahora que me detengo a pensarlo, ayudar a personas\nen problemas es en realidad bastante normal.\nQuiero decir, cualquier chica promedio haría lo\nmismo."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "No puedo creer que intentara ser única haciendo\ncosas totalmente normales... ¿Qué estaba pensando?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "<i>Suspiro...</i> Esto es tan vergonzoso. Pero al\nmenos..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Hoy me agradecieron aún más personas de lo\nnormal! Jeje..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque Matikanetannhauser parece pensar que\nfracasó, no hay signos de arrepentimiento en su\nsonrisa."
+    }
+  ]
+}

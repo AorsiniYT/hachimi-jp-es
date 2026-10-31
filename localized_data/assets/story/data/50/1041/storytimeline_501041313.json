@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Uau!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Gané! ¡He superado la marca de 2,400 metros!",
+      "choice_data_list": [
+        "¡Buen trabajo!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ni siquiera estoy un poco cansada, después de\ncorrer 2,400 metros!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Parece que he progresado mucho!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡No solo tengo velocidad, sino que también tengo\nresistencia!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Creo que ahora tengo lo que se necesita!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Es hora del escenario más grande... ¡3,600 metros!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Cuidado, Centaur Stakes, ahí voy!",
+      "color_text_info_list": [
+        "Centaur Stakes"
+      ]
+    }
+  ]
+}

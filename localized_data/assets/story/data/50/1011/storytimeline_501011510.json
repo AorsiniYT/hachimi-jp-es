@@ -1,0 +1,252 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "En un día libre, veo a Grass Wonder y a Hishi\nAmazon parados junto a la puerta principal."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh, hola, Entrenador. Jeje.",
+      "choice_data_list": [
+        "¿Ustedes dos tienen planes?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hishiama y yo vamos a comprar algunas cosas para\nla residencia."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Perdón por siempre tener que cargar las bolsas.\nNadie más se ofrece nunca."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No, no es ninguna molestia.",
+      "choice_data_list": [
+        "¿Necesitas una mano extra?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Ah? ¿Seguro?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Sí, por favor! ¡Acepto toda la ayuda que pueda\nconseguir!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Muy bien, entonces. No rechazaremos tu\ngenerosidad."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Muy bien, ¿qué tal si nos separamos? Tú y Grass\npueden trabajar juntos."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Necesitamos abastecer la cocina y conseguir\nalgunos suministros para la casa. ¿Cuál quieres\nencargarte?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Si recuerdo bien... la lista de suministros para\nla casa es un poco más larga."
+    },
+    {
+      "name": "Grocer",
+      "text": "¡Nuestros precios son imbatibles! Acabamos de\nempezar una venta por tiempo limitado, ¡así que no\nte la pierdas!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Escuchaste eso? La tienda de comestibles está\nteniendo una venta relámpago."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Qué te gustaría hacer, Entrenador?",
+      "choice_data_list": [
+        "¡Aprovechar antes de que se acabe!",
+        "Vamos a por los suministros para el hogar."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Jeje, qué coincidencia. Yo estaba pensando lo\nmismo."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Ok! Entonces voy a la tienda de abarrotes. ¡Esta\nescena es toda tuya!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ya se está formando una multitud en la entrada...",
+      "choice_data_list": [
+        "¿Seguro que puedes con esto?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Por favor, no te preocupes por mí."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Puede que no disfrute de lugares llenos de gente o\nruidosos, pero eso mismo es la batalla.",
+      "choice_data_list": [
+        "¿La batalla?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Quien no arriesga, no gana, como dicen. Jejeje..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sin tiempo para dudar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Grass Wonder se abre paso rápidamente entre la\nmultitud de compradores que se reúnen."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Disculpe. Estoy esperando en esta fila."
+    },
+    {
+      "name": "Señorita A",
+      "text": "¡Hey! ¡Estás en mi camino!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Podría pedirle que tenga modales y espere en fila\ncomo el resto de nosotros?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella logra hábilmente evitar que la compradora\ninsistente se cuelgue en medio de la fila."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Le importa si cojo unas cuantas de estas\nzanahorias?"
+    },
+    {
+      "name": "Dama B",
+      "text": "¡A-adelante!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella confirma con las personas a su alrededor\nantes de meter la mano para coger unas zanahorias\ncon descuento."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Uf... Aquí están todos mis botines.",
+      "choice_data_list": [
+        "Eso fue una clase magistral de compras..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Grass Wonder conquista por completo la venta\nrelámpago sin una sola mancha en su demostración\nde decoro."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No seas tonto. Aún no has visto nada."
+    },
+    {
+      "name": "Cajero A",
+      "text": "¡Así es, gente! ¡No los encontrarán más baratos en\notro lado!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Oh? Esa tienda de allá también está teniendo una\nventa relámpago..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Jeje, ¿nos vamos? ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pasamos por varias tiendas más que tienen ventas\npor tiempo limitado y terminamos con un número\npreocupante de bolsas."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Lo siento. Me emocioné un poco..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Jajaja! ¡Todo bien! ¡Nuestros compañeros de\nresidencia comen como si no hubiera un mañana!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hishiama... Muchas gracias."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El espíritu competitivo de Grass Wonder sale a\nflote en toda su fuerza, incluso en las compras."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hay más suministros en la lista que comestibles,\nasí que tiene sentido que los dos nos encarguemos."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Ok! Yo me encargo de las compras de comida, ¡y tú\ncuida de lo demás!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Podría pedirte que cargues las bolsas?",
+      "choice_data_list": [
+        "Por supuesto.",
+        "Por supuesto."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Podremos llevar más de lo habitual gracias a tu\nayuda."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Recarga de jabón de manos, verificado. Luego son\nrecargas de detergente y ambientador...",
+      "choice_data_list": [
+        "Eso son muchas bolsas de recarga.",
+        "Eso son muchas bolsas de recarga."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ahorrar cuando se puede es importante. Y también\nlo es el gusto que viene después... Jeje. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Marcamos todo en la lista, nos encontramos de\nnuevo con Hishi Amazon y le damos el cambio."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Uno, dos, tres... ¡Guau, qué ahorrativo, ¿eh?!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Bien hecho, Grass! Eres tan responsable, siempre\npuedo contar contigo."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No, no. Mi entrenador se merece gran parte del\ncrédito."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Te entendí! Bueno, como gracias por ayudar,\n¡déjame invitarte a algo con el cambio!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh, eres muy generoso. ¿Qué tal unos snacks para\nacompañar el té?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Estaba pensando que sería lindo tener una pequeña\nceremonia del té juntos. Si no te importa, quiero\ndecir."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Esa es una idea increíble!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así los tres disfrutamos de un relajante té\njuntos."
+    }
+  ]
+}

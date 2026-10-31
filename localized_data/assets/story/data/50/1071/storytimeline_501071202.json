@@ -1,0 +1,95 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Con solo unos días restantes hasta el Aoba Sho,\nMejiro Ardan organiza una reunión para prepararse."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Y por un pelo, es Sakura Chiyono O en primer\nlugar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Entro a mi oficina y encuentro a Mejiro Ardan\nconcentrada viendo grabaciones de carreras\npasadas."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Oh, Entrenador.",
+      "choice_data_list": [
+        "¿Haciendo algo de investigación?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Sí."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Estaba estudiando cómo han estado corriendo\nChiyono O y Yaeno últimamente."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Han tenido un rendimiento espectacular en sus\ncarreras más recientes."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Tan bien, de hecho, que casi no puedo apartar la\nmirada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esta es la primera vez que veo a Mejiro Ardan\nestresarse por otras Umamusume así—especialmente\ncon su propia carrera tan cerca."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sakura Chiyono O y Yaeno Muteki deben significar\nmucho para ella si está tan alterada...",
+      "choice_data_list": [
+        "Las enfrentarás después del Aoba Sho.",
+        "Las enfrentarás después del Aoba Sho."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Sí, lo haré. Estoy segura de que participarán en\nel Japanese Derby."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Sin embargo, el Aoba Sho es lo que importa\n<i>ahora.</i> Por ende, eso significa que..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Mi objetivo debería ser superar a la mejor\ncorredora que la familia Mejiro haya conocido.\nEso, y nada más."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Oh, parece que puede que me haya desviado.\n¿Comenzamos nuestra reunión?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso, Mejiro Ardan apaga la televisión."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y luego... llega el día del Aoba Sho."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Eso debería bastar. Estoy lista para ir en\ncualquier momento.",
+      "choice_data_list": [
+        "¡Hagamos lo mejor hoy, y pongámonos en buena\nposición para el Derby!"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Sí. Como siempre, correré a mi mejor nivel actual,\ny sin dejar que mi orgullo me domine."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Ahora entonces... me voy."
+    }
+  ]
+}

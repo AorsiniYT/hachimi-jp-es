@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Bostezo...</i>",
+      "choice_data_list": [
+        "¿No dormiste lo suficiente?",
+        "¿No dormiste lo suficiente?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No... Solo ha sido difícil conciliar el sueño\núltimamente.",
+      "choice_data_list": [
+        "¿¡Estás bien?! ¡No te sobreesfuerces!",
+        "¿¡Estás bien?! ¡No te sobreesfuerces!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Vaya, ¡no hay necesidad de alterarse! Y deja de\ntratarme como a un bebé."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Pasa mucho, de todos modos. O no me siento muy\nbien o estoy enojada por algo y no puedo dormir."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Ugh, ¿por qué incluso estamos hablando de esto?\nHabla de patearme cuando ya estoy caída."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Narita Taishin no ha dormido... Debería\ntratarla con más cuidado."
+    }
+  ]
+}

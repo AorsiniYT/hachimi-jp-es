@@ -1,0 +1,401 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "T.M. Opera O y yo nos dirigimos de regreso a la\nacademia cuando ella se detiene de repente."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Entrenador, ¿recuerdas a la princesa en pijama,\nverdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿La princesa en pijama? Debe estar hablando de la\nfan que se escapó del hospital para verla."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Su cirugía es mañana.",
+      "choice_data_list": [
+        "¿Qué podemos hacer para animarla?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Es simple. ¡Vamos y le brillamos con mi\ndeslumbrante sonrisa lo primero mañana por la\nmañana!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así que al día siguiente, pasamos por el hospital.\nSin embargo..."
+    },
+    {
+      "name": "Doctor",
+      "text": "Le pido disculpas, pero ella está..."
+    },
+    {
+      "name": "Enfermera",
+      "text": "¿Estás demasiado asustada por la cirugía?"
+    },
+    {
+      "name": "Chica en Pijama",
+      "text": "<i>Snif... ¡Sollozo!</i>"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Princesa, por favor, contén esas lágrimas. Tus\nojos pronto podrían derramarse junto con ellas.\n¡No te preocupes! Yo soportaré tu lamentación."
+    },
+    {
+      "name": "Chica en Pijama",
+      "text": "O-¡¿Ópera O?!"
+    },
+    {
+      "name": "Chica en Pijama",
+      "text": "Ngh... <i>¡Hic!</i> Lo-lamento! Intenté mucho,mucho\npero... Yo... ¡Yo escapé!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Princess..."
+    },
+    {
+      "name": "Chica en Pijama",
+      "text": "Nunca... ¡Nunca seré como tú!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ay, Princesa. Eso es solo natural.",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Soy yo y solo yo, después de todo... ¡Aún así!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Te lo diré ahora!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Soy T.M. Opera O, la Soberana Centenaria!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Oh, justa Princesa Pijama, no temas! ¡Porque\nconozco tu verdadera fuerza!"
+    },
+    {
+      "name": "Chica en Pijama",
+      "text": "Opera O..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Querida amiga! ¿Sus lágrimas son señal de\ndebilidad? ¿Qué significado hay en ellas? ¡Dime!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿El significado detrás de sus lágrimas? La\npregunta me toma por sorpresa, pero entiendo lo\nimportante que será la respuesta.",
+      "choice_data_list": [
+        "¡Prueba de valor!",
+        "¡Arrepentimiento, seguro!",
+        "¿Duda, quizás?"
+      ]
+    },
+    {
+      "name": "Chica en Pijama",
+      "text": "¿Valor? ...Pero, estoy llorando."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Exacto! ¡Se necesitan lágrimas para el valor de\n¡tomar una postura!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡No debilidad, sino un espíritu que se levanta\npara desafiar lo que tienes frente a ti!"
+    },
+    {
+      "name": "Chica en Pijama",
+      "text": "..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ahora, levántate, Princesa! ¡Enfrenta el desafío\nde frente!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Derrota al dragón!",
+      "choice_data_list": [
+        "¿Qué dragón?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Opera O me está mirando directamente. Eso solo\npuede significar que \"el dragón\" es mi papel que\ndesempeñar."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ese dragón es tu debilidad encarnada! ¡Adelante y\nresuelve esto de una vez por todas!"
+    },
+    {
+      "name": "Chica en Pijama",
+      "text": "¡O-okay! Pero... ¿cómo?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ya tienes un arma en la que se infundió una gran\nluz radiante."
+    },
+    {
+      "name": "Chica en Pijama",
+      "text": "<i>¡Haa!</i> ¡El espejo!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Eso es! ¡Ahora, apunta al dragón! ¡Tu sagrada\ndeterminación desgarrará cualquier monstruo!"
+    },
+    {
+      "name": "Chica en Pijama",
+      "text": "¡Hiyaaah!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "...¿Hola?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Dragón! ¡Esa era tu señal!",
+      "choice_data_list": [
+        "¡Rhhh-RWAAAAAH!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, el dragón es derrotado por las manos de la\npequeña chica."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Princesa, parece que ya no necesitas escorta."
+    },
+    {
+      "name": "Chica en Pijama",
+      "text": "¡Yo... puedo ir sola! ¡No huiré de nuevo!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Muy bien. Te digo adiós por ahora, oh justa y\nvaliente princesa.",
+      "choice_data_list": [
+        "No le llego ni a los talones, Opera O.",
+        "No le llego ni a los talones, Opera O."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "No necesitas. Tu dragón fue lo suficientemente\nconvincente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una carta llega de la chica unos días después.\nElla dice que la cirugía fue exitosa y quiere\ndevolver el espejo. Además..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella planea dejarlo ella misma, pero vistiendo\nropa de día esta vez."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ah, ciertamente! ¡El arrepentimiento es la fuente\nde su dolor! ¡Estas son lágrimas de alguien que\nanhela seguir adelante!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Por eso brillan tanto! ¡Ellas se aferran\ndesesperadamente a la esperanza!"
+    },
+    {
+      "name": "Chica en Pijama",
+      "text": "...¡Ópera O!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Esa lucha en sí misma es la fuerza para seguir\nadelante! ¡Ahora, Princesa! ¡Ha llegado el momento\nde levantarse!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Derrota al Señor Demonio de la Melancolía!",
+      "choice_data_list": [
+        "¿El señor demonio de qué ahora?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Opera O me está mirando directamente. Eso solo\npuede significar que \"el señor demonio\" es mi\npapel que desempeñar."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "El Señor Demonio es tu miedo encarnado!¡Muestra a\ntodos los que se interponen en tu camino\nque<i>volverás</i> a avanzar!"
+    },
+    {
+      "name": "Chica en Pijama",
+      "text": "¡O-okay! Pero... ¿cómo?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ya tienes un arma en la que se infundió una gran\nluz radiante."
+    },
+    {
+      "name": "Chica en Pijama",
+      "text": "<i>¡Haa!</i> ¡El espejo!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Eso es! ¡Ahora, apunta al demonio! ¡Tu sagrada\ndeterminación desgarrará cualquier monstruo!"
+    },
+    {
+      "name": "Chica en Pijama",
+      "text": "¡Hiyaaah!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Tú, enemigo demoníaco... Contempla la luz de la\nprincesa! ¡Que la ilumine y traiga paz al mundo!",
+      "choice_data_list": [
+        "¡Es... demasiado briiillante!"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Hehe, bien hecho, Entrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, el señor maligno es derrotado por las manos\nde la pequeña chica."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Princesa, parece que ya no necesitas escorta."
+    },
+    {
+      "name": "Chica en Pijama",
+      "text": "¡Yo... puedo ir sola! ¡No huiré de nuevo!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Muy bien. Te digo adiós por ahora, oh justa y\nvaliente princesa.",
+      "choice_data_list": [
+        "Soy un señor de la melancolía, huh...",
+        "Soy un señor de la melancolía, huh..."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Por favor, no dejes que eso agrie tu estado de\nánimo."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Un señor demonio y el Overlord son <i>ambos</i>señores,\npor eso su nombre. No es una mala combinación, si\nme lo preguntas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una carta llega de la chica unos días después.\nElla dice que la cirugía fue exitosa y quiere\ndevolver el espejo. Además..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella planea dejarlo ella misma, pero vistiendo\nropa de día esta vez."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Sí! ¡Tener dudas es lo que significa tener vida,\nPrincesa! ¡Esas dudas son las que te harán fuerte!"
+    },
+    {
+      "name": "Chica en Pijama",
+      "text": "¿Dudas... me hacen fuerte?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ciertamente! ¡Y ellas trazan el camino ante ti!\n¡Por lo tanto, está bien que tu camino difiera del\nmío!"
+    },
+    {
+      "name": "Chica en Pijama",
+      "text": "Entonces... es mi propio camino."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ahora, levántate, Princesa! ¡Enfrenta el desafío\nde frente!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Derrota a la niebla fantasma que nubla tu camino\nhacia adelante!",
+      "choice_data_list": [
+        "¿La niebla fantasma?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Opera O me está mirando directamente. Eso solo\npuede significar que \"la niebla fantasma\" es mi\npapel que desempeñar."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡La niebla son todas las cosas que te han asustado\nalguna vez! ¡Adelante y resuelve esto de una vez\npor todas!"
+    },
+    {
+      "name": "Chica en Pijama",
+      "text": "¡O-okay! Pero... ¿cómo?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ya tienes un arma en la que se infundió una gran\nluz radiante."
+    },
+    {
+      "name": "Chica en Pijama",
+      "text": "<i>¡Haa!</i> ¡El espejo!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Eso es! ¡Ahora, apunta a la niebla fantasma! ¡Tu\nsagrada determinación desgarrará cualquier\nmonstruo!",
+      "choice_data_list": [
+        "¡Crees que puedes derrotarme?!"
+      ]
+    },
+    {
+      "name": "Chica en Pijama",
+      "text": "...Ngh!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Princesa, no desvíes la mirada! ¡Tienes lo que se\nnecesita para ganar!"
+    },
+    {
+      "name": "Chica en Pijama",
+      "text": "Ugh... Nngh... ¡Hiyaaah!",
+      "choice_data_list": [
+        "¡Qué?! ¡E-este pooooder!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, la niebla fantasma es derrotada por las\nmanos de la pequeña chica."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Princesa, parece que ya no necesitas escorta."
+    },
+    {
+      "name": "Chica en Pijama",
+      "text": "¡Yo... puedo ir sola! ¡No huiré de nuevo!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Muy bien. Te digo adiós por ahora, oh justa y\nvaliente princesa."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "El futuro es iluminado por una sola, brillante\nluz. Pero cada uno debe caminar su propio camino\nhacia ella."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Por lo tanto, debo caminar por el camino a la\nvictoria—un camino para mí y mi entrenador\nsolamente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una carta llega de la chica unos días después.\nElla dice que la cirugía fue exitosa y quiere\ndevolver el espejo. Además..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella planea dejarlo ella misma, pero vistiendo\nropa de día esta vez."
+    }
+  ]
+}

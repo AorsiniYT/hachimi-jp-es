@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mientras camino por el pasillo, veo a Haru Urara\nviniendo hacia mí, luciendo estresada..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ay, ay, ¡AAAAYYY!",
+      "choice_data_list": [
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Ah, Entrenador... Ugh..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Me duele la cabeza... Es como cuando como\ndemasiado helado..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Uf! ¡No otra vez! ¡AAAAYYY..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Ngh... Creo que veo estrellas..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Haru Urara tiene un dolor de cabeza."
+    }
+  ]
+}

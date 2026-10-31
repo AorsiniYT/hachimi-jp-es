@@ -1,0 +1,73 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Inusualmente determinada, Oguri Cap pide extender\nla sesión de entrenamiento de hoy."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Necesito esforzarme tanto como todos en la\nacademia juntos... ¡No, incluso más que eso!",
+      "choice_data_list": [
+        "¿De dónde viene eso?",
+        "¿De dónde viene eso?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Todos aquí corren todo el tiempo. Incluso a\nesta hora, todos siguen corriendo."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "A menos que alcance su nivel, probablemente no\nlograré entrar en las carreras centrales."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Lo que estoy haciendo ahora no será suficiente. Si\nquiero ganar, no me queda más remedio que entrenar\naún más duro.",
+      "choice_data_list": [
+        "¡Ese es el espíritu!",
+        "Cada uno avanza a su propio ritmo.",
+        "Cada uno avanza a su propio ritmo."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Lo que estoy haciendo ahora no será suficiente. Si\nquiero ganar, no me queda más remedio que entrenar\naún más duro.",
+      "choice_data_list": [
+        "¡Ese es el espíritu!",
+        "Cada uno avanza a su propio ritmo.",
+        "Cada uno avanza a su propio ritmo."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿¡De verdad!? Entonces eso significa...",
+      "choice_data_list": [
+        "¡Entrenamiento extra!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Ya veo. Perfecto. Le daré todo lo que tengo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como prometió, Oguri Cap se pone a trabajar y\ncompleta una larga sesión de entrenamiento."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...¿Me estoy enfocando demasiado en el progreso de\nlos demás?",
+      "choice_data_list": [
+        "Deberías hacer las cosas a tu manera."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí... Tienes razón. Bien, relajémonos por hoy."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Oguri Cap parece haber entendido mi punto, al\nmenos a su manera. La veo asintiendo\nperiódicamente para sí misma mientras se aleja."
+    }
+  ]
+}

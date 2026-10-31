@@ -1,0 +1,118 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras compro en el centro comercial,\nveo a Mejiro Dober y Mejiro Ryan juntas."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "<i>Mordisqueando, mordisqueando...</i>"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Cómo sabe ese?"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Está bueno. Todo lo que hemos probado ha sido\nrico. ¿Puedo tener un momento antes de decidir?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Claro! Toma todo el tiempo que necesites. ¿Por\nqué no vamos a probar esas muestras después?",
+      "choice_data_list": [
+        "Oye, ustedes dos. ¿Haciendo compras?"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Entrenador... No es realmente de tu incumbencia.\nEstoy consiguiendo un regalo para esta señora que\nconozco."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Oh, hola Entrenador. Recibí un regalo de una\nseñora que conozco, así que estamos aquí para\nconseguirle algo a cambio."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Decidimos conseguirle algo dulce, pero todo es tan\nrico, que nos está costando decidir. Jaja."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Decidimos conseguirle algo dulce, pero todo es tan\nrico, que nos está costando decidir. Jaja."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Si estuviéramos buscando algo que combine bien con\nel té, habría podido elegir inmediatamente, pero\nme siento tan indecisa..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Es normal preocuparse demasiado por un regalo para\nalguien que te importa, especialmente since eres\ntan considerado con los demás."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿Yo, considerada? ¿De qué estás hablando? ¡Solo\nestás bromeando, ¿verdad?!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "En cualquier caso, necesitamos decidir qué\nconseguir. Yo no dejaré de probar muestras hasta\nque esté seguro de mi elección!",
+      "choice_data_list": [
+        "Bueno, solo ten cuidado de no exagerar.",
+        "Bueno, solo ten cuidado de no excederte.",
+        "¡Es hora de probar de todo!"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "De cualquier forma, necesitamos decidir qué\ncomprar. ¡No pararé de probar muestras hasta que\nesté segura de mi elección!",
+      "choice_data_list": [
+        "Bueno, solo ten cuidado de no excederte.",
+        "Bueno, solo ten cuidado de no excederte.",
+        "¡Es hora de probar de todo!"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Ugh... La última persona que necesito que me\nregañe eres tú, pero supongo que tienes razón..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Ugh... T-tú podrías tener razón... Ya he comido\nmucho..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Qué tal si cambiamos de tema y olvidamos la\ncomida por completo, entonces? Le puedes comprar\nalgunas chucherías geniales o aceites esenciales\nen su lugar."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Qué tal si cambiamos de tema y olvidamos la\ncomida por completo, entonces? Le puedes comprar\nalgunas chucherías geniales o aceites esenciales\nen su lugar."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Me gusta esa idea. ¡Veamos qué tienen las tiendas\npara ofertar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, logran evitar comer en exceso y consiguen\nencontrar un regalo apropiado."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡Muy bien! ¡El dulce perfecto para ella seguro que\nestá por ahí!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Todavía no hemos revisado el lugar de macarons, el\nlugar de tartas o el lugar de dulces japoneses."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Cierto. Quiero compararlos con el primer postre\nque probamos, así que me gustaría volver allí,\nrealmente..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Por supuesto! ¡Iré contigo! ¡Busquemos el mejor\npostre para ella!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al final, Mejiro Dober logra elegir el dulce\nperfecto... pero termina comiendo en exceso."
+    }
+  ]
+}

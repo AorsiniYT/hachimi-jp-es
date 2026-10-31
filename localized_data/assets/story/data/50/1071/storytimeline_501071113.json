@@ -1,0 +1,350 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, durante los preparativos para la carrera\ndebut de Mejiro Ardan, ambos nos dirigíamos hacia\nla pista de entrenamiento cuando...",
+      "color_text_info_list": [
+        "carrera debut"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¡Ay, no es que..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "<i>Haa... Haa...</i> Yaeno... ¡nunca dejas de\nimpresionar! ¡Tu forma de correr se ve aún más\npulida que antes!",
+      "color_text_info_list": [
+        "Yaeno"
+      ]
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Je... Chiyono O, tu forma de correr es un\ntestimonio de la enormidad de tus esfuerzos. Me\nhas inspirado a redoblar mi propia determinación.",
+      "color_text_info_list": [
+        "Chiyono O"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sigo la mirada de Mejiro Ardan para ver a dos\nUmamusume participando en una competencia\namistosa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una de ellas es Sakura Chiyono O, una estudiante\nalegre conocida por su personalidad sincera y\ntrabajadora.",
+      "color_text_info_list": [
+        "Sakura Chiyono O"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La otra es Yaeno Muteki, una corredora con la\nserenidad de un artista marcial experimentado.",
+      "color_text_info_list": [
+        "Yaeno Muteki"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Y ambas corredoras están en el mismo año que\nMejiro Ardan!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Ambas son tan diligentes en su entrenamiento.\nHaría bien en seguir su ejemplo.",
+      "choice_data_list": [
+        "¿Eres buena amiga de ellas?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Sí. Son muy queridas amigas mías."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Especialmente Chiyono O. Somos compañeras de\ncuarto; ella me ayuda a preparar mis viajes al\nhospital y a veces me visita allí para\nacompañarme."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Por fin saliste del hospital y puedes volver a la\nescuela! ¡Felicidades, Ardan!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Jeje, gracias."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las palabras de Mejiro Ardan traen a la memoria a\nSakura Chiyono O saludándola en las puertas de la\nacademia tras su alta hospitalaria..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "De verdad... le estoy en deuda con ella."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Ah! ¡Ardaaan!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿También vas a empezar a entrenar ahora mismo?"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Sí. Mi carrera debut se acerca rápidamente, así\nque quiero aprovechar para practicar un poco a\núltima hora."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡No puedo creer que por fin esté sucediendo! Estoy\ntan emocionada de correr a tu lado en la Twinkle\nSeries, Ardan!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Siento lo mismo que Chiyono O."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Yaeno..."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Será un placer competir contra ti como tu igual.\nPero antes de eso, espero que me permitas animarte\ndurante tu carrera debut."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Es un honor escuchar tales cosas de ambas."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Sin embargo..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Pretendo dar todo de mí en mi próxima carrera\ndebut, incluso arriesgando mi propia vida."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Dadas mis condiciones físicas, lamento decir que\nno puedo prometer si podré correr con ustedes.",
+      "choice_data_list": [
+        "(...!)"
+      ]
+    },
+    {
+      "name": "Yaeno y Chiyono O",
+      "text": "..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Ahora, si me disculpan, voy a empezar a entrenar.\nEspero verlas pronto..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Entrenador, ¿empezamos?",
+      "choice_data_list": [
+        "C-claro.",
+        "C-claro."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque estoy sorprendida por lo que dijo Mejiro\nArdan, ella no me da mucho tiempo para quedarme en\nshock, y rápidamente la sigo hacia la pista."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "<i>Haa... Haa...</i> ...Mi frecuencia cardíaca es\nestable, y no tengo problemas con las piernas, así\nque, para el siguiente conjunto..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con su carrera debut acercándose, la pasión de\nMejiro Ardan arde con mayor intensidad cada día\nque pasa. Hoy, de nuevo, parece estar probando los\nlímites de sus propias capacidades...",
+      "choice_data_list": [
+        "(Pero aun así...)"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Dadas mis condiciones físicas, lamento decir que\nno puedo prometer si podré correr con ustedes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como su entrenador, pensé que al menos tenía una\nvaga idea de cuánto se juega cada vez que entra en\nuna carrera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero nunca imaginé que expresaría su determinación\ntan firmemente, y mucho menos a amigas tan\ncercanas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras me preguntaba cómo Sakura Chiyono O y\nYaeno Muteki podrían haber tomado las palabras de\nMejiro Ardan..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Eh, ¡entrenador de Ardan!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Disculpa por molestarte en medio del\nentrenamiento, pero ¿podría hablar contigo de\nalgo, por favor?",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Es sobre Ardan, eh..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...¡Muchas gracias!",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Oh, supongo que estarías confundido ya que acabo\nde acercarme a ti de la nada. Bueno, en resumen..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Hubo un período en el que Ardan estuvo\nhospitalizada mucho, y a veces—y quiero decir <i>a\nveces—</i>había esta mirada vagamente solitaria en su\nrostro..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Cada vez que notaba esa mirada, ella lo desechaba\ncon una risita... Pero de alguna manera, no podía\nsacudirme la sensación de que siempre se forzaba a\nsonreír, por mi bien."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Últimamente he visto grandes sonrisas en su cara,\nmucho más que antes, y la determinación que mostró\nen la pista de entrenamiento fue increíble."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Ver ese lado de Ardan, no podía contener mi\nfelicidad! Y pensé para mis adentros, ¡realmente\nnecesito esforzarme más yo misma!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...La causa de ese cambio eres tú, Entrenador.\nElla está así porque has estado ahí para ella\ndesde la prueba."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "No podía animarla por mi cuenta. Así que por eso\nquería agradecerte...",
+      "choice_data_list": [
+        "Parece que realmente has estado pendiente de\nArdan.",
+        "Parece que realmente has estado pendiente de\nArdan."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "B-bueno, si acaso, <i>ella</i> es la que ha estado\npendiente de mí. ¡Es una compañera de cuarto tan\nmaravillosa y—"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Sé que Ardan tiene sus dudas, pero creo en\nella."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Tengo fe en que ella triunfará en su debut y\npodrá correr junto a Yaeno y a mí!",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Yo misma tengo la corazonada de lo profundos que\nson sus sentimientos hacia las carreras."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Pero no es que yo esté menos comprometida! Por\neso, cuando eventualmente competimos algún día,\n¡voy a correr con todo lo que tengo!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Especialmente para el Japanese Derby...! ¡De\nninguna manera voy a dejar que alguien más gane\neso!",
+      "color_text_info_list": [
+        "Japanese Derby"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...¡Perdón por haberme extendido tanto! C-creo que\nmejor me voy ahora. ¡Gracias por prestarme otu\natención!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incluso las queridas amigas de Mejiro Ardan tienen\nabsoluta fe en su capacidad para llegar a la\nTwinkle Series..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lo que significa que, como su entrenador, tengo\nque trabajar aún más duro para asegurarme de que\ncumpla con sus expectativas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras tanto, en el gimnasio de entrenamiento..."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...¡Uf! ¡Una última repetición!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Clang!</i>"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Perfecto. Lo siguiente es..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Dadas mis condiciones físicas, lamento decir que\nno puedo prometer si podré correr con ustedes."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Eso es lo que dijiste hoy. Aún así, estoy\nsegura..."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡Algún día reaparecerás ante mí, como un poderoso\noponente a superar!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "He estado seguro de esto desde que te vi correr en\nla prueba aquel día."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Por el margen más estrecho posible, es Mejiro\nArdan! ¡Ha cruzado la línea de meta!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Señoras y señores, su ganadora para la\nprueba—denle la bienvenida a Mejirooo Ardaaan!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Me estremecí al verlo. Esa extensión de tierra de\n1,200 metros no era en absoluto tu elemento—ni la\ndistancia ni la superficie jugaban a tu favor—pero\nsuperaste todo y emergiste triunfante."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Viendo la forma en que corriste, sentí en ti algo\nque me faltaba... ¡Esa obsesión—esa determinación\nde acero!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "...Ardan. El fuego furioso que impulsa tus piernas\nno se apagará después de una sola carrera debut."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Si he de estar en mi mejor momento cuando nuestro\nenfrentamiento llegue..."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡Entonces debo entrenar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las esperanzas de las tres corredoras se conectan\nen este momento tranquilo—la calma antes de la\ntormenta de la carrera debut de Mejiro Ardan!"
+    }
+  ]
+}

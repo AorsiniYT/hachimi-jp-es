@@ -1,0 +1,137 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Curren Chan se lesiona durante el entrenamiento,\nasí que la llevo a la enfermería."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Ugh... Lo siento mucho, Hermano... Me lastimé..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Ugh... Lo siento mucho, Hermana... Me lastimé..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "No me odies, por favor... <i>Snif...</i>",
+      "choice_data_list": [
+        "Nunca podría odiarte.",
+        "Solo te odiaré si no te mejoras pronto."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Ehe! ♪ Gracias. Eres muy amable. ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Ehe! ♪ Gracias. Eres muy amable. ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "En ese caso, solo voy a acostarme y recuperarme\n¡al cien por ciento!",
+      "choice_data_list": [
+        "Seguro que te mejorarás pronto."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Pero aún así..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "No puedo creer que realmente me lesioné."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Curren Chan está frustrada por su\nlesión."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Grrr!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Eres tan malo!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Eres tan malo!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hmph. Lo que sea. ¡Ahora mi humor está echado a\nperder!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La recuperación de Curren Chan termina tomando más\ntiempo de lo usual."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...No.",
+      "choice_data_list": [
+        "¿No qué?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡No! Voy a hacer lo mejor para mejorar. Así que...\nasí que..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "No digas algo tan triste... Sé que hoy la regué..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Solo quiero que me digas que haga lo mejor."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Solo quiero que me digas que haga lo mejor."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Si estás aquí apoyándome, seguro que puedo\nmejorar. Así que, por favor...",
+      "choice_data_list": [
+        "(Uff...)"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Si estás aquí apoyándome, seguro que puedo\nmejorar. Así que, por favor...",
+      "choice_data_list": [
+        "(Uff...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Curren Chan me mira con ojos llorosos. Casi\ninstintivamente, mi boca empieza a moverse sola.",
+      "choice_data_list": [
+        "...¡Tú puedes!",
+        "...¡Tú puedes!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Ehehe. ¡Vale!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Seré más linda y saludable que nunca antes de que\nte des cuenta, así que espérame, ¿vale? ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Seré más linda y saludable que nunca antes de que\nte des cuenta, así que espérame, ¿vale? ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Curren Chan se recupera notablemente rápido, y\nvolvemos al entrenamiento en poco tiempo."
+    }
+  ]
+}

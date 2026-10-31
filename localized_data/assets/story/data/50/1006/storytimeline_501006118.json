@@ -1,0 +1,64 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El Tenno Sho de primavera ha llegado. Tamamo Cross\nestá compitiendo, así que Oguri Cap y yo vinimos a\nobservarla. Sin embargo...",
+      "color_text_info_list": [
+        "Tenno Sho de primavera"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...¡Guau!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es una carrera increíble."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Ha tomado la delantera! ¡Tamamo Cross ha tomado\nel liderato! ¡Tamamo Cross está al frente! ¡Tamamo\nCross lidera el grupo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tamamo Cross se separa del medio y supera\ninmediatamente a todos los que tiene delante."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Tamamo Cross avanza a velocidad relámpago! ¡Tiene\nuna ventaja abrumadora!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Tama es increíble."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Es verdaderamente rápida... y poderosa también."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Oye, quiero..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Realmente quiero competir contra Tama!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En ese caso, solo hay una opción para nuestra\npróxima carrera.",
+      "choice_data_list": [
+        "¡Inscribámonos en el Tenno Sho de otoño!",
+        "¡Inscribámonos en el Tenno Sho de otoño!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Gracias! ¡Voy a hacerle sudar la gota gorda!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Arima Kinen aún está por delante, pero Oguri\nCap ya encontró su próximo objetivo!"
+    }
+  ]
+}

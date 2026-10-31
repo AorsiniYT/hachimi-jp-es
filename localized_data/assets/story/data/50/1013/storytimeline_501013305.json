@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mejiro McQueen",
+      "text": "Parece que últimamente estamos obteniendo\nresultados bastante positivos.",
+      "choice_data_list": [
+        "También te estás acostumbrando a las carreras.",
+        "También te estás acostumbrando a las carreras."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Sí. Eso se lo debo a la experiencia que adquiero\ncada vez que salto a la pista."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Y el próximo año, podré intentar los Clásicos, así\nque..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Como fondista, absolutamente quiero ganar el\nKikuka Sho y su preludio, el Kobe Shimbun Hai.",
+      "choice_data_list": [
+        "¡Entonces deberemos mantenernos concentrados!"
+      ],
+      "color_text_info_list": [
+        "Kikuka Sho",
+        "Kobe Shimbun Hai"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Sí. No seré negligente en mi entrenamiento.\nMantendré una condición adecuada para lograr el\néxito en los Clásicos."
+    }
+  ]
+}

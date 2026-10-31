@@ -1,0 +1,342 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Habiendo llegado al final de su gira Tiara, Air\nGroove ha ganado un reconocimiento significativo\ncomo la Emperatriz, y el público la observa con\nfervor."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, no está sola en el centro de\natención."
+    },
+    {
+      "name": "Locutora de TV",
+      "text": "¡Silence Suzuka va en cabeza! ¡Silence Suzuka va\nen cabeza!",
+      "color_text_info_list": [
+        "Silence Suzuka"
+      ]
+    },
+    {
+      "name": "Locutora de TV",
+      "text": "¡Y cruza la línea de meta en primer lugar! ¡Nadie\npuede quitarle esa ventaja! ¡Es increíble!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La otra corredora que está causando sensación es\nuna Umamusume conocida como la Corredora de Otro\nMundo—Silence Suzuka.",
+      "color_text_info_list": [
+        "Corredora de Otro Mundo"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al considerar los futuros desafíos de Air Groove,\nSilence Suzuka es alguien que no puede ser\nignorada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El año sénior de Air Groove está casi aquí.\nNecesito hablar con ella sobre nuestros planes.",
+      "color_text_info_list": [
+        "sénior"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "El consejo estudiantil está organizando un evento\nde práctica a gran escala hoy para ayudar a todos\na mejorar sus habilidades."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Naturalmente, Air Groove está ayudando a\norganizar, así que decido echar una mano también."
+    },
+    {
+      "name": "Espectadora Umamusume A",
+      "text": "¡Miren, miren! ¿Esa no es Silence Suzuka?"
+    },
+    {
+      "name": "Espectadora Umamusume B",
+      "text": "¡Guau! ¡Sí, es ella! ¡No sabía que correría en las\nprácticas hoy!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "..."
+    },
+    {
+      "name": "Umamusume Participante A",
+      "text": "¡Somos tan afortunados! ¿Cuántas oportunidades\ntienes de darlo todo con Silence Suzuka?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tanto espectadores como participantes están\nemocionados por la presencia de Silence Suzuka."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Esa es... Suzuka?",
+      "color_text_info_list": [
+        "Suzuka"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Groove también está mirando a Silence Suzuka,\nuna expresión de asombro visible en su rostro.",
+      "choice_data_list": [
+        "¿Estás bien?",
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Puede que no lo sepas, pero Suzuka y yo ya nos\nconocemos."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Hemos practicado juntas varias veces. Pensé que\nconocía bien su potencial."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Sin embargo..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Algo le ha pasado. No es nada como era antes.",
+      "choice_data_list": [
+        "¿Qué es diferente en ella?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "En términos simples... Tiene un aire completamente\ndiferente."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Desde que comenzamos nuestras carreras en la Serie\nTwinkle, nos hemos encontrado de vez en cuando en\nla academia, pero en realidad no nos hemos\nencontrado en la pista."
+    },
+    {
+      "name": "Air Groove",
+      "text": "He visto imágenes de ella corriendo, por supuesto,\npero no tenía idea de que había <i>llegado tan\n</i>lejos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como una Umamusume muy talentosa ella misma, Air\nGroove debe ser capaz de percibir algo en Silence\nSuzuka que yo no puedo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mantiene su mirada fija en Suzuka por unos\ndolorosos segundos, hasta que..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Necesito averiguarlo por mí misma."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella sale disparada sin advertencia, y yo la sigo\ncon alboroto."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Las cosas parecen estar progresando sin problemas.\nEl siguiente grupo es—"
+    },
+    {
+      "name": "Air Groove",
+      "text": "¡Directora!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Air Groove? ¿Hay algún problema en las gradas?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "No, no hay problema. Tengo una solicitud personal."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Y cuál podría ser?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Soy plenamente consciente de que esto es\ninapropiado, pero quiero preguntar si puedo correr\ncontra Suzuka."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Es raro que me pidas algo. Con gusto accedería,\npero las asignaciones para el grupo de Silence\nSuzuka ya están—"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Me gustaría hacer la misma solicitud."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¡Suzuka!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Deseas correr contra Air Groove?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Sí. También tengo curiosidad por ver cómo ha\ncambiado desde la última vez que corrimos juntas."
+    },
+    {
+      "name": "Espectadora Umamusume B",
+      "text": "¡Air Groove va a correr contra Silence Suzuka?!"
+    },
+    {
+      "name": "Espectadora Umamusume A",
+      "text": "¡Dios mío, no puede ser! ¡Tenemos que ver esto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las Umamusume cercanas se animan ante el posible\nenfrentamiento y la noticia comienza a difundirse."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Vaya. No puedo decir que no ahora, ¿verdad? Tienes\nmi consentimiento. Arreglaré los detalles."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Muchas gracias por su magnanimidad."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Fiel a su palabra, Rudolf rápidamente organiza una\npráctica entre Air Groove y Silence Suzuka, y\npronto..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Silence Suzuka se adelanta y toma la delantera,\ncon Air Groove persiguiéndola. Hasta ahora, la\nescena en la pista se desarrolla exactamente como\ntodos esperan."
+    },
+    {
+      "name": "Air Groove",
+      "text": "(Ngh... ¡Qué velocidad increíble! Siempre ha sido\nuna corredora delantera, pero esto es a un nivel\ncompletamente diferente!)"
+    },
+    {
+      "name": "Air Groove",
+      "text": "(Pero aún no la he dejado escapar de mi <i>alcance...\n¡Le </i>arrebataré ese liderazgo!)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuando la carrera llega a la última curva, Air\nGroove intenta acelerar, pero..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Hahhh!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "(¿Qué demonios...?!)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Silence Suzuka aumenta su ritmo. Por más que\nintenta acercarse, Air Groove se encuentra solo\nalejándose aún más."
+    },
+    {
+      "name": "Air Groove",
+      "text": "(No puede ser...)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Groove termina la carrera sin siquiera lograr\nalcanzar la sombra de Silence Suzuka."
+    },
+    {
+      "name": "Espectadora Umamusume A",
+      "text": "¿V-viste eso?! ¡Estuvo adelante todo el tiempo,\npero de alguna manera aún así aceleró al final!\n¡Eso sí que es salvaje!"
+    },
+    {
+      "name": "Espectadora Umamusume B",
+      "text": "¡Logró mantenerse adelante de Air Groove! Eso\nes... increíble."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...",
+      "choice_data_list": [
+        "Air Groove..."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Buena carrera, Air Groove."
+    },
+    {
+      "name": "Air Groove",
+      "text": "S-sí... Felicidades."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Fuiste magnífica, Suzuka. Me alegra haber podido\ncorrer contigo hoy."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Yo también. Espero enfrentarte en una carrera\nformal."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Sí... Yo también."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Bueno, hasta que nos volvamos a encontrar."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ngh..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esa noche en mi oficina, recuerdo la carrera de\nAir Groove y Silence Suzuka."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Pensé que podrías estar aquí."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Tengo algo que discutir contigo. O más bien, tengo\nuna petición."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Quiero que me inscribas en una carrera donde sea\nprobable que me enfrente a Suzuka."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Viste lo que pasó hoy. Me superó por completo."
+    },
+    {
+      "name": "Air Groove",
+      "text": "En los desafíos que se avecinan, Suzuka presenta\nun obstáculo que necesitaré superar.",
+      "choice_data_list": [
+        "Entonces apuntemos al Osaka Hai.",
+        "Entonces apuntemos al Osaka Hai."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Entrenador..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "De todas nuestras opciones en el futuro cercano,\nesta es la carrera donde Silence Suzuka es más\nprobable que aparezca. Si queremos enfrentarla,\ndebe ser nuestra mejor apuesta.",
+      "choice_data_list": [
+        "Derrotemos a Silence Suzuka juntos.",
+        "Derrotemos a Silence Suzuka juntos."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "...Gracias por complacer mi petición egoísta. Te\nprometo que esta vez no perderé."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, hacemos de vencer a Silence Suzuka nuestro\npróximo objetivo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Nuestra próxima carrera es el Osaka Hai! ¡No\npodemos dejar las cosas como están ahora!",
+      "color_text_info_list": [
+        "Osaka Hai"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Reportera A",
+      "text": "Guau, Hishi Amazon fue algo realmente especial. Su\ncarrera hoy fue bastante excelente."
+    },
+    {
+      "name": "Reportero B",
+      "text": "¡De repente nos ha dado algo que esperar para el\npróximo año!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La impresionante actuación de Hishi Amazon crea\nrevuelo entre los espectadores."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Jeje, nada mal, si digo yo mismo.",
+      "choice_data_list": [
+        "¡Gran trabajo allí!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Justo cuando estoy a punto de sugerirle que\ndescanse un poco después de tanto esfuerzo, una\nvoz interrumpe nuestra conversación."
+    },
+    {
+      "name": "Estudiante de Miho A",
+      "text": "¡Hishiama! ¡Fuiste increíble!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Oye! ¿Qué hacen ustedes por aquí?"
+    },
+    {
+      "name": "Estudiante de Miho B",
+      "text": "¡Escuchamos a la gente hablando de ti en las\ngradas! ¡Todos dicen que serás la corredora más\ngrande el próximo año!"
+    },
+    {
+      "name": "Estudiante de Miho B",
+      "text": "¡Nos emocionamos tanto, que tuvimos que venir a\ndecírtelo!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Jeje... Así que todos tienen los ojos puestos en\nmí, ¿eh?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Gracias por el aviso! ¡Supongo que esto significa\nque no habrá descanso para mí!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Muy bien! ¡Vuelvo a la academia a entrenar!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Me voy ahora, Teach!",
+      "choice_data_list": [
+        "¿¡Eh!?"
+      ]
+    },
+    {
+      "name": "Estudiantes de Miho",
+      "text": "¡Espera, Hishiamaaa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hishi Amazon deja el hipódromo de Hanshin con sus\nresidentes siguiéndola. No pude decir una palabra\npara detenerlos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una vez que llegue el nuevo año, Hishi Amazon\nfinalmente entrará en su año clásico."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pronto, será hora de que decida si quiere correr\nla gira de la Triple Tiara o la gira de la Triple\nCorona Clásica."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En mi opinión, la gira de la Tiara se adapta mejor\na ella, considerando su aptitud para carreras de\nmilla y media distancia. Sin embargo...",
+      "choice_data_list": [
+        "(Me pregunto qué elegirá?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le pediré que empiece a considerar sus opciones,\npero por ahora, me enfocaré en nuestros planes de\nentrenamiento en la primera carrera de la Tiara,\nla Oka Sho.",
+      "color_text_info_list": [
+        "Oka Sho"
+      ]
+    }
+  ]
+}

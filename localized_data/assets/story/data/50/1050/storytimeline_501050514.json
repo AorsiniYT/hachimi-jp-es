@@ -1,0 +1,291 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "En mi día libre, noto a Narita Taishin cerca de la\nestación. Debe haber terminado algo, porque se\ndirige de vuelta a la academia."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Espera, ¿no se supone que debe haber un personaje\nde edición limitada <i>Animal Hunt</i> que aparece por\naquí?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Podría atraparlo mientras tenga la oportunidad."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No lo veo en el radar—"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Bwah?!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿¡Qué demonios—?! \"Hormigón húmedo. Por favor,\ntenga cuidado con su paso\"?!"
+    },
+    {
+      "name": "Trabajador de la construcción",
+      "text": "Disculpe, señorita. Creo que su bota está\narruinada. Qué lástima."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Ups."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(Genial, ahora solo tengo una bota. ¿Cómo voy a\nllegar a casa descalza?)",
+      "choice_data_list": [
+        "¿Taishin? ¿Eres tú?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Ugh."
+    },
+    {
+      "name": "Trabajador de la construcción",
+      "text": "Oh, ¿conoce a esta señorita? Ella metió el pie\ndirectamente en el hormigón húmedo."
+    },
+    {
+      "name": "Trabajador de la construcción",
+      "text": "¡Qué bueno que su amiga está aquí ahora, señorita!\n¡Tenga cuidado al llegar a casa!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin está roja de vergüenza mientras el\ntrabajador de la construcción se despide con la\nmano y se va."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No es como si necesitara ayuda o algo. Déjame en\npaz."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de lo que dice, es claro que tendrá\nproblemas para volver a su dormitorio sola.",
+      "choice_data_list": [
+        "Un momento, te compraré unos zapatos.",
+        "Un momento, te compraré unos zapatos.",
+        "Déjame llevarte a una zapatería. Puedes apoyarte\nen mi hombro."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de lo que dice, es claro que tendrá\nproblemas para volver a su dormitorio sola.",
+      "choice_data_list": [
+        "Un momento, te compraré unos zapatos.",
+        "Un momento, te compraré unos zapatos.",
+        "Déjame llevarte a una zapatería. Puedes apoyarte\nen mi hombro."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Tienes cera en los oídos? Dije que no necesito tu\nayuda.",
+      "choice_data_list": [
+        "¿Debería llamar a tu dormitorio en su lugar,\nentonces?",
+        "¿Debería llamar a tu dormitorio en su lugar,\nentonces?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡N-no! ¡Eso solo empeorará las cosas!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Suspiro.</i> Bien. Aquí, toma este dinero y cómprame\nzapatos nuevos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como obtuve su permiso, la llevo a un parque\ncercano para que me espere, luego corro a una\nzapatería."
+    },
+    {
+      "name": "Empleado de la zapatería",
+      "text": "¡A los jóvenes de hoy les encanta este estilo!\nTambién son geniales para correr, ¡así que los\nrecomiendo mucho!"
+    },
+    {
+      "name": "Empleado de la zapatería",
+      "text": "¡Y ya que lo mencionaste antes, estos zapatos\ntambién combinan genial con la moda callejera!",
+      "choice_data_list": [
+        "Ya veo..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Supongo que no puedo equivocarme con zapatos que\ntienen el sello de aprobación de la empleada, así\nque compro el par que ella recomienda."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, corro de vuelta a Narita Taishin y\nle muestro los zapatos nuevos."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Oh, gracias. Eres un salvavidas—"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿¡Qué demonios es esta tontería cursi?!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Estos no son mi estilo en absoluto! ¡Deberías\nsaber mejor!",
+      "choice_data_list": [
+        "Pero el dependiente dijo que combinan bien con la\nmoda callejera.",
+        "Pero el dependiente dijo que combinan bien con la\nmoda callejera."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ahora solo estás admitiendo que te timaron con un\ndiscurso de ventas. Ugh, lo que sea. Supongo que\nme los pondré."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Oh."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(Huh... Estos en realidad no se sienten tan mal\nuna vez que te los pones.)"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Uff.",
+      "choice_data_list": [
+        "¡Te quedan genial, Taishin!",
+        "¡Te quedan genial, Taishin!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "N-no necesito tus halagos. Mientras no se vean\nraros, están bien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin parece indiferente sobre sus nuevos\nzapatos, pero..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh, ¿Taishin? ¿Vas a algún lado?"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Parece que te gustan mucho esos zapatos nuevos\ntuyos! ♪ ¡Se ven increíbles con tu atuendo de hoy!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿C-crees?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Bueno, sí... Supongo que sí."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Absolutamente no! ¡Prefiero saltar allí por mi\ncuenta que apoyarme en ti!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Uf... ¡Ay!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin intenta saltar para ir pero pierde\nel equilibrio después de unos pocos saltos.",
+      "choice_data_list": [
+        "¡Te vas a hacer daño! ¡Vamos, agárrate a mí!",
+        "¡Te vas a hacer daño! ¡Vamos, agárrate a mí!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Ugh, bien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella renuentemente agarra mi hombro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de caminar un rato juntos, encontramos un\nparque y decidimos descansar en un banco.",
+      "choice_data_list": [
+        "Entonces, ¿qué estabas haciendo por allí?",
+        "Entonces, ¿qué estabas haciendo por allí?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Jugando un juego. Uno de esos basados en\nubicación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El juego implica encontrar y capturar personajes\nque son proyectados en el mundo real a través de\nrealidad aumentada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella había estado intentando atrapar un personaje\nde edición limitada cuando la vi frente a la\nestación.",
+      "choice_data_list": [
+        "Tal vez encontremos el personaje mientras\ncaminamos.",
+        "Tal vez encontremos el personaje mientras\ncaminamos."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Como si fuera a ser así—"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡No puede ser! ¡Hay una señal en el radar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aparentemente, el personaje que busca ha aparecido\nrealmente. Ella me dice sus coordenadas, que no\nestán muy lejos de donde estamos ahora.",
+      "choice_data_list": [
+        "Está cerca. ¡Vamos!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué?",
+      "choice_data_list": [
+        "¡Tienes que desahogarte después de todo el\nincidente de los zapatos!",
+        "¡Tienes que desahogarte después de todo el\nincidente de los zapatos!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Hm..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Esa no es una mala forma de verlo. Apestaría\nvolver con mal sabor de boca por eso."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Bien. ¡Definitivamente voy a atraparlo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin asiente, y le presto mi hombro\nnuevamente. Nos dirigimos a donde el personaje ha\naparecido."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nuestro trabajo en equipo da frutos, y Narita\nTaishin logra capturar al personaje de edición\nlimitada.",
+      "choice_data_list": [
+        "¡Felicidades, Taishin!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Sí, gracias. Supongo que me siento un poco mejor."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Habiendo finalmente llegado a una tienda, Narita\nTaishin compra zapatos nuevos. Parece estar de\nmejor humor cuando nos separamos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siento que me he acercado un poco a Narita Taishin\ndespués de trabajar juntos."
+    }
+  ]
+}

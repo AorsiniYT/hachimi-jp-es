@@ -1,0 +1,86 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día en el parque..."
+    },
+    {
+      "name": "Chica",
+      "text": "¡Hola, señor! ¡Juguemos!",
+      "choice_data_list": [
+        "Eh..."
+      ]
+    },
+    {
+      "name": "Chica",
+      "text": "¡Hola, señorita! ¡Juguemos!",
+      "choice_data_list": [
+        "Eh..."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Oh, perdón por ella!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Últimamente, he estado jugando con esta niña\nmientras ella espera a que su mamá termine de\ntrabajar."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ella quiere jugar a la atrapada hoy, pero no es\nmuy divertido con solo dos jugadores, así que..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¿Te gustaría unirte? ¡Solo si quieres, por\nsupuesto! ¿Qué dices?",
+      "choice_data_list": [
+        "Claro."
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Yay! ¡Gracias un montón!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Quiero decir, estoy acostumbrado a cuidar a mis\nhermanitas, pero ni siquiera yo soy lo\nsuficientemente bueno para jugar a la atrapada con\nsolo dos jugadores..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Oh, pero no te sientas obligado a darlo todo con\nnosotros ni nada! Sé que probablemente estés\ncansado del trabajo y todo.",
+      "choice_data_list": [
+        "Entonces, lo tomaré con calma.",
+        "¡No mostraré misericordia!"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Uf, ¡gran trabajo! ¡Quién iba a decir que jugar a\nla atrapada a un ritmo tan relajado sería tan\ndivertido!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Conservé mucha energía trotando casualmente la\nmayor parte del tiempo, así que fue súper fácil\nhacer un sprint hacia mi objetivo en el último\nmomento!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Sí, sí! ¿Sabes qué? ¡Creo que al final fue un gran\nentrenamiento! ♪"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Buen trabajo! Honestamente... No esperaba que\njugaras a la atrapada con tanto entusiasmo como la\nniña..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Pero quedé impresionado! ¡Fuiste muy genial!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Hasta yo me contagié de su energía y me emocioné!\n♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy agotado del juego de la atrapada, pero ver a\nInes Fujin correr de cerca fue una experiencia muy\neducativa."
+    }
+  ]
+}

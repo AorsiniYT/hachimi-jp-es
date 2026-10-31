@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "¡<chrname> parece haber sufrido una leve lesión..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero el campamento de verano solo ocurre una vez\nal año, y el tiempo corre. ¿Qué hacer...?",
+      "choice_data_list": [
+        "Hacer que descanse adecuadamente.",
+        "Animarla a seguir adelante."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decido concentrarme por completo en el tratamiento\ny la recuperación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<chrname> parece estar sintiéndose un poco deprimida porque\nno puede hacer ejercicio..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decido animar entusiastamente a <chrname> a seguir\nadelante..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Pero todo sale mal! Ahora parece que la lesión ha\nempeorado aún más..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Y la lesión se cura milagrosamente! La práctica\nsale perfecta!"
+    }
+  ]
+}

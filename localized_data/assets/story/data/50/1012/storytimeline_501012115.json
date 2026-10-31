@@ -1,0 +1,223 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Con la próxima carrera G1 y la revancha contra\nNarita Brian para preparar, estamos entrenando\nduro. En un día como cualquier otro..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Profesor!"
+    },
+    {
+      "text": "Hishi Amazon entra corriendo a mi oficina con una\nexpresión de dolor.",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Es Brian! Ella está—"
+    },
+    {
+      "name": "Anunciadora",
+      "text": "La URA ha revelado que Narita Brian, campeona de\nla Triple Corona del año pasado, ha sufrido una\nlesión.",
+      "color_text_info_list": [
+        "URA"
+      ]
+    },
+    {
+      "name": "Anunciadora",
+      "text": "Tomará un descanso de las carreras para\nrecuperarse y se proyecta su regreso en otoño."
+    },
+    {
+      "text": "Narita Brian es ampliamente conocida como una de\nlas mejores corredoras. La noticia de su lesión\nimpacta al mundo de las carreras de Umamusume."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "..."
+    },
+    {
+      "name": "Transeúnte A",
+      "text": "¿Espera, Narita Brian se lastimó?! Espero que esté\nbien..."
+    },
+    {
+      "name": "Transeúnte B",
+      "text": "Seguro no es nada de qué preocuparse. Alguien tan\nincreíble volverá a correr fuerte el próximo año,\nestoy segura."
+    },
+    {
+      "name": "Transeúnte A",
+      "text": "Sí, es cierto... ¡No sería la primera en hacer un\nregreso tras lesionarse!"
+    },
+    {
+      "text": "Aunque no están <i>equivocados,</i> ha habido tantas\ncarreras perdidas como salvadas."
+    },
+    {
+      "text": "Brian tiene artritis en su cadera derecha, que\npodría reaparecer incluso después de una\nrecuperación inicial. Las cosas no se ven\noptimistas..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Muy bien, tenemos daifuku salado y galletas de\narroz... ¿Debería llevar algunos libros? ¿Y tal\nvez unas mancuernas? Nah, ni hablar de las\npesas..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Hayahide probablemente ya tiene lo necesario, así\nque con esto probablemente basta."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Vamos, Profesor. Recuerda, nada de caras tristes\nni de desanimarse."
+    },
+    {
+      "text": "Han pasado unos días desde que se reveló la lesión\nde Narita Brian, y las dos hemos decidido ir a\nvisitarla."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Me olía que vendrías, pero... Vaya paquete de\ncuidados que traes."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Oye, siempre es mejor tener de más que de menos!\nLo más importante, ¿cómo te sientes?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No he tenido un momento de descanso, con todos\nustedes de visita... Pero debería estar de vuelta\nen la pista este otoño."
+    },
+    {
+      "text": "Hishi Amazon se anima un poco al escuchar la\nnoticia directamente de la fuente."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "...Bien. Jiji, me alegra escucharlo."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "La verdad, esperaba medio decepcionarme con malas\nnoticias."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No empieces a preocuparte por mí."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "No tiene sentido empezar, juzgando por tu\nexpresión. Bueno, entonces solo dejaré esto aquí."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Espero que estés recuperada para el próximo Arima\nKinen! ¡Te estaré esperando!"
+    },
+    {
+      "text": "Narita Brian mira a Hishi Amazon con frialdad\nmientras emite su apasionada directiva."
+    },
+    {
+      "text": "Eventualmente, Narita Brian recibe el alta del\nhospital."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Me está esperando, huh..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Oye! ¡Y yo que me preguntaba a dónde te habías\nido! ¡Acabas de salir del hospital, no deberías\nandar por ahí!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Oye, Ama.",
+      "color_text_info_list": [
+        "Ama"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Me he estado preguntando... ¿Por qué sigues\npreocupándote por mí?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Eh? ¿Qué es esa pregunta rara de repente?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Cuando me visitaste en el hospital, dijiste que me\nesperarías en el Arima Kinen. ¿Por qué?"
+    },
+    {
+      "text": "Hishi Amazon mira al cielo, como buscando las\npalabras correctas para responder."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Bueno... Es porque no puedo esperar a tener un\nenfrentamiento uno a uno contigo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Siento escalofríos cada vez que corro a tu lado.\nPuedo sentir a la bestia en ti cuando corremos. Y\nno importa cuán lejos corras por delante..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Tengo la sensación de que algún día te alcanzaré."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Vamos, di algo! ¡Es vergonzoso que solo me mires\nasí!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Quieres alcanzarme, huh?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Yo también tengo a alguien a quien quiero\nalcanzar. Por fin entiendo de dónde vienes, Ama."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...No voy a dejar de correr. No tienes que\npreocuparte por eso."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Qué? ¡Espera, a dónde crees que vas?!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Usa el pasamanos mientras bajas las escaleras!\n¡Me estás escuchando?!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Así que sí, eso pasó. Vaya, Brian es tan distante\ncomo siempre.",
+      "choice_data_list": [
+        "Me alegra que se sienta mejor, de todos modos."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Sí, lo mismo. Mejor que desanimarse."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Tengo curiosidad por saber quién es ese \"alguien\"\nde ella... pero sería descortés meter la nariz,\nhuh? Tiene sus propias cosas."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "En fin, solo hay una cosa que hacer ahora—entrenar\ncomo si no hubiera un mañana hasta que llegue el\ninvierno."
+    },
+    {
+      "text": "Después de ver a Narita Brian actuando como su yo\nnormal, Hishi Amazon también se anima."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    }
+  ]
+}

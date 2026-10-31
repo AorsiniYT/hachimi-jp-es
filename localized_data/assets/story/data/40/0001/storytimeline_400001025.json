@@ -1,0 +1,134 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, durante el entrenamiento..."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "He notado que tus sesiones de entrenamiento\nrecientes se han centrado en mejorar la\nrespiración de tu entrenada en medio de la\ncarrera."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "También te has inclinado por el entrenamiento en\npendiente, que construye resistencia y enfatiza la\nresistencia sobre la velocidad..."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¿Acaso planeas correr una carrera de larga\ndistancia?"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "Ajaja... Me atrapaste allí. Nada ha sido anunciado\npúblicamente aún, así que ¿podrías mantenerlo en\nconfianza?"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Por supuesto. Estoy aquí para preguntar sobre el\nprogreso de tu entrenada, nada más."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Ah, Entrenador <username>. Qué gusto verte de nuevo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Otonashi está aquí para realizar\nentrevistas para su revista, pero estoy notando\nalgo...",
+      "choice_data_list": [
+        "Seguro que sabes mucho sobre las Umamusume."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Bueno, <i>soy</i> una reportera. Es mi trabajo tener\ncierta cantidad de conocimiento de fondo."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Cuanto más conocimiento tenga sobre el tema,\nmejores artículos podré escribir."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que la señorita Otonashi toma el tema de\nlas Umamusume más en serio de lo que pensé."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Ah! Disculpa. Solo he estado hablando de mí\nmisma."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Ya que tenemos la oportunidad, ¿te importaría si\nte pregunto sobre tu entrenada?"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¿Qué dirías que es tu próximo obstáculo? No tiene\nque ser nada grande."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de que insiste en que solo es una\nreportera, su experiencia podría ser útil.",
+      "choice_data_list": [
+        "Estamos intentando trabajar en fuerza.",
+        "Estamos intentando trabajar en velocidad."
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¿Fuerza, dices?! Eso... ¡simplemente asombroso!",
+      "choice_data_list": [
+        "¿Perdón?"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "El entrenamiento en pendiente y con pesas son\nformas efectivas de construir fuerza."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Pero lo más importante con diferencia es la\ndieta! ¡Los músculos fuertes y flexibles se hacen\nen la cocina!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Buscas los mejores ingredientes: cerdo okinawense,\nnidos de golondrina y pescado de fondo marino."
+    },
+    {
+      "name": "Monólogo",
+      "text": "(Creo que ella podría haber entendido mal allí,\npero sus comentarios sobre la dieta son muy\nútiles.)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los peces de aguas profundas podrían estar un poco\nfuera de mi presupuesto, pero más tarde atrapo un\npez blanco que es bueno para construir músculo y\nse lo sirvo a <chrname>."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¿Velocidad, dices?! Eso..."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Simplemente asombroso!",
+      "choice_data_list": [
+        "¿Perdón?"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Si buscas velocidad, es importante manejar tu\nporcentaje de grasa corporal y reducir tu peso sin\nperder músculo..."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Sin embargo, puede ser realmente difícil, y\nalgunas Umamusume incluso se enferman por el\nestrés."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Es por eso que debes esforzarte para evitar que\ntu entrenada se estrese!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Así que debes estar gastando sin límites! Hablo\nde alquilar parques de atracciones, cruceros de\nlujo y viajes por carretera transcontinentales al\nextranjero... ¡Ah, qué devoción!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "(Creo que ella podría haber entendido mal allí,\npero sus comentarios sobre reducir el porcentaje\nde grasa corporal son muy útiles.)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los cruceros son caros, pero le doy a <chrname> un descanso\ncomo recompensa por el duro entrenamiento."
+    }
+  ]
+}

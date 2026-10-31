@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Argh, qué demonios?! ¡¿Qué es este dolor\nhorrible?!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Mi máscara se encogió? ¿Grité demasiado cuando vi\nese último combate de lucha libre?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Ugggh... Sea lo que sea, me tiene la cabeza\nsonando como una campana...",
+      "choice_data_list": [
+        "¿Quieres tomarte el día libre?",
+        "¿Quieres tomarte el día libre?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ni de pedo! ¡No voy a permitir que un dolor de\ncabeza me gane!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Muy bien... Uno, dos, tres..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Vamos a laaaaa!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Uuuuugh... No deja de resonar..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella deja de gritar después de eso, pero su dolor\nde cabeza no se irá pronto..."
+    }
+  ]
+}

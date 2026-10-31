@@ -1,0 +1,121 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fan A",
+      "text": "Ahhh, ¡estoy tan emocionada! ¡No puedo esperar a\nque empiece la Japan Cup!"
+    },
+    {
+      "name": "Fan B",
+      "text": "¡La alineación es demasiado impresionante! Está la\nBestia, Oguri Cap, luego está el Rayo Blanco,\nTamamo Cross!",
+      "color_text_info_list": [
+        "Rayo Blanco"
+      ]
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Oye, te estás olvidando de alguien importante!"
+    },
+    {
+      "name": "Fan A",
+      "text": "¡La Uma Musume más preciosa de esta generación,\nGold City! ¡Definitivamente ganará hoy!"
+    },
+    {
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Se están volviendo locos ahí afuera."
+    },
+    {
+      "name": "Gold City",
+      "text": "Solo escucharlo me está poniendo inquieto.",
+      "choice_data_list": [
+        "Mantén la calma. Solo sé tú misma.",
+        "Mantén la calma. Solo sé tú mismo."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Es solo yo, o siempre actúas como si fuera un\nnervioso de pacotilla? Estoy bien."
+    },
+    {
+      "text": "Ve y corre siendo tú misma."
+    },
+    {
+      "text": "Ve y corre siendo tú mismo."
+    },
+    {
+      "name": "Gold City",
+      "text": "...Bueno, supongo que no es la primera vez que me\ndices que sea yo mismo."
+    },
+    {
+      "name": "Gold City",
+      "text": "Siempre me has dicho que corra a mi manera.\nSiempre..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Sabes... ¿por qué <i>me</i> dejaste seguir compitiendo?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Me quejaba literalmente cada segundo, sin\nmencionar lo injusta que fue mi manager contigo."
+    },
+    {
+      "name": "Gold City",
+      "text": "Incluso ignoraste por completo lo que quería en un\nmomento. Eso debió ser difícil para ti."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero aún así me dejaste correr... ¿Por qué?",
+      "choice_data_list": [
+        "Porque hice una promesa."
+      ]
+    },
+    {
+      "text": "Prometo que te mantendré en la pista pase lo que\npase."
+    },
+    {
+      "text": "Prometo que te mantendré en la pista pase lo que\npase."
+    },
+    {
+      "name": "Gold City",
+      "text": "¿...Eso es todo?"
+    },
+    {
+      "name": "Gold City",
+      "text": "¿No por mí? ¿O por ti? ¿O incluso por los fans?",
+      "choice_data_list": [
+        "Sabía que querías correr.",
+        "Sabía que querías correr."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¡...!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Jaja... En serio, eres algo más."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero sabes, me alegro de haber elegido a un\nentrenador pesado y fastidioso... De verdad.",
+      "choice_data_list": [
+        "¡...!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Oh, borra esa sonrisa tonta de tu cara."
+    },
+    {
+      "name": "Gold City",
+      "text": "Puedes mostrármela después de la carrera, ¿vale?"
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Es hora de salir y ser yo!"
+    }
+  ]
+}

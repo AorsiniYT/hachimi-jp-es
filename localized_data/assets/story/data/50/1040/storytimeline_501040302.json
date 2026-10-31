@@ -1,0 +1,378 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día, mientras pasamos por el distrito comercial\nde regreso a casa..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Huh, están haciendo algo por allá."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben su suerte con nuestra rifa\nde Año Nuevo! El primer premio de este año es unas\nvacaciones en aguas termales para dos personas.",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Primeros ganan una hamburguesa de zanahoria\ndeluxe! Segundo, un fardo de zanahorias. Tercero,\nuna zanahoria sola."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡No dejen pasar esta oportunidad! ¡Consigan un\nboleto ahora y giren para tener la oportunidad de\nganar!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Unas vacaciones en aguas termales, huh...",
+      "choice_data_list": [
+        "¿Eres fanática de las aguas termales?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Supongo que sí? Cuando termino un trabajo grande,\nmi manager siempre me lleva a una como recompensa."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero nunca he ido por mi cuenta."
+    },
+    {
+      "text": "De repente, recuerdo que recibí un boleto de rifa\nla última vez que compré por aquí.",
+      "choice_data_list": [
+        "¿Quieres intentarlo?",
+        "¿Quieres intentarlo?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...Seguro, ¿por qué no?"
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Puedo hacer yo el giro?"
+    },
+    {
+      "text": "¡Gold City le da un suave giro a la máquina de\nrifa!"
+    },
+    {
+      "text": "Una pequeña bola de plástico cae de la abertura\ndel tambor..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Santo cielo! ¡Tenemos una ganadora del primer\npremio! ¡Venga y recoja el cupón para sus\nvacaciones en aguas termales! ¡Felicidades!"
+    },
+    {
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Oooh!"
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Whoa, en verdad ganamos!",
+      "choice_data_list": [
+        "Felicidades, City!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Estoy en shock. Fue demasiado fácil..."
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Esto significa que soy..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Quizás los dioses te hicieron un favor por tu\ndeslumbrante belleza, jovencita!"
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Sabes qué, no necesito esto.",
+      "choice_data_list": [
+        "Uh..."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Muchas gracias."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¿Y-yo dije algo malo?!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Siempre soy así. Mamá siempre me regañaba por\nhacer comentarios tan innecesarios. Oh, ¡la\nofendí!",
+      "choice_data_list": [
+        "E-está bien."
+      ]
+    },
+    {
+      "text": "Después de calmar al dependiente de la rifa, me\napresuro a seguir a Gold City con el boleto de\nvacaciones en la mano."
+    },
+    {
+      "name": "Gold City",
+      "text": "...",
+      "choice_data_list": [
+        "¡Ciudad!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Molesté al tipo de la rifa?",
+      "choice_data_list": [
+        "Él estaba preocupado por ti.",
+        "Él estaba preocupado por ti."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Ajá."
+    },
+    {
+      "name": "Gold City",
+      "text": "Sé que no quiso ofender."
+    },
+    {
+      "name": "Gold City",
+      "text": "Y después de que gané usando <i>tu</i> boleto, además.\nDebería haber guardado el cupón, pero bueno.",
+      "choice_data_list": [
+        "¡Está bien! ¡Él me lo dio!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿En serio? ¿En esa situación?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Demonios, no se te escapa nada, ¿verdad?",
+      "choice_data_list": [
+        "Pero creo que ganaste este boleto tú misma.",
+        "Pero creo que ganaste este boleto tú misma."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Yo... estoy bien. No puedo tomarlo ahora después\nde lo que hice antes."
+    },
+    {
+      "name": "Gold City",
+      "text": "Tú úsalo."
+    },
+    {
+      "name": "Gold City",
+      "text": "Probablemente ni lo disfrutaría si fuera."
+    },
+    {
+      "name": "Gold City",
+      "text": "Así que... felicidades. Adiós ahora."
+    },
+    {
+      "text": "Y así es como termino guardando el boleto para las\nvacaciones en aguas termales."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicidades! ¡Usted se lleva un bistec de\nhamburguesa de zanahoria de lujo!"
+    },
+    {
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Wow, es enorme."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero se ve delicioso... Y la zanahoria glaseada\nestá tan brillante.",
+      "choice_data_list": [
+        "Parece que sabe bien.",
+        "Parece que sabe bien."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Demasiado bueno, de hecho. Apuesto a que mi\nmanager se enojaría si me lo como todo.",
+      "choice_data_list": [
+        "¿No crees que podrás equilibrarlo?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Disculpe?"
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Con quién crees que estás hablando? Soy una\nprofesional manteniendo mi figura."
+    },
+    {
+      "name": "Gold City",
+      "text": "Estará bien. Así que... supongo que voy a comer."
+    },
+    {
+      "name": "Gold City",
+      "text": "Me comeré todo esto <i>y</i> me mantendré en forma. Solo\nespera."
+    },
+    {
+      "text": "Gold City devora su jugoso bistec de hamburguesa y\naun así logra mantenerse en forma después—por\nsupuesto."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te llevas a casa un haz de zanahorias!"
+    },
+    {
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Huh, un haz. Eso en realidad es muy útil.",
+      "choice_data_list": [
+        "¿Cómo así?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Se dice que las zanahorias son buenas para la\npiel."
+    },
+    {
+      "name": "Gold City",
+      "text": "Y sobre todo, son deliciosas. Así que es una\nventaja tener un montón para guardar para después.\nSe las dejaré a mi manager."
+    },
+    {
+      "name": "Gold City",
+      "text": "En realidad... hay algo que me he estado\npreguntando—ustedes no son tan fanáticas de las\nzanahorias, ¿verdad?",
+      "choice_data_list": [
+        "Bueno, a algunas personas les gustan mucho.",
+        "Bueno, a algunas personas les gustan mucho."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero no pelearían por ellas o algo así, ¿verdad?\nMientras tanto, en la cafetería de Tracen, es más\ndifícil encontrar un plato que <i>no</i> tenga\nzanahorias."
+    },
+    {
+      "name": "Gold City",
+      "text": "Por supuesto, seguro que debe haber <i>algunos</i>\nestudiantes a los que no les gusten, pero sé que\nnunca conocí a uno."
+    },
+    {
+      "name": "Gold City",
+      "text": "Y, sabes, hablé sobre zanahorias en una columna de\nrevista antes, y todas las reacciones que recibí\nfueron de Umamusume."
+    },
+    {
+      "name": "Gold City",
+      "text": "Recuerdo que me pareció raro. Las zanahorias son\ndeliciosas, entonces... ¿por qué solo nosotras?",
+      "choice_data_list": [
+        "Realmente te encantan las zanahorias, eh?",
+        "Realmente te encantan las zanahorias, eh?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Hablé de esto con mi manager antes, y entonces\nella empezó a llevar palitos de zanahoria con ella\na todas partes."
+    },
+    {
+      "name": "Gold City",
+      "text": "No me quejo, pero no es como si <i>me</i> encantaran. Por\nejemplo, la semana pasada..."
+    },
+    {
+      "text": "Dejando atrás el tema de las zanahorias, Gold City\ncontinúa compartiendo anécdotas sobre su manager\nmientras hacemos el camino de regreso a la\nacademia."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Miren esto! ¡Has ganado el tercer premio! ¡Aquí\nestá tu zanahoria!"
+    },
+    {
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Qué se supone que debo hacer con una zanahoria?",
+      "choice_data_list": [
+        "Parece más que suficiente para preparar una\ncomida."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Estás hablando con una Umamusume. Una está lejos\nde ser suficiente.",
+      "choice_data_list": [
+        "Bueno, estaba pensando que también usarías otros\ningredientes..."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Oh, ¿a eso te refieres? ...O sea, yo sabía eso."
+    },
+    {
+      "name": "Gold City",
+      "text": "Cocinar, huh...",
+      "choice_data_list": [
+        "No es tu fuerte?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Qué? ¿Cómo que es asunto tuyo?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Solo por curiosidad, though... Si fueras tú, ¿qué\nharías con esta zanahoria?"
+    },
+    {
+      "text": "Y así, le enseño a Gold City algunas recetas\nmientras hacemos el camino de regreso a la\nacademia."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Ohhh, mala suerte! ¡Parece que sacaste un boleto\nvacío! ¡Toma este paquete de pañuelos como premio\nde consolación."
+    },
+    {
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Qué mal. Y se supone que soy modelo."
+    },
+    {
+      "name": "Gold City",
+      "text": "Tengo una oportunidad y saco un paquete de\npañuelos. Qué broma."
+    },
+    {
+      "name": "Gold City",
+      "text": "Esto es más que mal. Es, como, humillante."
+    }
+  ]
+}

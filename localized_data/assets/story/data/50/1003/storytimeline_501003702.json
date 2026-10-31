@@ -1,0 +1,215 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "En nuestro día libre, Tokai Teio parece estar\npreocupada por algo.",
+      "choice_data_list": [
+        "¿Sucede algo?",
+        "¿Sucede algo?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Bueno... La cosa es que Prez me dio una tarea..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Realmente soy un genio! ♪ ¡Otra carrera de\npráctica en el bolsillo!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Desde que me matriculé aquí, he estado reduciendo\nmis tiempos. Si sigo así..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Voy a alcanzar el estado de Monarca más rápido de\nlo que pensaba! ¿Tú no crees, Prez?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Si sigues así? ...Si no comprendes la verdadera\nrealidad de tu situación, ese impulso un día se\ndesvanecerá."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿¡Eh?! ¿Qué quieres decir?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Todavía te falta mucho camino... El camino a la\ncima es mucho más largo y difícil de lo que\nimaginas. Te queda mucho por aprender."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Si de verdad buscas ser más fuerte, entonces...\nVeamos, ahora. ¿Qué te parece si te doy una tarea?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Y entonces me dijo que averiguara \"lo que mi\nentrenador significa para mí.\"",
+      "choice_data_list": [
+        "¡Me encantaría ayudar!",
+        "¡Me encantaría ayudar!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿¡En serio?! ¡Ok entonces, conozco el lugar\nperfecto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me arrastra a un parque de diversiones. Cuando le\npregunto por qué estamos aquí..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Nunca hemos visitado un lugar así juntos, ¿verdad?\n¡Así que podría aprender cosas nuevas sobre ti!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Debería ser perfecto para la tarea de Prez.",
+      "choice_data_list": [
+        "Buena idea.",
+        "Buena idea."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Verdad? ¡Ok, vamos directo a los karts! ♪"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Yippee! ♪ ¿Quién es el número uno? ¡Yo soy el\nnúmero uno!",
+      "choice_data_list": [
+        "Incluso en un kart, dejas a todos atrás.",
+        "Incluso en un kart, dejas a todos atrás."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Mwahaha! ¡Podría ganar cualquier carrera dormida!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Tienes que apuntar la pistola de arcade a la\npantalla y disparar a las zanahorias que aparecen!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Solo sigue mi ejemplo! ...¡Pew, pew, pew! ♪"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Ves?",
+      "choice_data_list": [
+        "¡Wow! ¡Le diste a todas!",
+        "¡Wow! ¡Le diste a todas!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Así es! ¡Nadie le llega a mis habilidades de\ntiro!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Damos vueltas probando cada atracción y, sin\ndarnos cuenta, el sol ya ha empezado a ponerse."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ahhh... ¡Eso fue muy divertido! ♪ Entonces,\nEntrenador, ¿ahora entiendes mi destreza?",
+      "choice_data_list": [
+        "¡Eres genial en todo!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Así es! ♪"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ay, si tuviéramos un poco más de tiempo, te\nmostraría aún más de mis técnicas asombrosas.",
+      "choice_data_list": [
+        "Guardémoslo para otro día."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Sí! ¡Hagámoslo de nuevo! ¡Me divertí mucho\nsaliendo contigo!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Hasta me das cumplidos justo como en la práctica!\n¡Me pongo todo emocionado!",
+      "choice_data_list": [
+        "Siempre eres muy divertido. Simplemente se me\nescapan.",
+        "Siempre eres muy divertido. Simplemente se me\nescapan.",
+        "Nunca dejas de asombrar. Simplemente se me\nescapan.",
+        "Nunca dejas de asombrar. Simplemente se me\nescapan."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Hasta me das cumplidos justo como en la práctica!\n¡Me pongo todo emocionado!",
+      "choice_data_list": [
+        "Siempre eres muy divertido. Simplemente se me\nescapan.",
+        "Siempre eres muy divertido. Simplemente se me\nescapan.",
+        "Nunca dejas de asombrar. Simplemente se me\nescapan.",
+        "Nunca dejas de asombrar. Simplemente se me\nescapan."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ya sea corriendo carreras o simplemente brillando\nen su vida cotidiana, Tokai Teio siempre hace\nsonreír a los demás."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con solo una mirada, ella alegra mi día. Así que\npor supuesto quiero felicitarla. Se lo digo."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Si sigues diciendo eso, me vas a hacer sonrojar!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Jeje! ♪ ¡Seguiré alegrando tus días, Entrenador!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "(Así que al final, ¿qué <i>significa</i> mi entrenador\npara mí?)"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "(Alguien en quien siempre puedo contar para un\ncumplido, supongo.)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dejamos el parque de diversiones de buen ánimo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ya sea en sus carreras o jugando juegos en un\nparque de diversiones, cuanto más elogian a Tokai\nTeio, mejor espectáculo ofrece."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siempre termino elogiándola solo para ver qué hará\na continuación. Se lo digo."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Caramba! ¡Eres más exigente de lo que pensaba! ♪"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Pero supongo que soy la única persona que puede\nestar a la altura de tus expectativas!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ok entonces! ¡Seguiré dándote el espectáculo que\nesperas!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "(Así que al final, ¿qué <i>significa</i> mi entrenador\npara mí?)"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "(Alguien en quien siempre puedo contar para un\ncumplido, supongo.)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dejamos el parque de diversiones de buen ánimo."
+    }
+  ]
+}

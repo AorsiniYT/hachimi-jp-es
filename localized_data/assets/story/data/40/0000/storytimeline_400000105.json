@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Felicitaciones por quedar en primer lugar!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Fue una carrera excelente! Solo<i>verla</i> me puso la\nadrenalina a mil!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Y ahora, lo siguiente no es otro que—",
+      "choice_data_list": [
+        "La final."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Así es! Ese escenario grandioso, donde las\nesperanzas de los fans impulsan a todos hacia\nadelante... hasta la cima."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Por favor, haz todo lo posible por conquistar esa\ngloria!"
+    }
+  ]
+}

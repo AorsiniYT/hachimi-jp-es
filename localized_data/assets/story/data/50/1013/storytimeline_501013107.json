@@ -1,0 +1,125 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mejiro McQueen está en medio del entrenamiento\npara el próximo Tenno Sho de primavera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Sin embargo, ella pide reunirse en el Día de\nSan Valentín."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Feliz Día de San Valentín, Entrenador..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Aquí... Me gustaría que tuvieras esto.",
+      "choice_data_list": [
+        "Gracias."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "De nada... Este chocolate es bastante popular,\nsabes. Hay una espera de seis meses para los\npedidos."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Me gustaría que lo probaras..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por alguna razón, no hay entusiasmo en la voz de\nMejiro McQueen. Me pregunto qué pasa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Chocolate... Azúcar... Se me ocurre.",
+      "choice_data_list": [
+        "¿Quieres compartirlo?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿¡Qué!?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "N-no, ¡está todo bien! ¡No te preocupes por mí!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Admito, tengo un <i>poco</i> de curiosidad, pero..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Me estoy absteniendo de dulces hasta que gane el\nTenno Sho de primavera!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Naturalmente, ella está tratando de asegurarse de\nestar en óptimas condiciones para la próxima\ncarrera.",
+      "choice_data_list": [
+        "Lo siento..."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿P-por qué te disculpas?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Por favor, no hay necesidad de preocuparse por mí.\n¡Disfrútalo a tu gusto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decido comer los chocolates en casa, solo para\nevitar la mirada anhelante de Mejiro McQueen."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Me estoy absteniendo de dulces hasta que gane el\nTenno Sho de primavera!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Naturalmente, ella está tratando de asegurarse de\nestar en óptimas condiciones para la próxima\ncarrera.",
+      "choice_data_list": [
+        "Si comes solo un trozo al día, no debería ser un\nproblema.",
+        "Si comes solo un trozo al día, no debería ser un\nproblema."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Crees eso? Bueno, si es solo un trozo, entonces\nseguramente..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...¡Espera un minuto! ¿Por qué me estás mimando\nasí?!",
+      "choice_data_list": [
+        "Porque tengo la sensación de que te encantan los\ndulces."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Ah! ¡E-es como si pudieras ver directamente en mi\nalma!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Muy bien, entonces! ¡Admito la derrota!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Si insistes, supongo que podría atribuirlo a la\npresión de grupo.",
+      "choice_data_list": [
+        "Más bien \"choc\" it up. ¿Entiendes?",
+        "Más bien \"choc\" it up. ¿Entiendes?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Bueno, qué gracioso eres."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "En serio, he escuchado cosas maravillosas sobre\neste chocolate. ¡No puedo esperar para probarlo! ♪"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Se acerca el día del Japanese Derby."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hoy se está llevando a cabo una conferencia de\nprensa para todas las Umamusume registradas para\ncorrer en la carrera."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Whoa...! Acabo de echar un vistazo adentro, y hay\n<i>tantos</i> reporteros!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Ungh, estoy temblando...",
+      "choice_data_list": [
+        "(Ella está bastante nerviosa...)",
+        "(Ella está bastante nerviosa...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esta es su primera conferencia de prensa, así que\nes completamente natural que esté tensa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decido sugerir algo para ayudarla a calmar sus\nnervios.",
+      "choice_data_list": [
+        "¡Podemos ir a comer lo que quieras cuando todo\ntermine!",
+        "¡Podemos ir a comer lo que quieras cuando todo\ntermine!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "...¿¡En serio?! ¡Cualquier cosa que quiera?!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Entrenador... ¿Mis oídos no me están engañando,\nverdad?!",
+      "choice_data_list": [
+        "¡No!",
+        "¡No!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Y por \"cualquier cosa\", te refieres a... <i>cualquier\ncosa,</i>¿correcto?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Incluso el Set Monstruosidad de Montaña de Carne\ncon Sobrecarga de Zanahorias en el restaurante de\nramen al que todos van cerca de la academia?",
+      "choice_data_list": [
+        "¡S-sí!",
+        "¡S-sí!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Y... ¿también podemos pasar por la cafetería\ndespués para que pueda agarrar un Parfait Torre de\nZanahoria Mega Máximo Definitivo?!",
+      "choice_data_list": [
+        "...¡Claro!",
+        "...¡Claro!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Vale... Solo respira..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Puedo hacer esto. Conferencia de prensa, alfombra\nroja—¡que vengan!",
+      "choice_data_list": [
+        "¡E-eso es genial escucharlo! (Ahora tiene una\nmirada diferente en los ojos.)"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "...Heheheh, ¡por supuesto!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Gracias por el ánimo, Entrenador."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Será mejor que prestes mucha atención a la\nconferencia de prensa!",
+      "choice_data_list": [
+        "¿Spe?"
+      ]
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Special Week! Eres la siguiente. ¡Por favor\nprepárate!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Ah, ¡vale! ¡Voy!"
+    },
+    {
+      "name": "Reportero B",
+      "text": "¡El Japanese Derby está casi aquí! Cuéntanos cómo\nte sientes, Special Week. ¿Cuáles son tus\nmotivaciones para participar en esta carrera?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Por supuesto! Um..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Mi sueño es convertirme en la mejor Umamusume de\ntodo Japón. Y por eso decidí correr en el Derby."
+    },
+    {
+      "name": "Special Week",
+      "text": "Quiero ponerme más fuerte y ganar el Derby para\nmostrarle a mis dos mamás lo capaz que me he\nvuelto."
+    },
+    {
+      "name": "Special Week",
+      "text": "...Tengo una razón más para querer ganar."
+    },
+    {
+      "name": "Reportero B",
+      "text": "¿Tienes otra razón? ¿Podrías por favor elaborar?"
+    },
+    {
+      "name": "Special Week",
+      "text": "Estoy aquí hoy gracias a unas personas que\nsignifican mucho para mí."
+    },
+    {
+      "name": "Special Week",
+      "text": "Mi madre que me dio a luz, mi madre que me crió,\ny..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡La persona que me ha estado enseñando hasta\nahora—mi entrenador!",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Quiero hacer orgullosas a mis mamás siendo la\nmejor en Japón! ¡Y quiero hacer a mi entrenador un\nentrenador de Derby!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Y es por eso que <i>yo</i> ganaré!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La sala estalla en aplausos y vítores, y Special\nWeek me mira con una gran sonrisa en su rostro."
+    }
+  ]
+}

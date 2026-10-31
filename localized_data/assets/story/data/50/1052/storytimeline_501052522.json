@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Haru Urara",
+      "text": "¡Entrenador! Buenos días—<i>¡Achís!</i>"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Ugh. Me pica mucho la nariz.",
+      "choice_data_list": [
+        "¿Crees que es un resfriado?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Mmm... Bueno, King me puso crema en el grano."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Pero se siente pegajoso y su olor me hace picar la\nnariz... Ugh."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Solo quiero que ese grano desaparezca."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Haru Urara parece muy preocupada por sus problemas\nde piel."
+    }
+  ]
+}

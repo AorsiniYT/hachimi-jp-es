@@ -1,0 +1,30 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Mihono Bourbon y yo acabamos de empezar nuestro\nentrenamiento, pero..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "<i>Haa... Haa...</i> Parece que las funciones del sistema\nestán deterioradas."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Daño corporal, no detectado. Causa\nprobable—cansancio leve por carreras."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Estos problemas son menores y no afectarán nuestro\nplan de hoy. Puedo continuar corriendo como estaba\nplaneado.",
+      "choice_data_list": [
+        "No nos excedamos. ¿Por qué no terminamos por hoy?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Entendido. He fallado en ejecutar tus órdenes.\nMe disculpo sinceramente."
+    },
+    {
+      "text": "Tiende a esforzarse demasiado, incluso cuando está\ncansada. Podría ser mejor reajustar su calendario\nde carreras."
+    }
+  ]
+}

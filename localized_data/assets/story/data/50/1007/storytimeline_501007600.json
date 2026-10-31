@@ -1,0 +1,45 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gold Ship",
+      "text": "Guau..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Llamada a la sala de espera por Gold Ship, entro y\nla encuentro temblando de pies a cabeza.",
+      "choice_data_list": [
+        "¿Estás bien?!",
+        "¿Estás bien?!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Sí, es solo una rutina. Es una forma infalible de\nasegurarme de que estoy motivada y en plena forma."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Lo único es..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Pam! ¡Pam!</i>"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Haz tus calentamientos afuera!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Ves? Los de al lado siempre se enojan conmigo\ncuando hago esto. ¡Las disculpas te las dejo a ti!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Muy bien, ¡estoy en la <i>zona!</i> Golshi,¡partiendo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gold Ship sale corriendo de la habitación antes de\nque pueda responder, así que no tengo más remedio\nque ir al lado a disculparme. Al menos está en\nplena forma hoy."
+    }
+  ]
+}

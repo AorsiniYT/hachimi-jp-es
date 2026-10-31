@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras estoy por ahí con Air Groove..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Qué es eso?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Groove se detiene de repente. Está mirando una\nmáquina de garra llena de peluches de Umamusume.",
+      "choice_data_list": [
+        "¿Quieres uno?",
+        "¿Quieres uno?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Qué tonto. Como si yo quisiera una cosa tan\nridícula."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Una de las estudiantes más jóvenes me dio un\nregalo el otro día. Solo pensé que podría ser un\nbuen regalo de agradecimiento."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ella es una trabajadora dura que siempre aspira a\ncumplir sus sueños. Se merece algo pequeño para\nalegrar sus días."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Desafortunadamente, no hay garantía de que pueda\nganar algo aquí... Tendré que considerar otras\nopciones.",
+      "choice_data_list": [
+        "Ganaré uno para ti.",
+        "Ganaré uno para ti."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Oh, palabras grandes. Muy bien, te lo recordaré."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Muéstrame una actuación digna del entrenador de la\nEmperatriz."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡No hay manera de que falle ahora!"
+    }
+  ]
+}

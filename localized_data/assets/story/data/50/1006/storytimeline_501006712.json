@@ -1,0 +1,48 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Oguri Cap aparece en mi oficina una noche después\nde faltar al entrenamiento."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Lo siento. Realmente la regué.",
+      "choice_data_list": [
+        "¿Puedes contarme qué pasó?",
+        "¿Puedes contarme qué pasó?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Simplemente no podía perdérmelo, de verdad."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡No el plato de tiempo limitado Súper Deluxe★Chop\nSuey XXXL!",
+      "choice_data_list": [
+        "...¿Perdón?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "El restaurante chino del distrito comercial tiene\neste famoso chop suey, pero solo está disponible\nen ciertos horarios..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Lo siento muchísimo... Prometo compensarlo en la\npróxima prácti—"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Urgh!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "<i>Suspiro...</i> Ojalá hubiera sabido que también causa\nindigestión super deluxe..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Como Oguri Cap ya parece estar arrepentida de\nsu decisión, le digo que mejor descanse el\nestómago."
+    }
+  ]
+}

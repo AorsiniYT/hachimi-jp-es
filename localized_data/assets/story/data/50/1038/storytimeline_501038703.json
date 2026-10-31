@@ -1,0 +1,280 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, Curren Chan pide pasar por la tienda\nescolar de camino a casa."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Guau! ¡Mira esta pila de cartón! Llega hasta—"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Espera, ¿no es eso..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Contacté a algunas personas que conozco, pero con\ntanto..."
+    },
+    {
+      "name": "Señora de la Tienda Escolar",
+      "text": "<i>Suspiro...</i> Perdón por meterte en esto, Fuji..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Te aseguro que no es molestia. Solo desearía poder\nser de más ayuda..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hmmm... Ya veo...",
+      "choice_data_list": [
+        "¿Qué ves?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Ehe. Una oportunidad para ser una buena amiga. ☆"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Perdón por meterme, pero parecen estar teniendo\nalgunos problemas..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Oh, son ustedes dos..."
+    },
+    {
+      "name": "Señora de la Tienda Escolar",
+      "text": "Oh, Fuji, ¿estos son tus amigos? Eres tan\npopular—no me extraña que seas líder de\ndormitorio.",
+      "choice_data_list": [
+        "¿Cuál es el problema?"
+      ]
+    },
+    {
+      "name": "Señora de la Tienda Escolar",
+      "text": "Jaja... Bueno, accidentalmente pedí la cantidad\nincorrecta de ramen instantáneo."
+    },
+    {
+      "name": "Señora de la Tienda Escolar",
+      "text": "Quería pedir cien paquetes... pero terminé\nrecibiendo cien docenas."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Incluso si los devolvemos, no es como que los\nrecogerán de inmediato. Pero tampoco hay dónde\nalmacenarlos todos."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Oh, cierto. Esta cantidad de cajas ocuparía toda\nla tienda."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Pero... mientras vendas todos, no hay problema,\n¿verdad?",
+      "choice_data_list": [
+        "¿Crees que publicar algo en Umastagram ayudaría?",
+        "¡Yo encontraré una solución!",
+        "¡Yo encontraré una solución!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Pero... mientras vendas todos, no hay problema,\n¿verdad?",
+      "choice_data_list": [
+        "¿Crees que publicar algo en Umastagram ayudaría?",
+        "¡Yo encontraré una solución!",
+        "¡Yo encontraré una solución!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Sí! ¡Tenemos que ayudarnos mutuamente en tiempos\nde necesidad! Además..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Si hacemos eso, todos saldremos al otro lado como\namigos aún mejores. ☆"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "No creo que necesitemos decoraciones o nada.\nHagamos una pirámide con las tazas de ramen."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Quizás debería subir la foto a Umatter también."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Sí! ¡Eso es! Y para los hashtags..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Aquí vamos! \"#BondingAtTracen #Help\n#InstantRamenFestival.\" ¡Vengan a conseguirlos\naquí! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Charla, charla... Murmullo, murmullo...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Murmullo, murmullo... Charla, charla...</i>"
+    },
+    {
+      "name": "Señora de la Tienda Escolar",
+      "text": "Esto es increíble, Curren. ¡Podríamos realmente\nvenderlo todo!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Ehehe. ♪ ¿Fui útil?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Has ido más allá! Eres increíble, Curren!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Aplauso, aplauso, aplauso...</i>"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Así que esto es lo que significa aprovechar el\npoder de las redes sociales. Solo lo había\nescuchado de pasada..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Presidente?! ¿Qué haces aquí?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Escuché que una Umamusume solitaria fue de gran\nayuda para la tienda escolar, así que vine a verlo\npor mí misma."
+    },
+    {
+      "name": "Señora de la Tienda Escolar",
+      "text": "¡Ay! ¡Hasta la presidenta está aquí! Aquí, toma el\núltimo paquete!"
+    },
+    {
+      "name": "Señora de la Tienda Escolar",
+      "text": "Curren, ¡realmente tienes un don maravilloso!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Ehehe. ¿Lo crees? ¡Me hace muy feliz escuchar eso!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Usando su influencia en línea, Curren Chan ha\nresuelto por sí sola el problema en la tienda\nescolar... y aparentemente ganó más seguidores\nmientras lo hacía."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Guau, Big Bro! ¡Eres tan confiable!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Guau, Big Sis! ¡Eres tan confiable!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me contacto con los otros entrenadores, y varios\nde ellos me dicen que están interesados en comprar\nun poco de ramen instantáneo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esos entrenadores luego se contactan con otros,\ny..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Guau, guau! ¿Viene un montón de gente? ¡Eres el\nmejor, Big Bro!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Guau, guau! ¿Viene un montón de gente? ¡Eres la\nmejor, Big Sis!"
+    },
+    {
+      "name": "Señora de la Tienda Escolar",
+      "text": "Sí, gracias. Me alegra mucho haberles pedido\nayuda.",
+      "choice_data_list": [
+        "Deberíamos discutir cómo manejar todas las ventas."
+      ]
+    },
+    {
+      "name": "Señora de la Tienda Escolar",
+      "text": "Tienes razón. Si los entrenadores los compran,\nserá después de que terminen su trabajo."
+    },
+    {
+      "name": "Señora de la Tienda Escolar",
+      "text": "En ese caso, solicitaré quedarnos abiertos hasta\ntarde y llamaré a alguien para ayudar con el regi—"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Eh... ¡Yo también quiero ayudar!"
+    },
+    {
+      "name": "Señora de la Tienda Escolar",
+      "text": "¿Qué? Pero ¿no tienes toque de queda? Además,\nustedes los atletas deben descansar."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Está bien. Si mi entrenador está trabajando duro,\nentonces yo también debería. ¡Por favor!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Está bien. Si mi entrenador está trabajando duro,\nentonces yo también debería. ¡Por favor!"
+    },
+    {
+      "name": "Señora de la Tienda Escolar",
+      "text": "Ay...",
+      "choice_data_list": [
+        "Solo hasta el toque de queda.",
+        "Solo hasta el toque de queda."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Okaaay! ♪ ¡Entendido! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, tanto Curren Chan como yo terminamos\nvendiendo ramen."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Aquí tiene. ¡Gracias por venir! ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Aquí tiene. ¡Gracias por venir! ♪"
+    },
+    {
+      "name": "New Trainer",
+      "text": "Oh, ¡gracias! ¡Tienes una sonrisa tan linda!"
+    },
+    {
+      "name": "Personal de Relaciones Públicas",
+      "text": "¡Disculpe! ¡Quisiera pagar!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ah, si está bien, ¿podría atenderme después de\nellos?"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡¿Presidenta?!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Jaja. Mi especialista en tacos me contó sobre\nesto. ¿Puedo llevar tres paque—de hecho, ¿por qué\nno mejor cuatro?"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Enseguida! ♪ ¡Los adultos seguro tienen un montón\nde contactos! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Terminamos vendiendo todo el ramen instantáneo.\nUnos días después..."
+    },
+    {
+      "name": "New Trainer",
+      "text": "\"¡Curren es una delicia! Me encantaría que pudiera\ncorrer en pareja con mi aprendiz algún día!\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "Recibo mensajes alabando a Curren de mis\ncompañeros entrenadores uno tras otro. ¿Esto habrá\nsido parte de su plan desde el principio?"
+    }
+  ]
+}

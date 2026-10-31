@@ -1,0 +1,166 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Hishi Amazon es la ganadora! ¡Por fin ha obtenido\nla Triple Tiara!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡UUUU!</i>"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Lo logré... ¡Realmente lo conseguí!"
+    },
+    {
+      "name": "Fanático A",
+      "text": "¡Hishi Amazon, eres increíble! ¡Eres la mejor!"
+    },
+    {
+      "name": "Fanático B",
+      "text": "¡Vamos, Hishi Amazon! ¡Has alcanzado la cima misma\ndel tour de la Tiara!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Sííííí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los atronadores aplausos del público resuenan\ndurante lo que parece una eternidad."
+    },
+    {
+      "name": "Entrevistador",
+      "text": "¡Qué carrera tan magnífica! Felicidades por ganar\nla Triple Tiara!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Jeje, ¡muchas gracias! Me siento increíble después\nde correr el mejor duelo de mi vida!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Pero... no podría haber llegado tan lejos por mi\ncuenta."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Tuve a alguien que escribió folletos de\nentrenamiento especializados más gruesos que un\nladrillo para mí, y que incluso subió montañas\nconmigo..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Y esa persona es mi confiable compañero, <username>.",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Solo pude llegar hasta aquí con tu ayuda. Ahora\nestoy lista para enfrentar a quien-tú-sabes con la\ncabeza bien alta."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Gracias por todo, Profe.",
+      "choice_data_list": [
+        "(¡Oh, Hishi Amazon!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella continúa hablando después de dirigirse a mí,\ny cada cámara en la sala está completamente fija\nen ella."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Pero mi viaje no ha terminado aún. Mis duelos\nrecién están comenzando."
+    },
+    {
+      "name": "Entrevistador",
+      "text": "¿Qué quieres decir?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Hay alguien en la Twinkle Series a quien\nsimplemente <i>debo</i> enfrentar."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Narita Brian."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La sala se agita en un frenesí solo con su nombre.\nDespués de todo, ella es una bestia de corredora\nque actualmente está arrasando con el mundo."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "...La cuestión es que el año pasado me di cuenta\nde que aún no era lo suficientemente buena para\ntener una pelea decente."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Así que tomé la decisión de enfrentar el tour de\nla Tiara y ¡hacerme aún mejor!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Y ahora, he ganado la Triple Tiara y finalmente he\nalcanzado un nivel del que puedo estar orgullosa!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Ahora que estoy lista, es hora de declararle la\nguerra total a Narita Brian y ¡hacerle sudar!"
+    },
+    {
+      "name": "Entrevistador",
+      "text": "¡Oh! ¿Significa esto que tu próxima carrera será—"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Por supuesto! ¡Será el Arima Kinen!",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Entrevistador",
+      "text": "¡Suena como si estuviéramos a punto de presenciar\nel choque dramático que todos han estado\nesperando!"
+    },
+    {
+      "name": "Reportera",
+      "text": "Si Narita Brian gana la Triple Corona...\n¡estaremos ante una carrera para la historia!"
+    },
+    {
+      "name": "Entrevistador",
+      "text": "Mientras tenemos la cámara grabando, ¿hay algo que\nquieras decirle a Narita Brian?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Oh, por supuesto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hishi Amazon mira directamente a la cámara, sus\nojos ardiendo absolutamente con espíritu\ncompetitivo."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Oye, Brian. Todo este tiempo he estado intentando\nponerme al día contigo, ansiosa por tener un duelo\nen el Arima Kinen."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Yo soy <i>la</i> Hishi Amazon, y voy a darte todo lo que\ntengo, así que solo tú ¡espérame!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Entendiste, Profe?! ¡Prepárate para algo de\npotencia de alto octanaje!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La noticia de su audaz declaración se extiende\ncomo pólvora de un medio de noticias a otro."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Je. El Arima Kinen, ¿eh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El escenario está listo. El duelo que hemos estado\npreparando está a la vuelta de la esquina. Y\nahora, estamos mirando fijamente la recta final."
+    }
+  ]
+}

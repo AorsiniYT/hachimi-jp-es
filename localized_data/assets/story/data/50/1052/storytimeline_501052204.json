@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Haru Urara",
+      "text": "Uf, ¡me siento tan nerviosa y temblorosa!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Supongo que eso significa... ¡solo quiero ganar\nasí de mal!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Voy a ganar, ¡y eso les mostrará a todos que puedo\ncorrer en el Arima Kinen!",
+      "choice_data_list": [
+        "¡Hazlo!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Voy a ir a por el primer lugar! ¡Solo espera!"
+    }
+  ]
+}

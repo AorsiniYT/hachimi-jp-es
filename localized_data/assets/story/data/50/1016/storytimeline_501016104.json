@@ -1,0 +1,332 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Llegó la temporada de campamento de verano, y el\nsol no da tregua. Este año parece que será el más\ncaluroso del que se tenga registro."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "<i>Haa... Resuello...</i> Demonios... ¿Qué pasa con este\ncalor?",
+      "choice_data_list": [
+        "Asegúrate de beber mucha agua.",
+        "Asegúrate de beber mucha agua."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Lo sé... <i>Jadeando.</i>"
+    },
+    {
+      "name": "Estudiantes",
+      "text": "¿Estás seguro, Presidente Rudolf?!",
+      "color_text_info_list": [
+        "Rudolf"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Sí. Escuché que ustedes estaban teniendo\ndificultades para progresar. Ofrecería mi apoyo,\nsi lo aceptan."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Yuppieee! ¡Estoy tan feliz! ¡Vamos a aprender\nmuchísimo de ti!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Pero, ¿qué hay de tu propio entrenamiento?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "No te preocupes. También me ayuda ver correr a\notros."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "No solo eso, sino que tengo algo así como un plan\nsecreto."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Tch! Incluso después de cambiarme de ropa,\ntodavía me siento asquerosa..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Oh, Brian. Aquí estás."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿Rudolf? Si es papeleo lo que traes, no lo\nquiero."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Jaja. Yendo directo al grano, veo. No te\npreocupes. No te traje al consejo estudiantil para\natarte a un escritorio."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Espero que me muestres un futuro que yo soy\nincapaz de crear por mí misma."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Disculpa. Permíteme también ir directo al grano.\n¿Tienes tiempo para hacer un scrimmage conmigo\nmañana?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Qué?!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Hay algo malo?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ja... Para nada."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Me encantaría aceptar. ¿Está bien, verdad?\n¡Entrenador?!",
+      "choice_data_list": [
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Jaja! ¡De ninguna manera dejaría pasar esta\noportunidad! Voy a—"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...!",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Nada. Voy a empezar con mi entrenamiento de la\ntarde."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Entrenador, ¿puedes encargarte de los detalles por\nmí? Solo dime qué deciden."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Je... Veo que sigue siendo tan egocéntrica como\nsiempre. Parece que te están presionando bastante.",
+      "choice_data_list": [
+        "Así es ella."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Jeje. Supongo que tienes razón."
+    },
+    {
+      "text": "Y así, después de arreglar los detalles del\nscrimmage con Symboli Rudolf, me apresuro hacia\nNarita Brian."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ufff...",
+      "choice_data_list": [
+        "¿¡Brian?!"
+      ]
+    },
+    {
+      "text": "Narita Brian está tirada en la playa, desmayada."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Nnngh... ¿Dónde...?"
+    },
+    {
+      "name": "Personal Médico",
+      "text": "¡Entrenador! ¡Ha recuperado el conocimiento!",
+      "choice_data_list": [
+        "¡Gracias a Dios!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Yo..."
+    },
+    {
+      "name": "Personal Médico",
+      "text": "No te encuentras bien... Sufres de fatiga por\ncalor y un golpe de calor leve."
+    },
+    {
+      "name": "Personal Médico",
+      "text": "Por favor, evita cualquier actividad extenuante\npor el momento. Sería peligroso que te esfuerces\ndemasiado en este estado."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Pero tengo un scrimmage mañana!",
+      "choice_data_list": [
+        "...Tenemos que cancelarlo."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Qué?!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Quieres cancelar por algo tan insignificante?!\n¡Me estás subestimando!",
+      "choice_data_list": [
+        "Sea como sea, me preocupa tu salud.",
+        "Sea como sea, me preocupa tu salud."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Debes estar bromeando!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Te preocupas demasiado! ¡No me quites esto!",
+      "choice_data_list": [
+        "¡Te digo esto porque <i>no</i> quiero quitártelo!",
+        "¡Te digo esto porque <i>no</i> quiero quitártelo!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿Eh?"
+    },
+    {
+      "text": "Una carrera entre Umamusume es el epítome de la\nvelocidad extrema. Tal esfuerzo pone una inmensa\ncantidad de tensión en sus piernas."
+    },
+    {
+      "text": "Además, Narita Brian es el tipo de corredora que\ncorrerá tan fuerte como pueda, independientemente\nde las circunstancias. Si colapsara en su estado\nactual...",
+      "choice_data_list": [
+        "Como tu entrenador, esto no es negociable.",
+        "Como tu entrenador, esto no es negociable."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¡Tch! Con este tipo de entrenador—"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...!"
+    },
+    {
+      "text": "Me apresuro a sostenerla mientras se desploma de\nrodillas."
+    },
+    {
+      "text": "Su cuerpo carece por completo de fuerza.",
+      "choice_data_list": [
+        "Lamento mucho que esto haya pasado..."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Basta, ¿vale? Ya lo entiendo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Perdón por perder los estribos así. No quería\npreocuparte."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¡¿Golpe de calor?!",
+      "choice_data_list": [
+        "Sí, entonces sobre el scrimmage..."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Lo entiendo completamente. Brian, no te preocupes\npor el scrimmage, ni por nada más en ese sentido.\nEncontraré a alguien más."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "No te alteres por esto. Solo descansa. Ahora, si\nme disculpas."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...",
+      "choice_data_list": [
+        "Lo siento."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...No te disculpes."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Fue mi culpa. Yo me lo busqué."
+    },
+    {
+      "text": "Al día siguiente..."
+    },
+    {
+      "name": "Estudiantes",
+      "text": "¡Hazlo lo mejor posible, Oguri! ¡Eres increíble,\nPresidente!"
+    },
+    {
+      "text": "<i>¡Clang!</i>"
+    },
+    {
+      "text": "El ir y venir entre las dos corredoras es\nimpresionante. Incluso si es solo un scrimmage, la\ncarrera entre dos corredoras de primera categoría\ncapta la atención de todos."
+    },
+    {
+      "text": "Narita Brian, por otro lado..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Así que solo me toca ver por la ventana, ¿eh?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Qué mala suerte...",
+      "choice_data_list": [
+        "Habla con ella.",
+        "Déjala en paz."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No... No necesito tu lástima."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Es mi propia negligencia lo que me trajo aquí. Es\ntotalmente culpa mía por arruinar la oportunidad\nque estaba esperando."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tenemos que reconstruirme desde los cimientos para\nevitar que esto vuelva a suceder."
+    },
+    {
+      "text": "Solo para estar segura, le hacen un examen físico\ncompleto más tarde. Las pruebas no revelan\nanomalías."
+    },
+    {
+      "text": "Reanuda el entrenamiento al día siguiente con un\nrégimen completamente nuevo, jurando nunca cometer\nel mismo error de nuevo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Es tan ridículo ser derrotada por el calor. ¿No\ntengo suficientes agallas o algo?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¡Apesta no poder correr!"
+    },
+    {
+      "text": "Después de eso, Narita Brian no aparta la vista de\nla carrera."
+    },
+    {
+      "text": "Solo para estar segura, le hacen un examen físico\ncompleto más tarde. Las pruebas no revelan\nanomalías."
+    },
+    {
+      "text": "Pero sus ojos reflejan un verano de remordimiento\ny frustración persistentes."
+    }
+  ]
+}

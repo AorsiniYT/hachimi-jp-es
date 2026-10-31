@@ -1,0 +1,260 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Estás lista? Entonces empecemos."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sin importar lo pequeño que sea el paso, debemos\nacercarnos a perfeccionar la ecuación ganadora...\nNo hay nada más que hacer sino recalcular, revisar\ny reformular."
+    },
+    {
+      "text": "Con la tarea de correr en lugar de Narita Brian,\nBiwa Hayahide está decidida a correr en el Sprout\nKinen."
+    },
+    {
+      "text": "Sin embargo, dadas las altas expectativas para\nBrian, este cambio repentino seguramente\ndecepcionará a sus fanáticos."
+    },
+    {
+      "text": "Pero la corredora erudita continúa adelante, sin\ndejarse intimidar."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Aunque, para ser honesta, estaría mintiendo si\ndijera que no estoy preocupada."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Pero tengo esperanza... Hay personas que creen que\npuedo probar mi teoría y completar la ecuación\nganadora."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Y...",
+      "choice_data_list": [
+        "Y..."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Y ¿qué tipo de hermana mayor sería si no pudiera\nni siquiera cumplir una promesa a mi hermana!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Eso me recuerda. Avísame si toda esta lluvia de\nideas te está haciendo sentir hambre."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Resulta que tengo un poco de curry que preparé\nanoche.",
+      "choice_data_list": [
+        "Curry, ¿eh?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sí, las verduras picadas se cocinaron muy bien...\nEs un curry nutritivo que incluso los comedores\nexigentes disfrutarían."
+    },
+    {
+      "text": "Incapaz de resistir la oferta, nos comemos el\ncurry mientras trabajamos en la ecuación y el\ntiempo vuela."
+    },
+    {
+      "text": "Es el día del Sprout Kinen. Bajo un cielo\nperfectamente despejado, una multitud de\nespectadores viene al hipódromo para ver la gran\ncarrera."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Buenos días. El clima y la velocidad del viento\nparecen satisfactorios.",
+      "choice_data_list": [
+        "¿Cómo te sientes?",
+        "¿Cómo te sientes?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Estoy en forma ideal para rendir al máximo. Aun\nasí..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Me gustaría tener una reunión de estrategia final\ncontigo, Entrenador."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tengo un informe completo sobre nuestros\noponentes. El enfoque estará en dos en particular."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Debemos esperar que la favorita local, Through\nPassport, sea una corredora hábil. Ese fue su\nestilo de carrera en cada una de las doce\nescaramuzas pasadas, ves."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Y Titan Frypan hará un movimiento definitivo desde\nel centro. La probabilidad de un enfoque de avance\ntardío es increíblemente alta."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Su cautela y fuerza mental son bastante...\ncomparables a las de Brian.",
+      "choice_data_list": [
+        "¡Así que son los oponentes perfectos!",
+        "¡Así que son los oponentes perfectos!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Oponentes perfectos? Jajaja, estás muy segura.\nAlguien podría decir incluso que eres optimista."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Aunque supongo que esta osadía positiva tuya ayuda\na aliviar mi tensión."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Es hora... ¿Vamos?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(Brian... Espero que estés viendo)."
+    },
+    {
+      "name": "Hayahide de joven",
+      "text": "<i>Haa... Haa...</i> ¡Está bien! ¡Mira cómo aumento el\nritmo, Brian!"
+    },
+    {
+      "name": "Brian de joven",
+      "text": "¡Guau! ¡Yo también, yo también! ¡Te voy a\nalcanzar, hermana!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(O desde que me dejaste atrás, tal vez ni siquiera\npuedas verme ya)."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(No importa... Eso no importa ahora)."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Voy a mostrarte... Te haré recordar."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Recordarás lo que era seguirme!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Es un cielo azul perfecto hoy para el Sprout\nKinen! ¡Y estos diez líderes de la próxima\ngeneración seguro que nos darán un espectáculo\nfantástico!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(¡Estupido comienzo!)."
+    },
+    {
+      "name": "Locutor",
+      "text": "¿¡Qué es esto?! Through Passport, la experimentada\ncorredora de cabeza, está teniendo algunos\nproblemas. ¡Está rezagada! ¿Qué podría estar mal?"
+    },
+    {
+      "name": "Locutor",
+      "text": "Y Biwa Hayahide, reemplazando a Narita Brian, está\nempujando hacia adelante. Mientras tanto, la muy\nanticipada Titan Frypan tiene una posición firme\nen la parte de atrás."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Los resultados serán la prueba de que estoy en lo\ncorrecto."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Mi técnica es mi teoría. La ecuación ganadora."
+    },
+    {
+      "name": "Locutor",
+      "text": "Se acercan a la curva final. ¡Y aquí viene Titan\nFrypan! ¡Está volando desde el exterior!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No te dejaré adelantarme ahora."
+    },
+    {
+      "name": "Locutor",
+      "text": "Mira esto. Biwa Hayahide se pone en cabeza. ¿Cómo\ntiene la resistencia para quedarse en cabeza\ndurante tanto tiempo?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Mira..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Serás tú quien trate de seguirme, Brian."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Biwa Hayahide los está dejando atrás! ¡Qué sprint\ntremendo!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Biwa Hayahide! ¡Es Biwa Hayahide! El gran nombre\nde la nueva generación es Biwa Hayahide!"
+    },
+    {
+      "text": "<i>¡Guaaaaa!</i>"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Primer lugar. Bueno, no es sorprendente."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Como se esperaba de mi hermana mayor."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Yeeeaaah! ¡BIWA HAYAHIDE! ¡Fue una carrera\nincreíble, ¿¡eh, Taishin?!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Es demasiado ruido... Vete a molestar a alguien\nmás. Me voy."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿¡Eh?! ¡E-espérate un momento! ¿¡A dónde vas?!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Tengo que entrenar."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "<i>¡Haa!</i> Entiendo. Ver a Hayahide te ha emocionado\nmucho. Sé exactamente cómo te sientes."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Voy tambiénoooo! ¡Es hora de entrenar!\n¡Whoo-hooooo!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No es por eso... ¡Oye! Deja de seguirme."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Esto... Hemos obtenido el resultado que estábamos\nbuscando.",
+      "choice_data_list": [
+        "Esto nos acerca un paso más a completar la\necuación ganadora.",
+        "Esto nos acerca un paso más a completar la\necuación ganadora."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "<i>¡Jejeje...</i> En efecto. Pero eso significa que\ntodavía tenemos un largo camino por recorrer."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No importa... Llegaremos allí eventualmente."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Dicho esto, ¡vamos a regresar y ponernos a\ntrabajar!",
+      "choice_data_list": [
+        "¡Sí!",
+        "¡Sí!"
+      ]
+    },
+    {
+      "text": "Han comenzado nuestros días de intentar\nperfeccionar la ecuación ganadora juntos."
+    }
+  ]
+}

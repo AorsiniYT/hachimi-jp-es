@@ -1,0 +1,233 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras el campamento de verano está\nterminando..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oh, Flaaash! ☆ ¡Allí estás!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Halcón?",
+      "color_text_info_list": [
+        "Halcón"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Smart Falcon, compañera de cuarto de Eishin Flash\ny autoproclamada Umadol, corre hacia nosotros\nalegremente.",
+      "color_text_info_list": [
+        "Smart Falcon"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Me estabas buscando? ¿Me necesitabas para algo?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Ehehe! ☆"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Reservé veinticinco mililitros de acondicionador\nde cola para ti."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Gracias un montón! ☆ ¡Ahora mi cola estará suave\ncomo la seda!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Creo que te recordé revisar tu equipaje en <i>dos</i>\nocasiones separadas antes de partir para el\ncampamento."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Sííí, pero sabía que traerías extra, así que... ☆"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "De hecho, podríamos ducharnos juntas. Ya es\nbastante tarde."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No puedo. Aún no he completado mi entrenamiento.\nQuedan quince... no, veinte minutos incluyendo el\ntiempo de traslado antes de que termine."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oh, vamos! ¿A quién le importa saltarse veinte\nminutos de práctica?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Falcon. Saltarse cinco minutos de práctica aún\nestá dentro de lo aceptable, pero saltarse veinte\nminutos es muy irresponsable y—"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Allí vas de nuevo con tus palabras rebuscadas y\nesas cosas!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No creo haber dicho nada particularmente\n'rebuscado'..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eishin Flash no suele ser tan emotiva. Debe estar\nlo suficientemente cómoda con Smart Falcon como\npara bajar la guardia."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Volvamos, Entrenador. Me gustaría recibir tu\ncomentario sobre la sesión de hoy y verificar los\ndetalles del horario de mañana."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ugh, no puedo creer que aún estés hablando de esas\ncosas! Hazlo mañana."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eishin Flash se está fortaleciendo cada día, pero\ncreo que necesitará abordar las cosas desde un\nnuevo ángulo si quiere volverse aún más fuerte."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ha estado dándolo todo desde que el campamento\ncomenzó, pero si hay una manera de hacerla\nrelajarse...",
+      "choice_data_list": [
+        "¿Puedo hacerte algunas preguntas, Smart Falcon?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Eh? Claro. ¿Sobre qué?",
+      "choice_data_list": [
+        "¿Cómo construyes fuerza?",
+        "¿Cómo te mantienes durante las carreras?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Se necesita mucha potencia para correr en pistas\nde tierra, que es donde Smart Falcon prospera. Le\npido que nos dé algunos consejos."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "De hecho, podría aprender mucho de ti sobre\nfuerza, Falcon."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Tu baile es lo suficientemente enérgico como para\nhacer caer cosas en la habitación del dormitorio,\ndespués de todo."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Se suponía que eso era un cumplido? De todos\nmodos, veamos... Mi fuerza, ¿eh?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oh, lo tengo! ☆"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Yuuum! ♪ ¡Ese algodón de azúcar estaba delicioso!\n☆"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Qué sigue? Turrón? Manzanas azucaradas? ¡Todo es\ntan lindo! ☆"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Disculpa. Pensé que ibas a contarnos tu técnica\npara construir fuerza."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Entonces, ¿por qué estamos en un festival de\nverano revisando todos los postres de los puestos\ncallejeros?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Atiborrarse de cosas dulces es la mejor manera de\nrecargarte! ☆ ¡Es mi secreto probado y verdadero\npara ganar poder! ♪",
+      "choice_data_list": [
+        "¡Me suena lógico!",
+        "¡Me suena lógico!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿En serio?",
+      "choice_data_list": [
+        "¡Solo pruébalo y diviértete!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Cómo se supone que 'lo pruebe y me divierta' si\nno hay manera de validar las afirmaciones de\nFalcon? Para empezar—"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Okay, no más palabras rebuscadas o lógica de tu\nparte! ☆ ¡Vamos, vámonos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eishin Flash es escéptica al principio, pero\nparece verse más refrescada y enérgica al final."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Smart Falcon es una increíble corredora delantera,\ny siempre me he preguntado cómo logra mantenerse\npor delante del grupo en sus carreras."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "De hecho... podría aprender mucho de ti sobre\ntenacidad, Falcon."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Incluso extiendes los conciertos junto al río que\nrealizas con una canción extra cuando notas que un\nnuevo miembro del público se une a la multitud."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Jejeje! ☆ ¡Eso es algo por lo que mis fans\nsiempre me dan puntos extra!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Bueno, si realmente quieres saber cómo soy capaz\nde trabajar tan duro, es..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡A-M-O-R! ¡Amor ☆ Falco! ¡Déjame escucharlo!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡Amor ☆ Falco!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Increíble. Falcon ha estado bailando continuamente\npor más de una hora..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Los amo a todos, mis fans! ☆ ¡Mientras me tengan\nsus ojos puestos en mí, puedo continuar para\nsiempre!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Y la fan del día es... Flash!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Me conmovió mucho que supieras sobre los\nconciertos que realizo junto al río. ¡Gracias por\ncuidar de mí todo el tiempo!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Ahora déjame canalizar todos mis sentimientos de\ngratitud en esta próxima canción! ☆ ¡Vamos!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sentimientos y emociones... Son cosas tan\nambiguas, pero de alguna manera ella logra\ntransmitirlos tan claramente."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Ella realmente es asombrosa..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eishin Flash dice esta última parte suavemente,\npero es imposible pasar por alto el cariño en sus\npalabras."
+    }
+  ]
+}

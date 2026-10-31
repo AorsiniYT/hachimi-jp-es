@@ -1,0 +1,161 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Vodka",
+      "text": "Es adiós al viejo año, ¡hola al nuevo! ¿Verdad,\nEntrenador? Y eso es por lo que vine aquí."
+    },
+    {
+      "name": "Vodka",
+      "text": "Así que, sí... ¡Feliz Año Nuevo! Estoy emocionada\nde entrenar duro de nuevo contigo este año.",
+      "choice_data_list": [
+        "¡Guau, eso fue más formal de lo que esperaba."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Bueno, tengo que serlo. Mi mamá me dijo que tengo\nque hacer los saludos de Año Nuevo adecuadamente."
+    },
+    {
+      "name": "Vodka",
+      "text": "No hago cosas si no tienen propósito, lo que\nsignifica que mi venir aquí no es solo para\nmostrar. Tú harás mucho por mí este año."
+    },
+    {
+      "name": "Vodka",
+      "text": "Así que, sobre mi resolución para este año...\nsupongo que no tengo que decirlo."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Voy a ser la más genial! ¡Eso es todo! ¡Eso es\ntodo lo que hay para mí!",
+      "choice_data_list": [
+        "Por cierto, ¿cuál fue tu resolución el año pasado?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Ser genial!",
+      "choice_data_list": [
+        "¿Y el año anterior?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Tratar de ser genial!",
+      "choice_data_list": [
+        "...¿Es siempre lo mismo?",
+        "...¿Es siempre lo mismo?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡No son lo mismo! Se mejora un poco cada año."
+    },
+    {
+      "name": "Vodka",
+      "text": "Y además, tengo otro gran objetivo este año: el\nDerby.",
+      "choice_data_list": [
+        "¿Qué tal si hicieras eso tu resolución?"
+      ],
+      "color_text_info_list": [
+        "Derby"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Oh! ¡Genial! Sí, hagámoslo."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Voy a soñar en grande y dominar el Derby!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Y así, quería hacer algo pequeño para el nuevo año\npara empezar con el pie derecho."
+    },
+    {
+      "name": "Vodka",
+      "text": "Ya sabes, como... algo supersticioso para asegurar\nla victoria o algo así."
+    },
+    {
+      "name": "Vodka",
+      "text": "Así que, piensa en algo que me convenga y lo haré\ndurante el resto del descanso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hmm... Una actividad de Año Nuevo que me convenga\na mí, Vodka... Me pregunto qué sería lo mejor...",
+      "choice_data_list": [
+        "Convertirme en una afortunada sacerdotisa del\nsantuario.",
+        "Pasar el descanso en algunas ruedas.",
+        "¡Descontrolate y pisa el acelerador al <i>máximo\nmental!</i>"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Una sacerdotisa del santuario? No creo que el\nlook cursi me convenga."
+    },
+    {
+      "name": "Vodka",
+      "text": "Hm, espera. Ahora que lo pienso, sé de un\nsantuario que hace un evento de suerte como ese\ntodos los años. ¡Genial!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Vodka compite en una carrera de suerte en\nun santuario. En cuanto a los resultados..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Sí! ¡Lo hice! ¡Soy la afortunada sacerdotisa del\naño!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Voy a seguir así todo el año! ¡Oh sí!"
+    },
+    {
+      "name": "Visitantes del santuario",
+      "text": "¡Afortunada sacerdotisa! ¡Afortunada sacerdotisa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estallan los aplausos por la victoria de Vodka.\nParece que ya ha aumentado su velocidad este año."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Ruedas? ¿Quieres decir como una motocicleta? No\ntengo una."
+    },
+    {
+      "name": "Vodka",
+      "text": "Pero si puedes conseguirme una, ¡estoy dentro!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Este juego de motocicleta es genial! Se siente\ncomo si estuviera conduciendo la cosa real."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Quiero pasar todo el descanso haciendo esto!\nEntrenador, ¿puedes aligerar mi horario de\nentrenamiento, por favor?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vodka pasa la mayor parte de su descanso de Año\nNuevo en el arcade. Parece que disfrutó de su\ntiempo libre."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Uhhh... Qué hay para ir a lo loco durante el\ndescanso de Año Nuevo? ¿Mi tarea?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Como, quieres que vaya \"mental\" y golpee algunos\nlibros. No lo entiendo del todo, pero lo\nintentaré."
+    },
+    {
+      "name": "Vodka",
+      "text": "Hombre, ¿por qué tenemos que ir a la biblioteca en\nel descanso? Este libro... <i>¿Cuestionario de\nAscendencia Humana?</i>"
+    },
+    {
+      "name": "Vodka",
+      "text": "Así que solo tengo que memorizar esto y responder\ncorrectamente a las preguntas. Este es el Hombre\nde Pekín, y este es el Hombre de Java. ¿Cómo fue?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vodka se vuelve absolutamente primitiva en sus\nestudios durante todo el descanso. Parece que sale\ncon más conocimiento y horizontes ampliados."
+    }
+  ]
+}

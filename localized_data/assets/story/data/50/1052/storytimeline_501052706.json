@@ -1,0 +1,73 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de un día fuera con Haru Urara, estoy a\npunto de despedirla en la academia cuando..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ah!",
+      "choice_data_list": [
+        "¿Qué es?",
+        "¿Qué es?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Acabo de recordar algo! En el distrito comercial,\nvi un plato de zanahorias a la parrilla que quería\ncomer."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Lo olvidé por completo mientras estábamos fuera."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Vamos a comprar ahora! ¡Vamos, Entrenador!",
+      "choice_data_list": [
+        "Guardémoslo para otro día.",
+        "¡Tenemos que irnos ya!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿¡Eh!? ¡Nooo! ¡Mi pancita dice que quiere comerlo\nahora!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿¡Eh!? ¿Qué es ese olor tan increíble?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ah! ¡Huele a curry de zanahoria! ¡Es la hora de\nla cena! ¡Tengo que volver rápido!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Lo siento, Entrenador! ¡Comamos las zanahorias a\nla parrilla otro día!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Diez segundos después de que se va, escucho un\nfuerte \"¡Se ve tan bien!\" viniendo de las\nresidencias."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Yaaay! ¡Me prometí que lo iba a probar uno de\nestos días!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ah! ¡Acabo de recordar! ¡La tienda cierra por la\nnoche!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Tenemos que darnos prisa!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Urarararaaa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Haru Urara corre hacia el distrito comercial a una\nvelocidad que nunca antes había visto en <i>nadie</i>."
+    }
+  ]
+}

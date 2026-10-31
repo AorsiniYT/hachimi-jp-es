@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Maruzensky",
+      "text": "<i>Suspiro...</i>",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, no es nada. Solo tengo un poco de dolor de\ncabeza."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Dicen que la belleza trae desgracia, y eso me\ntiene preocupada..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Jeje! ¡Broma! ☆"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Nngh, ay..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Maruzensky intenta restarle importancia, pero es\nevidente que el dolor de cabeza realmente la\nmolesta."
+    }
+  ]
+}

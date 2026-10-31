@@ -1,0 +1,51 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fan A",
+      "text": "¡Y eso fue todo por la Japanese Oaks! ¡Hombre, eso\nfue increíble!"
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Hishi Amazon realmente trajo la energía de nuevo!\n¡No puedo esperar por la Shuka Sho!",
+      "color_text_info_list": [
+        "Shuka Sho"
+      ]
+    },
+    {
+      "name": "Fan B",
+      "text": "Creo que tiene algo de mercancía nueva.\n¡Deberíamos ir a echar un vistazo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con dos tercios de la gira de la Tiara en su\nhaber, Hishi Amazon está empezando a convertirse\nen un nombre familiar."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Woo, qué <i>uno contra </i>uno más intenso! Esas Oaks\npara ti—¡todas esas corredoras ahí eran monstruos!",
+      "choice_data_list": [
+        "¡Gran trabajo!"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Jeje, ¡gracias! ¡Pero aún no hemos terminado!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Esa segunda corona definitivamente irá a Narita\nBrian en el Japanese Derby la próxima semana. Este\nno es momento para confiarse."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Voy a darle a la Shuka Sho todo lo que tengo, así\nque más te vale seguirme el ritmo, Teach!",
+      "choice_data_list": [
+        "¡Lo haré!",
+        "¡Lo haré!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Es hora de subir un nivel nuestro entrenamiento\npara la Shuka Sho!"
+    }
+  ]
+}

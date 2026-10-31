@@ -1,0 +1,189 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Biwa Hayahide y yo acabamos de terminar nuestra\nsesión de entrenamiento del día."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Eh? ¿Dónde está mi botella? ¿La dejé en la pista?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Perdón, Entrenador. Necesito buscar mi botella.\nDespués iré directo a casa.",
+      "choice_data_list": [
+        "Ya está oscuro, así que iré contigo."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿En serio? Gracias."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Estoy bastante segura de que estaba por ahí..."
+    },
+    {
+      "name": "Umamusume Asertiva",
+      "text": "¿No nos escuchaste la primera vez? Tenemos una\ncarrera próximamente, así que quítate de en medio\ny lárgate."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Disculpa? <i>Estoy</i> en tu camino? Eso es extraño\nporque estoy bastante segura de que yo estaba aquí\nprimero."
+    },
+    {
+      "name": "Umamusume de Ojos Agudos",
+      "text": "¿Qué nos importa eso? En serio, ya lárgate !"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Oh, ahora sí que la estás pidiendo!",
+      "choice_data_list": [
+        "¿No es esa Narita Taishin?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Parece que sí... Voy a ver qué pasa."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Disculpa."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tenía la impresión de que hoy no había\nrestricciones para usar esta pista."
+    },
+    {
+      "name": "Umamusume Asertiva",
+      "text": "Genial, otra entrometida. ¿Qué quieres?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Hayahide?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Estoy tratando de entender si se requiere un\npermiso especial para usar esta pista hoy por\nalguna razón."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Si es así, por favor avísame a quién debo hablar\npara obtener el permiso. Puedo ir en nombre de\nTaishin."
+    },
+    {
+      "name": "Umamusume Asertiva",
+      "text": "Bueno, eh... No exactamente..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Disculpas, no pude oírte bien. No es exactamente\nqué? ¿Estás diciendo que el permiso especial <i>no</i> es\nnecesario para usar esta pista?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "En ese caso, ¿podrías explicar por qué le dijiste\na Taishin que se fuera? ¿Acaso cometió algún tipo\nde infracción?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Si interfirió con tu entrenamiento de alguna\nmanera, por favor házmelo saber."
+    },
+    {
+      "name": "Umamusume Asertiva",
+      "text": "Ehm... Esto..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Qué pasa? ¿Será que no tenías una razón legítima\npara acosar a Taishin y solo querías imponer tu\nautoridad?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Si ese es el caso, entonces creo que eres <i>tú</i>quien\nestá errado."
+    },
+    {
+      "name": "Umamusume Asertiva",
+      "text": "¡Ngh! ¡Ya entendemos!"
+    },
+    {
+      "name": "Umamusume de Ojos Agudos",
+      "text": "¡Esto es tan estúpido! ¡Salgamos de aquí!"
+    },
+    {
+      "text": "Las dos no son rival para la fría y dura lógica de\nBiwa Hayahide y se van sin decir otra palabra."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡En serio, qué descaro! Actuando como si fueran\nlas únicas permitidas en la pista..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Perdón. No tenías que hacer eso por mí."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Oh, está bien. No me importa."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Intenta no quedarte fuera demasiado tarde, ¿vale?\nY asegúrate de comer algo cuando regreses al\ndormitorio."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Sí, sí, ya sé."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Je, je, ¡bueno!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Perdón por hacerte esperar, Entrenador.",
+      "choice_data_list": [
+        "¡Eso fue increíble de tu parte!",
+        "¡Tu pensamiento lógico y razonamiento las atrapó\nbien!",
+        "¡Tu argumento lógico y razonamiento las atrapó\nbien!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Perdón por hacerte esperar, Entrenador.",
+      "choice_data_list": [
+        "¡Eso fue increíble de tu parte!",
+        "¡Tu pensamiento lógico y razonamiento las atrapó\nbien!",
+        "¡Tu argumento lógico y razonamiento las atrapó\nbien!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿E-en serio? Solo estaba siendo yo misma,\nhonestamente..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Diré una cosa, sin embargo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "La mejor manera de manejar argumentos demasiado\nemocionales es derribarlos con una lógica sólida."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hacer eso usualmente hace tropezar tanto a la otra\npersona, que se rinde por sí sola."
+    },
+    {
+      "text": "Biwa Hayahide está un poco más orgullosa de su\nenfoque lógico de las cosas de lo normal hoy."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No esperaba que fuera útil en una situación así."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sé que a veces puedo parecer fría e inflexible\ndebido a mi pensamiento demasiado lógico, pero..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Si puedo usarlo para ayudar a mis amigas, entonces\ncreo que es seguro llamarlo una fortaleza. Je, je."
+    },
+    {
+      "text": "Después de defender exitosamente a una amiga, Biwa\nHayahide parece sentirse aún más confiada en sus\nhabilidades de razonamiento."
+    }
+  ]
+}

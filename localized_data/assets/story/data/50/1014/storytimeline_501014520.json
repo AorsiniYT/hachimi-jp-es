@@ -1,0 +1,179 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Taiki! ¿Estás listo?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Sí! ¡Estoy lista cuando tú lo estés!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Entonces abramos esa puerta!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡En sus marcas... Listos..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ya!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Pam, pam, pam!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Condor Pasa y Taiki Shuttle salen corriendo por\nla carretera frente a las residencias. ¿Qué\nestarán haciendo esos dos?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Uf! ¡Perfecto! ¡Eso debería funcionar!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Sí! ¡Sin problema! ¡La cena de hoy será de lujo!",
+      "choice_data_list": [
+        "¿Qué están haciendo?",
+        "¿Qué están haciendo?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ah, Entrenador! Verás, hay un evento ahora mismo\nen un café popular por su nueva pizza!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Solo cuestan 500 yenes! ¡Y no solo las pequeñas,\ntambién las extra-grandes! ¡Primero en llegar,\nprimero en ser atendido! Además, ¡no hay límite en\ncuántas puedes comprar!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Por eso El y yo estamos entrenando juntos. ¡Vamos\na darnos el lujo de comer unas extra-grandes!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Son tan grandes que nos costará a los dos\ncargarlas de vuelta!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Puedes venir si quieres, Entrenador! ¿Qué opinas?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Si vamos los tres, podremos cargar mucho más en\nun solo viaje!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Ahora <i>eso</i> es pensar! ¡Vamos a tenernos una fiesta\nde pizza extra-grande!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Antes de que pueda entender la situación, los dos\nme llevan con ellos al café."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Llegamos! ¡El lugar está por allá!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Guau! ¡Está llenísimo!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Hay mucha más gente de lo que pensé! ¡Debimos\nhaber hecho un plan!",
+      "choice_data_list": [
+        "¡Solo camina como si fuera tuyo!",
+        "¡Busca un hueco en la multitud!",
+        "¡Busca un hueco en la multitud!"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Hay mucha más gente de lo que pensé! ¡Debimos\nhaber hecho un plan!",
+      "choice_data_list": [
+        "¡Solo camina como si fuera tuyo!",
+        "¡Busca un hueco en la multitud!",
+        "¡Busca un hueco en la multitud!"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Como si fuera nuestro? ¡Ah, ya veo! ¡Se trata de\nla actitud!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh! ¡Eso suena divertido!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡No hay problema! ¡Soy El Condor Pasa!\n¡Superfuerte, superrápida, superintimidante!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Okay! ¡Yo también daré lo mejor de mí! Jeje,\n¡estoy lista!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Están a punto de abrir! ¡Vamos, Taiki!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Vamos a agarrar una grande!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con cuidado de no chocar con nadie, avanzamos como\nsi perteneciéramos al frente. Un poco después..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡La tengo! ¡Extra-grande, cariño!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su poderosa voz resuena en el aire."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Quieres que nos colemos por los huecos? ¡Ah, ya\nentiendo! ¡Esto requiere delicadeza!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Sí, creo que tienes toda la razón."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Tenemos que tener mucho cuidado! Sería malo si\nchocamos accidentalmente con alguien."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Doy lo mejor de mí cuando entreno, pero ¡no\npodemos abrirnos paso a empujones aquí!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Entendido, Entrenador! ¡Déjalo en mis manos!\n¡Después de todo, soy la más fuerte del mundo!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Me aseguraré de que se haga! ¡Vamos, Taiki!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Yo también estoy lista! ¡Es hora de agarrar una\npizza grande!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Condor Pasa se abre paso, tejiéndose con\ncuidado entre la multitud en busca de pizza."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡La tengo! ¡Extra-grande, cariño!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que El Condor Pasa aprendió algo mientras\nse abría paso con habilidad entre la multitud para\nconseguir pizza."
+    }
+  ]
+}

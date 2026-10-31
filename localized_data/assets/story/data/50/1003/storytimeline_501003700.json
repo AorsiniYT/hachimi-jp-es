@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tokai Teio",
+      "text": "<i>Bostezando...</i> Buenos días, Entrenador.",
+      "choice_data_list": [
+        "Pareces cansado.",
+        "Pareces cansado."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ayer, Mayano y yo estábamos viendo esta serie de\nsuspenso en la que ella se ha estado enganchando."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Solo íbamos a ver un episodio, pero Mayano dijo\nque había adivinado quién era el culpable, y al\nfinal del episodio resultó que tenía razón."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Así que por supuesto yo también quise intentar\nadivinar. Y nos enganchamos tanto con eso,\nadivinando culpable tras culpable..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Al final terminamos viendo toda la serie.\n<i>Bostezooo...</i>"
+    }
+  ]
+}

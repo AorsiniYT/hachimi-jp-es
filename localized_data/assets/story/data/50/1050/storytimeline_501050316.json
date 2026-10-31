@@ -1,0 +1,98 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Y la ganadora del enfrentamiento BNW es... Narita\nTaishin! ¡Narita Taishin es victoriosa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(Bien. Eso no estuvo nada mal. Me siento bien.)"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(Supongo que ganar carreras realmente es lo que\nquiero. Quiero seguir ganando hasta que pueda\ncreer verdaderamente en mí misma.)"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(No tenía idea de que ganar pudiera hacerme sentir\ntan feliz...)"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Nooooo! Corrí con todo mi poder, ¡pero aún así\nperdí!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Estoy triste por mí... pero feliz por ti,\n¡Taishin! ¡Felicidades!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Eres nuestra querida rival por una buena razón."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Casi estoy atónita por lo grandiosa que eres!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Bueno... Solo es porque las tengo a ustedes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin se eleva a la cima de BNW entre\nolas interminables de vítores y elogios para ella."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Oye, quiero hablar contigo sobre mi próxima\ncarrera.",
+      "choice_data_list": [
+        "¡Ah, sí! ¡Dímelo!",
+        "¡Ah, sí! ¡Dímelo!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Te mataría actuar como una persona normal por una\nvez? De todos modos..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ahora que he llegado hasta aquí, hay una carrera\nque definitivamente quiero correr, y esa es el\nGran Premio al final del año—",
+      "choice_data_list": [
+        "¡Oh, el Arima Kinen!",
+        "¡Oh, el Arima Kinen!"
+      ],
+      "color_text_info_list": [
+        "Gran Premio"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Sí. Estoy segura de que tanto Ticket como Hayahide\nparticiparán, así que yo también."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Quiero esforzarme y ver de qué estoy realmente\nhecha."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Quiero probar esta fuerza mía en la que crees\ntanto.",
+      "choice_data_list": [
+        "¡Okay, entonces hagámoslo!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Nuestro próximo objetivo ahora está fijado para\nel Arima Kinen!",
+      "color_text_info_list": [
+        "Arima Kinen"
+      ]
+    }
+  ]
+}

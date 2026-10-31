@@ -1,0 +1,231 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Llega la primera carrera de otoño, y Mejiro\nMcQueen se coloca cómodamente en primer lugar en\nel Kyoto Daishoten."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con cada carrera que corre, gana aún más respeto y\nadmiración."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Estoy conmocionada. No puedes dar dos pasos sin\nver la cara de McQueen en alguna revista o\npantalla."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Nunca esperé atraer tanta atención..."
+    },
+    {
+      "name": "Niño",
+      "text": "Guau, es la mayor McKeen. ¿Puedes estrechar mi\nmano!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Sí, estaré encantada. Y, por cierto, es \"Mejiro\nMcQueen\"."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Incluso los jóvenes la conocen. Ey, ¿Umamusume\nEstelar?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Realmente... ¿No puedes dejar de hacer bromas por\nun segundo?"
+    },
+    {
+      "name": "Niño",
+      "text": "Voy a animarte con mucho entusiasmo en la próxima\ncarrera también. ¡Haz lo mejor, mayor McKeen!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Muchas gracias. Definitivamente tengo que ganar\nahora. Y, por cierto, es \"Mejiro McQueen\"."
+    },
+    {
+      "name": "Niño",
+      "text": "¡Hasta luego! ¡Adiós!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Adiós por ahora."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No puedo decir que esté acostumbrada a este tipo\nde interacciones. La reputación es algo extraño."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Qué es eso? ¿No me digas que te vas a convertir\nen un desastre nervioso."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "E-eso definitivamente no va a suceder. Como\nmiembro de la prestigiosa familia Mejiro, siempre\nme comporto con dignidad."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Ah, sí? Bueno, no veo por qué no puedes estar\nnerviosa a veces."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Podrías <i>por favor</i> decidirte?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Buenos días, todos.",
+      "choice_data_list": [
+        "Buenos días, McQueen."
+      ]
+    },
+    {
+      "name": "Umamusume animada",
+      "text": "McQueen, ¡buenas noticias! Parece que hay un\nmontón de personas más que quieren transferirse a\nnuestro equipo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Mi, las solicitudes no han parado desde el Kyoto\nDaishoten."
+    },
+    {
+      "name": "Umamusume sincera",
+      "text": "Es todo gracias a tus esfuerzos, McQueen."
+    },
+    {
+      "name": "Umamusume animada",
+      "text": "Sería súper increíble si también pudieras ganar el\nTenno Sho de otoño. ¡Imagina ganar tanto en\nprimavera como en otoño."
+    },
+    {
+      "name": "Umamusume atenta",
+      "text": "El número de nuevas solicitudes sería increíble."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Por favor, todos están hablando como si ya hubiera\nganado."
+    },
+    {
+      "name": "<username>",
+      "text": "No es de extrañar que todos estén tan emocionados.\nNo muestras signos de ralentización."
+    },
+    {
+      "name": "<username>",
+      "text": "No es de extrañar que todos estén tan emocionados.\nNo muestras signos de ralentización."
+    },
+    {
+      "name": "<username>",
+      "text": "Ha pasado un tiempo desde que el Equipo Sirius ha\ntenido tanta atención. Probablemente no desde la\népoca de gloria del último entrenador."
+    },
+    {
+      "name": "Umamusume animada",
+      "text": "Oh, <i>sí</i> que estamos de vuelta."
+    },
+    {
+      "name": "Umamusume atenta",
+      "text": "Tengo tus aplausos desde la primera fila."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Gracias por su entusiasta apoyo, todos. <i>Ganaré</i> la\npróxima carrera."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Dicho esto, comencemos el entrenamiento de hoy."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Fiel a sus palabras audaces, McQueen trae una\ncantidad inspiradora de energía a la sesión de\nentrenamiento del día."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Guau, mira!"
+    },
+    {
+      "name": "<username>",
+      "text": "Y eso es un final. Una victoria perfecta, y\ntomaste la iniciativa en el mejor momento posible."
+    },
+    {
+      "name": "<username>",
+      "text": "Y eso es un final. Una victoria perfecta, y\ntomaste la iniciativa en el mejor momento posible."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Bueno, por supuesto. En el Takarazuka Kinen, no\nlogré asegurar una buena posición y tuve que tomar\ncurvas amplias."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Si quiero asegurarme de que las carreras vayan a\nmi favor, necesito prestar atención extra a mi\npoder de sprint y posición."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ja ja ja. Quizás pronto puedas enfrentarte a mí,\njoven."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Antes de preocuparte por correr contra mí, quizás\ndeberías intentar pasar la prueba básica de la\npuerta."
+    },
+    {
+      "name": "<username>",
+      "text": "Bien, todos, terminemos aquí por hoy. Asegúrense\nde enfriar esas piernas."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "En realidad, Entrenador."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Todavía me siento bastante bien, así que voy a dar\notra vuelta."
+    },
+    {
+      "name": "Umamusume atenta",
+      "text": "Oh, entonces voy a ir por otra también."
+    },
+    {
+      "name": "Umamusume sincera",
+      "text": "Yo también. Si McQueen puede hacerlo, ¡también\npodemos!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Eh? Por favor, no os forcéis..."
+    },
+    {
+      "name": "Umamusume animada",
+      "text": "Bueno, no importa. Verla correr nos da la energía.",
+      "choice_data_list": [
+        "Está bien, solo un poco más."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Caramba. Una vez más, entonces."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Caramba, lo hacen ver fácil. Supongo que <i>yo</i> pondré\nmás picante."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ey, manos fuera de la cola."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La actitud laboriosa de Mejiro McQueen ha tenido\nnada más que buenos efectos en el equipo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella es, sin duda, el corazón y el alma del Equipo\nSirius."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Entrenador."
+    },
+    {
+      "name": "<username>",
+      "text": "Tazuna, ¿necesitas algo de mí!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Hay algo que me gustaría discutir contigo sobre\nMcQueen."
+    }
+  ]
+}

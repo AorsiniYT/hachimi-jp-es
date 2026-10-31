@@ -1,0 +1,201 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El día de las pruebas finalmente llega."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Raíces de loto, tallos de apio, hojas de\nespinaca... Raíces de loto, tallos de apio, hojas\nde espinaca...",
+      "choice_data_list": [
+        "¿Es algún tipo de invocación?",
+        "¿Es algún tipo de conjuro?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Es para la buena suerte! Este cántico me\npermitirá concentrar mi fuerza de voluntad y\ncorrer al máximo de mi capacidad!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡He entrenado todo lo que pude! Independientemente\nde cómo resulte esta carrera, yo <i>haré</i> que seas mi\nentrenador!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Hola, Fukukitaru! ¿Cómo te sientes?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Um... Nos gustaría verte correr hoy, si no te\nimporta."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Oh! ¡Taiki, Suzuka! ¿¡Están aquí para animarme?!\n¡Es genial saber que ustedes dos me apoyan!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Han sido un par de semanas ajetreadas, pero creo\nque estoy lista, gracias a ustedes dos!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡No hay de qué! ¡Destroza esa pista de carreras!\n¡Enséñales lo que tienes! No te preocupes por\nSuzuka y por mí. ¡Nosotras también haremos nuestro\ndebut pronto!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Perdón por la ventaja, ustedes dos! ¡Nos vemos en\nla Serie Twinkle!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Muy bien, entonces... Ya es hora de que me vaya.\n¡Intentaré no perder por mucho!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Sí, dale tu— ¿Espera, qué?",
+      "choice_data_list": [
+        "¡Buena suerte!",
+        "¡Buena suerte!"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Gracias! ¡Vuelvo pronto!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Um... ¿Acaso ella pretende perder o algo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La carrera pronto comienza, y Matikanefukukitaru\nsale disparada de la puerta de salida."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Esta carrera tan esperada está completamente\nllena de corredoras muy hábiles! ¿¡Quién saldrá\nvictoriosa?!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Matikanefukukitaru se está quedando atrás! ¿¡Las\nUmamusume líderes son demasiado rápidas para\nella?!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Mgrrrgh! Todas son... tan rápidas..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Está bien, sin embargo. Solo necesito hacer lo que\nprometí—¡correr!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Vamosooo! ¡Súper Fortuna a Toda Máquina!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Las corredoras han tomado su última curva y están\nentrando en la recta final!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Matikanefukukitaru está acelerando desde atrás!\n¿¡Podrá reducir la distancia?!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Yeeeaaah!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Uy, pensé por un segundo que podía superarlas a\ntodas... ¿Cómo terminé aún en último lugar?",
+      "choice_data_list": [
+        "¡Es revelador, ¿¡no?!",
+        "¡Es revelador, ¿¡no?!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Aún así, estuviste tan cerca... Si hubieras tenido\notros cincuenta metros, habrías superado\nfácilmente a todo el grupo."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Lo sé, ¿¡verdad?! Podrías haber sido última, pero\ndefinitivamente tuviste el mayor impacto!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Awww, ustedes son demasiado amables."
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "¡Ah, Matikanefukukitaru! ¡Allí estás! ¡Por favor,\ndéjame reclutarte!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Eh? ¿Quieres... reclutarme?"
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "¡Esa ráfaga de velocidad durante la última parte\nde la carrera fue algo impresionante! ¡Estoy\nsegura de que tú y yo podemos lograr cualquier\ncosa juntos!"
+    },
+    {
+      "name": "Veteran Trainer B",
+      "text": "No, ella necesita <i>mi</i> guía! ¡Seré yo quien la\nreclute!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Waaah! ¿Por qué todas estas personas vienen a mí?\n¡Estaba en último lugar!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Lo siento, pero el destino ya ha decidido mi\nentrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Matikanefukukitaru rechaza cortésmente las ofertas\nde los entrenadores a su alrededor y mira en mi\ndirección."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su creencia en las adivinaciones es insuperable, y\nes obvio que es un personaje peculiar. Aún así,\npuedo decir que ama correr más que nada."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Ummm... No soy muy buena bajo presión. Cada vez\nque me pongo nerviosa, me siento como si empezara\na balbucear algún conjuro aleatorio en cualquier\nmomento...",
+      "choice_data_list": [
+        "¡Creemos nuestra propia buena suerte!",
+        "¡Creemos nuestra propia buena suerte!"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Vaya! ¡Así me gusta! ¡La buena suerte no solo\nllega a los que esperan sin hacer nada!\n¡Hagámoslo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con las pruebas detrás de nosotros, oficialmente\nasumo el rol de entrenador de Matikanefukukitaru."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Qué tal si empezamos? ¡No hay tiempo que perder!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Hm, en realidad... Antes de empezar, ¿podría\npedirte un pequeño favor?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Estaba haciendo una adivinación con zanahorias\nantes, y decía que correr en pareja sería la\nactividad de la suerte de hoy. El problema es que\nSuzuka está ocupada hoy..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿¡Podrías correr conmigo hoy?! ¡Por favor, solo\nesta vez!",
+      "choice_data_list": [
+        "¡Nuestros ritmos no coincidirían en absoluto!",
+        "¡Nuestros ritmos no coincidirían en absoluto!"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡No te preocupes! Si empiezas a quedarte atrás,\n¡yo te arrastraré! Así que ¡vamos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Antes de que pueda siquiera empezar a cuestionar\nmis decisiones hasta ahora, ella sale corriendo,\ndejándome sin más opción que intentar\ndesesperadamente mantener el ritmo."
+    }
+  ]
+}

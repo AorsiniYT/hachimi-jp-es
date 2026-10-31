@@ -1,0 +1,55 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Sí, sí, <i>síiiii!</i> ¿Viste eso?! ¡Obtuve el primer\nlugar, Entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tamamo Cross está eufórica por su victoria en el\nKyoto Kimpai.",
+      "color_text_info_list": [
+        "Kyoto Kimpai"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Poco antes de decidir entrar en la carrera..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Te lo ruego, Entrenador! ¡Déjame correr en el\nKimpai!",
+      "choice_data_list": [
+        "¿El Kimpai? ¿Por qué?"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Por qué? Porque ganar esa carrera es <i>muy</i>\nafortunado. ¡Tenemos que estar allí!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Quedar en primer lugar traería todo tipo de suerte\npara mí. Además, es la primera carrera del nuevo\naño."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Quiero volar por esa pista y acumular algo de\nbuena fortuna. Suena bien, ¿verdad? ¿Qué dices?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Gracias un montón, Entrenador. ¡Este va a ser un\naño de suerte!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Eso aplica para <i>ambos</i>! Sabes, ¡ya que fuiste tú\nquien me dejó competir!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Y después de eso, podemos repartir toda la suerte\ncon los fans en Kioto! ¡Reparto para todos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Hipódromo de Kioto está rebosante de fans de\nTamamo Cross, y ella tiene una sonrisa para cada\nuno."
+    }
+  ]
+}

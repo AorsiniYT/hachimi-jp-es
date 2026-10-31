@@ -1,0 +1,204 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Con el Takarazuka Kinen aún poco probable, un\nánimo desalentador ha caído sobre el mundo de las\ncarreras."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...",
+      "choice_data_list": [
+        "...Rice."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "No te preocupes, Big Brother. Estoy bien."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "No te preocupes, Big Sister. Estoy bien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eso dice, pero su sonrisa parece vacía. Debe\nseguir molestándola."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Zumbido... zumbido...</i>"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡L-lo siento! ¡Tengo que irme!",
+      "choice_data_list": [
+        "¿¡Adónde?!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡L-lo siento! ¡Tengo que irme!",
+      "choice_data_list": [
+        "¿¡Adónde?!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡No muy lejos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿A dónde en el mundo podría estar yendo Rice\nShower?"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "...¿Fue Rice Shower la que acaba de pasar\ncorriendo?"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "C-creo que sí. Se veía muy intensa. No crees—"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡D-detente! Ella siempre se esfuerza tanto, así\nque no..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Subo las escaleras corriendo. ¡Por favor, dime que\neste hueco en el fondo de mi estómago está\ntotalmente infundado!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Por favor... ¡pídeles que nos dejen usar la pista!",
+      "choice_data_list": [
+        "¿¡Era Rice?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Atravieso el pasillo corriendo hacia su voz."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Paciencia! Hay ciertos procedimientos que deben\nseguirse antes de que yo—"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Pero ya le pedí al personal del Hanshin! ¡Y al\ndel Kyoto también!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Así que por favor... ¡salven el Takarazuka Kinen!",
+      "choice_data_list": [
+        "¿¡Rice?!"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Asombro! ¡Ahora el Entrenador <username> también está\naquí?!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Eh?! ¿Hermano mayor?",
+      "choice_data_list": [
+        "¿Qué está pasando?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Eh?! ¿Hermana mayor?",
+      "choice_data_list": [
+        "¿Qué está pasando?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Vine a pedirle algo a la directora."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pensaba que podríamos realizar el Takarazuka Kinen\nen el Kyoto Racecourse."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡En efecto! Ella preguntó anoche también, si mi\nmemoria no me falla."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Ay! No es mi decisión. Primero debemos contactar—"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "P-pero te dije—¡ya he contactado a los hipódromos\nde Hanshin y Kyoto!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Perdón por causarte problemas, y sé que no es\nfácil, ¡pero por favor ayúdanos!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Por favor, por favor, por favor! Quiero hacer\ntodo lo que pueda por toda la gente que me ha\napoyado hasta ahora!",
+      "choice_data_list": [
+        "¡Yo también ayudaré!",
+        "¡Yo también ayudaré!"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¿¡Huh?! A-ahora, ahora... Calmémonos—"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡L-lo siento por el retraso! ¡Tengo buenas\nnoticias!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Tazuna! ¡Mi salvador!",
+      "color_text_info_list": [
+        "Tazuna"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡El Takarazuka Kinen de este año se realizará en\nel Kyoto Racecourse!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿¡En serio?!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Sí. El personal tanto del Hanshin como del Kyoto\nRacecourse ha estado hablando entre ellos detrás\nde cámaras. Están determinados a hacerlo realidad."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Lo están dando todo por esta carrera... y por ti,\nRice Shower."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Hic...</i> Me alegra tanto... que vayan a realizar la\ncarrera.",
+      "choice_data_list": [
+        "Ahora es tu turno de esforzarte."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Sí... ¡Sí! No solo por mí, sino por todos los que\nse están esforzando para que esto suceda."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Y por todos los que me han apoyado!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Voy a correr en el Takarazuka Kinen... y haré\nsonreír a todos!"
+    }
+  ]
+}

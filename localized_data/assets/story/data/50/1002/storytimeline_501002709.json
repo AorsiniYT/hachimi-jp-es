@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Silence Suzuka",
+      "text": "Estuve tan cerca..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Casi lo logro...",
+      "choice_data_list": [
+        "¡Vamos a tomar la delantera la próxima vez!",
+        "¡Volvamos y sigamos entrenando ya mismo!",
+        "¡Volvamos y sigamos entrenando de inmediato!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Estuve tan cerca...",
+      "choice_data_list": [
+        "¡Vamos a tomar la delantera la próxima vez!",
+        "¡Volvamos y retomemos el entrenamiento ya mismo!",
+        "¡Regresemos y volvamos a entrenar ya mismo!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Sí. No me gusta estar encerrada como lo estuve en\nesa carrera..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "La próxima vez, iré a la cabeza, sin duda."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Sí. Todavía no estoy satisfecha."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Por favor, haz que corra cada vez más y más...\nhasta que nadie pueda adelantarme jamás."
+    }
+  ]
+}

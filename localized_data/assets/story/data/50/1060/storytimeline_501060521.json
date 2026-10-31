@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Nice Nature",
+      "text": "<i>Bostezo...</i> Qué sueño...",
+      "choice_data_list": [
+        "¿No dormiste suficiente anoche?",
+        "¿No dormiste suficiente anoche?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Sí... Estuve viendo tele hasta tarde."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Has visto esos canales de compras con los\nanuncios dramatizados?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Como los que dicen... \"¡Me desmayé trabajando\nmuchas horas! ¡Por eso bebo este jugo de\nbienestar! ♪\""
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Seguro que eligen el peor momento para transmitir\nese tipo de cosas, pero me atrapan cada vez."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "<i>Bostezo...</i> Oh, también había uno sobre un futón\nque hace que duermas mejor."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los canales de compras nocturnos han mantenido a\nNice Nature despierta viendo maratón..."
+    }
+  ]
+}

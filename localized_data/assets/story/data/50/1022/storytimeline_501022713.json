@@ -1,0 +1,96 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fine Motion",
+      "text": "Ahhh, ahora la he liado... ¡Después de calentar y\ntodo!",
+      "choice_data_list": [
+        "¿Duele?",
+        "¿Duele?"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡No! No mucho, al menos. La lesión en sí es solo\nmenor..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Tengo miedo de perder la forma, así que realmente\nquiero volver al entrenamiento, pero... Mmmm."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Okay, Entrenador... ¡Hora de un examen sorpresa!\n¿Listo?!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¿Cuál de las siguientes es nuestro mejor curso de\nacción ahora mismo?"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Uno: hacer un poco de trote ligero. Dos: hacer un\nentrenamiento casual. Tres: hacer un poco de\naerobics acuático para evitar la tensión muscular!",
+      "choice_data_list": [
+        "Cuatro: ¡descansar adecuadamente!",
+        "...Entiendo. Podemos intentar volver al\nentrenamiento."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Entrenador! ¡Eso es hacer trampa! ¡No hay número\ncuatro!",
+      "choice_data_list": [
+        "Claro que sí."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le explico que hay algo de lógica en lo que dice,\npero que creo que se beneficiaría mucho más de un\ndescanso completo."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Entiendo. Bueno, si ese es tu razonamiento,\nacepto."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Es un poco golpe emocional... pero tomaré un buen\ny largo descanso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así Fine Motion hace lo que recomiendo y\nprioriza el descanso y la recuperación."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Exacto! ♪ Cuando se trata de lesiones pequeñas,\nes mejor poner el cuerpo en movimiento, ¿verdad?"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Ngh! Ay, ay, ay!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Creo... Puede que haya juzgado mal las cosas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Fine Motion sonríe a través de su decepción y se\ncompromete a obtener la recuperación que necesita."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Okay, ¿vamos directo a la pista de entrenamiento,\nentonces? ♪"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...¡Allí! ¡Vuelta completa! ♪",
+      "choice_data_list": [
+        "Parece que estás listo para ir.",
+        "Parece que estás listo para ir."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Ves, te dije que el ejercicio era lo mejor. ♪\n¡Sigamos así con moderación!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Fine Motion se reintroduce suavemente en el\nentrenamiento."
+    }
+  ]
+}

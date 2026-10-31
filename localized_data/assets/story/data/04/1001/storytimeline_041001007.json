@@ -1,0 +1,263 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Llego al sitio de entrenamiento de verano junto\ncon Special Week. Una vez que llegamos, sin\nembargo..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Puf... Me duele la cabeza... Es tan caluroso..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Sé que debo hacer esto... para ganar... Pero es\nsimplemente demasiado caluroso..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El calor le está afectando la cabeza. Necesito\naveriguar cómo animarla...",
+      "choice_data_list": [
+        "¿Qué tal si comemos algo delicioso en el festival\nmás tarde esta noche!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Delicioso... comida de festival?!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Tienen... papas asadas con mantequilla, ¿¡verdad?!\nEs un plato típico de los festivales!",
+      "choice_data_list": [
+        "Creo que sí.",
+        "Creo que sí."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Genial! Creo que estoy lista para empezar a\nentrenar. ¡Vamos a hacerlo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con Special Week completamente motivada y lista\npara ir, ella completa todo su régimen de\nentrenamiento. Después..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Wow! Hay tantos puestos diferentes... Y mucha\ngente también. No creo que haya ido a un festival\ntan concurrido."
+    },
+    {
+      "name": "Special Week",
+      "text": "¿¡Dónde empezamos?! Oh, veo un puesto de papas\nasadas. ¡Empecemos con eso!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Puf... Eso estuvo delicioso. Las papas asadas con\nmantequilla nunca decepcionan, sin importar el\nfestival."
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Dónde vamos ahora? Ese pastel de esponja de\nUmamusume de allí se ve... oh!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Grass y los demás también están aquí. ¿Te importa\nsi les digo hola rápidamente?",
+      "choice_data_list": [
+        "En absoluto. Tómate tu tiempo."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Gracias. Estaré de vuelta en un momento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "(Golpe!)"
+    },
+    {
+      "name": "Special Week",
+      "text": "Oops. Lo siento. No quería chocar... uff. Hay\nmucha gente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Special Week se queda atrapada en la multitud,\nincapaz de moverse debido a la densidad de\npersonas en las calles.",
+      "choice_data_list": [
+        "Por aquí, Spe.",
+        "Por aquí, Spe."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Eh? Oh, Entrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Llevo a Special Week por un camino que no está tan\nconcurrido."
+    },
+    {
+      "name": "Special Week",
+      "text": "Puf. Lo logramos. Gracias por salvarme allí,\nEntrenador.",
+      "choice_data_list": [
+        "Ten cuidado, ¿de acuerdo?",
+        "Ten cuidado, ¿de acuerdo?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Lo haré. Hey, Grass. ¡Aquí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras espero a que Special Week termine sus\nasuntos, decido comprar un pastel de esponja de\nUmamusume para probar."
+    },
+    {
+      "name": "Special Week",
+      "text": "Hasta luego. Lo siento por hacerte esperar."
+    },
+    {
+      "name": "Special Week",
+      "text": "Espera un segundo... <i>Snif... snif...</i> Huelo algo\ndulce. Esa bolsa... ¿Es lo que creo que es?",
+      "choice_data_list": [
+        "Es lo que querías, ¿verdad?",
+        "Es lo que querías, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Genial! Es el pastel de esponja de Umamusume."
+    },
+    {
+      "name": "Special Week",
+      "text": "Me lo compraste, ¿¡verdad?! Oh, no deberías\nhaberlo hecho."
+    },
+    {
+      "name": "Special Week",
+      "text": "Quiero comprarte algo a ti también. ¿Qué comprar,\nqué comprar... Hmm. Ese puesto de allí..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Jeje. Sé exactamente qué darte."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Special Week me da su regalo y nos dirigimos a la\nplaya para disfrutar de los dulces el uno del\notro."
+    },
+    {
+      "name": "Special Week",
+      "text": "Mmm... Ese pastel de esponja estuvo tan bueno.\nSólo tardó tres segundos en desaparecer."
+    },
+    {
+      "name": "Special Week",
+      "text": "Jejeje... Agregar \"Umamusume\" a las cosas las hace\nsaber diferentes de alguna manera. No hacían cosas\ncomo esta en mi hogar, seguro."
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Y el tuyo? Tu hielo raspado se hizo con leche de\nHokkaido.",
+      "choice_data_list": [
+        "Estuvo delicioso."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Eso es bueno. Oh, tómate tu tiempo, aunque. Si\ncomes demasiado de una vez, te dará dolor de\ncabeza."
+    },
+    {
+      "name": "Special Week",
+      "text": "Además, quiero que saborees el sabor de mi ciudad\nnatal.",
+      "choice_data_list": [
+        "Gracias."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Jeje. Ahora que lo pienso, ¿por qué la comida de\nfestival es tan buena?"
+    },
+    {
+      "name": "Special Week",
+      "text": "Quiero decir... Toma yakisoba o papas asadas, por\nejemplo. Son alimentos cotidianos súper simples.\nSin embargo, todavía saben absolutamente\nincreíble."
+    },
+    {
+      "name": "Special Week",
+      "text": "Mi mamá siempre se preguntó por qué también.\nPero... Creo que he descubierto la razón por la\nque sabe como sabe."
+    },
+    {
+      "name": "Special Week",
+      "text": "Los festivales son un lugar de diversión y\nfelicidad. La comida es increíble porque la\ncompartes con las personas que más te importan."
+    },
+    {
+      "name": "Special Week",
+      "text": "Jejeje... Espero que mi mamá esté bien...",
+      "choice_data_list": [
+        "¿No es cierto que la extrañas mucho?",
+        "¿No es cierto que la extrañas mucho?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Bueno, sí... Es difícil no hacerlo en momentos\ncomo estos."
+    },
+    {
+      "name": "Special Week",
+      "text": "Pero esas sensaciones de soledad y tristeza ya no\nme afectan porque..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Me encanta estar aquí! ¡Me encanta pasar cada día\naquí en la Academia Tracen!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Soy una cliente habitual de una tienda de ramen,\nhe encontrado nuevos lugares que me gustan\nvisitar, y he hecho muchos amigos cercanos."
+    },
+    {
+      "name": "Special Week",
+      "text": "Probablemente por eso el pastel de esponja sabía\ntan bien también."
+    },
+    {
+      "name": "Special Week",
+      "text": "Me tomó mucho coraje salir de mi zona de confort y\nvenir a la academia, pero estoy realmente contenta\nde haberlo hecho—pude encontrar un entrenador\nincreíble.",
+      "choice_data_list": [
+        "Me alegra escuchar eso."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Jeje... Haré mi parte y trataré de entrenar con\ntodas mis fuerzas mañana también. Ahora que he\nllenado mi estómago, solo necesito descansar bien\ny—"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Espera, qué hora es ahora! ¡Tenemos que regresar\nantes de que nos encierren!"
+    },
+    {
+      "name": "Special Week",
+      "text": "P-pero tú no has terminado tu hielo raspado\ntodavía. Quiero que te tomes tu tiempo para comer\ntal delicacia..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Tal vez si te ayudo a terminar el postre—no, ¿qué\nestoy diciendo? ¡Eso solo hace que parezca que\nquiero un poco de tu comida!",
+      "choice_data_list": [
+        "¡Adelante!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Eh? ¿De verdad? ¿Estás segura? ...¡Genial!\n¡Déjalo en mis manos!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Está bien, entonces... ¡Me lanzo! ♪"
+    },
+    {
+      "name": "Special Week",
+      "text": "Mmmmm... El hielo es tan crujiente... y delicioso."
+    },
+    {
+      "name": "Special Week",
+      "text": "La leche... sabe igual que la leche... que tenía\nen Hokkaido—¡Hawaaaa?!"
+    },
+    {
+      "name": "Special Week",
+      "text": "A-ay... Mi cabeza... Duele... El cerebro... se\nestá congelando..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque el dolor haya sido autoinfligido, ofrezco\nmi hombro a la doliente Special Week y de alguna\nmanera logramos regresar a tiempo."
+    }
+  ]
+}

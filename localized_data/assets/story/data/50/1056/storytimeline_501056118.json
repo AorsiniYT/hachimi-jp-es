@@ -1,0 +1,173 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Voy a la pista para entrenar solo para encontrar\nun gran grupo de personas ya allí.",
+      "choice_data_list": [
+        "(¿Qué está pasando?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Curioso, me abro paso entre la multitud, solo para\nencontrar..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Mirad! Solo por tener esta piedra mística en tu\nposesión, ¡tu suerte aumentará!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Esto aquí es una talla de oso de madera que\nmejora el temperamento con un solo toque! ¡Y esta\nes una máscara de noh que te otorga el poder del\nvuelo!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Estoy aquí para compartir mis bendiciones con\ntodos ustedes, un paquete de fortuna de mí para\nustedes! ¡Por favor, pruébelas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Matikanefukukitaru está montando un gran\nespectáculo y vendiendo sus productos de la suerte\na todas las Umamusume que pasan."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Oh, hola, Entrenador! Siéntete libre de probar\nuno tú mismo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Empiezo con la máscara... pero no pasa nada.",
+      "choice_data_list": [
+        "Mis pies siguen en el suelo."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Bueno, entonces! No te preocupes, ¡aún hay mucha\nbuena suerte para repartir!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Quiero decir, ¡simplemente no puedo evitar ganar!\nIzquierda o derecha, aquí o allá, ¡todo lo que\nencuentro es fortuna en cada esquina!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Eso no me convierte en la Umamusume más\nafortunada de por aquí? ¡Seguro que sí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ha ganado el Kyoto Shimbun Hai, Kobe Shimbun Hai y\nKikuka Sho, entre otros. La suerte ciertamente ha\nestado de su lado. Sin embargo...",
+      "choice_data_list": [
+        "(Creo que se está dejando llevar demasiado...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ha estado actuando extraño desde el Kikuka Sho. Su\nactitud es preocupante, por decirlo menos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No sooner tengo ese pensamiento, cuando..."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "¿Cómo está, Matikanefukukitaru?"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Me complace encontrarla de buen ánimo. Un hermoso\ndía de otoño, ¿no es así?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Qué gusto verte también a ti, Bright! ¡Qué timing\ntan auspicioso!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Nos vemos bastante a menudo, pero he estado\nsintiendo una conexión particularmente especial\nentre nosotros últimamente."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Tal vez sea porque hemos estado compitiendo en\ntantas carreras iguales! ¡Tengo justo lo que\nnecesitas!"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "¡Oh, vaya, es así? ¿A cuál de estos productos te\nrefieres?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Esto! ¡Mirad, el Gran Dios de los Pasteles de\nPescado!",
+      "choice_data_list": [
+        "¿<i>¡¿Qué?!</i>"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Jejeje! Es exactamente lo que suena—una figura de\nun dios tallada en una tabla para servir pasteles\nde pescado!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Representa a una deidad de pies ligeros. Llévalo\ncontigo, ¡y podrías recortar unos segundos de tu\nmejor tiempo!"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "¡Bueno! Qué regalo tan maravilloso. Estoy muy\nagradecida."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Bright toma el ligeramente deforme Gran\nDios de los Pasteles de Pescado."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Jeje. Seguro que lo llevaré conmigo todos los días\npara recolectar sus beneficios."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Sí, por favor! ¡Estoy segura de que lo\nencontrarás estupendamente efectivo!"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Si no, temo que nunca seré capaz de ganar contra\nti, Matikanefukukitaru."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "...Huh?"
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Puede que haya sufrido derrota a tus manos en\nvarias ocasiones, pero eso es todo pasado ahora."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Tengo la firme creencia de que la verdadera\nvictoria viene solo después de una serie de\namargas derrotas."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Lo suficientemente pronto, la victoria estará a mi\nalcance—una victoria verdaderamente brillante."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Oh... ¿Miras la hora? Debo irme a mi\nentrenamiento."
+    },
+    {
+      "name": "Mejiro Bright",
+      "text": "Hasta que nos volvamos a encontrar, el día que\nemerja victoriosa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bajo su serena sonrisa, Mejiro Bright hierve con\nfiera determinación. En cuanto a\nMatikanefukukitaru..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "No puedo creerlo."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿<i>Ella</i> saldrá victoriosa? ¿Contra la Uma Musume más\nafortunada del planeta?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Esa es toda una declaración! Pero ella olvida que\nestoy protegida por los dioses! ¡Porque poseo...\nel Dios de la Guerra de los Pasteles de Pescado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La provocación de Mejiro Bright se pierde en\nMatikanefukukitaru, que está en su propio\nuniverso. Si acaso, solo la hace más confiada."
+    }
+  ]
+}

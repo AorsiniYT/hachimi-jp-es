@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "¡El campamento de verano comienza hoy! Es un\nperíodo de entrenamiento intenso para que los\ncorredores mejoren sus habilidades. Sin embargo..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Guau, mira esto, Entrenador! ¡Es un artículo\nsobre el Derby de este año!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Veamos... \"¡Batalla Decisiva de BNW! Un Torbellino\nde Emociones, Espectadores Asombrados!\""
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Guauuu!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Winning Ticket está absorta en la revista Twinkle\nSeries.",
+      "choice_data_list": [
+        "¡Oye, concéntrate en el campamento de verano!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Eh? ¡Oh, cierto! Perdón, solo... ¡ya sabes!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El emocionante campamento de verano de Winning\nTicket comienza ahora."
+    }
+  ]
+}

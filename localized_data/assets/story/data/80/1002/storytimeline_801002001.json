@@ -1,0 +1,45 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras camino por la orilla del río..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Eh... Disculpa, ¿tienes un momento?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Podrías cronometrar mi carrera? Es difícil para\nmí hacerlo sola...",
+      "choice_data_list": [
+        "Por supuesto.",
+        "¡Claro! ¡Ahora corre tan rápido como puedas!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Muchas gracias. Lo aprecio."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras ayudo a Silence Suzuka a entrenar, estoy\ncompletamente asombrado por su increíble\nvelocidad."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Tan rápido como pueda? Vale. Haré lo mejor que\npueda, así que por favor asegúrate de tomar mi\ntiempo."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>Haa... Haa...</i> ¡Jeje! ¡Esto se siente increíble!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Silence Suzuka pasa corriendo junto a mí a una\nvelocidad asombrosa... luego desaparece en la\ndistancia."
+    }
+  ]
+}

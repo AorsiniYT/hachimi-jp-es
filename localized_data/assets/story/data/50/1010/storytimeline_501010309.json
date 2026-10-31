@@ -1,0 +1,65 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Sííí! ¡Mira! ¡Mírame!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Soy el Rey de la Milla de primavera!"
+    },
+    {
+      "name": "Fan A",
+      "text": "¿Ella corrió así de bien en <i>esas</i>\ncondiciones?!¿Cuánto poder tiene ella?!"
+    },
+    {
+      "name": "Fan B",
+      "text": "No tenía idea de que era <i>tan</i> buena... Taiki\nShuttle realmente está en una liga propia!"
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Estuve al borde de mi asiento todo el tiempo!\n¡Buen trabajo, Taiki Shuttle!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Gracias! ¡No retrocederé por nada!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡La multitud se ve tan feliz! ¿Tú también estás\nfeliz, Entrenador?",
+      "choice_data_list": [
+        "¡No podría estar más feliz!",
+        "¡No podría estar más feliz!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Buuuya! ¡Si todos están felices, yo soy feliz! ♪"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Ese es un G1 sprint menos! ¿Cuál es el siguiente\nque debo conquistar?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los fans de Taiki Shuttle se sienten atraídos por\nsu velocidad. Y la carrera que le dará a todos la\nmejor vista de eso es...",
+      "choice_data_list": [
+        "¡El siguiente es el Sprinters Stakes!",
+        "¡El siguiente es el Sprinters Stakes!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Uy! Eso es un poco menos de una milla, ¿verdad?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Ok, ya entiendo! ¡Voy a mostrarle a todos mi\nsuper velocidad!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Así que ni siquiera pienses en parpade!"
+    }
+  ]
+}

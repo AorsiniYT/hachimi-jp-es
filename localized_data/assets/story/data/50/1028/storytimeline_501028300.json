@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Hishi Akebono",
+      "text": "No puedo creer que el campamento de verano haya\nterminado."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Tantas cosas buenas pasaron, y me divertí <i>tan\nmucho</i>. Las sandías, las verduras de verano y los\nfideos somen también estaban súper ricos..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Pero está bien. ¡No estoy triste ni nada!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡El otoño va a ser igual de increíble! Habrá\nbatatas asadas y champiñones y recolección de\nuvas! ¡Y arroz rico y saury salado..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Espero la próxima temporada tanto como esperé el\nverano! El otoño va a ser <i>tan</i> genial!",
+      "choice_data_list": [
+        "¡Sí, tienes razón!",
+        "¡Sí, tienes razón!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esperaba escuchar sus opiniones sobre cosas además\nde la comida que comió, pero..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cosas así son las que hacen que Hishi Akebono sea\nquien es. Y con eso, nuestro intenso campamento de\nverano llega a su fin."
+    }
+  ]
+}

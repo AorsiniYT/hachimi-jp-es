@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Agnes Digital",
+      "text": "E-Entrenador... Entrenador. ¡Entrenadooor!",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Nada! Pero gracias al tiempo libre que me diste,\npude comprar un boleto para un evento de\nUmamusume!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Estará lleno de cosas como un panel interactivo\ncon juegos y una pequeña actuación... ¡Va a ser lo\nmejor!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Ahhh... Solo de pensarlo me emociono tanto que no\npuedo quedarme quieta! ¡Necesito quemar algo de\nesta energía ya mismo! ¿Qué deberíamos hacer hoy,\nEntrenador?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Agnes Digital tuvo un descanso\nsatisfactorio, y gracias a eso, está llena de\nenergía hasta el tope."
+    }
+  ]
+}

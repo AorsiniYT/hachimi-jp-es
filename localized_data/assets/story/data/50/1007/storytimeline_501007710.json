@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gold Ship",
+      "text": "¡Uuugh! ¡La regué!",
+      "choice_data_list": [
+        "¡Siempre hay una próxima vez!",
+        "¡No hay necesidad de maltratarte!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Sí! ¡Solo porque perdí esta vez no significa que\nme quedaré abajo para siempre!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Ganaré la próxima y le daré a mi hermanita en\ncasa una montaña de delicioso arroz blanco!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Pero solo arroz no es suficiente! ¡Le daré\ntambién un rico rábano daikon encurtido de\nacompañamiento!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Muy bien, Entrenador! ¡Hora de conseguir un\nmontón de rábanos daikon para encurtirlos todos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vamos al distrito comercial, compramos algunos\nrábanos daikon y cola amarilla, y preparamos una\nbuena comida."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Eso puede ser cierto, ¡pero igual!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Mi hermanita todavía me espera en mi pueblo\nnatal! ¡No puedo volver con las manos vacías!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "...¡Oh, lo sé! ¡Atraparé un kappa para ella como\nrecuerdo!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Sabes lo que eso significa, Entrenador! ¡Tenemos\nque conseguir algunos pepinos para cebo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gold Ship y yo vamos al distrito comercial,\ncompramos diez pepinos y luego los\ncomemos—ligeramente salados."
+    }
+  ]
+}

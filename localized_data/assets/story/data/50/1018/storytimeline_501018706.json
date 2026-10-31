@@ -1,0 +1,152 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Justo cuando regresamos a la academia, Air Groove\ny yo nos encontramos con Silence Suzuka."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Hola, Suzuka. ¿Vas a entrenar?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No, solo voy a hacer un trote rápido para despejar\nla cabeza."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Siempre pareces estar corriendo. Pero supongo que\nsimplemente eres así."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Mmm..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Te importaría si me uno? También tengo ganas de\nun sprint ligero.",
+      "choice_data_list": [
+        "Nuestro paseo fue tan aburrido, ¿eh?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "No seas ridículo. Al contrario, me siento bastante\nrefrescada. Por eso quiero correr."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Te importa, Suzuka?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Um... Mientras pueda correr, no me importa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de salir juntos a un ritmo razonable..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "<i>Haa...</i> Ngh!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>Haa... Haa...</i> Grrr!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las dos cruzan la línea de meta exactamente al\nmismo tiempo."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Como siempre, corres con intensidad."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Tú eres la que se puso realmente seria a mitad de\ncamino."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Solo porque te pusiste seria primero."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Sí, porque no quería perder."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Je... Muy bien. ¿Hacemos una revancha?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Por supuesto. Esta vez saldré a fondo desde el\nprincipio."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Yo también. ¡Sin restricciones!",
+      "choice_data_list": [
+        "No se excedan, ustedes dos...",
+        "No se excedan, ustedes dos...",
+        "¡Te animo, Air Groove!",
+        "¡Te animo, Air Groove!"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Yo también. ¡Sin restricciones!",
+      "choice_data_list": [
+        "No se excedan, ustedes dos...",
+        "No se excedan, ustedes dos...",
+        "¡Te animo, Air Groove!",
+        "¡Te animo, Air Groove!"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Por supuesto. Ni soñaría con ello."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Y yo tampoco. ¿Lista, Air Groove?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Estoy lista cuando tú lo estés."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Listos... preparados..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¡Ya!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque las dos terminan corriendo múltiples veces\npara determinar un ganador, ninguna es capaz de\nasegurar una victoria clara."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿P-por qué te estás alterando tanto?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Esto es solo entrenamiento. Eso no es necesario en\nabsoluto."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Jeje, no seas tan dura. Estoy un poco celosa."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ngh..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¡Basta! ¿Corremos o no?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque las dos terminan corriendo múltiples veces,\nninguna es capaz de asegurar una victoria clara."
+    }
+  ]
+}

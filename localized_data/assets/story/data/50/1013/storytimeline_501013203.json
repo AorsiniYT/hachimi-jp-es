@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Por fin es la hora del Tenno Sho de primavera. El\nclima está soleado y despejado sobre la hierba de\nYodo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Abuelo, Abuela. Por fin ha llegado el día."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Por favor, mírenme mientras corro, y vean el\nmomento en que logro la victoria!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Muy bien... Ya estoy lista. ¡Creo que puedo\nlograrlo!",
+      "choice_data_list": [
+        "¡Ve y da todo lo que tienes!",
+        "¡Ve y da todo lo que tienes!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Lo haré! ¡Mantén tus ojos en mí, Entrenador!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "(<i>Suspiro...</i> Cálmate, todo está bien...)"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "...Ah!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Oh, Ryan..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Demos lo mejor de nosotras como miembros de la\nfamilia Mejiro."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "...¡Correcto!"
+    }
+  ]
+}

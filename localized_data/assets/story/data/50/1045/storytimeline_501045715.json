@@ -1,0 +1,99 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Super Creek",
+      "text": "Uf... Buen trabajo, Entrenador."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Tú también debes estar cansado. Relajémonos hoy,\ny—"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "<i>Resoplido... Haa... uf...</i>"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Oh, Oguri! ¿También vas de regreso a casa después\nde entrenar?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hola, Creek. No, solo voy a tomar un bocadillo\nrápido antes de salir de nuevo."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Pronto será de noche... ¿Eso significa que\ncorrerás en la oscuridad?",
+      "choice_data_list": [
+        "¿No es peligroso correr solo por la noche?",
+        "¿No es peligroso correr solo por la noche?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Está bien. Estaré atento a los autos."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Eso no me hace sentir menos preocupado..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Entrenador, ¿te importa si me uno a Oguri?"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Si algo pasa, será más fácil de manejar si ella\ntiene a alguien con ella.",
+      "choice_data_list": [
+        "Me uniré a ustedes dos.",
+        "Me uniré a ustedes dos.",
+        "No puedes ver a dónde corres en la oscuridad..."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Si algo pasa, será más fácil de manejar si ella\ntiene a alguien con ella.",
+      "choice_data_list": [
+        "Me uniré a ustedes dos.",
+        "Me uniré a ustedes dos.",
+        "No puedes ver a dónde corres en la oscuridad..."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Dios mío! ¡Gracias, Entrenador! ♪"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Perdón por hacer que te desvíes..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡No hay problema! ¡Somos amigos, después de todo!\n♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Super Creek se une a Oguri Cap más tarde para una\nsesión de entrenamiento nocturno."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pero una carrera rápida no haría daño..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh... Pero si algo te pasara mientras corres en la\noscuridad, yo... yo..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "<i>Sollozo...</i> ¡Lloraría a mares!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Uy! L-lo siento! Saltaré mi carrera esta noche,\nasí que por favor no llores..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Super Creek sonríe con alivio mientras Oguri Cap\nse queda allí avergonzada."
+    }
+  ]
+}

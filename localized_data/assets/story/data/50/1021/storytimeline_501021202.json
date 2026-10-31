@@ -1,0 +1,79 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tamamo Cross",
+      "text": "Sepárense... Sepárense... Por favor, les ruego..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Esta pista es la más ancha de todas. Lo que\nsignifica... ¡Debería estar a salvo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Derby Japonés—uno de los eventos más grandes en\nlas carreras. Sin embargo, lo estamos afrontando\nen lo que quizás es el peor momento posible.",
+      "color_text_info_list": [
+        "Derby Japonés"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Asumiendo que no haya cancelaciones de última\nhora, el Derby Japonés está garantizado a tener\nuna puerta llena. Y Tamamo Cross aún no está en\ncondiciones de pelear contra un lote completo."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Entrenador, realmente siento actuar así..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Pero aún estoy en esto para ganarlo, no te\npreocupes! Solo correré junto al resto de ellas..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No hay forma de saber cómo le irá. Pero por ahora,\nlo más importante es decir...",
+      "choice_data_list": [
+        "Felicitaciones por clasificarte para el Derby.",
+        "Felicitaciones por clasificarte para el Derby."
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Felicidades? ¿Realmente puedes decir eso cuando\nmi carrera es un desastre?",
+      "choice_data_list": [
+        "Sí, llegar aquí significa que eres una de las\ndieciocho mejores corredoras de tu generación.",
+        "Sí, llegar aquí significa que eres una de las\ndieciocho mejores corredoras de tu generación."
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Las dieciocho mejores... Sí, cuando lo pones\nasí..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Comencé en el fondo, pero hoy estoy corriendo en\nel Derby... Incluso eso vale algo...",
+      "choice_data_list": [
+        "Muéstrale a tu familia de qué estás hecha."
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "...Sí. Apuesto a que tienen los ojos pegados a la\npantalla en este momento."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Incluso si pierdo, no hay manera de que les\npermita verme acobardarme en mi gran oportunidad.\nYo... Yo..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Puedo con esto! ¡En serio! ¡Voy a correr lo mejor\nque pueda!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Logramos aumentar nuestra moral de alguna manera.\nPor el momento, eso es lo mejor que puedo pedirle."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ahora todo lo que queda es apostar por su apetito\nde victoria. Manteniendo la esperanza, la envío\nhacia los gigantescos árboles de zelkova de Fuchu."
+    }
+  ]
+}

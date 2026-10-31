@@ -1,0 +1,164 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Cuando salgo en mi día libre, me encuentro con\nSpecial Week en su chándal."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Oh! ¡Holaaaaa, Entrenador!",
+      "choice_data_list": [
+        "¿Haciendo un entrenamiento extra?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "No. ¡Voy a jugar tenis con Maruzen!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Nunca he jugado tenis antes, así que estoy muy\nemocionada... y un poco nerviosa!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Quieres venir a vernos?"
+    },
+    {
+      "name": "Special Week",
+      "text": "Quiero decir, no voy a hacer nada impresionante,\npero valdrá la pena venir solo para ver a Maruzen,\n¡ya que es tan buena!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decido aceptar la invitación de Special Week y ver\nsu partido de tenis."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Okay, queridas! ¡Es hora de acelerar el corazón y\nempezar a sudar!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Muy bien!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¡Estoy lista! No puedo creer que vaya a jugar\ntenis contigo, Maruzen!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Y-yo también daré lo mejor de mí!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ay, no tienes que estar tan nerviosa! ¡Todo está\ngenial! Vamos, Spe. ¡Hagamos equipo! ♪"
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Hacer equipo? ¿Y-quieres decir como estar en el\nmismo equipo?!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Es importante que las dos personas que hacen\nequipo confíen la una en la otra."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Confío en ti, así que no me preocupa nada."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Yo también confío en ti, así que no me preocupo\ntampoco!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ahora bien, necesitamos una jugadora en la parte\ndelantera y otra en la parte trasera. ¿Qué\nposición prefieres?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "La jugadora delantera necesita reflejos rápidos,\nmientras que la jugadora trasera necesita\nresistencia ya que tiene que cubrir un área\namplia."
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Velocidad o resistencia...? Hmm, ¿cuál me\nconviene más?"
+    },
+    {
+      "name": "Special Week",
+      "text": "Oye, Entrenador. ¿Crees que sería mejor jugar en\nla delantera o en la retaguardia?",
+      "choice_data_list": [
+        "¡Confía en tus reflejos y toma la posición\ndelantera!",
+        "¡Confía en tu resistencia y toma la posición\ntrasera!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Ay, ¡gracias por tener tanta fe en mí! ¡Muy bien,\nentonces la posición delantera!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Muy bien, ¡es hora de hacerlo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así comienza el juego de tenis. Sin embargo..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Reflejos en la delantera, reflejos relámpago...\nRaaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Paf.</i>"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Spe... Tus reflejos son lo máximo, pero deberías\ngolpear la pelota con tu raqueta, no con tu cara."
+    },
+    {
+      "name": "Special Week",
+      "text": "Urgh... Lo sé, pero simplemente no estoy\nacostumbrada a balancear la raqueta..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los reflejos de Special Week continúan mejorando,\npero no se puede decir lo mismo de sus habilidades\nde tenis."
+    },
+    {
+      "name": "Special Week",
+      "text": "¿La posición trasera? ¡Entendido! Solía correr por\nlos prados de mi casa todo el tiempo, así que sé\nque tengo resistencia!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así comienza el juego de tenis. Sin embargo..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Maruzen ha estado cargando con todo el juego, así\nque tengo que devolverle el favor con un buen\nsaque!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Ahí voy... Hah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Paf.</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El saque de Special Week impacta directamente en\nla parte trasera de la cabeza de Maruzensky."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Gaaah! ¡Lo siento mucho, mucho!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Esperaba que eso sucediera tarde o temprano."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Esas no son las expectativas que quiero que\ntengas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, Special Week corre con todas sus\nfuerzas en la retaguardia, quizás para expiar su\nmal saque."
+    }
+  ]
+}

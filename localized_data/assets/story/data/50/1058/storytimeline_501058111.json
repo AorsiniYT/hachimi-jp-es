@@ -1,0 +1,182 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Los primeros tres años de Meisho Doto terminan\ncomo un exito innegable. Ha logrado una multitud\nde logros maravillosos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, sigue atormentada por un susurro\npersistente entre los aficionados a las\ncarreras..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"Podría haber sido más radiante si T.M. Opera O no\nhubiera estado ahí. Hubiera sido mejor si hubieran\ncorrido en generaciones separadas.\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, una gran oportunidad llama a nuestra\npuerta."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Entrenador, ¡le traigo una propuesta! He estado\npensando en formas de mantener a Meisho Doto\nactiva."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Una expedición, para viajar más allá! ¿Alguna vez\nha considerado que compita internacionalmente?",
+      "choice_data_list": [
+        "¿Competir en una carrera G1 internacional?"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Exactamente. Algunos han expresado su\ninsatisfacción al ver a Meisho Doto y T.M. Opera O\nenfrentados el uno contra el otro."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Ambos son estrellas, protagonistas principales\npor derecho propio! Así que podría ser sabio que\ncaminen por caminos diferentes. ¿Qué opina?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incapaz de reunir mis pensamientos, llevo la\nsugerencia a Meisho Doto."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Un debut internacional? Debo decir que, aunque\ndisfruto compitiendo por el centro de atención, <i>sí</i>\nlamento que no podamos compartirlo."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "El director ha propuesto una gran idea. Como\nmiembro de mi era, Doto merece más atención.",
+      "choice_data_list": [
+        "¿Qué opinas, Meisho Doto?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Normalmente, esperaría que Meisho Doto entrara en\npánico, pero inusualmente, esta vez, está callada.\nPero entonces..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Una era..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Mi era... y la era de Opera O..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Si nos separáramos, duplicaríamos nuestros\nbeneficios. Las dos seríamos más felices que\nnunca..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Eso... es lo que intentas decir?",
+      "choice_data_list": [
+        "Sí, eso es.",
+        "Sí, eso es."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Yo... yo..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Yo... no quiero eso."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Qué?! ¿Es esto una negativa, Doto?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Meisho Doto habla con un tono firme rara vez\nescuchado en ella."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Estás diciendo que, sin mí, Opera O habría logrado\nmucho más."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Y yo también si no hubiera competido con Opera O."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Pero, no creo que sea verdad. Solo soy tan fuerte\n<i>porque</i> Opera O estaba cerca."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Quien eres ahora, Opera O... tiene algo que ver\nconmigo. ¡Lo sé!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ya no somos quienes éramos en el pasado. Yo cambié\nde ser una carga a una rival. Ir por caminos\nseparados... no va a duplicar nada."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Si estamos separados, ya no seré yo. Tampoco tú\nserás tú, Opera O."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Voy a seguir adelante agradecida de que estés\naquí, no imaginando si no estuvieras!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Entonces...",
+      "choice_data_list": [
+        "...Entiendo."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿De verdad... estás bien con esto, Entrenador?",
+      "choice_data_list": [
+        "Por supuesto. Después de todo, tienes toda la\nrazón.",
+        "Por supuesto. Después de todo, tienes toda la\nrazón."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Algunas cosas son difíciles de entender solo\nmirando desde afuera, pero estoy completamente\nconvencido tras escuchar lo que dijo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las dos tienen algo especial que no puede\nsepararse. Es inquebrantable. Sin eso, no podría\nhaber mostrado su brillo estos últimos tres años."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Esta es su carrera, y debe continuar!"
+    },
+    {
+      "name": "Doto y Opera O",
+      "text": "¡Yaaaaah! ¡Haaaaaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Bum, bum, bum, bum!</i>"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "<i>Jadeando, jadeando...</i> No... no perderé la próxima\nvez, ¡Opera O!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ven acá, Doto! Nuestro vínculo es eterno, mi\nquerida rival. ¡Estás ligada a mí por el destino!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hoy, una vez más, sus aficionados se emocionan al\nver otra batalla reñida. Eso es correcto..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esta era le pertenece a Meisho Doto <i>y</i> a T.M. Opera\nO. Indispensables la una para la otra, brillan\ncomo dos estrellas en la historia de las carreras."
+    }
+  ]
+}

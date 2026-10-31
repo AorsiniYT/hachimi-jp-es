@@ -1,0 +1,88 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Haru Urara",
+      "text": "Ay... ¡Perdí!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ya regresemos a los dormitorios, Entrenador!",
+      "choice_data_list": [
+        "¿No vas a decir \"¡Eso fue divertido!\"?",
+        "¿No vas a decir \"¡Eso fue divertido!\"?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Lo fue! Fue divertido, pero..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Todos querían que ganara, y no lo hice."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Tengo que intentarlo aún más y ponerme más\nfuerte!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Tengo que quedar en primer lugar! ¡Entonces,\ntodos me tomarán en serio!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Y una vez que todos me tomen en serio, hará que\nsonrían aún más cuando gane!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Haru Urara realmente ha cambiado de sus días de\nsolo hacer todo por diversión."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Finalmente tiene un verdadero hambre de victoria.",
+      "choice_data_list": [
+        "¡Entonces más te vale ganar la próxima carrera!",
+        "¡Entonces más te vale ganar la próxima carrera!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí! ¡Por supuesto!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Voy a quedar en primer lugar!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Y... ¡quiero participar en un G1!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Las carreras G1 son importantes, ¿verdad? ¡Así que\nquiero ganar una!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Haru Urara finalmente ha encontrado un objetivo\nde carrera! Ha crecido más de lo que pensé.",
+      "choice_data_list": [
+        "¿Entonces qué te parece el JBC Sprint?",
+        "¿Entonces qué te parece el JBC Sprint?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es un sprint en una pista de tierra, que es en lo\nque ella destaca. ¡Creo que tiene grandes\nposibilidades de quedar en primer lugar!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Vale! ¡Voy a darlo todo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Ponemos nuestra mira en quedar en primer lugar en\nel JBC Sprint!",
+      "color_text_info_list": [
+        "JBC Sprint"
+      ]
+    }
+  ]
+}

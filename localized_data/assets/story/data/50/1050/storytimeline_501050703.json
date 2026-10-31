@@ -1,0 +1,233 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Después de salir todo el día...",
+      "choice_data_list": [
+        "¡Esta vez me aseguraré de que te diviertas!",
+        "¡Esta vez me aseguraré de que te diviertas!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>...Ufff.</i>"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Mira, no me divertí <i>nada</i> la última vez que\nintentaste jugar un juego conmigo."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Deja los juegos infantiles. No va a pasar."
+    },
+    {
+      "text": "Claro, la última vez terminó en fracaso, pero hoy\ntengo un as bajo la manga. Sé todo sobre el juego\ncon el que ha estado obsesionada recientemente.",
+      "choice_data_list": [
+        "¡Juguemos a RDLI!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...!"
+    },
+    {
+      "text": "RDLI es un FPS PvP desarrollado en el extranjero;\nlo divertido es el amplio arsenal de armas para\nburlar a los oponentes."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Pensé que yo era la única por aquí que lo\njugaba..."
+    },
+    {
+      "text": "Escuché de Super Creek que Narita Taishin ha\nestado quejándose de no tener con quién jugar."
+    },
+    {
+      "text": "Tengo pocas posibilidades de vencer a una jugadora\nexperimentada como ella, pero probablemente lo\ndisfrutará si le ofrezco una pelea lo\nsuficientemente buena.",
+      "choice_data_list": [
+        "¡Batalla!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Bien. Acepto tu desafío."
+    },
+    {
+      "text": "Estoy un poco inquieto por cómo acepta tan\nfácilmente mi oferta, pero de todas formas me\nlanzo a la batalla, listo para dar la pelea de mi\nvida."
+    },
+    {
+      "text": "HAS PERDIDO."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Esa es otra victoria para mí. Voy cinco de cinco\nahora.",
+      "choice_data_list": [
+        "¡E-estás muy buena en esto!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Sí? Quiero decir, juego mucho."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "De todos modos, tuviste mucho descaro de\ndesafiarme a pesar de ser malísimo en el juego."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Eliges armas y escenarios terribles, y eres malo\nusando los NPCs. ¿Ni siquiera cambiaste la\nconfiguración para que coincida con tu estilo de\njuego?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Esta es mi primera vez jugando en modo jugador\ncontra jugador, así que estaba emocionado, pero\njugar contra ti es decepcionante como nunca."
+    },
+    {
+      "text": "Narita Taishin rara vez es tan habladora. Parece\nestar de buen humor ahora que ha encontrado a\nalguien a quien aplastar."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No es divertido así... ¿Quieres que te lo ponga\nmás fácil?",
+      "choice_data_list": [
+        "¡Por favor!",
+        "¡Todavía no!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Vaya, sin dudar. ¿No tienes orgullo alguno?",
+      "choice_data_list": [
+        "Solo quiero seguir pasando tiempo contigo."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Eh?"
+    },
+    {
+      "text": "Si sigo perdiendo tan fácilmente, se va a aburrir.\nCon gusto tiraré mi orgullo para darle una partida\nmás reñida."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Te escuchas? De verdad no tienes vergüenza\nalguna."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Solo usaré las armas predeterminadas, y tú puedes\ntomar prestado uno de mis SSR. Si aún así no\npuedes ganar, entonces eres un caso perdido.",
+      "choice_data_list": [
+        "¡Gracias!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Hmph, lo que sea."
+    },
+    {
+      "text": "HAS PERDIDO."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Sabía que no podrías hacerlo.",
+      "choice_data_list": [
+        "...Me rindo."
+      ]
+    },
+    {
+      "text": "Incluso después de innumerables revanchas,\nsimplemente no puedo ganarle. Intento disculparme\npor ser un compañero terrible, pero me interrumpe."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Está bien. Podemos jugar de nuevo en otro momento.",
+      "choice_data_list": [
+        "Espera... ¿En serio?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Las recompensas que dan por ganar partidas de\njugador contra jugador son bastante buenas.\nAdemás, aplastarte es algo divertido."
+    },
+    {
+      "text": "Sus palabras son duras, pero al menos me está\ndando una oportunidad."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Hmm? ¿De verdad crees que puedes vencerme sin\nninguna mejora?",
+      "choice_data_list": [
+        "No realmente..."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Entonces deberías pedir una desventaja. Nivelará\nel campo de juego.",
+      "choice_data_list": [
+        "Este juego es súper divertido, así que quiero\nintentar ganar por mi cuenta."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Pensé que te quejarías de ser malo en estrategia,\nde no entender los controles, o de que el juego es\ndemasiado violento y aterrador.",
+      "choice_data_list": [
+        "¡Eso es lo que lo hace divertido!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Si lo dices. Dame lo mejor de ti."
+    },
+    {
+      "text": "Parece estar de aún mejor humor, pero..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...",
+      "choice_data_list": [
+        "¿Eh? Fallé el aterrizaje."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...",
+      "choice_data_list": [
+        "Eh... ¿Qué hace este objeto de nuevo?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Ugggh! ¡Para!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Me estoy enfadando solo con verte jugar! Deberías\nusar ese objeto que conseguiste antes y..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Ves? Ahora recuperas más salud. Los objetos de\nrestauración son vitales para ganar.",
+      "choice_data_list": [
+        "¡Ahora entiendo! ¡Eres increíble, Taishin!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Esto es, como, el conocimiento más básico de\ntodos."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Lo que sea. Agh, ¡mira la hora! ¡He perdido el día\nentero contigo!",
+      "choice_data_list": [
+        "¡Gracias por enseñarme tanto, Taishin!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡No necesito tus gracias! ¡Me voy!"
+    },
+    {
+      "text": "Ella se va enojada, pero me alegro de haber jugado\ntantas rondas contra ella."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, llega una carta de una admiradora para\nFine Motion."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Guau, una carta! ¡Qué emocionante!"
+    },
+    {
+      "name": "Capitán de Seguridad",
+      "text": "Disculpe la intromisión, pero permítame confirmar\nel contenido de la carta primero."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El capitán de seguridad de Fine Motion aparece de\nrepente y revisa la carta de inmediato."
+    },
+    {
+      "name": "Capitán de Seguridad",
+      "text": "He confirmado que la carta no representa ningún\npeligro. Disculpe."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Está bien, gracias.",
+      "choice_data_list": [
+        "Eso es un esfuerzo enorme solo para recibir una\nsola carta.",
+        "Eso es un esfuerzo enorme solo para recibir una\nsola carta."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Me encantaría abrirla yo misma, pero nunca se\nsabe. Me criaron para ser cautelosa."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Umm, a ver aquí..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "\"Querida Fine Motion, verte me ha dado valor.\""
+    },
+    {
+      "name": "Fine Motion",
+      "text": "\"Mis padres me dijeron que era absurdo que la hija\nde una familia prestigiosa corriera, así que\nestaba a punto de renunciar a mi sueño—hasta que\nsupe de ti.\""
+    },
+    {
+      "name": "Fine Motion",
+      "text": "\"Vi lo dedicada que eres tanto a las carreras como\na los deberes de tu familia. Quiero perseguir mi\nsueño igual que tú.\""
+    },
+    {
+      "name": "Fine Motion",
+      "text": "\"Espero que algún día podamos encontrarnos en la\npista. Hasta entonces, continuaré viéndote y\nanimándote.\""
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Solo corría para cumplir mi propio sueño—nunca\nimaginé que mis esfuerzos también podrían afectar\nlos sueños de otras personas.",
+      "choice_data_list": [
+        "Sería bueno si algún día pudieras correr con ella.",
+        "Sería bueno si algún día pudieras correr con ella."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Así es!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Espero que podamos chocar a toda fuerza en las\ncarreras más increíbles mientras continuamos por\nnuestros respectivos caminos—riendo todo el\ntiempo.",
+      "choice_data_list": [
+        "¡Vas a tener que entrenar para que eso suceda!"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Sí, por supuesto! ¡Haré lo mejor que pueda!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El mensaje sincero de la carta de la admiradora\nproporciona a Fine Motion un gran impulso de\nmotivación."
+    }
+  ]
+}

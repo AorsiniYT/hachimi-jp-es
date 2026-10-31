@@ -1,0 +1,56 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Me dirijo a la pista donde Kawakami Princess está\nesperando para entrenar."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Vamosooo! ¡Princess Driiiiift!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Oh, hola, Entrenador! ¡Te he estado esperando!",
+      "choice_data_list": [
+        "¿Qué fue eso hace un momento?"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Je je je. ¡Últimamente he estado rebosante de\nenergía! ¡Así que he estado pensando!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Si tomo los movimientos que aprendí de Princess\nFighter y les doy mi propio giro, ¡podrían ser\nútiles en una carrera real!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "El movimiento número uno es el Princess Drift! Es\nuno de los movimientos característicos de Princess\nFighter, donde ella se lanza hacia una curva y\nluego hace un glorioso giro cerrado!",
+      "choice_data_list": [
+        "Ciertamente fue impresionante.",
+        "Ciertamente fue impresionante."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Lo sé, verdad?! ¡Esperaba dejarte con la boca\nabierta, así que he estado practicando!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Je je je, ¡desde que te conocí, Entrenador, he\nestado dando grandes pasos en mi desarrollo como\nprincesa!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Nada es imposible para una princesa mientras su\nfuturo príncipe esté a su lado! ¡Cuento con tu\nguía!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Ahora entonces, es hora de volver a la práctica\nde derrape! ¡Tengo que ir aún más rápido!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Voy a crear tanta fricción que encenderé la\npista! ¡Justo como en Princess Fighter!"
+    }
+  ]
+}

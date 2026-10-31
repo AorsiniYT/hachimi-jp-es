@@ -1,0 +1,259 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Maruzensky",
+      "text": "¡Oh, Entrenador!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oh, Entrenador!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Cómo lo hice? ¿No fue lo mejor que he mostrado\nhasta ahora?",
+      "choice_data_list": [
+        "¡Parecías estar divirtiéndote mucho!",
+        "¡Parecías estar divirtiéndote mucho!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Sí, creo que nunca había corrido a fondo así\nantes!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Estoy segura de que los fans y las estudiantes\nmás jóvenes pudieron sentir la emoción!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ahora es hora de pasar al año clásico. ¡Hay\ncarreras aún más divertidas por delante!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Y eso significa que apuntamos a las carreras\nClásicas, ¿verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de cómo corrió hoy, no hay duda en mi\nmente de que se defenderá en los Clásicos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Entonces es lógico que apuntemos a la carrera que\nmuchos consideran su preludio...",
+      "choice_data_list": [
+        "¡Vamos a por el Spring Stakes!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, ¿hay un orden que debes seguir? ¡Me parece\nbien! ¡Hagámoslo!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Jejé, ¡estoy ansiosa por ver cómo será! ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hablando de eso, parece que tengo una entrevista\nahora. ¡Nos vemos luego!"
+    },
+    {
+      "name": "Compañera Umamusume",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Skilled Trainer",
+      "text": "¡Lo hiciste muy bien! Aquí, toma un poco de agua y\nrelájate un poco..."
+    },
+    {
+      "name": "Compañera Umamusume",
+      "text": "<i>Pant... pant...</i> Entrenador..."
+    },
+    {
+      "name": "Compañera Umamusume",
+      "text": "Ella es... muchísimo más rápida de lo que sugerían\nlos rumores. Es como... un monstruo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Unos días después de terminar la gran carrera..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Maruzensky! ¡Tu última carrera fue absolutamente\nincreíble!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Solo verla me puso muy emocionado! ¡Tuve que dar\nunas vueltas a la pista por mi cuenta después!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Spe, ¡cálmate! Respira profundamente."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡E-eh, está bien! <i>Inhalar... Exhalar...\nInha—¡toz,tos!</i>"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Esa sí que fue una gran carrera, Maruzen. Nos\nmostraste hacia qué todos debemos aspirar."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Jeje. Me honra escuchar eso. De aquí en adelante,\n¡voy a seguir mostrándote lo mejor de mí! ♪"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Espero poder verte y aprender aún más de ti."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Oh, ahí está! Maruzensky, ¡nos encantaría tener\nunas palabras contigo!"
+    },
+    {
+      "name": "Reportero B",
+      "text": "¡Por favor, cuéntanos sobre tu impresionante\ncarrera en el Asahi Hai!",
+      "color_text_info_list": [
+        "Asahi Hai"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Por supuesto!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Guau, mira todos los reporteros..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ella realmente es alguien a quien podemos admirar."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Gracias por esperar, Entrenador.",
+      "choice_data_list": [
+        "Debes estar cansado después de la entrevista."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Gracias por esperar, Entrenador.",
+      "choice_data_list": [
+        "Debes estar cansado después de la entrevista."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Sí, y con toda esta cobertura de prensa, no tuve\ntiempo para entrenar hoy..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "No es que no me guste, pero... ¡realmente quería\nsoltarme y correr un poco más!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella solo quiere correr todo el tiempo. Realmente\nlo ama desde el fondo de su corazón."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Hm? Oh, esa corredora de por allá corrió conmigo\nen el Asahi Hai."
+    },
+    {
+      "name": "Compañera Umamusume",
+      "text": "Entrenador, necesito hablar contigo sobre la\nsiguiente carrera."
+    },
+    {
+      "name": "Skilled Trainer",
+      "text": "¿Hay algo mal? ¿Qué es?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ella escuchó sobre mí y vino a desafiarme en el\nAsahi Hai."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ella me dijo cuánto entrenó y cómo no perdería.",
+      "choice_data_list": [
+        "Suena como una rival seria.",
+        "Suena como una rival seria."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "A rival..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Sí, una rival! ¡Por eso la carrera fue tan\ndivertida!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Pero, por alguna razón, ella parece estar\ndeprimida..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Muy bien, voy a animarla un poco, ¡como una\nverdadera rival debería! ♪"
+    },
+    {
+      "name": "Compañera Umamusume",
+      "text": "Entrenador, por favor déjame retirarme de los\nsiguientes Spring Stakes...",
+      "color_text_info_list": [
+        "Spring Stakes"
+      ]
+    },
+    {
+      "name": "Skilled Trainer",
+      "text": "¿Retirarte? ¿En serio?!"
+    },
+    {
+      "name": "Compañera Umamusume",
+      "text": "Escuché que Maruzensky está programada para\ncorrer. Yo sé que es patético decirlo, pero..."
+    },
+    {
+      "name": "Compañera Umamusume",
+      "text": "Es difícil correr cuando... sabes que no puedes\nganar."
+    },
+    {
+      "name": "Skilled Trainer",
+      "text": "Honestamente, me sorprende que te sientas así..."
+    },
+    {
+      "name": "Skilled Trainer",
+      "text": "...Pero entiendo. Busquemos una carrera que se\nadapte mejor a ti."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ella se está retirando... por mi culpa."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ese mismo poder de Maruzensky que hace que los\nfans la amen parece dejar una impresión\ncompletamente diferente en otras corredoras.",
+      "choice_data_list": [
+        "Maruzensky..."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ajaja... Bueno, ¡cada carrera es importante para\nnosotras!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Es solo natural tener cuidado al elegir las\ncarreras en las que corres! Mantengamos eso en\nmente mientras avanzamos, Entrenador!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Muy bien, ¡me voy! ¡Nos vemos mañana!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Muy bien, ¡me voy! ¡Nos vemos mañana!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras ella se aleja corriendo, la zancada de\nMaruzensky de alguna manera no parece tan enérgica\ncomo suele ser..."
+    }
+  ]
+}

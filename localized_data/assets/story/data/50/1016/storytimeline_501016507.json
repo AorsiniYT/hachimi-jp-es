@@ -1,0 +1,57 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Llamo a Narita Brian para poder darle algo de\ncorreo de fans."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Oh, una carta de fans."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Si eso es todo, me voy.",
+      "choice_data_list": [
+        "¿No vas a leerla?",
+        "¿No vas a leerla?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Bueno..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Es mi carta. Lo que haga con ella es asunto mío,\n¿verdad?",
+      "choice_data_list": [
+        "¡Promete que al menos no la tirarás!",
+        "¡Promete que al menos no la tirarás!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡¿Eh?! ¡Por supuesto que no!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Solo que no la voy a leer aquí. Eso es todo lo que\nquise decir."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Nunca tiraría una carta de una fan..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Entonces, ¿todo bien? Me voy."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Brian guarda cuidadosamente la carta de\nfans en su bolsillo, luego se marcha bruscamente."
+    }
+  ]
+}

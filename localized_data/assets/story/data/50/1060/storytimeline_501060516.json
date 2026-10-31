@@ -1,0 +1,114 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un buen fin de semana mientras estoy de compras,\nveo dos caras conocidas..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Está bien, ¿verdad? Solo un poco no hará daño,\n¿verdad?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Esto... no está bien... No puedes... salirte con\nla tuya con algo así...",
+      "choice_data_list": [
+        "Eh..."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Oh, hola! Perfecto el timing. Acababa de decirle\na McQueen sobre mi pastelería favorita."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Debes ayudarme, te lo ruego! Nature está\nintentando seducirme con dulces tentaciones!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Seducir?! Solo me dejé llevar cantando las\nalabanzas de mi lugar favorito, nada más."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "De hecho, ¡aparentemente están haciendo un evento\nde todo lo que puedas comer hoy! Buena razón para\npasar, ¿verdad?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Y, bueno, siempre trabajas mucho. Un poco de\npastel no hará daño."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "P-pero... ¡es todo lo que puedas comer! ¿Cómo\npuedo<i>posiblemente</i> resistirme a esos pasteles?!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Mira ese glaseado! Es como campanillas de\ninvierno floreciendo en un campo cubierto por la\nnieve en polvo más suave!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Las frutas son las joyas que lo adornan, envueltas\nen una manta de jarabe dorado que es el aliento de\nla civilización..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "<i>Gulp...</i> Qué. Artista. De. Las. Palabras."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Escucharte me está dando hambre <i>a mí</i>!Caray... Así\nque ¡<i>esto</i> es seducción de dulces!",
+      "choice_data_list": [
+        "Bajar de peso no va a ser tan dulce.",
+        "Bajar de peso no va a ser tan dulce.",
+        "Estarás bien. Solo un poco no hará daño."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Escucharte me está dando hambre <i>a mí</i>!Caray... Así\nque ¡<i>esto</i> es seducción de dulces!",
+      "choice_data_list": [
+        "Bajar de peso no va a ser tan dulce.",
+        "Bajar de peso no va a ser tan dulce.",
+        "Estarás bien. Solo un poco no hará daño."
+      ]
+    },
+    {
+      "name": "Las dos",
+      "text": "<i>¡Haa!</i>"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "B-bueno, consentirnos con solo <i>uno</i> delicioso\ncapricho debería ser lujo suficiente para\nnosotros,¿no?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Muy cierto..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, disfrutan los pasteles con moderación."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "S-sí... esto es todo nuestro esfuerzo dando\nfrutos. Sí... Así es."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Yo también he tomado una decisión. Rechazar tal\noortunidad sería una falta de respeto a los\npasteles."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Estás lista, Nature? ¡Comamos con el mismo\nespíritu que tendríamos si estuviéramos corriendo\npor las pendientes de Yodo!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Correcto! ¡Empecemos!"
+    },
+    {
+      "name": "Nature y McQueen",
+      "text": "¡Mmmmm! ¡Está tan rico!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, disfrutan los pasteles hasta saciar sus\ncorazones."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día, me encuentro con Biwa Hayahide en el\npasillo, suspirando ante su reflejo en una\nventana."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "<i>Suspiro...</i> Ugh, ni siquiera puedo hacer que los\nlados se calmen.",
+      "choice_data_list": [
+        "¿Qué estás haciendo?",
+        "¿Qué estás haciendo?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Lo mismo de siempre, me temo. Lidiando con otro\nmal día para el cabello. Y la humedad de hoy ha\nempeorado las cosas particularmente. <i>Suspiro...</i>"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Lamento preguntar siempre, pero ¿te importaría\nechar un vistazo a la parte de atrás, Tick—"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Espera, ¿E-Entrenador?!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡L-lo siento! Por favor, no te preocupes por mí.\nTe confundí con Ticket por un momento."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "<i>Suspiro...</i> ¿Qué estoy haciendo?"
+    },
+    {
+      "text": "Biwa Hayahide se aleja, aún suspirando."
+    }
+  ]
+}

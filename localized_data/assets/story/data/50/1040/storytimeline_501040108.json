@@ -1,0 +1,269 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "¡El Festival de Fans de Primavera está aquí, y se\nespera que la popular modelo Gold City esté\nrodeada por montones de sus fans!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hemos reunido a tus admiradores en el gimnasio.\nDejo el resto a la anfitriona. Ve a ver cómo está."
+    },
+    {
+      "name": "Gold City",
+      "text": "Gracias, Brian."
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Si quieres decir algo, dilo."
+    },
+    {
+      "name": "Gold City",
+      "text": "No sé, solo es gracioso verte trabajar tan duro\nasí."
+    },
+    {
+      "name": "Gold City",
+      "text": "Normalmente estás en la azotea matando el tiempo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Día ocupado. Necesito irme.",
+      "choice_data_list": [
+        "¿Ustedes no se llevan bien?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "No bien, pero tampoco mal."
+    },
+    {
+      "name": "Gold City",
+      "text": "A veces, cuando necesito ir a algún lugar y estar\nsola, me la encuentro holgazaneando."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero olvídate de eso ahora. Tengo admiradores\nesperando, así que vámonos."
+    },
+    {
+      "name": "Fans",
+      "text": "¡Aaaahhh! ¡Ciiityyy!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Gracias a todos por venir. Entonces..."
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "¡Silencio, todos! ¡Tú, mantente en la fila!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Así que tú eres la anfitriona, Bamboo. ¿Puedes\nmanejar esto?",
+      "color_text_info_list": [
+        "Bamboo"
+      ]
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Jeje, ¿con quién crees que tengo que lidiar todos\nlos días?"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Si puedo manejarte a ti, gran problemática, puedo\nmanejar—"
+    },
+    {
+      "name": "Fans",
+      "text": "¡Oh por Dios, qué oportunidad para una foto!\n¡Bamboo, City! ¡Miren para acá!"
+    },
+    {
+      "name": "Fans",
+      "text": "¡Hagan una charla! ¡Hagan una sesión de preguntas\ny respuestas!"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "E-espera, ¿yo también?! No, solo soy la\nanfitriona, así que..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Vamos, ¿por qué no? No es propio de ti esquivar."
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "¡No estoy esquivando! Es solo que hoy se supone\nque es tu día..."
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Pero bueno... Supongo que no puedo discutir con la\nestrella del espectáculo. ¡Les presento a todos,\nel especial de charla de City y Bamboo!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Eres tan fácil..."
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "¡Ok, estamos tomando preguntas del público!\n¡Levanten la mano si tienen una!"
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Tengo una! Ustedes comparten habitación, ¿verdad?\n¿Hay algo la una de la otra que solo ustedes dos\nconocen?"
+    },
+    {
+      "name": "City y Bamboo",
+      "text": "Ehm."
+    },
+    {
+      "text": "<i>¡Aplausos, aplausos, aplausos, aplausos!</i>",
+      "choice_data_list": [
+        "(La pregunta es tan buena que están\naplaudiendo...)"
+      ]
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "¿Algo que solo yo sé? Mmm..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Por favor, no digas nada raro, ¿vale?"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "¿Algo raro? ¿Como cómo a veces me llamas \"papi\"\ncuando estás medio dormida?"
+    },
+    {
+      "name": "Admirador de City",
+      "text": "¡Ooooh!"
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Q-qué?! ¡No hago eso!"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Sí, lo haces. Nunca me llamaste \"Mami\", pero una\nvez sí me llamaste \"Conejita\"."
+    },
+    {
+      "name": "Gold City",
+      "text": "¿\"Conejita\"? ...¡Ohhh!"
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Ese es el nombre de una muñeca que quería cuando\nera niña! Pero era demasiado testaruda para\nadmitirlo..."
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "¿Y por eso aún sueñas con eso? Vaya, qué lindo."
+    },
+    {
+      "name": "Admirador de City",
+      "text": "¡AAAAAHHHHH!"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "¡Ay! ¿Por qué estás gritando?!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Esto es culpa tuya."
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "¡Oh! Esta en realidad es buena información—¡es\nsobre la rutina de City!"
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Eh? Espera, ¿qué estás—"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Ella realmente guarda todas las cartas y regalos\nque recibe de ustedes, los admiradores, ¿saben?"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "A veces llega a nuestra habitación lista para caer\nmuerta porque está tan cansada, y luego se duerme\ncon todas sus cartas en brazos!"
+    },
+    {
+      "name": "Fans",
+      "text": "¡AAAAAHHHHH!"
+    },
+    {
+      "name": "Gold City",
+      "text": "¡B-Bamboo!"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "¿Qué, no se suponía que debía compartir eso? ¡Es\nuna historia súper conmovedora!"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Mira, la gente tiende a pensar que eres genial y\ndistante, pero esta es tu oportunidad para cambiar\nesa impresión."
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Pero esa no es la impresión que quiero dar!"
+    },
+    {
+      "name": "Fan A",
+      "text": "City lee todas nuestras cartas... ¡Qué dulce!"
+    },
+    {
+      "name": "Fan B",
+      "text": "¡Lo sé, estoy tan feliz! ¡City tiene un corazón\ntan grande!"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Bueno, <i>ellos</i> se ven bastante felices al\nrespecto..."
+    },
+    {
+      "name": "Gold City",
+      "text": "...Ugh. Acaben conmigo, por favor."
+    },
+    {
+      "text": "Después de la sesión de preguntas y respuestas, el\nencuentro continúa con conversaciones uno a uno."
+    },
+    {
+      "name": "Fan C",
+      "text": "Ehm, cuando te vi correr, me convertí en un\nadmirador aún más grande!"
+    },
+    {
+      "name": "Gold City",
+      "text": "...Gracias."
+    },
+    {
+      "name": "Fan C",
+      "text": "¿Por qué renunciaste a la Triple Tiara? ¡Parecía\nperfecta para ti!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Bueno... eso es porque..."
+    },
+    {
+      "name": "Gold City",
+      "text": "...?"
+    },
+    {
+      "text": "Después del evento..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Oye, ehm... ¿podría tener un tiempo a solas? Hay\nalgo en lo que quiero pensar.",
+      "choice_data_list": [
+        "Claro."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Mm."
+    },
+    {
+      "name": "Gold City",
+      "text": "La razón por la que renuncié a la gira de la\nTiara..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Yo..."
+    }
+  ]
+}

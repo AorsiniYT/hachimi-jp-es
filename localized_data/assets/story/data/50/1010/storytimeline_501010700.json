@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Taiki Shuttle",
+      "text": "<i>Bostezo...</i> Mmm..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Perdón, Entrenador. Hoy estoy muuuuy somnolienta.",
+      "choice_data_list": [
+        "¿Qué hiciste ayer en tu día libre?",
+        "¿Qué hiciste ayer en tu día libre?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Tuvimos una fiesta en la residencia! ¡Fue\nterriblemente divertido! ♪"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "La vieja Hishiama se acostó temprano, así que nos\nquitamos las botas y armamos un verdadero\njolgorio!",
+      "choice_data_list": [
+        "O sea... ¿te divertiste?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Por supuesto! Aunque Hishiama nos regañó bien\ncuando se despertó. ¡Jaja!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Taiki Shuttle no durmió mucho."
+    }
+  ]
+}

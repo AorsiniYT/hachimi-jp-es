@@ -1,0 +1,63 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Super Creek",
+      "text": "Por fin ha llegado el día, Entrenador."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Esta es tu carrera debut. ¡Mi corazón siente que\npodría estallar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si acaso, deberíamos llamarla la carrera debut de\nSuper Creek..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Tienes tu pañuelo? ¿Y los pañuelos desechables?\nNo vayas a olvidar cosas, ahora."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Me aseguré de planchar perfectamente tu ropa ayer.\nOkay, hora de salir..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Uooooo!</i>"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Guau, los vítores de la multitud son tan fuertes\nque los escuchamos desde aquí. Así que así es un\nhipódromo..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh, ¿estás bien? Por favor, no tengas miedo."
+    },
+    {
+      "name": "Super Creek",
+      "text": "No hay nada que temer, ¿ves? Si te mantienes\ntranquila, estoy segura de que tus habilidades\nbrillarán...",
+      "choice_data_list": [
+        "Eres tú la que corre, Creek."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh, uh, cierto... Es verdad. Seré yo la que\ncorrerá en medio de todos esos vítores fuertes..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Mi corazón late de repente. ¿Qué debo hacer?",
+      "choice_data_list": [
+        "¡Recuerda que estoy ansioso por verte correr!"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh my... Solo ver tus ojos brillantes al decirlo\nme recuerda..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Simplemente tendré que hacerlo lo mejor que pueda.\nNo puedo decepcionarte."
+    }
+  ]
+}

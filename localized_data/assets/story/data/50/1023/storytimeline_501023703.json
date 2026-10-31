@@ -1,0 +1,195 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Biwa Hayahide y yo estamos caminando pasando por\nla estación de tren cuando de repente recuerda\nalgo y se detiene en seco."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "A propósito, Entrenador..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Recuerdas ese café que intentamos ir el otro día?",
+      "choice_data_list": [
+        "¿El que estaba cerrado?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sí. Todavía estoy desconcertada por por qué cerró\ntan temprano. ¿Te importa si volvemos a echar un\nvistazo?"
+    },
+    {
+      "text": "Y con esa petición, nos dirigimos al café juntos."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Cierra a las 8 p.m., así que aún debería estar\nabierto..."
+    },
+    {
+      "text": "Estamos casi en el café cuando vemos a alguien que\nparece ser el dueño bajando las persianas.",
+      "choice_data_list": [
+        "¿Ya están cerrando?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Parece que sí. Me pregunto por qué. Iré a\npreguntar."
+    },
+    {
+      "text": "La sigo mientras se acerca al dueño."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Disculpe. ¿Han cambiado recientemente su horario\nde atención? Pensé que debían estar abiertos por\nun rato más."
+    },
+    {
+      "name": "Dueña de café",
+      "text": "Terriblemente lo siento por eso, pero sí, hemos\nestado cerrando un poco más temprano últimamente."
+    },
+    {
+      "name": "Dueña de café",
+      "text": "Simplemente no tiene sentido mantenerse abierto\ncuando no tenemos clientes."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿No tienen?"
+    },
+    {
+      "name": "Dueña de café",
+      "text": "No... No desde que abrió ese nuevo lugar en la\ncalle dirigido por algún famoso barista."
+    },
+    {
+      "name": "Dueña de café",
+      "text": "El negocio se secó tan pronto como ese lugar\ncomenzó. Honestamente, podríamos tener que cerrar\nel negocio <i>permanentemente</i> pronto."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Eso no puede ser..."
+    },
+    {
+      "text": "No hay duda de qué café debe ser. Sin duda, es el\nque visité con Biwa Hayahide el otro día."
+    },
+    {
+      "name": "Dueña de café",
+      "text": "Hasta hace poco, logramos salir adelante de alguna\nmanera."
+    },
+    {
+      "name": "Dueña de café",
+      "text": "Hemos creado platillos de temporada y escuchado\nlas peticiones de nuestros clientes habituales..."
+    },
+    {
+      "name": "Dueña de café",
+      "text": "Pero no importa lo que hagamos, no es suficiente\npara competir contra un barista famoso."
+    },
+    {
+      "name": "Dueña de café",
+      "text": "Tiene sentido. Cuando alguien así, con tanto\ntalento como fama, abre una tienda en la calle, no\nhay mucho que un pequeño café como el nuestro\npueda hacer."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "..."
+    },
+    {
+      "text": "La expresión de Biwa Hayahide se nubla mientras\nreflexiona sobre el asunto."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Entiendo cómo te sientes. Sin embargo..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Lo que más me gusta de tu café es lo acogedor que\nes su ambiente y lo maravillosa persona que eres."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Y esas cosas son todas el resultado de cuánto\nesfuerzo has puesto en hacer felices a tus\nclientes."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Has logrado tanto ya. ¿Por qué no intentas un poco\nmás y ves qué resulta?"
+    },
+    {
+      "text": "Su apasionado discurso es inspirador. Siento como\nsi fuera suficiente para animar a cualquiera. Sin\nembargo..."
+    },
+    {
+      "name": "Dueña de café",
+      "text": "Gracias. Tus amables palabras significan mucho\npara mí."
+    },
+    {
+      "name": "Dueña de café",
+      "text": "Pero dirigir un negocio no es fácil. A veces,\nsimplemente tienes que aceptar las pérdidas."
+    },
+    {
+      "text": "Desafortunadamente, el ánimo de Biwa Hayahide no\nes suficiente para motivar al dueño a tomar más\nacciones."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Supongo que la vida es difícil sin importar lo que\nuno persiga."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Solo desearía poder hacer algo para ayudar..."
+    },
+    {
+      "text": "Perseguir un sueño es difícil. Ella lo sabe mejor\nque nadie.",
+      "choice_data_list": [
+        "Ojalá el café pudiera hacer algo para destacar...",
+        "Quizás podamos ayudar a promocionar el café."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Destacarlo... Sí, eso es!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Yo voy todo el tiempo! ¡Yo sabría mejor que nadie\ncómo puede destacar mejor!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Esta información podría ser justo lo que\nnecesitamos para cambiar la opinión del dueño!",
+      "choice_data_list": [
+        "¡Haz lo tuyo, Hayahide!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Gracias por ayudarme a pensar en algo que puedo\nhacer!"
+    },
+    {
+      "text": "Tengo grandes esperanzas de que Biwa Hayahide\npueda hacerse entender por el dueño mientras\ncaminamos a casa juntos."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Supongo, hablando realísticamente, que eso es más\no menos todo lo que podemos hacer."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Pero simplemente promocionar el café probablemente\nno producirá resultados significativos...",
+      "choice_data_list": [
+        "Ojalá tuviéramos algo con qué trabajar...",
+        "Ojalá tuviéramos algo con qué trabajar..."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Pero por supuesto! Si aún no hay nada con qué\ntrabajar, podemos empezar desde cero e intentar\nllamar la atención de la gente con una nueva idea!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Empezaré a reunir todo lo que necesitemos una vez\nque regrese!",
+      "choice_data_list": [
+        "Avísame si puedo ayudar.",
+        "Avísame si puedo ayudar."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Muchas gracias. ¡Voy a asegurarme de que ese café\nsiga en funcionamiento!"
+    },
+    {
+      "text": "Con esa fuerte declaración, está claro que Biwa\nHayahide está llena de determinación."
+    }
+  ]
+}

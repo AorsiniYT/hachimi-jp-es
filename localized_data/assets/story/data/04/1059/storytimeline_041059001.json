@@ -1,0 +1,225 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Parece que fue solo un momento atrás cuando caminé\npor primera vez a través de las puertas de la\nAcademia Tracen, ¡pero hoy marca otro comienzo!"
+    },
+    {
+      "name": "Chief Trainer",
+      "text": "¿Cómo está, <username>? Soy la entrenadora jefe del equipo\nque se unirá a partir de este momento."
+    },
+    {
+      "name": "Chief Trainer",
+      "text": "No sé cuánta energía me queda para seguir el ritmo\nde estas corredoras ambiciosas a mi edad… Espero\npoder transmitir todo lo que una asistente\nnecesita.",
+      "choice_data_list": [
+        "¡Estoy ansiosa por ello!"
+      ]
+    },
+    {
+      "name": "Chief Trainer",
+      "text": "Jeje, ¡ese es el espíritu! Espero grandes cosas de\nti. De hecho, he estado vigilando todos tus\nesfuerzos. ¡Estás aquí por una muy buena razón!"
+    },
+    {
+      "name": "Chief Trainer",
+      "text": "Pero basta de charla. Quiero que conozcas a una\npersona realmente decidida. Vamos afuera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los nuevos entrenadores son puestos bajo la guía\nde un veterano. La idea es ayudar y ganar\nexperiencia como asistente de entrenador de equipo\ndurante un período de tiempo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La entrenadora de este equipo ha estado en esto\npor años y es bastante reconocida. Ha llegado el\nmomento de que conozca a su aprendiz más reciente."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "<i>Haa... Haa...</i> He terminado con la rutina que me\npasaste esta mañana, Entrenadora. ¿Qué debo hacer\ndespués?"
+    },
+    {
+      "name": "Chief Trainer",
+      "text": "¡Buen trabajo, Bell! Tenía planeado otro compañero\npara ti, pero antes, ¿te importaría? Esta es la\nnueva asistente de entrenadora de la que hablamos."
+    },
+    {
+      "name": "Chief Trainer",
+      "text": "¡Buen trabajo, Bell! Tenía planeado otro compañero\npara ti, pero antes, ¿te importaría? Esta es la\nnueva asistente de entrenadora de la que hablamos."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Buenos días."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Oh, sí... Um... Un placer conocerte."
+    },
+    {
+      "name": "Chief Trainer",
+      "text": "Permíteme presentarte formalmente, Asistente de\nEntrenador. Esta es Bell—Mejiro Dober. Es la\nestrella preciosa de nuestro equipo."
+    },
+    {
+      "name": "Chief Trainer",
+      "text": "Permíteme presentarte formalmente, Asistente de\nEntrenador. Esta es Bell—Mejiro Dober. Es la\nestrella preciosa de nuestro equipo."
+    },
+    {
+      "name": "Chief Trainer",
+      "text": "Solo puedo imaginar que será la última corredora\nbajo mi propia guía. Me he convertido en toda una\nanciana, ¿verdad?"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Entrenadora..."
+    },
+    {
+      "name": "Chief Trainer",
+      "text": "Oh, solo escucha mi parloteo. No te preocupes por\nnada, Bell. No planeo ir a ninguna parte todavía,\nasí que volvamos a sonreír, ¿vale?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Disculpe. Estoy aquí para un entrenamiento en\npareja. ¿Están todos listos?"
+    },
+    {
+      "name": "Chief Trainer",
+      "text": "¡Oh, sí! Gracias por tomar el tiempo, Air Groove.\n¿Estás preparada para empezar, Bell?"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡Sí! Estoy lista cuando quieras."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Dober y Air Groove despegan por la pista\ncomo pareja."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Groove es una respetable compañera de\nentrenamiento. Conocida como la \"Emperatriz\",\nsiguió los pasos de su madre y ganó el segundo\nOaks para su familia."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Dober aún no ha hecho su debut, pero\naparentemente tiene poco problema para seguir el\nritmo."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "<i>Haa... Haa...</i> ¡Haaaaah!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Je, ¡nada mal!",
+      "choice_data_list": [
+        "(¡Esa es una aceleración impresionante!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La corredora muestra una señal importante de una\ncampeona en formación: una forma enérgica que\ngenera grandes velocidades. Pero eso no es todo..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡Sigue, siiigue! ¡Aaaaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin siquiera considerar rendirse, avanza cada vez\nmás. Estoy muy impresionado con su demostración de\nfuerza de voluntad y espíritu competitivo.",
+      "choice_data_list": [
+        "Mejiro Dober... ¡Es algo más!",
+        "Mejiro Dober... ¡Es algo más!"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "<i>Haa... Haa...</i> ¡Gracias... muchas gracias!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "No hay de qué. Debo decir, Dober—eso fue toda una\ndemostración. Velocidad muy impresionante."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Pero aun así... Todavía tengo mucho margen para\nmejorar mi posicionamiento y sincronización. No\npude adelantarte ni siquiera una vez..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Jaja, bueno, no cedo mi ventaja tan fácilmente.\nAún así, definitivamente pude sentir tu presencia\nacercándose cada vez más. Ciertamente estás\nemparejada con una entrenadora excelente."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡Así es!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Todavía soy muy débil, pero he notado al menos un\npoco de mejora. Le debo todo eso a mi entrenadora."
+    },
+    {
+      "name": "Chief Trainer",
+      "text": "¡Bien, bien! Esa fue una carrera maravillosa.",
+      "choice_data_list": [
+        "¡Realmente lo fue!"
+      ]
+    },
+    {
+      "name": "Chief Trainer",
+      "text": "Oh, ¿qué es esto? ¿Veo un brillo en tus ojos?\nSabía que serías una de las que entendería."
+    },
+    {
+      "name": "Chief Trainer",
+      "text": "¿Bell no es increíble? Está prácticamente\nrebosante de talento."
+    },
+    {
+      "name": "Chief Trainer",
+      "text": "Espero poder acompañarla y ayudarla a realizar\ntodos sus sueños más descabellados, pero no estoy\nsegura de que yo—"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Um, Entrenadora? Todavía tengo algo de energía,\nasí que ¿estaría bien si acompaño a Air Groove\npara un entrenamiento extra?"
+    },
+    {
+      "name": "Chief Trainer",
+      "text": "Bueno, parece que alguien está especialmente\nmotivada recientemente! No veo por qué no, si es\nsolo una vuelta más o menos. Tómalo un poco más\nlento, ¿vale?"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Lo haré. ¡Muchas gracias!"
+    },
+    {
+      "name": "Chief Trainer",
+      "text": "En cuanto a nosotras, ¿por qué no empezamos a\nlimpiar?",
+      "choice_data_list": [
+        "Suena bien."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Paso un poco más de tiempo ayudando a la\nentrenadora jefe, pensando todo el tiempo en lo\nafortunada que fui de poder presenciar una carrera\ntan fina de Mejiro Dober."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Hm? Espera, Dober."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿Qué es...? Ah."
+    },
+    {
+      "name": "Reporteras",
+      "text": "¡Ryan! ¡Ryan! Por favor, mira aquí, Mejiro Ryan!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Mejiro Ryan, tuviste otra carrera estupenda el\notro día! ¿Qué tienes que decir a todos tus fans\nque esperan con ansias tu próxima carrera?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Umm... ¡Estoy muy agradecida por todo su apoyo!\n¡Seguiré entrenando duro para asegurarme de estar\na la altura de todas sus expectativas!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Volveremos por este camino. Vamos, Dober."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Muy bien..."
+    }
+  ]
+}

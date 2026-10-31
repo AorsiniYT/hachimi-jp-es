@@ -1,0 +1,180 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Seiun Sky",
+      "text": "¡Hola, Traineroonie."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras paseo por la academia una noche, Seiun\nSky me hace señas para otra sesión del juego de\nmisterio de asesinato."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ok, entonces continuemos desde donde lo dejamos."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "La última vez, descubrimos que el flan envenenado\nhabía sido cambiado. El original estaba en un bol\namarillo, pero el envenenado estaba en un bol\nazul."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Y como El visitó la habitación de King después de\nque se sirviera la comida, ahora se ve bastante\nsospechosa."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡No, no, no! Fue solo una coincidencia que pasara\ndespués de que se sirviera la comida! ¡No hay\nprueba de que fuera yo!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Bueno, eso es cierto. Lo que significa que vamos a\ntener que continuar nuestra investigación."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Muy bien, esto marca el inicio de la fase dos.\nTrainer, por favor lee el guion."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como se pidió, reviso las instrucciones en el\nguion del GM. Parece que el siguiente paso es...",
+      "choice_data_list": [
+        "\"Todos ahora pueden revelar sus secretos.\""
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Secretos? ¿Se supone que todos debemos tener uno?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ah, sí—parece que están escritos en nuestros\nfolletos individuales. Debería decir \"secreto solo\npara la fase dos\" en ellos."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Podríamos terminar con un sospechoso diferente una\nvez que escuchemos esta nueva información. ...¿Qué\npiensan, todos?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Podríamos de hecho. Bueno entonces, ¿puedo hablar\nprimero?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "La verdad es... después de que serví la comida,\nKing fue al baño. Parecía como si hubiera olvidado\nalgo."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "...¿Qué?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Oh? Entonces estás diciendo que King salió de la\nhabitación después de que se sirviera la comida."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Curioso de hecho, ¿no crees? Si King salió de la\nhabitación después de que le sirvieran la comida,\nentonces cualquiera podría haber entrado sin ser\nvisto."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "En otras palabras, cualquiera podría haber\nintercambiado los boles... Y así, todos son\nsospechosos."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Bueno! ¡Eso significa que ya no soy la única\nsospechosa!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Y tengo un secreto especial propio que revelar!\nEntonces, en realidad, cuando fui a ver a King..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡El bol ya era azul! ¡Lo que significa que el\nculpable ya había entrado en la habitación!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh, ¿ya era azul? Esa es una información bastante\nintrigante."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Cuanto más sepamos, más fácil será reducir la\nlista de sospechosos. Spe, Sei, ¿quieren compartir\nsus secretos?"
+    },
+    {
+      "name": "Special Week",
+      "text": "E-eh, yo también tengo algo... Entonces, en\nrealidad, estuve con Grass justo después de que\nsirvió la cena hasta que todos nos reunimos aquí.\nPero mientras estábamos juntas..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Vi un muy breve vistazo de Sei caminando mientras\nsostenía algo..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Oh? ¿Viste <i>a mí?</i>"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Interesante. ¿Ella sostenía algo? No podría haber\nsido... ¿un bol amarillo, verdad?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Guau, Sherlock aquí me está dando miedo. Así que\nel reflector de la sospecha ahora brilla sobre mí,\nhuh?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Bueno, esto no se ve muy bien... Oye, ayúdame\naquí, Trainer.",
+      "choice_data_list": [
+        "¿Estabas llevando suministros de limpieza o algo?",
+        "Espera... ¿Realmente eres solo una mucama\nordinaria?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ooh, buen trabajo respaldándome ahí. Sí, soy una\nmucama, así que llevo todo tipo de suministros de\nlimpieza conmigo."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Hmm... Eso es en realidad <i>muy sospechosa.</i> O sea,\nestamos hablando de Sei aquí."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oye, primero el reflector y ahora la sombra?\n¿Quién crees que soy?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pero de todos modos... Me atrapaste..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todos esperan con el aliento contenido para ver\ncómo responderá la acorralada Seiun Sky."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Spe dice la verdad. Yo <i>estaba</i> caminando por la\nposada sosteniendo algo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sorprendentemente, ella lo admite abiertamente.\n¿Está planeando algo aquí?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "\"Ordinaria\" es subjetivo. Quizás en realidad soy\nla mejor mucama del mundo. Nya-ha-ha."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pero en serio, eso fue más un sabotaje que una\nayuda. Estás haciendo esto más difícil."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pero de todos modos... Si realmente debes saber..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todos esperan con el aliento contenido para ver\ncómo responderá la acorralada Seiun Sky."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Spe dice la verdad. Yo <i>estaba</i> caminando por la\nposada sosteniendo algo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sorprendentemente, ella lo admite abiertamente.\n¿Está planeando algo aquí?"
+    }
+  ]
+}

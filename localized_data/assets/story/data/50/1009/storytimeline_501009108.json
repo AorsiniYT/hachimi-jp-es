@@ -1,0 +1,215 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El día del Fan Fest ha llegado, y la plaza central\nestá llena de gente."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Vaya, vaya. Alguien se está divirtiendo.",
+      "choice_data_list": [
+        "¿Por qué no estás en tu uniforme?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Jeje. Mi ropa de calle me queda bien, ¿verdad?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "En realidad planeaba participar en uno de los\neventos deportivos, ya que es primavera y todo\neso..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Pero uno de mis amigos en el comité de eventos me\nrogó que me uniera a la competencia Miss Tracen."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Conseguir el primer puesto no es fácil, ¿sabes?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡No solo me hacen dar un discurso sobre carreras,\nsino que también revisan mi sentido de la moda!",
+      "choice_data_list": [
+        "Pareces estar muy metida en esto.",
+        "Pareces estar muy metida en esto."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Jeje, siempre estoy dispuesta a un desafío. ¡Este\nconcurso me viene como anillo al dedo!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡No puede ser! ¿Tú también vas por Miss Tracen,\nScarlet?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿¡Curren?!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Awww... Bueno, ahí van mis posibilidades."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "O sea, ¿yo, contra Scarlet? Eso no va a pasar."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "<i>Suspiro...</i> Nunca tuve oportunidad desde el\nprincipio."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Cuando dijeron que viniéramos con nuestra \"ropa\nhabitual\", creí que se referían a nuestro uniforme\nescolar!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Jeje... Soy tan tonta. No importa cuánto intente\npara el Grand Prix, nunca llegaré... <i>Snif.</i>",
+      "choice_data_list": [
+        "¡Allá, allá! ¡No llores!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "<i>Snif...</i> Eres tan amable."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Gracias. ¡Ahora mi corazón está lleno de calidez!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Entonces... Eh..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Sé que es un poco repentino, pero ¿puedo pedirte\nun pequeñísimo favor?"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Puedes votar por mí para Miss Tracen? Siento que\npodría dar lo mejor de mí si supiera que me estás\nanimando."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me suplica con los ojos llenos de lágrimas. Esos\nojos... Tengo que ayudarla. ¡Tengo que!",
+      "choice_data_list": [
+        "Por supuesto."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Jeje, ¡gracias! ¡Nos vemos! ♪"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿De qué te sonrojas, idiota?!",
+      "choice_data_list": [
+        "No me estoy sonrojando."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Sí. Tú. ¡Lo estás!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Ugh! ¡En serio! ¡¿De quién crees que eres\nentrenador?!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Se supone que debes ayud<i>arme</i> a convertirme en\nnúmero uno. ¡En <i>todo!</i> ¡Incluyendo el concurso de\nMiss Tracen!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet parece extrañamente alterada\nmientras entra en el concurso Miss Tracen Academy.\nEventualmente, llega el momento de anunciar los\nresultados."
+    },
+    {
+      "name": "Anfitrión",
+      "text": "La estrella brillante del Grand Prix de este año\nes... ¡Curren Chan!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Tienes <i>que estar </i>bromeando.",
+      "choice_data_list": [
+        "Tú fuiste número uno en mi corazón.",
+        "Tú fuiste número uno en mi corazón."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Es muy bonito de tu parte decirlo, pero... ¡Ugh!\nNo puedo creer que solo haya obtenido el segundo\nlugar..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Suspiro...</i> Simplemente no entiendo cómo perdí..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La derrota de Daiwa Scarlet la deja sintiéndose\nmal por un tiempo."
+    },
+    {
+      "name": "Anfitrión",
+      "text": "La estrella brillante del Grand Prix de este año\nes... ¡Daiwa Scarlet!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Jeje! ♪ ¡Gracias por su apoyo, todos!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Me aseguraré de brillar aún más para todos\nustedes!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Jeje! ¿Ven? ¡Puedo desplegar el encanto cuando lo\nintento!",
+      "choice_data_list": [
+        "¡Esa es la número uno para ti!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Jaja! ♪ ¡Exacto! ¡Soy la mejor Umamusume en la\nacademia!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Por qué mirarías a alguien más cuando me tienes\naquí mismo?!",
+      "choice_data_list": [
+        "¡No lo hacía!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿En serio? Me pregunto."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "De todos modos, estoy agotada. Necesito recargar\nenergías con algo dulce."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Oye, Entrenador. Cómprame un pastel.",
+      "choice_data_list": [
+        "¿Yo?",
+        "¿Yo?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Sí, tú. Eso no es un problema, ¿verdad?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Cuando la mejor Umamusume de la Academia Tracen\nte pide que hagas algo, deberías estar agradecido!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Yo invito a Daiwa Scarlet a un pastel de\ncelebración."
+    }
+  ]
+}

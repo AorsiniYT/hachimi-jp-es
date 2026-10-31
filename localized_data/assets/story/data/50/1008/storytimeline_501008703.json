@@ -1,0 +1,205 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Vodka",
+      "text": "¡Hey! Miren, Entrenador, esa banda callejera de\nallá está que se sale."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Oh, hombre! Yo también quiero estar en una banda."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Tú? ¿En una banda? ¿Acaso tocas un instrumento?"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Qué te pasa? ¡Qué actitud!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡S-si solo practico, puedo lograrlo, sin problema!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Hay montones de puestos diferentes en una banda,\npero yo sería—"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Sería la vocalista principal, obviamente!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Nadie te preguntó. ¡No te metas!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Y tú, Entrenador? ¿Qué tocarías tú?",
+      "choice_data_list": [
+        "Me quedo con la guitarra.",
+        "¡La batería es increíble!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Oh, qué bien! ¡Las mentes brillantes piensan\nigual! ¡Yo también tocaría la guitarra!"
+    },
+    {
+      "name": "Vodka",
+      "text": "La forma en que los dedos del guitarrista vuelan\nsobre las cuerdas es tan impresionante. ¿No crees?"
+    },
+    {
+      "name": "Vodka",
+      "text": "<i>¡Vriiiii!</i>"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Y ese alarido! ¡Ese sonido es lo mejor de lo\nmejor!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Je, je. No hay nadie... Eso significa que puedo\nhacer que mi guitarra de aire cante de verdad."
+    },
+    {
+      "name": "Vodka",
+      "text": "<i>¡Vriii, vriii, vriiiii!</i>"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Muy bien, gente! ¡Ahora les voy a mostrar las\nmejores habilidades con la guitarra de la\nhistoria!"
+    },
+    {
+      "name": "Vodka",
+      "text": "<i>¡Vriii, vriii! ¡¡¡VRIIIII!!!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sigo el sonido de voces excitadas y encuentro a\nVodka rodeada por un montón de gente."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Lárgate! ¡Dije que te vayas! ¡Esto no es un\nespectáculo!",
+      "choice_data_list": [
+        "¿Qué está pasando?",
+        "¿Qué está pasando?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Agh! ¿Tú también estás aquí?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Me emocioné demasiado con mi \"actuación\" y, antes\nde darme cuenta... estaba rodeada."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Vodka! ¡Esa actuación fue súper genial!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Otra gente empieza a decir lo mismo y la multitud\nestalla en aplausos."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿C-crees eso? ¿Fue... genial?"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Espera, no! ¡Ya lo dije, esto no es un\nespectáculo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de sus objeciones, Vodka parece bastante\nfeliz, a mi parecer."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Oh! ¡Bien! ¡Sabes de lo que estás hablando!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Cuando la reverberación de esos potentes golpes de\nbatería llegan hasta lo más profundo..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Es simplemente increíble!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Las voces y la batería se llevan toda la atención,\npero la guitarra tampoco se queda atrás."
+    },
+    {
+      "name": "Vodka",
+      "text": "Me sorprende que no sean más populares..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A la mañana siguiente..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Vamos, ¿quién diablos tiró estas cajas de cartón\nfrente al dormitorio?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Molestarán a todos, tiradas en el suelo así..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Hm? Espera un momento. Buen tamaño, fáciles de\ngolpear..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Estas serían perfectas como batería!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Son solo basura, así que a nadie le importará si\nme divierto un rato con ellas."
+    },
+    {
+      "name": "Vodka",
+      "text": "<i>Bum-bum bum-bum bum-bum... ¡Bum, bum! ¡Bum, bum!</i>\n...¡Ah!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Je, je! ¡De eso se trata!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Oye, Vodka. ¿Sabes qué pasó con las cajas de\ncartón que estaban aquí?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Puse algunas cosas dentro para el próximo bazar."
+    },
+    {
+      "name": "Vodka",
+      "text": "...?!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Espera... No me digas que son esas cajas\ndestrozadas de allá..."
+    },
+    {
+      "name": "Vodka",
+      "text": "S-si las dejas afuera así, por supuesto que la\ngente va a pensar que son basura."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿\"¿Basura?!\"? ¡Vamos! ¡Podrías al menos haber\nmirado adentro primero!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡No es mi culpa! ¿Cómo iba a saberlo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siguen discutiendo hasta que ambas se quedan sin\nenergía..."
+    }
+  ]
+}

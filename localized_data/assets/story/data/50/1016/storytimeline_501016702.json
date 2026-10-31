@@ -1,0 +1,193 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de un día con Narita Brian, decidimos\ncenar juntos."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Estoy bien con solo algo de comida rápida.",
+      "choice_data_list": [
+        "¿Segura?",
+        "¿Segura?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No toma mucho tiempo, y podemos llevar para\nllevar. Suena bien, ¿verdad?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Vaya, si es Brian!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Qué haces aquí?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Estamos a punto de conseguir algo de comida\nrápida."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Comida rápida? ¿No querrás decir para la cena,\nverdad? ¡Increíble!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Y tú! ¡Se supone que eres una entrenadora! ¡Es tu\ntrabajo manejar su dieta, sabes?!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "...¡Ah, cierto! ¡Acabo de pensar en algo! ¡Ven\nconmigo un momento!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡E-oye!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Muy bien, ¡dime qué quieres comer esta noche!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Qué demonios es esto?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Escucha, Brian. Tienes que comer algo al menos un\npoco más sano que comida rápida."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Incluso en la academia, solo comes pan o\nsándwiches para el almuerzo. No usas mucho la\ncafetería, ¿verdad?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hay demasiada gente en la cafetería. Es demasiado\nproblema. Solo quiero comer sola en paz."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Puede ser, pero solo comer pan no es una dieta\nequilibrada."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Ve a la cafetería. Te servirán una comida\nequilibrada sin que ni siquiera tengas que pensar\nen ello."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No me importa lo que coma, siempre que llene mi\nestómago."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Pues deberías importarte! Vamos, ¿hay algún tipo\nde comida que te guste?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿No puedes simplemente dejarlo pasar?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Por qué te importa tanto lo que como? No tiene\nnada que ver contigo."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Que no tiene nada que ver conmigo?!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Bueno, ¡la verdad es que ya no me importa la\nlógica en este punto! ¡Digo esto porque estoy\npreocupada por ti!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡No quiero que mi rival sea sacada de la pista por\nalgo que ni siquiera tiene que ver con las\ncarreras!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Así que... ¡tienes que mantenerte sana! De lo\ncontrario, me afecta a mí."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "...Ah."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "De todos modos... Entiendo lo que intentas decir."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Dejaré de comer comida rápida. ¿Satisfecha?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Si realmente lo entiendes... entonces está bien.\nSeguro."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Muy bien, ¡puedo hacerte la cena! ¿Hay algo que\nquieras comer?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Cualquier cosa está bien."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Esa es la respuesta más difícil con la que\ntrabajar... Vamos, ¡tiene que haber algo!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tú decides. Eres mi entrenadora, después de todo.",
+      "choice_data_list": [
+        "Algo equilibrado.",
+        "Algo que te dé resistencia."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Está bien, eso entonces."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Algo equilibrado entonces! ¡Déjalo en manos de\nHishiama! ¡Te prepararé algo perfecto!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Solo espera!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Mantendré mis expectativas dentro de lo\nrazonable."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le pregunto sobre eso unos días después, y ella\ndice que la cocina de Hishi Amazon fue deliciosa."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Sí, por qué no. Eso probablemente sea bueno."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Resistencia, eh? ¡Muy bien, déjalo en manos de\nHishiama!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Voy a cocinarte algo rico y contundente!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Con mucha carne."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Jajaja! ¡Pensé que dirías eso! ¡Muy bien, déjalo\nen mis manos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le pregunto sobre la comida unos días después.\nElla me dice que, aunque no fue tan contundente\ncomo esperaba, igual estuvo muy rica."
+    }
+  ]
+}

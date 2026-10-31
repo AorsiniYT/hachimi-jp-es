@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Veo a Tokai Teio agachada detrás del edificio de\nla escuela, así que me acerco a ver qué pasa."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Oh. Hola, Entrenador...",
+      "choice_data_list": [
+        "¿Pasa algo?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "No he visto a la presidenta en <i>siglos!</i>"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Voy a la oficina del consejo estudiantil todos\nlos días, pero <i>nunca</i> está allí!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Hay tantas cosas de las que quiero hablar con\nella..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Entiendo que está ocupada, pero aún así... Ugh. Me\npregunto cuándo podré verla de nuevo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que no poder ver a Symboli Rudolf está\nestresando mucho a Tokai Teio. Suelta un profundo\nsuspiro."
+    }
+  ]
+}

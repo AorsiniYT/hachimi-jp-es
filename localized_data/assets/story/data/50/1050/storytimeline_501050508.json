@@ -1,0 +1,44 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Veo a Narita Taishin frente a las puertas de la\nacademia, pero parece un poco desinflada.",
+      "choice_data_list": [
+        "¿Te sientes mal?",
+        "¿Te sientes mal?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Psh! ¡Ni lo sueñes!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "He estado superando mis carreras bien, así que ¿de\nqué te quejas? ¡No soy una débil!",
+      "choice_data_list": [
+        "Es solo que..."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Cállate. No necesito que te metas en mis asuntos!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(¿Qué me pasa? Estoy tan cansada y de mal humor, y\nme desquito con todos.)"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(Quizás <i>sí</i> me siento mal... Debería descansar un\npoco...)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos despedimos, pero Narita Taishin está de bajón\nmientras se aleja."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su agotamiento debe estar alcanzándola. Parece que\nnecesito replantear su calendario de carreras."
+    }
+  ]
+}

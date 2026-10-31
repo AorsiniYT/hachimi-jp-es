@@ -1,0 +1,212 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Kawakami Princess cruza la línea de meta! ¡Ha\nreclamado el primer lugar!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "(No puedo recuperar el aliento... Solo quiero\ndesplomarme en un montón ahora mismo... El cielo\nse siente tan lejano... Mis piernas se sienten\ntemblorosas...)"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "(Pero... realmente se siente increíble... mover mi\ncuerpo con todo lo que tengo. En este momento...)"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "(<i>Así...</i> es como corre una princesa!)"
+    },
+    {
+      "name": "Chica con Trenzas",
+      "text": "¡Fuiste realmente, realmente, realmente increíble\nahí afuera!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Jeje, indeed. ¡Soy una princesa, después de todo!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡La victoria es el único resultado digno de la\nheroína de una historia! ¡Y la heroína de hoy no\nes otra que yo!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Jaja! Ahora, ¡contemplen esto, todos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Zas!</i>"
+    },
+    {
+      "name": "Miembro del personal",
+      "text": "¿Eh? ¡Kawakami Princess acaba de saltar sobre la\nvalla!",
+      "choice_data_list": [
+        "¡Princess?! ¡Eso es peligroso!",
+        "¡Princess?! ¡Eso es peligroso!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Antes de que alguien pueda detenerla, Kawakami se\npara en la cima de la valla y agita ambos puños\ncon vigor hacia el cielo."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Les pido su continuo apoyo! A continuación, voy a\ndominar el Shuka Sho!",
+      "color_text_info_list": [
+        "Shuka Sho"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Ohohohó! ¡Ohohohó!"
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Guau, ahora este es su territorio!"
+    },
+    {
+      "name": "Fan B",
+      "text": "¡Jaja, bien hecho, Princess! ¡Eres la estrella\nprincipal de hoy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Kawakami Princess sigue riendo a carcajadas\nmientras yo me apresuro a bajarla de la valla\nantes de que se lastime."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Lo siento mucho por eso. La vieja yo salió a la\nsuperficie por un momento...",
+      "choice_data_list": [
+        "No hagas acrobacias peligrosas como esa, ¿vale?",
+        "No hagas acrobacias peligrosas como esa, ¿vale?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Toc, toc...</i>"
+    },
+    {
+      "name": "Personal de la estación de TV",
+      "text": "Disculpe. Fue una gran carrera hoy. Trabajo en el\nprograma <i>¡Conoce a los Corredores!</i>"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Oh, ¿eres tú quien hizo ese video promocional\nespecial?"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "\"¡Cada puerta, cada muro y cada competidor se\ndesmoronan! ¡La Princess ha entrado en la\nrefriega!\""
+    },
+    {
+      "name": "Personal de la estación de TV",
+      "text": "Sí, ese mismo. Y bueno, quería preguntar..."
+    },
+    {
+      "name": "Personal de la estación de TV",
+      "text": "¿Te gustaría hacer una colaboración con nosotros?\n¡Yo también quiero presentarte para el Shuka Sho!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Oh, vaya. Sería genial si pudieras hacer un video\ninspirado en <i>Princess Fighter☆Stars</i> esta vez!",
+      "choice_data_list": [
+        "Lo consideraremos, así que si pudieras\ncontactarnos después—"
+      ]
+    },
+    {
+      "name": "Personal de la estación de TV",
+      "text": "¡Guau, genial! Muchas gracias. ¡Espero escuchar\nbuenas noticias!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Oh, sí! ¡Déjalo en mis manos! ¡Ohohoho!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras salimos, la cabeza de Kawakami Princess\nestá llena de pensamientos sobre salir en la TV.\nLe recuerdo una vez más que no haga nada\npeligroso.",
+      "choice_data_list": [
+        "Tomemos una bebida deportiva en el camino."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de conseguir el primer lugar, Kawakami\nPrincess ha sido lanzada al papel principal."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como si la competencia en sí no fuera agotadora\nsuficiente, también está destinada a sentir la\npresión de la atención. Para ayudarla a superarlo,\ndecido comprarle algunos de sus dulces favoritos."
+    },
+    {
+      "name": "Umamusume de cabello castaño",
+      "text": "<i>Sollozo...</i>",
+      "choice_data_list": [
+        "Mmm, eso es..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "(He visto la cara de esta corredora antes—ella\nestuvo en la conferencia de prensa del Japanese\nOaks.)"
+    },
+    {
+      "name": "Umamusume de cabello castaño",
+      "text": "Lo siento. ¡Te decepcioné a pesar de tu apoyo!"
+    },
+    {
+      "name": "Fanático de la Umamusume de cabello castaño",
+      "text": "Por favor, no te disculpes. Para mí y para muchos,\neres nuestra Reina del Oaks!"
+    },
+    {
+      "name": "Fanático de la Umamusume de cabello castaño",
+      "text": "Sé que puedes definitivamente, absolutamente ganar\nel Shuka Sho. Así que... ¡por favor no llores!"
+    },
+    {
+      "name": "Umamusume de cabello castaño",
+      "text": "...¡Correcto! Juro que ganaré la siguiente\ncarrera. ¡Tomaré el papel principal en el Shuka\nSho!",
+      "choice_data_list": [
+        "(El papel principal...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hay muchas otras Umamusume apostando todo en la\ngira Tiara."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero en el prestigioso escenario que es el\nJapanese Oaks, fue Kawakami Princess quien brilló\nmás que las demás."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Oh, ¡bienvenido de vuelta, Trainer! ¿Qué es esa\nbolsa en tu mano?",
+      "choice_data_list": [
+        "Algunos dulces para ti.",
+        "Algunos dulces para ti."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Oh, vaya, ¡gracias! ¡Justo estaba pensando en\nllenar mi estómago con deliciosos dulces también!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ehehe, también voy a dar lo mejor durante el\nconcierto, Trainer!",
+      "choice_data_list": [
+        "Estoy segura de que serás deslumbrante en el\nescenario.",
+        "Estoy segura de que serás deslumbrante en el\nescenario."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Por supuesto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tomo asiento en la multitud en el concierto donde\nsolo los ganadores de la gira Tiara pueden\nactuar..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Observo cómo Kawakami Princess canta <i>Brilliant\nPhantasia.</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nuestro próximo objetivo será la parada final en\nla gira Tiara—el Shuka Sho."
+    }
+  ]
+}

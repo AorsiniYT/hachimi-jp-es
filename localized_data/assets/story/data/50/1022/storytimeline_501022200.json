@@ -1,0 +1,106 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy es el estreno de Fine Motion. Aunque, en el\nmomento...",
+      "color_text_info_list": [
+        "estreno"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Guau, un patio de comidas! Hay bollos de cerdo y\ntakoyaki... ¡Todo se ve tan bien! ♪"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¿Podemos echar un vistazo después? Quiero caminar\ny probar todas las comidas diferentes.",
+      "choice_data_list": [
+        "¡Claro!"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Gracias! ♪ ...¿Eh?"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Hm, ¿qué es esto en el suelo? ¿Huellas de tacos?!\n¡Qué curioso!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Fine Motion está llena de curiosidad hacia todo lo\nque ve. Esa curiosidad es uno de sus puntos\nfuertes, pero está a punto de participar en una\ngran carrera.",
+      "choice_data_list": [
+        "(Espero que pueda mantener su enfoque...)"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Estás preocupado por mí, ¿verdad?"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Estoy segura de que estará bien. ¡Solo quiero\ndivertirme hoy!",
+      "choice_data_list": [
+        "Mmm..."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Si quiero disfrutar esto al máximo, tengo que\ndarlo todo, ¿verdad?"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Puede que solo haya descubierto recientemente lo\nmaravilloso que es correr de verdad..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Pero ya sé que si me entrego por completo al\ndeporte, es muy divertido!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Por eso no hay por qué preocuparse. ¡Estoy tomando\nesto en serio!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Sé que aún soy novata, pero ¿puedes quedarte\ntranquilo sabiendo al menos eso?",
+      "choice_data_list": [
+        "¡Considérame descansado!"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Jeje, bien. Ahora bien, ya es hora de que me\nprepare. ♪"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Guau! No tenía idea de que mi corazón pudiera\nlatir así fuerte."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Me pregunto... ¿Tú también puedes oírlo,\nEntrenador?!",
+      "choice_data_list": [
+        "Me temo que no."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¿¡En serio?! ¡Pero late tan fuerte! Jejeje. ♪",
+      "choice_data_list": [
+        "Asegúrate de que no se te salga del pecho."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Ajaja, tendré cuidado!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Por fin corro en la Twinkle Series... Debo\nsaborear cada momento! ♪"
+    }
+  ]
+}

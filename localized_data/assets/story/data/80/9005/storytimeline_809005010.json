@@ -1,0 +1,149 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Desde que me convertí en el conejillo de indias de\nacupuntura de Sasami Anshinzawa, me he\nacostumbrado a seguirle el juego a sus caprichos.\nUn día cualquiera..."
+    },
+    {
+      "name": "???",
+      "text": "Ven... Ven acá...",
+      "choice_data_list": [
+        "...¿Me están llamando las Tres Diosas?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "<i>¡Bzzzt!</i> ¡Deidad equivocada! ¡Soy Sasami\nAnshinzawa, acupunturista divina, a tu servicio! ☆",
+      "choice_data_list": [
+        "Eh... Entonces, ¿para qué me llamaste aquí?"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Bueno, has estado en un bajón y no has hecho mucho\nprogreso últimamente, ¿verdad?"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Así que pensé en darte un pequeño pinchazo\nagradable usando algunas agujas súper\nextraordinarias! ♪",
+      "choice_data_list": [
+        "¿Qué quieres decir con \"extra\" extraordinarias?!\n¡Creo que paso!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Vamos, <username>! ¡No seas aguafiestas! ♪"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Abriré un mundo de nuevas posibilidades, solo\npara ti! ☆"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Y PINCHAZO! (Pinchazo... pinchazo... pinchazo...)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En el momento en que la aguja me pincha, una\navalancha de rostros y voces desconocidos\ninfiltran mi mente!"
+    },
+    {
+      "name": "Fundador de la Acupuntura",
+      "text": "¡He aquí, la acupuntura! ¡El poder que salvará a\ntodas las Umamusume!"
+    },
+    {
+      "name": "Acupunturista Sin Nombre A",
+      "text": "¡Algún día, espero dar a todas las Umamusume una\nvida libre de preocupaciones!"
+    },
+    {
+      "name": "Acupunturista Sin Nombre B",
+      "text": "¡Qué carrera tan increíble! ¡Desearía darles el\npinchazo que necesitan para alcanzar sus sueños!"
+    },
+    {
+      "name": "Acupunturista Sin Nombre C",
+      "text": "Para abrir camino a sus futuros con acupuntura...\nEse es nuestro único y verdadero deseo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siento el peso de muchos deseos y anhelos siendo\nconfiados a mí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un fuego arde en mi pecho... y un poder\nincontrolable estalla desde mí!",
+      "choice_data_list": [
+        "Raaaaah!",
+        "Raaaaah!"
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¿Qué demonios?! ¡¿A dónde vas?!"
+    },
+    {
+      "name": "Umamusume Corriendo Compañera A",
+      "text": "¿Huh?! ¿Es esa la entrenadora de <chrname>?!"
+    },
+    {
+      "name": "Umamusume Corriendo Compañera B",
+      "text": "¡Santa humareda, qué velocidad tan insana! ¡No\npuedo seguir el ritmo!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Fascinante! ¡Pensar que él puede igualar a las\nUmamusume en velocidad! ¡Esto está más allá de mis\nsueños más salvajes!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Fascinante! ¡Pensar que ella puede igualar a las\nUmamusume en velocidad! ¡Esto está más allá de mis\nsueños más salvajes!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿Podría la Entrenadora también ser secretamente\nuna Umamusu—no, seguramente no..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Hurra! ♪ ¿Todos vieron los resultados de mis\nhabilidades de acupuntura?! ¡Guau! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después, voy a correr en pareja con <chrname> a mi antojo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Sasami Anshinzawa cumplió su palabra y\nrealmente abrió un mundo de nuevas posibilidades\npara mí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El día siguiente a ese maravilloso, único\nmomento..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Ese pinchazo realmente funcionó, ¿verdad? ¡Apenas\npodía distinguirte de una Umamusume real por la\nforma en que corriste!"
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "Guau, ¿qué pasa? Parece que has tenido mejores\ndías.",
+      "choice_data_list": [
+        "M-mi cuerpo entero... está tan adolorido..."
+      ]
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Oh, cielos! Supongo que cuanto mayores los\nresultados, mayores los efectos secundarios..."
+    },
+    {
+      "name": "Sasami Anshinzawa",
+      "text": "¡Pero no te preocupes! Mientras mantengas tu\nentrenamiento, estoy segura de que eventualmente\npodrás manejar el aumento de velocidad sin\nrepercusiones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque sus palabras hacen sonar alarmas en cada\nfibra de mi ser..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En el caso de que realmente logremos esa\nposibilidad algún día, me encantaría correr junto\na <chrname> una vez más."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En el caso de que realmente logremos esa\nposibilidad algún día, me encantaría correr junto\na <chrname> una vez más."
+    }
+  ]
+}

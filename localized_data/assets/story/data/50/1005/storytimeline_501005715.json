@@ -1,0 +1,60 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Fuji Kiseki y yo estamos en medio de organizar las\ncosas después del entrenamiento cuando escuchamos\nuna voz que nos llama desde la pista."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Hey, Fuji, ¿ya terminaste de entrenar por hoy?\n¿Qué tal si vuelves y entrenas conmigo un rato?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Gracias, pero creo que voy a pasar. Descansar\ntambién es una parte importante del\nacondicionamiento."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Bueno, ¿no estás confiada? No vengas llorando a mí\ncuando nos llevemos el primer lugar en el próximo\npartido entre dormitorios."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Oh, ¿crees que puedes ganarle al dormitorio Ritto?\nQué interesante."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Crees? Lo sé, y hoy vamos a aprovechar para\nadelantarnos y darte una paliza."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...¿Está bien si entreno un poco más, entrenador?",
+      "choice_data_list": [
+        "Adelante, hazlo",
+        "No, necesitas descansar"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "En ese caso, no hay necesidad de que me contenga"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Vamos, Hishiama, ¡hagámoslo!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Je, je... juraría que a veces se calienta más que\nyo"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...Sí, tienes razón. Realmente es mejor que\ndescanse."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Qué, me vas a dejar colgado?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Descansar el cuerpo es cómo asegurarte de que\nfuncione al máximo, y lo necesitaré para ganarte\nen el partido"
+    }
+  ]
+}

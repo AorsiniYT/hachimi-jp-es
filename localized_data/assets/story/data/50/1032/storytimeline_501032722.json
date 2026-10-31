@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estoy en mi oficina haciendo papeleo cuando..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Uuugh... Entrenador, necesito tu ayuda.",
+      "choice_data_list": [
+        "¿Qué sucede?",
+        "¿Qué sucede?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Me duele la cabeza... No puedo pensar con\nclaridad."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Eres mi asistente. Tienes que hacer algo con este\ndolor..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Aaah... Duele incluso al hablar. No hay manera de\nhacer una investigación adecuada así..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ni siquiera puedo hacer analgésicos. <i>Suspiro...</i>Es\ninútil..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agnes Tachyon se ve terrible. Debería hacer algo\npara ayudarla."
+    }
+  ]
+}

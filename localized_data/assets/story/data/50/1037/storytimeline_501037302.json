@@ -1,0 +1,409 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, después de entrenar y comprar algunas\ncosas en el distrito comercial..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Parece que hay un puesto de rifa por aquí."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "1.º gana una hamburguesa de zanahoria deluxe, 2.º\nun manojo de zanahorias y 3.º una zanahoria sola."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡No dejes pasar esta oportunidad! ¡Consigue un\nboleto ahora y gira para tener la oportunidad de\nganar!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No esperaba recibir un boleto de rifa junto con mi\ncompra del cuaderno...",
+      "choice_data_list": [
+        "¿Tienes tiempo en tu horario?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Si aumentamos nuestra velocidad al caminar a casa,\nno debería haber problema. Sobre todo..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No puedo perder esta oportunidad para una historia\ninteresante que contarles a mis padres."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Estoy emocionada de ver qué esta forma japonesa de\nprobar la suerte en una rifa me tiene reservado."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¿Qué te ha llamado la atención, joven?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Si consideramos qué premio sería equivalente en\nvalor con mi cuaderno, entonces supongo que sería\nla zanahoria individual."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡¿En serio?! No veo muchas personas como tú, ¡eso\nes seguro!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Creo que las pruebas de suerte como esta son más\nsobre disfrutar la experiencia que el premio.\nAhora, aquí voy."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eishin Flash hace girar el tambor con una\nexpresión tensa en su rostro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de la abertura\ndel tambor..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Santo bacalao! ¡Tenemos una ganadora del gran\npremio! ¡Ven a recoger el cupón para tus\nvacaciones en aguas termales! ¡Felicitaciones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡Las vacaciones en aguas termales!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡Increíble!",
+      "choice_data_list": [
+        "¡Felicitaciones!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Gracias... Pero ¿esto es aceptable? ¿Debería\nrealmente tomarlo?"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Estoy segura de que la suerte te sonrió hoy porque\neres tan humilde. ¡No deseches esa suerte!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Tienes razón. Entonces acepto esto con gratitud."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Hehe. Aguas termales...",
+      "choice_data_list": [
+        "¿Te gustan?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Me gustan. De hecho, Alemania es igualmente\nreconocida por sus aguas termales como Japón.",
+      "choice_data_list": [
+        "¡No tenía idea!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "La temperatura es más baja que las de aquí, así\nque es posible pasar un día completo relajándose\nen el baño."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Desafortunadamente, no he tenido la oportunidad de\nvisitar una desde que llegué a Japón."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Así que... Estoy genuinamente feliz por esto.",
+      "choice_data_list": [
+        "Será bueno relajarse y sumergirse en uno,\nentonces.",
+        "Será bueno relajarse y sumergirse en uno,\nentonces."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Relájate..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Entrenador, ¿puedo confiarte el cupón?",
+      "choice_data_list": [
+        "¿Por qué es eso?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Ay, no hay espacio en mi horario para un viaje a\naguas termales en este momento."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Déjame pensar... Después de que todo termine el\npróximo año, debería tener suficiente margen para\nir."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Dicho esto, no puedo escribirlo en mi horario con\ntinta naranja como soy ahora."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Por lo tanto, ¿podrías dármelo de vuelta una vez\nque todo haya concluido?",
+      "choice_data_list": [
+        "Claro."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así es como el boleto de vacaciones en aguas\ntermales llegó a mi posesión.",
+      "choice_data_list": [
+        "A propósito, ¿por qué tinta naranja\nespecíficamente?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Cuando es para algo que estoy esperando en mi\nhorario, lo escribo en naranja.",
+      "choice_data_list": [
+        "¿Es eso parte de la cultura alemana?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No, es solo un hábito mío desde la primera\ninfancia.",
+      "choice_data_list": [
+        "Ya veo..."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Puedo decir que te estás riendo. ¿El naranja es un\ncolor extraño?",
+      "choice_data_list": [
+        "No, solo creo que es lindo cómo codificas con\ncolores tu horario."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Por favor, pruébalo por ti mismo alguna vez.\nEntenderás lo racional que es esta decisión\nconsciente una vez que lo hagas."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Debes entender—los horarios están destinados a ser\nescritos en minucioso detalle. Al categorizar todo\ncon colores, la información—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...La charla de Eishin Flash sobre los pormenores\nde la elaboración de horarios dura todo el camino\na casa."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Obtienes un filete de\nhamburguesa de zanahoria de lujo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Se ve más delicioso de lo que esperaba...",
+      "choice_data_list": [
+        "¿Te gustan los filetes de hamburguesa?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Pero por supuesto. ¡El plato se originó en\nAlemania, después de todo!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Por lo tanto, me siento con derecho a criticar el\nsabor. Descubramos si es digno de ser llamado un\nfilete de hamburguesa \"de lujo\"."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Unos días después..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "<i>Ñam, ñam...</i>"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...¡<i>Es</i> delicioso!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella le da a los filetes de hamburguesa de Japón\nuna puntuación perfecta."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te vas a casa con un haz de\nzanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Esto es publicidad veraz, veo. ¿Cuántos\nkilogramos es esto, exactamente?"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Ni idea... Todo lo que sé es que la caja está\nllena, así que tu suposición es tan buena como la\nmía."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Ellos ignoraron por completo sus márgenes de\nganancia con estos premios. Bueno, debo\ncorresponder esa buena voluntad."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sé exactamente qué hacer. Haré pastel de zanahoria\nsuizo con estas.",
+      "choice_data_list": [
+        "¿Qué es el pastel de zanahoria suizo?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Un delicioso pastel de zanahoria suizo. El sabor\nde la zanahoria en él es rico y delicioso."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Mis padres me enseñaron una receta para él que no\nrequiere mantequilla."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sin embargo, no podemos comerlo todo nosotros\nmismos. Así que para remediar eso..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Flash, ¡el horno está listo! ♪"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "La masa también está completa. Horneemos cuatro\npasteles enteros a la vez."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Algún tiempo después, Eishin Flash hornea y\ncomparte un montón de pasteles con sus compañeras\nde dormitorio—y ellas hablan maravillas de ello\ndurante días después."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Miren aquí! ¡Has ganado el tercer premio! ¡Aquí\nestá tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Justo lo que quería. Qué gran resultado."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Seguro que eres una en un millón, joven..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Disculpe, pero ¿conoce alguna buena receta para\nesta zanahoria?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "En este momento, no puedo pensar en una que la use\nen su totalidad."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Oh! ¡Mi mamá sabrá seguro! ¡HEEEY, MAAA!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Qué? Por favor, no necesitas ir tan lejos—"
+    },
+    {
+      "name": "Vendedora de la rifa",
+      "text": "¡Oh, escuché tu pregunta, no te preocupes! Quieres\npreparar algo agradable con esa zanahoria,\n¿verdad?"
+    },
+    {
+      "name": "Vendedora de la rifa",
+      "text": "Justo había preparado algo antes, así que ¿por qué\nno vienes y pruebas un poco?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Q-qué?"
+    },
+    {
+      "name": "Vendedora de la rifa",
+      "text": "Como dicen, la experiencia es la mejor maestra.\n¿Verdad? ¡Jajaja!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Qué debería hacer, Entrenador?",
+      "choice_data_list": [
+        "Acepta su oferta."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Muy bien. Espero tu... ¿lección?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Eishin Flash recibe una lección de cocina\nsincera de la amable señora."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Ohhh, mala suerte! ¡Parece que sacaste un blanco!\nToma este paquete de pañuelos como premio de\nconsolación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Qué persona con mala suerte soy...",
+      "choice_data_list": [
+        "¿Qué significa eso?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Significa \"una persona con mala suerte\"."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Ganar un premio de consolación estaba bien dentro\nde lo posible."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sin embargo, a pesar de entenderlo\ncompletamente..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Entender algo y aceptar algo es muy diferente.\nEishin Flash está claramente desilusionada."
+    }
+  ]
+}

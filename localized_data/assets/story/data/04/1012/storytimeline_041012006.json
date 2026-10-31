@@ -1,0 +1,274 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "En mi día libre, visito la biblioteca de la\nescuela."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Vamos a ver... \"El compendio italiano de cinco\nestrellas\" y \"El desafío culinario chino\ndefinitivo\"? Hmm, estos no son realmente lo que\ntenía en mente..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Oh! \"Comidas energizantes fáciles de hacer\"? Esto\nsuena como lo que estoy buscando. Sí, creo que voy\na revisar este hoy—",
+      "choice_data_list": [
+        "¿Qué estás haciendo?",
+        "¿Qué estás haciendo?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Eh, profesor! ¿Por qué estás aquí? ¿Viniste a\nbuscar cosas para leer como yo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al notar un libro en las manos de Hishi Amazon, le\npregunto de qué se trata."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Oh, esto? Es un libro de cocina. Solo puedes\nampliar tu repertorio tanto por tu cuenta, ¿sabes?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "A veces reviso cosas como esta para realmente\nmejorar mi juego culinario. Porque no solo leo las\nrecetas, las hago."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Así que vámonos, profesor. Vamos a cargar con los\ningredientes que figuran en este libro."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Vale, agarra un carrito y voy echándole cosas!\nPrimero calabaza, después salsa de pescado... Huy,\nesa nunca la había usado.",
+      "choice_data_list": [
+        "Debes saber mucho sobre cocina.",
+        "Debes saber mucho sobre cocina."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Claro que sí! Lo hago todos los días. Luego le\ndoy mis provisiones energéticas a los jóvenes. Se\nsiente bien verlos devorarlas.",
+      "choice_data_list": [
+        "¿Entonces es un pasatiempo tuyo?",
+        "¿Entonces es un pasatiempo tuyo?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Un pasatiempo! Bueno, supongo que podrías llamarlo\nasí. Pero no se trata realmente de la cocina en\nsí..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "En realidad, profesor, pareces muy interesado en\nesto. ¿Eso significa que también cocinas?",
+      "choice_data_list": [
+        "Sí, puedo defenderme."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿¡Eh?! Entonces lo que estás diciendo es..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Has estado actuando de manera casual, pero en\nrealidad eres mi rival. Todo este tiempo, solo\nestabas fingiendo ser tonto."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Maldita sea! Entonces eso significa que acabo de\nmostrar mi mano completa a la competencia. ¡Arg!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Bueno, no importa. Pondré todas mis cartas sobre\nla mesa y aún así lograré una victoria aplastante.\nAsí es como lo hace Hishiama.",
+      "choice_data_list": [
+        "No-no entiendo...",
+        "No-no entiendo..."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿No es obvio? Los dos somos genios en la cocina.\nAsí que solo hay una cosa que hacer. Un duelo uno\na uno."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Como compañeros de viaje en el camino de la\ncocina, no estaremos satisfechos hasta que\nprobemos quién es el mejor, ¿verdad?",
+      "choice_data_list": [
+        "No estoy segura de que se aplique a mí..."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Vamos, ten valor. Descubrir que también cocinas\nrealmente me ha dado energía."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Es bueno para nosotros, las Umas, y nuestros\nentrenadores enfrentarnos en el mismo campo de vez\nen cuando, ¿no crees? Así que hagamos una\ncompetencia de cocina."
+    },
+    {
+      "name": "Árbitro Umamusume",
+      "text": "Tenemos la cafetería completa para nosotros, así\nque eso significa que es hora de la competencia de\ncocina."
+    },
+    {
+      "name": "Árbitro Umamusume",
+      "text": "En un rincón, tenemos a nuestra líder de\ndormitorio, la doncella de hierro de la cocina,\nHishiama. Todos podemos dar fe de sus habilidades\nculinarias."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Solo para que sepas, no me voy a contener."
+    },
+    {
+      "name": "Árbitro Umamusume",
+      "text": "Y en el otro rincón, tenemos al entrenador de\nHishiama. Si quieres ganar, tendrás que servir\nalgo que realmente me haga cosquillas en los\ngustos. ¡Oh, no puedo esperar! ♪"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Hey, no te apoderes de nuestra competencia solo\npara llenarte la barriga."
+    },
+    {
+      "name": "Árbitro Umamusume",
+      "text": "Eh-eh, déjame que mi estómago se apodere de mí por\nun minuto..."
+    },
+    {
+      "name": "Árbitro Umamusume",
+      "text": "De todos modos, volvamos al asunto. En esta\nbatalla de maestro y discípulo, es comer o ser\ncomido. ¡Que comience la competencia de cocina."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Genial! Estoy lista, profesor. Toma eso y eso.\nTengo que hacer que la olla hierva. Burbuja,\nburbuja, burbuja.",
+      "choice_data_list": [
+        "¿Es necesaria la narración?",
+        "¿Es necesaria la narración?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Qué pasa? Esa es solo la forma en que me\nentusiasmo. ¿No ayuda a calentar las cosas?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Tú también deberías empezar. Vamos a ver lo que\n<i>realmente puedes </i>hacer."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de una sesión de cocina apasionada,\nponemos nuestros platos uno al lado del otro en la\nmesa."
+    },
+    {
+      "name": "Árbitro Umamusume",
+      "text": "Bueno, ahora es el momento de probar las\npresentaciones. Aquí tenemos el plato del\nentrenador: gratén de queso y zanahoria cubierto\ncon miel."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "<i>¿¡Qué?!</i> ¡Tú totally te vendiste al diablo,\nMaestro! Mira cómo estás llenando tu plato con\ningredientes populares solo para congraciarte con\nel juez."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Maldito cocinero de comida chatarra. Tch, da\nigual. Prueba ya."
+    },
+    {
+      "name": "Umamusume Árbitro",
+      "text": "Sí, señora. <i>Ñam, ñam...</i> ¡Mmm, qué rico!¡Se derrite\nen mi boca! ♪"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Ngh... Debería probar un bocado también... No,\nolvídalo. Mi orgullo no me lo permite."
+    },
+    {
+      "name": "Umamusume Árbitro",
+      "text": "A continuación, tenemos la presentación de\nHishiama: calabaza ligeramente cocida y... carne\npicada!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Eso es! Es una receta completamente nueva que\nencontré en un libro. Sé que parece sencilla, pero\nsolo pruébala."
+    },
+    {
+      "name": "Umamusume Árbitro",
+      "text": "Sí, señora. <i>Ñam, ñam...</i> ...¡Este sabor!"
+    },
+    {
+      "name": "Umamusume Árbitro",
+      "text": "¡Es súper sencillo! No solo parece sencillo, sino\nque también sabe sencillo."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Hey, no tienes que decirlo de esa manera. Argh...\nSupongo que no tiene mucho impacto en comparación\ncon la comida chatarra del Maestro."
+    },
+    {
+      "name": "Umamusume Árbitro",
+      "text": "Oh... Pero espera un momento. El sabor..."
+    },
+    {
+      "name": "Umamusume Árbitro",
+      "text": "Es sencillo, pero hay algo más... Me siento como\nsi me estuvieran calentando por dentro..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Oh, parece que finalmente te diste cuenta. Esa es\nmi arma secreta."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Deberías probarla también, Maestro. Estoy segura\nde que te gustará. Confía en mí.",
+      "choice_data_list": [
+        "Buen provecho."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al tomar una cucharada de la sopa, siento el sabor\ndelicado extendiéndose por mi cuerpo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Además de ser deliciosa, su cocina está preparada\ncon cuidado para satisfacer a quienes la comerán.\nPero cuando intento darle mis cumplidos al chef..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Kn-knock it off. ¿Olvidaste que soy tu rival? No\nsé cómo se supone que debo responder a eso."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Pero sí, eso era lo que quería decir antes. Tenías\nrazón—mi pasatiempo <i>es</i>cocinar. Pero esa no es toda\nla historia."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Mi <i>verdadero</i> pasatiempo es cocinar alimentos\nsaludables que den energía y motivación a las\npersonas. Eso incluye a ti también, Maestro."
+    },
+    {
+      "name": "Umamusume Árbitro",
+      "text": "Tweeeeet. Los jueces han tomado su decisión. El\nganador de este concurso culinario cautivador\nes..."
+    },
+    {
+      "name": "Umamusume Árbitro",
+      "text": "En realidad, ambos fueron deliciosos, así que es\nun empate."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "<i>¿¡Eh?!</i> ¿Qué diablos? Me hiciste creer que iba a\nser el primero."
+    },
+    {
+      "name": "Umamusume Árbitro",
+      "text": "Pero ese queso derretido estaba tan bueno."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Grr, caer en un truco tan obvio... Ve a ahogarte\nen té de boba o algo así."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "De todos modos, ¿qué hacemos ahora, Maestro?\nNuestro gran enfrentamiento uno a uno terminó en\nun empate. ¿Cómo se supone que lo resolvemos!",
+      "choice_data_list": [
+        "Tendremos que tener una revancha en algún momento.",
+        "Tendremos que tener una revancha en algún momento."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Una revancha. Oh, sí. Eso es. Incluso si terminó\nen un empate esta vez, podemos hacerlo de nuevo.\nTendremos muchas oportunidades a partir de ahora."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Haha. Te vas a caer la próxima vez, Maestro. Tú y\nyo somos socios, pero cuando se trata de la\ncocina, somos rivales de principio a fin."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Encantada de haber encontrado un adversario digno\nen su pasatiempo, Amazon continúa persiguiendo\nsabores suaves en su cocina, en marcado contraste\ncon su personalidad."
+    }
+  ]
+}

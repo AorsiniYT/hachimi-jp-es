@@ -1,0 +1,191 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Curren Chan se detiene de repente mientras\ncaminamos de vuelta de un paseo."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Ooo, huelo curry.",
+      "choice_data_list": [
+        "Casi es la hora de la cena, ¿verdad?",
+        "Casi es la hora de la cena, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Jeje, así es. Me recuerda a casa. Este olor\nsiempre venía con mi mamá gritando que era hora de\ncenar."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Hablando de eso, ¿qué ponía tu familia en su\ncurry?",
+      "choice_data_list": [
+        "¿Es diferente para cada familia?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Hablando de eso, ¿qué ponía tu familia en su\ncurry?",
+      "choice_data_list": [
+        "¿Es diferente para cada familia?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Sí! Como, mi mamá usaba tomate como ingrediente\nsecreto."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Lo hizo su ingrediente especial porque a mi papá\nle encantan los tomates!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "El curry de mi mamá es lo único con tomates que mi\npapá come."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Cada vez que teníamos curry para la cena, mi mamá\ny papá siempre sonreían tan felices.",
+      "choice_data_list": [
+        "El sabor de la felicidad.",
+        "El sabor de la felicidad."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Ahaha! ♪ ¡Qué buena forma de decirlo!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Jeje. Por cierto, si tú fueras a comer curry..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Jeje. Por cierto, si tú fueras a comer curry..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Querrías algo que odias en él? ¿O algo que te\ngusta?",
+      "choice_data_list": [
+        "Algo que odio.",
+        "¡Algo que me gusta!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Jeje. Eres igual que mi papá."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Ahora me apetece curry! Vamos a comprar\ningredientes de camino a casa. ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Disculpe!"
+    },
+    {
+      "name": "Vendedor de Verduras",
+      "text": "¿Qué puedo hacer por usted, señorita?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Curren Chan y yo terminamos yendo a la tienda de\nverduras a comprar ingredientes para el curry."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Ehehe. ¿Me harás un curry, Hermano Mayor? ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Ehehe. ¿Me harás un curry, Hermana Mayor? ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Solo tenemos tanto tiempo antes del toque de\nqueda—¡apúrate!",
+      "choice_data_list": [
+        "¿Quieres que <i>yo</i> lo haga?!",
+        "¿Quieres que <i>yo</i> lo haga?!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Sí! ♪ ¡Dije que quería curry—no que quería\nhacerlo! ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Oh, pero supongo que no me importaría ayudar un\npoco."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hagamos juntos el sabor de la felicidad."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El curry que Curren Chan y yo hacemos juntos es\naún más delicioso de lo normal."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Jaja, lo entiendo! ¡Yo también pondría algo que\nme gusta!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Digo, mi mamá es buena cocinera, así que todo lo\nque hace es delicioso <i>y</i> además se ve bien... pero\nentiendo que no todos puedan hacer eso. ¡Estoy\nbien solo con las cosas que me gustan!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Entonces..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Jeje. Sígueme, Hermano Mayor. ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Jeje. Sígueme, Hermana Mayor. ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Disculpe! ¡Dos currys, por favoooor! ♪"
+    },
+    {
+      "name": "Personal de comedor",
+      "text": "¡Okay! ¡Enseguida!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Volviendo a lo que hablábamos antes..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Volviendo a lo que hablábamos antes..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Creo que sé la verdadera razón por la que a mi\npapá le gustaba tanto el curry de mi mamá, aunque\nmi mamá ponía tomates en él."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Probablemente fue porque..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Todo sabe mejor cuando lo comes con alguien que\namas. ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Quieres probarlo? ¡Estoy segura de que si tú y yo\ncomemos juntos..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Quieres probarlo? ¡Estoy segura de que si tú y yo\ncomemos juntos..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡El curry aquí sabrá muuuucho mejor de lo normal!\n♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Curren Chan parece amar cada bocado mientras\ndevora el curry."
+    }
+  ]
+}

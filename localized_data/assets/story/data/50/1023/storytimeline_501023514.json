@@ -1,0 +1,264 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, veo a Biwa Hayahide en la biblioteca,\nluciendo perpleja por algo. Me acerco para\nsaludarla y le pregunto qué pasa."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Últimamente, he estado leyendo libros ilustrados a\nniños como actividad extracurricular, pero...\nsimplemente no me está haciendo clic.",
+      "choice_data_list": [
+        "¿Qué quieres decir?",
+        "¿Qué quieres decir?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Bueno... Sabes cómo los cuentos de hadas y las\nleyendas no son exactamente realistas, ¿verdad?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Cada vez que leo tales historias, no puedo evitar\ndistraerme con todos los errores lógicos e\ninconsistencias que hay en ellas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Creo que entiendo de dónde viene, pero no\ncomprendo del todo lo que quiere decir.",
+      "choice_data_list": [
+        "¿Puedes leerme una de esas historias y señalarme a\nqué te refieres?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Claro, ese parece el mejor enfoque.Permíteme leer\n<i>Momotaro</i> para ti."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"Érase una vez, en una tierra lejana...\""
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"Una anciana encontró un durazno gigante y lo\nllevó a casa.\""
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"Ella y su esposo van a cortar el durazno, cuando\nde repente...\""
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Mira, aquí es donde mi suspensión de la\nincredulidad empieza a desmoronarse."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ya tenía problemas para creer que un durazno\ngigante flotara río abajo de la nada..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Pero luego descubrimos que Momotaro estaba dentro\ndel durazno todo el tiempo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Basándonos en la información disponible, tenemos\nque asumir que debió estar dentro desde unos\nminutos hasta una hora."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Si ese es el caso, ¿cómo no murió asfixiado?",
+      "choice_data_list": [
+        "E-eh..."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Luego está la parte donde el anciano y la anciana\ncortan el durazno por la mitad."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Cómo evitaron cortar también a Momotaro por la\nmitad? ¿Tuvieron cuidado de cortar a su alrededor\no algo así?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Pero eso no tendría sentido ya que ni siquiera\nsabían que él estaba ahí dentro.",
+      "choice_data_list": [
+        "Quizás estás pensando demasiado en esto.",
+        "Quizás estás pensando demasiado en esto."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Incluso si lo estoy, ¿qué beneficio hay en\naprender cosas que son lógicamente imposibles?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Preferiría no participar en enseñar falsedades a\nlos niños."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por la expresión de su rostro, puedo decir que\nestá verdaderamente dedicada a esto. Si va a tomar\nlas cosas tan en serio, entonces...",
+      "choice_data_list": [
+        "¿Por qué no le pones tu propio toque a las cosas?",
+        "¿Por qué no le pones tu propio toque a las cosas?",
+        "¿Por qué no lo conviertes en una actividad de\ngrupo de estudio?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por la expresión de su rostro, puedo decir que\nestá verdaderamente dedicada a esto. Si va a tomar\nlas cosas tan en serio, entonces...",
+      "choice_data_list": [
+        "¿Por qué no le pones tu propio toque a las cosas?",
+        "¿Por qué no le pones tu propio toque a las cosas?",
+        "¿Por qué no lo conviertes en una actividad de\ngrupo de estudio?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Mi propio toque?",
+      "choice_data_list": [
+        "Sí. Intenta insertar algo de lógica en las\nhistorias."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Reconstruirlas de una manera que tenga sentido?\nEso sí suena intrigante..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuando llega el momento de que Biwa Hayahide lea\nde nuevo a los niños, pone en práctica su nueva\ntáctica."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"Una anciana encontró un durazno gigante y lo\nllevó a casa.\""
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"El anciano y la anciana estaban desconcertados\npor el extraño agujero en el durazno y se dieron\ncuenta de que debió ser un agujero para respirar.\""
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"Juntos, los dos cortaron el durazno con mucho,\nmucho cuidado.\""
+    },
+    {
+      "name": "Niño Energético",
+      "text": "¿El durazno tenía un agujero para respirar? No\nrecuerdo esa parte..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Pero si no lo hubiera, Momotaro no podría respirar\ndentro del durazno."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sería muy triste si ese fuera el caso, ¿no crees?"
+    },
+    {
+      "name": "Niño Precoz",
+      "text": "¡Sí! ¡Sería súper, mega triste!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jeje. Un extraño amable debió pensar lo mismo y\nhacer ese agujero para él."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ahora, volvamos a la historia..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"Momotaro salió del durazno sano y salvo gracias\nal agujero para respirar.\""
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"Y como el anciano y la anciana habían cortado el\ndurazno con tanto cuidado, no tenía ni un solo\nrasguño.\""
+    },
+    {
+      "name": "Niño Energético",
+      "text": "¡Yay! ¡Estaba bien!"
+    },
+    {
+      "name": "Niño Precoz",
+      "text": "¡Ehehe! ¡Bien por Momotaro!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los cuentos infantiles lógicamente reescritos por\nBiwa Hayahide inicialmente causan cierta\nconfusión..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero al final, fue una experiencia muy educativa\npara los niños."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Un grupo de estudio, dices?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Los niños podrían encontrar algo así aburrido,\npero realizar una discusión grupal podría ser una\nbuena forma de analizar los defectos en tales\nhistorias."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Sí, me gusta esa idea! ¡Comenzaré a preparar\nnuestra discusión de inmediato!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuando llega el momento de que Biwa Hayahide lea\nde nuevo a los niños, presenta sus ideas a su\naudiencia con cuidado."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Las zapatillas de cristal que usaba Cenicienta\npueden verse hermosas, pero en realidad son\nincreíblemente peligrosas."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Debido a que el vidrio es duro, es muy probable\nlastimarse los pies al usarlas."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Y si se rompieran, dejarían astillas de vidrio por\ntodas partes."
+    },
+    {
+      "name": "Niño Energético",
+      "text": "¡Guau! ¡Eso sería realmente malo!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Exacto. Por eso deberías usar zapatos hechos de\nmateriales seguros y no zapatillas de cristal,\nincluso si vienen de una hada madrina."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Cuando el Lobo Feroz le preguntó a Caperucita Roja\na dónde iba, ella se lo dijo, revelando así la\nubicación de la casa de su abuela."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sin embargo, si hubiera mantenido la guardia alta\ny se negara a responder, su abuela habría escapado\ndel trágico destino de ser comida."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "La moraleja de la historia es que debes huir de un\nextraño si intenta hablarte. ¿Entendido?"
+    },
+    {
+      "name": "Niño Precoz",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Aunque los libros ilustrados pueden ser muy\nencantadores, ocasionalmente contienen elementos\nproblemáticos."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tienes que aprender a identificar estos problemas\ny evitarlos para poder vivir una buena vida."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ahora, ¿todos aprendieron algo nuevo de la hora\ndel cuento de hoy?"
+    },
+    {
+      "name": "Niños",
+      "text": "¡Sí! ¡Lo hicimos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La hora educativa de cuentos de Biwa Hayahide\ntermina siendo un gran éxito."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No solo los niños la adoraron, sino que ella\ntambién parece haberlo disfrutado mucho."
+    }
+  ]
+}

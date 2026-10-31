@@ -1,0 +1,56 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "King Halo no se ha presentado al entrenamiento.\nPreocupada, salgo a buscarla."
+    },
+    {
+      "name": "King Halo",
+      "text": "...Así que decidí decirle esto a los reporteros:"
+    },
+    {
+      "name": "King Halo",
+      "text": "Quizás esto también necesite comillas. \"Yo, King\nHalo, la Umamusume más inteligente y de\nprimera...\""
+    },
+    {
+      "name": "King Halo",
+      "text": "\"¡Un día reinaré desde la cima del mundo!\""
+    },
+    {
+      "name": "Umamusume de ojos de gato",
+      "text": "¡Realmente eres la más genial, King!"
+    },
+    {
+      "name": "Umamusume con Corte Bob",
+      "text": "¿Puedo tener tu autógrafo?!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Ohohoho! Por supuesto. No es ningún problema."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Incluso firmaré para tu familia y amigos!\n¡Firmaré cada papel que tengas!",
+      "choice_data_list": [
+        "Ejem..."
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "King Halo",
+      "text": "...Ah!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Aaaahh! ¡E-e-e-entrenamiento!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es evidente que King Halo se siente mal por faltar\na la práctica."
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "¿Puedes creer en algo que no puedes ver!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Jeje... Eres increíblemente rápida, sin duda...\nTengo que hacerlo mejor que esto..."
+    },
+    {
+      "text": "¿Algo que solo se ve en los ojos de otra persona!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Para que pueda alcanzar... a mi amiga..."
+    },
+    {
+      "text": "¿Quién eres exactamente!"
+    },
+    {
+      "text": "Ya es bien pasada la puesta de sol cuando me doy\ncuenta de que he olvidado mi teléfono en algún\nlugar."
+    },
+    {
+      "text": "Probablemente lo dejé mientras me enfocaba en ver\nalgunas sesiones de entrenamiento alrededor de la\nacademia hoy."
+    },
+    {
+      "text": "Vuelvo corriendo a donde asumo que he dejado el\nteléfono y me saluda con una luz de batería baja\nparpadeante.",
+      "choice_data_list": [
+        "Oh, gracias a Dios—"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "Jeje..."
+    },
+    {
+      "name": "???",
+      "text": "—es divertido... jeje... —¿cómo puedo...\n—alcanzar?"
+    },
+    {
+      "text": "No espero escuchar nada en la pista a esta hora, y\nmenos aún risas. ¿Alguien está entrenando\nrealmente aquí ahora?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Uf... No te preocupes... Puedo seguir adelante."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Eso es cierto. Cuantas más veces sea\nnecesario..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Me encanta realmente... correr contigo...",
+      "choice_data_list": [
+        "(Solo, eh... ¿con quién está hablando?)"
+      ]
+    },
+    {
+      "text": "Definitivamente no hay nadie más alrededor que\nnosotros. Sé que está bastante oscuro, pero aún\nasí. Pensando que es extraño, me acerco a la\nestudiante solitaria, cuando..."
+    },
+    {
+      "text": "<i>¡Chas!</i>",
+      "choice_data_list": [
+        "¿Qué?!"
+      ]
+    },
+    {
+      "text": "Siento como si algo hubiera chocado con mi hombro.\nNo puedo ver nada en las cercanías, sin embargo.",
+      "choice_data_list": [
+        "(Verdad... <i>Estoy bastante </i>agotada, después de\ntodo...)"
+      ]
+    },
+    {
+      "text": "Pero una chica hablando con alguien que no está\nallí. Y luego yo chocando con una especie de\nfuerza invisible..."
+    },
+    {
+      "text": "El aire nocturno no es lo único que me da\nescalofríos... Aunque probablemente sea solo mi\nimaginación desbordada..."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¿De verdad? ¡Me encantaría aceptar la oferta!\nSiempre ha sido mi sueño hacerlo grande en una\ncarrera G1!"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "De verdad. Hagamos que ese sueño se vuelva\nrealidad."
+    },
+    {
+      "name": "Umamusume B",
+      "text": "O-okay. He estado apuntando a debutar en la Serie\nTwinkle todo este tiempo, así que..."
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "Siento que tienes lo que se necesita. Regresaré\npara ver tu carrera de prueba. ¿Crees que puedes\nmostrarme todo lo que tienes?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...",
+      "choice_data_list": [
+        "Oh, cierto. La chica de anoche..."
+      ]
+    },
+    {
+      "name": "New Trainer A",
+      "text": "Hey, <username>. Parece que tienes los ojos puestos en\nalguien."
+    },
+    {
+      "name": "New Trainer A",
+      "text": "Oh, la chica de allí... Ella corre con una forma\nmuy buena. ¿Vas a reclutarla?",
+      "choice_data_list": [
+        "Bueno, no estoy tan seguro todavía..."
+      ]
+    },
+    {
+      "name": "New Trainer A",
+      "text": "¿De verdad? Definitivamente la he visto en algún\nlugar, aunque... Um, tal vez en estos folletos,\nsí?"
+    },
+    {
+      "name": "New Trainer A",
+      "text": "La encontré—Manhattan Cafe. Ella es buena. Si no\nvas a reclutarla, entonces me voy a hablar con\nella."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "¿Quieres... reclutarme?"
+    },
+    {
+      "name": "New Trainer A",
+      "text": "¡Sí! Si no tienes a nadie más en mente, ¿por qué\nno apuntamos juntos a la cima de la Serie Twinkle?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "La Serie Twinkle..."
+    },
+    {
+      "name": "New Trainer A",
+      "text": "Puedes superar a cualquiera más aquí, seguro."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...¿Alguien más? Hm... ¿Crees... que incluso\npodría superar en velocidad a... <i>ella</i>?"
+    },
+    {
+      "name": "New Trainer A",
+      "text": "...\"Ella\". ¿Quién? Oh, supongo que tienes una\nrival entonces."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Sí. Ella es increíblemente rápida... Esa chica\nque está justo allí..."
+    },
+    {
+      "name": "New Trainer A",
+      "text": "¿Allí? Pero no hay nadie—"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Ella se parece a mí... Ella es la que me trajo\naquí. Mi querida amiga..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Ella no ha cambiado desde que éramos niños...\nSiempre corriendo adelante de mí... Sueño con...\nalcanzarla..."
+    },
+    {
+      "name": "New Trainer A",
+      "text": "¿Eh..."
+    },
+    {
+      "name": "New Trainer A",
+      "text": "<i>Suspiro</i>... No te gastes. No creas que ella busca\nhablar en serio con nadie, y mucho menos que la\ndescubran.",
+      "choice_data_list": [
+        "¿Qué quieres decir?"
+      ]
+    },
+    {
+      "name": "New Trainer A",
+      "text": "No podía entender nada de lo que estaba\nbalbuceando... Era como si estuviera tratando de\nahuyentarme. Y honestamente, las cosas que estaba\ndiciendo eran un poco, eh..."
+    },
+    {
+      "name": "New Trainer A",
+      "text": "Un poco inquietante!",
+      "choice_data_list": [
+        "¿Qué?"
+      ]
+    },
+    {
+      "name": "New Trainer A",
+      "text": "Solo digo que tal vez no deberías molestarte. Ella\nparece ser más problema que otra cosa..."
+    },
+    {
+      "text": "Me recuerda lo que sucedió anoche."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Eso es. Sin importar cuántas veces más..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Realmente me encanta... correr contigo..."
+    },
+    {
+      "text": "Atribuyo todo lo que sucedió anoche a mi\nimaginación, pero tal vez haya algo más en juego\naquí."
+    },
+    {
+      "text": "¿Ella realmente no tiene interés en ser reclutada?"
+    },
+    {
+      "text": "Mi mente divaga, pensando en el misterioso\nManhattan Cafe. Al siguiente momento, el cielo se\nha oscurecido en una noche turbia..."
+    }
+  ]
+}

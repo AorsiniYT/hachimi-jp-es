@@ -1,0 +1,88 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Grass Wonder se desmaya durante el entrenamiento.\nLa llevo apresuradamente a la enfermería."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Me disculpo por esa exhibición embarazosa.",
+      "choice_data_list": [
+        "¿No te sentías bien esta mañana?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "...No. Pero pensé que podría superarlo por una\nsola sesión de entrenamiento."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No esperaba esto... El entrenamiento tendrá que\nsuspenderse en el futuro previsible, ¿verdad?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Entrenador... por favor ocúpate de tu trabajo.",
+      "choice_data_list": [
+        "Estaré aquí hasta que te recuperes.",
+        "¡Una vez que descanses, podemos volver a ello!"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "De verdad no te vas a ir, ¿verdad?",
+      "choice_data_list": [
+        "Soy tu entrenador, ¿verdad?",
+        "Soy tu entrenador, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sí... Sí, supongo que tienes razón."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Y, eh. ...Lo siento por esto."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No deberías tener que verme en un estado tan\nmiserable."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Paso tiempo en la enfermería con una deprimida\nGrass Wonder hasta que se siente mejor."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Muy bien. Gracias por tu preocupación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Grass Wonder parecía un poco tensa, así que le doy\nun tiempo a solas para recuperarse."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No tengo tiempo para estar sentada aquí... ¿Por\nqué tenía que pasar esto?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Escucho lo alterada que está, incluso desde el\notro lado de la puerta de la enfermería."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Dios mío. Jeje. Oh, Entrenador."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Perdón. Parece que estamos tan sincronizados que\nno pude evitar reír."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Muchas gracias. Me dedicaré a la recuperación y\nestaré de vuelta a pleno rendimiento en no tiempo.\n♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La recuperación de Grass Wonder toma un tiempo.\nPero una vez que se recupera, se mantiene fiel a\nsu palabra y recupera el tiempo perdido."
+    }
+  ]
+}

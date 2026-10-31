@@ -1,0 +1,252 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Algo cambia para Rice Shower después del Kikuka\nSho."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "H-¡hey! ¡Eres Rice!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Eep! ¡S-sí, lo soy!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¡No estés nerviosa! Solo queremos decir que\nestuviste increíble en el Kikuka Sho el otro día!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Así es! ¡Se me puso la piel de gallina viéndote\ncorrer contra Bourbon!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¡Yo también! ¡Y ella fue supergenial! ¡Su cara era\ntan intensa!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Sí! Bourbon es súper rápida... ¡Y muy genial!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Por eso no puedes rendirte, Rice! ¡Te estaremos\nanimando!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿¿R-realmente?? ¡Gracias!",
+      "choice_data_list": [
+        "Se siente bien tener fans, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿¿H-Hermano Mayor??"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿¿H-Hermana Mayor??"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "N-no es así... Solo querían hablar conmigo sobre\nBourbon."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Todos en la multitud en el Kikuka Sho la estaban\nanimando, así que—",
+      "choice_data_list": [
+        "También la animaban porque su rival estaba\nallí—tú.",
+        "También la animaban porque su rival estaba\nallí—tú."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Agh... N-no me halagues tanto..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Agh... N-no me halagues tanto..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Pero su <i>rival,</i> ¿eh? Jejeje..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, al día siguiente vislumbramos el otro\nlado de la moneda."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Susurro, susurro...</i>"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...",
+      "choice_data_list": [
+        "¿Arroz?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...¡Aléjate!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Parece que le está afectando."
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Sí, a mí también me afectaría."
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Solo mira lo que le pasó a Bourbon—ella siempre\nestá en perfecta forma, pero justo después de\ncorrer con Rice Shower... Bueno, ya sabes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Sollozo...</i> ¿P-por qué... por qué esto siempre\npasa?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Por qué siempre traigo desgracia a la gente que\nme rodea? ¿Por qué siempre causo problemas?!",
+      "choice_data_list": [
+        "Rice..."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿¡Hermano Mayor?!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿¡Hermana Mayor?!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Aléjate! ¡Te lastimarás si te acercas a mí!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...No importa cuánto entrenara, Bourbon nunca\nhabía estado lesionada... Hasta que..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Es toda mi culpa... Sucedió porque ella se volvió\nmi rival..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Los primeros tres años de la carrera de una\nUmamusume son transformadores... y lo arruiné para\nella durante el tiempo más importante.",
+      "choice_data_list": [
+        "¿Ella te dijo eso?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Ella no tiene que hacerlo. Después de todo, yo—",
+      "choice_data_list": [
+        "Entonces, no le has preguntado al respecto."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿¡Eh?! ¡Espera!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿¡Eh?! ¡Espera!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...",
+      "choice_data_list": [
+        "Perdón por aparecer de repente.",
+        "Perdón por aparecer de repente."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "No es problema. Me he acostumbrado a que los\nvisitantes me deseen lo mejor recientemente."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Ahora, por favor, declare su objetivo."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Yo... quiero disculparme. Lo siento... ¡Lo siento\nmucho!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Es... mi culpa que te lastimaras. ¡He arruinado\neste tiempo importante para ti!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Disculpe, pero..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿Por qué te disculpas? Mis datos indican que tú no\ntienes nada que ver con la causa de mi lesión."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "P-pero... ¡nunca te habías lesionado hasta que te\nvolviste mi rival!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Tu razonamiento es insuficiente. Mi probabilidad\nde lesión se ha mantenido constante. Conclusión—tu\nteoría es prácticamente infundada."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Si insistes en que posees la habilidad de invocar\nla desgracia, entonces probaré la hipótesis usando\nmi persona como sujeto."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...¿Quieres probarlo en ti misma?"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Correcto. Te he reconocido como mi rival."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Sentí tu potencial de crecimiento en el Kikuka\nSho. He contado con ello."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Predije que si te convirtieras en mi rival, yo\ntambién crecería más fuerte."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "También predije la posibilidad de un llamado\nmilagro—que tú y yo podríamos algún día correr la\ncarrera definitiva."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Si mi mala suerte tiene algo que ver contigo,\nRice, entonces seguramente esa carrera nunca\nocurrirá."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿Me traerás desgracia? ¿O realizarás un milagro\nconmigo?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Eso es..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rice Shower es incapaz de responder, las palabras\nde Bourbon sacudiéndola hasta su mismo núcleo."
+    }
+  ]
+}

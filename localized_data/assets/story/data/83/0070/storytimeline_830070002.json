@@ -1,0 +1,179 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Qué tal esto? ¿Y si repartimos té de burbujas\nhecho con teteras Nambu?!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Esa es una... novedosa... forma de hacerlo, pero\n¿realmente ayudaría a promover Morioka?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Promover Morioka... Deben estar hablando del\nFestival Viajero de Morioka del otro día. Yukino\nBijin dijo que ayudaría a promocionarlo."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Oh, Entrenador! Perfecto timing. Estaba pensando\nen formas de promocionar el festival, y me\nencantaría pedirte consejo."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Y si organizamos uno de esos \"bailes sorpresa\"?\nEsos están muy de moda y son modernos. ¡Seríamos\nla comidilla de la ciudad!",
+      "choice_data_list": [
+        "No parece muy relacionado con Morioka..."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Sí... Es cierto... Debe haber algo más de moda..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Hm... Oye, ¿y si simplemente abandonas la idea de\nhacer la promoción llamativa?"
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Por qué no simplemente decirle a la gente lo que\namas de Morioka directamente en lugar de intentar\ndestacar?",
+      "choice_data_list": [
+        "Como me hablaste en la tienda emergente.",
+        "Como me hablaste en la tienda emergente."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Huh? ¿Te refieres a... nuestra conversación sobre\nla danza sansa?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Huh... Algún tipo de conversación llena de\nrecuerdos, supongo? Suena como un buen lugar para\nempezar."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Eso <i>fue</i> algo... Hablando de ponerse nostálgico...\n¡Ajá!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Cuando estaba en la escuela primaria, toqué los\ntambores taiko para la danza sansa en un festival\nlocal! Estaba sujeto a mi pecho y lo golpeaba\nmientras caminaba."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Es mucho más difícil de lo que piensas! Si\narruinas el tamborileo, ¡el baile se descontrola!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Ah, creo que puedo relacionarme. Es difícil no\nestar nervioso cuando tus acciones afectan a todos\na tu alrededor."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Exactamente. Así que, cuando estaba deprimido una\nvez después de equivocarme, mi profesora de taiko\nse acercó a mí, y... jejeje. ¿Adivinan qué dijo?",
+      "choice_data_list": [
+        "¿Superarlo?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Dijo que está bien equivocarse!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Me recordó que la sansa es la misma frase musical\nrepitiéndose una y otra vez mientras caminamos un\nlargo camino."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Y eso significa que no importa cuántas veces te\nequivoques, siempre puedes arreglarlo la próxima\nvez. Siempre que te hayas divertido y estés\nsonriendo cuando termines..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Entonces, todo está bien si termina bien."
+    },
+    {
+      "name": "Gold City",
+      "text": "Hmmm. Me gusta. O sea, sé tú mismo y no intentes\nponer una fachada. Ese tipo de cosas."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ah... Tienes razón. Solo ser yo mismo."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Eso debe ser! Lo que amo de Morioka es...\n¡simplemente poder ser tu viejo yo mismo y\nsonreír!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Jeje, ahora te ves bien. Dile exactamente eso a\nlos clientes."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡E-entiendo! Pero ¿cómo puedo transmitir eso?",
+      "choice_data_list": [
+        "¡Que lo experimenten por sí mismos!",
+        "¿Qué tal si hacemos un video?"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Que lo experimenten por sí mismos, huh... ¡Oh, en\nese caso!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Unos días después, paso por el estudio de danza\npara ver a Yukino Bijin practicando los tambores\ntaiko mientras Gold City baila junto a ella."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Guau! ¡Así que <i>ese</i> era el sonido de un tambor\ntaiko! ♪ ¿Qué tipo de baile estás haciendo? ¡Yo\ntambién quiero intentarlo!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Caramba! ¡Si no es Curren! Aquí, déjame mostrarte\nlos pasos!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Uno, dos, uno, dos! ¡Así es! ¡Lo estás haciendo\ngenial!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Muy bien! Si toco los tambores taiko así el día\ndel evento, apuesto a que atraeré clientes por\ndocenas!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Un video?! ¡Claro! ¡De esa manera podemos\npromover Morioka a personas de todo el mundo!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Suena bastante bien. ¡Deja la filmación en mis\nmanos!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Vengan todos! ¡Bienvenidos al Festival Viajero de\nMorioka! ¡Ahora, todos a bailar sansa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Gold Ship filma a Yukino Bijin bailando y\ncharlando con total naturalidad. Unos días\ndespués..."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Sí, familia! ¡Sansaaaa! ¿Sakkora choiwaaa?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Yasseeeee! ☆ ¡Así se habla!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡La danza sansa es un baile tan lindo! ¡Tengo que\nsubir un video de mí misma bailando! ♪"
+    },
+    {
+      "name": "Dueño de la Tienda",
+      "text": "Hola, Yukino. ¡Vi tu video de Umatok! ¡Consiguió\nun montón de vistas, eh? ¡Gracias a ti, el\nfestival parece que va a ser un gran éxito!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡T-toda la suerte! ¡Solo me alegra ayudar! ¡Buena\nsuerte con el evento principal! ¡Cruzo los dedos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El video de baile de Yukino Bijin se vuelve viral\ny, debido a eso, el Festival Viajero de Morioka\ntermina siendo un gran éxito."
+    }
+  ]
+}

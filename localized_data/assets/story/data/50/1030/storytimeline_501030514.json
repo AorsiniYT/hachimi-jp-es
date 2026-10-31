@@ -1,0 +1,201 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Rice Shower y Haru Urara están en las puertas de\nla academia, preparándose para salir."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Hola, Hermano Mayor!",
+      "choice_data_list": [
+        "¿Ustedes dos van a algún lado?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Hola, Hermana Mayor!",
+      "choice_data_list": [
+        "¿Ustedes dos van a algún lado?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí! ¡Voy a pasar tiempo con Rice! ¡Vamos a un\nbuffet de postres todo lo que puedas comer!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Oye! ¡Tú también deberías venir, Entrenador!",
+      "choice_data_list": [
+        "¿Estás seguro?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí! ¡Apuesto a que Rice se divertirá aún más así!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Y-sí! S-si no te importa, digo...",
+      "choice_data_list": [
+        "En ese caso, me uniré con gusto."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Y-sí! S-si no te importa, digo...",
+      "choice_data_list": [
+        "En ese caso, me uniré con gusto."
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿No es genial, Rice? Muy bien, ¡vamos a empezar!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Guau! ¡Mira todos estos postres deliciosos! ¡Hay\ntantos tipos diferentes, es increíble! ¡Como súper\nincreíble!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿P-podemos comer todo esto? ¡Esto es increíble,\nHermano Mayor!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿P-podemos comer todo esto? ¡Esto es increíble,\nHermana Mayor!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Vamos, Rice, vamos! ¡Ya no puedo contenerme más!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡S-sí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las dos emocionadas se dirigen a tomar algunos\npostres."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Jeje, ¡conseguí montones! ¿Y tú, Rice?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "L-lo siento por hacerte esperar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Rice Shower regresa con más del doble de la\ncantidad que tomó Haru Urara!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Guau, Rice! ¡Tomaste muchísimo!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Crees eso? ¿E-es demasiado? Es demasiado,\n¿verdad? Esto no es saludable.",
+      "choice_data_list": [
+        "¡Podemos quemarlo después! ¡Es solo combustible\npara el cuerpo!",
+        "¡Supongo que yo también voy a comer!",
+        "¡Supongo que yo también voy a comer!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Crees eso? ¿E-es demasiado? Es demasiado,\n¿verdad? Esto no es saludable.",
+      "choice_data_list": [
+        "¡Podemos quemarlo después! ¡Es solo combustible\npara el cuerpo!",
+        "¡Supongo que yo también voy a comer!",
+        "¡Supongo que yo también voy a comer!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Buena idea! ¡Comeremos un montón y luego\nejercitaremos un montón!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Y-sí. Mientras hagamos ejercicio después...\ndebería estar bien."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Esa es la actitud! ¡Hora de <i>destrozar</i> estos\npasteles de zanahoria! ¡A comer!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡E-está bien!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Ñam...</i>"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Mmm! ♪ ¡Está delicioso!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rice Shower procede a terminar hábilmente su plato\nrebosante, disfrutando cada bocado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin querer perder, lleno mi plato con casi la\nmisma cantidad que Rice Shower."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Guau, tu entrenador está en otro nivel!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Muy bien! ¡Eso significa que yo también tengo que\ncomer más!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Haru Urara regresa con aún más postres!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Jeje. Ya ni siquiera se ve la mesa."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Verdad?! ¡Solo con mirarlo todo me hace tan\nfeliz! ¡Ahora, a comer!",
+      "choice_data_list": [
+        "¡Buen provecho!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡B-buen provecho!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Ñam...</i>"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Mmm! ♪ ¡Está delicioso!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ahhh... ♪ Estuvo tan rico..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí, súper rico! ♪"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Y ahora... mi pancita está llena... y estoy\nagotada.",
+      "choice_data_list": [
+        "Igual aquí...",
+        "Igual aquí..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras Haru Urara está tan llena que apenas\npuede moverse, Rice Shower solo sonríe feliz."
+    }
+  ]
+}

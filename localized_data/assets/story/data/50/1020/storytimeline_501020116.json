@@ -1,0 +1,143 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El día después de que Seiun Sky logra\nmilagrosamente la Triple Corona Clásica..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Llego a mi oficina y encuentro una montaña de\ncajas de cartón!",
+      "choice_data_list": [
+        "¿Qué son estas?!"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ah, buenos días. Solo me estaba tomando un poco de\ntu espacio de oficina.",
+      "choice_data_list": [
+        "...¿Por qué huele a pescado?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oh, eso sería el besugo. El abuelo dice que si lo\ncomes, estarás 'radiante' de alegría.",
+      "choice_data_list": [
+        "¿Tu abuelo te envió todo esto?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Así es. Pero en serio, ¿qué se supone que debo\nhacer con tanto?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Quiero decir, gané la Triple Corona, así que por\nsupuesto el Abuelo está en la <i>luna, ¡pero vamos!</i>"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "De todos modos, también me envió algunas cosas que\nhe estado pidiendo desde hace tiempo, como este\ncebo y esta silla de pesca."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así es, Sky me dijo que era el sueño de su abuelo\nque ella ganara en los Clásicos.",
+      "choice_data_list": [
+        "Pero, ¿por qué está todo <i>aquí?</i>"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Verdad? Fue por muy poco, te lo digo. Solo <i>sabía</i>\nque algo raro estaba pasando..."
+    },
+    {
+      "name": "Repartidor",
+      "text": "A ver... Estas cajas son para la escuela—¡¿eh?!\nTodas están dirigidas a este dormitorio... y a la\nmisma persona?!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Eh, ¿podría echar un vistazo a estas cajas por un\nsegundo?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "\"Para Seiun Sky\"... Oh, ese es el abuelo, está\nbien. Caray, mira todo esto."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Eh, en realidad yo soy la Seiun Sky a quien están\ndirigidas. Me encantaría que las enviaras a la\nescuela, pero en lugar de a mi dormitorio..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Habla de demasiado cerca para estar cómodo!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Imagínate, si me hubiera despertado un minuto\ndespués, habría estado literalmente encerrada en\nmi habitación por cajas.",
+      "choice_data_list": [
+        "...¿Así que las pusiste en mi oficina?",
+        "...¿Así que las pusiste en mi oficina?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡No puedo agradecerte lo suficiente! ☆"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "De todos modos, ¡tengo que volver a abrir todo\nesto!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Tú encárgate del besugo, Entrenador!",
+      "choice_data_list": [
+        "¿Y exactamente qué hago con él?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Bueno, tienes que cocinarlo mientras esté fresco.\nEntonces... ¡gracias de antemano!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cojo el pescado y empiezo a dirigirme a la cocina\ncuando recuerdo que no le pregunté cómo quería que\nlo cocinaran. Así que me doy la vuelta, y..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Sí, gracias. Ajá, uh-huh... Está bien."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pero, abuelo, ¿qué se supone que debo hacer con\nesta caña de bambú? No esperas que realmente\npesque con ella.",
+      "choice_data_list": [
+        "(Parece que está hablando por teléfono con su\nabuelo.)"
+      ]
+    },
+    {
+      "name": "El abuelo de Sky",
+      "text": "¡¿De qué estás hablando?! En tus manos, podrías\natrapar un atún o incluso un marlín con esa cosa.\n¡Vamos, sorprende a tu viejo abuelo de nuevo!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Qué dices? Estás loco..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Está bien. Entonces, ¿estás diciendo que si pesco\nalgo increíble con esta caña de bambú, vendrás y\nme despeinarás o lo que sea?"
+    },
+    {
+      "name": "El abuelo de Sky",
+      "text": "¡Por supuesto que lo haría! Ni siquiera tienes que\natrapar el pescado. ¡Siempre tengo ganas de\ndespeinarte esa cabeza tuya!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Supongo que no tengo elección entonces, jeje. Pero\nno me culpes si te lastimas la espalda."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oh, eso me recuerda, abuelo. El otro día, yo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Decido que puedo simplemente hervir el pescado\na fuego lento, y me doy la vuelta una vez más para\nir a la cocina."
+    }
+  ]
+}

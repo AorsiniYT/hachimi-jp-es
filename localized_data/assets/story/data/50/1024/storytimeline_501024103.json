@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy es el primer día del campamento de verano. Es\nun período de entrenamiento intenso donde las\ncorredoras pueden mejorar sus habilidades."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Guau... ☆ ¡Qué casa roja tan linda!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Así que aquí es donde pasaremos nuestro verano de\nadultos juntos!",
+      "choice_data_list": [
+        "¿Quieres decir \"donde tendremos el campamento de\nverano con todos\", ¿verdad?"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Oye, no seas aguafiestas!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Hmph! ¡Podrías tratarme como una niña solo esta\nvez y hacer como que sí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso, el campamento de verano con Mayano Top\nGun comienza."
+    }
+  ]
+}

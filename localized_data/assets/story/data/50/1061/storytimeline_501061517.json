@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Tomando un descanso del entrenamiento, King Halo y\nyo nos dirigimos al parque."
+    },
+    {
+      "name": "King Halo",
+      "text": "...Qué día tan ventoso.",
+      "choice_data_list": [
+        "¿Te molesta?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Sí. No me gusta cómo los vientos fuertes levantan\nnubes de arena."
+    },
+    {
+      "name": "King Halo",
+      "text": "La arena se mete por todas partes, pegándose a mi\nropa y cabello. Además, me hace estornud—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Fuuuush!</i>"
+    },
+    {
+      "name": "King Halo",
+      "text": "...¡Achú!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Ugh, ¡hablando del diablo de polvo!"
+    },
+    {
+      "name": "King Halo",
+      "text": "<i>Suspiro...</i> Por eso odio la arena..."
+    }
+  ]
+}

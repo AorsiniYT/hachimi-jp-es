@@ -1,0 +1,155 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Rice Shower estaba desesperada por visitar un\nsantuario, así que aquí estamos."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Gracias por hacer esto por mí, hermano mayor.",
+      "choice_data_list": [
+        "¿Por qué querías venir aquí tan desesperadamente?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Gracias por hacer esto por mí, hermana mayor.",
+      "choice_data_list": [
+        "¿Por qué querías venir aquí tan desesperadamente?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Bueno, quiero ir a muchos lugares contigo..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Bueno, quiero ir a muchos lugares contigo..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pero no quiero que te mezcles en mi mala suerte.",
+      "choice_data_list": [
+        "¿Entonces vamos a rezar para que no pase nada?",
+        "¿Entonces vamos a rezar para que no pase nada?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pero no quiero que te mezcles en mi mala suerte.",
+      "choice_data_list": [
+        "¿Entonces vamos a rezar para que no pase nada?",
+        "¿Entonces vamos a rezar para que no pase nada?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "S-sí... Pensé que si rezábamos juntos, los dioses\ndefinitivamente escucharían."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "S-sí... Pensé que si rezábamos juntos, los dioses\ndefinitivamente escucharían."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Entonces, ¿lo harás?",
+      "choice_data_list": [
+        "Muy bien, vamos a rezar."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Está bien! ¡Gracias!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Está bien! ¡Gracias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero, mientras rezamos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Crac!</i>"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Ay!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parte del viejo techo se cae."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ohhh, es justo como pensé.",
+      "choice_data_list": [
+        "Bien que no nos golpeó."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pero... si yo no estuviera aquí, esto\ndefinitivamente no habría ocurrido..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Debí haberlo sabido. Soy solo—",
+      "choice_data_list": [
+        "Estamos a salvo gracias a tu oración."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Mi oración?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Entonces, ¿estás diciendo... que eso no fue mala\nsuerte hace un momento... sino buena suerte?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "E-eso significaría... ¿los dioses escucharon?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Debe ser porque rezaste conmigo... ¡Se siente como\nsi un peso se hubiera levantado de mí!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Debe ser porque rezaste conmigo... ¡Se siente como\nsi un peso se hubiera levantado de mí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con sus oraciones respondidas, Rice Shower irradia\nalegría."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parte del viejo techo se cae."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Oh no... ¡Todo es mi culpa!",
+      "choice_data_list": [
+        "Espera un se—"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "En el momento en que intento correr tras ella,\ntropiezo con un desagüe en el camino de piedra."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Hermano mayor! ¿Estás bien? Lo siento... Todo es\nmi culpa."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Hermana mayor! ¿Estás bien? Lo siento... Todo es\nmi culpa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No importa cuántas veces intente tranquilizarla,\nno dejará de culparse por lo que ocurrió."
+    }
+  ]
+}

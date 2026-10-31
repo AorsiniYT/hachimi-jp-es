@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Oguri Cap",
+      "text": "Guh... <i>Haa... resuello...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Oguri Cap no parece sentirse muy bien. Su rostro\nse ve un poco pálido.",
+      "choice_data_list": [
+        "¿Estás bien?",
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Mm... Tama y yo fuimos a este café de postres con\nun menú de madrugadores..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Luego, de regreso, estábamos en este tren lleno."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "La multitud densa y el aire viciado me hicieron\nsentir mal..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hoy está bastante fuera de sí. Parece que el\nestrés realmente la ha afectado."
+    }
+  ]
+}

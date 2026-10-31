@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Nuestra apasionante experiencia en el campamento\nde verano llega a su fin, y es hora de regresar a\nla academia."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Apenas puedo creer que el campamento de verano\nya haya terminado.",
+      "choice_data_list": [
+        "¿Ya lo extrañas?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Sí... Un poco..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "El campamento de verano de este año fue\nverdaderamente disfrutable. Realmente sentí que\nestaba viviendo el momento... y creé recuerdos de\nverano que durarán toda la vida."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Sin embargo, nuestra carrera objetivo se acerca\nrápidamente."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Te aseguro que una vez que regresemos a la\nacademia, volveré a ponerme en la mentalidad de\ncarrera, así que contaré con tu guía.",
+      "choice_data_list": [
+        "¡Por supuesto!",
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con las carreras G1 de otoño a la vuelta de la\nesquina, Mejiro Ardan y yo estamos haciendo\nnuestro último empujón!"
+    }
+  ]
+}

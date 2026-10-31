@@ -1,0 +1,234 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Anfitrión A",
+      "text": "Y ahora, el momento que todos hemos estado\nesperando."
+    },
+    {
+      "name": "Anfitrión A",
+      "text": "¡Nuestra Uma Musume del Año! Ella es la estrella\nmás brillante de la Serie Twinkle..."
+    },
+    {
+      "name": "Anfitrión A",
+      "text": "Una corredora con poder y velocidad sin paralelo—y\nla primera velocista en la historia de URA en ser\nseleccionada..."
+    },
+    {
+      "name": "Anfitrión A",
+      "text": "¡Taiki Shuttle!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Aplausos, aplausos, aplausos!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nuestros primeros tres años juntos han pasado, así\ncomo así."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al recordar los preciosos—y más bien\nabrumadores—días que pasamos juntos..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Hola!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Estás despierto, Entrenador? ¡Sé que lo estás!\n¡Vamos, vámonos!",
+      "choice_data_list": [
+        "¿A dónde?!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh, cierto! ¡Aún no te lo he dicho! ¡Estoy\norganizando una fiesta especial!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Es una fiesta sorpresa para celebrar todo lo que\nhas hecho por mí!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Mejor créete que este será un día inolvidable!\nAhora, no voy a repetirlo de nuevo—¡vamos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su entusiasmo es intenso, pero se ha tomado la\nmolestia de preparar una fiesta para mí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Resuelvo aceptar lo que venga con buen ánimo,\npero..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Aquí estamos! ¡Sorpresa!",
+      "choice_data_list": [
+        "¿Por qué estamos en el hipódromo?!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "En los EE. UU., mi familia hace barbacoas justo en\nlos campos de nuestra granja."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Quiero que sepas cómo se siente, y yo creo que\nesto es lo más cercano!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Y antes de que te pongas nervioso, ya tengo el\nvisto bueno para hacer esto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debí haber sabido que Taiki tendría algo\nextravagante planeado."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Normalmente hay algo pasando aquí, pero hoy está\ntranquilo como un lirón."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Espacios amplios y abiertos como este me hacen\nquerer gritar! ¡Yodel-ay-hee-hoo!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Jeje. ¡Ahora, iniciemos la fiesta! ¡Seré tu\nmaestro de la parrilla por hoy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque no tengo problema con darme un banquete de\nbarbacoa, sospecho que toda esta carne puede ser\nun problema para mi estómago después."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡No me digas eso, Aprendíz! No puedes estar llena\nya. Traje postre y todo..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Mmm. Supongo que cuando estás lleno, estás lleno.\nDejemos los tenedores por un momento, entonces."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Lo tengo! Ya que estamos aquí y todo, una carrera\nrápida no haría daño!",
+      "choice_data_list": [
+        "¿También conseguiste permiso para eso?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Lo conseguiré después! ¡Soy una Umamusume—no\npuedes esperar que me quede quieta frente a una\npista!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Taiki sale corriendo sin decir otra palabra."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Taiki Shuttle es muchas cosas—es animada,\nenergética y asombrosa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y aún más en la pista. Me encuentro más y más\ncautivado cada vez que corre."
+    },
+    {
+      "name": "Monólogo",
+      "text": "De repente, me doy cuenta de que ella no ha\nregresado aún.",
+      "choice_data_list": [
+        "¡Y si se lastimó?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me dirijo a la pista en busca de Taiki Shuttle..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "<i>Snif... Hip...</i>",
+      "choice_data_list": [
+        "¿Qué pasa?!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "E-Entrenador... Lo siento mucho..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Hoy se suponía que sería todo sobre ti... Me dije\nque no lloraría, y sin embargo..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Waaaaah! ¡Me siento tan solo! ¡No lo soporto más!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Nuestros tres años juntos han terminado!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Quiero seguir corriendo contigo! ¡Quiero tener\nmás fiestas contigo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con nuestro tercer año casi terminado, ella parece\nestar desconsolada por el hecho de que sigamos\ncaminos separados."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero no hay razón por la que la recién coronada\nUmamusume del Año y yo tengamos que separarnos.",
+      "choice_data_list": [
+        "Sabes, aún vamos a estar juntos..."
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "...¿Eh?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Qué quieres decir? ¿No tenemos que despedirnos\nuna vez que nuestros tres años terminen?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le explico que tal cosa solo sucede cuando una\npareja no ha logrado resultados satisfactorios."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡No lo creo! Estaba completamente seguro de que\nasí funcionaba! ¡El japonés es complicado!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Entonces significa que puedo seguir corriendo\ncontigo, Entrenador?!",
+      "choice_data_list": [
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Yujuu! ¡Estoy muy feliz!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Vale! ¡Sigamos corriendo para siempre, solo tú y\nyo!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Nunca pararé. Correré por mi familia y mis fans..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Y también correré por ti, Entrenador! ¡Prometo\nsiempre mantenerte sonriendo!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Gracias por todo lo que has hecho por mí!\n¡Sigamos juntos de aquí en adelante!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Seguiré corriendo a su lado y la ayudaré a dar una\nserie de actuaciones que nadie olvidará!"
+    }
+  ]
+}

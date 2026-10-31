@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Veo a Mejiro Ryan frente a las escaleras,\ntemblando.",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ah, E-Entrenador... Hice demasiado peso con mis\npress de piernas ayer..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "C-como puedes ver, mis músculos duelen muchísimo\nahora mismo. ¡Pero no te preocupes!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Esto es prueba de que están creciendo!",
+      "choice_data_list": [
+        "¿Vas a estar bien para el entrenamiento de hoy?"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Oh, sí! ¡Sin problema! Solo estoy—"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Ay!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Quizás debido a sus músculos adoloridos, Mejiro\nRyan no es capaz de encontrar el ritmo durante su\nentrenamiento."
+    }
+  ]
+}

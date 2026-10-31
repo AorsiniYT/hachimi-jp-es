@@ -1,0 +1,216 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Después de pasar un rato juntos, Meisho Doto y yo\nregresamos a la academia."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡E-Entrenador! ¿Te importaría si, después de esto,\nnosotros..."
+    },
+    {
+      "text": "<i>¡Bzzt, bzzt!</i>",
+      "choice_data_list": [
+        "Perdón, era mi teléfono."
+      ]
+    },
+    {
+      "text": "Es un mensaje de Tazuna. Parece que hay una tarea\nimportante que requiere muchas manos. Me ha pedido\nque ayude."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "S-supongo que tienes trabajo que hacer ahora...",
+      "choice_data_list": [
+        "¿No había algo que ibas a contarme?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Oh no, no era nada! ¡Buena suerte con t-tu\ntrabajo!"
+    },
+    {
+      "text": "Me despido a regañadientes de Meisho Doto,\ncambiando de rumbo a mi nueva tarea."
+    },
+    {
+      "text": "Después de que todo esté en orden, salgo y\nencuentro el cielo completamente oscuro. Supongo\nque debería ir a casa."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Oye. Eres el entrenador de Doto, ¿verdad? ¿Tienes\nidea de dónde está?",
+      "choice_data_list": [
+        "Pensé que estaría de vuelta en su dormitorio..."
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "No. A esta hora, normalmente está haciendo ruido\npreparándose para el día siguiente."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Tch, lo juro, si esa torpe se mete en problemas a\nesta hora de la noche... ¿Dónde diablos podría\nestar?"
+    },
+    {
+      "text": "¡Tenemos que encontrarla lo antes posible! Voy a\nbuscar a Meisho Doto con Air Shakur."
+    },
+    {
+      "text": "Shakur tiene una idea de dónde está Doto, así que\nconfío en su intuición y la sigo hasta...",
+      "choice_data_list": [
+        "¿El bosque? ¿Por qué?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Si no te has dado cuenta, últimamente ha estado\nsaliendo a escondidas aquí mucho. Y rastrea barro\nen nuestra habitación cuando regresa..."
+    },
+    {
+      "name": "???",
+      "text": "Oooh... Ohhh..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Hm? ¿Escuchas eso?"
+    },
+    {
+      "name": "???",
+      "text": "Ahh... Rememoro tu gentileza... ¡calor!",
+      "choice_data_list": [
+        "¡Esa voz pertenece a... Doto!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Eep! ¡E-Entrenador! ¡Shakur?!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "No n-no estoy imaginando cosas, ¿verdad? ¿De\nverdad... eres tú?!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Estás privada de sueño o algo? ¡Por supuesto que\nsomos nosotras!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Uugh... ¡Waaaahh! ¡Estaba m-muy asustada!",
+      "choice_data_list": [
+        "Ahora estás a salvo.",
+        "Ahora estás a salvo."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "<i>Hip...</i> Lo siento mucho..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Decidí practicar mi canto aquí,pero luego...<i>¡Hic!</i>\nNo p-pude encontrar el camino de regreso en la\noscuridad... Estaba cantando para ayudarme a\ncalmarme.",
+      "choice_data_list": [
+        "Perdón por no haber estado allí para ti."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh no, por favor no te disculpes... ¡Tu trabajo es\nmucho más importante que yo!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Estoy intentando volverme... más independiente. De\nesa manera, podrás concentrarte en tu trabajo,\nEntrenador."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "No quiero ser una molestia para ti..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Primero deberías enfocarte en meter menos la pata.\nSeguro que pudiste evitar lo que te metió en este\nlío."
+    },
+    {
+      "text": "Escoltamos a Meisho Doto de vuelta al dormitorio.\nAfortunadamente, no está herida. Supongo que todo\nestá tranquilo por ahora."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Me da mucha vergüenza haber causado to-todo este\nproblema! ¡Realmente lo siento... es toda mi\nculpa! No volveré a hacer algo así nunca más!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¡Claro que no lo harás! No voy a ir a buscarte una\nsegunda vez."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Lo e-entiendo... ¡Lo siento mucho! ¡No practicaré\nmás el canto!",
+      "choice_data_list": [
+        "No, ¡sigue practicando!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh... Pero, ¿y si algo así vuelve a pasar?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¡Arréglalo tú misma! Ya dije que no voy a hacer\nmás patrullas de búsqueda.",
+      "choice_data_list": [
+        "¿Qué quieres hacer, Doto?",
+        "¿Qué quieres hacer, Doto?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Yo, um... ¡Bueno, ya ves! Creo que me gusta cantar\nmucho más ahora..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Si no es una m-molestia para nadie... Me gustaría\nseguir cantando."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Entonces será mejor que se te ocurra una forma\nmás razonable de practicar."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡E-está bien! Um, bueno... ¡No cantaré en el\nbosque más!",
+      "choice_data_list": [
+        "Me gustaría escuchar la canción cuando estés lista\npara actuar.",
+        "¡Déjame unirme a tu práctica!",
+        "¡Déjame unirme a tu práctica!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡E-está bien! Um, bueno... ¡No cantaré en el\nbosque más!",
+      "choice_data_list": [
+        "Me gustaría escuchar la canción cuando estés lista\npara actuar.",
+        "¡Déjame unirme a tu práctica!",
+        "¡Déjame unirme a tu práctica!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Hyah?! ¿Estás dispuesto a escuchar m-mi canto?",
+      "choice_data_list": [
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿¿¿Q-q-qué??? Entonces practicaré muchísimo. ¡Lo\npwo-prometo!"
+    },
+    {
+      "text": "Desde entonces, ocasionalmente escucho a Doto\ncantando cuando paso por el dormitorio."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡No deberías! Ya dependo de ti para el\nentrenamiento... ¡esto añadiría mucho trabajo para\nti!",
+      "choice_data_list": [
+        "Quiero estar contigo mientras mejoras."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Bueno... Si realmente estás seguro de que quieres\nvenir..."
+    },
+    {
+      "text": "Decido acompañar a Meisho Doto para su práctica de\ncanto al día siguiente."
+    }
+  ]
+}

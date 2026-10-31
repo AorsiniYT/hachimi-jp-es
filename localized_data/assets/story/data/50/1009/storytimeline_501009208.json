@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Daiwa Scarlet",
+      "text": "La carrera que decide al corredor número uno del\naño. Je, todos parecen emocionados."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Pero yo brillaré más. He pasado cada momento\ndespierto preparándome para este día."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Más te vale mantener tus ojos en mí, Entrenador.\nHasta el final, ¿me oyes?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "No querrías perder el momento en que me convierta\nen la corredora más fuerte, más rápida y la mejor\nde todas.",
+      "choice_data_list": [
+        "¡No puedo esperar!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Jeje! Eso es exactamente lo que quería escuchar."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Bueno, mejor me voy. ¡Es hora de mostrarle al\nmundo quién es el número uno!"
+    }
+  ]
+}

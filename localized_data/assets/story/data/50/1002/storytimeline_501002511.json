@@ -1,0 +1,171 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "De camino a otra sesión de entrenamiento con\nSilence Suzuka..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh, Suzukaaa! ¿Qué tal? ¡Te encontré!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Mmm?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Ka-bum!</i>"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Wah!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Caramba, ¡qué feliz estoy de haberte encontrado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Taiki Shuttle se abalanza hacia Silence Suzuka y\nle da un gran abrazo!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh! ¡Perdón, compañero! ☆"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "E-está bien. ¿Había... algo que necesitaras?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Ups! ¡Casi lo olvido! ¡Quiero hacer una fiesta!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Una fiesta?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Así es! ¡Mis padres me acaban de enviar unos\nbistecs grandes y jugosos!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Digo que los comamos juntos y los acompañemos con\nun poco de leche fresca y rica! ¡Jeje! ¿No suena\ndivertido?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Agradezco la invitación, pero... no soy muy buena\ncon grupos grandes."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Eso no es ningún problema! Podemos tener una\nfiesta solo nosotros dos! ¡Tú y yo!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿En serio?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Ahora, sabes que me encanta reunir a un montón de\ngente para una gran fiesta!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Pero tú eres mi invitada especial hoy! ¡Un rato\nagradable y tranquilo contigo está perfectamente\nbien para mí!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Mientras mi invitada sea feliz, yo soy feliz! ☆"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Jeje, si tú lo dices..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Gracias, Taiki. Um... ¿estaría bien un invitado\nmás?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Por supuesto! ¡Estoy de acuerdo con quien quieras\ninvitar!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Entrenador? ¿Qué opinas? ¿Quieres unirte a\nnosotros?",
+      "choice_data_list": [
+        "¡Sí, vamos a comer!",
+        "Deberíamos hacer un buen entrenamiento antes de\ncomer.",
+        "Deberíamos hacer un buen entrenamiento antes de\ncomer."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Entrenador? ¿Qué opinas? ¿Quieres unirte a\nnosotros?",
+      "choice_data_list": [
+        "¡Sí, vamos a comer!",
+        "Deberíamos hacer un buen entrenamiento antes de\ncomer.",
+        "Deberíamos hacer un buen entrenamiento antes de\ncomer."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Está bien. Tengo ganas de probar una comida al\nestilo americano de verdad."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Yippee! ¡Espero que tengas buen apetito!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Porque la pila de bistecs es tan alta como las\nMontañas Rocosas!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...No sé si podré comer <i>tanto</i>."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Muy bien, entonces! ¡Hora de cocinar!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "E-espera un minuto! ¡Taiki!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A lo largo de la fiesta, los tres de alguna manera\nlogramos terminar cada bocado de la montaña de\nbistecs de Taiki."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Sí, tienes mucha razón."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Taiki, ¿te importaría si primero me abro el\napetito?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Por supuesto que no! Mejor aún, ¿por qué no me\nuno? ¡Vamos a morir de hambre después de esto!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Y qué tal si lo hacemos interesante? ¡El ganador\ncome todo el bistec que quiera! ¡Al estilo buffet!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Jeje. No sé sobre un buffet, pero una carrera sí\nsuena divertida."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡En sus marcas! ¡Listos!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Ya!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de abrirse el apetito, ambos corredores\nrecuperan su resistencia devorando montones de\nbistec."
+    }
+  ]
+}

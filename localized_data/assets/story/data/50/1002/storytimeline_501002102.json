@@ -1,0 +1,204 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es Año Nuevo. Silence Suzuka y yo estamos haciendo\nnuestra primera visita al santuario del año."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Muy bien!",
+      "choice_data_list": [
+        "¿Por qué vas a rezar?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Mmm... Que pueda correr montones y montones este\naño."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "También quiero devolverle a Spe por admirarme.",
+      "color_text_info_list": [
+        "Spe"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Por eso me gustaría correr con confianza este año."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que sus resoluciones no han cambiado mucho\ndesde el año pasado, pero aún así, puedo decir que\nha crecido mucho desde entonces."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Hola! ¡Feliz Año Nuevo, ustedes dos!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Oh, Fukukitaru. Feliz Año Nuevo."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Tienes una exhibición bastante impresionante allí.\n¿Para qué es?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Matikanefukukitaru ha montado un puesto callejero,\ncompleto con paletas hagoita tradicionales y todo\nlo necesario para que los niños jueguen al\nfukuwarai."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Ja ja ja. En mi primer sueño del año, contemplé\nlos milagrosos secretos de la adivinación de Año\nNuevo!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Contemplen! Aquí ante ustedes, he preparado tres\nmedios de adivinación—degustación de sopa de\nfrijoles rojos, papeles de la fortuna y, último\npero no menos importante, fukuwarai!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Degustación de sopa de frijoles rojos?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Sí! Bebe solo el caldo y los frijoles sobrantes\n¡darán forma a tu fortuna!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "En cuanto al fukuwarai, simplemente crea una cara\ncolocando estas características faciales en la\ncabeza en blanco... mientras estás vendado. ¡Los\nresultados revelarán tu fortuna!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Y finalmente, ¡el papel de la fortuna! Saca un\npapel de la caja y yo adivinaré tu fortuna a\npartir de los resultados."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Acaso las fortunas no están escritas en los\npapeles? ¿Qué más queda por adivinar?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿No quieres comenzar el nuevo año con un poco más\nde buena suerte? ¡Esta es tu oportunidad, Suzuka!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Um, ¿cuál crees que debería hacer, Entrenador?",
+      "choice_data_list": [
+        "¡La sopa de frijoles rojos suena deliciosa!",
+        "¡Déjalo todo en manos del destino! Saca un papel\nde la fortuna.",
+        "¡Forja tu propio destino! Prueba el fukuwarai."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿La sopa de frijoles rojos? ¡Okay!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Jeje. Coincidentemente, en realidad tengo un poco\nde hambre en este momento. Buena elección,\nEntrenador."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Eso estuvo delicioso."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Ahora veamos qué tienen que decir los frijoles\nsobre tu futuro!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Woiya, haiya! ¡Frijoles en el tazón! ¡Muéstrennos\nsu forma, y que el futuro sea conocido!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡He aquí! La forma de una cleat ha sido\n<i>revelada</i>¡Si corres, la buena suerte llegará\nhasta ti!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Oh, eso suena como buenas noticias. Gracias,\nFukukitaru."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella debe estar particularmente feliz con esta\nfortuna, ya que al día siguiente está aún más\nmotivada en el entrenamiento."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿El papel de la fortuna? Okay."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Supongo que tengo un poco de curiosidad por saber\ncómo ella lo usará para leer mi fortuna."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Muy bien. ¿Ves la caja allí? ¡Mete la mano y saca\nuno, si eres tan amable!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Jeje. Dice, \"gran fortuna.\""
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡¿Gran fortuna?! ¡Qué maravilloso! ¡Vas a tener el\nmejor año de todos!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Ah, así que es exactamente lo que esperaba. Jeje."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que la fortuna de Matikanefukukitaru ha\ndejado a Silence Suzuka de buen humor. Disfrutamos\nel resto del Año Nuevo relajándonos y tomándolo\ncon calma."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Fukuwarai? Vale."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Muy bien. Primero... ¡la venda!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Um... ¿Esta pieza es la boca? No... ¿Los ojos?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Jeje. Oh, Suzuka. Kekekekeke."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡No te rías así! ¡Suenas tan malvada! Jeje."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡No way! ¡Solo acerté la nariz!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Ahahaha! ¡Bueno, por Dios! ¿Cómo pensaste que las\ncejas eran la boca y los ojos? ¡Oh, Suzuka, eres\ndemasiado!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Jeje. Bueno, es hora de ponerse serio. ¡Tengo\nadivinación que hacer!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Woiya, haiya! ¡Pobre cara deforme! ¡Dinos qué de\npara el futuro de Suzuka!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Tengo tu fortuna! Y claro como el cristal, la\npalabra clave—¡Conexión!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Las conexiones te guiarán a través de una difícil\ndecisión. ¡Prepárate, porque sucederá pronto!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Mis conexiones..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque ella parece escéptica, quizás porque la\nfortuna es sorprendentemente directa, Silence\nSuzuka parece tomarlo un poco más en serio de lo\nque yo esperaba."
+    }
+  ]
+}

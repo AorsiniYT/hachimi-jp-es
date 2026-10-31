@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Super Creek",
+      "text": "La carrera está por comenzar..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Estás nervioso, Entrenador? ¿Inquieto? ¿Te cuesta\nrespirar?"
+    },
+    {
+      "name": "Super Creek",
+      "text": "No dudes en decírmelo. No necesitas fingir ser\nfuerte. Si te sientes inquieto, y-yo... Um...",
+      "choice_data_list": [
+        "Pareces ser tú la nerviosa aquí.",
+        "Pareces ser tú la nerviosa aquí."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Bueno, ahora que lo mencionas... Jeje."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Me emocioné un poco, ¿verdad? Simplemente no puedo\nesperar para mostrarle a todos lo increíble que\neres."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Y lo probaré con esta carrera! ♪"
+    }
+  ]
+}

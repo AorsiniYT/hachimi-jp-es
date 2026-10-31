@@ -1,0 +1,211 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Al pasar por la estación, a Hishi Akebono le\nentregan un volante del planetario. Un experto en\nciencia espacial comentará el espectáculo de hoy."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Guau, podemos aprender todo sobre estrellas y\nespacio allí! Y mira, el folleto viene con cupones\nde descuento.",
+      "choice_data_list": [
+        "¿Quieres echarle un vistazo?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Sí, por favor! ¡Suena muy divertido! ♪"
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "¡Ohhh! ¡Hola, Akebono! ¡Qué maravilloso verte\naquí! ☆"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Hola, Marvelous! ¡Qué coincidencia! ¿También\nviniste a ver las estrellas?"
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Por supuesto. ☆ Estoy buscando cosas maravillosas\ny brillantes. ★"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Oh, espero que encuentres algunas. Oye, ¡parece\nque el espectáculo está por comenzar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El cielo nocturno se extiende por el techo\nabovedado sobre nosotros. La narración cubre no\nsolo las constelaciones proyectadas, sino también\nla composición de las estrellas y la Vía Láctea."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Hay tantas estrellas en el universo..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Oye, me pregunto qué comen los extraterrestres...\n¿Crees que pueden comer comida terrestre?"
+    },
+    {
+      "name": "Mujer A",
+      "text": "Pfft. No puedo creer que haya personas que\nrealmente crean en extraterrestres."
+    },
+    {
+      "name": "Hombre A",
+      "text": "Ella probablemente piensa que son reales porque\nvio alguna película de ciencia ficción. ¿Hasta qué\npunto se puede ser tan crédulo?"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Sí... La gente nunca ha visto extraterrestres, así\nque no es de extrañar que no crean en ellos, ¿eh?\n¡En fin!"
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Hay bastantes planetas de tipo terrestre en toda\nla Vía Láctea que podrían considerarse habitables,\ny es posible que algunos de ellos tengan agua."
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "Así que podríamos encontrar formas de vida allí.\nEl espacio sigue lleno de misterios; ¡qué\nmaravilla galáctica! ★☆"
+    },
+    {
+      "name": "Hombre A",
+      "text": "E-eh, salgamos de aquí..."
+    },
+    {
+      "name": "Comentarista de Ciencia Espacial",
+      "text": "Jeje. Me complace ver todo este entusiasmo que\ntienes por el espacio. Si lo deseas, podría\nresponder tu pregunta anterior."
+    },
+    {
+      "name": "Comentarista de Ciencia Espacial",
+      "text": "Aunque no sabemos qué comen los <i>extraterrestres...\n</i>es posible que la comida terrestre les sea\ncomestible."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿¡En serio!? En ese caso, ¡me encantaría comer\nchanko con ellos!"
+    },
+    {
+      "name": "Comentarista de Ciencia Espacial",
+      "text": "Comer chanko podría resultar un poco difícil. La\nsopa y los ingredientes flotarían por todos lados\nen un entorno de gravedad cero, ¿ves?"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿¡Qué!? ¿No se quedarían juntos?!"
+    },
+    {
+      "name": "Comentarista de Ciencia Espacial",
+      "text": "No. Por eso todos los alimentos y bebidas\nespaciales están hechos para ser viscosos. La\ntensión superficial ayuda a mantener todo unido."
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "¿Cómo sabe la comida espacial? ¿Es deliciosa?\n¿Es... maravillosa?"
+    },
+    {
+      "name": "Comentarista de Ciencia Espacial",
+      "text": "Sabes, creo que en realidad se ha vuelto bastante\ndeliciosa. Hay muchos investigadores buscando cómo\nhacer que la comida espacial sea más sabrosa para\nlos astronautas."
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "¡Maravilloso! ☆ ¡Así como tu comida, Akebono! ¡Tus\ndeliciosos platos también hacen que todos se\nsientan maravillosos!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Tienes toda la razón. Me pregunto si la comida\nespacial es hecha por personas que también quieren\nque otros disfruten de cosas ricas."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Ahora quiero aprender más sobre la comida\nespacial!",
+      "choice_data_list": [
+        "¿Quieres intentar hacer algo?",
+        "¡Compremos algo y probémoslo!"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "<i>¡Sí!</i> ¡Realmente quiero intentar hacer chanko\nespacial!"
+    },
+    {
+      "name": "Comentarista de Ciencia Espacial",
+      "text": "En ese caso, creo que ver algunos videos de\nastronautas comiendo comida espacial sería un buen\nmaterial de referencia. A menudo también reseñan\nla comida."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Inmediatamente vemos algunos videos durante\nnuestro descanso. Estoy agradecida de que tengan\nsubtítulos para que podamos verlos incluso en un\nlugar como este."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Guau. ¡Así que en el espacio, el agua se separa\nasí?! ¡Esto debe ser a lo que se refería el\ncientífico sobre el chanko esparciéndose por todos\nlados!"
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "¡Ooh! Cuando la comida está enlatada, el contenido\nse mantiene en su lugar incluso si la volteas.\n¡Maravilloso! Aunque esta cosa parece difícil de\nmezclar."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Sí, todo flota cuando no hay gravedad, así que\nsupongo que es imposible mezclar cualquier cosa...\n¡Cocinar en el espacio suena realmente difícil!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Guau... Esta astronauta acaba de decir que\nrealmente le gusta la comida japonesa, y es lo que\nmás espera en las comidas."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Apuesto a que se pondría muy contenta si pudiera\nprobar un poco de hot pot..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Voy a intentar crear una receta de chanko para\nastronautas! Si la hago y la subo a Umasta,\n¡quizás inspire a investigadores de comida\nespacial!",
+      "choice_data_list": [
+        "¡Qué gran idea!"
+      ]
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "¡Qué maravilloso! ☆ ¡Hagámoslo! ★ ¡Tenemos que dar\nlo mejor de nosotros para llevar el chanko al\nespacio! ☆"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Sí! ¡Imagina si algún día pudiéramos sentarnos y\ncompartir chanko con astronautas y\nextraterrestres!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Oh, ¡realmente lo están vendiendo! ¡Puedes comprar\ncomida espacial en la esquina de souvenirs!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Compramos las versiones de comida espacial de\narroz con curry y pollo estofado con miso para\nprobar en el campus."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Vale, vamos a probarlos ahora!"
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "¡El arroz con curry es maravilloso! ☆ Las especias\nson realmente intensas. ★"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "El pollo estofado con miso sabe bastante salado. Y\nrealmente han espesado el caldo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al parecer, la comida espacial está\nintencionalmente sobre-sazonada porque los\nentornos de gravedad cero adormecen el sentido del\ngusto de las personas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "También escuché que la comida espacial se produce\ncon contenido reducido de sal y mayor valor\nnutricional para hacerla más saludable para los\nastronautas."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "No tenía idea de que se pensara tanto al hacer\ncomida espacial... Realmente está hecha pensando\nen los astronautas..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "La gente trabajó <i>super</i> duro para crear estos\nsabores..."
+    },
+    {
+      "name": "Marvelous Sunday",
+      "text": "¿No es maaaravilloso cuando las cosas saben\ndelicioso? ☆★☆"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Sí. Y esto realmente me ha recordado que el sabor\nno es lo único que hace que la comida sea\ndeliciosa."
+    }
+  ]
+}

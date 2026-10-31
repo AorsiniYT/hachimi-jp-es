@@ -1,0 +1,333 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fine Motion",
+      "text": "Ah, ¡croquetas! ¡Mayday, Entrenador! ¡No tengo\nninguna croqueta!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Quería llevar a casa algunas de estas croquetas\ncrujientes por fuera y suaves por dentro como\nrecuerdo, pero no sé si hay tiempo.",
+      "choice_data_list": [
+        "Te enviaré algunas congeladas."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¿En serio? Entonces supongo que solo necesitaré\nalgunas para comer en el avión. ♪"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Disculpe. ¡Quisiera algunas croquetas, por favor!"
+    },
+    {
+      "name": "Capitana de Seguridad",
+      "text": "¡Apúrese, Su Alteza! ¡Corre el riesgo de perder su\nvuelo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El día que Fine Motion regresa a casa finalmente\nha llegado, pero ella está actuando igual que\nsiempre..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡No hay de qué preocuparse! Mi equipaje ya está\narreglado, así que si corro—",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ah, supongo que no podrás seguir el ritmo, ¿eh,\nEntrenador? ...Bueno, entonces apurémonos—¡después\nde que consiga mis croquetas, por supuesto!"
+    },
+    {
+      "name": "Vendedor",
+      "text": "Casi termino de preparar las chuletas de carne\npicada, así que ¿qué tal un par de frescas para el\ncamino?"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Eso sería espléndido! ♪"
+    },
+    {
+      "name": "Capitana de Seguridad",
+      "text": "¡Alteza!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Lo logramos! ¡Gracias a Dios! ♪",
+      "choice_data_list": [
+        "Aún así, tuvimos que correr al final...",
+        "Aún así, tuvimos que correr al final..."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ehe, supongo que fue un poco egoísta de mi parte.\n¡Solo quería correr un poco!"
+    },
+    {
+      "name": "Capitana de Seguridad",
+      "text": "Yo me encargaré de los trámites de embarque.\nEntrenador, ¿puedo dejar a Su Alteza con usted?",
+      "choice_data_list": [
+        "Por supuesto."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Hehe, parece que leyó mi mente..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Aún así, no estoy segura de que tengamos algo de\nqué hablar.",
+      "choice_data_list": [
+        "¿?!"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ya hemos pasado tantos momentos preciosos juntos.\nHemos hablado, hemos corrido... Compartí tanto de\nmí contigo."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "No queda nada más que decir en este punto."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Y por qué es eso? ¿Qué te impide charlar como\nsiempre lo haces?"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Groove! ¿Viniste a despedirme?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Sí. Había alguien más que planeaba traer, pero\nrechazó la idea rotundamente. Al parecer, está\n\"ocupada\"."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Hehe. Normalmente cede, ¿verdad?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "No lo sé... Oh. Desafortunadamente, parece que no\npodremos tomarnos nuestro tiempo con esta charla."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¿Qué quieres dec—"
+    },
+    {
+      "name": "Fans",
+      "text": "¡Fiiinne!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos giramos para ver un espectáculo\nimpresionante—una multitud enorme de fans se ha\nreunido para despedir a Fine Motion."
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Nunca olvidaré la forma en que corriste!"
+    },
+    {
+      "name": "Fan B",
+      "text": "¡Mantennos informados sobre lo que haces en tu\ntierra! ¡Te apoyaré no importa lo que hagas!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "...Debes estar contenta, Fine. Esta es la huella\nque dejas atrás."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...Sí, lo estoy.",
+      "choice_data_list": [
+        "Ha sido un verdadero placer, Fine."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Igualmente."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Gracias, Entrenador. Te has desempeñado\nadmirablemente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, con los vítores de sus fans como recuerdo,\nFine Motion regresa a casa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ha pasado algún tiempo desde ese día..."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Hmph, así que así es como lo lograste, ¿eh? Bueno,\nlo achacaré a un error de cálculo de mi parte."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...¿Qué? ¿Qué estás mirando?",
+      "choice_data_list": [
+        "¿Estabas viendo una carrera?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "No tengo que responder eso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Shakur anunció que había terminado de correr\nen el Arima Kinen. Sin embargo, no sé si realmente\npresentó el papeleo apropiado."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Oigo que tu antigua pupila ya se está haciendo\nun gran nombre en su tierra."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Recientemente recibí noticias de las actividades\nde Fine Motion desde que regresó a Irlanda. Parece\nque se incorporó a sus deberes inmediatamente\ndespués de llegar.",
+      "choice_data_list": [
+        "¿Has sabido de ella?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¡Ja, como si! Tú sabes cómo es.",
+      "choice_data_list": [
+        "¿La extrañas?",
+        "¿La extrañas?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿¡Qué!? Como si."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Tú eres el que la extraña. Puedo verlo escrito en\ntu cara.",
+      "choice_data_list": [
+        "¡Tienes razón! ¡La extraño muchísimo!"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Contrólate, ¿quieres?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Bueno... Supongo que entiendo un poco—"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Oh, ¿qué? ¿Cuándo se volvieron tan cercanos los\ndos?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Qué diablos--? ¡¿Tú?!",
+      "choice_data_list": [
+        "¿¡Fine Motion!?"
+      ]
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿Q-qué estás..."
+    },
+    {
+      "name": "Capitana de Seguridad",
+      "text": "¡Por favor, espere, Su Alteza! ¡Aún no ha\ncompletado sus trámites de re-matrícula!",
+      "choice_data_list": [
+        "¿¡Re-matrícula!? ¿Qué está pasando?!",
+        "¿¡Re-matrícula!? ¿Qué está pasando?!"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Hehe... ¡Sorpresa! ¡Vuelvo a la academia!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¿¡¿Qué?! Pero ¿qué hay de tus supuestos deberes?!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Esos deberes son precisamente lo que me trae de\nvuelta! ¡Me han asignado recientemente al puesto\nde Embajadora de Buena Voluntad Japón-Irlanda! ♪"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Voy a tender un puente entre Japón e Irlanda! Y\nse consideró que era adecuada para el rol\nbasándome en todos mis logros aquí."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Y así, me estoy re-matriculando en la Academia\nTracen y llevando a cabo mis deberes en Japón\nmientras asisto.",
+      "choice_data_list": [
+        "Entonces, eso significa..."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Sí, puedo competir en la Serie Twinkle otra vez y\ncorrer con todos!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "...Pfft!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Aja... ¡Ahajaja!"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Ya veo. Así que las cosas sí cambiaron después de\ntodo."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Entonces, tampoco necesito rendirme.¡Cambio de\nplanes! Olvida la jubilación, ¡voy a arrasar con\n<i>toda</i> la competencia!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Oh, ¿ya te vas? ¿No necesitas mis datos?"
+    },
+    {
+      "name": "Air Shakur",
+      "text": "¡Ja! Guárdalos. Cualquier dato que recoja sobre ti\nahora no tendría valor."
+    },
+    {
+      "name": "Air Shakur",
+      "text": "Si realmente quieres correr conmigo pase lo que\npase, entonces ven a buscarme, idiota."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "...¡Okay!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "En resumen, ¡he vuelto! ♪"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Aunque esto se siente un poco vergonzoso después\nde separarnos de una manera tan grandiosa..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Pero nada de eso realmente importa... Solo quería\ncorrer tanto que no había otra opción."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ahora, me gustaría cumplir mi nuevo\ndeber—convertirme en un puente entre Japón e\nIrlanda—¡contigo!"
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Ahora bien, si fueras tan amable... ¿serías mi\nentrenador una vez más?",
+      "choice_data_list": [
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Jeje! ¡Gracias!",
+      "choice_data_list": [
+        "¡Bienvenido de vuelta, Fine!"
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "¡Qué bueno estar en casa, Entrenador! ♪"
+    }
+  ]
+}

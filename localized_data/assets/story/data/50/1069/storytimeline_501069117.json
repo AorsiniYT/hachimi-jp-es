@@ -1,0 +1,457 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El campamento está a la mitad, y actualmente estoy\ntomando los tiempos de Sakura Chiyono O, como\nprometí que haría antes de que comenzara el\ncampamento de verano."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "<i>Haa... Haa...</i> ¿Cuál fue... cuál fue mi tiempo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Miro las notas en mi tablero y comparo su tiempo\nmás reciente con los tiempos pasados que he\nregistrado para ella."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Logré un nuevo récord personal?! ¿Acaso soy\nincluso más rápida que en la primavera?!",
+      "choice_data_list": [
+        "Es más o menos igual que al final del año pasado."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Oh, ya veo..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Ajaja... Es más difícil mejorar de lo que pensé..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Chirrido... Crujido...</i>"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Es esa sensación otra vez..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Se siente como si me estuviera debilitando. Como\nsi empezara a desmoronarme... Siento como si nunca\npudiera volver a ser como antes..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Tengo miedo."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Si corriera contra Maruzen como soy ahora..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Maruzen probablemente estaría corriendo en la\npunta completamente sola, mientras yo la estaría\nobservando desde el pelotón."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Nadie podría alcanzarla. Pero cuando ella doblara\nla tercera curva, yo cargaría hacia adelante!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Gradualmente aumentaría a mi velocidad máxima, y\nla distancia entre Maruzen y yo disminuiría\nlentamente."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Luego llegaríamos a la recta final—y sería\ncuestión de velocidad pura! Exprimiría cada gota\nde fuerza en mí y me adelantaría para perseguir a\nMaruzen!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Maruzen me echaría una mirada! ¡Me desafiaría a\nun duelo uno contra uno! Y yo empujaría tan fuerte\ncomo pudiera!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Y en el momento en que intentara dar mi siguiente\nzancada... mis piernas me fallarían."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Chirrido... Crujido!</i>"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "No importa cuánta fuerza intente reunir, mi cuerpo\ndébil y que se desvanece no podrá aferrarse a\nella... Uno por uno, los otros corredores me\npasarán..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Y no la alcanzaré."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Ngh... No hay manera de que pueda ser su rival,\n¡no como soy ahora!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sakura Chiyono O y yo estamos a punto de comenzar\nel entrenamiento, pero ella tiene una expresión\ninusualmente oscura en su rostro.",
+      "choice_data_list": [
+        "¿Estás bien?",
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡S-sí! No es nada que afecte el entrenamiento de\nhoy, así que no te preocupes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Woooo!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Eso... es una multitud?"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡Chiyono O! ¿Viniste a observar el partido\ntambién?"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡Ardan y Bamboo están compitiendo entre sí!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "<i>Haa... Exhala...</i>"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "Eso fue algo... ¿Cómo lograste recuperarte tan\nrápido?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "(Ardan ganó. Bamboo está en su máximo pico, pero\nArdan logró derrotarla, a pesar de que solo acaba\nde recuperarse...)"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¡Chiyono O!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Eh, felicidades, Ardan."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Muchas gracias. Me alegra estar de vuelta."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Ese sentimiento de arrepentimiento que me\nmostraste... ese apasionado deseo de no perder...\nme impulsó y me trajo hasta este punto."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Jeje. Eso es toda una hazaña, Ardan. Sin embargo,\ncomo seguro sabes, Chiyono O no será derrotada tan\nfácilmente."
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Habiendo corrido contra ella, soy muy consciente\nde su fuerza. Y como tal, no perderé en el Tenno\nSho de otoño."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Oh, ¡no sabía que correrías en él! ¿Tú también\nestarás allí, Chiyono?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Ehm... Sí, estaré."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Entonces, si yo también entro en el Tenno Sho de\notoño, será como el Derby. Los tres podemos correr\ncontra una vez más!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Oh..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "(Debería reconocer ese sentimiento. Yo me sentí de\nla misma manera después del Derby.)"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Cuando finalmente crucé la línea de meta, me\nencontré deseando que la carrera hubiera durado\nmás."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Quería luchar por el liderato con Yaeno y Ardan\npara siempre. Quería seguir corriendo hasta que\nlas estrellas se quemaran."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Pero..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "<i>Haa... Haa...</i> ¡Finalmente... se acabó!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "A medida que mi cuerpo me detiene... se siente\ncomo si incluso estuviera arrancando esos\nsentimientos de mi agarre..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...¿Chiyono O?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "(Ardan es exactamente igual que antes de tomar su\ndescanso.)"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Odio esto.",
+      "choice_data_list": [
+        "Chiyono O?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "(Yaeno tampoco está en declive. No soy como\nellos.)"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Odio esto... Odio esto."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "(Ya no soy la Sakura Chiyono O que corrió en el\nDerby...)"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Odio esto tanto!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "¡¿Chiyono O?!"
+    },
+    {
+      "name": "???",
+      "text": "Todos, por favor denme un segundo. Déjenme hablar\ncon ella.",
+      "choice_data_list": [
+        "Oh. Eres tú...",
+        "Oh. Eres tú..."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Por qué? ¿Por qué no puedo—"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "???",
+      "text": "Uf, ¡finalmente te alcancé! Solo seguías cargando,\n¿verdad?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Maruzen? ¿Por qué estás aquí?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Jejeje! Porque te he estado observando, ¡por\nsupuesto! Siempre te tengo en la mira."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "De todos modos, confundiste a todos allí, saliendo\ncorriendo de repente en medio de hablar con tus\namigas así. Chiyo..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...No estarás pasando tu pico, ¿verdad?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Eh?! ¿Cómo sabes eso?!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Mmm... Es solo una sensación, supongo. Ya que yo\ntambién lo he pasado."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Estás mintiendo. De ninguna manera entiendes cómo\nme siento. Tú siempre—"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "..."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Maruzensky! ¿Es cierto que ganaste tu primera\ncarrera de prueba en mucho tiempo por siete\ncuerpos?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Te vi correr. Volviste de tu descanso como si no\nfuera gran cosa."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Eres increíble... Nunca has tenido que preocuparte\npor si estás en tu pico o no."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Sabía que eras especial. No eres como yo. Tienes\nun talento extraordina—"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Eso no es del todo correcto, querida."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Sientes que te estás perdiendo lentamente? ¿Como\nsi nunca pudieras volver a ser como antes?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Jeje. Di en el clavo, ¿verdad? Así es exactamente\ncomo me sentía, ya ves. También intenté volver a\nser como en mis días de gloria."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Pero simplemente no pude. Mi cuerpo nunca podrá\nvolver a la condición en la que estaba, y no puedo\ncorrer como lo hacía antes."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Pero..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Me siento bastante bien! Eso no fue tan malo. De\nhecho..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Incluso si ya pasé mi pico, voy a seguir corriendo\ncomo soy."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hay un fuego ardiendo dentro de mí, alimentado por\nel deseo de no perderle a mi rival—y esa eres tú,\nChiyo."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Jeje. Tener una rival es algo. ¡Nunca hubiera\nimaginado que odiaría tanto la idea de perder!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Una vez que un vaso se rompe, no puede volver a\nser como era. Sabía que no había esperanza de\nrestaurarlo."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Sabía lo que pasaba, pero eso no significaba que\ntuviera que aceptarlo tumbado. Así que seguí\nluchando y luchando hasta que me sentí como yo\notra vez."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Puede que no sea la misma \"yo\" que era antes, pero\npuedo decirlo con orgullo que no soy una corredora\nmenor."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ahora, querida Chiyo. ¿No arde tu corazón al verme\na mí, tu rival, parada frente a ti?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Maruzen..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Tú eres la que avivó esa emoción en mí."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Y he demostrado que puedes superar lo que sientes\nahora, siempre que ese sentimiento esté vivo y\nbien en ti."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ahora entonces, Chiyo."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hay una carrera de 2,400 metros en césped en Tokio\nesperándote... <i>Te</i> estaré esperando por ti. En la\nJapan Cup—nuestro Derby."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Nos vemos allí, mi preciosa rival!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...",
+      "choice_data_list": [
+        "¡Chiyono O!"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Entrenador."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Estás goteando sudor. ¿Corriste a toda velocidad\nhasta aquí?",
+      "choice_data_list": [
+        "No te preocupes por mí. ¿Estás bien?",
+        "No te preocupes por mí. ¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Ah! Lamento preocuparte. Pero..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "No voy a huir de la verdad nunca más."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Probablemente nunca vuelva a ser la corredora que\nera antes.",
+      "choice_data_list": [
+        "Chiyono O..."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "No... está bien. He decidido enfrentar la realidad\nde frente."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "No tienes nada de qué preocuparte, Chiyo. Yo no\ntengo duda de que podrás superar esto."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Puede que esté declinando gradualmente..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Pero aún hay cosas que debo hacer. Encontraré una\nnueva forma de librar mis batallas. ¡Tengo que\nhacerlo!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Porque no quiero perderle a mis rivales!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La luz parpadeante de la puesta de sol arde en los\nojos de Sakura Chiyono O, brillante con esperanza\ny aceptación."
+    }
+  ]
+}

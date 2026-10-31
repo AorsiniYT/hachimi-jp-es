@@ -1,0 +1,102 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mayano Top Gun",
+      "text": "Jeje... Realmente lo hice esta vez, ¿eh?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Aun así, el doctor de allí estaba exagerando\nmucho. ¡No <i>es tan </i>malo!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Volveré al entrenamiento en un abrir y cerrar de\nojos. Un golpe como este nunca afectaría a una\ndama li—"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Ay!",
+      "choice_data_list": [
+        "¿Estás bien?!"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "S-sí... Un adulto nunca admitiría que está en\ndolor, incluso si realmente lo está."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Así que nunca te diré si me duele."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "No soy una... niña débil.",
+      "choice_data_list": [
+        "Bien, entonces manejaremos esto como adultos.",
+        "No es débil admitir que estás en dolor."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Como adultos? ¿Quieres decir calmadamente?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Sí... Supongo que los adultos son bastante\ncalmados."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "...Lo entiendo. No estoy en dolor, pero seré un\nadulto responsable y descansaré tanto como pueda."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Aunque no duele... Ni un poco..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso, Mayano Top Gun puede descansar."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Pero Entrenador...",
+      "choice_data_list": [
+        "Lo más débil que podrías hacer es empeorar tu\nlesión presionándote demasiado."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Verdad! Supongo que tienes razón."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "...Pero realmente estoy bien. Solo duele un\npoquito. No creo que empeore—"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Urk! ¡Owwww!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mayano Top Gun finge estar bien, pero termina\ncostándole. Su lesión empeora y se ve obligada a\ndescansar durante unos días..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Um, en realidad duele un poco. Mi lesión, quiero\ndecir."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Pero no quiero dejar de entrenar contigo.",
+      "choice_data_list": [
+        "Podemos entrenar de nuevo después de que te\nrecuperes."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Recibido!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le toma un tiempo recuperarse de su lesión, pero\neventualmente vuelve a su horario normal."
+    }
+  ]
+}

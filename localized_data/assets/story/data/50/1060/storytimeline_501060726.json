@@ -1,0 +1,57 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras salía con Nice Nature..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Oye, ¿esos... son monadas?",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Acabo de ver los nuevos premios en esa máquina de\ngarras por allí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nice Nature señala una máquina de garras llena de\npeluches de Umamusume."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Vi la misma en una tienda del distrito comercial\nel otro día. Me impresionó bastante lo populares\nque son."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Solo llamó mi atención, nada más. No soy el tipo a\nquien le gustan las cosas monas, de todos modos.",
+      "choice_data_list": [
+        "Voy a ir a ganar uno.",
+        "Voy a ir a ganar uno."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Qué? No, está bien, ¡en serio!",
+      "choice_data_list": [
+        "Quiero conseguir uno.",
+        "Quiero conseguir uno."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Quieres uno tan desesperadamente? Tienes gustos\ninteresantes."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Bueno, estaré aquí mirando. ¡Buena suerte!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡No hay manera de que falle ahora!"
+    }
+  ]
+}

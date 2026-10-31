@@ -1,0 +1,68 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Estoy saliendo a caminar por la tarde un día\ncuando de repente me encuentro con una Fuji Kiseki\nmuy sudorosa."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Entrenador?!",
+      "choice_data_list": [
+        "¿En qué estás?",
+        "¿En qué estás?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Bueno, verás... Estaba, eh..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Corriendo para quemar calorías extra...",
+      "choice_data_list": [
+        "¿Comiste mucho o algo así?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "He estado tan ocupada con las tareas del\ndormitorio últimamente que no he mantenido un\nhorario regular para las comidas, ves..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Me volví demasiado descuidada con mi dieta, así\nque cuando me pesé el otro día, bueno... Ahaha...",
+      "choice_data_list": [
+        "¿Por qué no me lo dijiste?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "No quiero que mis seguidores sepan que he estado\nentrenando extra."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Así que no dije nada para que no se enteraran...\nLo siento."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Así que, por favor, no le digas a nadie sobre\nesto.",
+      "choice_data_list": [
+        "No lo diré."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Genial! Voy a subir y bajar las escaleras cinco\nveces más. ¡Vamos a hacerlo juntos.",
+      "choice_data_list": [
+        "¿Tengo que hacerlo también?",
+        "¿Tengo que hacerlo también?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Sí! Ahora que estás al tanto de mi secreto, eres\nprácticamente mi cómplice. ♪"
+    },
+    {
+      "text": "Me uno al resto de sus ejercicios y ayudo a Fuji\nKiseki a volver a su peso regular."
+    }
+  ]
+}

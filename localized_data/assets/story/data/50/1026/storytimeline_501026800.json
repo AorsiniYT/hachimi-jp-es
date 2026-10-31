@@ -1,0 +1,278 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿Ya decidiste qué chocolates comprar? Puedo\nayudarte a encontrar algo adecuado si necesitas\nayuda."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Resulta que estaba revisando un evento de San\nValentín en mi día libre cuando Mihono Bourbon de\nrepente se acerca a mí.",
+      "choice_data_list": [
+        "¿Qué te trae por aquí?",
+        "¿Qué te trae por aquí?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Mis disculpas por no haber informado esto con\nantelación."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Actualmente estoy llevando a cabo mi tarea\ndesignada de servir como guía para este evento.",
+      "choice_data_list": [
+        "O sea, ¿básicamente este es tu trabajo de medio\ntiempo?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "En términos contractuales, eso es correcto. En\ncuanto a por qué estoy trabajando aquí..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al parecer, algunos de los trabajadores del evento\nestán llegando tarde debido al tráfico, así que\nEishin Flash decidió ayudar en la tienda de una\namiga."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mihono Bourbon se la encontró aquí y también le\npidieron que ayudara. Ella aceptó como una forma\nde devolverle el favor a Eishin Flash por su\nconstante apoyo."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Esta misión es imperativa para obtener\nconocimientos vitales y fondos para San Valentín."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿Podría recibir su aprobación para participar en\ntrabajo de medio tiempo exclusivamente hoy?",
+      "choice_data_list": [
+        "Claro, te notificaré a la academia."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Muchas gracias."
+    },
+    {
+      "name": "Mujer A",
+      "text": "Disculpe. Estoy buscando algunas trufas de\nchocolate. ¿Hay algunas que sean exclusivas de\neste evento?"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Afirmativo. Por favor, indique sus sabores\npreferidos."
+    },
+    {
+      "name": "Mujer A",
+      "text": "Mmm... Una caja con una variedad de sabores dulces\npara probar sería buena."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Búsqueda completada. Le recomendaría que revisara\nla tienda de allí. Sus trufas tienen un ganache\naterciopelado que se derrite en un sabor a leche."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "La tienda contigua ofrece una variedad de\ndiferentes sabores. Es la única que vende trufas\nfragantes y jugosas que contienen jugo de fruta\nreal."
+    },
+    {
+      "name": "Mujer A",
+      "text": "¡Guau! ¡Sabes mucho! Okay, creo que iré a esa\ntienda!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus sugerencias son sorprendentemente detalladas.\n¿Habrá probado los chocolates de cada tienda\nantes? Realmente puedo sentir su pasión por San\nValentín."
+    },
+    {
+      "name": "Personal de tienda A",
+      "text": "¡Perdón por llegar tarde! ¡Gracias por cubrirme en\nel último momento! Yo me encargo a partir de aquí,\nasí que puedes ir y firmar la salida."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Entendido. Misión completada. Mucha suerte."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Gracias por tu ayuda hoy, Bourbon. Eres un\nverdadero salvavidas."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Por cierto, ¿estás disponible después de esto?\nQuiero invitarte a un pastel por las molestias.\nPor supuesto, tu entrenador es bienvenido a\nunirse."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿Pastel? Gracias, pero no necesitas darme más\ncompensación, ya que ya recibí pago de la tienda.",
+      "choice_data_list": [
+        "Entonces, ¿qué tal si simplemente disfrutamos de\nun pastel juntos?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Eso... ¡sería aceptable! Los tres disfrutemos de\nun pastel juntos, entonces."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vamos a un café cercano, y tanto Mihono Bourbon\ncomo Eishin Flash piden el especial pastel de\nchocolate de San Valentín."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Aunque solo es enero, las decoraciones de San\nValentín ya están adornando todo alrededor. Está\nbien que podamos empezar a probar todo tipo de\nchocolates tan temprano."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Cada año por esta época, varios de mis amigos\nvienen a mí para aprender a hacer chocolates ellos\nmismos.",
+      "choice_data_list": [
+        "Ya se están preparando para San Valentín, ¿eh?",
+        "Ya se están preparando para San Valentín, ¿eh?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sí, aquellos que no están acostumbrados a hacer\npostres a menudo necesitan practicar varias veces\npara que salgan bien."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Flash, tengo una pregunta sobre chocolates caseros\nque quizás tú puedas responder."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Los chocolates caseros son inferiores a los\npreparados por chocolateros profesionales en todos\nlos aspectos."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Creo que requieren algo único para diferenciarlos\nde los comprados en tiendas, pero ¿qué sería\napropiado agregar?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Para algo único, creo que sería suficiente verter\ntu corazón en el chocolate mientras los haces."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Buscando... No se encontraron resultados. ¿Cómo se\nvierte su 'corazón' en el chocolate?",
+      "choice_data_list": [
+        "Supongo que cuánto tiempo dedicas a decidir los\nchocolates también cuenta."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le explico cómo debatir sobre los chocolates\ncorrectos para darle a alguien es una forma de\nmostrar el 'corazón'."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Además, hacer dulces desde cero toma mucho tiempo\ny esfuerzo. Eso en sí mismo es algo que el\nreceptor seguramente apreciará."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Reconstruyendo hipótesis. El elemento único que\ndiferencia los productos caseros es la inclusión\nde 'corazón,' que consiste en tiempo y esfuerzo."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Eso es. Los pensamientos y sentimientos vertidos\nen los dulces caseros tienen un valor inherente\nque no está presente en los productos comprados en\ntiendas."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Ya veo. Eso fue muy educativo."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Leí un artículo el otro día sobre productos\ncaseros que me confundió, pero esta discusión ha\ndisipado mis preocupaciones."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Ahora tengo una comprensión más profunda de San\nValentín. Muchas gracias por tus respuestas y\nconsejos."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Oye, Bourbon. ¿Terminaste el trabajo? Ya terminé\nde comprar."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Sí. Hora de proceder con nuestra salida después\ndel trabajo. Espera un momento mientras me cambio."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Entendido. Bueno, oye, ¿tú también estás libre,\nEntrenador?",
+      "choice_data_list": [
+        "Sí, supongo que sí."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Genial! ¡Tenemos un patrocinador! Muy bien,\n¡vamos! ♪"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Okay, aquí están todos los chocolates que pediste."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tosen Jordan cubre la mesa con varias cajas de\nchocolates de diferentes tiendas y empieza a\nabrirlas todas.",
+      "choice_data_list": [
+        "¿Todos estos son regalos de San Valentín para\npersonas?",
+        "¿Todos estos son regalos de San Valentín para\npersonas?"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "No, son para nosotras. San Valentín es como la\nmejor época del año para probar chocolates\nelegantes!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Jordan puede recopilar una gran cantidad de\ninformación sobre chocolate a través de su red de\namistades. Estos datos son vitales para\nseleccionar chocolate."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Como yo también deseaba acceder a esta\ninformación, le sugerí a Jordan que hiciéramos una\ncompra conjunta de una amplia selección y las\ncompartiéramos."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Bourbon es estricta cuando se trata de elegir\nchocolates para amigos, y yo puedo probar todo\ntipo de dulces mientras ella lo hace, ¡así que es\nuna situación ganar-ganar!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Ahora entonces, comencemos a probar.",
+      "choice_data_list": [
+        "¿Las estás probando para ver cuáles conseguir?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Afirmativo. Las experiencias de primera mano\nforman los datos más confiables."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "<i>Munch, munch...</i> Veredicto: delicioso. Su sabor a\ncaramelo debería ser compatible con la mayoría de\nlos paladares."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Omigosh! ¡Este está <i>tan</i> rico! Aquí,tú pruébalo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me ofrecen un chocolate oscuro que se ve rico. Le\ndoy un mordisco, y mi boca se inunda con una\namargura deliciosa y distintiva.",
+      "choice_data_list": [
+        "Está bueno. Me gusta que no sea demasiado dulce."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Estado: 'sorpresa.' Así que este es el tipo de\nchocolate que prefieres..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Las opciones populares de chocolate típicamente\ncontienen niveles elevados de azúcar. Tu\npreferencia por chocolate que carece de dulzura no\nfue anticipada."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Como no he tenido mucho chocolate amargo antes,\ndebo ampliar mi paladar de inmediato. Empezaré con\neste chocolate amargo aquí."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "<i>Munch, munch...</i> Veredicto: 'satisfactorio.' Aunque\namargo, detecto un toque de dulzura. Me pregunto\ncómo se comparará este?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Oye, solo me pregunto, ¿querías darte un atracón\nde chocolates o algo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿La 'investigación de regalos' de Bourbon era solo\nuna fachada? Viendo su cara llena de chocolates,\nno puedo evitar pensar que Tosen Jordan dio en el\nclavo."
+    }
+  ]
+}

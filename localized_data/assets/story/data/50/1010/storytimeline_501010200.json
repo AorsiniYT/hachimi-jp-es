@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Por fin, es hora de la carrera debut de Taiki\nShuttle."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Yujuu! ¡No puedo creer que hoy debute!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Ha sido mucho tiempo esperando—¡desde el momento\nen que puse un pie en Japón!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Y para colmo, ¡tengo un nuevo sueño!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Quiero ser Umamusume del Año! ¡Mejor creé que\npondré el trabajo para que eso suceda!",
+      "choice_data_list": [
+        "¡Dale todo lo que tienes!",
+        "¡Dale todo lo que tienes!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Por supuesto! ¡Voy a destrozar la pista y llegar\na la cima!"
+    }
+  ]
+}

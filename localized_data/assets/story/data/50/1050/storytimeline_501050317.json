@@ -1,0 +1,86 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "En el Gran Premio de fin de año—el Arima Kinen—,\nen la cima de todos estos increíbles corredores\nclásicos y seniors está..."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Narita Taishin! ¡Ella ha obtenido la victoria con\nsu sprint final increíblemente poderoso!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Yeeeaaahhh!"
+    },
+    {
+      "name": "Madre de Taishin",
+      "text": "¡Taishin! ¡Mi Taishin!"
+    },
+    {
+      "name": "Madre de Taishin",
+      "text": "Querida... Mira lo fuerte que eres. ¡Mira lo\nfuerte que te has vuelto!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Lo logré."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Lo logré de verdad!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Wooooo! ¡Taishiiiiin!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Realmente lo lograste!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Huh? Espera... ¿Ticket? ¿Hayahide?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Winning Ticket levanta a Narita Taishin sobre sus\nhombros—con Biwa Hayahide prestando una mano firme\nen su espalda para evitar que se caiga."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con la cabeza más alta que la de cualquier otro,\nNarita Taishin se deleita con los atronadores\naplausos y los vítores atronadores que parecen no\nterminar."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡En serio! ¡Ustedes! ¡Ugh!",
+      "choice_data_list": [
+        "Gran trabajo, Taishin."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Oh..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Me viste?",
+      "choice_data_list": [
+        "Claro que sí."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Fui rápida?",
+      "choice_data_list": [
+        "¡Fuiste la más rápida de todas!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Sí? Bueno."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Jeje."
+    }
+  ]
+}

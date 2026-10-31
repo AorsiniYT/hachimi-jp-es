@@ -1,0 +1,39 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Special Week",
+      "text": "Uy... Logré quedar entre los primeros, pero no\npude quedar en primer lugar..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Supongo que el muro del Derby era un poco\ndemasiado alto para que yo lo superara...",
+      "choice_data_list": [
+        "¡Pero corriste de maravilla!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Entrenador..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Sí, di todo lo que tenía... Puedo sentirme\norgulloso de eso."
+    },
+    {
+      "name": "Special Week",
+      "text": "Y ahora, voy a usar mi experiencia de hoy para\nvolverme aún más fuerte!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Algún día, haré que obtengas un título que sea más\ngrande y mejor que incluso \"entrenador de Derby\"!",
+      "choice_data_list": [
+        "¡Estoy ansioso por ello!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Eso significa que tengo que seguir entrenando!"
+    }
+  ]
+}

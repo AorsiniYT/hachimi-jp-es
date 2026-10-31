@@ -1,0 +1,319 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Mientras paseamos con Meisho Doto, pasamos por el\ndistrito comercial..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Eh? Hay bastante gente aquí. ¿Deberíamos...\nescaparnos?",
+      "choice_data_list": [
+        "No seas ridículo."
+      ]
+    },
+    {
+      "text": "No hay necesidad de salir corriendo. Yo voy y echo\nun vistazo por mi cuenta..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Primer premio: hamburguesa deluxe de zanahoria.\nSegundo: fardo de zanahorias. Tercer: una\nzanahoria."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡No dejen pasar esta oportunidad! ¡Tú allí, la\nUmamusume escondida atrás! ¿Te gustaría\nintentarlo?"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ah, es una rifa... Pero ¿qué hay dentro? Pensar en\nello me hace m-m-m-mí..."
+    },
+    {
+      "text": "No es como que haya algo malo dentro. Participamos\nen la rifa con nuestro único boleto."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Entonces, esta es la máquina de la rifa...\nIntentaré no apretar la palanca demasiado fuerte\npara que no se rompa y se desprenda."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "No te rompas. No te rompas... ¡Ya!"
+    },
+    {
+      "text": "Mientras ella repite su divertido deseo, ¡giramos\nsuavemente la palanca!"
+    },
+    {
+      "text": "Una pequeña bola de plástico cae de la abertura\ndel tambor..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Caramba! ¡Tenemos a un ganador del gran premio!\n¡Ven a recoger el cupón para tus vacaciones en\naguas termales! ¡Felicitaciones!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
+    },
+    {
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "Obtuviste: <itemname>"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿¡Quéeee!?"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "..."
+    },
+    {
+      "text": "Sin duda. Se ha desmayado."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡No puedo aceptar algo así de ninguna manera!",
+      "choice_data_list": [
+        "¿No quieres ir a las aguas termales?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "No puedo. No puedo, no puedo, no pueeedo.\nAdemás... tengo montones de carreras que correr,\ny..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Cómo voy a aceptar algo tan maravilloso?! Soy un\ndesastre andante, siempre arruinando las cosas."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Y, prometo que hay una buena razón por la que\nrealmente no puedo ir."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Sé que perderé el boleto si lo guardo. Podría\nperderlo hoy mismo."
+    },
+    {
+      "text": "...No está equivocada en eso. Es muy posible que\npierda el boleto antes de que nuestro horario se\nasiente.",
+      "choice_data_list": [
+        "¿Te gustaría que yo lo guarde seguro?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Eh, tú... lo harías?"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Vale. Sé que estará seguro en tus manos, a\ndiferencia de las mías."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Entonces... Eh... Te lo confío. O..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "No me importa si al final lo usas. Es demasiado\nlujo para mí, de todos modos."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Estoy lo suficientemente feliz solo con haberlo\nsacado."
+    },
+    {
+      "text": "No puedo usar este boleto con la conciencia\ntranquila. Lo guardaré como un pequeño regalo para\nMeisho Doto."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Recibes una hamburguesa\nde zanahoria de lujo!"
+    },
+    {
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "Obtuviste: <itemname>"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿U-un filete de hamburguesa de zanahoria <i>deluxe</i>?\n¡Sacamos algo increíble!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Entrenador, yo podría... ¡Yo!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Uf... Estoy llena...",
+      "choice_data_list": [
+        "¡Ni siquiera has dado el primer bocado?!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Bueno, es que... Estoy satisfecha solo con este\nresultado maravilloso."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Jeje, es genial haber probado la rifa con alguien.\nNo creo que hacerlo sola fuera tan divertido."
+    },
+    {
+      "text": "Parece que Meisho Doto no tiene mucha suerte con\nlas rifas."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Eh... ¿Me permitirías tener esta hamburguesa\ndespués de nuestro paseo?",
+      "choice_data_list": [
+        "Por supuesto."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh, vaya... <i>Y</i> además como algo delicioso. Esto me\nhace tan feliz."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Que bien... Estoy realmente tan feliz de haber\nsalido juntos, Entrenador. ♪"
+    },
+    {
+      "text": "Al final, compartimos la deliciosa hamburguesa,\ndisfrutando de un momento maravilloso juntos."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te vas a casa con un montón de\nzanahorias!"
+    },
+    {
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "Obtuviste: <itemname>"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Guau... Mira, Entrenador, hay montones y montones\nde zanahorias. ♪"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Con estas deberíamos estar bien! Que\nreconfortante.",
+      "choice_data_list": [
+        "¿Reconfortante?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Eh? Ummm, no quiero decir nada importante con\neso..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Si tienes mucho de algo, siempre puedes rehacer\nlas cosas cuando metes la pata."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Aunque, no es como que tenga algo especial en\nmente para usarlas."
+    },
+    {
+      "text": "Por lo que se ve, Meisho Doto se siente más\ntranquila teniendo muchas cosas en lugar de una."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ehehe, pero quizás esta es una buena oportunidad\npara intentar algo que normalmente me asusta."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Podría pelarlas o picarlas finamente para una\nensalada. ♪"
+    },
+    {
+      "text": "Meisho Doto y yo probamos varias formas diferentes\nde preparar las zanahorias. Después, disfrutamos\nde los muchos platos que preparamos."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Miren aquí! ¡Has ganado el tercer premio! ¡Aquí\nestá tu zanahoria!"
+    },
+    {
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "Obtuviste: <itemname>"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Una zanahoria... Ngh, lo siento mucho, Entrenador.\nEsto es todo culpa mía."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Si no fuera tan torpe y tuviera solo un poco más\nde suerte a mi favor..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Tendríamos dos zanahorias en su lugar!"
+    },
+    {
+      "text": "Esa es Meisho Doto, siempre poniendo la barra\nbaja. Sin embargo..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Señorita, no tengo un premio por dos zanahorias.\nEl grado de premio superior al tuyo ofrece mucho,\nmucho más."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Q-qué? ¿Mucho, mucho más?! ¿Es verdad?"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "No tengo oportunidad como estoy ahora. Uugh,\nvendré a intentarlo de nuevo cuando esté lista."
+    },
+    {
+      "text": "Meisho Doto y yo partimos la zanahoria por la\nmitad y la picoteamos todo el camino a casa."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Ohhh, mala suerte! ¡Parece que sacaste un boleto\nvacío! Toma este paquete de pañuelos como premio\nde consolación."
+    },
+    {
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "Obtuviste: <itemname>"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Pañuelos, mala suerte... premio de consolación..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Uf... Estoy decepcionada, pero algo aliviada al\nmismo tiempo.",
+      "choice_data_list": [
+        "¿Aliviada?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Bueno, sí... Debí haber sentido que esto era lo\nmejor que podía hacer, más o menos."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Estoy un poco tranquila, viendo que las cosas\nsalieron como siempre."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Pero, pero... Realmente no debería sentirme así,\n¿verdad? Esto no es como antes de mi debut."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Tengo que mostrar mi decepción. La próxima vez...\nLo conseguiré la próxima vez."
+    },
+    {
+      "text": "Por supuesto, ella no debería ser indiferente a\nsacar la paja más corta. Tomemos esta decepción\ncon deportividad."
+    }
+  ]
+}

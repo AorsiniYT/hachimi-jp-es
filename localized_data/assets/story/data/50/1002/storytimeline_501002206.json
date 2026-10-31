@@ -1,0 +1,75 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "¡El Tenno Sho de otoño finalmente ha llegado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incontables espectadores ansiosos por ver la\nvelocidad abrumadora de Silence Suzuka inundan el\nhipódromo para el evento de hoy."
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Me pregunto qué veremos de Suzuka hoy!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Apuesto a que es aún mejor de lo que fue en el\nMainichi Okan!"
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Definitivamente! ¡Ni siquiera me importa si gana\no pierde, solo quiero verla correr de nuevo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La emoción recorre la multitud mientras esperan\nque la carrera comience. En la sala de\npreparación, sin embargo, la tensión es palpable."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Entrenador, hay algo de lo que necesitamos hablar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella explica con calma, pero firmemente, que hay\nun dolor en su pierna, pero no permitirá que la\nsaque de la carrera."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...Pero aún quiero correr hoy.",
+      "choice_data_list": [
+        "(¿Qué hago en esta situación?)"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No estoy segura de qué depara el futuro."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Sin embargo, <i>podemos</i> superar nuestros límites. No\nhay nada más que hacer que creer en eso y\nsimplemente correr."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Volverás a confiar en mí solo una vez más? Justo\ncomo lo hiciste cuando empezamos a trabajar\njuntas?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No importa lo que pase, volveré contigo. Lo\nprometo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Puedo ver la fuerza en sus ojos.",
+      "choice_data_list": [
+        "...Está bien."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le digo que la estaré esperando en la línea de\nmeta, y ella responde con una sonrisa radiante."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le digo que la estaré esperando en la línea de\nmeta, y ella responde con una sonrisa radiante."
+    }
+  ]
+}

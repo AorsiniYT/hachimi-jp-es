@@ -1,0 +1,101 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Silence Suzuka ha sufrido una lesión, así que la\nhe traído a la enfermería."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Perdón por causar tantos problemas.",
+      "choice_data_list": [
+        "¿No deberías estar descansando?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Sí. Lo peor del dolor se ha ido. Creo que estaré\nbien con un poco de descanso."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Lo siento mucho..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Si hubiera sido más cuidadosa...",
+      "choice_data_list": [
+        "Solo concéntrate en descansar ahora mismo.",
+        "Solo concéntrate en descansar ahora mismo.",
+        "¡Recupérate pronto para que podamos volver a\nentrenar!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Si hubiera sido más cuidadosa...",
+      "choice_data_list": [
+        "Solo concéntrate en descansar ahora mismo.",
+        "Solo concéntrate en descansar ahora mismo.",
+        "¡Recupérate pronto para que podamos volver a\nentrenar!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Sí... Pero mis pobres piernas se aburrirán\ntanto..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>Suspiro...</i> Ya extraño la sensación del césped bajo\nmis pies."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Exacto!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Um, tengo una propuesta. He oído que el ejercicio\nligero es útil para la recuperación."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Crees que podría hacer un poco de trote ligero\npara ayudar a mi rehabilitación?",
+      "choice_data_list": [
+        "¡Mientras no te excedas!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Tendré cuidado. Me aseguraré de ir despacio."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>Suspiro...</i> Todavía falta un rato para que me\nsienta al 100%."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al intentar trotar mientras se rehabilitaba,\nSilence Suzuka ha interrumpido su proceso de\nrecuperación, alargando el período de tratamiento\nnecesario."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Jeje. Empiezo a sentirme mucho mejor."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Podría volver a mi entrenamiento pronto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que trotar ha ayudado a acelerar la\nrecuperación de Silence Suzuka."
+    }
+  ]
+}

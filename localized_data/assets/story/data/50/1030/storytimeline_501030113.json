@@ -1,0 +1,212 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Rice Shower",
+      "text": "¡Guau! Tanta... gente... ¡Y todos tienen un brillo\nen los ojos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hoy, Rice Shower y yo estamos viendo el Tenno Sho\nde primavera.",
+      "color_text_info_list": [
+        "Tenno Sho de primavera"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una semana atrás, durante el entrenamiento..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Haa... resuello...</i>"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "<i>Haa... Haa...</i> Rice... espera..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Eh? ¿Q-q-qué es?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "(Esta es Sakura Bakushin O. Está en el mismo año\nque Rice Shower, y destaca en esprints.)",
+      "color_text_info_list": [
+        "Sakura Bakushin O"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Para serte honesta, tengo algunas\nresponsabilidades como representante de clase que\nse suponía debía atender, pero decidí correr\ncontigo en su lugar.",
+      "choice_data_list": [
+        "(No recuerdo que ella haya pedido una carrera en\npareja...)",
+        "(No recuerdo que ella haya pedido una carrera en\npareja...)"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Tu resistencia es increíble! Así que voy a hacer\nuna sugerencia!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Como corredora de larga distancia, quiero que\nvengas a ver el Tenno Sho de primavera conmigo!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Quieres ver el Tenno Sho... juntas?",
+      "color_text_info_list": [
+        "Tenno Sho"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Sí, juntas! Trabajar con mis compañeras de clase\npara ayudarlas a descubrir sus talentos ocultos es\nuna de mis deberes como representante de clase,\n¡después de todo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque no lo llamaría un talento \"oculto\", Sakura\nBakushin O tiene razón. Rice Shower tiene lo que\nse necesita para ser una fondista de larga\ndistancia."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y el Tenno Sho de primavera podría ser algún día\nuna meta suya.",
+      "choice_data_list": [
+        "Supongo que entonces iremos a Kyoto."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿E-estás segura?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Yay! ¡Me habría sentido muy sola yendo por mi\ncuenta! Además, ¡tenemos un presupuesto de snacks\nde 300 yenes!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "En realidad... se siente como si fuéramos a una\nexcursión. Jeje, ¡me estoy emocionando!"
+    },
+    {
+      "name": "Locutor",
+      "text": "Tomando la cuarta curva con 600 metros restantes\nhasta la meta, la líder es... ¡Mejiro McQueen!",
+      "color_text_info_list": [
+        "Mejiro McQueen"
+      ]
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Vamos, McQueen! ¡Haz que coman tu polvo!",
+      "color_text_info_list": [
+        "McQueen"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Guau! ¡Esto está reñido! Voy a buscar un mejor\nángulo."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Mejiro McQueen está ampliando su ventaja! No\nimporta cuán duro corran las corredoras detrás de\nella..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡No pueden alcanzarla! ¡Nadie puede acercarse a\nella!"
+    },
+    {
+      "name": "Locutor",
+      "text": "En una demostración de velocidad increíble, Mejiro\nMcQueen cruza la meta en primer lugar! ¡Qué\nespectáculo!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Felicitaciones! ¡Buen trabajo, McQueen!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Gracias a todos! Es gracias a su apoyo que logré\nasegurar la victoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...",
+      "choice_data_list": [
+        "Estabas al borde de tu asiento, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Sí... Ella fue increíble. Tan hábil... y tan\nradiante!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Cuanto más corría McQueen, más sonreía todo el\nmundo..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Ella es como la rosa azul del libro de imágenes!",
+      "choice_data_list": [
+        "La rosa azul..."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Sí, ¡la rosa azul que trae felicidad a todos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rice Shower emocionadamente relata la historia de\n<i>La Rosa Azul de la Buena Fortuna.</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En un jardín lleno de rosas, un solo botón de rosa\nazul de repente floreció."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nunca antes había habido una rosa azul, y la gente\nle temía. La llamaron la \"flor de la mala suerte\"\ny se mantuvieron a distancia."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero un día, alguien compró la rosa. \"¡Pero esta\nrosa azul es simplemente magnífica!\" exclamaron."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Entonces él—el Hermano Mayor—colocó la rosa azul\nen su repisa de la ventana, y floreció tan\nhermosamente..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Entonces ella—la Hermana Mayor—colocó la rosa azul\nen su repisa de la ventana, y floreció tan\nhermosamente..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Que la gente que pasaba sonreiría desde el fondo\nde sus corazones cuando la veían."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Bueno, McQueen siempre ha sido muy querida, así\nque no es exactamente lo mismo."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pero... Quiero ser así. Quiero ser alguien que\ntraiga felicidad en lugar de desgracia.",
+      "choice_data_list": [
+        "Tú <i>puedes</i> ser esa persona."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Jeje. No tienes que intentar animarme."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pero, si es posible... <i>me gustaría</i> serlo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vemos a Mejiro McQueen un rato más y luego nos\nvamos a casa."
+    }
+  ]
+}

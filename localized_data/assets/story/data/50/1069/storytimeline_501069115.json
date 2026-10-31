@@ -1,0 +1,412 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El Derby Japonés está a pocos días y Sakura\nChiyono O ha estado trabajando duro, impulsada por\nsu intensa pasión por la carrera."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "\"¡Pelar como quieras, las capas de una cebolla son\ninfinitas\"! ¡Todavía tengo tantas cosas que hacer!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Pero si me mantengo en este camino y no me desvío\nde él, estoy segura de que podré alcanzar a\nMaruzen algún día!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Otro día..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡E-Entrenador! ¡Escucha esto, escucha esto!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Maruzen me invitó a correr en una carrera de\npráctica contra ella!",
+      "choice_data_list": [
+        "¡Guau, eso es genial! ¿Cuándo será?",
+        "¡Guau, eso es genial! ¿Cuándo será?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿E-eh?! Oh, ¡es este fin de semana! Espera, ¿por\nqué estás tan entusiasta con eso?",
+      "choice_data_list": [
+        "Es tu sueño correr contra ella, ¿verdad?",
+        "Es tu sueño correr contra ella, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Entonces, cuando... cuando eso pase, cuando sea\nmás fuerte... ¿Correrás conmigo de nuevo?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Jaja! ¡Por supuesto!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Sí. Siempre ha sido mi sueño."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Ella siempre ha sido a la que quiero convertirme,\na la que admiro, a la que quiero estar lado a lado\nporque es mi rival."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Desde ese día, Sakura Chiyono O comienza a\ninvestigar cómo vencer a Maruzensky."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "El Asahi Hai Futurity Stakes es un buen lugar para\nempezar cuando se trata de analizar las carreras\nde Maruzen."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Solo mira su velocidad e increíble sentido de\ncarrera. Y esa sonrisa de deleite que tiene cuando\nestá..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Eh? Pero..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "(¿Por qué la carrera de Maruzen se ve—)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "De repente, escuchamos un grito frustrado resonar\npor los pasillos."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Eh?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La fuente del alboroto es Sweep Tosho, una\ncorredora que sueña con convertirse en bruja como\nsu abuela, y el Sr. C.B., un campeón de la Triple\nCorona."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Ya te lo dije! ¡La abuela dijo que no hay\nmedicina así!"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Entonces déjame hablar directamente con esta\nabuela tuya. No porque dude de ti, por supuesto.\nRealmente creo en sus habilidades. Es por eso que\nquiero hablar."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Bueno, qué lástima! ¡Es mi abuela, no la tuya!"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "...Eso salió mal."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Disculpe, C.B.?"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Si estás aquí para regañarme por todo el ruido, no\nhay necesidad. Ya terminé mis asuntos... ¿Oh?"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "¿Sakura Chiyono O? ¿Vas a correr con Maruzen este\nfin de semana, ¿verdad?"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Dime algo... ¿tienes que correr contra ella <i>ahora?</i>\n¿No puedes posponer esa carrera para un momento\nposterior, quizás?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Eh? ¿De qué estás hablando?"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Solo... no puedo aceptar esto. Extraño al Hot Rod\ny he estado esperando a que cambie a marcha una\nvez más."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Y te lo digo ahora, Chiyono O. Tu deseo nunca se\nhará realidad."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...¿Estás diciendo que nunca podré vencer a\nMaruzen?"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "No, no es lo que quiero decir. Hay algo incluso\nmás importante para ti y Maruzen que eso."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Quieres ser como Maruzensky, ¿verdad?"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Pero ¿eso significa que quieres reemplazarla?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡N-no! ¡Maruzen es Maruzen! ¡Nadie puede\nreemplazarla!"
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Bueno, si ese es el caso, no continuaría por este\ncamino que estás tomando. Vivirás para\narrepentirte."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Maruzen nunca será tu rival. Simplemente te dejará\nen el polvo—te abandonará."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "...Junto con todo su equipaje personal. ¿Segura de\nque quieres eso?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Eh... Lo siento, no entiendo realmente lo que\nestás diciendo..."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "No, creo que sí. Seguramente has notado esa mirada\nlejana en los ojos de la Bestia."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...!",
+      "choice_data_list": [
+        "Oye, no eres...",
+        "Oye, no eres..."
+      ]
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Lo siento, Sr. Entrenador. Esto es algo que solo\nlos corredores pueden comprender. Al igual que hay\ncosas que solo nuestros seguidores pueden\nentender."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "Lo siento, Sra. Entrenador. Esto es algo que solo\nlos corredores pueden comprender. Al igual que hay\ncosas que solo nuestros seguidores pueden\nentender."
+    },
+    {
+      "name": "Mr. C.B.",
+      "text": "La respuesta no es algo que puedas buscar,\ntampoco. Si ella no tiene una respuesta ahora,\nnunca la tendrá."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Finalmente, el día de la carrera de práctica de\nSakura Chiyono O y Maruzensky llega."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Chiyo, gran trabajo en el Derby! ¡Has mejorado\nmuchísimo!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Vamos, entonces! ¡Corramos! Esto será un Derby\npara solo tú y yo. ♪"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Bien."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "(Y ahora, mi esperada carrera de práctica con\nMaruzen comienza...)"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Es hora de quemar caucho!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "(El Hot Rod está justo frente a mí, sus increíbles\npiernas yendo tan rápido, que se ven como si\nestuvieran cortando el aire en pedazos.)"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Es rápida. Pero hoy, yo—"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "(Recuerda el Derby. Recuerda cómo se sintió\ncompetir contra tus rivales, correr con toda la\nfuerza que tienes!)"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "(Siente su intensa determinación en tu piel, y—)"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Haaaaah!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Sí, exacto."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Sigue corriendo y corriendo hasta que me alcances.\nSi lo logras, entonces te daré un último regalo..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Así que adelante, vuela más allá de mí, ¡Chiyo!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...¿Eh?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "(Oh... Creo que ahora sé lo que C.B. estaba\ndiciendo.)"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Chiyo?! ¿Qué pasa? ¿Te duelen las piernas?!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Estoy bien. Maruzen..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Uf. Menos mal. Me preocupaba que te hubieras\nlesionado. Pero, por Dios, ¿por qué te detuviste\njusto en medio de una carrera?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Maruzen, tú..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "No tienes miedo de perder contra mí, ¿verdad?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...¿Chiyo?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "He estudiado todas tus carreras. Las revisé todas\npara prepararme para este entrenamiento."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Y me di cuenta de algo mientras las revisaba."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Tengo la sensación de que nunca te has sentido\ndesesperada en una carrera. Nunca has tenido miedo\na perder."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Maruzen... Es increíble cómo cambia tu vida cuando\ntienes rivales. Puedes trabajar y correr más duro\nde lo que nunca pensaste posible."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Mis rivales son la razón por la que he podido\nvolverme tan fuerte. Me hacen correr con todo lo\nque tengo."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Pero..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Maruzen, ¿qué soy yo para ti?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Bueno, eres... Eres mi pequeña y linda novata que\nme admira..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Sí. He querido ser como tú desde siempre. Pero es\nmás que solo querer ser como tú."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Quiero convertirme en una Umamusume tan fuerte y\nespecial como tú..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Y quiero ser tu rival!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Chiyo..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Pero no hay fuego en tu corazón. Es como si ya te\nhubieras rendido. Como si perder aquí fuera\nexactamente el resultado que buscas."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Bueno, eso es—"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Está bien. Solo tendré que trabajar duro hasta\nconvertirme en alguien digno de desafiarte."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Hasta que sea digna de ser tu rival."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Si llego a ese punto y aún no sientes miedo de\nperder contra mí, entonces simplemente trabajaré\naún más duro."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Te obligaré a esforzarte más que nunca solo para\nmantenerme a mi altura. Encenderé los motores que\nnunca antes has usado."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Incluso si dices eso, es demasiado tarde. Ya he—"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡No quiero que las cosas terminen así!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Yo... Yo sé lo fantástico que es correr con toda\ntu alma y ser, y quiero que tú también corras de\nverdad."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Por favor, obsérvame, Maruzen. Pero no me veas\ncrecer, obsérvame <i>correr.</i>"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Maruzensky, juro que yo, Sakura Chiyono O, seré tu\nrival!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Chiyo..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Entrenador, tengo un favor que pedirte para\nnuestra próxima carrera objetivo.",
+      "choice_data_list": [
+        "¿Qué quieres correr a continuación?",
+        "¿Qué quieres correr a continuación?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "No quiero correr solo contra corredores de año\nclásico. Quiero correr en el Tenno Sho de otoño y\nenfrentar mi velocidad también contra corredores\nmayores.",
+      "color_text_info_list": [
+        "mayores"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Ahí es donde encenderé ese fuego en el corazón de\nMaruzen."
+    }
+  ]
+}

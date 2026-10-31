@@ -1,0 +1,233 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estamos en medio del campamento de verano, Mejiro\nMcQueen y yo estamos entrenando en la playa."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Uf. ¿Por qué no tomamos un descanso para\nrehidratarnos?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Hep... Haaah!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡Guau! ¡Tu saque es demasiado rápido! ¡Esto es\nimposible!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Eheheh, ¡un punto para mí! A este ritmo, ¡voy a\nganar seguro!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Son eso... Ryan y Dober?",
+      "color_text_info_list": [
+        "Ryan",
+        "Dober"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Están jugando voleibol de playa. Se ve divertido."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¿Qué, en serio?! ¿También estás interesada,\nMcQueen?",
+      "color_text_info_list": [
+        "McQueen"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "(Ines Fujin, una Umamusume cariñosa que se adapta\nperfectamente al papel de hermana mayor de todos.)",
+      "color_text_info_list": [
+        "Ines Fujin"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Oh, Ines! ¿Viniste aquí con ellos?",
+      "color_text_info_list": [
+        "Ines"
+      ]
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Sí. Estaba pensando en desafiar a Ryan en el\npróximo juego, pero..."
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "Ya que estás aquí, ¿por qué no te unes y hacemos\nun partido de dobles?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Estás segura?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Un poco de voleibol de playa parece útil para\nayudar a fortalecer mis piernas y mi núcleo... Muy\nbien, entonces."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Me encantaría unirme. Entrenador, volveré pronto.",
+      "choice_data_list": [
+        "¡Diviértanse!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro McQueen y Mejiro Dober contra Mejiro Ryan e\nInes Fujin."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Comienza una intensa batalla entre las dos\nparejas!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡Gah! ¡McQueen, la pelota!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Eh? ¡Ahh! ¡No llegaré a tiempo!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Woo-hoo! ¡Conseguimos otro punto!"
+    },
+    {
+      "name": "Ines Fujin",
+      "text": "¡Ryan, eres increíble! ¡Has anotado tantos puntos\npor tu cuenta!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El abrasador sol de verano cae sobre ellos\nmientras la batalla continúa..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "<i>Jad, jad...</i> Esto se está poniendo más difícil cada\nsegundo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Sí, el calor me agota más rápido de lo normal."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Además, la postura que requiere el voleibol lo\nhace aún más agotador."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "<i>Jad, jad...</i> Sí, definitivamente es cansado...\npero..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Esto es exactamente lo que me emociona!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Después de todo..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Hacer ejercicio siempre es mi objetivo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡PUM!</i>"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "...¡Sí! ¡Otro punto para mí!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿¡Qué!? No puedo creer que aún tengas energía para\ngastar en estas condiciones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Continúan jugando hasta que el sol finalmente se\npone."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>Suspiro...</i> Eso fue difícil.",
+      "choice_data_list": [
+        "Fue ciertamente una batalla feroz.",
+        "Fue ciertamente una batalla feroz."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Sí. Debí haber sabido mejor que jugar un juego de\npelota contra Ryan."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Aún así, ¿de dónde demonios saca esa fuerza\ncompetitiva?",
+      "choice_data_list": [
+        "¿De su fuerza física, tal vez?",
+        "Creo que es su pura fuerza de voluntad.",
+        "Creo que es su pura fuerza de voluntad."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Aún así, ¿de dónde demonios saca esa fuerza\ncompetitiva?",
+      "choice_data_list": [
+        "¿De su fuerza física, tal vez?",
+        "Creo que es su pura fuerza de voluntad.",
+        "Creo que es su pura fuerza de voluntad."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Su fuerza física? Mmm..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "El entrenamiento con pesas de Ryan ciertamente va\nmás allá de la norma..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Pero si eso es cierto, ¿un poco más de tiempo en\nel gimnasio no me ayudaría a mejorar mi fuerza\ncompetitiva también?",
+      "choice_data_list": [
+        "¿Deberíamos intensificar tu entrenamiento con\npesas?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Sí, ciertamente vale la pena intentarlo.\n¡Comencemos desde primera hora mañana!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, añado más entrenamiento con\npesas al régimen de Mejiro McQueen, como ella\npidió."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "F-fuerza de voluntad..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ya veo. Sí, de eso se trata todo, ¿verdad?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Muy bien, en ese caso, aprenderé de su ejemplo\ne intentaré mejorar mi propia fuerza de voluntad."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Dicho esto, no estoy segura de cómo debería\nempezar.",
+      "choice_data_list": [
+        "¿Por qué no empiezas prohibiéndote comer dulces?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿¡Qué!? Es cierto que eso probablemente\nfortalecería mi fortaleza, pero..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Por favor, déjame un tiempo para pensar!"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, veo a una Special Week con cara de\ndesanimada preocupada por su carrera."
+    },
+    {
+      "name": "Special Week",
+      "text": "<i>Suspiro...</i> No estoy segura de qué hacer."
+    },
+    {
+      "name": "Special Week",
+      "text": "No importa cuánto corra, siento que no puedo\nhacerlo bien."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Quizás es hora de un cambio de ritmo."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Oh, Fuji!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Pero, ¿cómo se supone que lo haga?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Si correr te tiene preocupado, entonces deberías\nhacer algo no relacionado."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Tal vez nadar, por ejemplo."
+    },
+    {
+      "name": "Special Week",
+      "text": "Nadar, mmm..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Sí. ¿Por qué no ponerte tu traje de baño favorito\ne ir a nadar?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Verás, un traje es como un interruptor que puede\nalterar tu estado de ánimo. Solo por hacer algo\ncon un atuendo diferente, sentirás un cambio en tu\nmentalidad."
+    },
+    {
+      "name": "Special Week",
+      "text": "Mi traje de baño favorito... Eso me recuerda,\n¡conseguí uno nuevo!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Me probé mi traje de baño! ¿Qué opinas? ¿Me queda\nbien?",
+      "choice_data_list": [
+        "¡Te ves genial!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Muchas gracias! Muy bien, ¡voy a darme un\nchapuzón!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Special Week va a nadar..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Increíble! ¡Logré un nuevo récord personal!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Debe ser el poder de mi nuevo traje de baño!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Je, me alegra ver que has cambiado tu día."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Lo hice! Se siente como... ¡Finalmente puedo\ntener una buena carrera!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Muy bien!",
+      "choice_data_list": [
+        "Tal vez quieras cambiarte de ropa primero..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Special Week sale corriendo antes de que pueda\ndetenerla."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Vamos, ya la escuchaste. ¿Por qué no te sientas y\nves cómo le va?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Yay, lo logré, Entrenador! ¡Logré un nuevo récord\npersonal!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Los trajes de baño son increíbles! ¿Quién hubiera\ndicho que podían darte <i>tanta</i> fuerza?"
+    },
+    {
+      "name": "Special Week",
+      "text": "<i>¡Ah!</i> ¿Crees que me daría el mismo impulso si\nintento hacer otras cosas?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Entrenador! ¿Qué crees que debería hacer?",
+      "choice_data_list": [
+        "¿Qué tal si intentas limpiar tu habitación?",
+        "¡Hagamos un buen estudio!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Limpiar mi habitación? ¡Entendido! ¡Voy a pasar\npor mi dormitorio un rato!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Oh, Fuji. Y tú debes ser el entrenador de Spe.\nBuen timing. Hay una situación un poco extraña en\nestos momentos..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Spe regresó usando un traje de baño, luego ella\nrepentinamente empezó a limpiar la habitación..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Jaja, bueno, sobre eso..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...No puede ser."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No entiendo. ¿Cómo... siquiera pasa esto?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Oh, Suzuka! ¡Terminé de ordenar todo! ¡Dejé el\nlugar impecable!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Los trajes de baño son increíbles! Me pregunto si\ndebería simplemente dejármelo puesto..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Quieres decir... ¡todo el tiempo?! Spe, creo que\nsería un poco raro... Por favor, ponte algo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es cierto. Ella no puede ir sobre sus asuntos\ndiarios en un traje de baño. Afortunadamente,\nlogro convencerla de no llevar a cabo su plan."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Oh, estudiar! Supongo que eso significa que vamos\na la biblioteca!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Espera un minuto, Special Week! ¿Qué estás\nhaciendo en la biblioteca con un traje de baño?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Este traje de baño me ha estado dando un\nverdadero impulso de energía, así que pensé en\nintentar estudiar para el próximo examen usándolo!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Eso no responde en absoluto mi pregunta! ¡De\nninguna manera usar un traje de baño mejora tus\ncalificaciones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, llegan los resultados del\nexamen..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Lo logré, Entrenador! ¡Conseguí una puntuación\nmejor que la última vez!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Los trajes de baño son increíbles!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Imposible! Esto simplemente... ¡no puede ser! No\npuedo creer que Special Week me haya superado."
+    },
+    {
+      "name": "King Halo",
+      "text": "Esto solo puede significar una cosa... ¡Yo también\ndebo estudiar en un traje de baño!",
+      "choice_data_list": [
+        "¡Espera un minuto!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Es una gran idea, King! ¡Pongámonos trajes de\nbaño y estudiemos juntos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agradablemente sorprendida por sus altos\nresultados en el examen, Special Week invita\nfelizmente a sus amigos a una sesión de estudio."
+    }
+  ]
+}

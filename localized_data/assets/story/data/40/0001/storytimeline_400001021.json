@@ -1,0 +1,143 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Los días pasan volando mientras entreno con <chrname>."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pronto..."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Saludos! ¡Tengo noticias maravillosas!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Tu aprendiz ha alcanzado tal renombre por su\nactuación que..."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Felicitaciones! Has ganado un lugar en la Final\nURA!",
+      "choice_data_list": [
+        "¡Muchas gracias!"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Para nada! ¡Soy yo quien debería estar\nagradecido!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Te encomendé la tarea de criar a una umamusume\nestrella, y basta con decir..."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Magnífico! ¡Has entregado exactamente lo que\nesperaba!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Sin duda, la multitud enloquecerá por una\numamusume tan cautivadora!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡La Final URA está destinada a convertirse en un\nescenario de sueños que todos pueden disfrutar!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Estrella de oro! ¡Has superado mis expectativas\ncon creces!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Anticipo un hipódromo lleno de vítores\natronadores y aplausos estruendosos!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Con tu aprendiz participando, el evento está\ngarantizado para ser un éxito!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Oh, y una cosa más."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Sin tu ayuda, nunca habríamos llegado tan lejos."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Pediste ayuda, y la buena gente de esta escuela y\npueblo respondió."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡El césped que cultivamos está listo para mecerse\nen la brisa en el recorrido de la Final URA!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Agradecimiento! ¡Gratitud! ¡Tienes mi más\nprofundo agradecimiento!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Bueno... ¡La Final URA está a la vuelta de la\nesquina! ¡Espero ver algunas carreras\nespectaculares!",
+      "choice_data_list": [
+        "¡Haremos de esto un evento inolvidable!"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Magnífico! ¡Conviértete en un faro al que las\nfuturas umamusume puedan mirar para guiarse!"
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "¡Felicitaciones, Entrenador <username>!"
+    },
+    {
+      "name": "Happy Meek",
+      "text": "Aplauso, aplauso."
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "Nosotros también participaremos. De hecho,\nacabamos de recibir la noticia."
+    },
+    {
+      "name": "Happy Meek",
+      "text": "¡Hurra!"
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "Meek y yo vamos a llevarnos la corona."
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "Y... ¡voy a crecer mucho más como entrenador!\n¡Incluso más que tú!"
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "Ya no solo quiero admirarte. Quiero estar a tu\nlado."
+    },
+    {
+      "name": "Happy Meek",
+      "text": "Tú puedes... <i>Nosotros</i> podemos."
+    },
+    {
+      "name": "Happy Meek",
+      "text": "...No perderé. No contra ti, ni contra tu\naprendiz."
+    },
+    {
+      "name": "Happy Meek",
+      "text": "Porque tengo al mejor entrenador del mundo...\nGuau."
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "Jeje... Gracias, Meek."
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "Muy bien, ¡Entrenador <username>! ¡Hagamos brillar a\nnuestras aprendices!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Por fin, es oficial—vamos a correr con los\nmejores de los mejores en la Final URA!"
+    }
+  ]
+}

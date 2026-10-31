@@ -1,0 +1,44 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una mañana temprano, El Condor Pasa viene\ncorriendo hacia mí mientras me dirijo a la\nacademia."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Buenos días, Entrenador!",
+      "choice_data_list": [
+        "¡Te levantaste temprano!",
+        "¡Te levantaste temprano!"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Sí! ¡Me levanté con el sol hoy!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "En otras palabras..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Estoy brillante y radiante como el sol!",
+      "choice_data_list": [
+        "Entonces... ¿te sientes bien?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Exactamente! ¡Así es!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Cuidado, Entrenador, o podrías quemarte!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Las llamas de la pasión están ardiendo sin\ncontrol!"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Brian",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Tch. Patético. Esa fue una carrera tan lenta...",
+      "choice_data_list": [
+        "¿Todo bien?",
+        "¿Todo bien?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Estoy bien! ¡Tú preocúpate de tu propio trabajo!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Maldita sea, ¡soy tan débil! ¡Débil! No debería\nestar agotada ya."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Corre más fuerte... más fuerte. ¡Tengo que correr\nmás fuerte!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incapaz de obtener resultados debido a la fatiga,\nNarita Brian se ha vuelto más impaciente e\nirritable de lo normal... Esto no es bueno."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No deberíamos forzarlo más. Tal vez debería\nreconsiderar su calendario de carreras..."
+    }
+  ]
+}

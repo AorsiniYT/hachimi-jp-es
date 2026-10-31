@@ -1,0 +1,281 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Gold Ship me dijo que quiere ir de compras, así\nque aquí estamos en el distrito comercial."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Jeje! Conseguí unos macarons espaciales sabor\nsésamo-miso."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Quiero probar los sabores de pollo frito dulce y\nsalado y también el de huevo hervido, así que\nestán en mi lista para la próxima vez."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Hm? ¿Qué pasa con todo ese bullicio por alí?"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Ganadores del primer premio reciben un hamburguesa\nde zanahoria deluxe, segundo un fardo de\nzanahorias y tercero una zanahoria única."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡No dejes pasar esta oportunidad! ¡Consigue un\nboleto ahora y gira para tener la oportunidad de\nganar!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿¡Escuchaste eso?! ¡Hay una rifa!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hablando de eso, conseguí un pedazo de papel\ncuando compré los macarons. Debe ser un boleto de\nrifa.",
+      "choice_data_list": [
+        "¿Quieres intentarlo?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Sí! Olvídate de ganar en grande o irte a casa.\n¡Apunto al premio consuelo!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Oye, ¿ustedes también tienen premio consuelo para\nlos perdedores? ¿Qué es? ¿La zanahoria, o el palo?\n¿O tal vez incluso una bola de demolición!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Apuntando audazmente al peor premio, Gold Ship\ngira la manija!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de la abertura\ndel tambor..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Santo bacalao! ¡Tenemos un ganador del gran\npremio! ¡Ven a recoger el cupón para tus\nvacaciones en aguas termales! ¡Felicitaciones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Y-yo gané el gran premio?!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Santas bacterias intestinales beneficiosas! ¡Eso\nes lo opuesto polar al premio consuelo!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Realmente conseguí el boleto para unas vacaciones\nen aguas termales..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Yo iba por el premio consuelo, pero oye, ¡esto es\nincreíble!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Unas aguas termales, ¿eh? No es divertido ir solo,\npero. ¿Con quién debería ir—¡oh!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Si simplemente creo un clon de sombra de mí misma\npara ir conmigo, entonces todos mis problemas se\nresolverán. ¡Perfecto!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Es hora de intentarlo! ¡Hiyaaah!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Clon de sombra! ¡DIVIDE!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "<i>Jadeando... resoplando...</i> Bueno, eso no funcionó."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Cómo pude yo, la Diosa Golshi la Todopoderosa,\nfallar en crear un simple clon de sombra?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Maldición... Bueno, tú guarda el boleto por ahora.\nAquí."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Guárdalo en un lugar donde no lo vea hasta que\ndomine cómo clonar de sombra.",
+      "choice_data_list": [
+        "¿Estás seguro?",
+        "¿Estás seguro?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Sí, de lo contrario terminaré usándolo antes de\ndominar el arte!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No estoy completamente segura de que Gold Ship\nalguna vez domine la clonación de sombra, pero\nhago lo que me pide y guardo el boleto para ella."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Recibes un filete de\nhamburguesa de zanahoria deluxe!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Guau! ¿Un filete de hamburguesa de zanahoria\ndeluxe?! ¡Qué suerte la mía!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Esta noche vamos a tener filetes marmoleados para\nla cena, asi que esto será perfecto para el\npostre―"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Espera un segundo. ¡Esta podría ser una\noportunidad de oro para desarrollar un sabor\ncompletamente nuevo de macarons espaciales!",
+      "choice_data_list": [
+        "¿Cómo así?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Primero, como el filete de hamburguesa de\nzanahoria deluxe, ¿sí? Luego, escribo una reseña,\n¿sí?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Y luego, lo envío directamente a los jefes de la\nfábrica de macarons espaciales."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Les encanta la idea, y antes de que te des\ncuenta, ¡están lanzando sus nuevos macarons\nespaciales sabor a filete de hamburguesa de\nzanahoria!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Ya lo veo! ¡Vamos! Tenemos que escribir una\nreseña gourmet!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para revolucionar los macarons espaciales,\nempezamos investigando los filetes de hamburguesa\nde zanahoria."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te vas a casa con un montón de\nzanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Guau, eso es más una montaña que un montón. ¿Qué\nvoy a hacer con todo esto?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Ah, sí! Casi lo olvido. Pronto habrá una sesión\nde entrenamiento intensiva para aspirantes a\npropietarias de restaurantes."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Cortar y picar estas zanahorias será una práctica\nperfecta!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Dominaré cómo cortarlas en flores, estrellas y\nmariposas, luego pasaré a darles formas como\narquitectura gótica..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Eso dejará boquiabierta a la propietaria actual,\nseguro!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de volver al dormitorio, observo a Gold\nShip practicando cortar las zanahorias en formas\ndecorativas."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Miren aquí! ¡Has ganado el tercer premio! ¡Aquí\nestá tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Oh, hombre! ¿Tercer premio? ¡Y es solo una\nzanahoria!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "No es ni el premio consuelo ni el gran premio...\nNi siquiera sé cómo reaccionar. ¡Pero!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Convertí un pedazo de papel en una zanahoria. Eso\ntiene que ser un milagro de algún tipo, ¿verdad?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Gracias, papel! ¡Gracias, zanahoria! Solo\ndemuestra que la comida es preciosa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Discutimos lo agradecidas que estamos por la única\nzanahoria todo el camino a casa."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Oh, qué mala suerte! ¡Parece que sacaste un\nboleto vacío! Toma este paquete de pañuelos como\npremio de consolación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡El premio consuelo! ¡Eso es de lo que estoy\nhablan—"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Espera. ¿Un paquete de pañuelos? ¿Eso es todo? Así\nque mucho menos la zanahoria o el palo. Ni\nsiquiera una pequeña bola de demolición..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "A propósito, ¿sabes qué pasa cuando haces un avión\nde papel con un pañuelo?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Algunos dicen que es impactante lo mal que vuela,\npero otros dicen que es tan ligero que nunca\naterriza."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Vamos a averiguar quién tiene razón!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gold Ship saca el premio consuelo justo como ella\nquería, pero lamentablemente el artículo en sí no\nes lo que ella esperaba."
+    }
+  ]
+}

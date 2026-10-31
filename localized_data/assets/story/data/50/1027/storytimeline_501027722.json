@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ay..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Perdón. Mis músculos de la cabeza están un poco\nadoloridos...",
+      "choice_data_list": [
+        "¿Los músculos en tu <i>cabeza?</i>"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Sí. Es un dolor punzante, como cuando usas\ndemasiado un músculo que está fuera de forma."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "No sé por qué. ¿Será porque he estado estudiando\nmás de lo normal para mis exámenes?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿O... será porque sigo pensando en lo que va a\npasar después en el manga que he estado leyendo?!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ay... Incluso hablar fuerte duele..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Mejiro Ryan está lidiando con una\nmigraña."
+    }
+  ]
+}

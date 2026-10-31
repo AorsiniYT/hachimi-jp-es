@@ -1,0 +1,49 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy, Grass Wonder finalmente correrá en su carrera\ndebut!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella respira profunda y lentamente, exteriormente\npareciendo su yo habitual."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero no puedo evitar preguntarme si será capaz de\nmantenerlo todo junto. ¿Está lo suficientemente\ncalentada? ¿Debo apretar sus cordones?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "...Disculpe, Entrenador? Parece estar bastante\nansioso. ¿Se siente bien?",
+      "choice_data_list": [
+        "¡Y-yo estoy bien! ¿Y tú?!",
+        "¡Y-yo estoy bien! ¿Y tú?!"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Je. Estás lo suficientemente nervioso por los dos.\nYo estoy perfectamente bien."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Un viaje de mil millas comienza con un solo paso.\nHoy no es diferente a cualquier otro día."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hemos esperado mucho tiempo para este debut... Te\nmostraré una actuación que seguramente disipará\nesos nervios.",
+      "choice_data_list": [
+        "¡No puedo esperar!",
+        "¡No puedo esperar!"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Bueno, debería irme."
+    }
+  ]
+}

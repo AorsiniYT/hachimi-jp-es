@@ -1,0 +1,126 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Qué escándalo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿De verdad disfrutaron tanto la carrera?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Pff... ¿Me están respondiendo? ¿O solo se dejan\nllevar por su propia emoción?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Maldición! ¿Realmente acabo de perder?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Amazon."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Ugh!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Fue una gran—"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Cállate!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "No vayas a decir qué buena carrera fue o algo así.\nY no pienses que esto es todo para mí!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Voy a ponerme más fuerte. <i>Mucho</i> más fuerte!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "No me importa cuántas veces tenga que\ndesafiarte—¡nunca me rendiré!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Por supuesto. Creo que siempre seguirás poniéndote\nmás fuerte y siempre regresarás para otra pelea."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Estoy esperando con ansias."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "...Tch."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Volví, Entrenador.",
+      "choice_data_list": [
+        "¡Felicitaciones por el primer lugar!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Gracias."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ha sido un año bastante intenso. Desafiando la\nTriple Corona Clásica, aprendiendo los puntos\nfuertes de todos, y forjando los míos..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Me pregunto si el próximo año será así también.",
+      "choice_data_list": [
+        "Podría ser."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...No me importaría eso."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No puedo volver atrás ahora que sé lo interesante\nque puede llegar a ser. Quiero más."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Qué tipo de carrera debería correr el próximo\naño?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Será su último año. Me gustaría ver cómo va el\nHanshin Daishoten primero, luego decidir si\napuntar al prestigioso Tenno Sho de primavera.",
+      "choice_data_list": [
+        "Estaba pensando en el Hanshin Daishoten."
+      ],
+      "color_text_info_list": [
+        "último año",
+        "Hanshin Daishoten"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Entendido. Dejaré el resto en tus manos."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Solo déjame correr más y más."
+    }
+  ]
+}

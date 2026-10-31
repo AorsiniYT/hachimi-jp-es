@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Buenos días, Entrenador!",
+      "choice_data_list": [
+        "Estás muy animado esta mañana.",
+        "Estás muy animado esta mañana."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Dormí muy bien anoche gracias a la máscara ocular\ntérmica que me dio un pony adorable."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hablando de eso, aquí."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Me gustó tanto, que compré más. Puedes tomar uno\npara probar."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Seguro dormirás como un bebé esta noche. ¡Lo\ngarantizo!"
+    }
+  ]
+}

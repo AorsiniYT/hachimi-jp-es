@@ -1,0 +1,143 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es el último día del campamento de verano."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Desde que sufrió un golpe de calor, Narita Brian\nha estado en un régimen de entrenamiento ajustado."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...",
+      "choice_data_list": [
+        "¿Cómo te sientes?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...De vuelta a la normalidad."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No te preocupes por mí. Deberías concentrarte en\nti misma."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Cuando volvamos a la academia, quiero entrenar\npara el Kikuka Sho."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...",
+      "choice_data_list": [
+        "¿Hay algo más que te gustaría hacer?",
+        "¿Hay algo más que te gustaría hacer?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...No. Eso es todo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No nos queda mucho tiempo hasta el Kikuka Sho.\nTenemos que concentrarnos en lo que realmente hay\nque hacer."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¡Presidenta!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Hmm. Hablaré con el director y la gente de la URA\nen cuanto regrese.",
+      "color_text_info_list": [
+        "URA"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Lamento mucho hacerte esto..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "No hay de qué. Ya corrí la carrera que vine a\ncorrer. Tengo más tiempo libre que nadie."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Parece que tendrá que esperar aún más..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...",
+      "choice_data_list": [
+        "Brian..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "En silencio, aprieta el puño con fuerza."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si al menos hubiera podido correr contra Symboli\nRudolf cuando tuvo la oportunidad."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si al menos hubiera mantenido una condición lo\nsuficientemente buena para correr contra Symboli\nRudolf..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Queda alguien?",
+      "choice_data_list": [
+        "¡Symboli Rudolf!"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Oh, eres tú... Pensé que Brian ya habría abordado\nel autobús.",
+      "choice_data_list": [
+        "Sobre Brian..."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Pasó algo?",
+      "choice_data_list": [
+        "Cuando se recupere por completo, me gustaría que\ncorrieras con ella."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...Los resultados de la competencia nos afectan\nprofundamente, para bien y para mal."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Por lo tanto, debemos elegir tanto el momento como\nel oponente con cuidado, por el bien de ambas."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Si aún fuera verano, habría sido motivador para\nella. Pero el otoño es una temporada importante\npara las dos, ¿no es así?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Si ella perdiera en un momento como este...",
+      "choice_data_list": [
+        "...Soy plenamente consciente de lo que estoy\npidiendo.",
+        "...Soy plenamente consciente de lo que estoy\npidiendo."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...Lo pensaré."
+    }
+  ]
+}

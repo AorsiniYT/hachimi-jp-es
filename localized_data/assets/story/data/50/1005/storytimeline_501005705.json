@@ -1,0 +1,216 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Me topo con Fuji Kiseki en mi camino a casa. Me\ninvita a ver una obra al aire libre, así que\nacepto unirme a ella."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Es tan buena...! Su canto y actuación—no, cada\nparte de su presentación es estupenda!",
+      "choice_data_list": [
+        "¿La conoces?",
+        "¿La conoces?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Sí. La protagonista es amiga de mi madre. La\nconozco desde que era joven."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ha pasado un tiempo desde que la vi. ¿Estaría bien\nsi fuera a saludarla?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Hola! Tiempo sin verte."
+    },
+    {
+      "name": "Actor",
+      "text": "¡Pero si es Fuji! Gracias por venir. ♪ Te has\nvuelto aún más hermosa desde la última vez que te\nvi."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Gracias, pero después de ver tu presentación hoy,\nsé que no soy rival para ti."
+    },
+    {
+      "name": "Actor",
+      "text": "¡Vaya, no solo te has vuelto más hermosa, sino que\ntu lengua también se ha vuelto más dorada! ¿Y\nquién es este?",
+      "choice_data_list": [
+        "Mucho gusto. Soy el entrenador de Fuji Kiseki."
+      ]
+    },
+    {
+      "name": "Actor",
+      "text": "Ah, así que eres su entrenador, ¿eh? Mmm... Muy\ninteresante."
+    },
+    {
+      "name": "Actor",
+      "text": "Ella es todo un desafío, ¿verdad?",
+      "choice_data_list": [
+        "¿Perdón?"
+      ]
+    },
+    {
+      "name": "Actor",
+      "text": "¡Vaya, solíamos llamar a este pequeño diablillo\n\"Príncipe Travesuras\" en nuestra compañía."
+    },
+    {
+      "name": "Actor",
+      "text": "¡Asustaba al elenco colgando arañas de utilería\nsobre sus cabezas durante los descansos en los\nensayos!"
+    },
+    {
+      "name": "Actor",
+      "text": "Por otro lado, sus travesuras ayudaron a todos a\nreír y liberar los nervios, así que eso es."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Jaja! Eso fue hace mucho tiempo. Ya no hago\ntravesuras tan infantiles."
+    },
+    {
+      "name": "Actor",
+      "text": "¿En serio? Es una lástima pensar que nunca\npodremos ver a ese dulce príncipe de nuevo.",
+      "choice_data_list": [
+        "Realmente lo es."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Oh, ¡no tú también, Entrenador!"
+    },
+    {
+      "name": "Actor",
+      "text": "Ustedes dos son muy cercanos. ♪ Es un verdadero\nplacer ver su vínculo. Bueno, disculpen. ¡Tengo\nque cambiarme!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Por supuesto. Perdón por hacerte esperar. Seguro\nque veré tu espectáculo si tienes otra\npresentación cerca."
+    },
+    {
+      "name": "Actor",
+      "text": "Eres un encanto. Gracias. Oh, un momento. Me\ngustaría hablar con tu entrenador."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Mmm? Está bien..."
+    },
+    {
+      "name": "Actor",
+      "text": "...Yo quería que ella se convirtiera en actriz,\nsabes."
+    },
+    {
+      "name": "Actor",
+      "text": "Esperaba que algún día pudiera actuar junto a ella\nen un papel secundario mientras ella tomaba el\nescenario como protagonista en una obra para la\nhistoria."
+    },
+    {
+      "name": "Actor",
+      "text": "El pensamiento de que nunca podré hacer eso ha\nsido perturbador... pero me siento mucho mejor\nahora después de hablar con ella."
+    },
+    {
+      "name": "Actor",
+      "text": "Se veía tan feliz. Debe ser porque ha encontrado\nun entrenador maravilloso y un hogar que la hace\nmás feliz de lo que lo hacía el escenario."
+    },
+    {
+      "name": "Actor",
+      "text": "Todos nosotros del teatro esperamos que la cuides\nbien. Ella es la niña de nuestros ojos, y te la\ndejamos."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Bienvenido de vuelta. Entonces, ¿de qué hablaron\nustedes dos?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "No me digas que te contó más historias embarazosas\nde cuando era joven.",
+      "choice_data_list": [
+        "Digamos que ahora tengo mucha información\ncomprometedora sobre ti.",
+        "Ella solo me dio consejos sobre cómo disfrutar una\nobra."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Lo sabía! ¡Así que <i>sí</i> estaba chismeando sobre mí!\n¿Qué te dijo?",
+      "choice_data_list": [
+        "Es un secreto."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Ahora? Bueno, si tuviera que adivinar de qué\nhablaban... Oh."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Te dijo algo trivial, como que en realidad odio\nusar tacones altos y solía hacer berrinches por\neso?",
+      "choice_data_list": [
+        "Quizás, quizás no."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Mmm, así que eso es un no..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Fue sobre el telón? Quizás fue sobre esa vez que\ntuvimos cinco funciones consecutivas..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ah, lo que sea. Pueden ser travesuras que hice de\nniña, pero debo asumirlas independientemente."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Además, no creo que vayas a filtrar mis secretos\nde todos modos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como no pude engañarla, le cuento sobre el sueño\nde su amiga y el deseo que me ha confiado."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Hmm, seguro que lo hizo!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...¿De verdad pensaste que te creería? Eres muy\nmalo mintiendo.",
+      "choice_data_list": [
+        "¿Cómo pudiste decirlo?",
+        "¿Cómo pudiste decirlo?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Los mentirosos son buenos para ver a través de las\nmentiras, y los mejores entertainers también\nresultan ser los mejores mentirosos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como no pude engañarla, le cuento sobre el sueño\nde su amiga y el deseo que me ha confiado."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Así que ella quería actuar conmigo..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ese futuro bien podría haber sido una realidad..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Sin embargo, elegí caminar un camino diferente.\nPero, como ella me está dando su bendición y\ndeseándome lo mejor..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Tendré que convertirme en una entertainer aún\nmayor en la pista que los actores que vimos en el\nescenario hoy!",
+      "choice_data_list": [
+        "¡Concéntrate en tu presentación y déjame lo demás\na mí!",
+        "¡Concéntrate en tu presentación y déjame lo demás\na mí!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Bien! ¡Hagamos de mí la mejor versión de mí misma\njamás!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El escenario no es el único lugar donde Fuji\nKiseki puede impresionar a sus fans. Hablamos\nsobre nuestros planes futuros todo el camino a\ncasa."
+    }
+  ]
+}

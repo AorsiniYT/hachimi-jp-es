@@ -1,0 +1,95 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Maruzensky",
+      "text": "¡Jeje! Te ves genial, Tata! ¡Ahora estás tan\nbrillante! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Maruzensky está puliendo su coche, Tata."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, hola, Trainer. Es un día hermoso, ¿verdad? ♪",
+      "choice_data_list": [
+        "¿Estás haciendo algo de mantenimiento en Tata?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, hola, Trainer. Es un día hermoso, ¿verdad? ♪",
+      "choice_data_list": [
+        "¿Estás haciendo algo de mantenimiento en Tata?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Sí, tenía algo de tiempo libre. Pero en realidad\nya terminé. ♪",
+      "choice_data_list": [
+        "Pareces estar de buen humor.",
+        "Pareces estar de buen humor."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Absolutamente! Siempre es bueno pasar algo de\ntiempo de calidad con mi preciosa compañera."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Si la cuido, me lo agradecerá corriendo\nperfectamente. ¿No es genial?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, pero estoy segura de que no tengo que\nexplicártelo, Trainer. Apuesto a que ya sabes\nexactamente a qué me refiero."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, pero estoy segura de que no tengo que\nexplicártelo, Trainer. Apuesto a que ya sabes\nexactamente a qué me refiero."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "En cierto modo, soy como Tata..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Corro tan bien porque me cuidas tan bien."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Corro tan bien porque me cuidas tan bien."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Tu entrenamiento me hace querer darlo todo."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Tu entrenamiento me hace querer darlo todo."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Listo, Tata ya está limpio! Ahora es tu <i>turno!</i>"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Listo, Tata ya está limpio! Ahora es tu <i>turno!</i>"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Necesito tu mejor apoyo para poder correr lo\nmejor posible!",
+      "choice_data_list": [
+        "¡Yo me encargo!",
+        "¡Yo me encargo!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Creo en ti, Trainer!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Maruzensky va a entrenar con aún más entusiasmo\nque de costumbre."
+    }
+  ]
+}

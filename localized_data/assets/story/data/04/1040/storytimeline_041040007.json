@@ -1,0 +1,269 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gold City",
+      "text": "¿Oh? Así que este es el campamento, ¿eh? Nada mal.\nTiene un ambiente bastante agradable. ¡Apuesto a\nque sería un buen lugar para una sesión de fotos!",
+      "choice_data_list": [
+        "¡Bienvenido al campamento de entrenamiento de\nverano!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Sí. Llegando con estilo, pero podemos recuperar el\ntiempo perdido, ¿verdad?"
+    },
+    {
+      "name": "Mánager de Gold City",
+      "text": "Hola, Entrenador. Lamento que ella no pudiera\nestar aquí antes—los horarios no concordaron del\ntodo.",
+      "choice_data_list": [
+        "No hay problema. Solo me alegra que haya podido\nvenir."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Bien, voy a dejar mis cosas y cambiarme.",
+      "choice_data_list": [
+        "¡Nos vemos en la playa en veinte!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Perdón? Estaré lista en diez. No subestimes lo\nrápido que pueden cambiarse las modelos."
+    },
+    {
+      "name": "Mánager de Gold City",
+      "text": "¡City! Asegúrate de ponerte mucho protector solar,\n¿vale?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Sí, sí, no hace falta que me lo digas dos veces."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y con eso, comienza el entrenamiento de verano de\nGold City."
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Hoy todos tenemos que cocinar? ¿Eh? Apenas he\nsostenido una sartén. ¡Uy, no, no, no!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Estarás bien! Solo cálmate. Sabes, nunca te había\nvisto tan alterada antes. Jeje."
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¡City! Vamos, es una mañana hermosa para entrenar!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Ughhh, estoy hasta el cuello. Cualquier cosa menos\nmadrugar... No, ni hablar."
+    },
+    {
+      "name": "Gold City",
+      "text": "Muy bien, ¡una carrera más! ¡Y esta vez voy a\nganar!"
+    },
+    {
+      "name": "Umamusume C",
+      "text": "Aceptado, pero no voy a perder. Te apuesto tres\nzanahorias premium."
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Alguien está con ganas de pelea! ¡Cuenten\nconmigo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de la cena, Gold City se acerca a mí y\ndice que quiere hablar afuera."
+    },
+    {
+      "name": "Gold City",
+      "text": "Sabes, casi había renunciado a venir. Con trabajo\ny más trabajo, no parecía que pudiera lograrlo."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero me ayudaste a organizar un horario, y le dije\na mi mánager cómo me siento... Y, bueno, aquí\nestoy.",
+      "choice_data_list": [
+        "¡Me alegra que todo saliera bien!",
+        "¡Me alegra que todo saliera bien!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Sí, yo también. De verdad... Antes, probablemente\nme habría enfadado y quejado.",
+      "choice_data_list": [
+        "<i>Snif.</i> ¡Crecen tan rápido!",
+        "<i>Snif.</i> ¡Crecen tan rápido!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Ay, por favor! ¿¡Puedes no hacer eso?! Pero,\nbueno... Te lo agradezco, sabes."
+    },
+    {
+      "name": "Gold City",
+      "text": "Llegué tarde, pero me has mantenido ocupada, y he\ntenido la oportunidad de conocer a las demás."
+    },
+    {
+      "name": "Gold City",
+      "text": "Nadie es exactamente lo que parece, ¿verdad?\nSupongo que yo también juzgaba a los demás por lo\nsuperficial."
+    },
+    {
+      "name": "Gold City",
+      "text": "Ah, sí, al parecer habrá como un festival cerca.\n¿Quieres ir a verlo? ¡Apuesto a que veremos muchas\ncaras diferentes!"
+    },
+    {
+      "name": "Chica",
+      "text": "¡Hey, es City! ¡Es tan bonita!"
+    },
+    {
+      "name": "Fan",
+      "text": "Yo, eh... ¡Soy una gran fan!"
+    },
+    {
+      "name": "Empleado del Puesto",
+      "text": "Aquí, toma uno. ¡Están deliciosos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es popular, sí. Se nota que está acostumbrada a la\natención por la forma en que sonríe a la gente que\nse acerca."
+    },
+    {
+      "name": "Chico",
+      "text": "City, eres la mejor."
+    },
+    {
+      "name": "Gold City",
+      "text": "Gracias. Me pondría muy feliz si también vinieras\na verme correr."
+    },
+    {
+      "name": "Gold City",
+      "text": "...Je, no pensé que tanta gente me reconocería\naquí. Es bastante gracioso.",
+      "choice_data_list": [
+        "Los frutos de tu trabajo.",
+        "Los frutos de tu trabajo."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Qué trabajo—modelaje o carreras? Es difícil saber\nde cuál están hablando. Lo único que realmente\nquiero que la gente note es mi forma de correr.",
+      "choice_data_list": [
+        "Quizás tu modelaje pueda ayudar a tu forma de\ncorrer."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Eh? Como si.",
+      "choice_data_list": [
+        "¿Por qué no sales a correr y lo averiguas?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿¡Salir a correr? ¿Espera, como ahora?!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Entonces, ¿por qué exactamente me sacaste del\nfestival para esto? Lo juro, ¡nunca <i>te</i> entenderé!",
+      "choice_data_list": [
+        "Vamos, te cronometraré.",
+        "Vamos, te cronometraré."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Hola?! Ugh, está bien, lo que sea. Muy bien, allá\nvoy...",
+      "choice_data_list": [
+        "Y... ¡empieza!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Ella levanta una tormenta de arena en la playa!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Uf... ¿Mi tiempo? Sí, más o menos lo que esperaba.",
+      "choice_data_list": [
+        "Ahora ve de nuevo, pero escucha a tus fans\nanimándote."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Eh? Como si eso fuera a cambiar algo. Lo que sea,\nallá voy."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella lo intenta de nuevo, pero esta vez...",
+      "choice_data_list": [
+        "¡City, eres la mejor!",
+        "¡City, eres la mejor!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Eh? Ugh, ¿nunca te cansas? Ah, espera, en el\nfestival..."
+    },
+    {
+      "name": "Chico",
+      "text": "City, eres la mejor."
+    },
+    {
+      "name": "Gold City",
+      "text": "...¡Lo tengo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Algo le pone fuego bajo los pies, y..."
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Hecho!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella establece un nuevo récord personal para el\nverano."
+    },
+    {
+      "name": "Gold City",
+      "text": "<i>Haa... Haa...</i> Uf. Me recordaste a ese chico del\nfestival, y entonces mis piernas... simplemente,\ncomo, se dispararon.",
+      "choice_data_list": [
+        "El poder de los fans.",
+        "El poder de los fans."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Qué, como si me dieran el poder para ir esa\ndistancia extra? Bueno, en ese caso..."
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Y si... tomo a todos los fans de mi trabajo como\nmodelo, y los hago venir a mis carreras?",
+      "choice_data_list": [
+        "¡Las gradas rugirán por ti!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Vaya, ¿qué manipuladora? Usar a mis fans así. Yo\n<i>sabía</i> que había un cerebro malvado detrás de la\nmáscara."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero... Je. Me gusta. La mayoría de mis fans solo\nme conocen como modelo, y ahora puedo mostrarles\ncómo soy en la pista."
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Entonces verán que no soy solo una muñeca\nbonita—soy una campeona!",
+      "choice_data_list": [
+        "Si corres por dos caminos, obtienes el doble de\nkilometraje.",
+        "Si corres por dos caminos, obtienes el doble de\nkilometraje."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...Muy bien, muy bien, me has convencido. Si\nquiero ganar, te necesitaré de todos modos."
+    },
+    {
+      "name": "Gold City",
+      "text": "Entonces, eh... Sigamos así, ¿vale? Compañero."
+    }
+  ]
+}

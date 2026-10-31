@@ -1,0 +1,167 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, veo a Air Groove hablando con ambas\nlíderes de dormitorios en la cafetería."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Desafortunadamente, no es realista que compremos\nproductos de lujo."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Pero muchos estudiantes de la academia vienen de\nfamilias adineradas... ¿Qué podemos hacer para\nsatisfacerlos sin arruinarnos?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Grr, no llegamos a ninguna parte! ¡Todos pierden\ndemasiado tiempo en nimiedades!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Solo tienes que lavarte la cola, secarla con\nsecador y listo! ¡Es así de simple!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "El cuidado inadecuado de la cola puede perjudicar\nel rendimiento de una corredora. No podemos\nescatimar en productos tan vitales.",
+      "choice_data_list": [
+        "¿Estás hablando de productos para el cuidado de la\ncola?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Escuchando a escondidas, eh?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ah, Entrenador. Disculpe por mantener a Air Groove\nalejada de usted, pero queríamos su opinión sobre\neste asunto como vicepresidenta del consejo\nestudiantil, ya ve."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Para ponerle al tanto, hemos estado recibiendo\nsolicitudes de nuestras residentes para una mayor\nvariedad de productos para el cuidado de la cola."
+    },
+    {
+      "name": "Air Groove",
+      "text": "La cola de una Umamusume forma una parte\nimportante de su físico. Afecta el equilibrio\ngeneral del cuerpo."
+    },
+    {
+      "name": "Air Groove",
+      "text": "En casos extremos, un mal cuidado de la cola puede\nincluso perjudicar el movimiento de las piernas."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Es especialmente importante para las Umamusume que\ncompiten."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Por esta razón, muchas estudiantes traen sus\npropios productos. Sin embargo, no todos pueden\npermitirse tales lujos."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Sí, entiendo que tenemos que asegurarnos de que\nninguna estudiante se quede atrás, sin importar\nsus circunstancias..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Pero vamos! ¡Hay <i>demasiadas</i> para elegir! ¡No\npodemos complacer a todos!",
+      "choice_data_list": [
+        "Intentaré pensar en algo también.",
+        "Intentaré pensar en algo también.",
+        "Vaya... Qué dilema.",
+        "Vaya... Qué dilema."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Pero vamos! ¡Hay <i>demasiadas</i> para elegir! ¡No\npodemos complacer a todos!",
+      "choice_data_list": [
+        "Intentaré pensar en algo también.",
+        "Intentaré pensar en algo también.",
+        "Vaya... Qué dilema.",
+        "Vaya... Qué dilema."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Estoy oyendo cosas? Puede que no lo hayas notado,\npero tú no tienes cola."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Espera! La opinión de alguien sin cola podría ser\njusto la nueva perspectiva que necesitamos."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Planteas un punto justo. Supongo que es cierto que\nlos entrenadores están bien informados sobre\nasuntos de las Umamusume."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Muy bien. Lo permitiré. Primero, te pondré al día\ncon las opiniones que hemos escuchado hasta ahora."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con la aprobación de Air Groove, me uno a la\ndiscusión, aportando mis propios pensamientos como\nentrenador."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Gracias por tu ayuda antes en la cafetería. Creo\nque tenemos una mejor idea de qué nuevos productos\ntraer ahora.",
+      "choice_data_list": [
+        "¡Me alegra escucharlo!"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Aún así, es un poco extraño pensarlo. Tener una\ncola es tan normal para nosotras, pero para ti, es\nalgo que nunca has conocido."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Mmm, me pregunto cómo sería si tú tuvieras una\ncola..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Para empezar, me imagino que te daría una charla\nestricta cada mañana sobre el cuidado adecuado de\nla cola."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Groove esboza una leve sonrisa mientras\ncomparte sus palabras de afecto."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Tenemos nuestros propios problemas únicos, y tú\ntienes los tuyos. Supongo que no hay nada de malo\nen eso."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Oh, ¡se me olvidó preguntar! ¿Qué usas tú, Air\nGroove?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Yo? Generalmente uso..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "...Jabón en barra."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Qué...? ¿En serio?!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Ahahahahaha! ¡Jabón! <i>¡Jabón en barra, </i>para más\ndetalles!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Tú, la clase de chica que parece que solo usaría\nacondicionadores de alta gama! <i>¡Usar jabón en\nbarra! </i>¡Ahahah!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿De qué te ríes?! ¡No hay nada gracioso en usar\njabón de origen natural!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las Umamusume tienen que lidiar con mucho más de\nlo que pensé inicialmente. Me prometo a mí mismo\nhacer todo lo que pueda para apoyarlas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me imagino que Air Groove estará usando su jabón\nen barra favorito más tarde hoy para mantener el\nbrillo de su cola."
+    }
+  ]
+}

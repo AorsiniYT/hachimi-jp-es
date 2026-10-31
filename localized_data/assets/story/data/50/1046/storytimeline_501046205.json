@@ -1,0 +1,83 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy es el February Stakes, la primera de las\ncarreras que Smart Falcon declaró que ganaría. Un\nsentido de emoción llena el aire en el Hipódromo\nde Tokyo."
+    },
+    {
+      "name": "Fan A",
+      "text": "Me pregunto cómo le irá a Smart Falcon. ¿Y si\ntropieza desde el principio?"
+    },
+    {
+      "name": "Fan B",
+      "text": "Hm... Fue bastante buena el año pasado, pero no\ndiría que es la mejor."
+    },
+    {
+      "name": "Fan A",
+      "text": "Sabes, creo que esta es mi primera vez viendo una\ncarrera de tierra. En realidad, me estoy\nemocionando bastante."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Smart Falcon puede sentir la energía del lugar\nincluso desde la sala de espera."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...Me pregunto qué tan alto podemos llegar?",
+      "choice_data_list": [
+        "¿Qué quieres decir?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Bueno, el Hipódromo de Tokyo también es sede del\nJapanese Derby, ¿verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Japanese Derby es una carrera de césped de alto\nperfil exclusiva para corredores de año clásico,\nmuchos de los cuales apuestan sus sueños en ella."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "El Derby está al mismo nivel que el Arima Kinen...\no incluso más grande.",
+      "color_text_info_list": [
+        "Derby"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Solo me preguntaba qué tan cerca podemos llegar a\neso.",
+      "choice_data_list": [
+        "Es un obstáculo alto, sin duda.",
+        "Es un obstáculo alto, sin duda."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Sí, el Derby es una carrera súper especial—¡lo sé!\nNo importa cuánto la persiga, no puedo llegar allí\nahora."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Aún así, estamos recibiendo mucha atención!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Si puedo quedar en primer lugar hoy, la próxima\ncarrera será un poco más especial!",
+      "choice_data_list": [
+        "Y tendrás que seguir ganando.",
+        "Y tendrás que seguir ganando."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Lo sé. No tendremos una historia si empiezo\nperdiendo desde el principio."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Tengo que ganar y convertirme en el tema del\nmomento. ¡De esa manera, estaré sonriendo en el\nescenario de fin de año!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...¡Muy bien! ¡Hora de empezar con el pie derecho!"
+    }
+  ]
+}

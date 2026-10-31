@@ -1,0 +1,226 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Gold City ha logrado dejar una marca bastante\nnotable en la Serie Twinkle."
+    },
+    {
+      "text": "Juntos, hemos navegado con éxito los cruciales\nprimeros tres años de su carrera."
+    },
+    {
+      "text": "Un día, la representante de Gold City irrumpe en\nmi oficina en estado de pánico."
+    },
+    {
+      "name": "Gold City",
+      "text": "¿En la portada de <i>Il Bianco?</i> ¿Yo?"
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "¡Así es! No solo serás la primera en representar a\nJapón, ¡es un logro increíble para cualquier\nUmamusume!",
+      "choice_data_list": [
+        "<i>¿El Blanco?</i>"
+      ]
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "¡Es una revista de moda italiana muy consolidada!\nAparecer en su portada demuestra que eres una\nmodelo de primera clase!"
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "¡Y te eligieron a <i>ti</i> para esa portada,City!"
+    },
+    {
+      "name": "Gold City",
+      "text": "...¿En serio?"
+    },
+    {
+      "text": "Gold City está sin palabras. Yo tampoco reconozco\nel nombre, pero esta revista debe ser un gran\ntrato en el mundo de la moda.",
+      "choice_data_list": [
+        "¡Felicitaciones, City!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Sí... Quiero decir, no parece real en absoluto.\nEntonces, ¿cuándo es la sesión?"
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "Uh-huh... Sobre eso..."
+    },
+    {
+      "name": "Gold City",
+      "text": "¿¡Qué!? ¡Ese es el día de la carrera!"
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "Así es. Y la portada de <i>Il Bianco</i> siempre se filma\nen Italia. Nunca han hecho una excepción, desde el\nprimer número."
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "Por eso vine en persona para ver cómo te sientes."
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Eh? ¿Cómo me siento?"
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "No quería forzarte a tomar una decisión así.\nIncluso consideré tomar la libertad de preparar el\ncontrato sin tu opinión."
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "Pero al final, supe que no podía hacerlo sin\nescucharte primero."
+    },
+    {
+      "name": "Gold City",
+      "text": "...!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Divertido. Nunca te he visto tan emocionada."
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "Sé seria, City. Sé que es una decisión difícil de\ntomar... pero necesitas tomarla."
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "¿Qué harás? ¿La sesión de fotos o la carrera?"
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Entrenador, ¿qué piensas? ¿Cuál debería elegir?",
+      "choice_data_list": [
+        "Creo que tú conoces la respuesta a eso mejor.",
+        "Creo que tú conoces la respuesta a eso mejor."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Je, tienes razón. He tomado una decisión."
+    },
+    {
+      "name": "Gold City",
+      "text": "Haré la sesión, <i>y</i> entraré en la carrera."
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "¿¡Qué!? Yo... estaba seguro de que elegirías la\ncarrera..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Lo habría hecho hace unos meses, sin dudarlo.\nDespués de todo, me gusto más cuando estoy en la\npista."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero también sé cuánto te gusto como modelo. Y\nahora... creo que yo también puedo decirlo."
+    },
+    {
+      "name": "Gold City",
+      "text": "Porque ambas soy yo."
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "...!"
+    },
+    {
+      "name": "Gold City",
+      "text": "No renunciaré ni al modelaje ni a las carreras. Y\nesa es mi respuesta. ¿Qué piensas?"
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "Pero... ¡eso es imposible! ¿Quieres que <i>yo</i> le diga\na <i>Il Bianco</i> que venga a Japón?!",
+      "choice_data_list": [
+        "Ese es nuestro trabajo, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "<i>¿Nuestro... </i>trabajo?",
+      "choice_data_list": [
+        "Permíteme ayudarte.",
+        "Permíteme ayudarte."
+      ]
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "..."
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "Muy bien. Intentaré negociar una sesión en Japón.\nPero no necesitaré tu ayuda con esa parte,\nEntrenador."
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "Tú le das a City tu apoyo incondicional. No\npodemos hacer que traigan a su equipo de cámara\nhasta aquí solo para verla perder.",
+      "choice_data_list": [
+        "¡Lo haré!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Deja el negocio de las carreras en nuestras manos.\nSi puedes hacer que esta sesión suceda, nosotros\nnos encargaremos del resto."
+    },
+    {
+      "name": "Gold City",
+      "text": "Haré que valga la pena el problema... no, <i>más</i> de\nlo que vale la pena para todos los involucrados."
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Creo en ti, así que cree en mí!"
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Viste eso? Nunca he visto a mi manager tan\nalterada."
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Estoy siendo demasiado egoísta?",
+      "choice_data_list": [
+        "¡Para nada! Si acaso, mereces aún más."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Jajaja. ¿No crees que me estás mimando?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Mmm... Si estás seguro, de todos modos, tengo una\npetición más."
+    },
+    {
+      "name": "Gold City",
+      "text": "Tenemos una entrevista después de esto, ¿verdad?\nPero sabes... tengo ganas de correr.",
+      "choice_data_list": [
+        "¿De correr?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Sí. Tal vez sea la emoción de conseguir un trabajo\ntan grande."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero no tenemos mucho tiempo. ¿Qué deberíamos\nhacer?",
+      "choice_data_list": [
+        "¡Voy a ajustar el horario!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Jaja, ¡eres el mejor! Entonces ven a la pista\ncuando termines."
+    },
+    {
+      "name": "Gold City",
+      "text": "Esto puede sonar un poco cursi ya que estoy, como,\nmuy emocionada, pero..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Mientras esté corriendo, siempre querré que estés\nahí viendo."
+    }
+  ]
+}

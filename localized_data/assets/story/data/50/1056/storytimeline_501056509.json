@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Casualmente escucho una voz sombría viniendo desde\nla parte trasera del edificio de la escuela\nmientras paso caminando."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "He... alcanzado mi límite.",
+      "choice_data_list": [
+        "¿Q-qué quieres decir?",
+        "¿Q-qué quieres decir?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Jojó? Jeje... ¿estás en necesidad de\nMati-kan't-get-any-luck-itaru?!"
+    },
+    {
+      "name": "¿Mati‑kan't‑get‑any‑luck‑itaru?",
+      "text": "Escuchaste bien... Tengo un nuevo nombre. Mi\nmotivación, mi energía, mi suerte... todo se ha\nido..."
+    },
+    {
+      "name": "¿Mati‑kan't‑get‑any‑luck‑itaru?",
+      "text": "El gran Shiraoki sí dijo: \"Cuanto más corres, más\nposibilidades vendrán a ti.\" Pero... todo este\ncorrer solo me ha hecho débil y flácida."
+    },
+    {
+      "name": "¿Mati‑kan't‑get‑any‑luck‑itaru?",
+      "text": "Ninguno de mis hechizos o oraciones están\nfuncionando. No sé qué hacer ya..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Correr carreras seguidas recientemente está\npasando factura en ella. Mejor ajusto su\ncalendario de carreras..."
+    }
+  ]
+}

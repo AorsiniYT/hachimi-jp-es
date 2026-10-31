@@ -1,0 +1,254 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Hoy es la carrera de debut de Winning Ticket, un\ndía especial para la joven corredora."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Hey, chicos. Muchas gracias por venir hasta\nHakodate para apoyarme."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Por supuesto. Haríamos cualquier cosa por una\ncompañera de equipo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Este es tu momento de brillar. Y nosotros te\napoyaremos lo suficiente para compensar a los\nmiembros que no pudieron venir."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Tendremos que tener una cena increíble después de\nla carrera. Vieiras y caracoles de mar. Tazones de\narroz con cangrejo, erizo de mar y huevas de\nsalmón."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Y parfaits de melón. No olviden los parfaits de\nmelón."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Uh... Entonces, la comida es la razón por la que\nrealmente vinieron."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Q-qué quieres decir? Una buena comida es\nsimplemente un bono. No importa eso, debes\nconcentrarte."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oh, sí. Enfócate, enfócate... Está bien,\nEntrenador, me voy.",
+      "choice_data_list": [
+        "Ve y hazlo.",
+        "Ve y hazlo."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Está bien. Este es mi primer paso en el camino al\nDerby. Tengo esta victoria en la mira."
+    },
+    {
+      "text": "Ticket se dirige hacia su gran sueño,\ncompletamente confiada en su victoria."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Uuuuuuh. Perdí."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Cállate. ¿Cuántas veces vas a lamentarte por\nperder!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "<i>Sollozo...</i> No seas tan cruel. Hemos sido amigas\ndesde que empezamos en la academia. ¿No puedes al\nmenos consolarme un poco?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Todavía terminarías llorando por eso incluso si lo\nhiciera."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Bueno, sí, porque este es mi comienzo hacia el\nDerby, sabes. El camino es todavía tan largo y\ntropecé en el primer paso..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sí, tenías grandes esperanzas. Puedo comprender\ncómo debes sentirte."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Verdad? ¿Qué voy a hacer si esto significa que\nnunca puedo entrar en el Derby."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Basta ya. Perder tu carrera de debut no significa\nque tus sueños estén destrozados."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Perdí <i>mi</i> debut, pero todavía voy a mostrarles a\ntodos un día."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Exacto. Necesitas recuperar el equilibrio. Guarda\nla desesperación para cuando tu sueño esté\nrealmente aplastado."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oooh, tienes un espíritu inquebrantable, Taishin.\nY Hayahide, te mantienes tranquilo por fuera y\nardes por la lucha por dentro. No me quedaré aquí\nllorando."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "No puedo parar si quiero ganar el Derby. Gracias,\nustedes dos. Nada es mejor que tener amigos a\nmi... Uuuuuuh."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Mira, terminaste llorando de todos modos. ¿No\npuedes simplemente callarte?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sus emociones también son su fuerza. Haríamos bien\nen aprender de eso."
+    },
+    {
+      "text": "El equipo está todo junto, poniendo algo de tiempo\nde entrenamiento necesario."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ggggrrr. Hacia el Derby."
+    },
+    {
+      "text": "El entrenamiento después de la carrera suele ser\nligero, pero Winning Ticket está corriendo con\ntodas sus fuerzas como si tuviera una carrera\npróxima."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Dios mío... Ticket tiene mucha energía..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Pensé que todavía estaría sufriendo después de\nayer. Ese es un entusiasmo extraño."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Dijo que sus amigos la ayudaron a levantar el\nánimo. Deben ser personas maravillosas para\nentender su sueño."
+    },
+    {
+      "text": "No tendría sentido que nos quedáramos en un solo\ncontratiempo cuando nuestros ojos están puestos en\nel Derby."
+    },
+    {
+      "text": "Como todavía está corriendo hacia su sueño con la\ncabeza en alto, tengo que hacer todo lo posible\npara ayudarla a lograrlo."
+    },
+    {
+      "name": "<username>",
+      "text": "Tickezo. Mueve esos brazos con más fuerza."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oooh, sí."
+    },
+    {
+      "name": "<username>",
+      "text": "Presta atención a tu zancada. Mantén empujando\nhasta el final."
+    },
+    {
+      "name": "<username>",
+      "text": "Presta atención a tu zancada. Mantén empujando\nhasta el final."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Empujando iiiii. Hasta el fin."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "<i>Haa... Haa...</i> Uf. Terminé. Gracias, Entrenador."
+    },
+    {
+      "name": "<username>",
+      "text": "Buen trabajo. No te olvides de aplicar hielo para\ndeshacerte de esa fatiga."
+    },
+    {
+      "name": "<username>",
+      "text": "Buen trabajo. No te olvides de aplicar hielo para\ndeshacerte de esa fatiga."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Sí. Pero pensé que correría un poco más."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Puedo haber perdido mi carrera de debut, pero mis\namigos me han ayudado a superarlo, y tu\nentrenamiento apasionado me ha vuelto a\nencender..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Se siente como si esa derrota no hubiera sido en\nvano. Mi impulso por el Derby se ha vuelto <i>¡aún\nmás fuerte!</i>"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Qué extraña. Pero eres mi tipo de extraña."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Tienes que mantener su pasión, Entrenador. ¿Puedes\nhacerlo?"
+    },
+    {
+      "name": "<username>",
+      "text": "No hay problema. Eso es exactamente lo que\npretendo hacer. Un entrenador nunca detiene a un\ncorredor de avanzar. Por lo que...",
+      "choice_data_list": [
+        "Tickezo. Vuelves a correr la próxima semana.",
+        "¡Tickezo! ¡Volverás a correr la próxima semana!"
+      ]
+    },
+    {
+      "name": "<username>",
+      "text": "No hay problema. Eso es exactamente lo que\npretendo hacer. Un entrenador nunca detiene a un\ncorredor de avanzar. Por lo que...",
+      "choice_data_list": [
+        "¡Tickezo! ¡Volverás a correr la próxima semana!",
+        "¡Tickezo! ¡Volverás a correr la próxima semana!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Carreras consecutivas?! ¡Esa pasión podría ser\npeligrosa!"
+    },
+    {
+      "name": "<username>",
+      "text": "Obviamente, tu salud es lo primero. Pero creo que\nlo lograrás."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ah... ¡AAAGH! ¡Voy a <i>CORRER!</i>"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Voy a enfrentar este desafío de frente y avanzar\nhacia el Derby. ¡Y lo haremos juntos, entrenador!",
+      "choice_data_list": [
+        "Sí, lo ganaremos juntos"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Sííí!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ahora el entrenador está emocionado."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Sin duda debido a la influencia de Ticket. Estoy\nemocionada de ver cómo se desarrolla su historia."
+    },
+    {
+      "text": "La historia de Winning Ticket comenzó con una\nderrota..."
+    },
+    {
+      "text": "Pero acaba de empezar hacia su objetivo."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Y es Winning Ticket! ¡Winning Ticket gana la\ncarrera!"
+    },
+    {
+      "text": "Wooooo!"
+    },
+    {
+      "text": "Winning Ticket supera el estrés de correr dos\nsemanas seguidas y logra su primera victoria"
+    }
+  ]
+}

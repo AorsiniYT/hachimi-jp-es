@@ -1,0 +1,258 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Vamos a la mitad del campamento de verano de la\nacademia, y Nature ya ha mejorado mucho corriendo\nen la playa."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Uf... Bueno? ¿Ha mejorado mi tiempo o qué?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus resultados hablan por sí solos de cuánto\nesfuerzo ha estado poniendo en estos últimos días."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ahora puedo correr bastante bien en la arena, pero\nme pregunto si eso se transferirá a la pista.",
+      "choice_data_list": [
+        "¡Ya tienes el primer lugar en el bolsillo!",
+        "¡Ya tienes el primer lugar en el bolsillo!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ni hablar, de ninguna manera va a ser tan fácil.\nPara empezar, todos están entrenando tan duro como\nnosotros."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Oh, pero probablemente no debería decir eso frente\nal entrenador que me ha estado ayudando a entrenar\nde sol a sol todos los días."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Jaja, simplemente atribuyámoslo a un defecto de mi\npersonalidad. Los viejos hábitos mueren con\ndificultad."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Seguimos yendo y viniendo así por un rato..."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "No sabía que iba a haber un festival—debería haber\ntraído mi yukata."
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Oye, puedes divertirte en un festival sin importar\nlo que te pongas."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Eh, así que hoy hay un festival?",
+      "choice_data_list": [
+        "¿Quieres echarle un vistazo?",
+        "¿Quieres echarle un vistazo?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Oh, buena idea."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Tengo un debilidad por los festivales.\nEspecialmente los más pequeños—como en el parque\nlocal."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Solía ir con mis amigos, y nos metíamos en todo\ntipo de travesuras. Hombre, buenos tiempos, buenos\ntiempos."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Puede que no lo parezca, pero ¡solían llamarme la\nreina del baile!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Bueno, no es como si a alguien le importara. Pero\noye, tener el baile de festival como uno de mis\npocos talentos es bastante representativo, ¿no\ncrees?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "En fin, suficiente del pasado. ¡Vamos a ver ese\nfestival!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Hombre, nada supera a un festival de verano."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ahora, ¿a dónde primero? Hay fideos, maíz asado...\n¡Oh, calamar a la parrilla también suena bien!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Jeje, he estado entrenando como loca, así que creo\nque me merezco un pequeño premio!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Entrenador, tienes que soltarte un poco más. No\npuedo ser la única que se pone toda emocionada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nature y yo pasamos un rato caminando por el\nfestival..."
+    },
+    {
+      "name": "Organizadora del festival",
+      "text": "¡Puedes registrarte para el Gran Premio de Baile\ndel Festival aquí!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿El Gran Premio de Baile del Festival?",
+      "choice_data_list": [
+        "Estaría bueno verte en acción.",
+        "Estaría bueno verte en acción."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Eh?! No no no no, espera un momento ahora."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Dije que mis amigos pensaban que era buena\nbailando, no que era material de competencia."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Si voy a bailar, prefiero que sea en un parque\npequeño con gente que conozco.",
+      "choice_data_list": [
+        "¿Estás llamando mentirosos a tus amigos?",
+        "¿Estás llamando mentirosos a tus amigos?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "E-e eso no es el problema aquí..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Hombre, realmente te esfuerzas mucho cuando se\ntrata de convencerme para hacer algo."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "En vez de bailar, ¡vamos a ver más puestos! ¡Aún\nno he probado las papas con mantequilla! ¡Vamos,\nrápido!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Voy tras Nature, que ya se ha lanzado a los\npuestos de comida, dejando atrás a la multitud que\nbaila."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Uf... Estoy lleno. Tal vez me excedí con esas\nbrochetas."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Muy bien, he hecho lo que vine a hacer, así que\n¿queremos volver? Todavía tenemos entrenamiento\nmañana."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Justo cuando estamos a punto de dejar el festival\ny volver al dormitorio..."
+    },
+    {
+      "name": "Organizadora del festival",
+      "text": "¡Última llamada para registrarse en el Gran Premio\nde Baile del Festival!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...O-oye."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿De verdad quieres ver? Mi... um, baile..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Mis amigos dijeron que era buena, pero en realidad\nes solo el baile de festival de todos los días...",
+      "choice_data_list": [
+        "¡Quiero verte bailar!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Jaja... Ya veo. Entonces me inscribiré."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Pero no te hagas muchas ilusiones, ¿vale? Ha\npasado un rato desde que he hecho algún tipo de\nbaile.",
+      "choice_data_list": [
+        "Si ya te inscribes, ¡más vale que apuntes al oro!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿¡Estabas siquiera escuchando lo que acabo de\ndecir?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Nature se inscribe en el Gran Premio de\nBaile del Festival."
+    },
+    {
+      "name": "Organizadora del festival",
+      "text": "La ganadora del Gran Premio de Baile del Festival\nde este año es..."
+    },
+    {
+      "name": "Organizadora del festival",
+      "text": "¡Número 12! Proveniente de Tracen Academy, ¡es la\nUmamusume—Nice Natty!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Es Nice <i>Nature.</i> Espera, ¿¡no puede ser? ¿Y-yo?!"
+    },
+    {
+      "name": "Organizadora del festival",
+      "text": "Tu entusiasta actuación nos llegó directamente al\ncorazón. Todos los jueces te eligieron por\nunanimidad. ¡Felicitaciones!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "M-muchas gracias..."
+    },
+    {
+      "name": "Organizadora del festival",
+      "text": "¡Demos un aplauso para nuestra ganadora—Nice\nNatty!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Aplauso, aplauso, aplauso!</i>"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Como dije, no es Natty—Ah, gracias, gracias."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Guau... no pensé que ganaría todo el concurso.",
+      "choice_data_list": [
+        "¡Felicitaciones!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Sí, gracias. Todavía no estoy segura de qué me\npasó, inscribiéndome en un concurso así."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Quién sabe... tal vez tu ilimitado optimismo ha\nempezado a contagiarse en mí.",
+      "choice_data_list": [
+        "¿Tal vez solo estás empezando a creer un poco más\nen ti misma?",
+        "¿Tal vez solo estás empezando a creer un poco más\nen ti misma?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Sí sí, no te preocupes—todavía soy la misma\naguafiestas."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Muy bien, ¡mañana vuelve el entrenamiento! Tal vez\ntambién sea la ganadora en mi próxima carrera. Uno\nsiempre puede soñar, ¿verdad?"
+    }
+  ]
+}

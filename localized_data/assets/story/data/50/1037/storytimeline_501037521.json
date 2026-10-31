@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Eishin Flash",
+      "text": "Buenos días, Entrenador—"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡Ngh! ¡Ejem...",
+      "choice_data_list": [
+        "...¿Q-qué fue eso?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Eso estuvo cerca. Casi bostecé en tu presencia..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Te ruego que me disculpes. Últimamente, me ha\nresultado difícil conciliar el sueño por la noche."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Mi cerebro empieza a generar múltiples variaciones\nde diferentes horarios en el momento en que me\nacuesto."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Una vez presentadas estas opciones, empiezo a\nreflexionar sobre qué versión es la más eficiente,\ny... Urgh... Aquí voy, pensando en ellas de\nnuevo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Eishin Flash no ha estado descansando\nmucho últimamente..."
+    }
+  ]
+}

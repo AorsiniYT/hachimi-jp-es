@@ -1,0 +1,148 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hishi Amazon sufre una lesión durante el\nentrenamiento, así que vamos a que la atiendan."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Uf... Movámonos.",
+      "choice_data_list": [
+        "¿A qué?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡A entrenar, obviamente! Hay más en el\nentrenamiento que correr."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Si no puedo trabajar mis piernas, trabajaré mis\nbrazos y espalda! ¡No puedo empezar a holgazanear\nsolo porque me lastimé!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Urk... Ay.",
+      "choice_data_list": [
+        "Realmente necesitas descansar.",
+        "Tomemos las cosas con calma y veamos cómo te va."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Por qué? ¿Qué tiene de malo un poco de\nentrenamiento de fuerza?",
+      "choice_data_list": [
+        "No quiero arriesgarme a que tu lesión empeore.",
+        "No quiero arriesgarme a que tu lesión empeore."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Sí, pero es un riesgo mucho mayor no hacer ningún\nentrenamiento!",
+      "choice_data_list": [
+        "Relájate—ten paciencia."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Yo <i>estoy</i> siendo paciente!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "...Oh, lo siento por gritarte.",
+      "choice_data_list": [
+        "Trabajaré en un plan para acelerar tu\nrecuperación.",
+        "Trabajaré en un plan para acelerar tu\nrecuperación."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Ok, gracias. Dejaré eso en tus manos y me\nrelajaré, entonces."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hishi Amazon descansa hasta que el dolor de su\npierna desaparece."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Muy bien! ¡Vamos al gimnasio y—"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Ay!",
+      "choice_data_list": [
+        "¡Cuidado!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hishi Amazon se cae en el momento en que intenta\npararse, pero afortunadamente logro atraparla\njusto a tiempo."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Ugh! Ay..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Gracias, Profe. Me salvaste ahí.",
+      "choice_data_list": [
+        "Quizás deberíamos posponer el entrenamiento.",
+        "Quizás deberíamos posponer el entrenamiento."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Sí, probablemente empeoraré las cosas a este\nritmo. Hoy iré a casa y descansaré.",
+      "choice_data_list": [
+        "Es una buena idea."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Esto es exactamente lo que querías desde el\nprincipio, ¿verdad?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Pero sabías que no habría estado de acuerdo si me\nhubieras ordenado descansar..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Muy bien. ¡Tomaré un tiempo libre hasta que mi\ncuerpo vuelva a la normalidad!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hishi Amazon cumple su palabra y descansa hasta\nque su lesión se cura completamente."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Muy bien! ¡Vamos al gimnasio y—",
+      "choice_data_list": [
+        "¡Ten cuidado mientras caminas!"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Sí, lo entiendo. Estoy tratando de no forzar mis\npiernas."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Vaya, solo hay tanto entrenamiento que puedo hacer\nasí.",
+      "choice_data_list": [
+        "Deja el régimen de entrenamiento en mis manos.",
+        "Deja el régimen de entrenamiento en mis manos."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Como si me dejaras entrenar a mi manera, ¿eh?\nBueno, eso está bien para mí."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Tú eres quien está comprometiéndose conmigo a\npesar de lo irrazonable que estoy siendo, ¡así que\nprometo no esforzarme demasiado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hishi Amazon entrena alrededor de su lesión y se\nrecupera rápidamente."
+    }
+  ]
+}

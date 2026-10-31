@@ -1,0 +1,231 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras comía con Symboli Rudolf..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ah... Eso estaba delicioso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Veo que ha doblado el envoltorio de su hamburguesa\nen un cuadrado ordenado. Tampoco hay una sola\nmancha alrededor de su boca.",
+      "choice_data_list": [
+        "Guau, ni siquiera haces un desastre cuando comes\nhamburguesas.",
+        "Guau, ni siquiera haces un desastre cuando comes\nhamburguesas."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Eh? ¿Eso es inusual?",
+      "choice_data_list": [
+        "Para el resto de nosotros, normalmente no es tan\nbonito..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le señalo que sus modales en la mesa son\nimpecables cuando come, a lo que ella responde..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Jaja... Si alguna vez llegas a conocer a alguno de\nmis hermanos mayores, te sorprenderás aún más."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ellos son el vivo ejemplo de la etiqueta. Cuando\nera pequeña, siempre copiaba su comportamiento.",
+      "choice_data_list": [
+        "¿Eres la menor?",
+        "¿Eres la menor?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Jeje, no. Tengo una hermana menor."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...Tuve que actuar el papel de la hermana mayor\nresponsable para no darle un mal ejemplo.",
+      "choice_data_list": [
+        "Seguro que ha crecido siendo una joven señorita\nadmirable.",
+        "Seguro que ha crecido siendo una joven señorita\nadmirable."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Oh sí, ella es nuestro orgullo y alegría. Aunque,\neso no es todo..."
+    },
+    {
+      "name": "Padre de Rudolf",
+      "text": "¿Has decidido tu propósito de Año Nuevo, Rudolf?"
+    },
+    {
+      "name": "Rudolf Joven",
+      "text": "¡Sí, Padre! Hablé con el Hermano y la Hermana al\nrespecto y ¡he tomado mi decisión!"
+    },
+    {
+      "name": "Padre de Rudolf",
+      "text": "Oh, muy bien. Entonces, oremos. Primero, inclina\nla cabeza..."
+    },
+    {
+      "name": "Hermana Pequeña de Rudolf",
+      "text": "¡Mira, una doncella del santuario! ¡Tu ropa es tan\nbonita!"
+    },
+    {
+      "name": "Rudolf Joven",
+      "text": "¡L-lo siento mucho! Escucha, la doncella del\nsantuario está muy ocupada ahora mismo. No la\nmolestemos."
+    },
+    {
+      "name": "Doncella del Santuario",
+      "text": "Jeje, no hay problema. Además, recuerdo hablar con\nustedes el año pasado también. ¿Les gustaría sacar\nfortunas después de haber orado?"
+    },
+    {
+      "name": "Hermana Pequeña de Rudolf",
+      "text": "¡Sí! Ehehe, ¡no puedo creer que me recuerdes!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ella era del tipo que desaparecía de repente,\nluego regresaba con un nuevo amigo. Sí, esa\nsonrisa soleada suya es maravillosa, de hecho. Y\naun así..."
+    },
+    {
+      "name": "Hermana Pequeña de Rudolf",
+      "text": "¡Yujú, Hermana Mayor! ¡Por aquí!"
+    },
+    {
+      "name": "Rudolf Joven",
+      "text": "¡Ahí estás! ¿Qué haces bailando con los bailarines\nde león?!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...Ella solía estar en el centro de algunos\nalborotos. Creo que por eso hacía todo lo posible\npor mantener su mano cuando salíamos.",
+      "choice_data_list": [
+        "Ella sí suena como un problema..."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ajaja, un problema y una alborotadora. Pero\ngracias a ella..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Chapoteo!</i>"
+    },
+    {
+      "name": "Chica",
+      "text": "¡Mamá! ¡El agua salió por todas partes!"
+    },
+    {
+      "name": "Madre",
+      "text": "¡Lamento mucho el comportamiento de mi hija!\nEspero que su ropa no se haya mojado... Oh,\nquerido, ¡sus zapatos!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "No se preocupe. Está todo bien. Tiene una niña muy\nvivaracha."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Clink!</i>"
+    },
+    {
+      "name": "Chica",
+      "text": "Mamá, también se me cayó la cuchara."
+    },
+    {
+      "name": "Madre",
+      "text": "Ah... ¿Por qué estás tirando cosas?! Por favor\npórtate bien...",
+      "choice_data_list": [
+        "(Muy vivaracha, de hecho...)"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...Hmm. Oye, mira esto."
+    },
+    {
+      "name": "Chica",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...Hippity-hop.",
+      "choice_data_list": [
+        "¡Guau!"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Qué hacen las orejas de conejo?"
+    },
+    {
+      "name": "Chica",
+      "text": "¡Aleteo!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¡Flippity-flap! ¿Y las patas de conejo?"
+    },
+    {
+      "name": "Chica",
+      "text": "¡Hop!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ciertamente lo hacen. ¿Una vez más?"
+    },
+    {
+      "name": "Chica",
+      "text": "¡Hop! ¡Ehehe!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Jeje, ahora ella también puede hacer un conejo con\nsus manos.",
+      "choice_data_list": [
+        "¡Eres genial con los niños también!",
+        "¡Eres genial con los niños también!"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Jaja, bueno, así son las hermanas mayores. Usé\ntodos los trucos del libro para que mi hermana\nmenor se portara bien.",
+      "choice_data_list": [
+        "...Puedo decir que eres una hermana muy cariñosa.",
+        "...Puedo decir que eres una hermana muy cariñosa.",
+        "Apuesto a que también serías una gran madre."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Jaja, bueno, así son las hermanas mayores. Usé\ntodos los trucos del libro para que mi hermana\nmenor se portara bien.",
+      "choice_data_list": [
+        "...Puedo decir que eres una hermana muy cariñosa.",
+        "...Puedo decir que eres una hermana muy cariñosa.",
+        "Apuesto a que también serías una gran madre."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Naturalmente, entiendo que uno debe ser estricto\ncuando sea necesario."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...Después de todo, no hay nada tan lindo como un\nniño inocente."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Mamma mia. ¿Yo? ¿Una mamá?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...Algún día, quizás."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Pero dicen que \"la letra con sangre entra.\" Si\nfuera mi propia hija, bueno, quién sabe?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Symboli Rudolf sonríe cálidamente, quizás pensando\nen algunas de sus juniors."
+    }
+  ]
+}

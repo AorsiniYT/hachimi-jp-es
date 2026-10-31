@@ -1,0 +1,111 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Entrenador! ¡Felicidades!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Narita Brian ha sido seleccionada como Umamusume\ndel Año!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿Umamusume del Año?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ah, ¡Brian! ¡Perfecto timing! Permíteme explicar."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ese título se otorga a la corredora con los\nmayores méritos."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "También hay una ceremonia de premiación, así que\npor favor echa un vistazo a estos documentos sobre\nla asistencia."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Hehe, estoy segura de que la ceremonia será un\nhito enorme para ti."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Oye, ¿realmente tenemos que ir?",
+      "choice_data_list": [
+        "Bueno, técnicamente, podríamos faltar, pero..."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Sí, no soy fan de cosas así, y me gustaría evitar\nmolestias innecesarias."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Lo único en lo que quiero concentrarme ahora es en\ncorrer."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...He escuchado que corredores fuertes que han\nganado en el pasado también asistirán."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy segura de que poder verlos de cerca y\nescuchar cómo piensan tendrá un impacto positivo\nen su forma de correr. Sin mencionar...",
+      "choice_data_list": [
+        "Ir te motivará a ser más fuerte."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Mmm..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Es una oportunidad difícil de dejar pasar. Muy\nbien entonces..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Es tu deber hacerme más fuerte. Te dejo a ti\nguiarme."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ese es el trato al que me apunté, así que no\nescucharás quejas de mi parte. Elige el camino que\ncreas que necesito."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esta es una decisión importante que afectará su\nfuturo. ¿Debemos buscar codearnos con corredores\nexperimentados... o no? La mejor opción es...",
+      "choice_data_list": [
+        "Quieres enfrentarte a los mejores, ¡asistamos!",
+        "Quizás es un poco pronto."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Heh, está bien."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Entonces estoy contigo. Mudémonos al estadio donde\nluchan los más fuertes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, damos aviso de que Narita Brian asistirá."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Muy bien."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Todavía no soy más que una competidora. Es\ndemasiado pronto para que dé el siguiente paso."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ni siquiera estoy segura de entender qué es la\nfuerza todavía."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, damos aviso de que Narita Brian no\nasistirá."
+    }
+  ]
+}

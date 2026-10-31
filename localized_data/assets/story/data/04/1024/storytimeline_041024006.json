@@ -1,0 +1,249 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mayano Top Gun",
+      "text": "<i>Suspiro...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy saliendo a caminar en mi día libre cuando\nveo a Mayano Top Gun con la mirada baja.",
+      "choice_data_list": [
+        "(¿Pasó algo?)",
+        "(¿Pasó algo?)"
+      ]
+    },
+    {
+      "name": "Amiga de Maya A",
+      "text": "¡Oh, hola! ¡Hola, Maya! Estábamos hablando de ir\nde compras después de esto. ¿Quieres unirte a\nnosotras?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Hmmm... Lo siento, pero creo que voy a pasar esta\nvez. Tengo que irme ahora."
+    },
+    {
+      "name": "Amiga de Maya B",
+      "text": "¿Irte? ¿A dónde?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Voy a ver algunos aviones"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Oh... hola.",
+      "choice_data_list": [
+        "Pareces estar de mal humor. ¿Qué pasa?",
+        "Pareces estar de mal humor. ¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Mmmmm..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Hablemos de algo más. ¿Estás libre?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "O... ¿ocupada, tal vez?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Mayano quiere que me quede, así que\ndecido acompañarla por el día."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Tocado! ¡Jeje! ¡Finalmente estamos aquí! ♪ Está\nun poco lejos de la academia, pero me encanta este\nlugar."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Mira! ¡Ese avión tiene un envoltorio especial!\n¡Wow! ¡Incluso tienen un Beluga aquí!",
+      "choice_data_list": [
+        "¿Beluga? ¿Como la ballena?",
+        "¿Beluga? ¿Como la ballena?"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Sí! ¿Ves ese avión blanco? ¿El que parece tener\nuna cabeza gigante? Se llama Beluga como la\nballena. ¡Tiene que llevar otros aviones dentro de\nél!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "No se ven con frecuencia, así que somos muy\nafortunados hoy. ♪ Oh, derecho, debería tomar una\nfoto mientras estoy aquí..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Tres... dos... uno... ¡Queso! ☆"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Bien, esta salió genial. ☆ Jeje... Parece tan\nlinda como siempre...",
+      "choice_data_list": [
+        "¿De verdad te gustan los aviones?",
+        "¿De verdad te gustan los aviones?"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "O sea, vamos. ¡El cielo está lleno de todo tipo de\ncosas emocionantes! ¡Y los aviones van <i>zoooom</i>\njusto a través de él!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Así que, por supuesto, me gustan los aviones.\n¿Quién no los gustaría?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "En realidad, a mi papá también le gustan los\naviones. Le gustan tanto que se convirtió en\npiloto."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Así que en sus días libres, me llevaba al\naeropuerto como esto y me mostraba los diferentes\naviones. ¡Y luego íbamos de compras después de\nterminar de mirar."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "...",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Oh... No es nada. No es gran cosa."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Basta de eso. Tengo hambre. ¡Vamos a buscar algo\npara comer o algo así. Hay mucha comida buena en\nlos aeropuertos."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Y después de terminar de comer, podemos caminar un\npoco más."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Primero, vamos a ir de compras. Quiero comprar\nalgunas cosas para mis amigas."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Necesito comprar algo para Marvey y Teio... Oh, y\npara Yukipe, Biko y Flor también.",
+      "choice_data_list": [
+        "Tienes muchos amigos, Mayano.",
+        "Tienes muchos amigos, Mayano."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Jeje, ¡sí!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Espera, no podemos malgastar nuestro tiempo\nparados así. ¡Vamos, apúrate."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Este día será recordado como \"La mayor aventura en\nel aeropuerto de la vida de Maya\". Es hora de\ndespegar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de comer juntos, nos divertimos caminando\npor el aeropuerto de tienda en tienda, revisando\ntodo lo que tiene que ofrecer."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Finalmente..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Espera, ya es tan tarde."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Tomará algún tiempo regresar a la academia.\nTenemos que regresar antes del toque de queda, así\nque supongo que deberíamos irnos..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "<i>Suspiro...</i>",
+      "choice_data_list": [
+        "(Ella todavía debe estar sintiéndose mal...)",
+        "(Ella todavía debe estar sintiéndose mal...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Trato de pensar en formas de animarla, cuando de\nrepente, el Beluga que me contó antes aparece en\nmi campo de visión."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras se dirige hacia la pista de despegue, se\nme ocurre una idea.",
+      "choice_data_list": [
+        "Hey, Mayano. ¿Qué tal si nos detenemos en la\nterraza de observación?",
+        "Hey, Mayano. ¿Qué tal si paramos en la terraza de\nobservación?"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Eh? ¿Por qué? ...Espera, ¡ya sé!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡El Beluga está despegando! ¡Guau, quiero verlo\nvolar!",
+      "choice_data_list": [
+        "Si regresamos tarde, iré a disculparme contigo.",
+        "Si regresamos tarde, iré a disculparme contigo."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿De verdad lo harás?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Genial, vámonos a la terraza de observación!\n¡Despegue!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Uuuuu! ¡Guau! ¿Viste eso?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Todo fue como <i>boom,</i> y luego fue como <i>peeeew.</i>\n\"Beluga\" realmente es el nombre perfecto para\neso... ¡Es como una ballena que nada por el cielo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al ver a Mayano mirando hacia el cielo desde la\nterraza de observación, puedo ver que ha vuelto a\nser su yo alegre de siempre."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Genial! Llegamos justo a tiempo.",
+      "choice_data_list": [
+        "Menos mal que nos apuramos en regresar.",
+        "Menos mal que nos apuramos en regresar."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Sí! Un final divertido para un día divertido. ☆"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Me divertí muchísimo hoy. Como, mucho, mucho,\nmucho."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Mamá y papá no están aquí en la academia. Está\nbien, pero a veces pienso en que estoy aquí sola y\nme hace sentir un poco... sola, supongo."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Pero tengo muchos amigos y ahora también te tengo\na ti."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Jeje... Vamos a tener otra aventura juntos algún\ndía, ¿de acuerdo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mayano Top Gun agita furiosamente su mano y\nregresa a su dormitorio."
+    }
+  ]
+}

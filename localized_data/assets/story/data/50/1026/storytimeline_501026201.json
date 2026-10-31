@@ -1,0 +1,44 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Rice Shower",
+      "text": "Bueno, aquí estoy, para ver la carrera..."
+    },
+    {
+      "name": "Espectador A",
+      "text": "Mihono Bourbon está compitiendo hoy. ¿Escuchaste\nque apunta a la Classic Triple Crown?"
+    },
+    {
+      "name": "Espectador B",
+      "text": "Claro que sí. Pero ¿no es mejor en carreras de\nvelocidad?"
+    },
+    {
+      "name": "Espectador A",
+      "text": "Eso pensé yo también. Su entrenador solo está\ndesperdiciando el tiempo de ambos."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡B-bourbon! ¡T-tú puedes!"
+    },
+    {
+      "text": "El murmullo de la multitud resuena silenciosamente\nen todo el túnel de las corredoras."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Hoy, en la Asahi Hai Futurity Stakes, cumpliré\nnuestro objetivo de cambiar la percepción pública\nde mí."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Me voy ahora, Entrenador.",
+      "choice_data_list": [
+        "¡Sal ahí y da todo lo que tienes!",
+        "¡Sal ahí y da todo lo que tienes!"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¡Entendido!"
+    }
+  ]
+}

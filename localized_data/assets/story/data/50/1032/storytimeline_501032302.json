@@ -1,0 +1,264 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, estoy de compras con Agnes Tachyon."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Conseguimos todo lo que quería. ¿Deberíamos volver\ncon las bolsas?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...¿Oh? ¿Qué es eso por allá?"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El gran premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Los ganadores del primer premio reciben una\nhamburguesa de zanahoria deluxe, el segundo una\ncanasta de zanahorias y el tercero una sola\nzanahoria."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡No dejes pasar esta oportunidad! ¡Consigue un\nboleto ahora y gira para tener la oportunidad de\nganar!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ya veo, una rifa."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Eso me recuerda, de hecho recibimos un boleto de\nrifa mientras comprábamos antes."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Cuáles son las posibilidades? Entrenador, ¿por\nqué no pruebas tu suerte?",
+      "choice_data_list": [
+        "¿No quieres intentarlo?",
+        "¿No quieres intentarlo?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No del todo. Prefiero observar, yo mismo."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Cuando la bola ruede desde el tambor, me pregunto\ncómo su color afectará tu respuesta emocional."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ahora que sabes lo que quiero, es hora de ponerse\na ello. ¡Muéstrame la relación entre las\nrespuestas emocionales y los músculos miméticos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cedo a su presión y me dirijo hacia el puesto de\nrifa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Giro el tambor, y lo que sale es..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Caramba! ¡Tenemos un ganador del gran premio!\n¡Ven a recoger el cupón para tus vacaciones en\naguas termales! ¡Felicitaciones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Y así como así... ¡el gran premio!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Je-je, ¡qué suertudo eres!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Tus músculos faciales estaban al principio tensos\npor la anticipación pero luego se relajaron\nrápidamente en los signos reveladores de una\nsonrisa alegre!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Qué vista tan fascinante para contemplar!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Pero ganar un viaje a aguas termales, de todas las\ncosas... mmm."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Sí. Deberías quedártelo.",
+      "choice_data_list": [
+        "Espera, ¿por qué?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Por qué? preguntas. Hoy en día, con tecnologías\ncomo los tours virtuales, ya no es necesario salir\nde la casa si la intención es viajar."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No es más que un problema tener que viajar hasta\nalgún lugar distante. ¿No crees?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Quédate con el boleto. Invita a un amigo para ir\ncontigo o algo así."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bueno, ciertamente no lo va a recuperar. Estoy de\nacuerdo en guardarlo por ahora."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Recibes un filete de\nhamburguesa de zanahoria de lujo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Oh! ¡Esto es genial!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Zanahoria fresca servida encima de un jugosamente\ndelicioso filete de hamburguesa..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Si incorporo <i>eso</i> en esto, ¡ninguna Umamusume podrá\nresistirse! ¡Je-je-je!",
+      "choice_data_list": [
+        "¿De qué se trata?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Oh, nada en particular, solo hablando conmigo\nmisma."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Apresurémonos en volver, Entrenador! ¡Asegúrate\nde llevar la comida con máxima precaución!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo la inquietante sensación de que está\ntramando algo. No obstante, llevo el filete de\nhamburguesa de zanahoria de lujo de vuelta a la\nacademia."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te vas a casa con un haz de\nzanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Guau, eso no está nada mal."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Esto combinará bien con los otros artículos que\ncompramos hoy."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Mientras parezca una zanahoria, podré atraer a\nalgunas Umamusume... Je-je.",
+      "choice_data_list": [
+        "¿De qué se trata?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Oh, nada en particular, solo hablando conmigo\nmisma."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Apresurémonos en volver, Entrenador. De repente\ntengo un asunto urgente que atender."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo la inquietante sensación de que está\ntramando algo. No obstante, llevo el haz de\nzanahorias de vuelta a la academia."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Mira nada más! ¡Has ganado el tercer premio!\n¡Aquí está tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Je-je... ¡Bien, Entrenador!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "La vista de ti, rodeado por una multitud de\nespectadores, con una sola zanahoria en mano..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Ajaja! ¡Como un conejillo de indias que acaba de\nponer sus patas en su comida!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Vaya, qué espectacular! ¡Sigue así, mi querido\nconejillo de indias sumiso!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Albergando sentimientos confusos, rápidamente meto\nla zanahoria en la bolsa de compras."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Ohhh, mala suerte! ¡Parece que sacaste un boleto\nvacío! ¡Toma este paquete de pañuelos como premio\nde consolación!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Je-je... Eso fue interesante de observar."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Tu rostro estaba al principio rebosante de\nexpectación, luego se desvaneció rápidamente en\ndecepción!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Una reacción terriblemente pura y honesta. Es\nasombroso cuánto puede transmitir el rostro."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Dicho eso, es una lástima que básicamente hayas\nperdido."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Bueno, supongo que aceptaré el paquete de\npañuelos. Podría ser útil cuando alguien derrame\nalgo la próxima vez."
+    },
+    {
+      "name": "Monólogo",
+      "text": "De mal humor, regreso a la academia con Agnes\nTachyon."
+    }
+  ]
+}

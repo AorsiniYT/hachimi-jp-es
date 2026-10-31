@@ -1,0 +1,228 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Han pasado unos meses desde el debut de Mayano.\nMientras entrenamos como de costumbre..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Yukino? ¿Estás bien? ¿Por qué no tomas un\ndescanso?",
+      "color_text_info_list": [
+        "Yukino"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Estoy perfectamente! ¡Puedo seguir, ya sabes!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "De todos modos, ¡quiero alcanzarte! ¡Cada segundo\ncuenta!",
+      "color_text_info_list": [
+        "★★★"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Ya veo. Jeje."
+    },
+    {
+      "name": "Gold City",
+      "text": "En ese caso, hagamos otra vuelta."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "...Ah.",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Whoa! ¡Entrenador?!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡No es nada! Absolutamente nada..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "<i>Suspiro...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella dice que no es nada, pero ese profundo\nsuspiro indica lo contrario.",
+      "choice_data_list": [
+        "¿Quieres hacer otra cosa?",
+        "¿Quieres hacer otra cosa?"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Otra cosa? ¿Quieres decir, como... salir en una\ncita?",
+      "choice_data_list": [
+        "Sí."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿¡En serio!?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Yay! ¡Dame un minuto para prepararme! ¡Una cita\ncon el Entrenador! ¡Yaaay! ☆"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Ehehe, me pregunto cómo será salir en una cita de\nadultos. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso, salimos. Hablando de un lugar que la\nanimará..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡La última parada de nuestra cita tiene que ser el\nlugar donde yo brillo más!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Solo hay un lugar donde podría ser."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Esto es...",
+      "choice_data_list": [
+        "El lugar donde tú brillas más.",
+        "El lugar donde tú brillas más."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Todavía lo crees? ¿Incluso ahora?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Y si te digo que estoy empezando a dudarlo? ¿Te\nenojarías?",
+      "choice_data_list": [
+        "¿Por el cambio tan repentino?",
+        "¿Por el cambio tan repentino?"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Bueno..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Solía pensar que poder correr en una carrera real\nsería tan emocionante."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Quiero decir, ¡todas las corredoras son tan\nbrillantes, ya sabes?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Por eso siempre esperaba con ansias correr—en mi\ncarrera debut y en todas mis otras carreras\ntambién."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Pero cuando finalmente corrí esas carreras, fue...\ndiferente de lo que pensé."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Sentí como, \"Oh, así que esto es correr. Es algo\naburrido.\""
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Honestamente, sé que no debería decir cosas así.\nSoy consciente de ello, pero..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "No importa qué haga, es tan aburrido.",
+      "choice_data_list": [
+        "Ya veo.",
+        "Ya veo."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "...Sí."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "...",
+      "choice_data_list": [
+        "¡He oído que eso es algo bueno!"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Huh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hasta ahora, ella solo ha corrido en las carreras\nde nivel debut de la Twinkle Series."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y simplemente no está satisfecha con correr a este\nnivel. Todo eso significa es que tiene que apuntar\nal siguiente nivel."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su oportunidad de enfrentarse a oponentes más\nfuertes llegará. Hay carreras que aún no ha\nexperimentado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así que si solo está preocupada por sentirse\naburrida ahora...",
+      "choice_data_list": [
+        "¡Deberíamos intentar divertirnos más desde ahora!"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Más divertido?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Podemos hacer eso? Te dije, soy—",
+      "choice_data_list": [
+        "Voy a hacer lo mejor posible para ayudarte a\nbrillar.",
+        "Voy a hacer lo mejor posible para ayudarte a\nbrillar."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "...Gracias."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sé que ella brillará de una manera que solo ella\npuede."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como pude convertirme en el entrenador de una\ncorredora tan naturalmente dotada como Mayano Top\nGun..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es mi deber ponerla en carreras donde pueda usar\nes talento y mejorar sus habilidades únicas."
+    }
+  ]
+}

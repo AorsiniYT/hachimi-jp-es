@@ -1,0 +1,111 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Me topo con Matikanetannhauser mientras ella está\nen medio de su entrenamiento y me detengo a hablar\ncon ella cuando..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Awww! ¡Mira ese cochecito súper lindo por allá!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Incluso tiene orejas de Umamusume pegadas! Y una\nde ellas tiene una cinta rosa. ¡Qué dulce!",
+      "choice_data_list": [
+        "¿Será que es una Umamusume bebé?"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Deben ser la mamá y el papá del bebé al lado del\ncochecito."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Pero la mamá no tiene orejas de Umamusume. Quizás\nsolo son admiradores de las carreras.",
+      "choice_data_list": [
+        "¡Podrían incluso ser <i>tu</i> admirador!"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Ahaha! ¡Como si! ¿Quién sería admirador de\nalguien tan normal como yo—"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¿Qué... Oh, no!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todo sucede en menos de un segundo. La mochila del\npadre choca contra el cochecito, y este empieza a\nrodar rápidamente por la orilla del río."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "...!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Corre, corre, corre! ¡Whoosh!</i>"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Uf! Justo a tiempo..."
+    },
+    {
+      "name": "Madre",
+      "text": "¡Oh, Dios mío!"
+    },
+    {
+      "name": "Padre",
+      "text": "¿Estás bien?!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Estoy bien! ¡Estoy más preocupada por su bebé!\nEspera, ¿dónde está?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ah... A salvo en los brazos de su madre... Ni\nsiquiera me di cuenta..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Vaya, no puedo creer que me haya lanzado tras un\ncochecito vacío. Qué vergüenza...",
+      "choice_data_list": [
+        "¡De verdad que te lanzaste allí!",
+        "¡Ni siquiera dudaste!"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Sí, pero fue todo en vano. Los padres no paraban\nde disculparse y también de agradecerme."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Me alegra mucho que el cochecito lindo esté bien,\npero..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Vaya... ¿Cuándo voy a poder descansar por fin?\nSolo quiero verme genial por una vez..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Matikanetannhauser puede sentirse insatisfecha,\npero los padres parecen genuinamente agradecidos."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Por supuesto que no!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Pensé que el bebé iba a caer rodando por la orilla\ndel río si no hacía algo."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "<i>Suspiro.</i> Pero, bueno... Jeje. Supongo que metí la\npata."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Matikanetannhauser intenta ocultar su vergüenza\nriendo, pero creo que hoy hizo algo muy noble."
+    }
+  ]
+}

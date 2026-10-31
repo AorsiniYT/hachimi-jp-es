@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Brian",
+      "text": "<i>Bostezo...</i>",
+      "choice_data_list": [
+        "Pareces tener sueño. ¿Estás bien?",
+        "Pareces tener sueño. ¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Estoy bien. Solo he estado trabajando en el\nmantenimiento de los tacos durante los últimos\ndías."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ambos tacos están muy desgastados. No puedo dar mi\nmáximo en una carrera si los dejo en mal estado."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Preferiría no dormir en absoluto a no poder\nsatisfacer esa necesidad."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que está tan obsesionada con competir que\nno ha dormido en días..."
+    }
+  ]
+}

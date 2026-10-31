@@ -1,0 +1,256 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gold City",
+      "text": "Todavía estoy temblando, eso fue una locura...\n¡Pero lo logré!"
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Le gané a Tamamo!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Guau! ¿City le ganó a <i>Tamamo Cross</i>?!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Increíble! ¡Ojalá corra aún más espectacularmente\nel próximo año!"
+    },
+    {
+      "name": "Gold City",
+      "text": "...!"
+    },
+    {
+      "name": "Gold City",
+      "text": "En otras palabras, no te importan mis resultados?"
+    },
+    {
+      "name": "Fan A",
+      "text": "Es una lástima por Tamamo Cross, pero vaya, ¡qué\npelea dio!"
+    },
+    {
+      "name": "Fan B",
+      "text": "Tamamo Cross podría ser una tardía, pero será aún\nmás fuerte el próximo año por eso. ¡Tenemos que\nmantener la vista en ella durante su último año!"
+    },
+    {
+      "name": "Gold City",
+      "text": "¿No es genial? Solo hablan de su actuación."
+    },
+    {
+      "name": "Gold City",
+      "text": "Aunque <i>soy</i> yo la que ganó. <i>Soy</i> yo la que es más\nfuerte."
+    },
+    {
+      "name": "Gold City",
+      "text": "Jaja... <i>Suspiro...</i>"
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Para qué me molesté siquiera?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Qué pérdida de tiempo."
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "City..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Oye! ¿Cuál es la gran idea?!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿No me escuchaste cuando dije que no lo hicieras a\nmedias allá afuera?!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero no lo hice... Te gané limpiamente."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Eso no es lo que quiero decir y lo sabes!"
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Tch... <i>¡Bien! ¡Sé </i>un poco llorona, entonces!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Y yo que pensé que querías mostrarle a todos que\ntienes agallas!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Hmph... Supongo que te preguntaré una vez más."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Para qué corres?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Por qué corres?"
+    },
+    {
+      "name": "Gold City",
+      "text": "...¿No es obvio?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Yo..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡No mires hacia abajo! ¡Mírame a los ojos!"
+    },
+    {
+      "name": "Gold City",
+      "text": "...!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Yo..."
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Increíble. No me digas que me ilusioné por esto..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Lo que sea... No es como que algo que diga marque\nla diferencia. Perdí."
+    },
+    {
+      "name": "Gold City",
+      "text": "...¿Por qué no pude decir nada?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Oh, bueno... ¿a quién le importa? No es como que\nalgo de esto importe."
+    },
+    {
+      "name": "Gold City",
+      "text": "Entrenador. Terminé."
+    },
+    {
+      "name": "Gold City",
+      "text": "No tiene sentido correr más.",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "La gente siempre me mirará igual, no importa lo\nbien que lo haga."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pensé que las cosas cambiarían si les mostraba mi\nhabilidad. Por eso me esforcé tanto."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero todo fue solo pensamiento deseoso."
+    },
+    {
+      "name": "Gold City",
+      "text": "La gente solo se preocupa por \"Pretty City.\" Mi\nforma de correr no significa nada para ellos."
+    },
+    {
+      "name": "Gold City",
+      "text": "Todo mi esfuerzo hasta ahora ha sido inútil. Y\nseguirá siendo inútil."
+    },
+    {
+      "name": "Gold City",
+      "text": "Así que... simplemente no me importa más."
+    },
+    {
+      "text": "Gold City se ve derrotada. Quizás hacerla competir\nen el Arima Kinen fue una mala idea."
+    },
+    {
+      "text": "Pero hay una cosa que necesito confirmar antes de\nque el arrepentimiento me domine.",
+      "choice_data_list": [
+        "¿Entonces, te retiras?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "text": "Ella no dice nada. Pero ese silencio es todo lo\nque necesito escuchar.",
+      "choice_data_list": [
+        "(¡No hay forma de que City quiera retirarse!)"
+      ]
+    },
+    {
+      "text": "Ella solo está soltando lo que ha estado reprimido\ntodo este tiempo. Lo único que puedo hacer es\ncontinuar preparándola para el camino que ha\nelegido."
+    },
+    {
+      "name": "Gold City",
+      "text": "Me voy a cambiar. Vete, por favor.",
+      "choice_data_list": [
+        "Antes de eso, decidamos tu próxima carrera.",
+        "Antes de eso, decidamos tu próxima carrera."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...¿Qué?"
+    },
+    {
+      "name": "Gold City",
+      "text": "¿No acabo de decir que no tiene sentido correr\nmás?",
+      "choice_data_list": [
+        "Apuntemos a la Senior Spring Triple Crown."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "No estás escuchando.",
+      "choice_data_list": [
+        "¡Sigamos mostrando tu habilidad!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Ugh, bien... Hazlo tú mismo. No como que me\nnecesites allí para el proceso de inscripción."
+    },
+    {
+      "name": "Gold City",
+      "text": "Si quieres hacerme correr tanto, entonces\nadelante.",
+      "choice_data_list": [
+        "Bien, ¡empecemos con el Osaka Hai!",
+        "Bien, ¡empecemos con el Osaka Hai!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿De verdad vas a hacer esto?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Lo que sea... solo vete para que pueda cambiarme."
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Dije que te vayas!"
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Qué pasa? ¿No dije que no tiene sentido?"
+    }
+  ]
+}

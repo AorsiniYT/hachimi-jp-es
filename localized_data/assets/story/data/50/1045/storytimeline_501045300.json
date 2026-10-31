@@ -1,0 +1,63 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El campamento de verano está llegando a su fin.\nHemos devenido un equipo verdaderamente formidable\nmientras nos relajábamos durante el verano."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Reviso nerviosamente a Super Creek. Me pregunto\ncómo se siente ahora."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Hmm, no puedo explicarlo muy bien... Siento que...\nun hueso se ha desencajado.",
+      "choice_data_list": [
+        "¿Un hueso?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Sí! Como un hueso de pescado que se te ha quedado\natascado en la garganta no sé por cuánto tiempo."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Y ahora que el hueso se fue, me siento increíble."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Creo que estaré bien, pero incluso si no lo\nestoy..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Tengo a mi leal entrenador aquí para apoyarme!\n¡Jeje! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que todo salió bien. Ella podría estar en\nperfecto estado otra vez."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Volvemos entonces, Entrenador?",
+      "choice_data_list": [
+        "¿A la Academia Tracen?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "No, a nuestro yo del pasado, cuando debutamos\njuntos... a cuando no teníamos ninguna\npreocupación en el mundo."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Los Clásicos... Todavía están ahí, esperando a ser\nconquistados, ¿verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tiene razón. Todavía tenemos tiempo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras podamos llegar al Kikuka Sho, sé que\nSuper Creek puede demostrarle a todos de qué está\nrealmente hecha."
+    }
+  ]
+}

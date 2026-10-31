@@ -1,0 +1,87 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mihono Bourbon",
+      "text": "Una vez más... yo... perdí."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Buscando nuevas operaciones de recuperación...\nCero resultados encontrados."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Estado—\"estancamiento\". ¿Qué debo hacer?",
+      "choice_data_list": [
+        "Pensemos en un plan para superar esto juntos.",
+        "¡Cambiar estado a \"motivado\"!"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Entrenador..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Me disculpo. Mi agitación parece haber\nresultado en un error de procesamiento."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Recuperación completa. He recordado algo de\ninformación importante."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Recuerdo que cuento con tu apoyo y que hemos\nllegado tan lejos juntos.",
+      "choice_data_list": [
+        "¡Trabajemos extra fuerte a partir de mañana!"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Cambiar estado a \"motivado\"... Orden reconocida."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Iniciando cambio de modo—ejecutando \"bofetada\nmotivadora\".",
+      "choice_data_list": [
+        "¿U-una bofetada?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¡Ja!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Plas!</i>"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...",
+      "choice_data_list": [
+        "¿Eso no dolió?",
+        "¿Eso no dolió?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Sí. Me golpeé con gran fuerza para estimularme.\nCambio de modo exitoso."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "La adversidad trae fuerza. Nunca te rindas. Si te\nrindes, entonces se acabó..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Pero no se acabó para mí. ¡Haré lo mejor mientras\nesté \"motivada\"!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "De cualquier manera, parece que ha logrado superar\nsu fracaso."
+    }
+  ]
+}

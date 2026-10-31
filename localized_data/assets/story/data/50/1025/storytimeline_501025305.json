@@ -1,0 +1,170 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Manhattan Cafe",
+      "text": "<i>Haa... Haa...</i> Tachyon... realmente es rápida."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Ughhh... <i>¡Tos!</i>",
+      "choice_data_list": [
+        "¿Estás bien?!",
+        "¿Estás bien?!"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Estoy bien... Perdón por hacerte preocupar. Parece\nque... he alcanzado mi límite.",
+      "choice_data_list": [
+        "Entonces... ¿dónde estaba tu amiga?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "No tengo duda... Ella estaba allí... por delante\nde Tachyon."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Ahora mismo, Tachyon es la más cercana a mi amiga.\nNo tengo opción... más que perseguirla."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Haré de mi competencia con ella... mi punto de\nreferencia...",
+      "choice_data_list": [
+        "Está bien, entendido.",
+        "Está bien, entendido."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La gira de la Triple Corona Clásica y la meta de\nManhattan Cafe de perseguir a su amiga se alinean\nperfectamente. Si puede seguir persiguiendo a\nAgnes Tachyon en el futuro..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Je, je, je, je! ¡Ahora entiendo, Cafe! <i>Esto</i> es\n¡quién eres!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Oh, esto es bueno! ¡Esto es <i>bueno!</i> No tienes\nninguna oportunidad, ¡pero es bueno! El fracaso\nque anticipé está en desacuerdo con el éxito\nimprevisto!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Y con razón. El mundo funciona con el proceso de\neliminación, sabes. Je, je, je..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agnes Tachyon se ríe para sí misma con júbilo por\nun rato, luego mira al cielo y susurra algo."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Taquiones—las partículas hipotéticas que se cree\nse mueven más rápido que la luz."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Pero incluso si son hipotéticos, debería hacer una\ndemostración... de la estela nacida de la locura."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "El Satsuki Sho. No tengo duda de que brillantes\nbrasas surgirán una vez que el infierno amaine."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más tarde esa noche..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Si voy a perseguir a Tachyon, creo que mi próxima\ncarrera debería ser el Satsuki Sho...",
+      "choice_data_list": [
+        "...Espera."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estaba pensando que iríamos directo a la gira de\nla Triple Corona, pero debería dar un paso atrás y\npensar esto bien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agnes Tachyon parecía intrépida esta tarde. Y\nencima de eso..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Ughhh... <i>¡Tos!</i> Ugh...",
+      "choice_data_list": [
+        "¿No crees que la carrera de hoy fue bastante dura\npara ti?",
+        "¿No crees que la carrera de hoy fue bastante dura\npara ti?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "S-sí... Un poco..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La carrera de hoy ha pasado factura a su frágil\nconstitución. Incluso si nuestra meta está clara\nahora, apuntar a una carrera G1 en un futuro\ncercano está descartado."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "¿Qué tal... el Derby?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella podría estar en algo. El Derby Japonés es una\ncarrera que me gustaría ver ganar a Manhattan\nCafe.",
+      "color_text_info_list": [
+        "Derby Japonés"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aún así, si hiciéramos de eso nuestra meta,\ntendríamos que arriesgarnos mucho en cuanto a si\npodríamos lograrlo..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Lo siento. Todo lo que hago es arruinarlo..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "No debería aprovecharme... de tu bondad... No en\nun momento como este. <i>¡Tos...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Calmonos por un momento y pensemos en esto. Si\nvamos por un éxito constante...",
+      "choice_data_list": [
+        "Participemos en el St. Lite Kinen en otoño."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "En otoño... La preliminar del Kikuka Sho... Eso\nestá tan lejos...",
+      "color_text_info_list": [
+        "Kikuka Sho"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Pero deberíamos... al menos intentar el Derby...",
+      "choice_data_list": [
+        "Podemos considerarlo mientras monitoreamos tu\ncondición."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Mi condición..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Okay. Pero si puedo recuperarme a tiempo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por ahora, el St. Lite Kinen es nuestra meta, y\nparticiparemos en el Derby Japonés si podemos.\nComo su entrenador, este es el mejor mapa de ruta\nque puedo ofrecer.",
+      "color_text_info_list": [
+        "St. Lite Kinen"
+      ]
+    }
+  ]
+}

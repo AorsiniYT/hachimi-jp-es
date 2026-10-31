@@ -1,0 +1,173 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Guau, ya estamos de vuelta en la academia! ¡Hoy\npasó volando!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Eh? ¿Ese no es...",
+      "choice_data_list": [
+        "¿Qué es?",
+        "¿Qué es?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Ese no es... Air Groove? ¡Parece que viene hacia\nacá!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Y si se entera de que fui yo quien puso los\ncojines de broma en la oficina del consejo\nestudiantil?!",
+      "choice_data_list": [
+        "¿Por qué hiciste eso?!"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡No te equivoques! ¡Fue un hechizo! Si tiene\néxito, se supone que te da valor!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Aún así, no puedo permitir que sepa la verdad. ¡Si\nlo hace, el hechizo se convierte en maldición!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Entrenador... ¡No! <i>¡Entrenador Divino!</i>"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Entrego mi vida a tu cuidado! ¡Por favor, hazlo\nbien por mí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dicho eso, Matikanefukukitaru rápidamente sale\ndisparada, escondiéndose de la vista."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿A dónde se fue Fukukitaru? Juro que la vi hace un\nmomento por aquí...",
+      "choice_data_list": [
+        "Dijo que surgió algo."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ya veo... Entonces, ¿podrías pasarle este mensaje\npor mí?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Preferiría decírselo en persona, pero tengo una\nreunión de emergencia a la que asistir. Me temo\nque no puedo disponer del tiempo.",
+      "choice_data_list": [
+        "Claro.",
+        "De hecho, está por allá."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Por favor, dile que dije... gracias.",
+      "choice_data_list": [
+        "¿P-por qué?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Esta mañana en la residencia, me obligó a tomar\neste perforador con todo ese rollo de que era mi\nobjeto de la suerte."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Para ser honesto, no estaba seguro de creer en la\nadivinación, pero gracias a ella, pude prepararme\nefectivamente para mi próxima reunión."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Dicho eso, su comportamiento imprudente habitual\nno es aceptable. No debería dejarse llevar."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Dile eso también de mi parte.",
+      "choice_data_list": [
+        "...Y eso es lo que Air Groove tenía que decir.",
+        "...Y eso es lo que Air Groove tenía que decir."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Urk... <i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Wahhh! ¡Estoy tan feliz!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Que alguien valide mis adivinaciones... ¡Es como\nsi a mí también me validaran!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Sé por qué pasó esto..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Es porque me arriesgué poniendo todos esos\ncojines de broma! ¡Estoy segura!",
+      "choice_data_list": [
+        "Intenta no exagerar, ¿vale?",
+        "Intenta no exagerar, ¿vale?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Claro! No entiendo muy bien lo que quieres decir,\npero ¡lo intentaré!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Bueno, al menos va a recuperar los cojines de\nbroma."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Por allá?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Gah! ¡Traidora!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Oye, ¿qué actitud es esa? Solo estoy aquí para\nagradecerte por esta mañana."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Eh? ¿Agradecerme? Oh, ¿hablas del objeto de la\nsuerte?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Sí, exacto. Gracias a ese perforador que me diste—"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Ah, ¡así que era eso! Pensé que te habías enterado\nde que fui yo quien plantó todos los cojines de\nbroma la semana pasada!",
+      "choice_data_list": [
+        "Ugh..."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Oh, ¿así que eso fue cosa <i>tuya</i>?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Ups..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Por qué no vamos los dos a la oficina del consejo\nestudiantil ahora para que todos puedan...\nagradecerte... por tus contribuciones?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Arghh! ¡Que alguien me salveee!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Acompaño a Matikanefukukitaru para aceptar los\n\"agradecimientos\" de todos."
+    }
+  ]
+}

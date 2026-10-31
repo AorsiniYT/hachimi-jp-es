@@ -1,0 +1,45 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Justo cuando las clases de la mañana están por\ncomenzar..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Espera! ¡Espérame! ¡No cierres la puerta!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "<i>Haa... Haa...</i> ¿Lo logré? ¡Uf! ¡Lo logré!",
+      "choice_data_list": [
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡No, no estoy bien! Porque ambos mis..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tengo dos despertadores que configuro cada noche,\ny de alguna manera, las baterías de ambos se\nmurieron al mismo tiempo!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Dicen que siempre hay que tener un repuesto, pero\n¡creo que mi repuesto necesita un repuesto! Y\ntendré que verificar que los tres funcionen antes\nde dormir cada―",
+      "choice_data_list": [
+        "Eh, ¿no tienes clase?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Gah!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Vale, gracias! ¡Urk! ¡Quizás aún pueda llegar a\ntiempo!"
+    },
+    {
+      "text": "Sin su gracia habitual, Biwa Hayahide corre hacia\nla escuela con su melena salvaje como cola de\ncometa."
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Qué te parece, Spe? No hay daño en intentarlo,\n¿verdad?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Guau! ¿Tú hiciste este suplemento tú misma,\nTachyon?!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Y está lleno de nutrientes para una piel suave y\nradiante y un cabello brillante! ¡Me pregunto qué\notros beneficios tendrá!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Así es! ¿Qué te parece, entonces? Con esta oferta\nespecial hecha solo para ti... ¡puedes tenerlo\ngratis!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Agnes Tachyon está usando un discurso\nde ventas sospechoso con Special Week..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Gratis?! ¿E-estás segura?! ¡Muchas gracias,\nTachyon!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Sí, sí, sí. Adelante, ahora.",
+      "choice_data_list": [
+        "¡Espera un momento—!"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Tú... realmente no deberías hacer eso."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Bueno, hola, Cafe... y Entrenador."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...No tienes idea... de lo que podría pasar. Tu\ncabello... podría empezar a crecer. O, podrías\nempezar a brillar."
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Brillar?!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Jajaja! ¡Brillar! ¡Eso sí que es algo! Eso no\nsería una molestia para tu vida diaria en lo más\nmínimo!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Además, que tú tomes esto es para el avance de las\nUmamusume. ¡Un sacrificio digno!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Dónde estaríamos si no fuera por los sacrificios\npasados, eh?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "¿Digno? ¿Para quién? Tú serías la única en...\nobtener algo de esto."
+    },
+    {
+      "name": "Special Week",
+      "text": "Oh, um... ¡lo siento! En segundo pensamiento, creo\nque paso!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Agh, mi preciosa sujeto de prueba Umamusume..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Bueno... yo también debería irme..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Eh, eh! ¡Espera, Cafe!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...¿Qué es?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Mi derrota con Spe se debe a tu entrometimiento.\n¡Asume responsabilidad por tus acciones y toma mi\nsuplemento en su lugar!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Siempre... me pregunto esto... pero ¿alguna vez\nhas considerado... probarlo en ti misma?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Por supuesto que lo tomaría! Pero, es\nprácticamente inútil obtener resultados solo de mí\nmisma!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Incluso dos o tres participantes no serían un\ntamaño de muestra adecuado!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "No lo haré..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡¿Quéeee?! ¡¿Cómo puedes decir eso?! ¡Vamos, Cafe!\n¡Ayúdame!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Para lograr resultados precisos, es necesario\nexaminar a cada Umamusume bajo diversas\ncondiciones."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agnes Tachyon parece estar a solo un \"no\" de tener\nun berrinche completo. ¿Qué hacer...",
+      "choice_data_list": [
+        "Lo tomaré.",
+        "(Será mejor dejarla en paz...)"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Eh? ...¡¿Tú?! Pero no eres una Umamusume."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...No deberías ser tan exigente cuando... se trata\nde personas que ofrecen ayuda."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "<i>Suspiro...</i> Lo sé... El Entrenador siempre ha sido\nmuy proactivo en estas cosas."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Hum! Deberías aprender una cosa o dos del\nentusiasmo del Entrenador, Cafe!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Tú... debes tener mucho en qué pensar..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Manhattan Cafe me mira compasivamente mientras me\ndirijo al laboratorio con Agnes Tachyon."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Por favor! Cafe..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Ya te dije que no."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Uf?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Manhattan Cafe saca una píldora del bolsillo de\nAgnes Tachyon y la fuerza en la boca de Tachyon."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Argh... Está... tan brillante..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Oh... Esta es una experiencia bastante valiosa,\npero... está tan brillante que no puedo ver nada!\n¡Mis ojos duelen!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agnes Tachyon continúa brillando durante tres días\ny tres noches..."
+    }
+  ]
+}

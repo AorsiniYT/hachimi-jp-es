@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mayano Top Gun",
+      "text": "Oye, Entrenador."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Hay algún corredor hoy a quien no me haya\nenfrentado antes?",
+      "choice_data_list": [
+        "Probablemente."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "...Ya veo. ¡Eso lo hace más interesante!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Elegiste esta carrera específicamente para mí,\n¿verdad?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Entonces definitivamente daré lo mejor de mí.\nEstoy muy emocionada."
+    }
+  ]
+}

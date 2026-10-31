@@ -1,0 +1,45 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Haru Urara",
+      "text": "Ay. ¡Perdí otra vez! Creí que la tenía esa vez..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Entrenador, yo... quiero ganar!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Correr es divertido, pero apuesto a que ganar\nsería aún más divertido!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ooooh, puedo sentir cómo me emociono!",
+      "choice_data_list": [
+        "Ganarás la próxima vez, seguro.",
+        "¡Volvamos y entrenemos, entrenemos, entrenemos!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí! ¡Lo juro por mi helado de zanahoria!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Hasta que gane, solo comeré una bola al día!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Guau! ¡Suena genial! Si me esfuerzo lo\nsuficiente, ¡ganaré en un abrir y cerrar de ojos!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Vamos, vamos! ¡Rápido, rápido!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más tarde ese día, una motivada Haru Urara y yo\nhacemos un entrenamiento extra."
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "<chrname> ha dado pasos asombrosos en los últimos años,\nganándonos a ambos un descanso bien merecido."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Recibo una invitación de Tazuna para ver una\ncarrera, así que me dirijo al hipódromo."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ah... ¡Entrenador! ¡Por aquí!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Esta no es la hora que acordamos. ¡Llegas\ntemprano!",
+      "choice_data_list": [
+        "¡Tú también!"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Jeje, es verdad. ¡Simplemente no podía esperar!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Bueno, ¡vamos!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "<i>Suspiro...</i> ¡Hoy fue tan emocionante como siempre!\nPero eso es de esperarse de una carrera G1!",
+      "choice_data_list": [
+        "¡La pasión de la multitud fue increíble!"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Sí, exactamente! ¡Podría jurar que el suelo\nestaba vibrando por todos los ánimos en un\nmomento!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡La emoción, el sentimiento... No hay duda—las\ncarreras son maravillosas!",
+      "choice_data_list": [
+        "¡Tienes toda la razón!"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Eh, Entrenador..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Gracias por aceptar mi invitación hoy."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Realmente quería aprovechar esta oportunidad para\nexpresarte mi gratitud.",
+      "choice_data_list": [
+        "¿A mí?"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Así es."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Tú y <chrname> han arrasado carrera tras carrera en los\núltimos tres años."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ver los esfuerzos de ambos siempre hacía que mi\ncorazón saltara de emoción, ya sea en persona o en\nTV."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "He presenciado tantos momentos milagrosos gracias\na ustedes... Es como algo sacado de un sueño."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Así que, una vez más... ¡Muchas gracias!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Oh, y por favor, sigan esforzándose por el\nfuturo! ¡Sin lesiones, por supuesto!",
+      "choice_data_list": [
+        "¡Lo haremos!"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Qué bueno escuchar eso! ♪"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Seguiré cuidando de ustedes dos de aquí en\nadelante!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "...Desde un poco más cerca que nunca. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más tarde, nos encontramos con <chrname> y disfrutamos\njuntos de la siguiente carrera."
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una nueva publicación en Umasta dice: \"¡Anunciando\nel Torneo de Chanko! ¡Muestra tu mejor chanko a\ntodos! ☆ ¡Inscríbete ahora!\""
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Y publicado!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Espero que todos se diviertan!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es un día agradable, y me encuentro en el Torneo\nde Chanko, un evento que Hishi Akebono organizó\npara sus fans."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡No esperaba que viniera tanta gente! ¡Muchas\ngracias a todos!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Solo un recordatorio de las reglas que publiqué en\nUmasta: cada uno de ustedes tendrá que hacer su\npropio chanko."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Tienen sus recetas listas?"
+    },
+    {
+      "name": "Fans de Bono",
+      "text": "¡Claro que sí!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Genial! Parece que sus preparativos están\nperfectos. ☆ ¡Divirtámonos, todos!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Vale, ¡hora de empezar a cocinar!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Oh, es interesante cómo hay diferentes formas de\nhacer el caldo."
+    },
+    {
+      "name": "Fan de Bono A",
+      "text": "Sí, prefiero cocer a fuego lento alga kombu, copos\nde bonito y varios mariscos secos juntos para\nsacar su sabor."
+    },
+    {
+      "name": "Fan de Bono B",
+      "text": "Prefiero ahorrar tiempo usando una mezcla de base\nde sopa comprada y caldo de pollo."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Ya veo! ¡Ambos tienen un aroma muy bueno!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Wow! ¡Veo que estás haciendo un chanko picante\ncon pasta de gochujang y kimchi!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Oh, ¡y estás usando miso! ¡Huele tan bien!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Ver a todos me ha inspirado tanto! Entrenador,\n¡intentemos hacer el mejor chanko de todos!",
+      "choice_data_list": [
+        "¡Hagámoslo!",
+        "¡Hagámoslo!"
+      ]
+    },
+    {
+      "name": "Fan de Bono A",
+      "text": "¡Disculpe! Vi el último stream de Bono, y bueno...\nUsted es el entrenador de Bono, ¿verdad?",
+      "choice_data_list": [
+        "Ese soy yo."
+      ]
+    },
+    {
+      "name": "Fan de Bono A",
+      "text": "¡Estaba muy feliz cuando pudimos ver un nuevo lado\nde Bono como corredora!"
+    },
+    {
+      "name": "Fan de Bono A",
+      "text": "Me interesé bastante en las carreras después de\neso, y realmente quiero verla correr en persona!"
+    },
+    {
+      "name": "Fan de Bono B",
+      "text": "¡Yo también! Después de ese stream, me di cuenta\nde que las carreras eran más emocionantes de lo\nque pensaba!",
+      "choice_data_list": [
+        "¡Wow, gracias a las dos!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Parece que la estrategia de Hishi Akebono de\nllenar las gradas primero llenando el estómago de\nla audiencia está funcionando muy bien!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que todos están disfrutando el torneo de\nchanko hasta que..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Oh? Ese aroma..."
+    },
+    {
+      "name": "Fan de Bono C",
+      "text": "¡Oye, qué crees que haces, añadiendo cerdo y roux\nde curry? Esto no es una competencia de curry,\n¿sabes?"
+    },
+    {
+      "name": "Fan de Bono D",
+      "text": "Pero a mis hijos les encanta cuando les hago este\nchanko. Dicen que les gusta esta versión la mejor."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña discusión estalla cerca del borde del\nlugar."
+    },
+    {
+      "name": "Fan de Bono C",
+      "text": "¿Les estás dando a tus hijos <i>esto</i> y lo llamas\nchanko? Permíteme aclararte las cosas."
+    },
+    {
+      "name": "Fan de Bono C",
+      "text": "Mi padre es chef y dice que el <i>verdadero</i> chanko se\nhace con albóndigas de pollo y verduras."
+    },
+    {
+      "name": "Fan de Bono D",
+      "text": "P-pero—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las chispas empiezan a volar, pero Hishi Akebono\npone fin a esto con un comentario casual."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Es cierto que el chanko hecho con albóndigas de\npollo y verduras es rico y bueno."
+    },
+    {
+      "name": "Fan de Bono C",
+      "text": "Oh... Bono..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Pero lo genial del chanko es que cada establo de\nsumo tiene su propia receta única."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Hay variaciones saladas y picantes. Algunos\nluchadores incluso añaden queso y yogur a su\nchanko."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Cada establo crea su propio chanko haciendo\ndiferentes ajustes a la receta."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Son esas diferencias las que hacen que sus sabores\nsean tan especiales y memorables."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Por eso creo que está bien no usar albóndigas de\npollo o verduras en tu chanko si no quieres."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Mientras tu chanko haga felices a quienes lo\ncomen y listos para seguir trabajando duro,\nentonces es chanko real!"
+    },
+    {
+      "name": "Fan de Bono C",
+      "text": "Lo siento. Estaba siendo demasiado cerrado de\nmente..."
+    },
+    {
+      "name": "Fan de Bono D",
+      "text": "También me dejé llevar por el momento, así que me\ndisculpo."
+    },
+    {
+      "name": "Fan de Bono C",
+      "text": "No, fui yo... Y lamento haber arruinado tu evento,\nBono..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Hehe! ¡No tienes que disculparte! No hay nada de\nqué preocuparse."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Pero basta de eso. ¡El caldo de tu chanko se ve\ntan claro y sabroso!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Debes haber puesto mucho esfuerzo en acertar\nexactamente con las bases mientras hacías esto."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡La carne en tu chanko de curry también se ve\nsúper rico! ♪ ¡Creo que a montones de gente le\nencantará!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Todos hicieron tantos tipos de chanko. Hay\npicantes y cremosos..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Pueden ser diferentes, pero todos se ven tan\nbuenos!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡No puedo esperar para probar cada uno con todos\nustedes! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La energía despreocupada de Hishi Akebono despeja\nel ambiente, y el Torneo de Chanko termina con una\nnota cálida."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Su vínculo con sus fans se ha fortalecido aún\nmás!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"¡Gracias por el gran momento en el Torneo de\nChanko, a todos!\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"¡Todos sus chankos estuvieron muy buenos!\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"¡Protejamos y preservemos todos nuestros sabores\núnicos! ☆\""
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Y ya está!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Ahhh... Fue muy divertido, y había mucho chanko\ndelicioso."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Y lo mejor es que muchísima más gente está\ninteresada en las carreras ahora!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Muy bien! ¡Voy a dar lo mejor de mí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los Sprinters S. se celebrarán justo después de\nque termine el campamento de verano. ¡Ahora es el\nmomento de intensificar nuestro entrenamiento para\nestar en nuestra mejor forma para la carrera!"
+    }
+  ]
+}

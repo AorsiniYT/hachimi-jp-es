@@ -1,0 +1,64 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es el último día del campamento de verano. Solo\nestoy terminando el entrenamiento con Narita\nBrian."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿Podemos hacer una más?",
+      "choice_data_list": [
+        "Todavía tenemos tiempo."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Bien. Déjame tomar un poco de agua primero."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Pareces estar esforzándote mucho, Brian."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Rudolf."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Te ves tan fuerte como siempre. ¿Qué opinas?\n¿Deberíamos correr una carrera?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Si voy a correr contra ti, prefiero hacerlo en un\nG1 que en un lugar como este."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Resolvamos esto en un entorno formal donde podamos\nsacar el máximo potencial de cada una. Quiero\ndarlo todo."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...Probablemente tengas razón. Me consideras una\noponente digna."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Dado que es así, respetaré tus deseos."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Hazte más fuerte, Brian. Veo un futuro brillante\nen ti."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¡Tch!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El último día del campamento de verano termina\nbajo la atenta mirada de Symboli Rudolf."
+    }
+  ]
+}

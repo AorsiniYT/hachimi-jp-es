@@ -1,0 +1,214 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "En el camino de regreso después de un día fuera,\nSeiun Sky y yo nos encontramos con Special Week."
+    },
+    {
+      "name": "Special Week",
+      "text": "<i>Suspiro...</i>"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Vaya. Ahí va otra vez, suspirando como si le\npagaran por ello.",
+      "choice_data_list": [
+        "¿Otra vez?",
+        "¿Otra vez?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Hm? Sí, ha estado actuando un poco rara\núltimamente."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Tú sigue adelante. ¡Yo alcanzo!",
+      "choice_data_list": [
+        "¡¿Qué?!"
+      ]
+    },
+    {
+      "text": "Seiun Sky sale corriendo. La persigo por\npreocupación y pronto la encuentro parada frente a\nun vendedor de verduras."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Vaya, estas zanahorias se ven buenas. ♪ El color,\nel brillo... Son perfectas."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Es una lástima que no estés anunciando estas\nverduras. ¡Creo que podrías vender una camionada\nde ellas!"
+    },
+    {
+      "name": "Vendedor de Verduras",
+      "text": "¡Vaya! ¡Alguien tiene un verdadero ojo para las\nzanahorias! ¡Yo mismo podría intentarlo!",
+      "choice_data_list": [
+        "¿Qué está haciendo?",
+        "¿Qué está haciendo?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Ahí vamos. Ahora solo tengo que esperar a que\nSpe pase por aquí."
+    },
+    {
+      "name": "Vendedor de Verduras",
+      "text": "¡Hola, jovencita! ¿Podría interesarte una\n<i>zanahoria </i>perfecta?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Vendedor de Verduras",
+      "text": "¡Mire el color, el brillo! Y están repletas de\nnutrientes. ¿Sabe qué? ¡Incluso le daré una\ngratis!"
+    },
+    {
+      "name": "Special Week",
+      "text": "...No, estoy bien. Gracias."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿¡Estás bromeando?! ¡Ella rechazó una zanahoria?!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ya veo... ¡Voy a tener que sacar la gran artimaña\npara esta!"
+    },
+    {
+      "text": "Luego, Seiun Sky va a un café, compra tres\nporciones de pastel y las pone en una mesa."
+    },
+    {
+      "name": "Special Week",
+      "text": "...¿Eh? Sei?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Oh, Spe! ¡Justo a tiempo! Pedí muchísimo pastel."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Me pregunto si no te molestaría hacerme un favor y\ntomar un trozo?"
+    },
+    {
+      "name": "Special Week",
+      "text": "..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Nnnngh, Lo siento, Sei!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Qué? ¿Spe?! ¿A dónde vas?!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "N-no hay <i>manera... Estamos </i>hablando de pastel\naquí..."
+    },
+    {
+      "text": "Seiun Sky se queda paralizada por el impacto. Sin\npensarlo, suelto algo.",
+      "choice_data_list": [
+        "¡Síguela!",
+        "¡Ve tras ella!"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Uy?! ¿Entrenador?! ¿Cuánto tiempo llevas ahí?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "No importa, tengo que—espera, no tiene sentido\nseguirla."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "O sea, aunque la alcance, ¿qué haría entonces?\nElla acaba de pasar justo encima de su comida\nfavorita.",
+      "choice_data_list": [
+        "Pero te has tomado todas estas molestias porque no\npuedes hacer la vista gorda, ¿verdad?",
+        "Pero te has tomado todas estas molestias porque no\npuedes hacer la vista gorda, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...¡Oh, entrenador, eres todo un pillo!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "<i>Suspiro...</i> Está bien, está bien, ¡me pondré a\nperseguir!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "<i>Haa... Haa...</i> ¡Espera, Spe!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Qué? ¿Sei?! ¿Tú... me seguiste hasta aquí?!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Eh, bueno... ¿sabes? Yo, eh, ¿cómo se dice..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Lo siento mucho por haberme escapado de allí!"
+    },
+    {
+      "name": "Special Week",
+      "text": "La verdad es... ¡Estoy en una dieta súper estricta\nahora mismo!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ah, ya te atrapé. Una dieta... ¿Eh?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Así que por eso has estado tan desanimado\núltimamente?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Sííí! Y he tenido ganas de hacerlo tantas veces\nhoy. ¡Ha sido un infierno!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Je, jajaja! ¡Así que eso es!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Uf... No me digas.",
+      "choice_data_list": [
+        "Eso lo resuelve.",
+        "Así que la fuente de la tentación no era otro\nque..."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Sí, sí. Spe tiene que ser Spe."
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Eh? ¡Claro! ¿Quién más podría ser?"
+    },
+    {
+      "text": "Escucho su conversación animada mientras las tres\nregresamos al campus."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oye, cállate. A nadie le gusta un soplón."
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Qué es? ¡Dime, dime!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Jejeje, no diré nada."
+    },
+    {
+      "text": "Después de eso, Seiun Sky sonríe durante todo el\ncamino a casa."
+    }
+  ]
+}

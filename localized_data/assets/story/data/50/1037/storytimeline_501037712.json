@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Eishin Flash aún no ha llegado a nuestra sesión de\nentrenamiento. Justo cuando empiezo a pensar que\nquizás no vendrá en absoluto..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡Entrenador! ¡Lo siento mucho! No quería llegar\ncon una hora y treinta y cuatro minutos de\nretraso.",
+      "choice_data_list": [
+        "Oye, ¿qué pasa?",
+        "Oye, ¿qué pasa?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Bueno, hoy comí fuera del campus porque la\ncafetería está cerrada..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Pero mi pedido tardó tanto en salir, que casi lo\ncancelé por completo."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Cuando llegó, comí lo más rápido que pude e\nintenté regresar corriendo aquí, pero tuve que\ndetenerme porque me dolía demasiado el estómago...",
+      "choice_data_list": [
+        "Eso lo explicaría..."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Pero eso no excusa mi tardanza. Reduciré mi tiempo\nde descanso para compensar cada minuto perdido."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Puedo decir que está sinceramente arrepentida por\nllegar tarde, así que la dejo con una advertencia\nleve."
+    }
+  ]
+}

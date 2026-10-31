@@ -1,0 +1,73 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Matikanefukukitaru",
+      "text": "<i>Jadeando... Jadeando...</i> Entrenador... ¡Lo\nlogramos, realmente lo logramos!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Con todos los cielos observando mi prueba, logré\ncorrer una carrera que no invitará a su desprecio.\nCon esto, mi vida ha llegado a su fin..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "...Bueno, todavía estoy vivo y coleando, pero aún\nasí... ¡Estoy tan feliz con este resultado!\n¡Alabado sea!",
+      "choice_data_list": [
+        "Lo hiciste genial. Gracias."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Oh, vamos, ¡no hay necesidad de eso! Solo hice lo\nque pude."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Aunque... Puedo decir que Suzuka y yo hemos\nforjado un brillante testamento del Derby de\nnuestra generación!",
+      "choice_data_list": [
+        "¿Estás lista para el próximo desafío?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Eh? Oh, supongo que sí... Pero el próximo debería\nser más fácil, ¿verdad?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Debemos consultar <i>las varillas!</i> Oh, esto no pinta\nbien...Ay, ¡no hay duda!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "La varita de adivinación está grabada con el\nvenerable crest del crisantemo Kikuka. Lo que solo\npuede significar—",
+      "choice_data_list": [
+        "¿El Kikuka Sho?",
+        "¿El Kikuka Sho?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Gyahhhhh! ¡Que sea cualquier cosa menos eso!\n¡Dioses, Buda, Entrenador, cualquiera—ten piedad!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡El Kikuka Sho tiene 3,000 metros de longitud! ¡Y\nla temida Colina Yodo en la tercera esquina es aún\nmás empinada que el abismo que conduce al\ninframundo!",
+      "color_text_info_list": [
+        "Kikuka Sho"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡No tengo suficiente suerte para esa distancia!\n¡Vayamos a algún lugar más corto!",
+      "choice_data_list": [
+        "Pero ¿y tu adivinación?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Urk... Tienes razón. Los dioses trabajan de\nmaneras misteriosas..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Así sea! ¡Incluso las circunstancias malas—no,\ngraves—aún pueden revertirse!"
+    }
+  ]
+}

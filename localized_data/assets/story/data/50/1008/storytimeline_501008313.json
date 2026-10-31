@@ -1,0 +1,80 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Vodka",
+      "text": "¿Qué te parece eso, Scarlet? ¡Parece que te gané!\nSupongo que eso significa que soy la reina."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "S-sí, supongo que sí... ¡Bueno, mira qué hora es!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Espera un segundo! Prometimos, ¿verdad? La\nperdedora tiene que hacer lo que la reina diga."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Urgh... Qué humillante. No puedo creer que esto\nesté pasando..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Muy bien, Entrenador. Podemos ordenarle que haga\ncualquier cosa que queramos. Dame algo increíble."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de pensarlo mucho, se me ocurre...",
+      "choice_data_list": [
+        "¡Canta mis alabanzas!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿¡Quieres que haga qué?! E-está bien..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "De verdad eres algo, Entrenador. Nunca imaginé que\nlos dos me superarían en la Copa Reina Isabel II."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Debes ser algún tipo de genio. No puedo evitar...\nadmirarte..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Allí! ¿Eso es suficiente para ti?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Muy bieeen, ¡mi turno! Ahora, ¿qué debería elegir?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Escuchémoslo decir: \"Vodka, ¡tú eres la verdadera\nnúmero uno! Solo soy un tonto de bajo nivel que ni\nsiquiera merece el segundo lugar.\""
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Q-qué demonios es eso?! Grrrr..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "V-Vodka... tú eres la verdadera... n-número uno..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Y? Dilo todo."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Eres un verdadero dolor en el trasero, eso es!\n¡No puedo pensar en nadie que me irrite más!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Oye! ¿Qué demonios fue eso?! ¡No es lo que\nprometimos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de que la multitud aún los observa, las\ndos siguen discutiendo, perdidas en su propio\nmundo."
+    }
+  ]
+}

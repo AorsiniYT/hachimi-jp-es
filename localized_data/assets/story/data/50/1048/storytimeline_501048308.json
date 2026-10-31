@@ -1,0 +1,345 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Qué presentación tan poderosa! Y la ganadora de\nla Copa República Argentina es..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "<i>Huff... Puff...</i> ¡Síiii!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "(Espera... ¿No hay como... corredores mayores\naquí?)",
+      "color_text_info_list": [
+        "mayores"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Eso significa que realmente puedo defenderme...\n¡Estoy, como, ardiendo!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Incluso podría..."
+    },
+    {
+      "name": "Gyarus",
+      "text": "¡Yujuu, Jordan!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...!"
+    },
+    {
+      "name": "Gyaru A",
+      "text": "¡Oh, por Dios! ¿Qué acabamos de ver? ¿Cómo se puso\ntan increíblemente buena?!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Jeje, ¡así es! ¡Nuestra chica es una verdadera\npotencia!"
+    },
+    {
+      "name": "Gyaru B",
+      "text": "...!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡No podemos dejar que nos deje atrás! ¡Es hora de\nentrenar como si no hubiera un mañana!"
+    },
+    {
+      "name": "Gyaru B",
+      "text": "¡JORDAAAN! ¡Tú puedes, chica!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Aja... ajaja! ¡Qué ruidosas!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "<i>Inspiro...</i>"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Solo estoy empezando! ¡Voy a ir aún más alto!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Lo voy a hacer aún más grande! La próxima parada,\nla... la, eh..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡El Arima Kinen!",
+      "color_text_info_list": [
+        "Arima Kinen"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Así que sí, cuento contigo. Es un G1 bastante\ngrande, ¿verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tras su gran anuncio en el hipódromo, Tosen Jordan\nmenciona el Arima Kinen conmigo con el tono más\ncasual.",
+      "choice_data_list": [
+        "El Arima Kinen, ¿eh?",
+        "El Arima Kinen, ¿eh?"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Sí! Ya dije que lo haría, así que ahora tengo que\nhacerlo, ¿verdad?"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Quiero mostrarles a las chicas lo genial que puedo\nser."
+    },
+    {
+      "name": "Doctor",
+      "text": "Hm... Desde el punto de vista médico, no tengo\nobjeciones. De hecho, creo que cualquier carrera\ndebería estar bien."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Qué? ¡Pero quiero correr en el Arima, no en\ncualquier carrera! ¡Leí que es una carrera\nrealmente dura!"
+    },
+    {
+      "name": "Doctor",
+      "text": "Eso no es exactamente lo que quise decir... Solo\nquiero decir que tus uñas se han curado por\ncompleto.",
+      "choice_data_list": [
+        "¿¡En serio?!"
+      ]
+    },
+    {
+      "name": "Doctor",
+      "text": "Sí, gracias a tu arduo trabajo al cuidarlas. No\ntengo ninguna preocupación ahora—se ven limpias y\nsaludables."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿¡En serio?! Como, ¿en serio, en serio? ¿No me\nestás engañando ahora?!"
+    },
+    {
+      "name": "Doctor",
+      "text": "Jeje. Sí, en serio. Te cuidaste muy bien. Es casi\nun milagro que se hayan curado tan bien como lo\nhicieron."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Un milagro..."
+    },
+    {
+      "name": "Doctor",
+      "text": "Deberías agradecer a tu entrenador por venir aquí\ntan a menudo a consultarme."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...Ya lo hago. Hago un montón de cosas."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Pero, bueno..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...Muchas gracias.",
+      "choice_data_list": [
+        "No hay de qué."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Qué pasa con el tono?! ¿Te estás burlando de mí?!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Eres tan tonta!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una semana después, un rumor en particular está\ncirculando entre los entrenadores."
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "Todo se trata de la gira de la Tiara este año.\nEscuché que hay una corredora que ya tiene\ncarreras internacionales en la mira."
+    },
+    {
+      "name": "Skilled Trainer B",
+      "text": "Sí. Si tuviera que decir quién es el corredor más\nfuerte actualmente, tendría que ser alguien del\ntour Tiara..."
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "No sé sobre el más fuerte en general. No olviden a\nquién vamos a ver en el Arima."
+    },
+    {
+      "name": "Skilled Trainer B",
+      "text": "Verdad, el campo es básicamente un quién es quién\nen las carreras en este momento. Supongo que\nveremos quién es realmente el más fuerte en el\nArima."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Tenemos un meteorito aterrizando mañana... Parece\nque se viene un enfrentamiento estelar."
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "Todo se acabó... Debería llamar a mi mamá..."
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "...¿Eh?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Bienvenido! ☆ ¡Guiaremos a un afortunado a Marte!\n♪ ¡La puerta de embarque es esa llanta justo por\nallá! ♪"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "¿Q-qué?! ¡Basta! ¿Qué intentas hacer?!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Dime el valor de pi! 3.1415926535... y ¿qué\nsigue?!"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "...¿E-eh?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Demasiado lento! ¿Cómo se supone que vas a\ndefender el ataque de los Turfians así?!\n¡Siguiente entrenador, te toca!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Qué demonios está pasando?",
+      "choice_data_list": [
+        "Algo increíble.",
+        "Algo increíble."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Más bien increíblemente estúpido. Es tan extra."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Pero cada vez que corre, siempre es la favorita o\nal menos segunda. No lo entiendo..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡El que no pueda resolver el problema, que golpee\nla llanta! ¡Te dejaré usar mi martillo\npersonalizado!"
+    },
+    {
+      "name": "New Trainer A",
+      "text": "Uhhh..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El entrenamiento con martillo es un método\nefectivo para construir músculo, pero no está\nclaro por qué ella involucra a otras personas así.",
+      "choice_data_list": [
+        "Quizás haya un significado más profundo en sus\nacciones..."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Es como un hábito raro tuyo? Siempre intentas\nrelacionar todo con el entrenamiento. Creo que tu\ncerebro podría estar realmente roto."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "No hay significado más profundo. Es solo Golshi\nsiendo Golshi."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Más importante, necesito concentrarme! ¡Tengo que\nmantener la vista en el Arima Kinen!",
+      "choice_data_list": [
+        "El Arima Kinen va a ser una pelea difícil.",
+        "El Arima Kinen va a ser una pelea difícil."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Lo sé, lo sé. Pero puedo hacerlo, ¿verdad? O\nsea..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Viste cómo corrí en la Copa República Argentina!\n¡Puedo defenderme contra los mayores!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Podemos al menos ver si estoy en la carrera. O\nsea, echa un vistazo a esta encuesta de fans."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Estoy en el puesto veintiocho ahora! ¿No es\nsalvaje? Solo anuncié que quería correr el otro\ndía."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Eso significa que la gente ya espera grandes cosas\nde mí. Podría incluso ser número uno para el día\nde la carrera.",
+      "choice_data_list": [
+        "Pero la diferencia entre G1 y G2 es p—"
+      ]
+    },
+    {
+      "name": "Gyarus",
+      "text": "¡Jordan! ¡Decidimos un lugar para la fiesta\ndespués del Arima! ¡Revisa el chat grupal!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Gracias!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Bueno, hemos llegado hasta aquí de alguna manera.\nTodo lo que podemos es hacer nuestro mejor\nesfuerzo, ¿verdad?",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella dice eso tan despreocupadamente."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Depende de ti averiguar cómo hacemos eso. Y en\ncuanto a mí..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...",
+      "choice_data_list": [
+        "¿Jordan?"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Soy... solo un tonta. ¡Eso significa que todo\ndepende de ti!"
+    },
+    {
+      "name": "Transeúnte A",
+      "text": "¡Oye! ¡Mira esto! Es una lista de todos los\ncorredores en el Arima Kinen..."
+    },
+    {
+      "name": "Transeúnte B",
+      "text": "Sí, sí. Es de lo que todos hablan. Es un\nimpresionante alineación, ¿verdad? ...Ah, hay un\nnombre que me trae recuerdos."
+    },
+    {
+      "name": "Transeúnte B",
+      "text": "¡Tosen Jordan! Fue un tema candente en el Satsuki\nSho, ¿verdad?"
+    },
+    {
+      "name": "Transeúnte A",
+      "text": "Oh, ¿de como seis meses atrás? Olvídala, ¡mi\nfavorita está corriendo! ¿La conoces, verdad? Ella\nes—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Un mes restante hasta el Arima Kinen."
+    }
+  ]
+}

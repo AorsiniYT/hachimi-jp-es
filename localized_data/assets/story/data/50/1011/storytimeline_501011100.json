@@ -1,0 +1,256 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy, Grass Wonder comienza oficialmente su\nbúsqueda a través de la Serie Twinkle!",
+      "color_text_info_list": [
+        "Grass Wonder",
+        "Serie Twinkle"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ansioso por discutir lo que viene, voy a su aula\npara acompañarla yo mismo a la oficina."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh, querido... ¿Spe? Ese carácter kanji no es del\ntodo correcto.",
+      "color_text_info_list": [
+        "Spe"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¿¡Huh?! ¿Cu-cuál?! ¿Dónde?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "(Parece que está hablando con Special Week—una\nUmamusume de Hokkaido que está en el mismo año que\nella.)",
+      "color_text_info_list": [
+        "Special Week"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Espera, espera. Primero, intentemos calmarnos un\nsegundo. No puedo ver el papel con tus manos en\nmedio."
+    },
+    {
+      "name": "Monólogo",
+      "text": "(Y esa es Seiun Sky, que también hará su debut\npronto. Su manera de comunicarse puede ser un poco\nindirecta a veces.)",
+      "color_text_info_list": [
+        "Seiun Sky"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Tienes el radical incorrecto en el lado izquierdo\nde \"remolino\". El que has escrito forma el kanji\nde \"desastre\"."
+    },
+    {
+      "name": "Special Week",
+      "text": "Um, um, um... Entonces, ¿necesito hacerlo así...?!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Qué garabato es ese, Spe?! ¡He visto mejor\ncaligrafía en un niño de seis años!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Grosera!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Vaya. Si incluso El está corrigiendo tu\ncaligrafía, me temo que tienes un largo camino por\nrecorrer...",
+      "color_text_info_list": [
+        "El"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Oye!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "(Otra compañera de clase del mismo año, El Condor\nPasa es una Umamusume con una personalidad grande\ny brillante. También comparte habitación con Grass\nWonder.)",
+      "color_text_info_list": [
+        "El Condor Pasa"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No te preocupes, Spe, hay mucho tiempo. Solo toma\nunas cuantas respiraciones profundas y corrige el\nerror."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Lo-intentaré!",
+      "choice_data_list": [
+        "¡Vaya que está animado por aquí!",
+        "¡Vaya que está animado por aquí!"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Oh, Entrenador! No me di cuenta de que estabas\naquí."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Ahhh! ¡Eres el entrenador de Grass! ¿Llega tarde\nal entrenamiento?!",
+      "color_text_info_list": [
+        "Grass"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Ngh... ¡Lo siento mucho! ¡Todo es culpa mía!",
+      "choice_data_list": [
+        "¿Q-qué quieres decir?",
+        "¿Q-qué quieres decir?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Urgh... Verás... Me fue tan mal en nuestra prueba\nque tengo que hacer tarea extra!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Tampoco se le permite entrenar hasta que lo\ntermine."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sin embargo, con nuestros debuts acercándose, no\npuede perderse ni una sola sesión.",
+      "choice_data_list": [
+        "¿Entonces todos están ayudando?",
+        "¿Entonces todos están ayudando?"
+      ],
+      "color_text_info_list": [
+        "debuts"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Exactamente! Así que menos lágrimas y más\nescritura, Spe!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Espíritu! ¡Aguante! ¡Esfuerzo!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Un poco de esfuerzo <i>antes</i> del examen habría estado\nbien también."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Lo sé, lo sé!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ahaha... Bueno, esa es la situación, Entrenador.\n¿Te importaría esperar un poco más?",
+      "choice_data_list": [
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Gracias. Ahora, continuemos, Spe."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "La prisa es enemiga de la perfección. Esta es la\noportunidad perfecta para reenfocarte y aprender\nde tu error."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Piensa de qué está hecho un remolino. Agua,\n¿verdad? Entonces el kanji correcto debería tener\nel radical \"agua\"."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡O-oh! ¡Eso tiene sentido! ¡Puedo recordarlo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Grass Wonder da hábilmente consejos concisos pero\nútiles para ayudar a Special Week a terminar su\ntarea extra."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Gracias por esperar, Entrenador.",
+      "choice_data_list": [
+        "Parecen ser buenas amigas.",
+        "Parecen ser buenas amigas."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hehe. Realmente valoro nuestra amistad. Cada una\nde ellas es bastante diferente, lo que hace que\nnuestro tiempo juntas sea agradable."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Aunque por supuesto, eso no es todo..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Como miembros de la misma generación, estamos\ndestinadas a enfrentarnos muchas veces en la pista\ncomo rivales."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su expresión permanece tranquila al decir esto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero algo en su aura hace que mi piel se erice\nligeramente."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ahora, querías discutir nuestros planes de aquí en\nadelante, ¿verdad?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sé que necesitamos hablar sobre cosas como el\nentrenamiento y nuestro calendario de carreras."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Pero primero tengo algo que darte."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso, Grass Wonder saca un trozo de papel de\ncaligrafía."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lo desdoblo y veo líneas seguras y audaces que\ndeletrean..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Determinación."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Seguiré el camino que he elegido, sin retroceder\nnunca, hasta alcanzar la cima."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Esto... es mi promesa por escrito."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Entrenador. ¿Lo llevarías contigo?",
+      "choice_data_list": [
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es solo un trozo de papel doblado, pero es como si\npudiera sentir el peso de la convicción que ella\nha vertido en él. Lo guardo con cuidado."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Contaré contigo, Entrenador."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Comencemos el ascenso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y con eso, nuestro viaje está en marcha. Carrera\ndebut, ¡allá vamos!"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Espectador A",
+      "text": "E-e-eesa carrera fue fuera de este mundo! ¿Viste a\nMejiro Ardan?!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "Oh sí, esa fue una carrera enfermiza... En\nrealidad pienso que quizás podría enfrentarse cara\na cara con Oguri Cap, ¿sabes?"
+    },
+    {
+      "name": "Espectador A",
+      "text": "Caray. Ni siquiera puedo imaginar qué pasaría si\nesos dos se enfrentaran ahora mismo..."
+    },
+    {
+      "name": "Inari One",
+      "text": "Jeje, simplemente no me canso de esto."
+    },
+    {
+      "name": "Inari One",
+      "text": "Y tampoco puedo esperar a nuestro próximo combate."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(Lo puedo sentir.)"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "(Los lugares a los que estábamos destinados en la\nhistoria... se están cambiando para cada una de\nnosotras.)"
+    },
+    {
+      "name": "Chiyono O y Yaeno",
+      "text": "¡Ardan! Ardan."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Lo logré... También superé mis límites... ¡Qué\ncarrera más increíble!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Esta carrera fue un testimonio del potencial\ninfinito que cada una de nosotras posee."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Estoy de acuerdo, de verdad. Fue una carrera\nmilagrosa de hecho."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Chiyono O. Yaeno."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Me alegra que sean mis rivales."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Cuando volvamos a correr, yo—"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "<i>Yo</i> volveré..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "No, <i>yo</i> volveré—"
+    },
+    {
+      "name": "Ardan, Chiyono O y Yaeno",
+      "text": "¡Ganar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es el día después del Takarazuka Kinen, y Mejiro\nArdan y yo estamos teniendo una discusión para\ndecidir su próxima carrera objetivo."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Es mi deseo correr contra Oguri."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Ardan me mira a los ojos mientras habla con\nabsoluta convicción.",
+      "choice_data_list": [
+        "Así que el momento es el adecuado, ¿eh?",
+        "Así que el momento es el adecuado, ¿eh?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Sí. Creo que ese momento es precisamente <i>ahora.</i>"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "En el Takarazuka Kinen de ayer, me enfrenté a\nInari—una corredora considerada un pilar de\nnuestra generación."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Aunque ciertamente fue un rival formidable... Sí\ncreo que logré defenderme contra ella."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Tengo rivales, a quienes atesoro mucho."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Y ellas me han elevado a tales alturas que ahora\nsoy capaz de competir con Inari."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Me pregunto... Si yo compitiera contra Oguri—tal\ncomo soy <i>ahora</i>—, ¿qué tipo de resultado podría\ndar?"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Mi cuerpo anhela la oportunidad de averiguarlo."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Por favor, comparte tus pensamientos sobre este\nasunto, Entrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Yo también puedo verlo. Mejiro Ardan ha alcanzado\nuna fuerza extraordinaria a través de todos esos\nintensos enfrentamientos contra sus rivales."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como su entrenador, no tengo problema con que\ncompita contra Oguri Cap como la culminación de su\naño senior.",
+      "choice_data_list": [
+        "¡Establezcamos el Tenno Sho de otoño como nuestra\nmeta final!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No hay duda en mi mente de que Oguri Cap estará\nallí. En cuanto a por qué..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Un escenario legendario, perfecto para un punto de\ninflexión histórico. Corredoras de todo el mundo\nbuscarán el título del \"más grande\"."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Por cierto, noté que tus palabras exactas fueron\n\"objetivo final\"...",
+      "choice_data_list": [
+        "Me gustaría que participaras primero en el\nMainichi Okan.",
+        "Me gustaría que participaras primero en el\nMainichi Okan."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mi plan es ver cómo corre en el Mainichi Okan,\nluego hacer ajustes antes del otoño Tenno Sho.",
+      "color_text_info_list": [
+        "Mainichi Okan"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Además, si tenemos suerte, Oguri Cap podría\nincluso aparecer en el Mainichi Okan. Si lo hace,\npodré evaluar mejor lo que es capaz de."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Entendido. Bueno, entonces, hagamos de hoy el\ncomienzo de nuestro progreso hacia el Mainichi\nOkan."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La culminación del último año de Mejiro Ardan\naguarda... Pero antes de eso, ¡el Mainichi Okan!"
+    }
+  ]
+}

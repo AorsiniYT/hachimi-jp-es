@@ -1,0 +1,296 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Es un nuevo año, y el comienzo del año clásico de\nNarita Brian."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Entrenador.",
+      "choice_data_list": [
+        "¿Sí?",
+        "¿Sí?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Tienes un kotatsu?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Necesito uno si voy a ver programas de TV de\nAño Nuevo. Oh, y naranjas también.",
+      "choice_data_list": [
+        "¿Todo eso es realmente necesario?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Sí, realmente lo es."
+    },
+    {
+      "text": "Preparé mi oficina con un kotatsu—una mesa con\nfalda de manta y calefactor debajo—y naranjas, tal\ncomo Narita Brian pidió."
+    },
+    {
+      "text": "...Ella está calentando sus piernas bajo dicho\nkotatsu."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Enciende la TV. Está por empezar."
+    },
+    {
+      "name": "Presentadora de programa",
+      "text": "¡Feliz Año Nuevo! Gracias por sintonizar el primer\n\"Boletín de Carreras\" del Año Nuevo!"
+    },
+    {
+      "name": "Comentarista del Programa de TV",
+      "text": "Numerosas corredoras tuvieron actuaciones notables\naño pasado, incluyendo a Rice Shower, quien puso\nfin a la racha ganadora de primavera de Mejiro\nMcQueen!"
+    },
+    {
+      "name": "Comentarista del Programa de TV",
+      "text": "¡Y esas tres especiales nos dieron una emocionante\ncompetencia por la Triple Corona Clásica!"
+    },
+    {
+      "name": "Presentadora de programa",
+      "text": "¡Sí! Y una entre ellas se convirtió en el rostro\nque representó todo el año..."
+    },
+    {
+      "name": "Locutor del Programa de TV",
+      "text": "¡Así es! Por favor, den la bienvenida a la\nUmamusume del Año... ¡Biwa Hayahide!"
+    },
+    {
+      "name": "Presentadora de programa",
+      "text": "¡Guau! ¡Es realmente ella!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jaja... Hola."
+    },
+    {
+      "name": "Locutor del Programa de TV",
+      "text": "Entonces, Biwa Hayahide, escuché que Narita Brian,\nquien hizo su debut el año pasado, es tu hermana\nmenor. ¿Es eso cierto?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Así es. Mi hermana es una corredora increíblemente\nfuerte. Gracias a ella, ha sido un año de mayor\nenfoque también para mí."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Solo pude ganar el Kikuka Sho en la gira de la\nTriple Corona Clásica, pero...",
+      "color_text_info_list": [
+        "Kikuka Sho"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Creo que tiene el potencial para ser Campeona de\nla Triple Corona."
+    },
+    {
+      "text": "<i>Murmullo...</i>"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...",
+      "choice_data_list": [
+        "(¿Brian, la Campeona de la Triple Corona?)",
+        "(¿Brian, la Campeona de la Triple Corona?)"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Mmm."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Nos quedamos sin naranjas. Iré a buscar algunas."
+    },
+    {
+      "text": "...",
+      "choice_data_list": [
+        "(¡Ella está... completamente impasible!)"
+      ]
+    },
+    {
+      "text": "<i>¡Crac, crac!</i>"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Disculpe!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿Amazon?",
+      "color_text_info_list": [
+        "Amazon"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Acabo de escuchar las noticias. Parece que vas a\nir a la gira de la Triple Corona, ¿eh?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Y qué?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Estaré en la gira de la Tiara—el Oka Sho, Japanese\nOaks, y Shuka Sho.",
+      "color_text_info_list": [
+        "Oka Sho",
+        "Shuka Sho"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "...Sabes, me di cuenta de algo cuando te vi en los\nAsahi Hai Futurity Stakes."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "...Que honestamente, en mi estado actual, no creo\npoder ganarte aún."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Así que... ¡Lo haré el próximo año!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Voy a tomarme un año para pulirme! ¡Tomaré la\nTriple Tiara y me pondré más fuerte!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Entonces, quiero que te enfrentes a mí uno contra\nuno en el Arima Kinen a fin de año! ¡Más te vale\nque no huyas!",
+      "color_text_info_list": [
+        "Arima Kinen"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Tú apuntas a las tres coronas y yo tomaré las tres\ntiaras. ¡Entonces veremos quién brilla más!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Bueno, eso es todo. Luego.",
+      "color_text_info_list": [
+        "★★★"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Amazon, espera."
+    },
+    {
+      "text": "<i>¡Fiuu... Plas!</i>"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Qué es esto? ¿Una naranja?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Un regalo de despedida. Tómalo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Je.",
+      "choice_data_list": [
+        "Debe ser una carrera emocionante.",
+        "Debe ser una carrera emocionante.",
+        "¿Fue porque las naranjas están llenas de\nnutrición?",
+        "¿Fue porque las naranjas están llenas de\nnutrición?",
+        "¿Le das una oportunidad de pelea?",
+        "¿Le das una oportunidad de pelea?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Je.",
+      "choice_data_list": [
+        "Debe ser una carrera emocionante.",
+        "Debe ser una carrera emocionante.",
+        "¿Fue porque las naranjas están llenas de\nnutrición?",
+        "¿Fue porque las naranjas están llenas de\nnutrición?",
+        "¿Le das una oportunidad de pelea?",
+        "¿Le das una oportunidad de pelea?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Sí. Lo vi en sus ojos. Realmente planea ponerse\nmás fuerte y dar lo mejor."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tengo grandes esperanzas para cuando nos\nenfrentemos de verdad.",
+      "choice_data_list": [
+        "Supongo que deberíamos hacer algo de entrenamiento\nentonces."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Sí."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Podemos dejar el kotatsu puesto?"
+    },
+    {
+      "text": "Decido dejar el kotatsu puesto durante Año Nuevo\ncomo recompensa por el entrenamiento."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Eso es exactamente correcto. Necesitas nutrientes\npara competir."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Y los dos estamos... compitiendo, después de todo.",
+      "choice_data_list": [
+        "Esa es una buena actitud que tener.",
+        "Esa es una buena actitud que tener."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Solo estoy repitiendo lo que mi hermana mayor\ndijo una vez. No son mis propias palabras."
+    },
+    {
+      "text": "Narita Brian no pierde tiempo en volver a meterse\nbajo el kotatsu y comer naranjas."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Je, no llamaría eso suficiente para marcar la\ndiferencia."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Dime, qué tipo de estrategia tienes en mente para\nmí?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Qué tipo de entrenamiento me asegurará poder\nenfrentar a Ama después de que tome las tres\ntiaras?"
+    },
+    {
+      "text": "Y así, comienzo temprano la estrategia de carreras\nde este año con una Narita Brian ansiosa de\nbatalla."
+    }
+  ]
+}

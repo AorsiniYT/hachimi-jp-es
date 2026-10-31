@@ -1,0 +1,21 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El entrenador Kiryuin y la entrenadora Kashimoto\nson dos de mis colegas en la academia.",
+      "color_text_info_list": [
+        "entrenador Kiryuin",
+        "Entrenadora Kashimoto"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Les hablo sobre sus respectivas parejas y cuánta\nfe tienen en ellas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos deseamos suerte al final de nuestra apasionada\ndiscusión, y descubro que mi creencia en <chrname> es aún\nmás fuerte ahora!"
+    }
+  ]
+}

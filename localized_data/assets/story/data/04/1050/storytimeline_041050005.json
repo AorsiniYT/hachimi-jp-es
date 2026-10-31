@@ -1,0 +1,174 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Para el entrenamiento de hoy, Narita Taishin pide\nayuda para aumentar su fuerza."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Justo cuando llego al gimnasio, veo a la atleta\nsevera a punto de levantar una barra de pesas."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Está bien, lo tengo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella tira de la barra hacia arriba, pero el\nimpulso del peso la hace perder el equilibrio."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Así que... es pesado.",
+      "choice_data_list": [
+        "Ten cuidado."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ayudo a sostener la barra de pesas y la bajo\nlentamente al suelo."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Haa... Haa...</i> Maldita sea."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Probablemente sería una buena idea calentar antes\nde que se lastime.",
+      "choice_data_list": [
+        "No te excedas.",
+        "No te excedas."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué? ¿Estás diciendo que no puedo manejarlo!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Que alguien tan flaco como yo debería simplemente\nrendirse?",
+      "choice_data_list": [
+        "No estoy diciendo eso.",
+        "No estoy diciendo eso."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Está claro que la entrenadora irritada tiene\nsuficiente fuerza para levantar la barra de pesas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero necesita calmarse y calentar adecuadamente\nprimero. Trato de explicarle por qué."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque parece reacia, la estudiante terca hace lo\nque se le indica por ahora."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Asigno un poco de jogging ligero en la cinta de\ncorrer para subir su temperatura corporal y\nfrecuencia cardíaca, y luego lo completo con\nestiramientos para aflojar sus músculos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de terminar el calentamiento integral,\nNarita Taishin se para una vez más frente a la\nbarra de pesas."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Jgh... Jng."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esta vez, está mucho más estable, y puede levantar\nla barra de pesas sin problemas."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Lo hice!",
+      "choice_data_list": [
+        "Parece que lo has dominado.",
+        "Parece que lo has dominado."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Un poco, supongo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus palabras expresan algo de duda, pero lo ha\nlogrado."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Uf..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El entrenamiento con mancuernas va suavemente,\npero podría ser mejor si ajustara su postura\ninestable...",
+      "choice_data_list": [
+        "¿Puedes enderezar un poco más tu parte superior\ndel cuerpo?",
+        "¿Puedes enderezar un poco más tu parte superior\ndel cuerpo?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Lo intentaré."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por el resto del entrenamiento, parece que sigue\nmis instrucciones más dispuesta que antes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con el entrenamiento terminado, repaso los logros\ndel día.",
+      "choice_data_list": [
+        "¿Cómo te sentiste con el entrenamiento de hoy?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Eh... Está bien, supongo."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Oh, cierto. Hey, eh..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Creo que podría querer hacer ese calentamiento que\nme mostraste a partir de ahora."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Me hizo sentir... Bueno, mi cuerpo se sintió más\nfácil de mover, creo.",
+      "choice_data_list": [
+        "¿¡De verdad?! ¡Eso es genial!",
+        "¿¡De verdad?! ¡Eso es genial!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No puedo ocultar mi emoción. No esperaba una\nrespuesta tan positiva de su parte."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Uf, qué diablos... Calma, ¿vale?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Hemos terminado de concluir? Porque me voy a ir.",
+      "choice_data_list": [
+        "O-oh, okay. Buen trabajo hoy."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque el entrenamiento parece ir bien con ella..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todavía hay algunos obstáculos que superar antes\nde que podamos ser verdaderos compañeros de\nequipo."
+    }
+  ]
+}

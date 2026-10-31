@@ -1,0 +1,65 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El otro día, la manager de Gold City y yo nos\nreunimos para coordinar su horario. Sin embargo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Últimamente, Gold City ha estado ocupada cada\nsegundo del día. Me imagino que es agotador\nfísicamente."
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Lo siento, Entrenador! ¡Me quedé dormida! Ya pasó\nmi hora reservada en la máquina, pero ¿quizás aún\npodamos conseguir un espacio?",
+      "choice_data_list": [
+        "¡Apresurémonos y revisemos!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Bueno... se acabó esa idea. No quedan horarios."
+    },
+    {
+      "name": "Gold City",
+      "text": "Lo siento. Aquí estoy, haciendo que también\npierdas tu tiempo.",
+      "choice_data_list": [
+        "Probablemente solo estés agotada de todo el\ntrabajo reciente."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Sí, pero estoy perdiendo. Soy yo quien decidió que\npodía hacer todo esto—correr y modelar."
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Literalmente, cómo no puedo ni cuidarme\nadecuadamente! <i>Tengo</i> que superar este cansancio!",
+      "choice_data_list": [
+        "No seas tan dura contigo misma. Solo terminarás\nmás agotada."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...!",
+      "choice_data_list": [
+        "Además, después de ese descanso extra, ¡podrás\ntrabajar más duro durante el entrenamiento!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Tienes razón. Solo estaré perdiendo tiempo si lo\npaso sintiendo lástima por mí misma."
+    },
+    {
+      "name": "Gold City",
+      "text": "Bien. Ya estoy de pie. ¿Qué tienes para mí hoy,\nEntrenador?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Poco después, logramos encontrar una instalación\nde entrenamiento abierta para usar."
+    }
+  ]
+}

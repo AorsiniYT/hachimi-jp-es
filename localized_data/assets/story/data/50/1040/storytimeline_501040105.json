@@ -1,0 +1,39 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Es el segundo campamento de verano de Gold City.\nEsta vez el año pasado, estaba tensa, pero\nahora..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Oye, ¿puedo ir directo a la playa después de dejar\nmis cosas?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Realmente tengo ganas de salir a correr.",
+      "choice_data_list": [
+        "¿De buen humor?",
+        "¿De buen humor?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...Creo que sí."
+    },
+    {
+      "name": "Gold City",
+      "text": "Me enfrentaré a dos corredoras increíblemente\nrápidas en la Japan Cup."
+    },
+    {
+      "name": "Gold City",
+      "text": "Tengo ganas. Quiero volverme más fuerte y ganar."
+    },
+    {
+      "name": "Gold City",
+      "text": "Solo hablar de ello me da un serio impulso de\ncorrer. ¡Vamos, Entrenador!"
+    },
+    {
+      "text": "¡Parece que este campamento de verano empieza con\nun comienzo ardiente!"
+    }
+  ]
+}

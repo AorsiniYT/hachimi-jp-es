@@ -1,0 +1,65 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Espectador A",
+      "text": "¡Eso fue emocionante de ver!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "Gracias por una carrera tan genial"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Y gracias por su apoyo"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "A cambio, seguiré mostrándoles las mejores\ncarreras siempre"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Me alegra que a todos les haya gustado la carrera.\nParece que lo pasaron genial"
+    },
+    {
+      "name": "Special Week",
+      "text": "Sí, fue increíble para mí también. Finalmente pude\ncompetir contigo"
+    },
+    {
+      "name": "Special Week",
+      "text": "...¿Um, <i>te divertiste, </i>Maruzen?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Bueno, <i>¡claro!</i> ¡Eso fue impresionante!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Sigamos ayudándonos mutuamente a mejorar... como\nrivales"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡De acuerdo! Pero no perderé la próxima vez"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Grass y Spe están mejorando mucho!",
+      "choice_data_list": [
+        "Pero nosotros no vamos a perder tampoco",
+        "Pero nosotros no vamos a perder tampoco"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Sí, todavía me quedan muchas carreras por correr"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Sigamos mostrando a todos que somos el desafío más\ndigno"
+    }
+  ]
+}

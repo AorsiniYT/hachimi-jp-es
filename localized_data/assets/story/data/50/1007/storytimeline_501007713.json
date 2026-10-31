@@ -1,0 +1,101 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Gold Ship está herida, así que la llevo a la\nenfermería."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "<i>Bip-bip-bip...</i> Daño detectado. Golshiroid,\niniciando escaneo.",
+      "choice_data_list": [
+        "¿Q-qué es eso?!",
+        "¿Q-qué es eso?!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Daño mínimo. La misión puede reanudarse a\nvoluntad. Esperando órdenes del comandante.<i>Bip,\nbip.</i>",
+      "choice_data_list": [
+        "Las reparaciones tienen prioridad.",
+        "¡Vamos a actualizar tu sistema operativo!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Iniciando escaneo secundario... <i>Bip.</i>La misión\npuede reanudarse a voluntad.Solicitando nuevas\nórdenes.",
+      "choice_data_list": [
+        "Desestimado. Las reparaciones deben tener\nprioridad."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Oh, por favor! ¡Estoy bien, te lo digo!",
+      "choice_data_list": [
+        "¡Las órdenes del comandante son definitivas!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Ahora son órdenes oficiales? Rayos. No puedo\nanular ni siquiera esas aunque quisiera..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "<i>Suspiro.</i> Orden reconocida. Priorizando\nreparaciones... <i>Bip, bip, bip...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gold Ship no está contenta de tener que guardar\nreposo unos días y se descontrola una vez que se\nrecupera por completo."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Sugerencia aprobada. Golshiroid, iniciando\nsecuencia de actualización."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ejecutando actualización instantánea."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Ay!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Qué pasa?! Todo estaba bien hace un segundo..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Genial, ahora solo soy un montón de chatarra.\n<i>Suspiro...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus autodiagnósticos claramente no dieron buenos\nresultados, porque de repente se pone extrañamente\ncallada."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "<i>B-b-bip.</i> Sugerencia confirmada. Iniciando\nsecuencia de actualización.",
+      "choice_data_list": [
+        "¡Más fuerte! ¡Más fuerte!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Hmm... Confirmación pendiente."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Aprobado. El programa operativo actual solo puede\nactualizarse bajo una condición.",
+      "choice_data_list": [
+        "¿Qué condición?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "<i>Bip-bip.</i> Se requiere helado de la tienda escolar\npara actualizar a Golshiroid. De lo contrario, la\nactualización se pospondrá indefinidamente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No hay forma de evitarlo. Acepto su condición y\nluego los dos reestructuramos su plan de\nentrenamiento."
+    }
+  ]
+}

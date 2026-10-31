@@ -1,0 +1,153 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Vodka vs. Daiwa Scarlet—la última batalla del año\nde las rivales llega a su clímax!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Y Daiwa Scarlet gana! ¡Vodka simplemente no pudo\nalcanzarla!"
+    },
+    {
+      "name": "Vodka",
+      "text": "No puedo creerlo. Perdí..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Nunca me he sentido así después de perder antes.\nEsa Scarlet..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Jeje. ¿Qué dices, Vodka? ¡Esta es mi victoria, sin\nduda!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ahora tienes que admitirlo, ¿verdad? ¿No fui\nincreíble?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Sí. Lo fuiste."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Q-qué? Eso fue honesto. ¿Dónde está tu\nbravuconería habitual?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Ganaste... porque eres más fuerte."
+    },
+    {
+      "name": "Vodka",
+      "text": "Nunca dejaste de correr hacia tu meta. Yo, por\notro lado... Bueno, perdí el camino."
+    },
+    {
+      "name": "Vodka",
+      "text": "Y por eso perdí. Esta es la única forma en que\npodría haber terminado."
+    },
+    {
+      "name": "Vodka",
+      "text": "Perdón por tener que verme así. No estoy siendo yo\nmisma ahora."
+    },
+    {
+      "name": "Vodka",
+      "text": "De todos modos, me voy..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Espera, ¿a dónde vas?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "A encontrar mi forma ideal de correr. No hay forma\nde que pueda volver a pararme frente a ti hasta\nque la encuentre."
+    },
+    {
+      "name": "Vodka",
+      "text": "...Nos vemos."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Vodka..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vodka no hace movimiento para ir a casa hoy..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Esta fue una pérdida enorme, Entrenador...",
+      "choice_data_list": [
+        "¿Porque la diferencia de habilidad fue demasiado\ngrande?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "No, no es eso... Es que ni siquiera estoy\ndecepcionada."
+    },
+    {
+      "name": "Vodka",
+      "text": "De hecho, lo entiendo un poco. Era obvio que iba a\nperder."
+    },
+    {
+      "name": "Vodka",
+      "text": "Así que... Tendré que intentarlo de nuevo. El\npróximo año.",
+      "choice_data_list": [
+        "¿Para que puedas intentar encontrar tu verdadero\nyo genial?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Así es. Me alegro de haber corrido el Arima Kinen."
+    },
+    {
+      "name": "Vodka",
+      "text": "No puedo correr si no puedo ver lo genial. No\npuedo ganar. Incluso si de alguna manera ganara,\nno significaría nada sin esa sensación."
+    },
+    {
+      "name": "Vodka",
+      "text": "Me he dado cuenta de eso ahora. Así que realmente\nnecesito encontrar lo que busco. Juntos, contigo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que a medida que las metas de Vodka pierden\nsu atractivo, su carrera se resiente."
+    },
+    {
+      "name": "Vodka",
+      "text": "Entonces, ¿qué carrera deberíamos apuntar primero\nel próximo año? Quiero empezar de nuevo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Empezar de nuevo, ¿eh? Parece que Vodka realmente\nquiere encontrar esa pieza faltante de su carrera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En ese caso, en lugar de correr carreras más\nlargas y quedar atrapada en tácticas, una carrera\nmás corta donde Vodka pueda concentrarse solo en\ncorrer sería lo mejor."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En ese caso...",
+      "choice_data_list": [
+        "¿Qué tal la Victoria Mile en primavera?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "La Victoria Mile... Una carrera sin trucos de pura\nvelocidad.",
+      "color_text_info_list": [
+        "Victoria Mile"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Muy bien, hagámoslo. Hasta entonces, ¿qué te\nparece unirte a mí para un viaje sin rumbo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hay diferentes períodos en la Serie Twinkle,\nincluyendo un tiempo para correr sin pensar en\nnada más, y un tiempo para la búsqueda del alma."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vodka ni siquiera intenta huir. Se sumerge\ndirectamente en esta temporada de incertidumbre."
+    }
+  ]
+}

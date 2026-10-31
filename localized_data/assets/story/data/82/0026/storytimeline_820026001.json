@@ -1,0 +1,187 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Mientras estoy de compras, noto a Nice Nature y\nMatikanetannhauser con una joven chica Umamusume."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Qué te parecen estos zapatos, pequeña?"
+    },
+    {
+      "name": "Joven Umamusume Energética",
+      "text": "¡Oooh! ¡Sí, los tomaré! ¡Gracias, Nature!"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Awww! ¡Se ven tan lindos y fáciles para correr! ♪"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Me alegra que te gusten. Si tú eres feliz, yo soy\nfeliz.",
+      "choice_data_list": [
+        "¿De compras con tu hermanita?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Hum? ¡Oh, no es nada de eso! Conocí a esta\npequeña durante mis actividades de voluntariado."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Ella nos pidió que la ayudáramos a elegir unos\nzapatos!"
+    },
+    {
+      "name": "Joven Umamusume Energética",
+      "text": "¡Ehehe! La próxima vez, con estos zapatos,\n<i>definitivamente</i> ¡voy a ganar!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Ohooo, mírate, tan entusiasmada. Así son los\nniños de hoy. ¡Rebosantes de energía!",
+      "choice_data_list": [
+        "Tú también eres joven.",
+        "Tú también eres joven."
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Eso es! Y a veces tú también te entusiasmas,\n¿verdad, Nature?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Nahhh, definitivamente no. Más bien, me dan una\nlección de humildad antes incluso de tener la\noportunidad de entusiasmarme..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Uf... Entrenamiento individual completado y mis\npiernas se sienten geniales. Lo único que falta es\nganar de verdad."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Argh! ¡Empaté contigo <i>otra vez,</i> McQueen?! ¡Deja\nde aferrarte a mí!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>¿Disculpe?!</i> ¡El sentimiento es mutuo! Se suponía\nque iba a ganar por un margen enorme!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "<i>Haa... Haa...</i> No pude... siquiera... mantenerme...\na la par... con ellas..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Jajaja. Supongo que eso es todo lo que puedo\nlograr, no importa cuánto me esfuerce..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Y así es como me dieron una lección de humildad...\nProbablemente no algo que los jóvenes como tú\npuedan entender, ¿eh?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Eso no es cierto... Definitivamente puedo\nrelacionarme. O sea..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Eres mi Teio y mi McQueen!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...¿Qué?"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "Ehehe, solo soy una Umamusume promedio... Muchas\nveces, ni siquiera quedo en las carreras."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Pero <i>tú</i>! ¡Siempre quedas entre los cinco\nprimeros! ¡Esa consistencia es asombrosa! Quiero\nser justo como tú!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Tannhauser..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Oh! Pero si te vas a desanimar, puedo usar esta\noportunidad para finalmente alcanzarte!"
+    },
+    {
+      "name": "Joven Umamusume Energética",
+      "text": "¡Sí, esta es nuestra oportunidad! ¡Vamos a\nsuperarte, Nature!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Je."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Ahahah! ¡Jejeje! Ha pasado una eternidad desde\nque reí así."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Quién hubiera pensado que esta pequeña podría\nhacer que ustedes dos se entusiasmaran? ¡Parece\nque la esperanza no se ha perdido en los jóvenes\naún!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Jeje... Supongo que eso realmente significa que\ntengo que mantenerme alerta.",
+      "choice_data_list": [
+        "Tú también eres un \"joven\", sabes.",
+        "Tú también eres un \"joven\", sabes.",
+        "¡Yo también estoy motivado ahora!",
+        "¡Yo también estoy motivado ahora!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Jeje... Supongo que eso realmente significa que\ntengo que mantenerme alerta.",
+      "choice_data_list": [
+        "Tú también eres un \"joven\", sabes.",
+        "Tú también eres un \"joven\", sabes.",
+        "¡Yo también estoy motivado ahora!",
+        "¡Yo también estoy motivado ahora!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ups... E-em, supongo que yo también soy algo\nnovata..."
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Muy bien! ¡Estoy toda entusiasmada y ardiendo de\npasión! ¡No te voy a perder, Nature!"
+    },
+    {
+      "name": "Joven Umamusume Energética",
+      "text": "¡Sí, cuidado, Nature! ¡Vamos a por ti! ¡Wooo!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡E-para! ¡Para, qué tal si alguien te escucha?!\n¡Qué vergonzoso!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "<i>Suspiro...</i> ¿Cómo hacen Teio y McQueen para\nmantenerse tan tranquilas cuando la gente dice\ntodas esas cosas cursis? ¡Incluso tienen\nrespuestas!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Creo que necesito prepararme mentalmente antes\nincluso de pensar en desafiarlas..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Eh... entonces, qué, ¿vas a poner todo lo que\ntienes en dar orientación o algo?",
+      "choice_data_list": [
+        "¡Por supuesto!",
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Oooh! ¡Ha surgido un oponente fuerte! <i>¡Ahora\nrealmente debemos </i>concentrarnos!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Uy... Personalmente, preferiría que mis \"fuertes\noponentes\" se relajaran un poco con la presión..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Pero bueno... Supongo que también conseguiré unos\nzapatos nuevos. Tengo que estar preparada para\ncualquier retador que venga surgiendo, después de\ntodo."
+    }
+  ]
+}

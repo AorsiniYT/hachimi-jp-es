@@ -1,0 +1,44 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Es hora del Sapporo Kinen, Entrenador!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Hm? Hay un árbol decorativo en la esquina...",
+      "choice_data_list": [
+        "Es un árbol de lilas.",
+        "Es un árbol de lilas."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "El nombre suena bien y todo, pero ¿qué hace aquí?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Oh, aquí dice que la lila es el árbol oficial de\nSapporo."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Oh! ¡Este es un presagio muy auspicioso!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Qué posibilidades hay de que esta lilac esté\nfloreciendo ahora? ¡Lilac tiene la misma cantidad\nde letras que \"suerte\", y ambas empiezan con <i>l</i>.\n¡Esto tiene que significar algo!",
+      "choice_data_list": [
+        "Eh, seguro..."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Oh grandes dioses del norte, humildemente acepto\nesta bendición!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Concédenos buena fortuna. Y, si es posible, algo\nde esa famosa barbacoa de cordero de Sapporo\ntambién."
+    }
+  ]
+}

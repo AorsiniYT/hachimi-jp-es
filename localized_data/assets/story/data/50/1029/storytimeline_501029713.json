@@ -1,0 +1,86 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Yukino Bijin se lesiona durante el entrenamiento,\nasí que la llevo a la enfermería."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Perdón por esto. Debí haber sido más cuidadosa..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Una lesión así no es nada! ¡Vamos, sigamos\nentrenando!",
+      "choice_data_list": [
+        "Mejor descansar por precaución",
+        "Sin excederse",
+        "Sin pasarse"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Una lesión así no es nada! ¡Vamos, sigamos\nentrenando!",
+      "choice_data_list": [
+        "Mejor descansar por precaución",
+        "Sin excederse",
+        "Sin pasarse"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Pero... si solo corro un poquito, ¡seguro que no\npasa nada!",
+      "choice_data_list": [
+        "No puede ser que no esté bien"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Aw..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Bueno, confío en tu consejo, Entrenadora... así\nque haré lo que tú creas mejor."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Pero cuando me recupere, espero que me dejes\nentrenar extra para compensar hoy..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con la moral por los suelos, Yukino Bijin regresa\na su dormitorio."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Montones de gracias!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Bueno, manos a la obra!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Yowsers!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Quizá me tomé esta lesión muy a la ligera... Debí\nhaber descansado, ¿no?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras ayudo a Yukino Bijin a apoyarse en mí, le\ndigo que a veces la fuerza de voluntad no es\nsuficiente."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "No estaba segura de cómo resultaría esto, pero...\nsupongo que las cosas salen bien si tienes\nagallas."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Vale! ¡Creo que puedo dar una vuelta más!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuidando de no esforzarse demasiado, Yukino Bijin\ncontinúa con su entrenamiento."
+    }
+  ]
+}

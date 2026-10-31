@@ -1,0 +1,65 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, Gold Ship viene a la oficina del\nentrenador..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Hola, hola, Entrenador! Hace un día precioso, ¿no\nte parece?",
+      "choice_data_list": [
+        "...¿Pasó algo?!",
+        "...¿Pasó algo?!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Por Dios! ¿Por qué te ves tan sorprendido?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Me atrevería a decir que hoy pareces un poco raro.\n¿Te sientes bien?",
+      "choice_data_list": [
+        "Tú tampoco pareces tú mismo.",
+        "Tú tampoco pareces tú mismo."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Bueno... Si debes saberlo, he tenido dolores de\ncabeza extraños últimamente."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "...Ah, hablando de eso, siento uno ahora\nmismo—¡ay, ay, AY!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Arrrgh! ¡Dame un respiro!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "...¿Hm? ¿Qué es esa mirada?",
+      "choice_data_list": [
+        "Eres Gold Ship, ¿verdad?",
+        "Eres Gold Ship, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Qué? ¡Soy la única y verdadera Golshi! ¡¿Quién\nmás podría ser?!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ay..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ugh... Todo ese griterío ha empeorado mi dolor de\ncabeza..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gold Ship parece estar plagada por migrañas\nterribles."
+    }
+  ]
+}

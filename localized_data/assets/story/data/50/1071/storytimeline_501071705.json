@@ -1,0 +1,201 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mejiro Ardan",
+      "text": "Sí... Debemos decidir qué película ver..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de encontrarnos con Mejiro Palmer y\nDaitaku Helios de camino a casa, vinimos con ellos\nal cine."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¡Oye, perdón por aparecer así de la nada! Es que\ntú eres la experta en obras y películas y todo\neso, ¡Ardan!"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Si alguien puede elegir una peliculón para ver,\neres tú! ¡En serio! ☆",
+      "choice_data_list": [
+        "¿Viniste aquí sin elegir primero una película?",
+        "¿Viniste aquí sin elegir primero una película?"
+      ]
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Bueno, como que <i>había</i> una que íbamos a ver."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "Pero en cuanto entré en este teatro, me emocioné\nmucho con todos los carteles y de repente quise\nver<i>todo!</i> ¡Literalmente estoy vibrando con\n<i>cada</i>película!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Tienes mucha razón. Que haya tantas películas en\ncartelera es suficiente para emocionar a\ncualquiera. Ahora, en cuanto a una película que a\nustedes dos les gustaría..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Qué tal esta?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin casi dudarlo, Mejiro Ardan señala un cartel."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡OH-OH-OH!"
+    },
+    {
+      "name": "Palmer y Daitaku",
+      "text": "¡OH POR DIOS!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Ardan elige un musical que narra la vida de\nun músico solitario que marchaba al ritmo de su\npropio tambor."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Y a Mejiro Palmer y Daitaku Helios les encanta!\nDespués pasamos por un café para que puedan hablar\nde sus escenas favoritas...",
+      "choice_data_list": [
+        "¡Esa película sí que fue buenísima!"
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Esa película me encantó muchísimo! ¡Y esa música\nen el <i>clímax! ¡Me </i>llegó mucho! Casi lloro."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¡En serio! Y ese personaje principal fue\n<i>tan</i>genial, como, todo el tiempo. ¿Ya habías\nvisto esa película antes o algo, Ardan?"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "No, también era la primera vez para mí. Me alegra\nmucho que les haya gustado. ♪",
+      "choice_data_list": [
+        "Aunque la elegiste muy rápido..."
+      ]
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡¿Cómo hiciste eso?! ¡Era <i>justo lo </i>que quería ver!\nNo puedo... <i>¡estoy shockeado!</i>"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Ah... Bueno, los carteles sí dan mucha\ninformación."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Como el director de la película, por ejemplo. Este\ndirector es increíblemente hábil usando la banda\nsonora para entusiasmar al público. Esperaba que\nte gustara eso, Helios."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Y luego está el eslogan: \"Los verdaderos héroes\ntocan fuera del pentagrama.\""
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Ah... Sí, me gusta. Ese es <i>tan</i> el tipo de eslogan\nque me engancharía. ¡Guau! Así que supongo que los\ncarteles realmente facilitan la elección."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Oye, oye! ¿Puedes darme una lista de películas\nincreíbles que me pongan súper <i>emocionado?! ¡Sé\n</i>que tú entenderás la tarea!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Sí, con gusto. Si quieres ver más películas como\nla de hoy, puedo recomendarte algunas del mismo\ndirector..."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¡Hazlo! ¡Hazlo! ¿Conoces otras películas con\nactores tan geniales como la que vimos?!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¡Por supuesto! Jejé, nunca esperé que todo ese\nconocimiento que gané viendo películas solo en la\ncama rindiera frutos hasta este punto."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Cómo decirlo? ...Jejé. Casi me siento\nrecompensado. No me molestaría tener más\nopportunidades así, ¿sabes?... ♪",
+      "choice_data_list": [
+        "Vale, recomiéndame películas a mí también.",
+        "Vale, recomiéndame películas a mí también.",
+        "Quizás deberíamos llevar a más gente la próxima\nvez.",
+        "Quizás deberíamos llevar a más gente la próxima\nvez."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Cómo decirlo? ...Jejé. Casi me siento\nrecompensado. No me molestaría tener más\nopportunidades así, ¿sabes?... ♪",
+      "choice_data_list": [
+        "Vale, recomiéndame películas a mí también.",
+        "Vale, recomiéndame películas a mí también.",
+        "Quizás deberíamos llevar a más gente la próxima\nvez.",
+        "Quizás deberíamos llevar a más gente la próxima\nvez."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Claro. En tu caso, Entrenador, creo que películas\nsobre carreras y esas cosas serían lo mejor..."
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Espera, yo también quiero ver películas así! ¡Un\nmomento! Tus elecciones para nosotros son\ngeniales, ¡pero de verdad quiero saber qué\npelículas <i>tú</i> te gustan, Ardan!"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¡<i>Totalmente!</i> Entonces, como, ¿qué sueles ver?\nApuesto a que dramas históricos y ese tipo de\ncosas?"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Yo? Bueno... Me inclino por un buen drama de\népoca, pero también me gustan la acción y la\nfantasía."
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "Guau. ¡Nunca te imaginé del tipo de fantasía! ¿Has\nvisto esta? El libro ilustrado era increíble, así\nque hicieron la película..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Terminan hablando de películas tanto tiempo que\ncasi no llegamos a la academia antes del toque de\nqueda."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El día termina siendo muy especial, ya que puedo\nver lo mucho que sabe Mejiro Ardan sobre\npelículas."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Me... gusta esa idea. ¿Qué opinan ustedes dos?"
+    },
+    {
+      "name": "Daitaku Helios",
+      "text": "¡Eso <i>sí</i> sería genial! ¡Hagámoslo en serio! ¡Voy a\nreunir a la familia! ☆"
+    },
+    {
+      "name": "Mejiro Palmer",
+      "text": "¡Dios mío, esto va a ser <i>genial!</i> ¿Dónde lo vamos a\nhacer? ¿El vestíbulo de la residencia?Pero\nentonces tu entrenador no podría entrar..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Mmm... Si la memoria no me falla, hay una\ntelevisión muy grande en tu oficina, ¿verdad,\nEntrenador?",
+      "choice_data_list": [
+        "Sí, la hay."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...¿Nos darías permiso para usar tu oficina? Así\ntú también podrías participar.",
+      "choice_data_list": [
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Jejé... Gracias. ♪ Ahora... ¿fijamos una fecha y\nuna lista de películas para el evento?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, unos días después, el maratón de películas\nes un gran éxito."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al ver a todos disfrutar al máximo, Mejiro Ardan\nno puede evitar sonreír."
+    }
+  ]
+}

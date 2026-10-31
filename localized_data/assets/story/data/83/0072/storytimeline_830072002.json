@@ -1,0 +1,192 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mujer A",
+      "text": "Sabes, realmente creo que van a cancelar el\nconcierto de BNW..."
+    },
+    {
+      "name": "Mujer B",
+      "text": "¡¿Qué?! ¡Pero vinimos hasta aquí solo para verlos!\n¡No podemos rendirnos aún! Vamos, esperemos un\npoco más."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Voy al centro comercial en mi día libre para\ndisfrutar de algunas presentaciones que hay allí,\npero cuando llego, la multitud parece alterada de\nmala manera."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Oh, se avistó a la entrenadora! ¡Qué buen\nmomento!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Apuesto a que tú también tienes curiosidad sobre\nqué está pasando, ¿verdad? ¡Reunámonos y\naverigüémoslo! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mayano Top Gun me lleva al centro del caos, donde\nBiwa Hayahide está parada con una expresión\npreocupada en su rostro."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Pero si cancelamos el concierto, todos los que\nvinieron a vernos estarán muy decepcionados."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sé que no puedo llevar el espectáculo yo sola,\npero quizás pueda ganar tiempo hasta que Taishin y\nTicket lleguen, y—"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Oh, por Dios, qué pasa, Hayahide? ¡Pareces a\npunto de enviar una señal de socorro!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No esperaba verlos a ustedes dos aquí. Lamento que\ntengan que verme en este estado, pero la verdad\nes..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡¿Qué?! ¡Tickezo y Taishin no llegarán?!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Dijeron que su tren se detuvo. Afortunadamente,\ndecidí venir temprano para asegurarme de que todo\nestuviera bien. Pero aún así..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Se supone que este es un concierto de BNW, y la\nlista de canciones se decidió pensando en las\ntres."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No es posible hacerlo funcionar por mi cuenta.\n<i>Suspiro...</i> No puedo creer que tengamos que\ncancelar todo después de toda esa preparación."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Oye, Hayahide? ¿Qué tal si actúo como tu compañero\nde ala?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Qué?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Quiero decir, ¡sería una gran lástima defraudar a\ntanta gente! ¡Especialmente en un fin de semana!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Quiero hacer algo por ellos, y todos podrían usar\nun regalo ahora mismo!",
+      "choice_data_list": [
+        "¿Sería otro de tus \"regalos porque sí\"?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La palabra \"regalo\" me recuerda cuando Mayano Top\nGun le dio un regalo a Oguri Cap."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Oh, es un pequeño \"regalo porque sí\"! ¡De mí para\nti!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "<i>¡Casi lo logras, </i>pero no! ¡Este va a ser un regalo\n\"ligeramente-especial-porque-es-un\nfin-de-semana-maravilloso\"!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Mi papá da más de un tipo de regalo, ¿sabes? Tiene\nregalos para días soleados y regalos secretos para\nmi mamá, y todo tipo de otros regalos también!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Quiero convertir este día decepcionante en un\nregalo espectacular para todos!",
+      "choice_data_list": [
+        "Aún te falta una persona, sin embargo.",
+        "Aún te falta una persona, sin embargo."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Está bien! ¡Si te unes a nosotros, entonces\ntendremos el número exacto de personas!",
+      "choice_data_list": [
+        "¿¡Quieres que <i>yo</i> actúe?!",
+        "¿¡Quieres que <i>yo</i> actúe?!"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Eres una entrenadora de Tracen, ¿verdad? Eso\nsignifica que deberías poder cantar todas nuestras\ncanciones de concierto! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No exactamente estoy saltando de alegría ante la\nperspectiva de actuar frente a todos, pero no\ntengo opción. Me fortalezco y subo al escenario."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "En este momento, Taishin y Ticket están haciendo\nsu mejor esfuerzo para llegar aquí."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Así que hasta que lleguen, cantaremos juntos,\ntodos! ♪"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Este es un regalo especial para todos ustedes en\neste fin de semana brillante y maravilloso!"
+    },
+    {
+      "name": "Fan A",
+      "text": "Hombre, vine aquí para ver a BNW... Pero supongo\nque esto es mejor que ningún concierto en\nabsoluto."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "(¡Jeje! ♪ ¡Es hora de ejecutar un giro súper lindo\nal ritmo de la música!)"
+    },
+    {
+      "name": "Fan B",
+      "text": "¡Guau... Mayano Top Gun es tan enérgica—es\nadorable!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "(¡Estos próximos pasos deben verse ligeros y\netéreos! ¡Jeje! Parece que la audiencia está\nempezando a encender sus motores!)"
+    },
+    {
+      "name": "Fan C",
+      "text": "¡Caray, sus movimientos son increíbles! ¡Mira qué\ncool es!"
+    },
+    {
+      "name": "Fan D",
+      "text": "¿Viste eso? ¡Ella solo miró hacia acá! ¡Mi corazón\nde hecho dio un vuelco! ¡Cómo puede ser tan dulce\ny hipnótica al mismo tiempo?!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(Mayano es increíble. Incluso en conciertos, ella\nes tan libre. ¡No puedo perderle el paso aquí!)"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Hoy les estamos ofreciendo un arreglo único! ¡Así\nque ni siquiera piensen en parpade!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Como regalo, ¡les daré a todos un vistazo de mi\nlado lindo <i>y</i> mi lado genial! ♪"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Woooo!"
+    },
+    {
+      "name": "Fan A",
+      "text": "Esa Mayano Top Gun es algo más... Debería ir a ver\nsu próxima carrera."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Resuello... resuello...</i> Oye, todos se están\ndivirtiendo."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Ahaja! ¡Lo están haciendo genial! ¡No podemos\ndejar que nos ganen, sin embargo! ¡Vamos, vamos!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Ustedes dos lo lograron! ¡Ahora tenemos un\nescuadrón completo! ¡Okay, vamos a <i>realmente</i> hacer\nque esta fiesta empiece! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La presentación conjunta de BNW con Mayano Top Gun\nes un éxito rotundo y termina convirtiéndose en el\ntema más comentado en redes sociales."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Grraah! <i>¡Cómo fue </i>esa carrera?!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Claro que sí, batí mi tiempo! ¡Hora de otra\nvuelta!",
+      "choice_data_list": [
+        "¿Te sientes bien?",
+        "¿Te sientes bien?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Je, ¿crees que esto es suficiente para vencerme?\n¡Voy a batir mi récord de nuevo, solo espera!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Mira, voy a necesitar un montón de entrenamiento\nsi quiero derrotar a todas mis rivales."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Pero, vaya, tener una compañera confiable\nrealmente ayuda las cosas. ¿Verdad, Entrenador?",
+      "choice_data_list": [
+        "¡Claro que sí!",
+        "¡Claro que sí!"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Contigo alrededor, puedo entrenar a corazón\nabierto sin preocuparme por nada."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "No tengo mucho en el departamento de cerebro,\n¡pero te tengo a ti para compensar eso!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Muy bien, ¡de vuelta al trabajo! Tengo que\nacostumbrarme a cómo se sintió esa carrera hace un\nmomento."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Guaaaahhh!"
+    }
+  ]
+}

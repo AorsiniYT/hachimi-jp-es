@@ -1,0 +1,44 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una carta de admirador ha llegado para\nMatikanefukukitaru."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Dios mío! ¿Una carta de admirador? ¿Para mí?!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "...¿Estás seguro de que puedo tener esto? Quiero\ndecir, yo no soy un amuleto de la suerte. ¿Debería\nalguien como yo realmente aceptar este honor?",
+      "choice_data_list": [
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "...¿Lo dices en serio?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Jeje, ¡entonces creo que lo tomaré!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Las cartas de admiradores son reliquias místicas\nque pueden otorgar a uno los favores más\nmilagrosos! ¡Debo dar gracias de inmediato!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al decir esto, ella se retira a la esquina de mi\noficina para orar por la carta."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Doy gracias! ¡Por favor, continúa velando por\neste mísero ser que soy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de la escena presente, parece que el apoyo\nde los admiradores ha animado su ánimo."
+    }
+  ]
+}

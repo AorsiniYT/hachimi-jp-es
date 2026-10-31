@@ -1,0 +1,219 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Ardan y yo acabamos de terminar nuestros\nrecados cuando miro mi reloj. Todavía es un poco\npronto para volver..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Entrenador. ¿Podría interesarte otro pequeño\ndesvío?",
+      "choice_data_list": [
+        "Claro.",
+        "Claro."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Jeje. Genial. Ahora, ¿a dónde iremos hoy..."
+    },
+    {
+      "name": "Special Week",
+      "text": "...¡Oh! ¡Hola, Ardan! ¡Y su entrenador también!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Saludos, Spe, Oguri. ¿Están de excursión?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí. Spe y yo vamos a este lugar de ramen llamado\nHefty Noodle Hammerbolt."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Hammerbolt... Ese es un nombre único, ¿verdad?",
+      "choice_data_list": [
+        "¿Quieres echarle un vistazo?",
+        "¿Quieres echarle un vistazo?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Bueno, aventurarse en lo desconocido es el\nverdadero encanto del desvío. Como experta, no\npuedo dejar pasar esta oportunidad."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Así que... ¿nos unimos a ellos en esta aventura? ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, nos dirigimos al Hefty Noodle Hammerbolt.\nAl llegar, sin embargo..."
+    },
+    {
+      "name": "Cliente A",
+      "text": "¡Muchos vegetales, aceite ultra pesado, y gigante\ngarly!"
+    },
+    {
+      "name": "Cliente B",
+      "text": "Tríada de cerdo, aceite pesado, poco garly!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Vegetales? ¿Garly? ¿Q-qué estarán hablando?\n...¿Todos los clientes aquí hablan en código?"
+    },
+    {
+      "name": "Special Week",
+      "text": "Tomaré una tríada de cerdo, extra pesado en\nvegetales y aceite, con un gigante garly!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Un Mariana Trench Olympus Eruption, cerdo quinty,\ny ultra pesado en todo."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...?! ¡Ustedes dos también?!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí... Ardan, no me digas... ¿esta es tu primera\nvez?"
+    },
+    {
+      "name": "Special Week",
+      "text": "Oh, ¡me encantaría enseñarte la jerga! El cerdo es\nla atracción principal aquí, y tienes que gritar\nlo que quieres en lugar de—"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Ah, aprecio la oferta, pero esto es parte de la\nexperiencia de desvío... Y, como experta, lo menos\nque puedo hacer es hacer un pedido sin ayuda."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "No te preocupes... Si escucho con atención,\ndebería ser capaz de descifrar las palabras clave."
+    },
+    {
+      "name": "Cliente C",
+      "text": "Cerdo quarty, pesado en vegetales!"
+    },
+    {
+      "name": "Cliente Umamusume",
+      "text": "¡Cerdo quinty grueso con un Everest de vegetales!\n¡Y ultra super pesado en el aceite!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Creo que entiendo. \"Veg\" y \"garly\" son\nvegetales y ajo, mientras que el peso indica el\ntamaño de la porción."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Entonces \"quarty\" y \"quinty\" se refieren a la\ncomplejidad y grosor del caldo. Como cuartetos y\nquintetos actuando para las papilas gustativas!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Además, esos nombres de montañas que están\ngritando deben servir... para invocar grandes\nvisiones de sabor!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Sí... ¡Entiendo lo que todos están diciendo! Yo...\nYo puedo hacer un pedido! ¡Ha llegado el momento!"
+    },
+    {
+      "name": "Dueña de ramen",
+      "text": "¡Saliendo! Veg Hua, poco garly, cerdo hexa."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Estás... segura de esto, Ardan?! Ese tazón parece\nlas ruinas de un antiguo reino de vegetales y\ncerdo!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...No te esfuerces demasiado. Te ayudaremos a\nterminarlo. Además, esa combinación me intriga."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Yo soy la que invocó esta monstruosidad. ¿Qué voy\na hacer?",
+      "choice_data_list": [
+        "¡Compartámoslo todos!",
+        "¡Acepta el desafío!",
+        "¡Acepta el desafío!"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Yo soy la que invocó esta monstruosidad. ¿Qué voy\na hacer?",
+      "choice_data_list": [
+        "¡Compartámoslo todos!",
+        "¡Acepta el desafío!",
+        "¡Acepta el desafío!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Exacto! Lo importante es disfrutar la comida,\n¡sin tener que forzarla!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí. Estaba pensando que el mío no era realmente\npesado suficiente por sí solo."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Pero... ustedes dos no deberían sufrir por mi\nineptitud...",
+      "choice_data_list": [
+        "El punto de los desvíos es divertirse, ¿verdad?",
+        "El punto de los desvíos es divertirse, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Sí, tienes razón. Bien dicho."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Muy bien... Aceptaré humildemente su asistencia."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "<i>Uf...</i> En gran parte gracias a su ayuda, ese plato\nfue bastante disfrutable. ¡Muchas gracias! ♪"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Gracias <i>por</i> compartir! ¡Pedir un seis en el caldo\nde cerdo fue intenso!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí, nunca me había sentido tan lleno antes. Voy a\nseguir tu ejemplo la próxima vez."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque me preocupé por un momento, parece que este\ndesvío ha terminado como un recuerdo agradable\npara todos los involucrados."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Sí. Como la que hizo el pedido, me corresponde\nvencer a esta bestia."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "No estoy segura de cuánto tiempo mi estómago\naguantará..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Pero precisamente por eso voy a concentrarme\nexclusivamente en la tarea que tengo frente a mí.\nLiberaré mi poder completo... ¡aquí y ahora!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Ha llegado el momento... ¡Allá voy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Mejiro Ardan se pone a trabajar\ngallardamente. Pronto, sin embargo..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...¡Es <i>imposible!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su intento de vencer a la bestia que invocó\ntermina en una derrota desalentadora..."
+    }
+  ]
+}

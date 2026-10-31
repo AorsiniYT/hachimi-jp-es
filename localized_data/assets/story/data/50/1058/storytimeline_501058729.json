@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Meisho Doto",
+      "text": "Oh no... Lo siento por hacerte perder el tiempo\ncon mi petición.",
+      "choice_data_list": [
+        "Lo siento por no poder conseguirlo para ti."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "No, ¡e-está bien!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Debería estar pensando en formas de ser confiada\npor mí misma, y estoy segura de que los peluches\nodiarían separarse de sus amigos..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Así que en cierto modo, esto es mejor. Sí, así es\ncomo las cosas deberían ser."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bueno, eso fue decepcionante."
+    }
+  ]
+}

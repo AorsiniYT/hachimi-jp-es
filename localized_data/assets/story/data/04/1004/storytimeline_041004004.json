@@ -1,0 +1,295 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día después de entrenar con Maruzensky, otra\ncorredora se acerca tímidamente hacia nosotros."
+    },
+    {
+      "name": "Special Week",
+      "text": "Eh... Um, disculpa. ¡H-h-hola, Maruzensky!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Hola! Jeje, no te pongas tan nerviosa. ¿Eres\nSpecial Week, la nueva alumna transferida?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡S-sí! Um, um, tu carrera es realmente genial.\nCorres como si tuvieras montones de energía de\nsobra, pero eres tan rápida... Me encantaría\ncorrer igual que tú."
+    },
+    {
+      "name": "Special Week",
+      "text": "Me hizo pensar que si quiero ser la mejor\ncorredora de todo Japón, necesito ser tan rápida\ncomo tú."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "La mejor de Japón, ¿eh? ¿Es ese tu sueño, querida?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Oh, sí! ¡Lo es!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Quiero que mamá y mi madre me vean convertirme en\nla mejor corredora de todo Japón. Por eso dejé\nHokkaido para venir aquí."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Entiendo..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Bueno, eso es genial. Creo que es un sueño\nmaravilloso. Espero que lo logres algún día. ¡Te\nestaré animando, Spe! ♪"
+    },
+    {
+      "name": "Special Week",
+      "text": "Muchas gracias. Um, si no te importa... ¿Podríamos\ncorrer juntas algún día?"
+    },
+    {
+      "name": "Special Week",
+      "text": "Me encantaría correr contigo. Por favor,\nsignificaría mucho para mí."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Conmigo? Eh, veremos..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Déjame revisar mi horario. Te haré saber lo antes\nposible. ¿Suena bien?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Oh, wow! Por supuesto. ¡Hasta luego!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Nos vemos en el próximo encuentro. ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...Como yo, ¿eh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más tarde, Maruzensky parece estar perdida en sus\npensamientos durante nuestra charla de\nentrenamiento."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...",
+      "choice_data_list": [
+        "¿Todo bien?",
+        "¿Todo bien?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Eh? Oh..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Lo siento. Me distraje. He estado pensando en lo\nque Spe dijo.",
+      "choice_data_list": [
+        "Ella te pidió que corrieran juntas, ¿verdad?",
+        "Ella te pidió que corrieran juntas, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Sí... Quiero decir, no me importaría en absoluto,\nsabes. ¿Cómo podría no ayudar a una pequeña\naprendiz tan linda?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Pero, sabes... Spe tiene un sueño muy claro."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "No puedo imaginar que sería de mucha ayuda para\nuna chica tan brillante como ella..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Jajaja, lo siento. Es tan extraño, siempre me\npongo así cuando estoy contigo."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Jajaja, lo siento. Es tan extraño, siempre me\npongo así cuando estoy contigo."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ella tiene fe en mí, y como modelo a seguir, no\npuedo defraudarla. ¿Está bien si voy a correr con\nSpe?",
+      "choice_data_list": [
+        "Claro, podemos decírselo juntos."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ella tiene fe en mí, y como modelo a seguir, no\npuedo defraudarla. ¿Está bien si voy a correr con\nSpe?",
+      "choice_data_list": [
+        "Claro, podemos decírselo juntos."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Gracias. ♪ Entonces, vámonos a buscarla."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella suena feliz al respecto, pero veo cierta\nindecisión en su paso. Debe seguir sin estar\nsegura de si puede cumplir con las aspiraciones de\nlas corredoras más jóvenes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero no tiene que preocuparse, porque la parte de\nella que Special Week y las demás admiran es..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Entrenador? ¿Qué pasa? ¡Vamos, sigamos!",
+      "choice_data_list": [
+        "Lo siento, voy en camino.",
+        "Lo siento, voy en camino."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Entrenador? ¿Qué pasa? ¡Vamos, sigamos!",
+      "choice_data_list": [
+        "Lo siento, voy en camino.",
+        "Lo siento, voy en camino."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "En fin, ¡vamos a correr en pareja! ¿Qué tal esta\nnoche?"
+    },
+    {
+      "name": "Special Week",
+      "text": "Sí, ¡genial! Muchas gracias. No puedo creer que\nvaya a correr con la increíble Maruzen... No te\ndefraudaré."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ahora, ahora... No tienes que ser tan seria,\ncariño. Solo soy yo, después de todo.",
+      "choice_data_list": [
+        "¿Qué es lo que más te gusta de Maruzen?",
+        "¿Qué es lo que más te gusta de Maruzen?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Eh, ¿entrenador? ¿Qué estás preguntando..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Eh, ¿entrenador? ¿Qué estás preguntando..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Quieres saber qué es lo que más admiro de ella.\nBueno, obviamente es una corredora muy fuerte y\ntodo eso..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Pero lo más grande es... no importa la carrera,\nsiempre parece que se divierte."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Special Week",
+      "text": "Sabes cómo los corredores de la Serie Twinkle\ninspiran a los corredores de todas partes."
+    },
+    {
+      "name": "Special Week",
+      "text": "También vine aquí para hacer que mi mamá se sienta\norgullosa y darle esperanza a la gente... Y creo\nque Maruzen lo hace mejor que nadie."
+    },
+    {
+      "name": "Special Week",
+      "text": "Ella es fuerte, rápida y ama correr. Es increíble\nverla, y tan emocionante."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Spe..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Ay, oh no. Me toca limpiar el salón de clases hoy.\nLo siento, tengo que irme. No llegaré tarde a\nnuestro entrenamiento, ¡no te preocupes."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, c-claro. Nos vemos más tarde."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Entrenador... eres alguien especial.",
+      "choice_data_list": [
+        "¿Qué quieres decir!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Entrenador... eres alguien especial.",
+      "choice_data_list": [
+        "¿Qué quieres decir!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ay, hacerse el tonto, ¿eh. Hmph, está bien...\nGeez, no puedo creer que hayas pensado eso."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ay, hacerse el tonto, ¿eh. Hmph, está bien...\nGeez, no puedo creer que hayas pensado eso."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Me dijo que le doy esperanza y que mi alegría por\ncorrer la inspira..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Me vería muy mal si me echara atrás después de\neso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Maruzensky parece estar de muy buen humor mientras\ncorre con Special Week."
+    },
+    {
+      "name": "Special Week",
+      "text": "<i>Haa... Haa...</i> Wow, eres realmente increíble... No\npuedo seguirte el ritmo para nada."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Mira con atención, Spe. Estoy a punto de acelerar\nal máximo."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Recién estamos empezando."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Guauu!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Maruzensky le muestra a la corredora más joven una\ncarrera impresionante antes de regresar."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Uf... Ya estoy de vuelta, Entrenador.",
+      "choice_data_list": [
+        "Buen trabajo, Maruzensky."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Uf... Ya estoy de vuelta, Entrenador.",
+      "choice_data_list": [
+        "Buen trabajo, Maruzensky."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, ni siquiera me he sudado. Todavía estoy lista\npara más. ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "No puedo estar de pie sin hacer nada si voy a\ninspirar a la generación más joven."
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "De vuelta a casa después de salir con Narita\nBrian..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Bah.",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Nada."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Mmm... nada aquí.",
+      "choice_data_list": [
+        "¿Seguro que estás bien?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Sí. No hay problema. No te preocupes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Brian permanece inquieta todo el camino de\nvuelta a la academia. Probablemente debería\npreguntar un poco más en serio."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Oh, está bien.",
+      "choice_data_list": [
+        "Si algo pasó, por favor dime.",
+        "Si algo pasó, por favor dime."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tch... No te rindes, ¿verdad?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Perdí mi billetera. Eso es todo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No había nada importante en ella, solo algo de\ncambio pequeño, así que no importa.",
+      "choice_data_list": [
+        "No puedes simplemente rendirte.",
+        "No puedes simplemente rendirte."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿Qué te pasa de repente?",
+      "choice_data_list": [
+        "No quiero que hagas un hábito de rendirte."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tch. Qué considerado de tu parte."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No me estoy rindiendo. Voy a buscarla más tarde.",
+      "choice_data_list": [
+        "Será más fácil si ambos la buscamos."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "<i>Suspiro...</i> Exactamente por eso no quería que te\ndieras cuenta."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "La perdí. La encontraré. Tú solo vete a casa.",
+      "choice_data_list": [
+        "No te preocupes, ¡estoy segura de que la\nencontraremos en un santiamén!",
+        "Cuando estás en problemas, deberías pedir ayuda.\nPreguntemos a alguien."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿De dónde sale tanto optimismo?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Eh, lo que sea. Supongo que tienes algún tipo de\nplan, ya que eres tan optimista. Entonces, ¿dónde\ndeberíamos empezar a buscar?",
+      "choice_data_list": [
+        "¡Retrocedamos nuestros pasos!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Eso es muy ineficiente..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Pero supongo que nunca la encontraremos si no\nvolvemos."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Está bien. Iremos tan lejos como sea necesario."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Retrocedemos nuestros pasos hasta que llegamos de\nvuelta a la estación."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Oh. ¡Es verdad! Saqué mi billetera cuando\ncompré mi boleto..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Espera un segundo..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Estaba en la oficina de objetos perdidos. Parece\nque la dejé al lado de la máquina de boletos.",
+      "choice_data_list": [
+        "¡Qué bien!",
+        "¡Qué bien!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Sí... Entonces..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Gracias por la ayuda."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con su billetera ahora a salvo, Narita Brian y yo\nnos dirigimos de vuelta."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿A quién diablos vamos a preguntar? ¿Quieres ir\npor ahí preguntando a personas en la calle?!",
+      "choice_data_list": [
+        "Buena idea. Hagámoslo.",
+        "Buena idea. Hagámoslo."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "De ninguna manera. Es una idea terrible. ¿Eres\nidiota o que?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿No sería mejor preguntar en la caja de policía o\nen las tiendas cercanas?",
+      "choice_data_list": [
+        "Está bien, hagámoslo."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "O-oye, ¡espera!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Brian decide volver a la estación para preguntar\npor su billetera."
+    },
+    {
+      "name": "Personal de la estación",
+      "text": "Oh sí, la tenemos aquí. Parece que fue encontrada\ncerca de la máquina de boletos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, la billetera perdida de Narita Brian es\ndevuelta a ella a salvo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Gracias."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Aún así, me sorprende que la hayamos encontrado.",
+      "choice_data_list": [
+        "Es porque no te rendiste.",
+        "Es porque no te rendiste."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Tch! No te emociones demasiado. Esto es solo\ngracias a algún extraño que la recogió por mí."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Bueno, esa fue una de las razones por las que pude\nencontrarla, de todos modos..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Basta de eso, se está haciendo tarde.\nApresurémonos a volver."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con su billetera encontrada, Narita Brian y yo nos\ndirigimos de vuelta a la academia."
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mientras espero a que <chrname> llegue..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Vaya, eso se ve muy doloroso! ¿Qué le pasó a tu\nuña, Flash?!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Se astilló un poco durante la clase de educación\nfísica. No es nada para preocuparse."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "No sé, como que deberías tomarlo más en serio.\n¿Quieres que lo arregle? Tengo mi kit conmigo."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No hay tiempo para eso. Tenemos menos de tres\nminutos hasta nuestra carrera."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Y después, tenemos una clase de baile conjunta,\nasí que no podré atender mis uñas hasta que eso\ntermine."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿¡Qué?!? ¿Por qué lo pospondrías así? Va a ser\nrealmente malo si esa uña empeora."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Oh, ya sé! ¿Me dejarás arreglarte las uñas si\ngano nuestra carrera?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Muy bien... Pero entonces si yo gano, seguiremos\nnuestro horario al pie de la letra."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Vaya... ¡Las uñas tienen poder, ¿sabes?! Mejor no\ntomar ese poder a la ligera!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La carrera entre Tosen Jordan y Eishin Flash\nparece que será reñida hasta el final."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero cuando Eishin Flash aprieta sus puños en\npreparación para la recta final..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...¡Ay!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "<i>Haa... Haa...</i> G-gano."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Espera, Flash. ¿No dijiste \"ay\" justo al final de\nla carrera?!",
+      "choice_data_list": [
+        "¿Tu mano está bien?",
+        "¿Tu mano está bien?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Parece que apreté mi puño un poco demasiado\nfuerte."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Ves? Te dije que tienes que cuidar tus uñas."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Debí haber escuchado. Priorizaré mantenerlas."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Bueno, ¡me alegra que hayas entendido! Muy bien,\n¡te arreglaré en un segundito!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Listo. ¡Todo hecho! ¿Te encanta o qué?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Estoy sorprendida. No solo mis uñas se ven\nmejor..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Pero no duele en absoluto cuando aprieto mi puño.\nAhora no tendré que contenerme durante mi esprint\nfinal."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿Verdad? Soy, como, literalmente una profesional."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Jeje, muchas gracias. Por cierto, ¿qué tipo de\nherramientas usas—"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Whoa, hey! ¡No mirar! ¡Tengo que mantener mis\nsecretos industriales bajo llave!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los suministros de uñas que Tosen Jordan intenta\nesconder se caen al suelo.",
+      "choice_data_list": [
+        "\"¿Protección para las uñas de los atletas\"?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Un set de manicura para deportes, veo."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...Oh. Eh, bueno... Sí."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Entiendo. Así que tus uñas no son solo para\nmostrar."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Son parte de una estrategia secreta para maximizar\nel poder, ya que la victoria se determina por los\nmás pequeños márgenes."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "No es como si hubiera planeado esto o algo... Me\nestás, como, dando demasiado crédito..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No. Aprecio que me hayas revelado la verdad a\ntravés de esta experiencia.",
+      "choice_data_list": [
+        "Supongo que son tanto elegantes como prácticos.",
+        "Creo que es genial lo serio que eres con las\ncarreras."
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...Sí, algo así. No me importa si ahora me tienes\nun poco de respeto, ¿sabes?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Tendré esto en cuenta y te lo pagaré algún día."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡Oh, sí! Planeo hornear algunos Schneeballen\nmañana. Por favor, toma algunos."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Vaya, en serio? Esos suenan <i>tan</i> chic. ¡Estoy\ntotalmente dentro!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "...Se trata de ser chic, ¿vale? No lo olvides."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Ugh. ¡Estoy, como, tan cansada! ¡Hora de comprar\nalgunos colores nuevos de esmalte de uñas!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Práctico y hermoso... Entiendo. Una lección bien\naprendida."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Oye, tranquila! No es como si fuera toda pasión o\nalgo, ¿sabes? Solo me gusta hacerme las uñas..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Huele... Apesta... Hediondo... de alguien en los\nESTERTORES de la juventud!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Ugh, qué... ¿De dónde saliste, Golshi?!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Oh, mon ami! <i>Alguien</i> está avergonzado! Pero\n¿quién es el culpable? ¿Eres tú?!"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Ew, ¿por qué actúas así? Eso es molesto de manera\nsutil."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡El sospechoso está huyendo! ¡Zut alors! Pero la\nastuta detectiva Golshi la Grande está en el caso!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Jordan parece estar molesta por Golshi\npersiguiéndola..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡Ahora es mi oportunidad de pagar esa deuda!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eishin Flash rescata a Tosen Jordan, quien comenta\nque \"lo que va <i>totamente</i>vuelve.\""
+    }
+  ]
+}

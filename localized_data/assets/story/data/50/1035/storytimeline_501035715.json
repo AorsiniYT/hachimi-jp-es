@@ -1,0 +1,70 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después del entrenamiento...",
+      "choice_data_list": [
+        "Buen trabajo hoy."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Gracias! ¡Tú también, Entrenador!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Hm? Espera un segundo... Hoy di todo, pero..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡No me siento cansada en absoluto!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Supongo que estoy en mi mejor momento ahora! Eso\nsignifica que puedo hacer más entrenamiento!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Voy a hacer práctica en solitario, ¿vale?",
+      "choice_data_list": [
+        "¡Buena idea! ¡Yo me uno!",
+        "¡Buena idea! ¡Yo me uno!",
+        "Deberías guardar esa energía para después."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Voy a hacer práctica en solitario, ¿vale?",
+      "choice_data_list": [
+        "¡Buena idea! ¡Yo me uno!",
+        "¡Buena idea! ¡Yo me uno!",
+        "Deberías guardar esa energía para después."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Woooo! ¡Vamos allá!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡A la pista de entrenamiento a toda velocidad!\n¡Listos, listos, ¡DESPEGUE!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sigo a Winning Ticket para un entrenamiento\nadicional."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Eh?! Oh... ¡Ni siquiera lo pensé!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Si guardo mi energía, puedo tener un poder aún\nmayor más tarde! ¡Gracias, Entrenador! ¡Nunca lo\nhubiera notado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para prepararme mejor para futuras sesiones de\nentrenamiento, Winning Ticket acepta descansar por\nhoy."
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de haberse hecho un nombre en su hogar,\nOguri Cap se transfiere a la aclamada Academia\nTracen."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La noticia de su llegada se propaga rápidamente\nentre los entrenadores, y se reúnen alrededor del\ncurso de entrenamiento del campus para verla en\nacción."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Uf..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Gracias por correr conmigo, Oguri Cap. Jajaja,\n¡hahaha!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Eh? ¿Por qué estás riendo?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ah, discúlpame, no tenía la intención de ofender.\nHa pasado mucho tiempo desde que he pasado mi\ntiempo de manera tan productiva."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "He oído muchas historias sobre tus increíbles\nhazañas en tu curso regional, pero solo ahora me\ndoy cuenta de lo ciertas que eran."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Eres insuperable, Oguri Cap. Realmente estoy\nemocionada de competir contigo en la pista."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Entiendo. ¿Qué tal una carrera la próxima vez?"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "Impresionante. Así que esa es la renombrada Oguri\nCap. No es fácil mantener el ritmo con la\nEmperatriz en sí —y con una cabeza tan fresca\ntambién."
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "Y desafiarla a una carrera con tanta audacia. Debe\nestar realmente segura de sus habilidades."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Bueno, debo irme. Tengo una reunión a la que debo\nasistir."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Hagámoslo de nuevo algún día, Oguri Cap."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Está bien, entonces..."
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "Me pregunto a dónde se dirige. Tal vez vaya a\nalgún otro lugar para entrenar en secreto."
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "¿Podría ser esa la clave de su agilidad? Si es\nasí, definitivamente necesito ver esta práctica\nsecreta suya."
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "¿Eh? ¿Tú también estás interesado en ver el\nentrenamiento de Oguri? ¿Por qué no vamos todos a\nverla juntos?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Curioso por saber a dónde se dirigía Oguri Cap,\ndecido quedarme con los demás entrenadores y\nseguirla."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...¿Eh?"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "¿No va a empezar a entrenar?"
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "Estamos hablando de Oguri Cap. Estoy segura de que\nhay algún significado detrás de sus acciones... o\ninacción, en este caso."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hmmm..."
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "¡Ha regresado! ¿Pero por qué?"
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "Qué chica más peculiar..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hmmmmmm..."
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "¿Qué pasa en esa cabeza suya? Esta es la cuarta\nvez que da vueltas alrededor del mismo área..."
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "¿Es esta chica realmente insuperable? Supongo que\ntendremos que ver... Vamos a regresar otro día."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Desconcertados por la conducta desconcertante de\nOguri Cap, los entrenadores comienzan a retirarse\nlentamente."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Eh..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Preocupado por el comportamiento extraño de Oguri\nCap, me acerco a ella para ver qué pasa.",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "No lo sé. Sigo caminando y caminando, pero siempre\ntermino en el mismo lugar."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Tiene esta academia realmente cuatro lugares\nidénticos?",
+      "choice_data_list": [
+        "¿Quizás te hayas perdido?",
+        "¿Quizás te hayas perdido?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Perdida, dices... Tal vez sí."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Quién eres, de todos modos? Nunca te he visto por\nestos lugares.",
+      "choice_data_list": [
+        "Soy un entrenador aquí en la Academia.",
+        "Soy un entrenador aquí en la Academia."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Un entrenador aquí... ¿Podrías mostrarme el\ncamino?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Estoy tratando de regresar a mi habitación del\ndormitorio. Agradecería tu ayuda."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le doy a la perdida Oguri direcciones para\nregresar a su dormitorio."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Así que ese es el lugar. Entendido. Gracias por tu\nayuda. Adiós."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Unos minutos después de despedirme de Oguri Cap,\nreaparece desde una dirección diferente."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿¡Eh?! Acabo de ver a un entrenador que se parece\nexactamente a ti. ¿Eres algún tipo de\ndoppelganger?",
+      "choice_data_list": [
+        "¡Estás justo donde empezaste!",
+        "Acabas de regresar al punto de partida"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Parece ser así. Ahora que lo mencionas, todo lo\ndemás es igual\también."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Es un desafío saber qué es qué en la ciudad. Los\nedificios están todos muy juntos, sin mencionar\nque se ven iguales. Las cosas eran mucho más\nsencillas en mi hogar."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Conocía la ciudad. Gira a la derecha en el campo\nde Tome y ves mi escuela. La parada de bus está a\nla izquierda del gran almacén de Shige. Muy fácil."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Cada vez que pasaba, Tome me daba algunas\nmandarinas para munchar. Eran las más dulces\nabsolutas. Me hace recordar...",
+      "choice_data_list": [
+        "¿Te sientes nostálgico",
+        "¿Te sientes nostálgico"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "A veces, supongo. Pero no puedo regresar todavía."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Tome, Shige, Chiyo y Yoshi... Todos me ayudaron a\nllegar al centro —a correr con los mejores."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Todos en mi hogar me están animando."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "No puedo—<i>no</i>—decepcionarlos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Oguri Cap mira, terminando su pequeño discurso con\nuna expresión fiera y desolada en su rostro."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Mmm... Es hora de que regrese. El dormitorio\nestaba por aquí, ¿verdad Estoy\\seguro de que está\npor aquí..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Preocupado de que Oguri Cap pasara el resto de la\nnoche vagando sin cesar por el campus, la acompañé\nde regreso a la entrada de su dormitorio."
+    }
+  ]
+}

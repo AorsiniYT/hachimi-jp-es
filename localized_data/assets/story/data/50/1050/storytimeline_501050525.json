@@ -1,0 +1,258 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, me encuentro con Narita Taishin en la\nplaza central."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ugh..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...",
+      "choice_data_list": [
+        "(¿Hice algo mal?)",
+        "(¿Hice algo mal?)"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Taishiiin! ¡Espera, Taishiiin!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Espera, Ticket. Seca tus lágrimas antes de ir tras\nella."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "P-pero es mi culpa que Taishin esté—¡waaah!",
+      "choice_data_list": [
+        "¿Qué pasó?",
+        "¿Qué pasó?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ah, es el entrenador de Taishin."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Como seguramente sabrás, ha habido más charlas\nsobre nosotros tres en línea últimamente."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Desafortunadamente, el foro que Ticket nos mostró\ntenía algo de odio dirigido a Taishin."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Todos decían tantas cosas bonitas sobre nosotros.\n¡No tenía idea de que había otras cosas ahí!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Waaaaah! ¡Lo siento mucho, Taishiiin!",
+      "choice_data_list": [
+        "No me extraña que se haya ido sin decirme una\npalabra..."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ella probablemente no sabía qué decir... También\nhabía comentarios odiosos sobre ti."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "La gente decía que es tu culpa por sobrecargarla y\npor eso su condición es tan mala."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Incluso se mencionó cómo Taishin estaría mejor con\notro entrenador que realmente pueda sacar su\npotencial.",
+      "choice_data_list": [
+        "Ya veo...",
+        "Ya veo..."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Perdón si me entrometo, pero ¿podrías por favor\nhablar con Taishin?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Estoy segura de que lo que necesita ahora son\nalgunas palabras de ánimo de tu parte."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Entrenador.",
+      "choice_data_list": [
+        "Escuché sobre los comentarios en línea."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Ticket y Hayahide te lo dijeron? Ugh, ¿por qué\nsiempre se están metiendo en mis asuntos?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Mira, estoy totalmente bien. No voy a quedarme\natrapada en mi propia cabeza y hacer algo\nimprudente como antes."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Así que puedes olvidarte de lo que escuchaste.",
+      "choice_data_list": [
+        "Esos comentarios me dolieron.",
+        "Esos comentarios me dolieron."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Eh?",
+      "choice_data_list": [
+        "¿Cómo te sentiste cuando los viste?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Bueno..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Me dolió."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "O sea, ¿cómo se supone que me sienta?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Pero ya decidí que no voy a hacer nada loco solo\nporque estoy enojada."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Tengo ganas de hacer un entrenamiento en solitario\nahora mismo... pero no lo haré.",
+      "choice_data_list": [
+        "Entonces, ¿qué tal si descansas en su lugar?",
+        "¡Puedes hacerlo siempre que no te excedas!",
+        "¡Puedes hacerlo siempre que no te excedas!",
+        "¡Qué va, entrena todo lo que quieras!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Tengo ganas de hacer un entrenamiento en solitario\nahora mismo... pero no lo haré.",
+      "choice_data_list": [
+        "Entonces, ¿qué tal si descansas en su lugar?",
+        "¡Puedes hacerlo siempre que no te excedas!",
+        "¡Puedes hacerlo siempre que no te excedas!",
+        "¡Qué va, entrena todo lo que quieras!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hacer entrenar a Narita Taishin cuando se siente\nmal no nos va a hacer ningún bien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decido cancelar el entrenamiento por hoy."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué es esto?",
+      "choice_data_list": [
+        "Chocolate caliente. Te ayudará a calmarte.",
+        "Chocolate caliente. Te ayudará a calmarte."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Gracias, supongo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después, Narita Taishin y yo tomamos un tiempo\npara simplemente relajarnos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un entrenamiento moderado debería ayudar a Narita\nTaishin a mejorar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuando le digo que probablemente sea peor para su\nsalud reprimir su estrés, ella está de acuerdo."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Está bien."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Me mantendré bajo control y tendré cuidado de no\nexcederme."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los resultados de su entrenamiento en solitario\nson buenos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y gracias a eso, ahora es capaz de entenderse\nmejor a sí misma."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿¡Qué?! ¿Me estabas siquiera escuchando?",
+      "choice_data_list": [
+        "¡Estarás bien! ¡Me tienes vigilándote!",
+        "¡Estarás bien! ¡Me tienes vigilándote!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Bueno... Si tú lo dices."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después del entrenamiento..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Uf...",
+      "choice_data_list": [
+        "Parece que te sientes mejor.",
+        "Parece que te sientes mejor."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Sí. No hay nada como una buena carrera para\ndespejar la mente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ver a Narita Taishin correr sin preocupaciones\ntambién me pone de mejor humor."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Nada. Voy a correr otra vuelta."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(Me siento mejor ahora que he corrido unas\nvueltas, pero no creo que el Entrenador lo\nesté...)"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(Ah que pienso, ¿por qué no culparme a mí por\nquedar atrapado en el fuego cruzado? ¡Es mi culpa\nque esos comentarios desagradables existan!)"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(Ugh, ¡maldición! ¡No puedo concentrarme en\nabsoluto!)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin es incapaz de deshacerse de su\nfrustración, y permanece tan estresada como\nsiempre."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El campamento de verano empieza hoy. Haru Urara\nestá..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Entrenador, entrenador! ¡He guardado mi equipaje\ny me he cambiado de ropa!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Así que vamos, ¡apresurémonos y empecemos mi\nentrenamiento ya!",
+      "choice_data_list": [
+        "¡Bueno, <i>tú</i> sí que estás listo para ir!",
+        "¡Bueno, <i>tú</i> sí que estás listo para ir!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Quiero decir, sí! ¡Tengo que entrenar duro!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Tengo que correr duro y entrenar duro! ¡Más\nfuerte, mejor, más rápido, más fuerte!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Si hago eso, entonces estoy segura de ganar! ¡Así\nque pongámonos a trabajar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Haru Urara es el epítome de energía ahora mismo,\nlo que significa que también necesito prepararme y\ndarle un entrenamiento efectivo."
+    }
+  ]
+}

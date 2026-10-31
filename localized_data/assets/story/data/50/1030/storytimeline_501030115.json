@@ -1,0 +1,303 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El hipódromo bulle de actividad mientras se acerca\nel Tenno Sho de primavera, y todas las miradas\nestán puestas en una corredora."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>Haa... Haa...</i> Necesito poder mantener mi velocidad\nmáxima por más tiempo..."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "McQueen es increíble. Ya es mucho más rápida de lo\nnecesario."
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Sí, no puedo creer que aún quiera ser <i>más\nrápida...</i> Definitivamente ganará el Tenno Sho de\nprimavera de este año."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "<i>Suspiro...</i> Se fue toda mi confianza."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...",
+      "choice_data_list": [
+        "¿Arroz?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Eep! ¿Q-qué es?!",
+      "choice_data_list": [
+        "¿Estás bien?",
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "S-sí. Y-yo... no puedo simplemente rendirme."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Después de todo, me estoy enfrentando a mi\nrival."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por la noche..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Toc, toc.</i>"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "D-disculpe... M-mi nombre es Zenno Rob Roy...",
+      "choice_data_list": [
+        "¡Oh, tú eres el que siempre anima a Rice!"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡E-eso es! Hablando de Rice..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿La has visto?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Todavía no ha vuelto a nuestra habitación. Ya es\nbien pasada la hora de la lista...",
+      "choice_data_list": [
+        "(No me digas...)"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Haa... Haa...</i>",
+      "choice_data_list": [
+        "¡Arroz!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Oh? Hermano mayor... y Rob Roy?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Oh? Hermana mayor... y Rob Roy?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...",
+      "choice_data_list": [
+        "Te estás esforzando demasiado."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "L-lo siento, pero..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Lo siento. Descansaré un poco."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "E-em... Rice? Este es el \"Big Brother\" del que\nsiempre me hablas, ¿verdad?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "E-em... Rice? Esta es la \"Big Sister\" de la que\nsiempre me hablas, ¿verdad?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¿La que es súper amable? ¿No dijiste que su\nencuentro parecía destinado, como algo sacado de\nun cuento de hadas?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Gyahhh! ¡Rob Roy! ¡Calla! ¡Shhh!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "N-no, no voy a callar. ¡Estoy tratando de\nayudarte!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Rob Roy..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "La rosa azul que tanto amas no floreció por sí\nsola."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Si estás teniendo dificultades... Creo que\ndeberías pedir ayuda."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...",
+      "choice_data_list": [
+        "Estoy aquí para ti, Rice."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Hic...</i> P-pero... ¡tengo mucho miedo!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Y-y qué pasa si la gente a la que le pido ayuda\nse entera?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Y si descubren que nunca llegaré a ser nada?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "No quiero hacer infeliz a nadie... No quiero ser\nuna decepción!",
+      "choice_data_list": [
+        "Nunca pensaría eso de ti."
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡E-exacto! ¡Y yo tampoco!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡Estoy segura de que todos los que te apoyan se\nsienten igual!",
+      "choice_data_list": [
+        "Por favor... no intentes hacer esto todo por tu\ncuenta."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡H-Hermano mayor! <i>Sollozando... snif...</i>"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡H-Hermana mayor! <i>Sollozando... snif...</i>"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Waaaaah! ¡McQueen es tan, tan rápida!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "P-pero yo... ¡quiero ser aún más rápida!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Waaaaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las lágrimas comienzan a brotar por las mejillas\nde Rice Shower."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "V-vamos, Rice, ¡tú puedes!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Urgh... ¿E-estás seguro de que esto está bien?"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡S-sí, definitivamente! ¡Tú también anima,\nEntrenador!",
+      "choice_data_list": [
+        "¡Tú puedes!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡E-está bien!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Si no tienes nada que discutir conmigo, ahora\nreanudaré mi directiva anterior."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Eep! E-espera, Bourbon... Y-yo... Em..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Necesito tu ayuda!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿Hm? ¿Hay un error en tus facultades de\ncomunicación?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "N-no, ¡estoy bien! Solo tengo algo que quiero\npreguntarte!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Sé que esto podría molestarte, pero... ¡tienes que\nayudarme!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "No soy lo suficientemente buena como soy ahora. No\ntengo ninguna oportunidad de mantener el ritmo con\nMcQueen!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Así que por favor enséñame a correr! ¡Todo lo que\nno sé!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...",
+      "choice_data_list": [
+        "Crea el milagro que quieres ver con nosotros."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Entendido."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "He considerado esto un paso necesario hacia crear\nlas condiciones para la carrera definitiva."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Acepto tu solicitud y ajustaré mi horario. Para\ncomenzar, estás aprobada para diez series de\nentrenamiento en rampa conmigo esta tarde."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Objetivo: mejorar el rendimiento muscular y la\nvelocidad. Si se hiciera necesario peso adicional,\nsuministraré pesas especiales para tobillos."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Pero ten cuidado... Algunos se han referido a mi\nentrenamiento como \"demoníaco\"."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿Puedes seguir el ritmo?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...¡Sí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con eso, las dos se van. ¡Es hora de prepararse\npara el Tenno Sho de primavera!"
+    }
+  ]
+}

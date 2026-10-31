@@ -1,0 +1,127 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Maruzensky se lesiona durante el entrenamiento,\nasí que la llevo a la enfermería."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ay, ay ay ay... Supongo que incluso <i>yo</i> puedo tener\ndías malos..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Pero tengo que volver a la pista pronto. Tengo que\nmostrarle a todos que nada puede mantenerme abajo!",
+      "choice_data_list": [
+        "Tomémoslo con calma y sanemos.",
+        "¡Tiempos desesperados requieren medidas\ndesesperadas!",
+        "¡Tiempos desesperados requieren medidas\ndesesperadas!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Pero tengo que volver a la pista pronto. Tengo que\nmostrarle a todos que nada puede mantenerme abajo!",
+      "choice_data_list": [
+        "Tomémoslo con calma y sanemos.",
+        "¡Tiempos desesperados requieren medidas\ndesesperadas!",
+        "¡En tiempos difíciles, hay que tomar medidas\ndrásticas!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Estás seguro? Creo que estaré estupenda después\nde solo un poco de descanso...",
+      "choice_data_list": [
+        "Pero definitivamente no queremos empeorar la\nlesión.",
+        "Pero definitivamente no queremos empeorar la\nlesión."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...Está bien, vale. Pero si me voy a tomar el\ntiempo para sanar, debería hacerlo bien."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Así que vamos a la tienda de conveniencia y\ncompremos algo de panna cotta para animarme! ♪",
+      "choice_data_list": [
+        "No recuerdo haber visto eso en la tienda de\nconveniencia...",
+        "No recuerdo haber visto eso en la tienda de\nconveniencia..."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿De verdad?! ¿Solo venden panna cotta en el\nsupermercado?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para hacer feliz a Maruzensky, voy al supermercado\ny le compro la panna cotta que tanto ama."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Sí! ¡Tengo que emocionarme! ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Tengo que mantenerme positiva si quiero sanar\nrápido! Mi mermelada favorita debería animarme al\ninstante. ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oye, espera... ¿Dónde está mi teléfono?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Qué fiasco! ¿Tal vez lo dejé en mi habitación?",
+      "choice_data_list": [
+        "Reproduciré una canción en mi teléfono para ti.",
+        "Reproduciré una canción en mi teléfono para ti."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿De verdad? ¡Gracias, Entrenador!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿De verdad? ¡Gracias, Entrenador!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Está bien, ¡dame una canción llena de energía\njoven y vibrante! ¡Súbelo <i>fuerte!</i> ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como ella pide, reproduzco una canción que es\npopular entre los jóvenes hoy en día..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Eh? ¿<i>Esto</i> es lo que está de moda ahora?!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Y-yo no tenía idea..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sorprendida por estar tan atrasada en las\ntendencias, la recuperación de Maruzensky se\nralentiza."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oye, oye! Doo wop wop! ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Guau! Qué gran canción. Me dan ganas de empezar a\nbailar! ♪",
+      "choice_data_list": [
+        "No te emociones demasiado.",
+        "No te emociones demasiado."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Entiendo, goma elástica!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Quizás el ejercicio moderado está ayudando, ya que\nla lesión de Maruzensky parece estar sanando más\nrápido de lo esperado."
+    }
+  ]
+}

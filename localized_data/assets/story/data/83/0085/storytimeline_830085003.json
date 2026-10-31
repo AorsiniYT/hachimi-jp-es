@@ -1,0 +1,184 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, veo a Agnes Digital trabajando ocupada\nfrente a un supermercado."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Hola, pasa! ¡Las zanahorias están en oferta a\nbuen precio hoy!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Oh, hola! Eres una entrenadora de Tracen,\n¿verdad? ¿Por qué no aprovechas para comprar\nalgunas zanahorias para tu pupila?"
+    },
+    {
+      "name": "Dueño del supermercado",
+      "text": "¡Buen trabajo, Digital! ¡Gracias por tu ayuda hoy!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Ups, mejor me voy a mi próximo destino lo antes\nposible! ¡Es hora de usar estas piernas que he\nfortalecido corriendo y siendo fan!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de esto, empiezo a ver a Agnes Digital\nprácticamente en todas partes."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Nuestra panadería ha reabierto después de\nrenovaciones! ¡Ven a probar nuestro pan de\nzanahoria con forma de Uma!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Hola! ¡Aquí tienes tu ramen de zanahoria de House\nof Speed!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Ha llegado la nueva línea de polvos faciales!\nTenemos todo tipo de cosméticos hechos para\nUmamusume!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Aunque no necesitan maquillaje porque su piel\nsiempre es impecable. Jeje..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que ella trabaja de la mañana a la noche.\nTengo curiosidad sobre por qué, así que decido\npreguntarle."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Hum? Me he estado topando contigo mucho... ¿Estás\ntratando de desencadenar algún tipo de evento?",
+      "choice_data_list": [
+        "¿Por qué tienes tantos trabajos?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Jeje, ¡me alegra que preguntes!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡El esperado libro de fotos de una de mis\nfavoritas saldrá pronto, y ella estará en una\nsesión de firmas!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Sesiones de autógrafos como estas son momentos\nimportantes para mis ídolas, y como fan, ¡no puedo\nasistir con cualquier viejo atuendo!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Siempre me aseguro de usar algo bonito que\ncombine con la persona que voy a conocer!",
+      "choice_data_list": [
+        "¡Eso es mucho!"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Eso es lo correcto! ¡Conocer a tu ídola es una\nocasión especial! ¡Cuándo más me vestiría\nelegante?!",
+      "choice_data_list": [
+        "¿Qué clase de persona es tu ídola?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Es un ángel... No, una verdadera diosa!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Oh, si quieres saber la fecha y lugar de la sesión\nde firmas, aquí tienes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agnes Digital me entrega un folleto con los\ndetalles del evento."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Apuesto a que te preguntas por qué justo yo llevo\neso encima, ¿eh?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Porque una verdadera fan siempre debe estar\npreparada para difundir la buena nueva!",
+      "choice_data_list": [
+        "Ser fan de Uma no es broma...",
+        "Admirar a alguien puede ser realmente motivador,\n¿eh?",
+        "Admirar a alguien puede ser realmente motivador,\n¿eh?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Porque una verdadera fan siempre debe estar\npreparada para difundir la buena nueva!",
+      "choice_data_list": [
+        "Ser fan de Uma no es broma...",
+        "Admirar a alguien puede ser realmente motivador,\n¿eh?",
+        "Admirar a alguien puede ser realmente motivador,\n¿eh?"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Mucha suerte a ambas en el evento! Oh... Estoy\ntan excitada, ¡no hay forma de que pueda dormir!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy tan impresionada por el fervor de Agnes\nDigital que termino yendo a la sesión de firmas\ndel libro de su Umamusume favorita."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de la gran cantidad de fans allí, la\nUmamusume en cuestión les da a cada una gran\natención individual."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Oh, ¿tú también fuiste a la sesión de firmas?\n¡Sabía que tenías potencial!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Hubo una exhibición floral de celebración\norganizada por todos los fans que la han apoyado\ndesde el primer día... Fue muy conmovedor!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Y lo que es más, pude hacer una nueva amiga fan!\nNo podría haber pedido una cosecha más abundante!",
+      "choice_data_list": [
+        "Espera, ¿estás hablando de <i>¡mí?!</i>",
+        "Espera, ¿estás hablando de <i>¡mí?!</i>"
+      ]
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Jeje! ¡No hay necesidad de ser tan modesta! ¡Ya\neres un modelo de fan!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, veo a Agnes Digital mientras\ncamino por la plaza central."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¿Cómo estuvo la sesión de firmas? ¿No era lo más\nprecioso en el MUNDO entero?!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Jeje... Apuesto a que quieres vestirte un poco\nmejor la próxima vez que veas a tu ídola, ¿verdad?"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "...Hablando de eso, ¡yo también necesito empezar a\narmar mi próximo atuendo!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Bueno, ¡nos vemos en el próximo evento! ¡Animemos\na nuestras ídolas con todo el corazón!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "¡Exactamente! Si es por el bien de mis ídolas,\ntrabajaré día y noche y superaré cualquier\nobstáculo!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Mua jají... ¡Si eso no es lo mejor, no sé qué lo\nes!"
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Por supuesto, tu pupila también es una ídola\ndivina que me da fuerza."
+    },
+    {
+      "name": "Agnes Digital",
+      "text": "Va sin decir, pero soy una gran fan de ¡cada Uma\nen Tracen! ¡Jeje! ♪"
+    }
+  ]
+}

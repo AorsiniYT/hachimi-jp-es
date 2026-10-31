@@ -1,0 +1,76 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El Arima Kinen siempre es un gran evento. Los\nparticipantes se eligen por voto popular, por lo\nque el cuadro siempre reúne a los mejores\ncorredores del año."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero este año, la atmósfera en las gradas es un\npoco diferente."
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Symboli Rudolf por fin se enfrenta a corredoras\nde años superiores... No puedo esperar para ver\ncómo le va!",
+      "color_text_info_list": [
+        "años superiores"
+      ]
+    },
+    {
+      "name": "Espectador B",
+      "text": "No te hagas ilusiones. Algunas de estas corredoras\nestán a punto de terminar sus carreras. Una de\nellas se va a llevar la victoria, creo yo."
+    },
+    {
+      "name": "Espectador B",
+      "text": "Aún así, ella es el Emperador, ¿verdad? Seguro que\nestará entre las tres primeras."
+    },
+    {
+      "name": "Espectadores",
+      "text": "Symboli Rudolf... Rudolf... Ese Rudolf..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ah, has vuelto. ¿Cómo está el ambiente por allá?",
+      "choice_data_list": [
+        "Todos están hablando de ti.",
+        "Todos están hablando de ti."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Jaja... ¿En serio? Qué halagador."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Todas las miradas están en mí. Esperan que yo esté\na la altura de las mayores, así como de las más\ntalentosas de mis contemporáneas."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Pero aún así, aún no he capturado sus corazones."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Symboli Rudolf quedó en segundo lugar en la\nvotación de fans, perdiendo ante una Umamusume de\naños superiores, y parece que eso le preocupa."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Por supuesto, una simple encuesta no puede medir\nverdaderamente la fe del pueblo en mí, pero el\nresultado sí simboliza mi posición actual de\nmanera bastante apropiada."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Muchos creen que la experiencia de las mayores\npresenta un obstáculo que no puedo esperar\nsuperar."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Lo que significa que dudan de mis habilidades. Y\ntales dudas tienen solo un remedio.",
+      "choice_data_list": [
+        "¡Mostrémosles lo fuerte que realmente eres!",
+        "¡Mostrémosles lo fuerte que realmente eres!"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¡Por supuesto!"
+    }
+  ]
+}

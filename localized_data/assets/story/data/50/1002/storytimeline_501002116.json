@@ -1,0 +1,249 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "En el G1 Takarazuka Kinen, Silence Suzuka le\nmostró al mundo su verdadera destreza."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Solo faltan cuatro meses para el Tenno Sho de\notoño!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para prepararnos, me gustaría que participara en\nel Mainichi Okan, que también se disputa en el\nHipódromo de Tokio.",
+      "choice_data_list": [
+        "Quería hablar contigo sobre la próxima carrera..."
+      ],
+      "color_text_info_list": [
+        "Mainichi Okan"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Estás pensando en el Mainichi Okan?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella ya sabe lo que pienso, así que simplemente\nasiento con la cabeza. Ganar el Mainichi Okan nos\nacercará un paso más al Tenno Sho de otoño."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con nuestra próxima carrera ya programada, es hora\nde entrenar y acercar a Silence Suzuka a superar\nsus límites."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Ah... El clima está tan agradable..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Suzuka! ¡Te reto! ¿Aceptas?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿El?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es El Condor Pasa, una Umamusume con espíritu de\nluchadora y sueño de ser la corredora más fuerte;\ntambién es compañera de Special Week."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Hagamos una carrera de 2,200 metros en sentido\nhorario en la pista de césped—no! ¡Una carrera de\n1,800 metros en sentido antihorario también está\nbien!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Tienes cinco minutos! ¡Prepárate para sentir el\nfuego!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Mmm..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No seas una molestia, El. Suzuka está en medio del\nentrenamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y aquí está Grass Wonder, una Umamusume refinada\ncon un corazón sereno y una voluntad poderosa.\nTambién es compañera de clase de Special Week.",
+      "color_text_info_list": [
+        "Grass Wonder"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Oh, vamos! ¡No quiero esperar hasta el Mainichi\nOkan!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No hay por qué impacientarse. La carrera no se va\na ir a ningún lado."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ugh! ¡No estás engañando a nadie actuando tan\ntranquilo y sereno!",
+      "color_text_info_list": [
+        "★★★"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Ayer mismo, te veías tan frustrado, que parecía\nque estabas a punto de desmoron—"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Eep!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Suzuka, espero con ansias correr contra ti en el\nMainichi Okan."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Vamos, El, vámonos. Puedes tener tu batalla con\nella en el hipódromo."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Argh! <i>Dije</i> que no quiero esperar hasta entonces."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "...Pero Grass tiene razón. ¿De qué sirve una\nvictoria si no tienes un público que la presencie?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Suzuka, nos vemos en el Mainichi Okan!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Tengo que vencerte primero si voy a demostrar que\nsoy la corredora más fuerte del mundo!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "P-por supuesto..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Silence Suzuka claramente no sabe cómo responder a\ntanta pasión bulliciosa..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todo lo que puede hacer es mirar desconcertada\nmientras El se aleja a toda velocidad."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Uhhh..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Hehe. No te veas tan perpleja."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Air Groove!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Disculpas. No pude evitar escuchar su\nconversación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Air Groove ha vuelto a su yo normal,\naunque aún puedo imaginar la cara de desánimo que\nllevaba después del Takarazuka Kinen."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Parece que el Takarazuka Kinen dejó una profunda\nimpresión en ellas."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Sí... También fue un día muy especial para mí."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Solo me pregunto por qué <i>son</i> tan\napasionados,aunque."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Jaja, oh, vaya. Eres algo más. ¿De verdad no lo\nsabes?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Te has convertido en una entidad de ambición para\nellas, Suzuka. Eres un enemigo que deben derrotar\nsi quieren seguir avanzando en sus viajes."
+    },
+    {
+      "name": "Air Groove",
+      "text": "En otras palabras, te has convertido en la luz\nhacia la que ahora se esfuerzan."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Yo?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "En efecto. No solo iluminas su camino al exito,\ntambién actúas como el obstáculo que deben\nsuperar."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Ya veo... Creo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esta no es la primera vez que otras corredoras han\ncentrado su espíritu competitivo en Silence\nSuzuka."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero es la primera vez que ella lo ha notado."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Je. Me alegra que lo entiendas."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Aún... Es como si me lo hubieras quitado todo..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Perdón?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "No es nada. Solo estaba pensando que tú eres\nexactamente lo que aspiro a ser. Nada más."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "No te preocupes. Ya he terminado de hacer las\npaces con lo que pasó."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Haré lo que deba. Tú deberías hacer lo mismo."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Más te vale que no pierdas el Mainichi Okan."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡No lo haré!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Muy bien. Te dejaré volver a tu entrenamiento."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Gracias, Air Groove!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La silueta de Air Groove es poderosa y firme\nmientras se aleja a zancadas, siempre el faro de\nfuerza."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, los primeros pasos hacia el Mainichi Okan,\nuna batalla que trasciende generaciones, han sido\ndados."
+    }
+  ]
+}

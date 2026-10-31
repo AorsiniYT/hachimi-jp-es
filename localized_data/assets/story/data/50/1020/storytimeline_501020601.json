@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Seiun Sky",
+      "text": "No creo haber entrenado lo suficiente para esa\núltima carrera."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Apuesto a que el público probablemente se estaba\ndurmiendo, con la carrera saliendo exactamente\ncomo la esperaban."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Bueno, nunca más. No más carreras aburridas.",
+      "choice_data_list": [
+        "¿Has estado tramando algún tipo de plan secreto?",
+        "¿Has estado tramando algún tipo de plan secreto?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Jejeje... ¿Quién sabe?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Supongo que lo averiguarás cuando empiece la\ncarrera!"
+    }
+  ]
+}

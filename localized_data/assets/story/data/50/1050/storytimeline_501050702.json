@@ -1,0 +1,235 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de salir todo el día..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ya me voy a casa.",
+      "choice_data_list": [
+        "¿¡Ya?!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué? ¿Hay algo que querías hacer?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No es eso, pero me sorprende su frialdad hacia mí\ndespués de haber pasado todo el día juntos.",
+      "choice_data_list": [
+        "¿No te divertiste hoy?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué quieres decir? Estuvo bien.",
+      "choice_data_list": [
+        "Quería que te divirtieras..."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ugh, ya déjame. Eso lo decido yo."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Si me divierto o no no es asunto tuyo."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Terminamos? Ya quiero ir a casa."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Hoy sale un arma nueva. Tengo que verla ya mismo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es cierto que no puedo obligarla a divertirse,\npero de verdad quiero que se sienta contenta de\nhaber salido hoy.",
+      "choice_data_list": [
+        "¡Entonces yo te traeré la diversión!",
+        "¡Entonces yo te traeré la diversión!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Eh? No tengo ni idea de lo que estás hablando.",
+      "choice_data_list": [
+        "Quiero verte sonreír.",
+        "Quiero verte sonreír."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Tch."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Eres un idiota."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Espero que se vaya después de insultarme, pero no\nlo hace. Parece que está esperando mi próximo\nmovimiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como le gustan los videojuegos, quizás debería\nsugerir algún juego que podamos jugar. ¡Eso seguro\nla entretendrá!",
+      "choice_data_list": [
+        "¡Juguemos al juego de rimas!",
+        "¡Juguemos a las escondidas!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué soy, un niño? Ni hablar."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Por qué me quedé? Debí irme..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bueno, eso fue un desastre total. Parece que no le\ngustó nada, pero no puedo dejar que esta\noportunidad se me escape!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...",
+      "choice_data_list": [
+        "¡Rima!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...",
+      "choice_data_list": [
+        "¡Tiempo!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿En serio estás jugando solo? ¿No tienes vergüenza\nalguna?",
+      "choice_data_list": [
+        "¡Vergüenza, vergüenza... Fama!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>¡Ufff...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lucho por mantener el juego yo solo mientras ella\nme ignora descaradamente.",
+      "choice_data_list": [
+        "¡Mostaza!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "En serio, ¿ya puedes parar?"
+    },
+    {
+      "name": "Panadero",
+      "text": "¡Bienvenidos! Tenemos pasteles y postres recién\nhorneados de todo tipo. ¡Ven a echar un vistazo! ♪"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Oh, incluso tienen crema pastelera..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Ack! N-no, ¡no quise decir eso!",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡No estaba jugando tu estúpido juego! Solo estaba\nmirando el pastel de crema pastelera!",
+      "choice_data_list": [
+        "¡Ohhh! Dije \"mostaza\" y tú seguiste con \"crema\npastelera\"!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Espera, ¿me estás diciendo que ni siquiera te\ndiste cuenta?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Arrgh! ¡Y mi gran boca!",
+      "choice_data_list": [
+        "¡Así que <i>sí</i> quieres jugar!",
+        "¡Así que <i>sí</i> quieres jugar!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Yo <i>no,</i> y no estaba jugando contigo!Ugh, ¡quita\nesa sonrisa tonta de tu cara!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿En serio?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿De verdad crees que eres rival para mí?",
+      "choice_data_list": [
+        "¿Podría vencerte si intento con todas mis fuerzas?",
+        "¿Podría vencerte si intento con todas mis fuerzas?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Por qué sugerirías una batalla que no puedes\nganar? Podrías haber dicho literalmente cualquier\notro juego.",
+      "choice_data_list": [
+        "Quería jugar algo que tú disfrutarías."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Haces que parezca que soy un niño hiperactivo..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Lo que sea. Te lo buscaste."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Bueno, nos vemos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Oh! ¡Tengo que alcanzarla!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por desgracia para mí, las Umamusume son rápidas\nincluso cuando no lo intentan. No importa cuánto\ncorra, no hay manera de que pueda alcanzarla..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...Todavía sin rastro de mi estúpido entrenador."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Psh... No hay manera de que una persona normal\ntenga oportunidad contra mí. ¿Cómo terminé con el\nentrenador más estúpido del mundo?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Y qué era todo eso de querer verme sonreír? Qué\nraro."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Probablemente debería haber esperado en lugar de\nsalir corriendo tan rápido..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué estoy diciendo? Esto es ridículo."
+    }
+  ]
+}

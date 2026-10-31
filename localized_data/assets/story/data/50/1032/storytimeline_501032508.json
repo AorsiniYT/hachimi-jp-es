@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Agnes Tachyon",
+      "text": "Entrenador... de alguna manera, me siento un poco\ncansada.",
+      "choice_data_list": [
+        "¿Estás bien?",
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Hasta qué punto podemos considerar algo \"bien\"?\nSin embargo, el que yo haya notado esta fatiga\nprobablemente merece la debida consideración."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Pero aún queda mucha investigación y\nexperimentación por hacer."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "<i>Groan...</i> Sin embargo, este agotamiento... ¿qué voy\na hacer?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agnes Tachyon no deja de suspirar, quizás debido a\nsu fatiga. Probablemente debería replantear su\npróximo calendario de carreras."
+    }
+  ]
+}

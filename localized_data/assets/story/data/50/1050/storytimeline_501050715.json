@@ -1,0 +1,97 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Brian",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Es eso... Brian?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(Ella es tan poderosa e independiente. Apuesto a\nque nadie se burla de ella.)"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(Pensar que incluso alguien tan talentosa como\nella se queda tan tarde para entrenar...)"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Entrenador, idea un entrenamiento extra para mí.",
+      "choice_data_list": [
+        "¿Planeas entrenar en solitario?",
+        "¿Planeas entrenar en solitario?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Sí. Necesito seguir practicando si alguna vez voy\na alcanzar a los mejores corredores."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No quiero ser algún cobarde que siempre esté\npersiguiendo a todos.",
+      "choice_data_list": [
+        "¡Está bien! ¡Hagámoslo!",
+        "Deberías trabajar a tu propio ritmo."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le advierto que no se exceda pero accedo a añadir\nmás a su régimen."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "(Un día, voy a ser como ella. No, eso no es\nsuficiente—¡la venceré!)"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Eh...? Es Taishin?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hmm, esa es una buena carrera que está haciendo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin está totalmente motivada y sigue\ncon su entrenamiento extra hasta que es casi la\nhora del toque de queda."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Si ese es el caso, entonces cambiaré mi ritmo para\nigualar el de Brian!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡No me haré más fuerte si no trabajo al mismo\nritmo que alguien que es mejor que yo!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Ustedes dos! Pelear está prohibi—oh, Taishin.\n¿Qué pasó aquí?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Y ahí está Brian. Sé exactamente qué diría ella si\nte escuchara, Taishin."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "\"Aplasta a todos corriendo de la manera que\nquieres en lugar de forzarte a correr como alguien\nmás. Se siente mejor, y puedes ponerte más fuerte\ntambién.\""
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Personalmente, yo también sugeriría que corras a\ntu propio ritmo.",
+      "choice_data_list": [
+        "Suena como ella.",
+        "Suena como ella."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Grr!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Taishin no parece completamente convencida,\npero asiente amargamente y toma un descanso."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Whoa... Caramba! ¡Esa corredora es tan pequeña,\npero es buena!"
+    },
+    {
+      "name": "Fan B",
+      "text": "¡No me digas! ¡Fue increíble la forma en que\nalcanzó a las otras! ¿Cómo era su nombre ya?"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Narita Taishin!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Narita Taishin lo hace increíble en la desafiante\ncarrera G1!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Ya, la opinión pública sobre ella está cambiando\na mejor!",
+      "choice_data_list": [
+        "¡Lo lograste, Taishin!",
+        "¡Lo lograste, Taishin!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Claro, pero esto no es suficiente para mí."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Mi próxima carrera es el verdadero negocio."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "El Satsuki Sho es la primera parte de la gira de\nla Triple Corona, y ¡voy a ser yo la que la gane!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡El espíritu de lucha de Narita Taishin arde\nbrillantemente mientras avanzamos por el camino\ndel Satsuki Sho!"
+    }
+  ]
+}

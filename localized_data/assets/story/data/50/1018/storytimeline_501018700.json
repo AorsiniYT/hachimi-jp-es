@@ -1,0 +1,35 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Durante el entrenamiento, noto que Air Groove\ntropieza por un momento.",
+      "choice_data_list": [
+        "¿No dormiste bien anoche?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Podrías decirlo—me acosté más tarde de lo que\nplaneaba. La luna estaba tan hermosa, yo..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "No, no necesito entrar en eso. Olvida lo que dije.",
+      "choice_data_list": [
+        "¡Ahora tengo curiosidad!"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Está bien... Intenté leer bajo la luz de la luna\ny... perdí por completo la noción del tiempo."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¡Pero este es un problema que yo misma causé!\n¡Ahora, volvamos al entrenamiento!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Regresamos al entrenamiento, pero Air Groove sigue\nun poco fuera de forma."
+    }
+  ]
+}

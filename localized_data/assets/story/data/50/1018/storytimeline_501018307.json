@@ -1,0 +1,100 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Y Air Groove va liderando! ¡Lo ha logrado!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Air Groove ha hecho historia en la hierba hoy\nmientras continúa el legado de su madre! ¡Hoy\ntenemos una nueva reina!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Guau!</i>"
+    },
+    {
+      "name": "Air Groove",
+      "text": "..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Realmente gané...?"
+    },
+    {
+      "name": "Admiradora",
+      "text": "¡Fuiste increíble, Air Groove! ¡Tres hurras por la\nnueva reina!"
+    },
+    {
+      "name": "Admirador",
+      "text": "¡Hip hip hurra! Felicitaciones por seguir el\nlegado de tu madre!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Es real... Soy la nueva Reina de las Oaks. Lo que\nsignifica..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Uuuuuh!</i>"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Solo... wow..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Ojalá pudiera ser como ella... Tan orgullosa y\nmajestuosa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Voy a saludar a Air Groove después de su increíble\nvictoria.",
+      "choice_data_list": [
+        "¡Lo lograste!",
+        "¡Lo lograste!"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Sí... Finalmente lo logré."
+    },
+    {
+      "name": "Air Groove",
+      "text": "...Tengo que admitir que incluso yo no puedo\ncontener mis emociones ahora mismo."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Hoy, pude ver la misma vista que mi madre vio.",
+      "choice_data_list": [
+        "Felicitaciones, Air Groove."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "...Tú también lo has hecho bien."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Eres consciente de que esto no es el fin, verdad?\nDe hecho, esto es solo el comienzo."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Lo siguiente es el Shuka Sho. Necesitamos\nmantenernos enfocados y tener la vista en el\npremio.",
+      "choice_data_list": [
+        "Ya suenas como una reina.",
+        "Ya suenas como una reina."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Je... tú no suenas nada mal. ¿Cuándo te volviste\ntan confiable?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Sigue así desde ahora, y puede que aún haya\nesperanza para ti."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Groove me honra con una sonrisa regia."
+    }
+  ]
+}

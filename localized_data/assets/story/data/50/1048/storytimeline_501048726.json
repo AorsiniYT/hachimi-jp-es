@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras estaba por ahí con Tosen\nJordan..."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Oh! ¿Esos son Cuties, verdad? Caramba, qué lindos\nson! ¡Guau! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella señala hacia una máquina de garra llena de\npeluches de Umamusume.",
+      "choice_data_list": [
+        "¿Te gustan los Cuties?",
+        "¿Te gustan los Cuties?"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "No diría que me <i>gusten</i> de verdad o algo así, pero\npodría ser genial tener una versión de peluche de\nCity."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Imagina si lo pongo al lado de uno de mí... No\npuedo. Sería demasiado lindo para manejar. Eso me\ndaría la vida."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Pero no soy buena con este tipo de cosas. Sí...\nMejor no. Una vez que me enganche, puedo decir\nadiós a mi dinero de gastos, y hay un labial que\nquiero comprar este mes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella dice eso, pero los ojos de Tosen Jordan\nsiguen parpadeando hacia la máquina. Tengo la\nsensación de que no podrá contenerse, así que...",
+      "choice_data_list": [
+        "¡Vale, yo me encargo!",
+        "¡Vale, yo me encargo!"
+      ]
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¿En serio? Sin ofender, pero no pareces ser muy\nbuena en esto. Pero, bueno, si insistes."
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "Oh, voy a grabar un video. ¡No te humilles!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡No hay forma de que falle ahora!"
+    }
+  ]
+}

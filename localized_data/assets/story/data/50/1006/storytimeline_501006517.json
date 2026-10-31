@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una mañana, noto a Oguri Cap revoloteando con una\nexpresión desanimada en su rostro."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Argh... ¿Por qué? ¿Por qué hice eso?!",
+      "choice_data_list": [
+        "¿Qué pasó?",
+        "¿Qué pasó?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Esta mañana, soñé que tenía un suministro\nilimitado de zanahorias."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Justo cuando estaba disfrutando la pura alegría,\nnadando en esa montaña de naranja..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Me desperté. No estaba lista para decir adiós. Y\ntodavía..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incluso durante el entrenamiento, Oguri Cap no\nlogra sacudirse su desánimo."
+    }
+  ]
+}

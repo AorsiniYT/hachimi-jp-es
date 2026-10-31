@@ -1,0 +1,48 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "King Halo no parece tan animada como de costumbre."
+    },
+    {
+      "name": "King Halo",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Umamusume con Corte Bob",
+      "text": "Te ves desanimada, King..."
+    },
+    {
+      "name": "Umamusume de ojos de gato",
+      "text": "Has estado trabajando muy duro últimamente. Debes\nestar cansada."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Ohohohoho! Mis bobitas, ¡se preocupan demasiado!\n¡No hay nada malo en absoluto!",
+      "choice_data_list": [
+        "¿De verdad estás bien?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Por supuesto! Un rey nunca vacila. Vamos, hagamos\nuna más—"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Uf!"
+    },
+    {
+      "name": "Seguidores de King Halo",
+      "text": "¡King!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡M-mis piernas solo se enredaron un poco! ¡No hay\npor qué alborotarse!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "King Halo puede estar actuando fuerte, pero es\nobvio que está cansada. Tal vez debería cambiar su\nagenda de carreras..."
+    }
+  ]
+}

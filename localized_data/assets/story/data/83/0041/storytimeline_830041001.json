@@ -1,0 +1,370 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras pasaba por la estación, veo un\npar de caras familiares llamando a los\ntranseúntes."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Eh, h-hola! Estamos teniendo un, eh, evento, en,\neh, la Academia Tracen, así que, eh..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¡El consejo estudiantil está organizando un\nevento! ¡Siéntanse libres de tomar un volante!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Lo siento mucho, soy realmente mala en esto. No\nestoy ayudando en nada, ¿verdad?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "No te preocupes. Lo estás haciendo bien. Estoy\nsegura de que le agarrarás el truco una vez—"
+    },
+    {
+      "name": "Air Groove",
+      "text": "...Lo siento. Acabo de recibir un mensaje de texto\nde la presidenta."
+    },
+    {
+      "name": "Air Groove",
+      "text": "\"Regresa a la academia lo antes posible.\" ¿Oh?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Esperaba al menos repartir la mitad de estos, pero\nbueno. De regreso a la escuela."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Por favor, vayan adelante. Me quedaré aquí y\nseguiré repartiendo volantes."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Estás segura? Podrías tener que lidiar con\nmirones o hablar con personas con las que no te\nsientes cómoda..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Lo sé... Pero realmente quiero ayudarte por una\nvez."
+    },
+    {
+      "name": "Air Groove",
+      "text": "...Está bien. Solo no te esfuerces demasiado,\n¿vale?"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Inhala... Exhala... Bien. Puedo hacer esto. Solo\nnecesito anunciar que estamos organizando un\nevento..."
+    },
+    {
+      "name": "Transeúnte Masculino",
+      "text": "¿Un evento? ¿La Academia Tracen está haciendo\nalgo? Sí, creo que podría agarrar un volante."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡Oh?! A-adelante."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "E-e-so fue solo una práctica. La próxima vez, voy\na hablar claramente y repartir los volantes yo\nmisma!"
+    },
+    {
+      "name": "Grupo de Turistas",
+      "text": "¡Ooh! ¿Ella es de la Academia Tracen? Oh, ¡ella\nestá mirando hacia acá! ¡Hola!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Ignora... las miradas. Ignora... las...\nm-miradas..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Yo... ¡no puedo hacerlo! ¿Qué debo hacer? Fui y le\ndije a Air Groove que podía manejar esto."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Y después de decidir que no dejaría que ningún\nobstáculo se interpusiera en mi camino..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡Escalaré cualquier muro que se interponga en mi\ncamino! Esto es lo que quisiste decir cuando\nhablabas de trabajar para convertirte en tu yo\nideal, ¿verdad, Kawakami?"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Estaba tan segura, pero al final, yo... yo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Dober está temblando angustiada. Me\npregunto si hay algo que pueda decir para calmar\nsus miedos?",
+      "choice_data_list": [
+        "¡Un volante, por favor!",
+        "¡Repartámoslos juntos!",
+        "¡Repartámoslos juntos!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Dober está temblando angustiada. Me\npregunto si hay algo que pueda decir para calmar\nsus miedos?",
+      "choice_data_list": [
+        "¡Un volante, por favor!",
+        "¡Repartámoslos juntos!",
+        "¡Repartámoslos juntos!"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿¡Eh?! Ah, aquí estás—espera, tú eres..."
+    },
+    {
+      "name": "Transeúntes",
+      "text": "¿Volantes? ¿Hay algún tipo de evento? ¡Guau! ¡La\nAcademia Tracen está organizando un evento?!"
+    },
+    {
+      "name": "Transeúntes",
+      "text": "¡Oh, también están haciendo una rifa de\nautógrafos! ¡Oh, por Dios, sí! ¿Puedo obtener un\nvolante, ¡por favor?! ¡Yo también, yo también!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿¡Eh?! ¿Q-qué?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Quizás la llamé un poco <i>demasiado</i>fuerte. Tanta\ngente se está apresurando,no hay forma de que\npueda manejar a todos sola!",
+      "choice_data_list": [
+        "¡Y-yo te ayudaré a repartirlos!"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡...!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "No puedo creerlo. ¿Repartí todos los volantes? ¿En\nserio?",
+      "choice_data_list": [
+        "Sí. ¡Buen trabajo!",
+        "Sí. ¡Buen trabajo!"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Eh... No te estaba preguntando a ti."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...Gracias. No podría haberlos repartido todos sin\nti."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Todos, dices? ¿Quieres decir que terminaste de\nrepartirlos?"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Air Groove!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Increíble. Superaste todas mis expectativas. Creo\nque mis preocupaciones eran infundadas."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Dober, realmente has cambiado. Me complace ver\ncuánto has crecido."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Oh, ¡muchas gracias!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Pero no logré esto sola. Tuve ayuda. Así que\nrealmente..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Je, olvida todo eso por ahora. Lo resolverás algún\ndía."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Pero tus esfuerzos realmente han ayudado. Así que,\ndiré esto..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Gracias."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Eso también iba dirigido a ti, Entrenador.",
+      "choice_data_list": [
+        "No fue nada."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Eh, también quería decir... Ayudaste, eh, un\npoco... Adiós."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡Eh! También quería decir... ¡Muchas, muchas\ngracias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Quizás es el orgullo que siente por haber\ndistribuido todos los volantes, pero cuando capto\nuna breve visión del perfil de Mejiro Dober, veo\nuna sonrisa en su rostro."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡Eek! ¡El viento es demasiado fuerte! ¡Oh no! ¡Los\nvolantes se están volando!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡De repente, una fuerte ráfaga de viento esparce\ntodos los volantes! En pánico, me apresuro a\nayudar a recogerlos..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "<i>Haa... Resuello...</i> Creo que de alguna manera\nlogramos recoger todos, pero...",
+      "choice_data_list": [
+        "Está casi oscuro...",
+        "Está casi oscuro..."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Lo siento, finalmente estoy de regre—oh, ¿qué pasó\naquí?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ya veo. Eso suena como todo un desastre. ...Dober."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...A-Air Groove, lo siento mu—"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Bien hecho. Hiciste todo lo que pudiste."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡...!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Solías ser demasiado tímida para incluso\nexponerte. Me complace ver cuánto has crecido."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Pero yo... dije que me encargaría por ti, y ni\nsiquiera pude repartir un solo volante."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Je, olvida todo eso por ahora. Lo resolverás algún\ndía."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Gracias por tu ayuda también, Entrenador.",
+      "choice_data_list": [
+        "No es nada."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Dober regresa a la academia sumida en\npensamientos, reflexionando sobre el significado\nde las palabras de Air Groove."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿Eh? Espera, esa insignia en tu cuello..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...No, gracias. Y no me des tu discurso de\nentrenador tampoco.",
+      "choice_data_list": [
+        "Pero...",
+        "Pero..."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Gracias, pero no quiero molestar a uno de los\nentrenadores de la academia. Aprecio el gesto, sin\nembargo.",
+      "choice_data_list": [
+        "Pero...",
+        "Pero..."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡Hum! ¡Eres tan entrometido! ¡Puedo hacer esto por\nmi misma! ¡<i>Tengo</i> que hacer esto por mi cuenta!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "No, en serio, estoy bien. ¡Debería hacerlo yo\nsola!"
+    },
+    {
+      "name": "Estudiantes Transeúntes",
+      "text": "¿Qué es esto? ¿Qué es todo este alboroto? Parece\nque están repartiendo volantes? ¿Para qué?"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¿Eh? ¡Oh! ¡Uy!",
+      "choice_data_list": [
+        "¡Sí! ¡Estamos organizando un evento!"
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡Oye! ...Oh, ¡vale!"
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Oh... eres demasiado amable. Te quedarás atrapado\naquí todo el día a este ritmo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin darle mucha oportunidad de rechazar mi ayuda,\nempiezo a repartir los volantes..."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "<i>Uf...</i> Todavía nos queda la mitad de los volantes,\npero ya está oscureciendo. Si seguimos un poco\nmás..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "No hace falta. Bien hecho, has repartido más que\nsuficiente."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Air Groove!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "¡Guau, realmente repartiste la mitad. Te\nesforzaste al máximo."
+    },
+    {
+      "name": "Air Groove",
+      "text": "...Realmente has crecido, Dober."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Oh, n-no es para tanto. Solo estaba causando un\nalboroto."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Al final, todavía necesité ayuda para llamar la\natención de la gente y repartir volantes. Así que\nen realidad..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Je, olvídate de todo eso por ahora. Lo resolverás\nalgún día."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Pero tus esfuerzos realmente me han ayudado. Así\nque, gracias."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Eso también iba dirigido a ti, Entrenador.",
+      "choice_data_list": [
+        "No es nada."
+      ]
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "...No te pedí ayuda, pero... gracias. Supongo."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "¡Sí! ¡Perdón por todas las molestias! ¡Muchas\ngracias!"
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Grupo de Umamusume",
+      "text": "¡Vamos, vamos! ¡Uno, dos! ¡Uno, dos!"
+    },
+    {
+      "text": "Los cantos de las corredoras son ahogados por el\nsonido de sus pasos. Cada una de ellas trabaja\nduro cada día en la búsqueda de sus sueños."
+    },
+    {
+      "text": "Hemos puesto nuestra mira en el Asahi Hai F.S.\ncomo nuestro próximo objetivo, pero, al ser una\ncarrera G1, es difícil incluso calificar."
+    },
+    {
+      "text": "Sin embargo, dado el potencial de Biwa Hayahide,\nno estamos preocupados."
+    },
+    {
+      "text": "Mientras ella siga ganando experiencia y\nmejorando..."
+    },
+    {
+      "text": "...",
+      "choice_data_list": [
+        "(¡Hay tanta gente!)"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Oh, tú también estás aquí.",
+      "choice_data_list": [
+        "¡Hayahide!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Supongo que no soy quién para hablar. Yo también\nestoy aquí para verla. Es imposible no sentirse\natraído por su forma de correr."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Siempre ha sido fascinante verla, desde hace\nmucho tiempo."
+    },
+    {
+      "text": "Me giro para ver hacia dónde está mirando."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Raaah! ¡Hoy te voy a vencer, seguro!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Oh, cállate.",
+      "color_text_info_list": [
+        "★★★"
+      ]
+    },
+    {
+      "text": "Parada en la pista está Hishi Amazon, la líder de\nsangre caliente de la Residencia Miho. Todavía\nestá esperando su debut.",
+      "color_text_info_list": [
+        "Hishi Amazon"
+      ]
+    },
+    {
+      "text": "Y a su lado está la hermana menor de Biwa\nHayahide, la Umamusume que ha capturado la\natención de todos—Narita Brian."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Jeje. Vamos, puedes permitirte relajarte un poco.\n¿Qué distancia vamos a correr, de todos modos?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "1.600 metros."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Una milla, ¿eh? Eso es inesperado. ¿Alguna razón\npara elegir esa distancia en particular?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Porque quiero correr toda la distancia a fondo.\nAnhelo esa velocidad—¡necesito darlo todo!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Planeas dejarme atrás desde el principio, ¿eh?\n¡Ja! ¡Tráelo! ¡Esta va a ser una carrera de la\nleche!"
+    },
+    {
+      "name": "Árbitro Umamusume",
+      "text": "¿Están listos? ¡En sus marcas! ¡Listos..."
+    },
+    {
+      "text": "Es una carrera asombrosa."
+    },
+    {
+      "text": "Compiten entre sí con una ferocidad casi salvaje.\nLos ojos de todos están pegados a la intensa\nacción."
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Vamos, Hishiama! ¡Tú puedes, Brian!",
+      "color_text_info_list": [
+        "Hishiama"
+      ]
+    },
+    {
+      "text": "Pero luego, en la recta final de la carrera..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Hmph!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "<i>¡Haa!</i>"
+    },
+    {
+      "text": "<i>¡Fuuuush!</i>"
+    },
+    {
+      "text": "Narita Brian desata una ráfaga de velocidad\naterradora que corta el ruido de la multitud,\ndejando a los espectadores en silencio."
+    },
+    {
+      "text": "Una sensación inquietante me invade mientras me\npregunto qué pasaría si Narita Brian y Biwa\nHayahide compitieran..."
+    },
+    {
+      "text": "Incluso si Hayahide la persiguiera a toda\nvelocidad, ¿podría alguna vez alcanzarla?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Entrenador? ¿Estás bien?",
+      "choice_data_list": [
+        "S-sí. Estoy bien."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jeje, si tú lo dices. Pero esa fue una mirada\nbastante intensa la que tenías."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Era la misma cara que hice hace mucho tiempo..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sé cómo te sientes. Aquí, déjame usar lo que\nexperimenté antes y poner tus sentimientos en\npalabras."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Narita Brian es una Umamusume digna de ser llamada\nalgún día la <i>mejor.</i>"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Solo los tontos intentarían competir con ella a la\nluz de su talento extraordinario."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Yo fui ese tonto una vez de niño. Un momento\nestaba corriendo libre, al siguiente, había sido\nadelantado. Tenía miedo de perder, así que entré\nen pánico..."
+    },
+    {
+      "text": "<i>¡Choque!</i>"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Intenté alcanzarla... y fue entonces cuando me\nlastimé."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tumbado en esa cama de hospital, no tenía más que\ntiempo para pensar. Y fue entonces—",
+      "choice_data_list": [
+        "¿Fue entonces cuando empezaste a trabajar sin\nparar en tu ecuación ganadora, verdad?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jeje, así es. Y ahora trabajo en ello con un\nentrenador extraño que se interesó más en <i>mi\npotencial </i>que en el de mi hermana."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Podríamos ser los tontos más grandes del mundo\nentero."
+    },
+    {
+      "name": "???",
+      "text": "¡HAYAHIDEEE!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Uh-oh. Creo que esto es hasta donde va a llegar\nnuestra conversación."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hola, Ticket. Y tú también, Taishin.",
+      "color_text_info_list": [
+        "Ticket",
+        "Taishin"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Suspiro...</i> A veces desearía que esta niña salvaje\nviniera con un interruptor de apagado."
+    },
+    {
+      "text": "Narita Taishin es la amiga de Biwa Hayahide que\nacaba de debutar este año. Su constitución delgada\noculta su habilidad para correr a velocidades\ninimaginables.",
+      "color_text_info_list": [
+        "Narita Taishin"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "En serio necesitas aprender a leer el ambiente.\n¿No podías ver que estaban hablando?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Bueno, quiero decir, vi a <i>Hayahide,</i> así que por\nsupuesto tuve que venir a saludar!",
+      "color_text_info_list": [
+        "Hayahide"
+      ]
+    },
+    {
+      "text": "Winning Ticket es una Umamusume enérgica y una de\nlas compañeras de clase de Biwa Hayahide. He oído\nque las tres son amigas cercanas.",
+      "color_text_info_list": [
+        "Winning Ticket"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Además, hay algo que absolutamente <i>tengo</i>que decir!\nNo sé si te diste cuenta, pero las tres..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Hemos debutado! ¡Felicitaciones a-to <i>sollozo...</i>\ntodos! ¡Waaaah!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Está bien, pero ¿por qué estás llorando?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Ugh, olvídalo—apúrate. ¿No tienes algo más que\ndecir?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Oh, por Dios, es cierto! ¡Perdón! Está bien, ya\nque todas estamos aquí, ¿por qué no salimos a\ncorrer?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Podemos hacer 2,400 metros, como esa vez!",
+      "choice_data_list": [
+        "¿De qué vez estás hablando?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Un tiempo de hace mucho. Cuando empezamos aquí,\ntuvimos que medir nuestros tiempos para la clase,\ny Ticket se le ocurrió correr 2,400 metros para\neso."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Sí! ¡Porque el Derby mide 2,400 metros!",
+      "choice_data_list": [
+        "(Debe de estar hablando del Derby japonés...)"
+      ],
+      "color_text_info_list": [
+        "Derby"
+      ]
+    },
+    {
+      "text": "Una umamusume solo puede participar en esta\nprestigiosa carrera una vez en su vida. Es un\nhonor al que todo corredor aspira."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Normalmente, las nuevas estudiantes solo corren\n1,000 metros, pero... nos lanzamos a hacerlo.",
+      "choice_data_list": [
+        "¿Quiénes son \"nosotras\"?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Quién crees?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Las tres! Y después de eso, empezamos a hacerlo\ntodo juntas. Jajaja, fueron tiempos magníficos."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Así es! Entonces, recreémoslo—¡exactamente así!\n¡RAAAGGGHHH!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Oye, espérate! ¿A dónde vas, idiota?!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Y ya salieron. ¿Puedo unirme?",
+      "choice_data_list": [
+        "Ve. ¡Y no te atrevas a perder!",
+        "Ve. ¡Y no te atrevas a perder!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Sabes que no lo haré!"
+    },
+    {
+      "text": "Ella sale corriendo tras Winning Ticket y Narita\nTaishin."
+    },
+    {
+      "text": "Me pregunto cuánto durarán tiempos como estos..."
+    },
+    {
+      "text": "Al día siguiente, escucho un rumor."
+    },
+    {
+      "text": "Al parecer, Narita Taishin y Winning Ticket\nparticiparán en el Hopeful Stakes, una carrera G1\npara juveniles.",
+      "color_text_info_list": [
+        "Hopeful Stakes"
+      ]
+    },
+    {
+      "text": "No es lo mismo que el Asahi Hai F.S. en el que\nparticipará Biwa Hayahide, pero sigue siendo un\nG1... Y es la carrera de nivel juvenil más alta."
+    },
+    {
+      "text": "Parece que Narita Brian no es el único rival feroz\npor ahí."
+    }
+  ]
+}

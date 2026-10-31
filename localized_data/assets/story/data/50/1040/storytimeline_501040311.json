@@ -1,0 +1,220 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gold City",
+      "text": "<i>Suspiro...</i>"
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Gold City es increíble! ¡Siempre tiene cara de\nmodelo, incluso cuando corre tan ferozmente!"
+    },
+    {
+      "name": "Fan B",
+      "text": "¡En serio! Ella es la verdadera, <i>y</i> le da un toque\nde glamour a la carrera. ¡Espero que corra mucho\nen su último año también!"
+    },
+    {
+      "name": "Gold City",
+      "text": "...Esto es una porquería."
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "¡Ciudad!"
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "text": "Mientras Gold City regresa de su carrera, ve a su\nmanager esperando con expresión severa."
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "Oye, City. ¿Qué fue eso hoy?"
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "He visto todas tus carreras, y nunca te he visto\ntan... poco agraciada."
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Huh? ¿Poco agraciada?"
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "No hablo de tus resultados. Hablo de <i>ti,</i> City."
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "Antes, corrías con tanta pasión. No sé de dónde\nvenía esa pasión, pero era lo que te hacía tan\nllamativa."
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "Por eso te permití tanta flexibilidad con el\ntrabajo, y por eso te vi correr."
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "Pero hoy no sentí nada de eso. Te veías vacía."
+    },
+    {
+      "name": "Gold City",
+      "text": "...!"
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Vacía? Tú... puedes tener razón."
+    },
+    {
+      "name": "Gold City",
+      "text": "Me siento vacía ahora mismo."
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "Entonces... ¿por qué no consideras rendirte? Has\ntrabajado lo suficiente."
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "Como adulta, no puedo quedarme cruzada de brazos y\nverte competir viéndote tan desagradable."
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "Entiendo que no quieres ser juzgada solo por tu\napariencia. Pero si sigues, algún día será tu\nnombre, tu marca la que gane respeto."
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "Correr no es el único camino. <i>Serás</i> apreciada por\nquien eres. Así que por favor..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Yo..."
+    },
+    {
+      "text": "Gold City intenta recuperar el aliento. No puedo\nquedarme aquí asintiendo.",
+      "choice_data_list": [
+        "Ella necesita seguir corriendo."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...¿Entrenador?",
+      "choice_data_list": [
+        "Si se retira ahora, se va a arrepentir."
+      ]
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "...Lo siento, pero ¿sabes qué está haciendo que\nCity esté así en primer lugar?"
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "Eres tú, forzándola a competir sin pensarlo dos\nveces."
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "No estás respetando lo que ella quiere, solo le\nestás imponiendo correr."
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "No te das cuenta de las consecuencias que City\ntiene que sufrir, el daño que podría hacerle a su\nvida."
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "Si sigue corriendo así, solo la va a lastimar. ¿De\nverdad crees que eso es lo mejor para ella?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Eh, eso ya es demasia—",
+      "choice_data_list": [
+        "Pero City aún no me ha dicho que realmente quiere\nretirarse."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...!"
+    },
+    {
+      "text": "Incluso después de fracasar al cambiar su imagen,\nincluso mientras lamenta que ya no tiene sentido,\naún no ha abandonado el correr en sí. Por eso...",
+      "choice_data_list": [
+        "Hasta que escuche esas palabras salir de su boca,\nla voy a seguir haciendo competir."
+      ]
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "¡Eso exactamente es de lo que estoy hablando!\n<i>Suspiro...</i> Esto no lleva a ninguna parte."
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "Mira, ¿qué te parece esto? Déjala competir una vez\nmás, pero si nada cambia después..."
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "Tú y ella han terminado. No más correr. ¿Está bien\npara ti, City?"
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "name": "Gerente de la Ciudad",
+      "text": "...Ódiame si quieres. Nos vemos en el trabajo."
+    },
+    {
+      "name": "Gold City",
+      "text": "Bueno... eso se calentó.",
+      "choice_data_list": [
+        "Lo siento, me excedí."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "No te disculpes. Solo estás... intentando hacer lo\nmejor para mí.",
+      "choice_data_list": [
+        "Tu manager también.",
+        "Tu manager también."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Sí, lo sé, no soy una niña. Ella siempre ha estado\npendiente de mí."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero... por eso no puedo dejar las cosas así."
+    },
+    {
+      "name": "Gold City",
+      "text": "Ambos están trabajando tan duro por mí. Mientras\ntanto, yo casi me he rendido a mí misma."
+    },
+    {
+      "name": "Gold City",
+      "text": "No quiero que alguien más decida mi futuro. Ni tú,\nni mi manager... nadie."
+    },
+    {
+      "name": "Gold City",
+      "text": "Así que necesito descubrirlo. Lo que <i>yo</i> realmente\nquiero hacer."
+    },
+    {
+      "name": "Gold City",
+      "text": "Oye, mi próxima carrera... Sería el Tenno Sho de\nprimavera, ¿verdad?",
+      "choice_data_list": [
+        "Sí.",
+        "Sí."
+      ],
+      "color_text_info_list": [
+        "Tenno Sho de primavera"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Me aseguraré de averiguarlo para entonces. Esto...\nlo que sea que me falte—esta vacuidad."
+    },
+    {
+      "name": "Gold City",
+      "text": "Porque no quiero terminar odiándote, a mi\nmanager... o a mí misma."
+    }
+  ]
+}

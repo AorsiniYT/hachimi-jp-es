@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Manhattan Cafe",
+      "text": "<i>Bostezo...</i>",
+      "choice_data_list": [
+        "Alguien parece tener sueño.",
+        "Alguien parece tener sueño."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Anoche, soñé con un conejo blanco... Me seguía\ndando acertijos..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "El acertijo era: \"¿Qué tienen en común las focas\nbarbudas y las escobas?\""
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Pero no pude descubrir la respuesta... y me\nmantuvo despierto..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Manhattan Cafe se obsesionó tanto con\nel acertijo que perdió sueño..."
+    }
+  ]
+}

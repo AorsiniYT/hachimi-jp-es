@@ -1,0 +1,186 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Voy de regreso de un paseo con Meisho Doto, cuando\nde repente se detiene..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh... es una heladería de soft-serve...",
+      "choice_data_list": [
+        "¿Quieres un poco?",
+        "¿Quieres un poco?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Eep! ¡Para nada! L-lo siento si pareció eso! Solo\nestaba un poco curiosa..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Grrr...</i>"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Nooo! ¡Esto no es lo que crees! Me divertí mucho\nhoy, así que naturalmente mi estómago se ha\nvaciado y...",
+      "choice_data_list": [
+        "Vamos a comprar algo para el camino.",
+        "Vamos a comprar algo para el camino."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡No d-deberíamos! Probablemente lo derramaré o se\nme caerá completamente...",
+      "choice_data_list": [
+        "Eso no pasará si nos tomamos nuestro tiempo."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Encontrando un asiento en un banco del parque,\nsaboreo un poco de helado soft-serve con Meisho\nDoto."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Mmm... Este helado está delicioso—frío, con el\nsabor suave de la leche..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Probablemente hubiera seguido de largo si no\nhubieras dicho algo, Entrenador.",
+      "choice_data_list": [
+        "¿Por qué?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh, um... Ya ves..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "El helado soft-serve siempre ha sido uno de mis\nfavoritos. De niña, solía rogarle a mis padres que\nme compraran uno cada vez que salíamos juntos."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Pero no duraba mucho. Lo dejaba caer\naccidentalmente, o una cabra me lo arrebataba\ndirectamente de las manos."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Mis padres nunca se enojaban. Pero me sentía tan\nmal, que gradualmente dejé de pedir..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Pero con tu ayuda, estoy comiendo el que es mi\nprimer helado en mucho tiempo."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Siempre me das la oportunidad de recuperar las\ncosas que casi abandoné..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Tanto que incluso empiezo a creer que soy capaz de\nhacer más. ¿Ridículo, verdad?",
+      "choice_data_list": [
+        "¿Qué tipo de cosas te gustaría intentar?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Eh? Bueno... Hay muchas otras cosas que he\npensado en comer... o comprar, pero...",
+      "choice_data_list": [
+        "¿Quieres venir de compras conmigo?",
+        "¿Quieres venir de compras conmigo?",
+        "¡Vamos a hacer un pequeño tour gastronómico!",
+        "¡Vamos a hacer un pequeño tour gastronómico!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Eh? Bueno... Hay muchas otras cosas que he\npensado en comer... o comprar, pero...",
+      "choice_data_list": [
+        "¿Quieres venir de compras conmigo?",
+        "¿Quieres venir de compras conmigo?",
+        "¡Vamos a hacer un pequeño tour gastronómico!",
+        "¡Vamos a hacer un pequeño tour gastronómico!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh... De compras... ¿juntas? ¿Contigo? Um...\nPero..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿No te... irritarás conmigo? ¿Y si me canso en\nmedio del viaje?",
+      "choice_data_list": [
+        "Dime qué te gustaría comprar.",
+        "Dime qué te gustaría comprar."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "En realidad, he querido comprarme una taza de\ncafé. Hay una adorable redonda que he estado\nmirando, pero..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Tengo demasiado miedo de ir sola... Puedo\nimaginarme rompiendo accidentalmente su\nmercancía...",
+      "choice_data_list": [
+        "No te preocupes, yo supervisaré.",
+        "No te preocupes, yo supervisaré."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿En serio? Pero, ¿y si mis manos empiezan a\ntemblar por los nervios, o... ya no pueda caminar\nrecta?",
+      "choice_data_list": [
+        "Estaré a tu lado, confía en mí."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ngh... Muchas gracias. Lo veré hasta el final, lo\nprometo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me alegra que ella esté un poco más relajada.\nLogramos terminar nuestro desvío de compras sin\ncontratiempos."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Oh... Realmente no puedo caminar y comer al mismo\ntiempo... Seguro que arruinaré algo."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Aunque... sí creo que sería divertido ir contigo,\nEntrenador. Entonces... no hará daño intentarlo,\n¿verdad?",
+      "choice_data_list": [
+        "¿Qué tal unas croquetas?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Las croquetas... son crujientes y deliciosas,\n¿verdad? Los jugos calientes y carnosos inundan\ntus papilas gustativas, pero tus manos y ropa se\nllenan de aceite... Uugh...",
+      "choice_data_list": [
+        "Entonces, ¿qué tal takoyaki en su lugar?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Tampoco soy muy buena con el takoyaki... Me he\nquemado la boca tantas veces...",
+      "choice_data_list": [
+        "El taiyaki también es bueno.",
+        "El taiyaki también es bueno."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Nunca sé dónde morder primero... ¿La cola es\nmejor, o la cabeza?!",
+      "choice_data_list": [
+        "Muy bien, ¡tomemos los tres!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Aaagh! Espera, ¿de verdad deberíamos? Suena un\npoco abrumador, pero... ¡Um!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con Meisho Doto en raro buen ánimo, exploramos el\ndistrito comercial probando todas las comidas que\nnos interesan."
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras caminaba por el campus, noté una\npila antinatural de hojas en mi camino.",
+      "choice_data_list": [
+        "(Esto se ve bastante sospechoso. Mejor dar la\nvuelta.)"
+      ]
+    },
+    {
+      "name": "???",
+      "text": "¡¿Qué?! ¿Por qué esquivaste mi hoyo?!",
+      "choice_data_list": [
+        "¿¡Hoyo?!"
+      ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¡Uh-huh! ¡Mi preciado hoyo! Antes se burlaron de\nél... ¡pero igual!"
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¡Humph! Regáñame todo lo que quieras, pero no voy\na parar! ¡Seguiré haciendo hoyos!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "...¿Es así? Realmente debes reflexionar sobre tus\nacciones. Pero... supongo que no eres tan malo\ncomparado con Golshi!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Ella hizo el hoyo perfecto en un parche de\nzanahorias y causó todo tipo de problemas a\nestudiantes que venían a robar una merienda."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Incluso <i>yo</i> puedo encontrar las trampas que haces,\nasí que supongo que eso te hace algún tipo de pez\npequeño comparado con ¡ella!"
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¡Grahhh! ¡Voy a hacer un hoyo totalmente mejor que\nel de Golshi! ¡Y va a atrapar a todos ustedes, lo\nverán!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que en realidad hizo este hoyo para evitar\nque los estudiantes coman las zanahorias, no solo\npara causar travesuras... Ella simplemente no se\nda cuenta de eso."
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¡Maldición! ¿Cómo pueden saber?! ¡Lo escondí\nperfectamente esta vez! ¡Con hojas!",
+      "choice_data_list": [
+        "Eso es lo que lo hizo tan obvio.",
+        "Eso es lo que lo hizo tan obvio."
+      ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¡O-oh! Quiero decir, ¡por supuesto que lo sabía!"
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Tienes un ojo bastante agudo. Te voy a hacer mi\nsecuaz, ¡así que ayúdame!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como no tengo nada urgente que hacer, decido\nayudarla. Pero entonces..."
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¿Qué tal?! Puse hojas por todas partes esta vez,\nno solo alrededor del agujero, así que se ve <i>real</i>\nnatural!"
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¡Guh?! ¡El viento se las llevó a todas?!"
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¡Esta vez usé rocas para mantener todo en su\nlugar, para que no se vuele otra vez! Ahora solo\ntengo que verter un poco de agua allí para\namortiguar el—",
+      "choice_data_list": [
+        "El agua solo se empapará en el suelo, ¿sabes?",
+        "El agua solo se empapará en el suelo, ¿sabes?"
+      ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¡¿Eh?! ¿Por qué? ¿No se quedará allí como una\npiscina?!"
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "<i>Haa...</i> Extendí una lona... dentro del hoyo... y\nllené el... hoyo con... agua... Ahora si alguien\npisa sobre el hoyo, así como—"
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¡¿E-EH?! ¡Ahora ni siquiera puedes caer?!"
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¡WAHHHHH! ¡Tengo que rehacerlo <i>otra vez?!</i>Estoy\nagotado! ¡Exhausto! ¡CANSADO!",
+      "choice_data_list": [
+        "¿Por qué no tomas un descanso y lo intentas de\nnuevo mañana?"
+      ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¡NO-ÑO! No importa cuán dura sea mi presa, ¡estos\ncolmillos míos no se van a quebrar!"
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¡Esa es mi regla... como cazadora!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su inquebrantable determinación es magnífica, pero\nestoy preocupado por su nivel de fatiga. ¿Qué\ndebería decirle?",
+      "choice_data_list": [
+        "Deja el resto a tu confiable secuaz.",
+        "¡Demos lo mejor de nosotros!"
+      ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¡No! ¡No-ñó! ¡Cállate! ¡Eres mi secuaz, así que\ntienes que escuchar lo que <i>yo</i> diga!",
+      "choice_data_list": [
+        "Es deber de un líder delegar trabajo a sus\nsecuaces.",
+        "Es deber de un líder delegar trabajo a sus\nsecuaces."
+      ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¿¡Hm?! ...En realidad, un espectáculo de héroes\nque vi el otro día tenía al líder sentado en su\nsilla todo el tiempo..."
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¡'Kay, seguro! ¡Ponle empeño! ¡Tu todopoderoso\nlíder te estará observando desde justo aquí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con Shinko Windy descansando, termino el trabajo\nsin problemas y de manera eficiente."
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¡Oh, ya terminaste, eh?! ¡Se ve bien! Pero lo más\nimportante es que realmente funcione..."
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Escucho pasos... ¡Alguien definitivamente viene\npor una merienda! ¡Veamos si tu hoyo hace el\ntrabajo!"
+    },
+    {
+      "name": "???",
+      "text": "¿Hm? Ella tampoco está aquí... Espera—¡GAHHH?!"
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¡Sí! ¡Bien! ¡Atrapamos a alguien! ¡Mereces algún\nelogio, secuaz!",
+      "choice_data_list": [
+        "Quizás después. ¡Tenemos que revisarlos primero!"
+      ]
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¡Oh, sí! ¡Es hora de confirmar la captura y\ndeleitarnos en nuestro éxito!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Ja. Ja... Me preocupaba haberte presionado\ndemasiado, pero parece que hiciste un hoyo\nrealmente bueno aquí."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Ahora voy a tener que \"recompensarte\"\ngenerosamente por este."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque el hoyo efectivo de Shinko Windy le gana\nelogios, también atrapa a la inocente Hishi\nAmazon... y resulta en otra regañina."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debo respetar sus deseos aquí. Pero si parece que\nse está esforzando demasiado, intervendré para\nayudar. Así no se hará daño."
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¡Bien! ¡Y eso es lo que te hace mi confiable\nsecuaz!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sigo trabajando, siguiendo sus instrucciones y\noferiendo consejos ocasionales sobre cómo hacer\nhoyos, hasta que..."
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¡ESTÁ TERMINADO! ¡Sí, sí, sí! ¡Lo logramos!"
+    },
+    {
+      "name": "???",
+      "text": "¡Jajaja! ¿Y? Apuesto a que obtienes un sentido de\nlogro totalmente diferente comparado con hacer\ntravesuras, ¿verdad?"
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¡Hishiama! Uh-huh, ¡totalmente diferente! Trabajé\ntan duro, pensando en cómo atrapar a mucha presa,\ny lo ajusté un montón..."
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¡Y ahora, el potencial de travesura se ha\ndisparado!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Uh-huh... el potencial de travesura se es—"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Espera, no! Seguro, es un hoyo, pero lo estás\nusando para ¡evitar que los estudiantes roben\nzanahorias del campo!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Esa es la idea, ¿verdad? Usar una travesura para\nayudar a otros... ¿Algo así?!"
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¿De qué estás hablando? ¡Las travesuras no tienen\nnada que ver con ayudar a la gente!",
+      "choice_data_list": [
+        "Y-yo veo..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así Shinko Windy sigue siendo una bromista, por\ny para."
+    }
+  ]
+}

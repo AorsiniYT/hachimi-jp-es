@@ -1,0 +1,127 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mientras doy un paseo en el parque... Escucho una\nvoz familiar viniendo de una tienda de dulces."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "...Pueden ser deliciosos y todo, pero aún\nnecesitas ¡Bakushin! ¡Tienes que devorarlos!"
+    },
+    {
+      "name": "Inari One",
+      "text": "No, no. ¿No sabes que tienes que saborear los\nsabores para la verdadera experiencia de dulce\njaponés?",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Oh, momento perfecto! ¡Podemos preguntarte en su\nlugar!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Me encontré con Inari en la tienda de dulces y así\nnos pusimos a charlar sobre un té..."
+    },
+    {
+      "name": "Inari One",
+      "text": "A ambos nos encantan los dulces japoneses, ya\nves... Así que nos pusimos un poco acalorados\ndiscutiendo la mejor manera de comer los pasteles\nde té que están sirviendo hoy."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Sea cual sea el dulce, tienes que Bakushinarlo!\n¡Muerde y trague hasta que su estómago esté lleno!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡No, no, no! Estos pasteles de té están hechos\npara ser disfrutados con una taza caliente de té.\nSaborear lentamente el sabor es la verdadera cima\nde la clase!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Así que ese es el dilema! ¡Clase o Bakushin!\n¡Naturalmente, prefieres Bakushin! ¿Verdad,\nEntrenador?!",
+      "choice_data_list": [
+        "Uno debe saborear cada pastel lentamente y con\ndelicadeza. Yo soy más sobre el arte de la\nsofisticación.",
+        "Tienes que comer tanto como puedas. Yo soy todo\nsobre el arte del Bakushin!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿N-No puede ser?! ¿Me estás <i>diciendo que </i>no haga\nBakushin?!",
+      "choice_data_list": [
+        "En realidad, se trata más de Bakushinarlos con\ntodo tu cuerpo y alma <i>uno a la vez.</i>"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡ENTIENDO!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Sí, sí! ¡Disfrútalo con todas tus fuerzas! ¡Eso\nes súper elegante!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Mis ojos se han abierto! ¡Uno debe Bakushin con\nsofisticación y saborear el sabor!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "BAKU... <i>Ñam...</i> SHIN... BAKU... <i>Glup...</i> ¡SHIN!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Hmm! Es... ¡un sabor de Bakushin sofisticado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Sakura Bakushin O saboreó deliberadamente\nun solo pastel."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Así es! ¡Cuando tienes la oportunidad de comer\ndulces, tienes que disfrutarlos hasta el fondo de\ntu corazón!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¿Hasta el fondo de mi corazón, dices?"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Muy bien! ¿Sabes qué? Ser de mente abierta\ntambién es bastante elegante!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Sí! ¡Abre tu mente Y tu estómago! ¡Esa es la\nverdadera esencia del Bakushin!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Inari! ¡Entrenador! ¡Bakushinemos juntos!",
+      "choice_data_list": [
+        "...¿Eh? ¿Juntos?"
+      ]
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Adelante! ¡Muéstrame cuán de mente abierta puedes\nser! ¡Eso aplica tanto para dulces como para\nsofisticación!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Baku, baku, Bakushin! ¡Bakubaku, Bakushin!"
+    },
+    {
+      "name": "Inari One",
+      "text": "Ba... ¿Bakubaku Bakushin? ...Bakubaku, Bakushin...\n¡Baku—OH!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "<i>Urp...</i> Bueno, ¿cómo fue? ¿El método Bakushin de\nconsumo?"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Ahh! Tal espíritu y determinación... Este puro\namor por la comida debe ser alabado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El resultado es un Bakushin compasivo y una bien\nsatisfecha Sakura Bakushin O."
+    }
+  ]
+}

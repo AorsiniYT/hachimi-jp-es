@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Winning Ticket",
+      "text": "¡Waaaah! ¡No puede ser!",
+      "choice_data_list": [
+        "Lo siento... No pude rescatarlos.",
+        "Lo siento... No pude rescatarlos."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "No, está bien, Entrenador. ¡Hiciste lo que\npudiste!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Parece que depende de mí salvarlos!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Solo esperen! Tengo que ahorrar algo de dinero,\npero luego vendré por ustedes!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Lo siento muchooooo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bueno, eso fue decepcionante."
+    }
+  ]
+}

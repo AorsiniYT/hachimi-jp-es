@@ -1,0 +1,285 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día, mientras salía a almorzar, me encuentro\ncon King Halo y sus amigas."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Ohohoho! ¡Siempre tengo el almuerzo más perfecto!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Por eso tú, Sky, debes entregarme ese último\nplato de ensalada de Kioto!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿En serio? ¡Solo ve a buscar una ensalada\ndiferente!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¿Perdón?"
+    },
+    {
+      "name": "Special Week",
+      "text": "...Jeje."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Oye! ¿Qué es tan gracioso?!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Eh? Oh, nada. Solo que estoy un poco feliz de que\nlas cosas se sientan igual que siempre."
+    },
+    {
+      "name": "Special Week",
+      "text": "Tú estás aquí, Sei está aquí, y todas estamos\ncomiendo juntas.",
+      "color_text_info_list": [
+        "Sei"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Casi siento que nuestro debut el otro día fue solo\nun sueño. Pero..."
+    },
+    {
+      "name": "King Halo",
+      "text": "Entiendo a qué te refieres. El próximo año, todas\nestaremos haciendo los Clásicos juntas."
+    },
+    {
+      "name": "King Halo",
+      "text": "Excepto que <i>seré yo</i> quien tome el trono.Oye, Sky,\npásame la salsa de soja."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Consíguela tú misma."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Ugh! ¡Lo juro!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh, vaya. Todos están animados hoy."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Oh! ¡Son Grass y El!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Jejeje. Sonaba como si todas se estuvieran\ndivirtiendo, así que decidí venir a saludar."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Me siento igual respecto a haber debutado. Es casi\nsurrealista."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Y ahora, oficialmente estamos compitiendo entre\nnosotras."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Jejejeje... ¡Los ganadores y perdedores nacen\nambos al sonido del gong de partida!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Por cierto, ¡me topé con noticias interesantes!\n¡Mira este artículo!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Hmm... \"La Generación Dorada se acerca a su Año de\nClásicos.\""
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Guau! ¡Los nombres y fotos de todas están aquí!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Y mira! ¡King incluso tiene su propia sección\nespecial!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Es el trato que merezco."
+    },
+    {
+      "name": "King Halo",
+      "text": "Estoy segura de que el público muere por\npresenciar mi ascenso a la primera línea de\nnuestra generación."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pshhh..."
+    },
+    {
+      "name": "King Halo",
+      "text": "¿Qué?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Me pregunto qué pensaría el público si de repente\ntú \"descendieras\" en su lugar?"
+    },
+    {
+      "name": "King Halo",
+      "text": "Qué gracioso, porque me preguntaba qué pensarían\nsi hiciera que <i>tú</i>descendieras!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Nyahaha! Eres aterradora."
+    },
+    {
+      "name": "Special Week",
+      "text": "Los Clásicos... La gira de la Triple Corona... El\nDerby Japonés también...",
+      "color_text_info_list": [
+        "Derby Japonés"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Eh, oye, King!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¿Sí, Special Week?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Planeas correr en el Derby? ¿Para convertirte en\nla mejor de Japón?!",
+      "color_text_info_list": [
+        "Derby"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "..."
+    },
+    {
+      "name": "King Halo",
+      "text": "Sí, lo soy. <i>Debo</i> ganar esa carrera G1."
+    },
+    {
+      "name": "Special Week",
+      "text": "Oh... Ya veo..."
+    },
+    {
+      "name": "King Halo",
+      "text": "...",
+      "choice_data_list": [
+        "¡Hola!"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Oh, Entrenador! ¡Perfecto timing!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¿Crees que podrías esforzarte un poco más conmigo\nen la sesión de hoy?",
+      "choice_data_list": [
+        "¿Por qué esta solicitud repentina?",
+        "¿Por qué esta solicitud repentina?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "No lo llamaría repentino. Solo estoy tratando de\nser la mejor Umamusume de mi generación."
+    },
+    {
+      "name": "King Halo",
+      "text": "Soy King Halo. Tengo que ganar, no importa a quién\nenfrente."
+    },
+    {
+      "name": "King Halo",
+      "text": "Necesito lograr resultados dignos de\nreconocimiento.",
+      "choice_data_list": [
+        "Reconocimiento, ¿eh?",
+        "Reconocimiento, ¿eh?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Así es. Entonces, si entiendes, vamos a empe—"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Guaaau! ¡King!"
+    },
+    {
+      "name": "King Halo",
+      "text": "...?"
+    },
+    {
+      "text": "(Si recuerdo correctamente, esta es Kawakami\nPrincess. Muchos entrenadores la consideran\nbastante ambiciosa.)",
+      "color_text_info_list": [
+        "Kawakami Princess"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Oh, si no es Kawakami. ¿Qué pasa? Te ves como si\nte hubieras atragantado con un tomate cherry.",
+      "color_text_info_list": [
+        "Kawakami"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Mira! ¡Mira! ¡Hay una sección especial sobre ti!"
+    },
+    {
+      "name": "King Halo",
+      "text": "O-oh, así es. La hay."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Es increíble! La forma en que hablaste de cómo no\nte rendirías pase lo que pase me recuerda a\nPrincess Fighter!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¿Princess Fighter?"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ups, supongo que no la conoces. ¡Ella es el\npersonaje principal superfuerte de este programa\nque realmente me encanta!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Oh, espera. No es para eso que estoy aquí."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Ah! ¡Recordé! ¡Quería decirte algo!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Voy a estar apoyándote en los Clásicos!"
+    },
+    {
+      "name": "King Halo",
+      "text": "...",
+      "choice_data_list": [
+        "Bueno, ella pasó como una tormenta.",
+        "Bueno, ella pasó como una tormenta."
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "S-sí. Esa fue ciertamente un tipo nuevo de\nencuentro para mí.",
+      "choice_data_list": [
+        "Ella parece gustarte mucho, aunque.",
+        "Ella parece gustarte mucho, aunque."
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Yo... no puedo refutar eso."
+    },
+    {
+      "name": "King Halo",
+      "text": "Jeje. Pero no me conformaré con haber ganado solo\nuna fanática acérrima. Quiero que el mundo entero\nreconozca mi talento."
+    },
+    {
+      "name": "King Halo",
+      "text": "La verdadera competencia está adelante. Debemos\nmantenernos enfocados, Entrenador."
+    }
+  ]
+}

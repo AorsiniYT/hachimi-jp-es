@@ -1,0 +1,343 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mientras Mejiro Ryan y yo caminamos por el\ndistrito comercial una noche..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Eh? Mira, Entrenador. Hay un montón de gente por\nallá. ¿Hay una oferta en polvo de proteína o algo\nasí?"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! El gran premio de este año es unas\nvacaciones en aguas termales para dos.",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Primer premio: hamburguesa de zanahoria deluxe!\nSegundo: un fardo de zanahorias. Tercero: una\nzanahoria sola."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡La Umamusume deportiva de por allá! ¿Quiere\nprobar suerte?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Una rifa! Oye, Entrenador, ¿no acabamos de\nconseguir unos vales para esto?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Parece que necesitas un boleto o cinco vales para\nentrar. Si juntamos los nuestros, ¡podemos\nintentarlo!",
+      "choice_data_list": [
+        "Solo tenemos un intento, así que no te ilusiones\ndemasiado, ¿vale?",
+        "Solo tenemos un intento, así que no te ilusiones\ndemasiado, ¿vale?"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Qué dices? ¡En una carrera también solo tienes un\nintento! Esta clase de tensión es exactamente lo\nque saca a relucir mi lado musculoso."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Gira esa ruleta como un profesional! Agarra la\nmanija y ponte fuerte.",
+      "choice_data_list": [
+        "Trata de no romper la ruleta de la rifa.",
+        "Trata de no romper la ruleta de la rifa."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ah, sí, debería tener cuidado..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Haciendo caso a mi advertencia, agarramos la\npalanca juntos y giramos la ruleta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de la abertura..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Santo cielo! ¡Tenemos una ganadora del gran\npremio! ¡Venga a recoger su boleto para las\nvacaciones en aguas termales! ¡Felicidades."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "...¿Eh?",
+      "choice_data_list": [
+        "¿Por qué te ves tan confundida?",
+        "¿Por qué te ves tan confundida?"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "No puedo creerlo... O sea, esto no puede ser real,\n¿verdad?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Solo estaba actuando así para motivarme. Nunca\ncreí que tendría tanta suerte."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Gané... el gran premio? ¿En serio?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que le cuesta aceptar este repentino giro\nde buena fortuna."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Un boleto para un viaje a aguas termales!\n¡D-dios, qué debería hacer?",
+      "choice_data_list": [
+        "Úsalo como quieras.",
+        "Úsalo como quieras."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Eh? Honestamente, no sé cómo manejar algo así...\nHrm...",
+      "choice_data_list": [
+        "¿Por qué no llevas a alguien contigo y tienes unas\nvacaciones relajantes?"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Pero no merezco tomarme unas vacaciones así!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Todavía estoy en medio de mi viaje de carreras..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Y no estoy en buenos términos con McQueen ahora\nmismo, aunque realmente quiera charlar con ella.\nNo puedo simplemente invitarla a un viaje."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "No está bien. Eso no sería útil para ninguna de\nlas dos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para la testaruda Mejiro Ryan, unas vacaciones en\naguas termales son una distracción frívola."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Eh, Entrenador... ¿Podrías guardarme este boleto?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ni siquiera sé cómo lo usaría ahora. Y..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Creo que es porque aún no merezco usarlo."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Cuando llegue el momento, estoy segura de que lo\nsabré. Y me esforzaré al máximo para llegar a ese\npunto.",
+      "choice_data_list": [
+        "...Entendido."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Gracias! Es solo hasta que gane suficiente\nconfianza para sentirme cómoda tomando un tiempo\nlibre."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de tomar su decisión, Ryan mira al cielo.\nGuardaré el boleto de aguas termales hasta que\nella logre algo grande."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicidades! ¡Obtienes un filete de\nhamburguesa de zanahoria de lujo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Primer premio? ¡Guau! No puedo creer que ganara\nalgo tan increíble."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Un filete de hamburguesa de zanahoria de lujo!\n¡Eso es como obtener proteína de suero de primera!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...No estoy segura de entender la comparación,\npero suena caro.",
+      "choice_data_list": [
+        "Aún así, un filete de hamburguesa es solo un\nfilete de hamburguesa.",
+        "Aún así, un filete de hamburguesa es solo un\nfilete de hamburguesa."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Entrenador! ¿Cómo puedes decir eso?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Mira ese buen trozo de carne que están exhibiendo\nen el stand de premios!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Una carne así desprende confianza! Solo mira qué\nmagra y baja en grasa es. También tiene un sabor\numami natural, eliminando cualquier necesidad de\ncondimentos especiales."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Y mira esa zanahoria en el centro! ¡El color\nprofundo es prueba de que está llena de\nnutrientes!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Una hamburguesa con una cantidad tan generosa de\ningredientes... Nunca tendría el valor de hacerla\nyo mismo."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Pero bravo por la gente que lo hizo! Gracias a\nellos, puedo comer una comida energética\nextremadamente saludable."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que para Mejiro Ryan, al menos, este premio\nes bastante valioso."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Jeje, ¡este año empieza genial! ¡Voy a comer hasta\nllenarme y entrenar duro!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te llevas a casa un haz de zanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Guau! ¡Un haz de zanahorias! Eso sigue siendo un\npremio bastante bueno."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Deben estar en esa caja de cartón por allá... ¡Uy,\nes como una montaña de ellas!",
+      "choice_data_list": [
+        "¿Crees que podrás cargar con todas a casa?"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Déjalo en mis manos! Estoy acostumbrada a cargar\ncajas grandes por todas las cosas que compro al\npor mayor."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Esta caja será pan comido. De hecho, estoy segura\nde que podría cargar otra más."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Señor de la Rifa, ¿puedo cargar también esa otra\ncaja?"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Espera, ahora. Solo has ganado una caja."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Ah, ya entiendo! Ups, perdón por el malentendido."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Esto no es una competencia de levantamiento de\npesas. Jeje..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una sola caja es más que suficiente. Después,\nMejiro Ryan y yo nos damos un festín con algunas\nzanahorias deliciosas."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Miren esto! ¡Has ganado el tercer premio! ¡Aquí\ntienes tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Una zanahoria! ¡Una <i>sola</i> zanahoria! Bueno..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Eso es más o menos lo que esperaba, la verdad.\nIncluso si girara la ruleta con todas mis fuerzas,\nno había garantía de que ganara un buen premio.",
+      "choice_data_list": [
+        "Oye, las cosas son como son."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Tienes razón. Puede ser solo una zanahoria, pero\nno debería subestimarla."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡No sabes el trabajo que le costó a esta zanahoria\nganar ese color tan brillante!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Pensando en eso así... Sí que hace más difícil\ncomerla. Perdón, amiguita zanahoria..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella siente simpatía por la zanahoria... Pero\ndecidimos disfrutarla de todos modos, y que nos\nnutra para mañana."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Oh, eso está en blanco, mala suerte! Aquí tienes\neste paquete de pañuelos como premio de\nconsolación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Aw... ¿Pañuelos? Qué decepción..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Sabes, cada vez que veo pañuelos, siempre me\nrecuerda a algo."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "McQueen siempre lleva tanto un pañuelo lindo como\nunos pañuelos de bolsillo con ella."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Yo solo llevo una toalla deportiva. Eso es más que\nsuficiente para mí."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "<i>Suspiro...</i> Tal vez debería aprovechar esta\noportunidad para cambiar mis hábitos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las cosas son como son, y los pañuelos son\npañuelos... Pero seguro que hubiera sido bueno\nganar un premio mejor."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ajaja! ¡La carrera está por comenzar!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Hmm, ¿cómo debería ganar esta vez? ¡Ya sé! Voy a\nacelerar en la recta final y ganar con una ventaja\nenorme!",
+      "choice_data_list": [
+        "Pareces muy entusiasmado.",
+        "Pareces muy entusiasmado."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Jeje, ¡obvio! ¡Tengo que mostrar lo super genial\nque soy!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "O sea, la multitud está aquí para ver <i>a\nmí,</i>¿verdad?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Tengo que darles lo que quieren, o si no, se irán\ndecepcionados."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Tú también deberías estar viendo, Entrenador!\n¡Mira y ve lo genial que soy!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Y todos se asombrarán por cómo gano!"
+    }
+  ]
+}

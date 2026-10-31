@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "¡Finalmente estamos aquí, listas para enfrentar\nlas February Stakes! La mayoría de las Umamusume\nestarían temblando en sus botas ahora mismo,\npero...",
+      "color_text_info_list": [
+        "February Stakes"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Guau, ¿viste el tamaño de la multitud?! ¡Hay como\n<i>el doble</i> que antes!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Crees que hay algún tipo de evento especial hoy?",
+      "choice_data_list": [
+        "Probablemente están aquí por el G1."
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿\"Gee one\"? ¡Eso suena familiar!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Qué nombre tan genial. ¡Yo también quiero verlo!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Después de que termine hoy, vamos a verlo juntos!",
+      "choice_data_list": [
+        "¡Concéntrate en ganar esta carrera primero!",
+        "¡Concéntrate en ganar esta carrera primero!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Okay! ¡Aquí voy!"
+    }
+  ]
+}

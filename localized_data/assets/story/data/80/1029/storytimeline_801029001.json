@@ -1,0 +1,93 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estoy a punto de dejar el estudio después de\nterminar mi tarea cuando noto a Yukino Bijin\npracticando su baile."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Hola!",
+      "choice_data_list": [
+        "¡Estás bailando con todo!",
+        "¡Estás bailando con todo!"
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Claro! Quiero tener un baile genial para presumir\ntambién en los conciertos de las ganadoras."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Oye, ¿qué te parece mi baile?",
+      "choice_data_list": [
+        "Te veías tan linda bailando con todo tu corazón.",
+        "Te veías tan linda bailando con todo tu corazón."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ehehe, ¡caramba!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Pero, eh... ¿no me veré un poco simple?\nEspecialmente junto a todas las demás..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Urgh... ¿S-sabes cómo puedo añadirle algo de\nbrillo a mis conciertos?!",
+      "choice_data_list": [
+        "Intenta añadir algunos movimientos llamativos.",
+        "Intenta incluir algo de coreografía acrobática."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Esa es una idea genial! ¡Tienes razón! Lo que le\nfalta a mi baile es energía!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Hup! ¡Hah! ¿Qué tal?!",
+      "choice_data_list": [
+        "Creo que necesitas más práctica.",
+        "Creo que necesitas más práctica."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ahaha... Ser llamativo seguro que es difícil..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Acrobacias... ¿Te refieres a como volteretas hacia\natrás?! ¡Eso suena bastante difícil..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡No! Tengo que hacer al menos eso si quiero ser\nuna verdadera chica de la ciudad!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Aquí voy! ¡Hup!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Eeeek!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "...Ugh.",
+      "choice_data_list": [
+        "Esa fue una caída impresionante.",
+        "Esa fue una caída impresionante."
+      ]
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Waaah! No puedo creer lo vergonzoso que fue! ¡Soy\ntan tonta!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La mitad de sus palabras se pierden en su lamento\ny la otra mitad en su fuerte acento, pero está\nbastante claro que está completamente avergonzada."
+    }
+  ]
+}

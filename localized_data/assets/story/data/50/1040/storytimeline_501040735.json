@@ -1,0 +1,49 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gold City",
+      "text": "Quedé..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Incluso con este ánimo, logré quedar en el tablero\nde alguna manera.",
+      "choice_data_list": [
+        "Agradece todo el esfuerzo que pusiste.",
+        "Agradece todo el esfuerzo que pusiste.",
+        "Enfrenta la próxima con la cabeza un poco más\nalta."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Qué, dices que tengo esta base súper sólida o lo\nque sea?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Bueno, para lo que me ha servido."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero, bueno..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Quizás tienes razón."
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Guau, por qué no pensé en eso? Mira, si de verdad\nquieres que sea más optimista o lo que sea..."
+    },
+    {
+      "name": "Gold City",
+      "text": "...",
+      "choice_data_list": [
+        "¿La ciudad?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Lo sé... Sé que necesito mejorar mi actitud."
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Haa... Resuello...</i>"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Listo, ¡eso es todo los ejercicios de hoy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El entrenamiento de Narita Taishin va bien, y ella\nestá entrando en ritmo. Pero algo todavía falta..."
+    },
+    {
+      "name": "New Trainer",
+      "text": "¡Resultados muy buenos hoy! ¡Casi estás lista para\nla próxima carrera!"
+    },
+    {
+      "name": "Umamusume Alegre",
+      "text": "¿¡En serio!? Jejeje, supongo que mejor me preparo\npara mi gran recompensa, ¿eh? ♪"
+    },
+    {
+      "name": "New Trainer",
+      "text": "¡Ah, ahí está! Por supuesto, déjame hacer una\nreservación para ese buffet de postres premium con\nel que has estado soñando!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al ver a otros entrenadores con sus corredoras, no\npuedo evitar pensar...",
+      "choice_data_list": [
+        "(Quizá necesito conocer mejor a Taishin...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "En su mayoría, solo la veo durante el\nentrenamiento. No sé casi nada sobre Taishin en\nsí.",
+      "choice_data_list": [
+        "Taishin, ¿tienes un momento?",
+        "Taishin, ¿tienes un momento?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué? Hice todas mis rutinas. ¿Me falta algo?",
+      "choice_data_list": [
+        "¿Hay algún lugar al que te gustaría ir?"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No realmente. De todos modos no tengo tiempo para\nhacerte compañía. Voy a enfriarme y regresar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y se fue... Con suerte la conoceré mejor a medida\nque entrenemos más."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un día, se envía una carta a todo el cuerpo\ndocente. Resulta ser un bono de la\nacademia—boletos para un acuario."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Habría invitado a Taishin, pero ella me rechazó la\núltima vez que lo intenté. Así que voy por mi\ncuenta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es un acuario pequeño en las afueras, tranquilo y\ncon solo un puñado de visitantes."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Uno de los cuales reconozco.",
+      "choice_data_list": [
+        "(¿Taishin?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras dudo si decir algo, ella murmura para sí."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "...¿Qué sigue?",
+      "choice_data_list": [
+        "(Nunca la había visto tan tranquila...)",
+        "(Nunca la había visto tan tranquila...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Algo es diferente a lo usual. Perplejo, la observo\nen silencio mientras se desliza a otra área."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero es un acuario pequeño, y mientras paseo,\ntermino viéndola de nuevo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella está parada junto al tanque táctil \"Diversión\ncon Peces\", mirando fijamente a los peces doctor\ndentro."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Allá voy."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella verifica cautelosamente si hay alguien\nalrededor, luego reúne valor y sumerge una mano."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡...!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su preocupación se derrite mientras los peces que\nse retuercen le hacen cosquillas en los dedos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más tarde, cuando el sol comienza a ponerse..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ahora hay barely visitantes. El acuario está\nquieto y silencioso como el mar profundo."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Jeje."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y completamente sola, tomando fotos con alegría de\nlas enérgicas criaturas marinas, está Taishin."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para alguien que odia las multitudes, tiene una\nsonrisa enormemente grande mirando al banco de\npeces."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿¡Qué?! ¡Eres tú!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me quedo congelado como un ciervo en los faros.\nUna ola de vergüenza me invade mientras lucho por\nresponder.",
+      "choice_data_list": [
+        "Oh, h-hola. Qué coincidencia.",
+        "Oh, h-hola. Qué coincidencia."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Suave. Si se da cuenta de que la estaba\nobservando, ni siquiera quiero <i>pensar</i> lo enojada\nque estará..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Siempre es así aquí, sabes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella sonríe, sin un indicio de enojo en su voz."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Quizás es el ambiente azul tranquilo... pero\nparece tan gentil."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Hay otro acuario más grande y elegante cerca. Así\nque casi todos van allí ahora."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Por eso siempre está tranquilo aquí. La mayoría\nviene sola. Y a todos les encantan los peces, así\nque solo se quedan mirando los tanques todo el\ntiempo."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No me dan un segundo pensamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella hace una pausa, sus palabras se desvanecen en\nla música de fondo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por todo el tiempo que hemos pasado juntos, nunca\nla había visto hacer una cara así."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Pero ¿y ustedes, pececitos? Me pregunto si se\ndarán cuenta de mí... Jeje."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Lo que sea, no importa. No están realmente\nmirando. Solo están por aquí."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Está bien... Me gusta así—me hace más fácil las\ncosas."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Eh? Oye, ¿por qué esa sonrisa?",
+      "choice_data_list": [
+        "¿Eh? Oh, no es nada.",
+        "¿Eh? Oh, no es nada."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿En serio? A veces eres un poco rara."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Bueno, me tengo que ir. Este lugar cierra bastante\ntemprano, así que ten cuidado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Observo cómo la misteriosa visitante del acuario\ndesaparece en la distancia.",
+      "choice_data_list": [
+        "(Este resultó ser un día bastante genial.)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con suerte, es una señal de progreso."
+    },
+    {
+      "name": "Umamusume Alegre",
+      "text": "¡Wuuu! ¡Un nuevo récord! Oye, quizás es hora de\nhacer reservaciones para el buffet de postres\npremium, ¿eh? ♪"
+    },
+    {
+      "name": "New Trainer",
+      "text": "¡Espera un minuto! Romper tu récord es increíble,\npero el postre es tu gran premio cuando ganas la\ncarrera!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El diálogo entre entrenador y aprendiz se ve\ndivertido, pero esta vez... Me siento un poco\nmenos envidioso."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "<i>Haa, resuello...</i> Uf...",
+      "choice_data_list": [
+        "Buen trabajo, Taishin."
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Sí... Pero basta de charla. Sigamos en movimiento.",
+      "choice_data_list": [
+        "¡Lo tienes!"
+      ]
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Eh, ¿soy yo, o estás locamente feliz hoy?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "He llegado a darme cuenta de que estoy feliz con\nlas cosas como están."
+    }
+  ]
+}

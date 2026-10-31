@@ -1,0 +1,78 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Es la hora del almuerzo, y la cafetería está tan\nbulliciosa como siempre."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "No seas testaruda, Hayahide ¡Toma mi almuerzo! Lo\nnecesitas!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ugh... ¡No puedo! ¡Eso simplemente agravará el\nproblema!",
+      "choice_data_list": [
+        "¿Qué está pasando?",
+        "¿Qué está pasando?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Hayahide está en huelga de hambre, y me preocupa\nella!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡No estoy en huelga de hambre! Simplemente consumí\nuna gran cantidad de calorías antes para optimizar\nmi funcionamiento cerebral en clase."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Desafortunadamente, completé mis cálculos mucho\nantes de lo esperado, y ahora mi cuerpo está\nalmacenando un exceso de calorías."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Ah, ya entiendo! Bueno, si quieres deshacerte de\nlas calorías extra, ¡entonces solo haz un poco de\nejercicio adicional!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Pero eso podría resultar en sobreentrenamiento. No\npuedo permitirme desviarme de mi cuidadosamente\nequilibrado plan de entrenamiento.",
+      "choice_data_list": [
+        "No te preocupes. Puedo hacer algunos ajustes."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Es mi culpa por haber hecho un mal cálculo. No\nsería justo cargarte con más trabajo a causa de mi\npropio error."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Quieres decir que no quieres pedirle ayuda a tu\nentrenador? ¿Por qué no? ¡Para eso exactamente\nestán los entrenadores!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Bueno, cuando lo pones así... Supongo que <i>es</i>\ntrabajo de un entrenador...",
+      "choice_data_list": [
+        "¡Entonces a trabajar!",
+        "¡Entonces a trabajar!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Gracias, como siempre. No sé qué haría sin ti."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Yo también estoy aquí para ti! ¡Somos amigos,\ndespués de todo! ¡Ahora come mi almuerzo para que\npuedas dar lo mejor de ti allá!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...¿Estabas escuchando algo de lo que dije?"
+    },
+    {
+      "text": "Hago algunos ajustes en el plan de entrenamiento\nde Biwa Hayahide, y ella puede compensar las\ncalorías extra que consumió antes."
+    }
+  ]
+}

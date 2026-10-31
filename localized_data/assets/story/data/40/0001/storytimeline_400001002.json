@@ -1,0 +1,290 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras me relajo en mi habitación,\nrecibo un correo de Tracen Academy.",
+      "choice_data_list": [
+        "¿De qué se trata?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"¡Atención, todos los entrenadores! Pronto haré un\nanuncio con implicaciones significativas para su\nfuturo.\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"¡Asegúrense de no perdérselo! De la Directora de\nTracen Academy Akikawa.\"",
+      "color_text_info_list": [
+        "Akikawa"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Saludos! Miembros de la prensa, gracias a todos\npor venir! ¡Escuchen bien! Los he reunido aquí hoy\npara un importante anun—"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Eh, ¡Directora! Tienes que pararte en la caja, o\nno podrán verte."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Hm, ¡tienes razón! Disculpas, disculpas!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Muy bien, esto parece estar bien. Bueno, entonces,\n¡desde el principio!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Escuchen bien! Yo, la directora de Tracen\nAcademy, por la presente anuncio..."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡El establecimiento de una nueva carrera, el URA\nFinale!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Murmullo, murmullo, murmullo...</i>"
+    },
+    {
+      "name": "Reporteras",
+      "text": "\"¡El URA Finale\"?! ¿Están creando una carrera\ncompletamente nueva?!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Directora Akikawa! Soy Otonashi de Twinkle\nMonthly. ¿Puedo hacerle una pregunta?",
+      "color_text_info_list": [
+        "Otonashi"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Permisible! ¿Qué es, señorita Otonashi?"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Gracias. Ahora entonces..."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¿Puede darnos una idea del proceso de pensamiento\ndetrás de esta decisión?"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Excelente pregunta! ¡Me alegra que preguntes!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "En resumen, el URA Finale es un evento que permite\na cada Umamusume buscar una oportunidad de gloria!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Será un evento donde cualquier y todas las\nUmamusume puedan competir! ¡Respeto! ¡Honor!\n¡Reconocimiento! Todo eso estará a su disposición!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¿Una oportunidad de gloria... para todas las\nUmamusume?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Charlan, charlan...</i>"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Je, jeje... ¡Jejejejeje!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Ahhh! ¡Ahora <i>esto</i> se pone interesante!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El repentino anuncio del URA Finale sacude el\nmundo de las carreras."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Inmediatamente después, se lleva a cabo una sesión\ninformativa para todos en Tracen Academy."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para cuando llego al gimnasio, ya está repleto de\nentrenadores y Umamusume."
+    },
+    {
+      "name": "Veteran Trainer A",
+      "text": "\"El URA Finale\", ¿eh...? ¿Realmente pueden\nsimplemente inventar una carrera completamente\nnueva así?"
+    },
+    {
+      "name": "Veteran Trainer B",
+      "text": "Me pregunto... Sé que la directora es importante,\npero al final del día, sigue siendo una niña."
+    },
+    {
+      "name": "Veteran Trainer B",
+      "text": "La antigua directora dirigía la academia como un\nreloj, pero eso no significa que su hija sepa lo\nque ella—"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Disculpe por interrumpir."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Habrá tiempo para preguntas después del discurso\nde la directora. Si tienen alguna preocupación,\npueden plantearla entonces."
+    },
+    {
+      "name": "Trainers",
+      "text": "¡Señorita Tazuna! ¡D-disculpe! No quisimos ser\ntodos groseros!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Juzgando por el ambiente en la sala, todavía hay\nmucha confusión e incertidumbre."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La atmósfera persiste mientras la sesión\ninformativa del URA Finale de la Directora Akikawa\nfinalmente comienza."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Bienvenidos! Estoy segura de que muchos de\nustedes deben haber quedado sorprendidos por este\nrepentino anuncio."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Sin embargo! Les pido que me escuchen mientras\nexplico la importancia del URA Finale!"
+    },
+    {
+      "name": "Asistentes",
+      "text": "¿Importancia? ¿Qué quiere decir?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La multitud se mira entre sí, y un murmullo de\nsusurros llena el salón. Con el tiempo perfecto,\nla Directora Akikawa reanuda su discurso."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Mis queridos estudiantes y entrenadores!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Díganme, ¿alguna vez han conocido el\narrepentimiento?"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "\"¡Quiero ganar el Arima Kinen!\" \"Quiero conquistar\nel Derby!\" \"¡Quiero ser la Umamusume más fuerte!\"",
+      "color_text_info_list": [
+        "Arima Kinen",
+        "el Derby"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¿Alguna vez han tenido sueños que no pudieron\nrealizar porque la distancia o la superficie de la\npista simplemente no eran adecuadas para ustedes?"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¿Alguna vez han apretado los dientes con\nfrustración pensando \"¡Soy mejor que esto!\"?!\nEntrenadores, ¿no han tenido arrepentimientos\nsimilares?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "..."
+    },
+    {
+      "name": "King Halo",
+      "text": "..."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Escúchenme! Aspiro a crear un mundo donde todas\nlas Umamusume que aspiran a correr puedan brillar!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Las corredoras brillan cuando sus voluntades\nchocan; la batalla forja su luz hasta volverla\ncegadora."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡En resumen! Deseo preparar una carrera que sirva\ncomo escenario para que todas las Umamusume\nmuestren su pleno potencial!"
+    },
+    {
+      "name": "Asistentes",
+      "text": "Director..."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Actualmente, cada carrera G1 tiene una distancia y\ntipo de pista designados, limitando a los\ncorredores que pueden unirse a esa carrera en\nparticular."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Sin embargo!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Miren! ¡El URA Finale presentará todas las\ndistancias y pistas!"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "¡Todas las distancias!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Todas las pistas?!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Al igual que en el Arima Kinen y el Takarazuka\nKinen, los corredores participantes serán\nseleccionados por voto de los fans!",
+      "color_text_info_list": [
+        "Takarazuka Kinen"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Por lo tanto, solo las Umamusume que hayan ganado\nmuchos fans con su desempeño en la Twinkle\nSeries—las Umamusume estrella—podrán participar!",
+      "color_text_info_list": [
+        "Umamusume estrella"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Corredoras! ¡Les pregunto! ¿Tomarán esta\noportunidad para mostrar su verdadera fuerza?!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¿Apunta a la cima y conquistar el título de\nCampeón de la Final?",
+      "color_text_info_list": [
+        "Campeón de la Final"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Entrenadores! ¡Les pregunto! ¿Tomarán esta\noportunidad para llevar a sus pupilas a sus\nlímites?!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¿Verán a su pupila coronada como la primera\nganadora del URA Finale?!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Tres años a partir de ahora, en el nuevo año,\ntendrán su oportunidad! ¡Vengan! Reúnan a sus fans\ny conviértanse en superestrellas!",
+      "color_text_info_list": [
+        "Tres años a partir de ahora, en el nuevo año"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Aliento! ¡Emoción! Espero con ansias su éxito!"
+    },
+    {
+      "name": "Asistentes",
+      "text": "..."
+    },
+    {
+      "name": "Asistentes",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El ambiente en el gimnasio cambia por completo\ncuando las dudas que antes tenía el público se\ndisipan y son reemplazadas por una ovación\natronadora."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Y con eso, el nacimiento de una nueva carrera de\nfin de año, la URA Finale, es anunciado!"
+    }
+  ]
+}

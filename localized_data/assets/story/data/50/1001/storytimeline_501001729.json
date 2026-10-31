@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Special Week",
+      "text": "¡Ay, casi lo logras!",
+      "choice_data_list": [
+        "Lo siento...",
+        "Lo siento..."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡No hay por qué disculparte, Entrenador!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Me alegra que te hayas esforzado tanto por mí."
+    },
+    {
+      "name": "Special Week",
+      "text": "De todos modos, se está haciendo tarde, así que\nvolvamos a la academia!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bueno, eso fue decepcionante."
+    }
+  ]
+}

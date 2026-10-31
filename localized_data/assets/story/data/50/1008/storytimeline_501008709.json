@@ -1,0 +1,69 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Vodka",
+      "text": "¡Uf! Logré puntuar. Estoy en la tabla de\nposiciones, Entrenador."
+    },
+    {
+      "name": "Vodka",
+      "text": "Nada mal, ¿eh? Claro, si realmente hubiera hecho\nlas cosas a mi manera..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Habría sido la más genial y habría ganado el\nprimer lugar, sin esfuerzo.",
+      "choice_data_list": [
+        "¡Aún así fuiste muy genial!",
+        "¡Aún así fuiste muy genial!",
+        "¡La próxima vez apuntemos al primer lugar!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Habría sido la más genial y habría ganado el\nprimer lugar, sin esfuerzo.",
+      "choice_data_list": [
+        "¡Aún así fuiste muy genial!",
+        "¡Aún así fuiste muy genial!",
+        "¡La próxima vez apuntemos al primer lugar!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿C-crees? Mmm..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Bueno... si realmente lo dices, supongo que puedo\nestar un poco más orgullosa de mí misma.",
+      "choice_data_list": [
+        "¡Ese es el espíritu!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Jaja, está bien. Entendido. Intentémoslo de\nnuevo..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Lo logré, Entrenador! ¡Y hay montones más de\ndonde vinieron estos!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Humph... No tienes que decírmelo. Ese es el plan,\n¡obviamente!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Esta carrera me dijo exactamente lo que me falta!",
+      "choice_data_list": [
+        "¡Eso suena prometedor!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Sí, lo sé, ¿verdad?! ¡Ahora puedes sentarte y\nrelajarte!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡La próxima carrera definitivamente es mía! ¡Te\nmostraré lo genial que puedo ser!"
+    }
+  ]
+}

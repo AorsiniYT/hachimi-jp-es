@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mientras me dirijo a la academia temprano en la\nmañana, veo a Gold Ship afuera en la plaza."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Gah!",
+      "choice_data_list": [
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Sí, hijo mío. Después de convertirme en uno con el\nuniverso mientras meditaba anoche, ¡mi mente y\ncuerpo están perfectamente sincronizados!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡La Gran Golshi ha alcanzado la iluminación!\n¡Estoy libre de todas las ataduras mundanas! De\nhecho, incluso puedo sentir... ¡el pulso de Gaia!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Dime, Entrenador descarriado. ¿Qué entrenamiento\nme harás completar hoy?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "No importa lo que me asignes. La Gran Golshi lo\nverá hasta el final."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ignorando el tono afectado que se ha puesto,\nGolshi parece estar en su mejor condición."
+    }
+  ]
+}

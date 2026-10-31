@@ -1,0 +1,282 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Con una fantástica actuación en la Twinkle Series,\nMihono Bourbon ha tenido unos impresionantes\nprimeros tres años."
+    },
+    {
+      "text": "Un día tranquilo, después de alcanzar ese hito..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿Te gustaría venir conmigo a visitar a mi familia?",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "text": "Acabo acompañando a Mihono Bourbon a la casa de\nsus padres."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Te pedí que vinieras por dos razones."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Primero, mi padre siempre dice que quiere\nconocerte."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Ahora que nuestro calendario de carreras se ha\nestabilizado, he determinado que no hay problemas\ncon estar lejos de la academia."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "La otra razón es..."
+    },
+    {
+      "text": "Se detiene a mitad de la frase."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Hay un asunto que debo verificar.",
+      "choice_data_list": [
+        "¿Qué quieres decir?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Llegaremos a la estación más cercana a mi casa\npronto. Por favor, prepárate para bajarte."
+    },
+    {
+      "text": "Me lleva a una casa sencilla en el campo apartado."
+    },
+    {
+      "text": "Un hombre de aspecto amable está esperando en la\nentrada."
+    },
+    {
+      "name": "Padre de Bourbon",
+      "text": "Bienvenido a casa, Bourbon."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Gracias, padre. Por favor, conoce a mi entrenador.",
+      "choice_data_list": [
+        "¡M-mucho gusto!"
+      ]
+    },
+    {
+      "name": "Padre de Bourbon",
+      "text": "He oído mucho sobre ti. Gracias por cuidar a mi\nhija."
+    },
+    {
+      "name": "Padre de Bourbon",
+      "text": "Lamento no haber podido ir a la academia a\nconocerte. Nuestra casa es un poco pequeña, pero\npor favor, siéntete como en casa."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Aquí está el recuerdo que pediste, padre."
+    },
+    {
+      "name": "Padre de Bourbon",
+      "text": "Oh, gracias. Entonces, ¿este es ese pan especial\nde zanahoria del que todos hablan..."
+    },
+    {
+      "name": "Padre de Bourbon",
+      "text": "Por favor, siéntete como en casa. Iré a traerte\nalgo de beber.",
+      "choice_data_list": [
+        "¡No, estoy bien!"
+      ]
+    },
+    {
+      "text": "Miro alrededor de la habitación y veo una foto de\nuna Mihono Bourbon muy joven exhibida en una\nrepisa."
+    },
+    {
+      "text": "Ella sostiene una bandera con \"#1\" escrito, y hace\nuna señal de paz a la cámara, todo mientras\nmantiene una expresión seria."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Según mis registros de datos, esta es una foto de\nla primera vez que terminé en primer lugar en una\ncarrera."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Fue justo después de decidir que quería ganar la\nTriple Corona Clásica. Recuerdo sentirme\n\"eufórica\" en esos momentos."
+    },
+    {
+      "text": "La habitación está adornada con otros trofeos y\nmedallas, así como con viejas caricaturas que\ndibujó."
+    },
+    {
+      "text": "Un viejo boleto para el Japanese Derby en\nparticular llama mi atención.",
+      "choice_data_list": [
+        "¿Qué es esto?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Eso es... desconocido. No estaba aquí antes."
+    },
+    {
+      "text": "Ella inclina la cabeza confundida mientras su\npadre regresa con una bandeja de té."
+    },
+    {
+      "name": "Padre de Bourbon",
+      "text": "Es el boleto de cuando llevé a Bourbon al Japanese\nDerby por primera vez."
+    },
+    {
+      "name": "Padre de Bourbon",
+      "text": "Desde que ella se fue, he estado sacando cosas\ncomo esta. Soy un poco sentimental, debo\nadmitirlo...",
+      "choice_data_list": [
+        "Debe ser importante para usted."
+      ]
+    },
+    {
+      "name": "Padre de Bourbon",
+      "text": "Fue después de que Bourbon vio la carrera ese día\nque dijo que quería ser campeona de la Triple\nCorona."
+    },
+    {
+      "name": "Padre de Bourbon",
+      "text": "Seguro que lo sabes, pero ella no es del tipo que\nanda expresando sus deseos a diestro y siniestro."
+    },
+    {
+      "name": "Padre de Bourbon",
+      "text": "Así que no podría haber estado más feliz.\nEmpezamos a entrenar juntos después de eso."
+    },
+    {
+      "text": "Recuerdo que Bourbon me dijo que su padre empezó a\nentrenarla cuando era joven."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Mi padre era entrenador, así que he seguido\nrutinas exhaustivas desde joven. En otras\npalabras, estoy acostumbrada."
+    },
+    {
+      "text": "Gracias a los hábitos que ha mantenido desde\npequeña, tiene la fuerza física y la fortaleza\nmental para soportar entrenamientos duros.",
+      "choice_data_list": [
+        "Sí, he oído hablar de eso."
+      ]
+    },
+    {
+      "text": "Mientras sigo hablando entusiasmado sobre lo\nbeneficioso que resultó ese entrenamiento para\nMihono Bourbon, su padre se rasca la cabeza\napenado."
+    },
+    {
+      "name": "Padre de Bourbon",
+      "text": "Realmente no hice nada especial."
+    },
+    {
+      "name": "Padre de Bourbon",
+      "text": "Lo más importante es lo que <i>tú</i> has hecho por ella.\nHe estado queriendo agradecerte.",
+      "choice_data_list": [
+        "Soy yo la que no ha hecho nada espe—",
+        "Soy yo la que no ha hecho nada espe—"
+      ]
+    },
+    {
+      "name": "Padre de Bourbon",
+      "text": "No. Tú convertiste las carreras en algo más que un\nsueño de Triple Corona para ella."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "..."
+    },
+    {
+      "name": "Padre de Bourbon",
+      "text": "Verla llorar esas lágrimas de alegría en el Arima\nKinen mientras la multitud enloquecía..."
+    },
+    {
+      "name": "Padre de Bourbon",
+      "text": "Puede que solo lo haya visto en TV, pero nunca lo\nolvidaré mientras viva."
+    },
+    {
+      "name": "Padre de Bourbon",
+      "text": "Muchas gracias por cuidar a mi hija."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Padre..."
+    },
+    {
+      "text": "Nos relajamos un rato después de eso y luego nos\nvamos."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Muchas gracias por haber conocido a mi padre,\nEntrenador."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Es raro que sea tan hablador. Debe haber estado\nmuy contento.",
+      "choice_data_list": [
+        "Por cierto, ¿qué era lo que necesitaba verificar?"
+      ]
+    },
+    {
+      "text": "De camino aquí, Mihono Bourbon dijo que había un\nasunto que necesitaba verificar."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Eso es... bueno... la diferencia entre tú y mi\npadre."
+    },
+    {
+      "text": "No puedo evitar pedirle que se explique después de\nescuchar una respuesta tan inesperada.",
+      "choice_data_list": [
+        "¿A qué te refieres?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Solía creer que eras similar a mi padre."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Ambos tratáis mi sueño con respeto y ambos habéis\ncaminado conmigo en mi camino para lograrlo."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Sin embargo, después del Arima Kinen, sentí que\npodía haberme equivocado."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Mis emociones se elevaron más de lo esperado ese\ndía cuando regresé a tu lado."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Me he dado cuenta de que mi estado emocional ha\nganado cierto grado de volatilidad desde que te\nconocí."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Esta volatilidad emocional se siente placentera y\nse ha convertido en un factor que hace que mi vida\nse sienta más enriquecedora..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Cuando me di cuenta de esto... Es difícil de\nexpresar, pero sentí que eras diferente de mi\npadre."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Hoy, yo... quería verificar esa sensación.",
+      "choice_data_list": [
+        "¿Y qué descubriste?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Los dos sois similares en muchos aspectos. Ambos\ncreéis en mí y seguís apoyándome."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Sin embargo, ciertamente hay una diferencia. No\npuedo explicarlo suficientemente, pero..."
+    },
+    {
+      "text": "Ella me mira directamente a los ojos."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Eres mi entrenador y atesoro enormemente el tiempo\nque pasamos juntos.",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "text": "Podría ser solo la luz del atardecer, pero sus\nmejillas se ponen ligeramente rojas."
+    },
+    {
+      "text": "Se siente como si mi viaje con Mihono Bourbon\nhubiera comenzado de nuevo."
+    }
+  ]
+}

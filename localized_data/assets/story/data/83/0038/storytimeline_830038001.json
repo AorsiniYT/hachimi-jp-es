@@ -1,0 +1,159 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mientras camino por el campus en mi descanso, veo\na Sakura Chiyono O a la sombra."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Ah! ¿Quién es esa por allá? Parece Spe y..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡M-Maruzensky!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oye, no crees que es un gran día para un paseo?\n¡Será una excelente forma de <i>relajarse!</i> ♪"
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Un paseo?! Bueno, mientras sigamos las normas de\ntránsito, ¡claro!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Un paseo con Maruzen. Qué agradable sería...",
+      "choice_data_list": [
+        "¿Por qué no le preguntas si puedes ir?",
+        "¿Por qué no le preguntas si puedes ir?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Aaaah!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Ah, um, hola. No, estoy... bien."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Solo bien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Curiosa por qué parece tan desanimada, le pido que\nexplique."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "La verdad es que yo..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Me mareo en los vehículos!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oye, Chiyo! ♪ ¿Quieres ir a dar un paseo a la\nplaya?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿¿E-estás bien con que venga?? ¡Me encantaría!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "(Seguro estaré bien. Está relativamente cerca...)"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Vamos a <i>pisar el acelerador a fondo, nena!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Brum!</i>"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡...!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "...Fue terrible. El mareo me golpeó con fuerza."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Seguro puedes adivinar qué pasó después..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "No me ha invitado a un paseo desde entonces.\nSeguro que solo está siendo considerada, pero aún\nasí es una lástima..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Así que solo tiene sentido que invite a otras\npersonas en lugar de a mí. Además, no quiero ser\nuna molestia.",
+      "choice_data_list": [
+        "¿Estás segura de que estarás bien?",
+        "¿Estás segura de que estarás bien?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Yo... Yo... Bueno, quiero decir..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Yo... Bueno, la verdad es que yo..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡<i>Realmente</i> quiero ir a dar un paseo en auto con\nMaruzen! ¡La extraño mucho!",
+      "choice_data_list": [
+        "¿Por qué no trabajas en superar tu mareo en\nvehículos?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "<i>Snif...</i> Intenté acostumbrarme a montar en\ndiferentes vehículos."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Pero cuando pienso en lo que pasó, me da miedo y\nno puedo seguir adelante."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Y cada vez que me encuentro actuando así, me\nsiento como si me alejara más y más de Maruzen..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Lo siento. No debería pensar así.",
+      "choice_data_list": [
+        "¿Quizás podrías investigar un poco antes de\nintentarlo de nuevo?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿Investigar? ...¿Te refieres a, como, averiguar\nqué causa mi mareo en vehículos?"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Sí, tienes razón... Dependiendo de la causa,\npodría haber métodos más adecuados que pueda usar\npara superarlo."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Y se siente mucho mejor hacer eso que simplemente\nenfurruñarse y envidiar a otros."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Sabes lo que dicen! \"¡Conoce la tierra antes de\nplantar las flores!\""
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Gracias! ¡Lo intentaré!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No será fácil para Sakura Chiyono O superar sus\nnáuseas, pero está dando el primer paso hacia el\nprogreso."
+    }
+  ]
+}

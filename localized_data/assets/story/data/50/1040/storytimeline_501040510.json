@@ -1,0 +1,233 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mientras camino por el campus, escucho un animado\ncharla."
+    },
+    {
+      "name": "Gold City",
+      "text": "<i>Qué</i> pasa con tu cabello? Tienes hojas, ramitas—¡es\nliteralmente un nido de pájaro allá arriba!"
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¡Y qué?! ¡Eso no es nada para hacer un escándalo!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Eh, estoy segura de que sí... ¿Cómo diablos se\npuso así, de todos modos?"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Me sorprendió verte caer en ese hoyo que tú misma\nhiciste."
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¡Mi plan original era que <i>tú</i> cayeras en la trampa!"
+    },
+    {
+      "name": "Gold City",
+      "text": "No es de extrañar que tu cabello esté desordenado\nen la parte trasera.",
+      "choice_data_list": [
+        "Qué animado por aquí.",
+        "Qué animado por aquí."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Oh, Entrenador... Bueno, sí. No planeé que esto\ntomara tanto tiempo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gold City aparentemente está tratando de arreglar\nel cabello de Shinko Windy. Pero parece estar\nteniendo problemas..."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¿Sabes qué sería genial, Windy? ¡Si ella te diera\nun peinado de superhéroe!"
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¡Hmph! ¡No me importa esa porquería de superhéroe\nbueno! ¡Yo camino por el lado oscuro!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero un villano fuerte también necesita verse\ngenial, ¿no?"
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¡Hrngh?! Tú... ¡Tú podrías tener un punto ahí!"
+    },
+    {
+      "name": "Gold City",
+      "text": "No te preocupes, no tomaré demasiado de tu tiempo.\nMira, incluso tu cola está toda despeinada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gold City se pone a trabajar en el cabello de\nShinko Windy con sus tijeras y productos de\nstyling. Yo me quedo por aquí y miro."
+    },
+    {
+      "name": "Gold City",
+      "text": "Okay... Todo listo. Ya estás lista para irte."
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Ohhhh... Se siente tan suave."
+    },
+    {
+      "name": "Gold City",
+      "text": "Corté y recorté las partes dañadas mientras lo\nhacía."
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Eh... ya... Entiendo, entiendo..."
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Jeje... ¡Me gusta! ¡Debería dejarte jugar con mi\ncabello otra vez algún día!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Jaja... Gracias."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Qué bueno! ¡Quiero que City me haga el cabello\ntambién!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¡Lo sé, verdad? ¡Windy es tan afortunada!"
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Por qué no vienen las dos? Puedo hacerles el\ncabello a ustedes también."
+    },
+    {
+      "name": "Ambas Umamusume",
+      "text": "¡Qué?!",
+      "choice_data_list": [
+        "¿Estás segura?",
+        "¿Estás segura?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿No crees que Biko y Windy se sentirían incómodas\nsi fueran las únicas?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con el tiempo, se corre la voz, y la gente empieza\na llegar!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Eh, ¿soy yo, o esto se está saliendo de control?!",
+      "choice_data_list": [
+        "Lograrás superarlo... de alguna manera...",
+        "¡Llamemos para pedir ayuda ahora!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Discrepo..."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Te estoy apoyando, City! Es como dice Carrot\nRanger, \"Cuando tu espalda está contra la esquina,\n¡solo hay una salida!\""
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "¡Muerde la adversidad donde duele! ¡Grawr, rawr!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Bueno... Supongo que soy yo quien inició todo este\nlío en primer lugar."
+    },
+    {
+      "name": "Gold City",
+      "text": "Ohhh, ¡vale! ¡Superaré esto!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Listo... ¿Qué te parece?"
+    },
+    {
+      "name": "Umamusume C",
+      "text": "Guau... ¡Esto es increíble! No sabía qué hacer con\nmi cabello rizado."
+    },
+    {
+      "name": "Gold City",
+      "text": "Tienes buenos rizos, así que intenté algo para\nayudar a resaltarlos."
+    },
+    {
+      "name": "Umamusume C",
+      "text": "¡Sí, sí! ¡Muchas gracias!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Y así, otra Umamusume es salvada."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "¡Increíble trabajo, City! ¡Eres una héroe por\nluchar tan admirablemente!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Sí, sí, gracias. No esperes que haga esto de nuevo\npronto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Puedo escuchar el agotamiento en su voz, pero ella\ntambién parece algo complacida con lo que ha\nhecho."
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Okay, ¡aguanta, City! ¡La ayuda está en camino!\n¡Resiste!"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "¡Muy bien, muy bien! ¡Todos esperen su turno!\n¡Hagan fila aquí si quieren un corte de cabello!"
+    },
+    {
+      "name": "Bamboo Memory",
+      "text": "¡Eh! ¡Tú, allí! ¡Quédate detrás de la línea para\nque no bloquees el pasillo!"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "City, he preparado estas para ti."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Shing!</i>"
+    },
+    {
+      "name": "Yaeno Muteki",
+      "text": "Habiendo afilado estas tijeras yo mismo, puedo\ngarantizar precisión en su corte. Espero que te\nsirvan bien."
+    },
+    {
+      "name": "Gold City",
+      "text": "...Gracias."
+    },
+    {
+      "name": "Gold City",
+      "text": "Eh, ¿por qué llamaste a estos dos?"
+    },
+    {
+      "name": "Shinko Windy",
+      "text": "Bamboo me perseguía gritando algo sobre\nviolaciones!"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "P-pero cuando expliqué la situación, dijeron que\nambas estaban dispuestas a ayudar!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Ya... veo... Quiero decir, sí aprecio la ayuda,\npero..."
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Todavía soy la única que está cortando!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con el personal adecuado, tijeras bien afiladas, y\nvítores animados de apoyo, Gold City logra\nsuperarlo."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, veo a Manhattan Cafe agarrando su cabeza\nen el pasillo."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "<i>Suspiro...</i>",
+      "choice_data_list": [
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Estoy bien. Solo tengo dolor de cabeza."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Um... ¿Te importaría acompañarme por un rato?",
+      "choice_data_list": [
+        "Quiero decir, me encantaría..."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Es solo que cuando me duele la cabeza,\n<i>ellos</i>empiezan a ponerse ruidosos..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "No querría que te pasara nada..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es conmovedor que se preocupe por mí, pero estoy\nmás preocupado por su dolor de cabeza que por mi\nbienestar..."
+    }
+  ]
+}

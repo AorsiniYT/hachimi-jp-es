@@ -1,0 +1,126 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, estoy caminando por el pasillo durante el\nalmuerzo cuando veo a Narita Brian colocando\ncarteles."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "<i>Suspiro...</i> Eso es un tercio completado... Quedan\ndos tercios por hacer."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "No puedo creer que la vicepresidenta esté\ncolocando todos esos carteles ella sola..."
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Sí, tienes razón... Deberíamos ir a ver si ella\nnecesita ayuda."
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Eh, ¡disculpe! ¿Necesita alguna―"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Qué quieres?"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¡Eek! N-nada! No importa..."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Esa mirada suya es tan potente... ¡Es suficiente\npara mantener a cualquiera alejado!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "V-vámonos de aquí. Parece que está de mal humor.\nSolo empeoraremos las cosas."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Tch.",
+      "choice_data_list": [
+        "¿Pasó algo malo?",
+        "¿Pasó algo malo?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Eh? ¿Tú también...?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Solo estoy aquí por asuntos del consejo\nestudiantil.",
+      "choice_data_list": [
+        "No tenía idea de que fueras miembro del consejo\nestudiantil."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Bueno, soy una, más o menos."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "De todos modos, necesito poner todos estos\ncarteles hoy."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No tengo tiempo para hablar, así que lárgate.",
+      "choice_data_list": [
+        "¿Necesitas ayuda?",
+        "Parece mucho trabajo.",
+        "Parece mucho trabajo."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No tengo tiempo para hablar, así que lárgate.",
+      "choice_data_list": [
+        "¿Necesitas ayuda?",
+        "Parece mucho trabajo.",
+        "Parece mucho trabajo."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No, puedo hacerlo bien.",
+      "choice_data_list": [
+        "Pero irá más rápido con dos personas, ¿sabes?",
+        "Pero irá más rápido con dos personas, ¿sabes?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Estoy cansada de discutir. Ayuda si quieres."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Yo iré en sentido horario por la escuela. Tú ve en\nsentido antihorario. Sé rápido."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Brian es directa con sus palabras, pero\nella parece más que capaz de manejar sus deberes\ndel consejo estudiantil."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Sí, supongo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Solo lo veo como entrenamiento para sacar algo\nprovechoso."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Bueno, nos vemos. Tengo trabajo que hacer."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de ser un trabajo tedioso y agotador,\nNarita Brian completa sus deberes del consejo\nestudiantil con diligencia."
+    }
+  ]
+}

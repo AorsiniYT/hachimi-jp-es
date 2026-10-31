@@ -1,0 +1,63 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras paseo por el distrito\ncomercial..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Genial. Qué lío en el que me he metido... A ver...\nHay camarones, tempura mixta, calamar,\npimientos...",
+      "choice_data_list": [
+        "¿Algo que te preocupe?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Oh, no es nada serio. Uno de los tenderos mayores\ndel distrito comercial me dio una gran cantidad de\ntempura."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Y aunque estoy increíblemente feliz y agradecida\npor su regalo, simplemente no hay manera de que\npueda terminarlo todo."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Los alimentos fritos son tan aceitosos y pesados,\ny comer tanto en una sola sentada está garantizado\npara terminar en un mal episodio de indigestión!",
+      "choice_data_list": [
+        "¡Cómelo con rábano daikon rallado para hacer las\ncosas más fáciles!",
+        "¡Deberías organizar una fiesta de tempura en el\ndormitorio!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Rábano daikon rallado? ¿Cómo ayudaría eso?",
+      "choice_data_list": [
+        "¡Es efectivo para aliviar la indigestión!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Interesante... Eso suena exactamente como el tipo\nde cosa que diría una abuela, y me encantan los\nnuggets de sabiduría como ese."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Hablando de eso, recuerdo que mi tía me enseñó una\nbuena forma de usar la tempura sobrante hace mucho\ntiempo."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Bien, ¡es hora de comprar algunos rábanos daikon\nen el supermercado! ¡Podré comer tanta tempura\ncomo quiera con su ayuda!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿En el dormitorio? Oh, esa es una gran idea. Puedo\nsimplemente dejarlo en la cafetería!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "De esa manera, no tengo que andar diciéndole a\ntodos sobre la tempura, y cualquiera que quiera\npuede servirse!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Será una gran exposición para el sabroso lugar de\ntempura del distrito comercial también. Sí, todo\nestá bien si termina bien."
+    }
+  ]
+}

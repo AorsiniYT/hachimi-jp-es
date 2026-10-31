@@ -1,0 +1,248 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Vodka",
+      "text": "<i>Haa... Haa...</i> ¡Eso es todo para el entrenamiento\nintervalado!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Entrenador, ¿qué sigue en la lista? Vamos,\n¡apúrate y dime!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Trabajar con Vodka ha sido más directo de lo que\nesperaba. Estamos progresando bien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con sus zancadas largas y cuerpo flexible, su\nfuturo se ve prometedor.",
+      "choice_data_list": [
+        "Muy bien, aumentemos tu carga un poco más\nentonces.",
+        "Muy bien, aumentemos tu carga un poco más\nentonces."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Sí! ¡A por ello! ¡Tengo que mostrar lo genial que\nsoy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Entonces, un día..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Oh, mierda. Se me olvidó entregar mi solicitud\npara el Tracen Meet. Será mejor que entregue eso\nrápido...",
+      "choice_data_list": [
+        "¿Reunión de Tracen?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Huh, no lo sabes? Ah, cierto, aún no ha habido\nuno desde que te uniste a la academia."
+    },
+    {
+      "name": "Vodka",
+      "text": "Básicamente es este gran evento que ocurre dos\nveces al año. Todos se inscriben y pueden elegir\nel tipo de carrera que quieren correr."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Viene gente de todas partes a verlo!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Además, es una oportunidad para nosotras, las\ncorredoras pre-debut, de probarnos contra las que\nya han debutado."
+    },
+    {
+      "name": "Vodka",
+      "text": "Lo mejor de este evento es que si te asignan al\nmismo grupo, no importa quién haya debutado o\nno—¡todo lo que tienes que hacer es correr!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Hombre, no puedo esperar! ¡Necesito asegurarme de\nque todos vean mi lado genial!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Y sabes qué, Entrenador? ¡Creo que hoy es un día\nincreíble para comer algo afuera!",
+      "choice_data_list": [
+        "¡Claro, te lo mereces por trabajar tan duro!",
+        "¡Claro, te lo mereces por trabajar tan duro!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Me alegra que estemos de acuerdo! Espérame aquí,\nvoy a cambiarme !"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Vodka y yo salimos a comer."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Uy, comí demasiado! Sé que tengo que vigilar mi\npeso, pero está bien tener una comida libre como\nesa de vez en cuando!"
+    },
+    {
+      "name": "Vodka",
+      "text": "...¿Huh? ¡Guau!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿¡V-ves ese póster súper genial por allá?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mirando hacia allá, veo un póster llamativo que\nmuestra a una Umamusume montando una motocicleta\ngrande.",
+      "choice_data_list": [
+        "Parece que están mostrando una nueva película.",
+        "Parece que están mostrando una nueva película."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Una película, huh... Oh, sería tan genial ver esa\nmoto enorme en la pantalla...",
+      "choice_data_list": [
+        "Ya que ya estamos aquí, ¿por qué no vamos a verla?",
+        "Ya que ya estamos aquí, ¿por qué no vamos a verla?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿¡Espera, hablas en serio?! ¡Demonios, sí!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Eso... fue... lo más genial que he visto en mi\nvida!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Viste qué cerca del suelo estaban mientras\ntomaban esas curvas? ¡Fue una escena de\npersecución tan genial!",
+      "choice_data_list": [
+        "No sabía que te gustaran tanto las motocicletas.",
+        "No sabía que te gustaran tanto las motocicletas."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿¡Cómo podría alguien <i>no</i> estarlo?! ¡Simplemente no\nme canso del rugido del motor o de su cuerpo\naerodinámico!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Sabes, mi viejo tiene uno de esos chicos malos.\nCuando era pequeña, él siempre me llevaba a dar\nvueltas por la ciudad."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Hombre, esos eran buenos tiempos! Te digo, las\nmotos grandes son lo mejor!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Eso me recuerda, la primera vez que fui al\nJapanese Derby, iba en la parte trasera de la moto\nde mi viejo.",
+      "choice_data_list": [
+        "Así que tu papá fue quien te introdujo a las\ncarreras.",
+        "Así que tu papá fue quien te introdujo a las\ncarreras."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Sí, ¡le encanta! Siempre me decía: \"Vodka, esos\ncorredores son los más geniales de todos.\""
+    },
+    {
+      "name": "Vodka",
+      "text": "No lo entendí en absoluto la primera vez que me lo\ndijo. Pero una vez que vi una carrera de verdad..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Cuando se abrieron las puertas, instantáneamente\nsentí escalofríos. Se podía <i>sentir</i> la tensión en\nel aire."
+    },
+    {
+      "name": "Vodka",
+      "text": "No creo haber parpadeado ni una vez desde el\nprincipio hasta el final. ¡Fue la cosa más loca\nque había visto!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Cada corredor tenía estas auras insanas que decían\ncosas como, \"¡No me retiraré!\" \"¡Quítate de en\nmedio!\" \"¡La victoria es mía!\""
+    },
+    {
+      "name": "Vodka",
+      "text": "Recuerdo gritar como loca sobre lo genial que fue\ndurante el viaje a casa. No podía ver bien su cara\ndesde atrás, pero apuesto a que mi viejo estaba\nsonriendo de oreja a oreja.",
+      "choice_data_list": [
+        "¿Es por eso que decidiste convertirte en corredora\ntú misma?",
+        "¿Es por eso que decidiste convertirte en corredora\ntú misma?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Sí. ¡Quería ser tan genial como esos corredores!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Jeje, lo pasé genial hoy. ¡Gracias por dejarme\nacompañarte al cine, Entrenador!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Oh, pero sabes esa escena antes del clímax... um,\nla romántica..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Esa, bueno, sabes... me tomó por sorpresa."
+    },
+    {
+      "name": "Vodka",
+      "text": "Definitivamente me gusta más la acción. Prefiero a\nla gente entrando a tiros en lugar de ese uh...\nk-ki...",
+      "choice_data_list": [
+        "Oh, ¿te refieres a la escena del beso?",
+        "Oh, ¿te refieres a la escena del beso?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡N-no lo digas así! Ughhh, ¡ahora estoy recordando\ntodo!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿¡Agh?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "M-me salió un sangrado nasal..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es el día después de nuestra salida tan movida."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estamos avanzando en una de nuestras sesiones de\nentrenamiento habituales cuando aparece otra\nestudiante."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Disculpe, ¡Vodka! Estás en el Grupo 10 para la\ncarrera de 2000 metros en césped en el Tracen\nMeet, ¿verdad?"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Huh, yo? Sí, ¿y qué?"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Solo quería verificar si planeabas cambiar de\ngrupo... Todavía tienes tiempo suficiente."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Qué? ¿Cambiar? ¿Por qué necesitaría hacer eso?"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¿¡Qué quieres decir con \"por qué\"? ¿No viste quién\nestá en él?!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Narita Brian está en tu grupo!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿¡Qué?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Voy a correr contra Brian?!"
+    }
+  ]
+}

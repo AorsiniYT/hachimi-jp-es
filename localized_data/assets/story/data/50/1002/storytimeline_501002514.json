@@ -1,0 +1,168 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Silence Suzuka ha recibido una solicitud para ser\nentrevistada para un artículo de revista."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "\"Un reportaje especial individual sobre la vida\nprivada de una de las Umamusume más populares hoy\nen día...\""
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No sé si soy lo suficientemente interesante para\nun reportaje...",
+      "choice_data_list": [
+        "¿Estás preocupada?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Um... Un poco..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Parece que me eligieron después de múltiples\nsolicitudes de mis fans. Pero...",
+      "choice_data_list": [
+        "Estoy feliz de ayudar si puedo."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿En serio?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Eso debería aliviar mi mente un poco. No tengo\nconfianza en que podré responder bien, así que..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ayudo a Silence Suzuka a prepararse para su\nentrevista. Yo supongo que puedo hacerle una serie\nde preguntas similares a las que le han hecho en\nentrevistas pasadas."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Está bien. Comencemos.",
+      "choice_data_list": [
+        "¿Tienes algún pasatiempo?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Pasatiempos? Bueno, um..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Correr... Supongo.",
+      "choice_data_list": [
+        "¿Tienes alguna habilidad especial?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Habilidades? ...Correr.",
+      "choice_data_list": [
+        "...¿Cómo pasas tu tiempo libre?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Bueno... En mis días libres, me gusta salir a\ncorrer..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...¿Mmm?",
+      "choice_data_list": [
+        "Somos algo deficientes en el departamento de\nvariedad...",
+        "Somos algo deficientes en el departamento de\nvariedad..."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Q-qué debería hacer?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Qué diablos quieren saber mis fans sobre mí?",
+      "choice_data_list": [
+        "Quieren conocer a la verdadera Suzuka.",
+        "Quizás podamos cambiar <i>cómo</i> respondes las\npreguntas."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "La verdadera yo..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Entonces significa... ¿las respuestas que te di\nhace un momento están bien como están?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No hay duda de que los fans de Silence Suzuka\nestán encantados con su forma de correr."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así que le aseguro que seguramente estarán\nencantados de escuchar sus respuestas honestas."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Crees eso?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Si realmente quieren conocer a la verdadera yo..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Entonces estoy segura de que estará bien.\nIntentaré responder con confianza."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella concluye que puede abordar esto y futuros\nencuentros con la prensa con sinceridad sin\ncomplicaciones."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Unos días después, me entero de que la entrevista\nde Silence Suzuka fue bien recibida por su visión\nde cuánto ama correr."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>Cómo</i> respondo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le explico cómo, incluso si su respuesta es la\nmisma, cambiar la forma en que la dice dará una\nimpresión diferente."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Oh... Entonces..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "En lugar de solo decir que me gusta correr,\ndebería mencionar algo como cómo me gusta buscar\npaisajes hermosos mientras corro."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "En cuanto a habilidades especiales... Puedo decir\nque soy buena corriendo largas distancias."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Y en mis días libres, me gusta buscar nuevos\nlugares para salir a correr..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿E-eso se acerca a lo que quieres decir?",
+      "choice_data_list": [
+        "¡Eso está mucho mejor!",
+        "¡Eso está mucho mejor!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿En serio? Gracias a Dios. Las entrevistas\nrealmente son difíciles, ¿verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Unos días después, me entero de que la entrevista\nde Silence Suzuka fue bien recibida por su visión\nde cómo siempre está pensando en correr."
+    }
+  ]
+}

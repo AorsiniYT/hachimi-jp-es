@@ -1,0 +1,85 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Gold City ha logrado dejar una marca bastante\nnotable en la Serie Twinkle."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Juntos, hemos navegado con éxito los cruciales\nprimeros tres años de su carrera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y ahora..."
+    },
+    {
+      "name": "Gold City",
+      "text": "...",
+      "choice_data_list": [
+        "Buenos días, City."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...Buenos días.",
+      "choice_data_list": [
+        "¡Energía sorprendentemente baja como siempre!",
+        "¡Energía sorprendentemente baja como siempre!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Estás sorprendentemente ruidosa esta mañana."
+    },
+    {
+      "name": "Gold City",
+      "text": "<i>Bostezo...</i>",
+      "choice_data_list": [
+        "¿Quieres que retrasemos nuestra hora de inicio?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "No vamos a hacer eso."
+    },
+    {
+      "name": "Gold City",
+      "text": "Quiero correr tanto como sea posible."
+    },
+    {
+      "name": "Gold City",
+      "text": "Hay alturas más altas que alcanzar, y tengo que\nmostrártelas a todas."
+    },
+    {
+      "name": "Gold City",
+      "text": "Oh, mira eso, ahora me siento más despierta.",
+      "choice_data_list": [
+        "¿Porque quieres correr?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Qué, crees que es infantil?",
+      "choice_data_list": [
+        "Creo que eso demuestra cuánto amas correr."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Eso... no está mal."
+    },
+    {
+      "name": "Gold City",
+      "text": "Muy bien, comencemos con un calentamiento. Allá\nvoy."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gold City sale corriendo. Bañada en la luz del\nsol, esboza una sonrisa. Hoy, como tantos días\nantes..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es una vista hermosa de contemplar."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gold Ship",
+      "text": "Es increíble cómo a todos se les enciende el fuego\nen los ojos cada vez que es hora de correr"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "No perderé la próxima carrera, ¿verdad,\nentrenador?",
+      "choice_data_list": [
+        "Hoy lo hiciste muy bien",
+        "Sé que no lo harás"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Bueno, eso es cierto, pero en cuanto a fuego\nardiente, mis ojos ardieron con la menor\nintensidad"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Si nuestras motivaciones fueran consumo eléctrico,\nentonces ellos serían lavavajillas y yo... un\nsimple cepillo de dientes eléctrico"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Maldita sea, ¿por qué no puedo estar a su nivel?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "<i>¡Haa!</i> Debe ser porque sus redes eléctricas son\ncircuitos en serie, necesito entrar en eso"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo que usar todos los trucos del libro para\nevitar que Gold Ship se transforme en un circuito\nen serie, sea lo que sea que eso implique"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Sabía que lo entenderías"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Ahora vámonos a buscar algunos contactos con luces\nLED para que pueda subir mi fuego en los ojos a\ntope"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Espera, ¿qué tal si voy por la sigilo máximo en su\nlugar, sorprender a la gente y cocinarlos con\nláseres en los ojos a quemarropa suena genial"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Qué crees?",
+      "choice_data_list": [
+        "Eh..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gold Ship me arrastra a un optometrista, pero no\ntiene más remedio que darse por vencida cuando le\ndicen que no existen esos contactos"
+    }
+  ]
+}

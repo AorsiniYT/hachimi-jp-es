@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Silence Suzuka y yo hemos venido a la orilla del\nrío para correr."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Qué buen tiempo. El sol brilla tan brillante—"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Oh no. Mi protector solar...",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Oh, no es nada."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Air Groove me dio un poco de protector solar el\notro día porque dijo que mi piel se veía un poco\nirritada."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Debería volver a casa a buscarlo. <i>Suspiro...</i> Si al\nmenos el clima no fuera tan agradable, entonces no\nlo necesitaría."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Pero espera... Si el tiempo estuviera malo,\nentonces no se sentiría bien correr de todos\nmodos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No tarda demasiado en que Silence Suzuka regrese\nde su cuarto, pero parece un poco decaída por\nperder algo de tiempo de carrera."
+    }
+  ]
+}

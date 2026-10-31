@@ -1,0 +1,237 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Finalmente llega el día del debut de Air Groove.\nGracias a la sólida reputación que ya ha ganado,\nes la clara favorita para ganar esta carrera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo..."
+    },
+    {
+      "name": "Locutor",
+      "text": "Los corredores más adelantados están entrando en\nla recta final. Y la favorita del día, Air Groove,\nhace una oferta para tomar la delantera."
+    },
+    {
+      "name": "Locutor",
+      "text": "¿Podrá hacerlo? ¿Lo logrará? La meta está al\nalcance. ¿Air Groove se llevará la victoria?"
+    },
+    {
+      "name": "Locutor",
+      "text": "Y todo ha terminado. La Emperatriz Air Groove no\nlogra alcanzar el primer lugar por una longitud de\ncuello."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de una buena actuación de la Emperatriz,\nun oponente aún más feroz se apodera de la\nvictoria, dejándola en segundo lugar."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Derrota... Uf. ¿Qué actuación más patética."
+    },
+    {
+      "name": "Air Groove",
+      "text": "No, no debo dejar que mis emociones me dominen\naquí. Mis capacidades como emperatriz son\nsimplemente insuficientes, lo que lleva a este\nfracaso."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Debería aprender de esta derrota — perfeccionarme\nhasta que sea digna de mi nombre."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Escucha. Estoy implementando algunos cambios como\ntu cliente. Sé que debíamos tener la tarde libre,\npero vamos a tener una reunión."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Necesitamos rediseñar completamente el régimen\npara obtener resultados superiores."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Negándose a rendirse a la amargura de la derrota,\nAir Groove hace una firme declaración de\nintención, decidida a mantener su propia identidad\nreal."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como su entrenadora, quiero apoyarla en esas\nambiciones altas de alguna manera. Si puedo\nconvencerla de hacer algunos ajustes a su ocupada\nagenda..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Oye, ¿me estás escuchando? Pareces estar en tu\npropio mundo."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Mejor no estés pensando en decir algo fuera de\nlugar."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Establecimos esto desde el principio, ¿correcto?\nTe preocuparás <i>solo</i> por proporcionarme el régimen\nde entrenamiento más efectivo posible."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿O incumplirás los términos de nuestro contrato,\ncomo los demás?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Realmente me preocupa lo ocupada que se encuentra\na diario. Pero si no tengo cuidado, entonces esta\nrelación se desmoronará rápidamente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esa noche, estoy realmente perdida mientras\ndesesperadamente trato de pensar en qué hacer."
+    },
+    {
+      "name": "Air Groove's Former Trainer",
+      "text": "Pero si intenta mantenerse al día con las\nactividades del consejo estudiantil y la tutoría,\nobstaculizará su propio crecimiento. Así que por\nfavor."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Air Groove se ha unido al consejo estudiantil con\nintención y propósito claros. Nadie puede hacer\nque abdique del papel excepto ella misma.",
+      "choice_data_list": [
+        "(¡Eso es todo!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me doy cuenta de que todavía no le he preguntado\npor qué dedica tanto tiempo a sus actividades\nextracurriculares."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si tan solo pudiera descubrir un poco más detrás\nde lo que la hace tic..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Entiendo la situación. Así que es por eso que has\nvenido a mí. Mhmm."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "En efecto, probablemente podría decirte casi\ncualquier cosa que quieras saber. Pero eso\ndifícilmente calificaría como comprender sus\nverdaderas intenciones."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Si realmente deseas estar de una sola mente, ¿no\ncrees que sería mejor que ella misma te revele\nestas cosas?",
+      "choice_data_list": [
+        "Eso es cierto..."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Dicho esto, puedo ver que pensaste mucho en su\nsituación antes de venir a mí. Tu devoción sincera\nes muy clara."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "En deferencia a esa devoción, tal vez pueda\nofrecer alguna orientación. Sígueme."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sigo a Symboli Rudolf a los terrenos de\nentrenamiento. Allí, encontramos a Air Groove\nasistiendo a Mejiro Dober en una sesión de\nentrenamiento."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Podrías trabajar en mejorar tu aceleración de\nsalida. Coloca los talones de inmediato y trata de\nliderar con una zancada más larga."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Una zancada más larga! He intentado estirar las\npiernas más lejos, pero siempre me hace perder\nvelocidad preciosa..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Las zancadas largas requieren que domines un\ncierto ritmo — uno que tu cuerpo no está\nacostumbrado todavía. Creo que puedo enseñarte\nalgo útil."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Intenta marcar el curso a intervalos de un metro y\nmedio y apunta a golpear esas marcas con la mayor\nprecisión posible."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Una vez que te acostumbres a esa distancia,\nintenta aumentarla a 1.8 metros, y luego a dos.\nEste ejercicio debería ayudarte a encontrar el\nritmo que necesitas."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Oh, ¡okay! Gracias por compartir eso. ¡Lo\nintentaré!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Mejiro Dober tiene una relación un poco complicada\ncon los hombres, y como resultado tiene\ndificultades para internalizar los consejos de los\ninstructores varones."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Air Groove fue la primera en notar esto, y tomó la\niniciativa de ofrecerle una mano amiga."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Su instrucción es uno de los factores más\nimportantes detrás del éxito de Mejiro Dober aquí\nen la academia."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Y no solo es Dober..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ahí estás, Suzuka. ¿Qué estás haciendo?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Eh? Um... Nada, realmente."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Escuché que el curso que quería correr hoy está\ncerrado por mantenimiento, así que no tengo nada\nque hacer en este momento."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Con la carrera descartada, ¿no se te ocurrió nada\nmás? Je, je... ¡qué típico de ti."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Bueno, vengo con buenas noticias. El consejo\nestudiantil acaba de investigar ese mantenimiento.\nParte del curso ya está disponible para su uso."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Oh! ¿De verdad?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Está a punto de sonar la hora de cerrar, pero\nconociéndote, creo que te lanzarías a correr\nincluso si solo fueran unos minutos."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Tienes razón. ¡Gracias, Air Groove!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Silence Suzuka puede ser un poco excéntrica a\nveces, pero Air Groove tiene una buena comprensión\nde su personalidad. Hablan con bastante\nfrecuencia."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Y en su papel como vicepresidenta del consejo\nestudiantil, también hace todo lo posible para\nabordar los problemas de esta academia."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Todo el cuerpo estudiantil se beneficia de sus\nesfuerzos, y por supuesto, no podría pedir una\nvicepresidenta más confiable."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Así que, ¿cómo fue? ¿Crees que pudiste obtener\nalgo de la información que estabas buscando?",
+      "choice_data_list": [
+        "Me ha dejado con mucho en qué pensar."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Muy bien. Es sabio evitar sacar conclusiones\nprecipitadas."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Estaba un poco preocupado de que ella podría\ndescartar su cetro por completo, pero me alegra\nver que mis temores eran infundados.",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "No es nada....Ella tiene una carrera de debut\npronto, ¿sí? Les deseo a ambos mucha suerte."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Salgo de la oficina del consejo estudiantil con\nuna renovada determinación, lista para considerar\ncómo puedo ayudar realmente a Air Groove a\nalcanzar sus metas."
+    }
+  ]
+}

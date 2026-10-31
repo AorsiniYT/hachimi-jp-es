@@ -1,0 +1,165 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mi cuerpo no es muy fuerte... Eso es lo que\nManhattan Cafe dijo..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Mi cuerpo se siente... pesado hoy..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Algunos días son así. Estoy a punto de decirle que\ntome con calma y descanse, cuando—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Fsshhh... Fsshhh...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Noto algo extraño. Hay un rastro donde Manhattan\nCafe caminó, pero parece como si un objeto pesado\nhubiera sido arrastrado por la arena."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Mi peso... Nunca he visto estos números antes...\n¿Qué está pasando?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su aumento de peso es anormalmente drástico. Y no\ntermina ahí..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Entrenador... Mi cuerpo se siente seco y\nquebradizo hoy... Es como si todo mi cuerpo se\nhubiera marchitado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Chirrido! ¡Crujido!</i>"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Ngh?!",
+      "choice_data_list": [
+        "¡¿Qué pasa?!",
+        "¡¿Qué pasa?!"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Mis... uñas de los pies... Están..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella se quita los zapatos en pánico. Sus uñas de\nlos pies secas se han agrietado, dejando atrás lo\nque parecen pequeños agujeros."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Mi peso... Me siento increíblemente ligero hoy..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Eso explica por qué no puedo reunir energía...\nEsta sequedad debe haber causado las grietas en\nmis uñas, también...",
+      "choice_data_list": [
+        "Limemos tus uñas y desinfectémoslas."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "¿Qué? ...¿Cómo... funciona eso?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Usando algo de medicina especializada y soportes,\nreforzamos sus uñas. No parece que ella tenga que\ntomar un descanso de carreras o entrenamiento..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Eres increíble... Gracias a tu minucioso\ntratamiento, me siento mucho mejor ahora..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero más importante, ¿qué hay detrás de estas\ndrásticas fluctuaciones en su peso? Calculo que es\nhora de intentar y obtener algunas respuestas.",
+      "choice_data_list": [
+        "¿Cómo está tu apetito?",
+        "¿Cómo está tu apetito?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Mi apetito... A veces tengo antojos intensos. Se\nsiente como si mi estómago se convirtiera en un\nabismo sin fondo..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Como y como, pero nunca me siento lleno... así que\ntermino comiendo sin pensar..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Pero luego en otros momentos, no puedo comer nada.\nIncluso cuando intento forzar la comida en mi\nboca, mi mano se congela completamente..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Pero... no es <i>mi</i> voluntad la que detiene mi mano.",
+      "choice_data_list": [
+        "...¿Entonces de quién es?"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...No lo sé."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Ella está luchando por mantener su dieta? ¿O es\nun caso de actividad paranormal? Nuestra\nconversación me deja sin idea. Pero por ahora...",
+      "choice_data_list": [
+        "Envíame una foto la próxima vez que algo raro\nsuceda."
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Una foto... Está bien. Te enviaré fotos, pero..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Unos días después, recibo una foto de Manhattan\nCafe. Pero la foto en sí..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me deja perplejo. Todo lo que puedo distinguir es\nun extraño patrón."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Eso sigue sucediendo. Por eso no he podido\nenviarte fotos de las áreas afectadas..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Siempre ha sido así, así que probablemente no hay\nnada que podamos hacer... Creo que mi cuerpo\nsiempre será así...",
+      "choice_data_list": [
+        "¡Solo llámame y lo solucionaremos!"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "¿Llamarte? ¿Quieres decir... cuando yo quiera?",
+      "choice_data_list": [
+        "¡Sí, para poder atenderte!",
+        "¡Sí, para poder atenderte!"
+      ]
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Gracias... muchísimo..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Si no te importa ayudarme cada vez que algo pase,\npodríamos resolver las cosas de alguna manera, y\ntal vez..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, me devano los sesos para encontrar\nuna solución y finalmente se me ocurre un plan de\ntratamiento integral para cuidar a Manhattan Cafe\ny ponerla en forma. Sin embargo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Este no es un asunto de que su cuerpo sea débil.\nEl nivel de debilidad, y la anormalidad de todo...\nse siente casi sobrenatural."
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de un día fuera, Hishi Akebono y yo\nestamos de regreso a casa cuando..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Hum? ¿Me pregunto qué estará haciendo Nature por\nallí?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Oh, buen momento, Akebono! ¿Y tu entrenador\ntambién está aquí contigo? Hola. ¿Podrían ambos\nprestarme sus oídos un momento?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nice Nature nos entrega un folleto con imágenes de\ntazas de té, platos y ollas de barro, así como el\nlema: \"Crea arte único para ti.\""
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Esto es para... ¿una clase de cerámica gratuita?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Entonces, básicamente, soy amigo de uno de los\ntenderos del distrito comercial, y me pidió que\npasara a observar una de sus clases..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Pero mi agenda está llena ahora mismo, y no puedo\nir. Así que..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Creen que podrían asistir en mi lugar? Si van\nahora, ¡podrán hacer una pieza de cerámica gratis!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Iremos, iremos! ¡No tienes que preguntarnos dos\nveces! ¿Verdad, Entrenador? ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como Hishi Akebono ya respondió por los dos,\nacepto asistir al evento. El día de la clase de\ncerámica gratuita..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Estoy tan emocionada de hacer una pieza de arte\núnica. ¡Jeje! ¡Tendré que tomarle una foto y\nenviársela a mis padres cuando esté lista!",
+      "choice_data_list": [
+        "¿Qué vas a hacer?",
+        "¿Qué vas a hacer?"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Una olla para hacer chanko, por supuesto! Quiero\nhacerla tan grande que se necesiten al menos dos\npersonas para sostenerla!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡¿Qué?! ¡No puedo hacer una olla?!"
+    },
+    {
+      "name": "Instructor de Cerámica",
+      "text": "Bueno, no es que no puedas, pero una olla sería un\npoco demasiado avanzada para que un principiante\nla haga."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Hmm... Tiene sentido. Apuesto a <i>que sería </i>difícil\nhacer algo que se supone que debes poner\ndirectamente sobre el fuego..."
+    },
+    {
+      "name": "Instructor de Cerámica",
+      "text": "Exactamente. ¿Por qué no intentas hacer algo más\nfácil primero?"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Okay! ¡Tendré que hacerlo lo mejor que pueda,\nentonces! ¡Una olla de barro será!"
+    },
+    {
+      "name": "Instructor de Cerámica",
+      "text": "¡¿Qué?! ¡Todavía quieres hacer una olla?!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Sí, por favor! Oh, pero quiero hacer una\nrealmente grande, así que no me importa si me\ncobras por los materiales y la instrucción."
+    },
+    {
+      "name": "Instructor de Cerámica",
+      "text": "Oh, eso no es problema para mí, pero... Hmm...",
+      "choice_data_list": [
+        "Será toda una buena experiencia.",
+        "¿Por qué no intentas después de mejorar tus\nhabilidades?"
+      ]
+    },
+    {
+      "name": "Instructor de Cerámica",
+      "text": "Experiencia... Cierto. Además, es maravilloso\nsimplemente tener a alguien tan entusiasta sobre\ncerámica asistiendo a la clase..."
+    },
+    {
+      "name": "Instructor de Cerámica",
+      "text": "¡Muy bien! ¡Hagamos lo que podamos!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Yaaay! ¡Muchas gracias! Y gracias a ti también,\nEntrenador!"
+    },
+    {
+      "name": "Instructor de Cerámica",
+      "text": "Comencemos primero con el diseño. Adelante y\nesboza el tipo de olla que deseas hacer."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Okay! ¡Ehehe! ¡Allá voy! ☆"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Quiero hacerlo muy grande y suave... Esta parte\ndebería ser <i>así,</i> para que pueda contener muchos\ningredientes, y luego esta parte debería ser..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El diseño que Hishi Akebono crea es más que\nintrincado y probablemente sería difícil incluso\npara un profesional realizarlo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con una expresión seria en su rostro, ella revisa\nsu borrador múltiples veces y continúa ajustando\nsu diseño. Luego, finalmente..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Uf! ¡Allí, terminé! ¡Aquí está el diseño para mi\nolla especial y única! ¿Qué opinas, señor?"
+    },
+    {
+      "name": "Instructor de Cerámica",
+      "text": "¿Estás segura de esto? No me malinterpretes —este\nes un diseño maravilloso— pero se ve\nincreíblemente desafiante de hacer..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Haré lo mejor que pueda, señor!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Quizás arrastrado por el entusiasmo contagioso de\nHishi Akebono, nuestro instructor casi\nreflejemente asiente con aprobación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En última instancia, aunque Hishi Akebono solo\nllega a finalizar su diseño de olla hoy, ella aún\ndisfruta de todo el proceso."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Nnngh... ¡Pero aún quiero hacer una olla para mi\nprimera pieza de cerámica! Nada más servirá."
+    },
+    {
+      "name": "Instructor de Cerámica",
+      "text": "¿Por qué quieres tanto hacer una olla?"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Es que realmente amo cocinar! Es por eso que soy\ntan quisquillosa con la vajilla."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Sé que una olla de cocina no es realmente\n\"vajilla\" como platos y esas cosas, pero una olla\nsigue siendo una herramienta importante para una\nbuena presentación de la comida!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Y esa es la razón por la que quiero hacer mi\npropia olla!"
+    },
+    {
+      "name": "Instructor de Cerámica",
+      "text": "Ya veo... Tiene sentido. Muy bien. Intentemos\nhacer algo bueno, entonces. Ahora, para hacer eso,\ndebemos comenzar con el diseño!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Sí, señor! ¡Haré lo mejor que pueda!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hishi Akebono comienza a trabajar diligentemente\nen su diseño para una olla de barro perfecta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En última instancia, aunque solo llega a finalizar\nsu diseño de olla, ella aún logra hacer algo con\nlo que está satisfecha y orgullosa."
+    }
+  ]
+}

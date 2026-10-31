@@ -1,0 +1,48 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El día del debut de Narita Brian finalmente ha\nllegado."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Hay mucha competencia.",
+      "choice_data_list": [
+        "¿Lo crees?",
+        "¿Lo crees?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Reviso la lista, pero hay un número normal de\ncorredores para una carrera de debut.",
+      "color_text_info_list": [
+        "carrera de debut"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿Esto es <i>normal?</i>"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¡Increíble!",
+      "choice_data_list": [
+        "Pareces un poco feliz.",
+        "Pareces un poco feliz."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Hmph. Cómo me siento ahora no importa\nrealmente."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No sabré nada hasta que corra. Pero este podría\nser el lugar que realmente me llene."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Muy bien, es la hora. Mi debut en la Serie\nTwinkle comienza aquí."
+    }
+  ]
+}

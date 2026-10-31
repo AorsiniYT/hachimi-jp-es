@@ -1,0 +1,308 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Eishin Flash y yo estamos caminando por la\nacademia después de entrenar cuando casualmente\nvemos a una figura sospechosa tambaleándose."
+    },
+    {
+      "name": "Persona Sospechosa",
+      "text": "Ah..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Me pregunto qué le pasa a esa persona. Tal vez no\nse sienta bien."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No, no es eso. Sus movimientos son demasiado\nerráticos para alguien que está enfermo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La figura se balancea de un lado a otro, hombros\ncaídos y brazos colgando inertes mientras camina.\nDe hecho...",
+      "choice_data_list": [
+        "Se ven como un zombi..."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡¿Qué?! Entrenador, por favor no digas cosas tan\nsin sentido."
+    },
+    {
+      "name": "Persona Sospechosa",
+      "text": "Unngh... ¡Cerebros!",
+      "choice_data_list": [
+        "Creo que acaban de decir \"cerebros\"..."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "N-no... Probablemente solo tiene hambre."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "De todos modos, deberíamos ver si está bien. Si no\nse siente bien, puede necesitar ayuda."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Eh... ¿estás bien? Si te sientes mal—"
+    },
+    {
+      "name": "Persona Sospechosa",
+      "text": "Uuungh... NRAAAGH!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡EEEEEK!",
+      "choice_data_list": [
+        "C-corre!",
+        "C-corre!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una mirada a la cara aterradora de la persona\ncuando se abalanza sobre nosotros y no hay\nduda—realmente <i>son</i> un zombi!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "<i>Haa... Haa...</i> ¿Cómo puede ser esto?!",
+      "choice_data_list": [
+        "¡Es un zombi real!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡Pero eso es imposible! Admito que sus movimientos\nimpredecibles se parecen a los de un zombi..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Pero no puedo aceptar que tales fenómenos no\ncientíficos e irracionales existan en este mu—"
+    },
+    {
+      "name": "Zombi",
+      "text": "Graaah!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡EEEEEK!",
+      "choice_data_list": [
+        "¡Corre por tu vida!",
+        "Tenemos que quedarnos y luchar..."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Y-yo... ¡no lo creo! Los zombis no pueden existir\nfísicamente!",
+      "choice_data_list": [
+        "¡Corre!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡S-sí!"
+    },
+    {
+      "name": "Zombi",
+      "text": "¡Uuaaaagh!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...?!",
+      "choice_data_list": [
+        "¿Qué pasa?!",
+        "¿Qué pasa?!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "M-mis piernas n-no se mueven. ¡Y-yo tengo mucho\nmiedo!"
+    },
+    {
+      "name": "Zombi",
+      "text": "Urgh... Urgh! Mragh nngh gaaah!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡Y-yo estoy perdido! ¡Sálvate tú!",
+      "choice_data_list": [
+        "¡Toma mi mano!",
+        "¡Toma mi mano!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡V-vale!"
+    },
+    {
+      "name": "Zombi",
+      "text": "Uraaaaagh! Nnngh hraaah grrr!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Afortunadamente, el zombi es lento, así que logro\nsacar a Eishin Flash de allí y escapar\nlimpiamente."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "<i>Haa... Haa...</i> ¿L-lo logramos... salir con vida?",
+      "choice_data_list": [
+        "Estamos a salvo ahora.",
+        "Estamos a salvo ahora."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "G-gracias... Gracias a Dios..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Eh, d-disculpas... por mi comportamiento anterior\ny... por agarrar tu mano así..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡E-en fin! Gracias por salvarme. Si no hubieras\nactuado tan rápido, no habría podido escapar."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Desde... Desde el fondo de mi corazón, gracias."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Oh. Mejor que regrese al dormitorio. Se está\nhaciendo tarde.",
+      "choice_data_list": [
+        "Te acompañaré de regreso."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Oh, ¡gracias! Ya has hecho tanto por mí..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Para ser honesta, estaba muy asustada anteri—"
+    },
+    {
+      "name": "Zombi(?)",
+      "text": "¡Uf! Hombre, es difícil respirar con estas\nmáscaras de cara completa."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Pero logré aguantar treinta minutos completos! Me\nsiento muchísimo mejor ahora."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Jejeje! Nada te hace apreciar estar vivo más que\nun buen y viejo rutina de zombi!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al descubrir la verdad, Eishin Flash miró a Gold\nShip con frialdad durante tres días, como si\ncongelara el Ártico cada vez que se cruzaban."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "P-por lo que sea, no conozco ninguna contramedida\ncontra un zombi!",
+      "choice_data_list": [
+        "¿Tienes algún amuleto o talismán?!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Amuletos?! Y-sí, ¡los tengo! T-tengo este para la\nseguridad en el transporte!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡Toma esto!"
+    },
+    {
+      "name": "Zombi",
+      "text": "¿Aaagh? Tch, tch."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡N-no funcionó! ¿Q-q-qué hacemos ahora?!",
+      "choice_data_list": [
+        "¡Reza!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "O-ok... Oh, ¡poder superior! ¡Derrota a esta alma\nimpura!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡Arrójalos a los confines más lejanos de... eh, ¡a\ncualquier lugar menos aquí! ¡Por favor! ¡Te lo\nruego!"
+    },
+    {
+      "name": "Zombi",
+      "text": "¡Ja, ja, ja, ja!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Qué...? ¿Por qué está bailando en cuclillas?! ¡No\nsirve! ¡Nuestras oraciones tampoco funcionaron!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Ahora qué? ¿Se perdió toda esperanza?!",
+      "choice_data_list": [
+        "¿Qué tal un hechizo de protección?!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡Un hechizo de protección! ¡Eso es! ¡Estoy segura\nde que funcionará en tal espíritu maligno!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Toi, toi, toi... Toi, toi, toi, toi, toi, toi!"
+    },
+    {
+      "name": "Zombi",
+      "text": "...¡Raaaaagh!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡F-funciona! Toi, toi, toi, toi, toi!",
+      "choice_data_list": [
+        "Toi, toi, toi!"
+      ]
+    },
+    {
+      "name": "Zombi",
+      "text": "¡URAAAAAGH!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡Lo logramos! ¡Derrotamos al zombi!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero en el instante en que el zombi cae al suelo,\nuna máscara de cara completa se desliza de su\ncabeza."
+    },
+    {
+      "name": "Zombi(?)",
+      "text": "Uf, ¡fueron exactamente treinta minutos! Como\ndicen, es mejor quedarse con ganas de un poco más."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Disculpa, Golshi, pero ¿qué exactamente estabas\nhaciendo?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Eh? Estaba haciendo una rutina de zombi para\napreciar estar vivo, obviamente. ¿Quieres decir\nque tú no?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "...Ah, ¡hamburguesas con queso!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Casi es hora de mi rutina de <i>Rickshaw\nDrift:Ruedas de Madera de Furia</i>!",
+      "choice_data_list": [
+        "...Ahí se va.",
+        "...Ahí se va."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "<i>Suspiro...</i> No tengo palabras. Estoy tan aliviada\nde que no fuera un zombi real..."
+    }
+  ]
+}

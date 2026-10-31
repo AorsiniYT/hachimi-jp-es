@@ -1,0 +1,169 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Winning Ticket",
+      "text": "¡Lo hice! ¡Sí! ¡Lo hice, Entrenador!",
+      "choice_data_list": [
+        "¡Lo hiciste genial!",
+        "¡Lo hiciste genial!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "<i>Snif...</i> ¡Waaagh! ¡Gracias muuuucho!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Este es un gran resultado para una carrera G1.\nAugura bien para el Japanese Derby!",
+      "choice_data_list": [
+        "¡Sigamos trabajando duro hacia los Clásicos!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡SÍIII! ¡El próximo año va a ser el mejor año de\ntodos! ¡Lo prometo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El entusiasmo de Winning Ticket es tan contagioso,\nque me siento listo para sugerir un plan para el\npróximo año en el acto, pero justo entonces..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Puedes, como, tal vez calmarte un poco mientras\nestás en el túnel?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡TAISHIIIN! ¡HAYAHIDEEE!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Bien hecho, Ticket. Fue una buena carrera."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Sabes? Cuando hiciste ese último sprint hacia la\nlínea de meta, creo que Taishin realmente dejó de\nrespirar."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡N-no fue así!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Whoa, eres un gran amigo! ¡Esa es AMISTAD de\nverdad! ¡GRACIAS, TAISHIIIN!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Uf, deja de gritar ya!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "De cualquier manera, me alegra que hayas quedado\nbien. El próximo año debe ser interesante."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Sí! ¡Por fin será el Japanese Derby! ¡Intentemos\ntodos con mucho esfuerzo allí!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "De hecho. No te daré la victoria tan fácilmente."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Lo mismo digo."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Muy bieeen! ¡Démoslo todo para el Japanese Derby!\n¡SÍ!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Probablemente corramos una contra la otra antes de\neso."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Eh? ¿¡En serio!?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿Qué hay de la Triple Corona Clásica? ¿Tú también\nla tienes en la mira, verdad?",
+      "color_text_info_list": [
+        "Clásica"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La Triple Corona Clásica—un logro prestigioso que\nrequiere que un corredor gane las tres carreras:\nel Satsuki Sho, el Japanese Derby y el Kikuka Sho.\n¡Es uno de los más altos honores en las carreras!",
+      "color_text_info_list": [
+        "Satsuki Sho",
+        "Kikuka Sho"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡La Triple Corona! C-correcto! En realidad, no\nestaba pensando en nada más que en el Derby..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¿En serio?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esta es la oportunidad perfecta para decirle el\nplan que estaba a punto de sugerir para el próximo\naño.",
+      "choice_data_list": [
+        "Oye, sobre eso..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella ha estado concentrada únicamente en el\nJapanese Derby, pero cualquier corredora digna del\nDerby merece probarse a sí misma en el Satsuki Sho\ntambién."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La ayudará a acostumbrarse a correr en las grandes\ncarreras Clásicas también, así que el Satsuki Sho\ndefinitivamente debe estar en nuestra agenda."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En ese caso, nuestro primer paso debería ser uno\nde los preliminares que conducen a esa carrera...",
+      "choice_data_list": [
+        "¿Qué tal si participamos en el Yayoi Sho?",
+        "¿Qué tal si participamos en el Yayoi Sho?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡El Sho de Yayoi...!",
+      "color_text_info_list": [
+        "Sho de Yayoi"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras Winning Ticket susurra esas palabras,\nNarita Taishin se tensa visiblemente."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Entonces allí será donde nos enfrentemos."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Eh? ¿¡Tú también participas!?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No te daré tregua, ¿entendido?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "No me importa contra quién sea—terminaré en primer\nlugar."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Whoooa! ¡Lo dijiste! ¡Ahora estoy totalmente\nencendida! ¡VAMOS, YAYOI SHO!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así que con eso resuelto, comenzamos a practicar\nen serio para nuestro próximo objetivo!"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tamamo Cross",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tamamo Cross y yo vamos a ver una película de\nfantasía de moda, pero después de salir del cine,\nno puedo evitar sentir que se está comportando un\npoco... extraño."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Oh! Si no son Tamtam y su entrenador. ¡Qué gusto\nverlos por aquí!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Viste <i>Blue the Magician and the Secret Isle</i>? ¡Es\nincreíble, ¿verdad?!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "S-sí, ¡lo fue! Pero ¿qué probabilidades hay de\nencontrarnos con ustedes dos!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Esa película tenía tantas criaturas lindas y\ncreativas! ¡Verlas a todas fue una delicia!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Uno de ellos tenía una flor creciendo de su\ncabeza. Me pregunto si tendrán que regar esa flor\ncada mañana."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "S-sí, yo, uh, apuesto a que sí... Ver esa película\nfue como visitar un zoológico de criaturas\nmágicas. Fue muy divertido. Ja... ja..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Voy a ir, um... ¡Voy a ver las p-plantas en maceta\npor allá!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tamamo Cross se aleja rápidamente. La sigo, y\ncuando la alcanzo..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Uf...",
+      "choice_data_list": [
+        "¿Te sientes bien?",
+        "¿Te sientes bien?"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Oh, Entrenador! Sí, estoy muy bien... ¿Por qué?",
+      "choice_data_list": [
+        "¿Estás segura?"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "...Ugh. Bueno, quizás \"<i>muy</i> bueno\" es exagerado."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Yo... no puedo manejar nada pegajoso o viscoso. Lo\nmismo con los alimentos viscosos. ¿Natto? Ni\nsiquiera puedo mirarlo.",
+      "choice_data_list": [
+        "¿Pegajoso o viscoso?"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "...Cuando era niña, tenía una copa de pudín que\nestaba guardando para una ocasión especial. Lo\nestaba protegiendo, esperando el momento adecuado,\npero entonces..."
+    },
+    {
+      "name": "Tamamo joven",
+      "text": "¡¿Qué pasó con mi pudín?! ¡Ahora está todo blanco\ny pegajoso!"
+    },
+    {
+      "name": "Tamamo joven",
+      "text": "¿Q-qué hago?! ¡Tengo que comérmelo rápido antes de\nque empeore!"
+    },
+    {
+      "name": "Tamamo joven",
+      "text": "<i>Ñam.</i> ¡Urk?!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "...Como te imaginarás, eso no salió bien.",
+      "choice_data_list": [
+        "Me alegra que hayas sobrevivido a eso..."
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Sí... Así que justo ahora, cuando todas esas\ncriaturas viscosas aparecieron en el clímax..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "No pude manejarlo. Estaba temblando—sentía que el\ngran desorden pegajoso se filtraba de la pantalla\ny entrando en mi cerebro..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Ugh, solo me hice sentir peor.",
+      "choice_data_list": [
+        "¿Qué tal si tomamos un descanso?",
+        "¿Quieres que te lleve a caballito a casa?"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "No, ¡no te preocupes por mí! ¡No vinimos hasta\naquí solo para sentarnos!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Querías comprar algo, ¿verdad? Ni siquiera hemos\nido a las tiendas aún. Además..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tomando de la mano a una reacia Tamamo Cross, la\nllevo al mostrador de información del centro\ncomercial.",
+      "choice_data_list": [
+        "Disculpe, ¿tienen un área de descanso?"
+      ]
+    },
+    {
+      "name": "Empleado",
+      "text": "Sí, tenemos. Les mostraré el camino."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Ugh... Entrenador..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Gracias por esto. A veces... realmente me ayudas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de que la condición de Tamamo Cross\nmejora, las dos vamos a comer unos fideos udon\ncalientes."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿¡Un <i>caballito?!</i> ¡No soy una niña! ¡Vamos!",
+      "choice_data_list": [
+        "Pero te ves un poco mareada..."
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Solo estás siendo un preocupado. Solo tengo que\ndespejar la mente y olvidarme de todas las cosas\npegajosas!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Vamos, cerebro, olvida todas las cosas asquerosas\ny pegajosas! Todas las repugnantes... viscosas..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Urp...",
+      "choice_data_list": [
+        "Muy bien, te voy a llevar a caballito, ¿vale?"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Estoy bien!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "...Es lo que <i>quiero</i> decir, pero no voy a\nconvencerte de no hacerlo, ¿verdad?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Perdón por hacerte esto, Entrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras la llevo lentamente a casa, Tamamo Cross\nse duerme. Todo está tranquilo, excepto por sus\nsuaves respiraciones..."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Special Week",
+      "text": "<i>Resoplido... resoplido...</i>"
+    },
+    {
+      "name": "Special Week",
+      "text": "Jeje, supongo que las carreras siempre me van a\nhacer sentir nerviosa. Mi corazón ha estado\nlatiendo fuerte desde esta mañana."
+    },
+    {
+      "name": "Special Week",
+      "text": "Pero si gano, la idea de estar un paso más cerca\nde convertirme en la mejor Umamusume en todo Japón\nme emociona un poco.",
+      "choice_data_list": [
+        "¡Dale todo lo que tienes allá afuera!",
+        "¡Dale todo lo que tienes allá afuera!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Claro que sí! ¡Allá voy!"
+    }
+  ]
+}

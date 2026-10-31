@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras salíamos con Rice Shower..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ah...",
+      "choice_data_list": [
+        "¿Qué es?",
+        "¿Qué es?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "E-em... ¿ves la máquina de garra por allá?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella señala hacia una máquina de garra llena de\npeluches de Umamusume."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Parece que hay peluches de todas mis amigas ahí.\nTengo un poco de curiosidad..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Son tan lindos, jeje."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella está intentando mostrar moderación, pero\ntiene un brillo obvio en su mirada.",
+      "choice_data_list": [
+        "Ganaré uno para ti.",
+        "Ganaré uno para ti."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿En serio? ¿Estás seguro?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Mi mala suerte podría contagiarte... ¡Pero te\nanimaré!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡No puedo permitirme fallar!"
+    }
+  ]
+}

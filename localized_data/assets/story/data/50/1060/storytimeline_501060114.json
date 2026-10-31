@@ -1,0 +1,299 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día, Nice Nature y yo viajamos a Kyushu para\nprepararnos para el Kokura Kinen y echar un\nvistazo a la pista."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "La pista es bastante única. Creo que el ritmo será\nclave para ganar.",
+      "choice_data_list": [
+        "Me alegra que hayamos venido a ver la pista en\npersona.",
+        "Me alegra que hayamos venido a ver la pista en\npersona."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Yo también."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "La verdad, al principio me preguntaba por qué\nhabíamos venido hasta aquí solo para ver la pista."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Pero en realidad aprendí algo, <i>y</i> yo pude comer\ncomida rica además. Yo diría que eso fue un buen\ndía.",
+      "choice_data_list": [
+        "¿Hay algo más que quieras ver?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Mmm... Ya vimos casi todo."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Y por cierto, ¡no tienes que atenderme tanto!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Sé que principalmente vinimos a ver la pista,\npero..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Este viaje también se supone que debe animarme,\n¿verdad? Sabes... porque después de mi última\ncarrera estuve un poco... decaída."
+    },
+    {
+      "text": "Nice Nature compitió recientemente contra Tokai\nTeio. Lo hizo bien, pero aún se siente decaída por\nfalta de confianza."
+    },
+    {
+      "text": "Así que, como ella dijo, la traje a Kyushu para\ncambiar de aires y levantarle el ánimo. Creo que\nme vio claramente."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Mi buen sentido de la percepción viene de mi mamá,\nsabes.",
+      "choice_data_list": [
+        "Bueno, ¿te sientes mejor?",
+        "Bueno, ¿te sientes mejor?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Más bien no estaba tan mal desde el principio. Te\npreocupas demasiado."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Fue contra Teio. La diferencia en nuestra calidad\nde estrella era demasiado grande desde el\nprincipio!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "De ninguna manera me sentiría TAN mal."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...No olvidaría mi lugar así."
+    },
+    {
+      "text": "Ella dice eso, pero aún percibo un dejo de\nfrustración en sus palabras."
+    },
+    {
+      "text": "¿Qué puede hacerla sentir más segura? ¿Hay algo\nque yo pueda hacer?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Oh, Capitán! ¡Distrito comercial, vamos! Solo\nmira esas señales!"
+    },
+    {
+      "text": "Distrito comercial... Ahora que lo pienso..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Pero aun así... me animan sin importar qué."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Oye, ¿quién haría eso? ¿Animar <i>a mí</i>?!Es gracioso,\nla verdad."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Se preocupan tanto por mí."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Y yo me motivo muchísimo cuando me animan."
+    },
+    {
+      "text": "...¡Eso es!",
+      "choice_data_list": [
+        "¡Vamos a echarle un vistazo!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "E-espera, ¡Entrenador!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "He notado que todos los distritos comerciales\ntienen un ambiente muy similar."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "En cuanto a animación, diría que este es mucho más\nvibrante."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Eh, ¿sueno como algún tipo de experto en distritos\ncomerciales? No es así, de verdad.",
+      "choice_data_list": [
+        "¿No quieres echarle un vistazo?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Bueno, ¡no diría que no a un desvío!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ahora bien, ¡veamos si alguna de estas tiendas\ncumple mis altos estándares!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Guau, mira ese pescado fresco! ¡Las escamas son\ntan brillantes!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Hmph, nada mal. No sabía que pescado así se\npudiera encontrar en un <i>ordinario</i>barrio comercial."
+    },
+    {
+      "name": "Dueño de la pescadería de Kokura",
+      "text": "¡Hola, jovencita! ¡Tienes buen ojo para el\npescado!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Por supuesto que sí! Soy conocida por eso en mi\ntierra."
+    },
+    {
+      "name": "Dueño de la pescadería de Kokura",
+      "text": "¡Qué cosa! Entonces, ¡déjame ponerte a prueba!"
+    },
+    {
+      "name": "Dueño de la pescadería de Kokura",
+      "text": "¿Cuál elegirías? ¿El calamar de la derecha o el de\nla izquierda?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Obviamente, elegiría el de la izquierda! El\nbrillo de los ojos es muy diferente."
+    },
+    {
+      "name": "Dueño de la pescadería de Kokura",
+      "text": "¡Bien, ganaste! ¡No puedo creer que una joven tan\nincreíble haya venido aquí!"
+    },
+    {
+      "name": "Dueño de la pescadería de Kokura",
+      "text": "El calamar es tuyo. ¿Por qué no lo cocinas en el\nrestaurante de atrás?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿En serio? ¡Gracias, graciaaas!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Qué suerte, jeje! ♪ ¡No puedo rechazar una oferta\ntan amable!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Vamos, Entrenador."
+    },
+    {
+      "text": "Después de eso, seguimos visitando tiendas, y Nice\nNature se divierte interactuando con la gente del\ndistrito comercial."
+    },
+    {
+      "text": "Su expresión se suaviza más y más a medida que\npasa el día, y entonces..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Me divertí muchísimo! Todos eran muy francos y\nenergéticos. Así es Kyushu, supongo."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "También eran muy graciosos, ¿no crees? ♪ Hmm, creo\nque quizás adopté un acento falso sin querer de\ntodo esto.",
+      "choice_data_list": [
+        "Parece que te animaron.",
+        "Parece que te animaron."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Sí, lo hicieron."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Hacía mucho que no me reía tanto y la pasaba tan\nbien con gente."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "La verdad es que no he podido visitar a Kimie y\nlas demás últimamente."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...No me sentía capaz de sonreír naturalmente."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Todos están felices por mí, sin importar cómo me\nvaya. Sonríen y me dicen que hice un gran trabajo."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Pero por mi cuenta, me siento tan perdida. No\npuedo evitar preguntarme si realmente di lo mejor\nde mí."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "O sea, con el primer lugar, es fácil decirlo,\n¿verdad? Recibes un trofeo, o en el caso del Tenno\nSho, una placa similar a un escudo.",
+      "color_text_info_list": [
+        "Tenno Sho"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Esos trofeos son prueba de que hiciste tu mejor\nesfuerzo, pero solo los obtienes con el primer\nlugar."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Así que aprecio la aceptación incondicional del\ndistrito comercial hacia mí, pero... no siempre me\nparece suficiente."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Pero ahora... Supongo que estoy entendiendo lo\nmucho que significa para mí escuchar a la gente\ngritar mi nombre."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Ugh, ¡esto es tan frustrante!",
+      "choice_data_list": [
+        "¿Qué es?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Todo va exactamente como lo planeaste."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Confieso... ¡me siento tan renovada!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "No puedo poner excusas sobre mi fatiga\ninterfiriendo con mi rendimiento ahora, ¿verdad?",
+      "choice_data_list": [
+        "En ese caso, vamos a ganar."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Nooo, no puedes decir eso! ¡Es demasiada presión!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Eso realmente me agotó—estoy totalmente agotada.\nSoy un alma sensible, después de todo...",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Solo bromeaba! Jejeje..."
+    },
+    {
+      "text": "Como pensé, la gente que apoya a Nice Nature es lo\nque le da energía."
+    },
+    {
+      "text": "Los eventos de hoy sin duda impulsarán su éxito en\nel Kokura Kinen."
+    }
+  ]
+}

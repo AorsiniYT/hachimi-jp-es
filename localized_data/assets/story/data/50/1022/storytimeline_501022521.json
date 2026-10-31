@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fine Motion",
+      "text": "Ah... Entrenador...",
+      "choice_data_list": [
+        "Pareces cansada.",
+        "Pareces cansada."
+      ]
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Sí... Uno de mis compañeros de clase me recomendó\nun libro, y era tan interesante..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Planeaba leerlo gradualmente, pero antes de darme\ncuenta, el sol había salido..."
+    },
+    {
+      "name": "Fine Motion",
+      "text": "Trata sobre una Umamusume que reencarna como la\nprincesa de un reino enorme... Me pregunto qué\npasará después..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Fine Motion se pierde como si estuviera en su\npropio mundo."
+    }
+  ]
+}

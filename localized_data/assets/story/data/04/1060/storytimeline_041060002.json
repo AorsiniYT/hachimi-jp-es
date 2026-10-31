@@ -1,0 +1,255 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Desde que oficialmente me convertí en la\nentrenadora de Nice Nature, hemos estado\nentrenando día tras día."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Uf, ¡mis brazos y piernas están temblorosos!\nSupongo que ese es un menú de entrenamiento\npersonalizado para ti—sin contemplaciones."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Definitivamente siento esto en la mañana... Pero\n¿qué sigue? ¿Qué tienes preparado?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En marcado contraste con su habitual actitud\ndistante, Nice Nature es diligente y entusiasta\ncuando se trata de entrenamiento."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Hum? ¿El gato te comió la lengua, Entrenador?",
+      "choice_data_list": [
+        "Solo estaba pensando en qué buena y trabajadora\nestudiante eres."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿¡Eh?! N-no, es que... tengo que hacer lo que\ntengo que hacer, ¿sabes? Por lo que vale, yo<i>soy</i>\nuna estudiante de Tracen."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Vamos, deja las cosas cursis y dime qué tengo que\nhacer después."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de entrenar así por un tiempo, nuestro\nprimer desafío viene en la forma de un partido de\npráctica contra otros estudiantes."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "<i>Haa... Haa...</i> Uf."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Tercero otra vez..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Incluso con mi propia entrenadora personal,\nincluso después de tanto entrenamiento—tercero es\ntodo lo que hay en mí, huh.",
+      "choice_data_list": [
+        "¡Estuviste muy cerca aunque!",
+        "¡Estuviste muy cerca aunque!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Jaja, parece que el tercer lugar es donde\npertenezco, ¿verdad?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Metas como mantenerse invicto o conquistar la\nTwinkle Series—no están hechas para mí.",
+      "choice_data_list": [
+        "Está bien soñar en grande."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "De ninguna manera, ¿qué estás diciendo? Te lo dije\ncuando nos conocimos, ¿recuerdas? No tengo ningún\ntalento digno de mencionar."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Aún así haré todo el entrenamiento, y obviamente\nintentaré lo mejor para ganar las carreras en las\nque me inscribas."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Pero me conozco demasiado bien. Mis talentos como\ncorredora, y mis límites también."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Bien, ¡ya basta de mi parte! Mira, creo que es\nhora de que me vaya—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Gruñido...</i>"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Oh? ¿Fuiste tú, Entrenador?",
+      "choice_data_list": [
+        "M-mi culpa...",
+        "M-mi culpa..."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Jaja, ¡no te preocupes! Un joven en crecimiento\ntiene que comer, después de todo."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Lo tengo—ven conmigo un momento! Hay un gran\nlugar que conozco."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy bastante seguro de que soy mayor que Nature,\npero antes de que pueda soltar una respuesta\ningeniosa, ella agarra mi brazo y me arrastra..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Mmm, ¡huele bien! Oye, viejo, ¿tienes brochetas de\nalbóndigas frescas?"
+    },
+    {
+      "name": "Hombre amigable",
+      "text": "¡Oh, es Natie! Tenemos brochetas de albóndigas,\nsí—¡y también molleja!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Oh, suena genial! Entonces quizás tomaré\nuna—espera, no. ¡No soy solo yo hoy!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Quiero que mi entrenadora pruebe la comida aquí.\n¿Podrías preparar algunas de tus especialidades\npara mí?"
+    },
+    {
+      "name": "Hombre amigable",
+      "text": "No hay problema, ya voy—espera, ¿¡qué?! ¿¡Eres la\nentrenadora de Natie?! ¡No me estás tomando el\npelo, ¿¡verdad?!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ah, maldición..."
+    },
+    {
+      "name": "Hombre amigable",
+      "text": "¡Qué grosero fui! ¡Entrenador, espera justo ahí!\n¡Voy a conseguir la mejor comida que este distrito\ncomercial tiene para ofrecer!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Eh, no tienes que—aaand se fue. Maldición, es\nrápido. ¿Crees que correría mis carreras por mí?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Uy, sabía que esto pasaría, así que intentaba\nevitar decir que eras mi entrenadora. Hombre, eso\nfue un fracaso.",
+      "choice_data_list": [
+        "La gente del distrito comercial realmente te ama.",
+        "La gente del distrito comercial realmente te ama."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Bueno, podrías decirlo... Quiero decir, incluso en\nla Academia Tracen, intento ser la chica con la\nque todos se sienten cómodos hablando, ¿sabes?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "En mi hogar, vivía en un distrito comercial justo\ncomo este. Mi mamá manejaba un bar pequeño allí,\nasí que he estado ayudando desde que era niña."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Por eso, he hablado con mi buena parte de adultos\nen mi tiempo, desde clientes habituales del bar\nhasta otros habitantes del distrito comercial."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Probablemente por eso la gente me dice que actúo\nvieja para mi edad."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Pero también es por lo que pude conocer a tantas\npersonas mayores amigables, así que en resumen,\nestoy bastante agradecida."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Lo que me recuerda, me pregunto cómo estará la\nseñora que manejaba la tienda de dulces en mi\nhogar. Espero que su espalda no le esté molestando\ndemasiado."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ella tiene una cara aterradora, pero en realidad\nes muy agradable. Cuando era pequeña, siempre me\ndaba caramelos sobrantes de la tienda.",
+      "choice_data_list": [
+        "La gente en tu hogar también debe amarte.",
+        "La gente en tu hogar también debe amarte."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Jaja... A pesar de eso, no tengo talentos reales\ndignos de mencionar."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "En realidad... todos solo estaban siendo amables."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Era un poco más rápida que la competencia local,\nasí que me animaron y me vitorearon. Y mira, me\ntrajo hasta aquí."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Deberías haber estado allí el día que me fui de\ncasa. Pusieron banderas y cintas por todo el\ndistrito comercial. Dijeron que era un festival."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Pero ahora... solo mírame—mira lo que hice con\ntodas esas altas expectativas."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Todo lo que puedo obtener son resultados <i>decentes</i>,\ncomo—"
+    },
+    {
+      "name": "Hombre amigable",
+      "text": "¡Entrenador, Entrenador—perdón por la espera!\n¡Come esto y llena tu estómago! ¡Dejamos a Natie\nen tus capaces manos!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Jaja... Lo escuchaste, Entrenador. Mejor come\nantes de que se enfríe, ¿vale?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ah, estás aquí! ¡Heeey, Nature! Uf, ¡por fin te\nencontré!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Hum, Teio? ¿Qué pasa?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Eh? ¿No has visto el programa de carreras? Ya lo\npusieron, ¿sabes? ¡para el Meet!"
+    },
+    {
+      "name": "Hombre amigable",
+      "text": "¡Oh, el legendario Tracen Meet! Montones de gente\nviene a ver cada año. ¡No puedo esperar!"
+    },
+    {
+      "name": "Hombre amigable",
+      "text": "¡Y no te preocupes, Natie, todos nosotros vamos a\nanimarte!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Jaja, lo agradezco. De verdad. Pero wow, no pensé\nque tendrían <i>el programa tan </i>rápido."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Más importante... Teio, ¿viniste todo el camino\naquí solo para decirme eso?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Je-je, te inscribiste en la carrera de césped de\n2000m, ¿verdad? Bueno, yo también lo hice!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Nos pusieron en el mismo grupo! ¡Así que estoy\naquí para declarar la guerra! Nature—¡eres tú\ncontra mí!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿¡Y-yo estoy corriendo... contra <i>¡tú?!</i>"
+    }
+  ]
+}

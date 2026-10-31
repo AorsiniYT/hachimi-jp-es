@@ -1,0 +1,245 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Vodka",
+      "text": "¡Sííí! Lo logré... ¡de verdad lo logré!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vodka tuvo una buena carrera en el G1 juvenil,\nsuperando ese obstáculo extremadamente alto con\npura fuerza de voluntad!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Este es mi poder! ¡Diablos, sí! <i>Infierno</i> sí!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Je. ¡Eso fue pan comido! Más les vale a todos\nrecordar el nombre \"¡Vodka!\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "Saluda a la multitud y se va con estilo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con esta carrera definitiva ahora terminada,\ndecido organizar una pequeña fiesta para celebrar\neste último año. Sin embargo..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Hombre, lo sabía... Hoy me siento un poco\naturdido, Entrenador."
+    },
+    {
+      "name": "Vodka",
+      "text": "S-solo un poquito, ¡pero! En un momento estaré de\nvuelta a la normalidad.",
+      "choice_data_list": [
+        "No quiero que te esfuerces demasiado."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Urgh... Deja de ser tan amable. ¿Cómo se supone\nque debo responder a eso?"
+    },
+    {
+      "name": "Vodka",
+      "text": "Estoy realmente agotada después de esa última\ncarrera. Logré mantener la fachada dura, pero..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Correr y verse genial en la Twinkle Series es\nagotador de verdad.",
+      "choice_data_list": [
+        "Pero vale la pena, ¿verdad?",
+        "Pero vale la pena, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Je. Más de lo que te imaginas."
+    },
+    {
+      "name": "Vodka",
+      "text": "Además, es algo en lo que puse la mira yo misma.\nTengo que verlo hasta el final."
+    },
+    {
+      "name": "Vodka",
+      "text": "Pasaron muchas cosas en mi primer año, pero pude\nhacerlo en mi mejor momento... gracias a ti."
+    },
+    {
+      "name": "Vodka",
+      "text": "Afortunadamente, solo éramos un puñado corriendo\nen el G1 juvenil."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mirando atrás, puedo decir que fue la forma\nperfecta de empezar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, cuando le digo que necesitamos elegir una\nnueva meta de carrera..."
+    },
+    {
+      "name": "Vodka",
+      "text": "<i>Hurp...</i> Ay, casi se me escapa. Vamos, Entrenador,\nestoy demasiado llena para estar hablando de lo\nque sigue."
+    },
+    {
+      "name": "Vodka",
+      "text": "Pero, si tenemos que... Lo primero que se me\nocurre para la meta del próximo año es...",
+      "choice_data_list": [
+        "¿El Derby?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Claro, pero déjalo para después. Esa es mi gran\nmeta. Primero...",
+      "choice_data_list": [
+        "¿El Satsuki Sho?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hay dos giras en los Clásicos: la gira de la\nTriple Corona y la gira de la Tiara.",
+      "color_text_info_list": [
+        "Clásicos"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Derby es la segunda carrera en la Triple\nCorona. Antes de eso, es normal correr en el\nSatsuki Sho, pero...",
+      "color_text_info_list": [
+        "Satsuki Sho"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Sé que tengo que hacer el Satsuki Sho. Pero antes\nde eso, quiero probar algo un poco más fácil para\nlos pies."
+    },
+    {
+      "name": "Vodka",
+      "text": "Así que elige algo que pueda ser un buen peldaño\npara mí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una buena forma de prepararse para el Satsuki Sho\nsería correr en carreras como el Yayoi Sho o el\nSpring Stakes.",
+      "color_text_info_list": [
+        "Yayoi Sho",
+        "Spring Stakes"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy considerando cuál sería el mejor, cuando—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Bam!</i>"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡El Tulip Sho!",
+      "color_text_info_list": [
+        "Tulip Sho"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Alguien entra de la nada con una sugerencia\ncompletamente inesperada."
+    },
+    {
+      "name": "Vodka",
+      "text": "Déjame en paz. Como si ya no estuviera lo\nsuficientemente cansada, ahora tengo que lidiar\ncontigo?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Te vi correr, Vodka."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "No es que te estuviera vigilando ni nada. Solo\npasó que lo vi."
+    },
+    {
+      "name": "Vodka",
+      "text": "...¿Esa distinción realmente importa?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Considerando que es <i>ti</i> de quien hablamos,supongo\nque al menos fue decente para tu primer G1. Sin\nembargo..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Voy a mostrarte cómo se hace realmente en la\npreliminar de los Clásicos... ¡el Tulip Sho!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿De verdad crees que puedes humillarme?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Así es. Después de todo, eso fue solo una suerte.\nLa desesperación es lo que te dio un resultado\nmedio decente."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Pero yo soy diferente a ti. Te mostraré cómo se ve\ncorrer con <i>verdadera</i> habilidad!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Nos vemos allí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet se va rápidamente como si montara\nuna tormenta pasajera. Mi mejor suposición es que\nestá secretamente celosa de lo bien que corrió\nVodka."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vuelvo al tema y le pregunto a Vodka si prefiere\nel Yayoi Sho o el Spring Stakes.",
+      "color_text_info_list": [
+        "Spring Stakes"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Voy a correr el Tulip Sho!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Oh no. Ahora Vodka también está hablando\ntonterías."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Sí, sí! ¡Esto es bueno! Si realmente cree que\npuede superarme, entonces tengo que verlo en\npersona!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Todavía no he terminado! ¡El próximo año correré\naún mejor!",
+      "choice_data_list": [
+        "¿Estás segura de que quieres correr el Tulip Sho?",
+        "¿Estás segura de que quieres correr el Tulip Sho?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Por qué? Si corro en eso, ¿significa que no puedo\nhacer el Derby o algo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No necesariamente. Sin embargo, el Tulip Sho es la\nprimera carrera en la gira de la Tiara y la\ncarrera clasificatoria para el Oka Sho.",
+      "color_text_info_list": [
+        "Oka Sho"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Explico que es una agenda irregular."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Eh? Solo porque no sea normal no significa que\nsea un problema. De ninguna manera voy a\nretroceder ante el desafío de Scarlet."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Entonces está decidido! ¡Voy por ti, Tulip!"
+    },
+    {
+      "name": "Vodka",
+      "text": "De todos modos, no me importa seguir las normas.\nNo se trata de dónde corro, se trata de <i>cómo</i>\ncorro!"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al percibir algo extraño, abro los ojos y me\nencuentro en la cama de una habitación de hospital\ndesconocida. ¿Pasó algo—",
+      "choice_data_list": [
+        "¡Ay! ¡Mi espalda!"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Oh, Entrenador! ¡No te levantes tan rápido!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Te lastimaste la espalda de verdad. ¿Lo recuerdas?\nÍbamos camino al aeropuerto, cuando..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Gracias por venir conmigo, Entrenador! Este es un\ntren directo, ¡así que llegaremos en un santiamén!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "El próximo vuelo de mi papá es esta noche, así que\nno tendremos mucho tiempo, pero..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Solo podemos vernos unas pocas veces al año, así\nque tenemos montones de cosas de que hablar!",
+      "choice_data_list": [
+        "Entonces, quizás sería mejor que los dejara a\nsolas—"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡No seas tonto! ¡Quiero presentártelo! Además,\ndijo que sería peligroso que fuera sola—"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Oh! ¿Podrías acercarte un poco? Hay una señora\ntratando de pasar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hay una mujer mayor con una maleta parada detrás\nde mí. Me apresuro a apartarme para que pueda\npasar."
+    },
+    {
+      "name": "Mujer mayor",
+      "text": "Gracias. Tenía problemas para agarrarme del\nasidero con esta maleta grande...",
+      "choice_data_list": [
+        "Puedo ponerla en el portaequipajes por ti."
+      ]
+    },
+    {
+      "name": "Mujer mayor",
+      "text": "Oh, qué amable. Pero es demasiado pesada, así que\nno—",
+      "choice_data_list": [
+        "¡No te preocupes! ¡Yo me encargo!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Crac!</i>"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "...¿Eh? Entrenador, ¿fuiste tú?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿E-Entrenador?!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Perdiste el conocimiento por el dolor, así que\nllamamos una ambulancia.",
+      "choice_data_list": [
+        "Pero tu papá..."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡No fui a verlo! No podía dejarte solo...",
+      "choice_data_list": [
+        "¡Estoy bien! ¡Tú ve al aeropuerto!",
+        "¡Estoy bien! ¡Tú ve al aeropuerto!"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Está bien! Ya le pedí disculpas."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Me voy a quedar aquí hoy y cuidarte hasta que\nrecuperes la salud!",
+      "choice_data_list": [
+        "Lo siento...",
+        "Lo siento..."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Oye! ¡Dije que está bien! Ahora túmbate y déjame\nhacer lo mío!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "He estado estudiando cómo ser una mujer adulta de\nverdad, así que seré la enfermera perfecta. ¡Mira\nesto..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "El dolor tiene que volaaa como un águila... ¡Vete!\n☆ El dolor tiene que volaaa como un águila...\n¡Déjame hacer lo que quiera! ☆"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Bueno? Ya no duele, ¿verdad? ¡De nada! Ahora..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Es hora de almorzar! Como no puedes moverte..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Yo te daré de comer! ♪ ¡Di \"ah\"!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Ok! Ahora es hora de descansar. Contaré aviones\ncontigo."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Un F-1... dos F-2... Oh, ¿te he dicho que el avión\nque pilota mi papá es un—"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Ups, me distraje! ¡Tengo que arrullarte para que\nte duermas! ¡Ok, otra vez!",
+      "choice_data_list": [
+        "De verdad creo que deberías ir a ver a tu papá..."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Sabes... Lo admiro mucho y lo quiero mucho,\n¿verdad?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Pero... Quiero que sepas que tú también eres\npreciado para mí."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Necesito que estés sano para que puedas estar a mi\nlado y brillar conmigo."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Déjame ayudarte! Tú siempre me apoyas, así que\nquiero hacer lo mismo por ti."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Me quedaré justo a tu lado. Solo relájate y\ndescansa... Eso es todo lo que pido.",
+      "choice_data_list": [
+        "Muy bien. Estaré de pie antes de que te des\ncuenta.",
+        "Cuento contigo.",
+        "Cuento contigo."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Me quedaré justo a tu lado. Solo relájate y\ndescansa... Eso es todo lo que pido.",
+      "choice_data_list": [
+        "Muy bien. Estaré de pie antes de que te des\ncuenta.",
+        "Cuento contigo.",
+        "Cuento contigo."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Sí! ¡Más te vale!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Estaba realmente preocupada por ti. De repente te\ncaíste y parecías tener tanto dolor... Yo estaba\ntan asustada.",
+      "choice_data_list": [
+        "Mayano..."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "<i>Snif...</i> No se te permite desmayarte de repente así\notra vez. Si eso llega a pasar..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Más te vale que sea porque he hecho que tu\ncorazón late tan fuerte que tienes un ataque\ncardíaco!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Solo bromeaba! Ehehe..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gracias a los cuidados dedicados de Mayano, el\ndolor en mi espalda se va, y me dan de alta del\nhospital."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Jeje! ¡Déjame el resto de tu recuperación! ¡Te\npondré en perfecto estado!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Oh, lo olvidé por completo! Hablé con mi papá por\nteléfono antes. Dijo que quiere conocerte la\npróxima vez que tengamos la oportunidad."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Sonó súper serio! ¡Me sorprendió! Él solo me\nhabla muy suavemente.",
+      "choice_data_list": [
+        "E-entiendo."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Así que tienes que curarte por completo, ¿vale?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ya me siento nerviosa pensando cómo debo actuar\nfrente a él... Aún así, me tomo el tiempo para\nrecuperarme y me dan de alta sin incidentes."
+    }
+  ]
+}

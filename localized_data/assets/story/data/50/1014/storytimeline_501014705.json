@@ -1,0 +1,214 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El Condor Pasa y yo volvíamos después de un día\nfuera, cuando..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Ya está oscuro. Supongo que hoy nos lo tomamos un\npoco <i>demasiado</i> tranquilo."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Mañana también tenemos un día madrugador,\nEntrenador. Vamos a casa en cuanto lleguemos a—"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Rayos!",
+      "choice_data_list": [
+        "¿Qué pasa?!",
+        "¿Qué pasa?!"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Se me olvidó por completo que tengo tarea para\nmañana!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Y para colmo, dejé el material en el aula!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Esta es la tercera vez que olvido la tarea!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "El profesor dijo que si olvido otra vez, tendré\nque escribir un reporte extra. ¡Ughhh!",
+      "choice_data_list": [
+        "Vamos a buscar el material ahora mismo."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿En serio?!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Gracias! ¡Graciiias! ¡Vamos a buscarlo ya mismo!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Hm... Las luces están encendidas, pero aún así\nestá oscuro.",
+      "choice_data_list": [
+        "¿Tienes miedo?",
+        "¿Tienes miedo?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "N-n-no way! ¡Tengo mi máscara puesta, así que no\nhay nada que temer!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡No creo en fantasmas ni nada por el estilo! Es\nsolo que..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Anoche vi una película de terror con Grass y\ntodos, y..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Había un viejo noble atacando gente con un hacha\npara vengarse."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Y la historia ocurría en una escuela de noche...\nUgh, ¡me daría igual si fuera solo un fantasma!",
+      "choice_data_list": [
+        "¿Da más miedo si están vivos?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Bueno, ¡no sería gran cosa usar todas mis técnicas\ncontra un fantasma!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Pero no puedo usar todo mi potencial de lucha\ncontra un aficionado!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Así que básicamente, ¡no puedo pelear! Quizás\nestuviera bien si habláramos de una Umamusume\nfuerte."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No entiendo del todo su lógica, pero no pregunto\nmás."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Bueno, no podemos quedarnos aquí parados. ¡Vamos\nal aula!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Ugh... Está tan oscuro..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las luces del pasillo están todas apagadas."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Y-yo soy El Condor Pasa... la corredora más\nfuerte..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡No le temo a nada!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para ser alguien que no le teme a nada, parece\nmirar alrededor bastante frenética."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡La vieja El miedosa se fue!",
+      "choice_data_list": [
+        "¡Eres la más fuerte y la más rápida del mundo!",
+        "¡Cuidado detrás de ti! ¡Tiene un hacha!"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ah! ¡Entrenador!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡E-e-eso es! ¡La más rápida del mundo, con nervios\nde acero y rápida como el rayo!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡El nombre es El Condor Pasaaa!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Nadie puede seguirme el ritmo, sea quien sea!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Si las cosas se ponen feas, definitivamente puedo\nescapar. ¡Incluso si tengo que cargarte,\nEntrenador!",
+      "choice_data_list": [
+        "Qué alivio."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Hehe. Gracias, Entrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece estar llena de motivación ahora. El Condor\nPasa recoge sus papeles y nos vamos sin problemas."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Madre mía! ¿Es el viejo noble?!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡No tengo miedo! ¡Nooo en absoluto! ¡Ni siquiera\nde viejos nobles con hachas!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Soy El, la corredora más fuerte del mundo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Condor Pasa huye a toda velocidad, pero..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Huh?! ¿Dónde estoy? ¡Entrenador?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En su pánico, termina perdiéndose en algún lugar\nde la escuela."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un rato después, encuentra el camino de vuelta..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Estoy tan cansada... de correr... Ya ni siquiera\ntengo miedo..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Por favor, no desaparezcas sin decir nada otra\nvez!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En lugar de recordarle que <i>ella</i> fue quien salió\ncorriendo, consuelo a El Condor Pasa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por el lado positivo, parece que la carrera\nresultó ser un buen entrenamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después, una exhausta El Condor Pasa logra\nterminar su tarea y evita tener que escribir un\nreporte extra."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Seiun Sky revisa la lista de corredores que\nparticiparán en el próximo Mainichi Okan."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Suzuka, ¿eh...?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Silence Suzuka es una fuerza poderosa en el mundo\nde las carreras. Ha acumulado un gran número de\nseguidores con su velocidad irreal, ganándose el\napodo \"La Corredora de Otro Mundo\"."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Hmm, eso podría ser problemático. Una competencia\nde velocidad <i>contra Suzuka </i>no es algo que esperar\ncon ansias.",
+      "choice_data_list": [
+        "Es una rival formidable, eso seguro.",
+        "Es una rival formidable, eso seguro."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Eso es cierto. ¿Puedes imaginarme, como..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "\"¡Guau, he estado esperando esto más que nada. ♪\nMe pregunto quién ganará! ☆\""
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Por favor... No hay forma de que sea tan\ndespreocupado al respecto como todos los demás."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Silence Suzuka y Seiun Sky son tan parecidas como\ndiferentes... Todos han estado emocionados por\nverlas enfrentarse."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Bueno! Supongo que <i>hubo</i> un tiempo en el que\nquería correr contra Suzuka."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Su velocidad sobrenatural contra mi\ninteligencia..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Quizás es hora de descubrir quién saldrá\nvictorioso!"
+    }
+  ]
+}

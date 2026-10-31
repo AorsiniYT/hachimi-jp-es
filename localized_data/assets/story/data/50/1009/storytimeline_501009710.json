@@ -1,0 +1,43 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Daiwa Scarlet",
+      "text": "No soy... la número uno?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "No puedo creer que no lo haya logrado. Nunca\nsuperaré esto...",
+      "choice_data_list": [
+        "¡Lo conseguirás la próxima vez!",
+        "¡En cuanto regresemos, es hora de entrenar!",
+        "¡En cuanto regresemos, es hora de entrenar!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "No puedo creer que no lo haya logrado. Nunca\nsuperaré esto...",
+      "choice_data_list": [
+        "¡Lo conseguirás la próxima vez!",
+        "¡En cuanto regresemos, es hora de entrenar!",
+        "¡En cuanto regresemos, es hora de entrenar!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "No puedo seguir diciéndome, \"Siempre hay una\npróxima vez.\" ¡Quiero ser la número uno en <i>cada</i>\ncarrera!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡No olvidaré la amargura de esta derrota!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Pues claro! Ese era mi plan desde el principio.\nVoy a tomar esta frustración y canalizarla en mi\ncarrera!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Vamos, ya! ¡Podemos regresar a toda carrera!"
+    }
+  ]
+}

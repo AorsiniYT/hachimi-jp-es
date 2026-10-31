@@ -1,0 +1,69 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras voy a la biblioteca a buscar\nalgunos libros útiles..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hmm... ¿Qué haré?",
+      "choice_data_list": [
+        "¿Algo te preocupa?",
+        "¿Algo te preocupa?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Oh! Hola."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "He estado buscando algunos libros para ayudarme a\nprepararme para mis carreras, verás."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sin embargo, solo he podido encontrar uno de\nellos, así que estaba pensando qué hacer.",
+      "choice_data_list": [
+        "¿Qué libros buscabas?",
+        "¿Qué libros buscabas?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Veamos... <i>Los Secretos para Correr,</i> <i>La Esencia de\nla Velocidad,</i> <i>Zancada de Carrera: Un Memorial de\nCarreras,</i> así como..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Grass Wonder continúa enumerando una larga lista\nde otros libros que busca. Será una tarea difícil\nintentar encontrarlos todos.",
+      "choice_data_list": [
+        "Por ahora, ¿por qué no te enfocas en el libro que\nsí lograste encontrar?",
+        "¿Por qué no los buscamos juntos?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ese es un buen punto. Empezaré a leerlo ahora.\nPerder mi tiempo limitado pensando demasiado no me\nhará ningún bien de todos modos."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hmm, ya veo. Sí, ¡esto es bastante útil! ♪"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Estarías dispuesto a ayudar? Entonces aceptaré\nfelizmente tu oferta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Toma muchísimo tiempo, pero logramos encontrar\ntodos los libros que Grass Wonder busca."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Muchas gracias. ¡Fuiste de gran ayuda! ¡Ahora creo\nque mis estudios progresarán maravillosamente! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ayudar a Grass Wonder en su búsqueda de\nconocimiento me ha hecho un poco más familiar con\nla colección de la biblioteca."
+    }
+  ]
+}

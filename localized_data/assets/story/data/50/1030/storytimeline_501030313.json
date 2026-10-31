@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Guau, el público es muy ruidoso. Y todos me\nestán mirando."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hehe, yo también los veo a todos."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Puedo ver cada una de sus sonrisas!",
+      "choice_data_list": [
+        "¡Gran trabajo allí!",
+        "¡Gran trabajo allí!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Snif...</i> Sí. Yo... di lo mejor de mí..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Pero no lo habría logrado sin todos animándome!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Gracias... desde el fondo... de mi corazón!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hoy, Rice Shower dio la actuación de su vida en la\ncarrera definitiva: una hazaña que ha traído una\nsonrisa a todos."
+    }
+  ]
+}

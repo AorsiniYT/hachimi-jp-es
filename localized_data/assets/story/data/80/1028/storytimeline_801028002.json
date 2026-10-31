@@ -1,0 +1,125 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una mañana temprano, me dirijo a la pista de\nentrenamiento por un recado y descubro que\nactualmente está en mantenimiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Clanc, clanc, clanc, clanc, clanc! ¡Sssssss!</i>"
+    },
+    {
+      "name": "Jardinero A",
+      "text": "¡Guau! ¿Se rompió?! ¡La niveladora dejó de\nfuncionar de repente!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿Eh? ¿Todavía están trabajando en la pista? Me\npregunto si pasó algo.",
+      "choice_data_list": [
+        "Parece que algo salió mal.",
+        "Parece que algo salió mal."
+      ]
+    },
+    {
+      "name": "Jardinero A",
+      "text": "¡Perdón por el retraso! Nuestra niveladora falló,\npero ¡vamos a arreglarla!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡No hay problema! ♪ ¡Podemos esperar!"
+    },
+    {
+      "name": "Jardinero B",
+      "text": "¿No sería más rápido llamar a un mecánico?"
+    },
+    {
+      "name": "Jardinero A",
+      "text": "Es la hora pico de la mañana. No hay forma de\nsaber cuándo podrían llegar."
+    },
+    {
+      "name": "Jardinero B",
+      "text": "¡Pero no hay garantía de que podamos arreglar esta\ncosa nosotros mismos!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡No hay que apurarse! ¡Hay mucho tiempo antes de\nque empiecen las clases! ☆"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Solo respira hondo y toma las cosas una a una!"
+    },
+    {
+      "name": "Jardinero B",
+      "text": "Tienes razón. Primero necesitaremos sacar la\nniveladora del camino, luego continuar alisando el\ntierra..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Yo ayudo! ¿Quieres que saque esta cosa de la\npista, verdad?"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¿O sería mejor que te ayude con el nivelado?"
+    },
+    {
+      "name": "Jardinero A",
+      "text": "¡No tienes que hacer nada! Agradecemos el gesto,\npero no podríamos hacer que un estudiante haga\ntodo eso..."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Oye, ¿está bien si les doy una mano, verdad? ¿Qué\ncrees que debería ayudar a hacer?",
+      "choice_data_list": [
+        "¿Puedes mover la niveladora fuera del camino?",
+        "¡Ayuda a nivelar la pista corriendo alrededor!"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Entendido, jefe! ¡Bueno, hora de empujaaaaar!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Haaaaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Colocamos una placa de acero debajo de la\nniveladora para que no estropee el suelo. Luego,\nHishi Akebono la empuja con todas sus fuerzas."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Nnnngh! ¡Es tan pesada! Solo... un poco... más!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Uf! ¡Lo logré!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hishi Akebono empuja la niveladora fuera de la\npista, y los trabajadores logran terminar el\nmantenimiento a tiempo."
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Suena bien! ¡Terminaré antes de que te des\ncuenta! ☆"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Raaaaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hishi Akebono corre por la pista llevando el grada\nque los trabajadores quitaron de la niveladora.\nSus vueltas dejan la tierra detrás de ella bien\nalisada."
+    },
+    {
+      "name": "Jardinero B",
+      "text": "¡Guau! ¡Es tan rápida! Creo que podría ser más\nrápida que la propia niveladora!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Todo está alisado! ☆ ¡Qué alivio! Me alegra que\ntodo se hiciera antes de que llegaran otros\nestudiantes! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras Hishi Akebono corría, los mecánicos\nlograron arreglar la niveladora y devolverla al\ngaraje. Así, el mantenimiento se completó con\nseguridad."
+    }
+  ]
+}

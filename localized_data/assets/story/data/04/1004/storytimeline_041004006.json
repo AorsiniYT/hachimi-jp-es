@@ -1,0 +1,286 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Tengo planes con Maruzensky para mirar tacos\njuntos, pero ella está un poco atrasada..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de no poder contactarla por teléfono,\ndecido ir a su casa."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Uh, ¡voy! ¡Dios mío, otro paquete! ¡Lo siento!\nSolo un min—¡hyaaah?!",
+      "choice_data_list": [
+        "¿Estás bien?",
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Escucho un ruido fuerte seguido de un grito, así\nque instintivamente abro la puerta..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dentro, veo a Maruzensky enterrada bajo una pila\nde cajas."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Lo siento por asustarte de esa manera.",
+      "choice_data_list": [
+        "¿Qué pasó con todas las cajas?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Me encanta comprar en línea, y envían cada cosa en\nuna caja de cartón separada, ¿sabes? No me di\ncuenta de que se habían acumulado tanto."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Así que..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Ugh! ¡No he limpiado en absoluto! ¡Mi habitación\nes un desastre de cajas!",
+      "choice_data_list": [
+        "Supongo que no limpias con frecuencia.",
+        "Supongo que no limpias con frecuencia."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Bueno... no diría que eso."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "<i>Siempre ordeno </i>bastante bien cuando vienen\ninvitados. Hasta limpio todos los rincones."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Pero cuando nadie visita, no puedo encontrar la\nenergía..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Dejé caer mi teléfono entre las cajas esta mañana.\nLuego llegaste mientras todavía estaba tratando de\nencontrarlo."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Dejé caer mi teléfono entre las cajas esta mañana.\nLuego llegaste mientras todavía estaba tratando de\nencontrarlo."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Llego súper tarde, <i>y</i> fuiste testigo del desastre\nen el que vivo. <i>Suspiro...</i> Realmente debería\nintentar limpiar más a menudo.",
+      "choice_data_list": [
+        "Te ayudaré a limpiar."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿¡Qué?! ¿Me ayudarás? ¿Estás seguro?",
+      "choice_data_list": [
+        "Encontrarás la energía si somos los dos, ¿verdad?",
+        "Encontrarás la energía si somos los dos, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...Sí, con tú allí, ¡lo haré todo!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...Sí, con tú allí, ¡lo haré todo!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Gracias. ♪ Aprecio eso, Entrenador."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Gracias. ♪ Aprecio eso, Entrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Regresamos a su casa y pasamos las siguientes\nhoras limpiando la tremenda cantidad de cajas de\ncartón."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Gracias, Entrenador. ¡Mi habitación se ve mucho\nmejor!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Gracias, Entrenador. ¡Mi habitación se ve mucho\nmejor!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "La cena corre por mi cuenta. Elige lo que quieras,\nno seas tímido. ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Incluso prepararé algo desde cero si lo deseas.\nPuede que no lo parezca, pero soy una gran\ncocinera.",
+      "choice_data_list": [
+        "¿Cocinas mucho?",
+        "¿Cocinas mucho?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Um, más o menos como limpio. Simplemente no me\nmolesto cuando es solo yo."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Pero hoy es diferente. Estás aquí, así que estoy\nmuy motivada. Japonesa, francesa, china, lo que\nquieras. ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Pero hoy es diferente. Estás aquí, así que estoy\nmuy motivada. Japonesa, francesa, china, lo que\nquieras. ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Me estoy esforzando al máximo, así que espero que\nhayas traído apetito."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de comprar los ingredientes, Maruzensky\nprepara una deliciosa cena. Prepara y sirve plato\ntras plato con habilidad."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Se ve genial y sabe aún mejor. Incluso un chef\nprofesional estaría impresionado."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Uf, eso estuvo bien. ¿Te gustó, Entrenador?",
+      "choice_data_list": [
+        "Estuvo delicioso."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Uf, eso estuvo bien. ¿Te gustó, Entrenador?",
+      "choice_data_list": [
+        "Estuvo delicioso."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Je, je, me alegra. ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Quería compensar por el día decepcionante que\nresultó ser. Espero que no haya sido demasiado\nproblema."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Quería compensar por el día decepcionante que\nresultó ser. Espero que no haya sido demasiado\nproblema."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Y parece que lo logré, así que es un alivio. Ahora\nsolo queda..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Asegurarme de que no deje que esas cajas se\nacumulen de nuevo."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Aunque eso es más fácil de decir que de hacer,\nrealmente es un dolor. Limpiar es un verdadero\nfastidio."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "No lo odio o algo así, pero no es lo mismo que\ncorrer o bailar, no puedo meterme en ello por mi\ncuenta."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...¡Ah! ¿Qué tal si pasas por aquí de vez en\ncuando para ver cómo estoy? ¿No es una buena idea?",
+      "choice_data_list": [
+        "De acuerdo."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...¡Ah! ¿Qué tal si pasas por aquí de vez en\ncuando para ver cómo estoy? ¿No es una buena idea?",
+      "choice_data_list": [
+        "De acuerdo."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿De verdad? ¿Cómo puedo agradecértelo? ...Bueno,\n¿qué tal si te preparo más comida en casa? ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Como vas a venir a disfrutar de mi comida..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Como vas a venir a disfrutar de mi comida..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Me motivaré para mantener mi habitación ordenada,\ny podremos disfrutar comiendo juntos."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh, esto es lo <i>mejor.</i> La motivación, seguro, pero\nla comida sabrá mucho mejor ahora que no como\nsola."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Mis preocupaciones están resueltas, <i>y</i> tengo algo\nque esperar! Gracias, Entrenador. ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Mis preocupaciones están resueltas, <i>y</i> tengo algo\nque esperar! Gracias, Entrenador. ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Bueno, me iré a casa ahora."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Sabes, limpiar y comer juntos..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Estas son cosas increíblemente simples, pero las\nestoy esperando tanto que apenas puedo soportarlo."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Jaja, no debería estar tan feliz necesitando que\nme revises el estado de mi habitación."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...Ah, ¡eso es! ¿Quizás deberías mudarte al lado.\nEntonces no tendrás que viajar todo el camino\nhasta mi lugar. ¿Verdad?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Creo que la habitación de al lado está vacía. Lo\ninvestigaré.",
+      "choice_data_list": [
+        "Eh, creo que eso podría ser un poco demasiado."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Aw, qué lástima. ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Jajaja, eres tan adorable cuando te pones\nnerviosa."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Jajaja, eres tan adorable cuando te pones\nnerviosa."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Bueno, dejando las bromas aparte... Me encantaría\ntenerte aquí en cualquier momento."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Incluso si es todos los días. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras se sube a su coche y se aleja, puedo\ndecir por su sonrisa que me estaba tomando el\npelo."
+    }
+  ]
+}

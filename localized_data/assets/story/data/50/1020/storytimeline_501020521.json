@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mientras iba de camino a la oficina, me topo con\nSeiun Sky."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "<i>Bostezo...</i>"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Hmn... Qué sueño...",
+      "choice_data_list": [
+        "Quizás estás durmiendo demasiado.",
+        "Quizás estás durmiendo demasiado."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Vamos, déjalo ya. Solo he estado un poco\nobsesionado con ver videos de torneos de ajedrez\nhasta tarde en la noche."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Son divertidos y me hacen pensar en qué habría\nhecho yo. Además, puedo aprender nuevas\nestrategias también."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Los partidos son tan intensos. Me encantaría jugar\nen uno algún día."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "<i>Bostezo...</i> Aunque no podría jugar una partida\nahora mismo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Seiun Sky sueña con un duelo de ajedrez, pero\nparece que el hombre de la arena ya la tiene en\njaque mate."
+    }
+  ]
+}

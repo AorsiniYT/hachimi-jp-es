@@ -1,0 +1,56 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Ha llegado algo de correo de fans para Air Groove.\nIntento dárselo antes de nuestra reunión, pero..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Déjelo allí, por favor."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Bueno, sobre la agenda de hoy...",
+      "choice_data_list": [
+        "¿No estás feliz de recibir correo de fans?",
+        "¿No estás feliz de recibir correo de fans?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Qué tonta. ¿Por qué no estaría feliz?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Pero esa es una razón más para que deba moderar\nmis reacciones."
+    },
+    {
+      "name": "Air Groove",
+      "text": "La gente no desea verme sonreír con\nagradecimiento. Su deseo es verme presidir como la\nEmperatriz."
+    },
+    {
+      "name": "Air Groove",
+      "text": "La mejor forma de corresponder a mis fans es\nmantener ese ideal."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Es por eso que debo mantenerme disciplinada en mi\ndía a día."
+    },
+    {
+      "name": "Air Groove",
+      "text": "...Espero que quienes trabajan conmigo actúen en\nconsecuencia.",
+      "choice_data_list": [
+        "Entendido."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Hmph. Bueno, ¿empezamos la reunión?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Durante el resto del día, siento que Air Groove se\ncomporta de manera aún más refinada de lo\nhabitual."
+    }
+  ]
+}

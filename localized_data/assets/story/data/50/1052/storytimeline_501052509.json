@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Planeé llevar a Haru Urara a un viaje de\nrecolección de zanahorias como recompensa por todo\nsu duro trabajo en las carreras, pero cuando se lo\nmenciono..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Oh... Zanahorias...",
+      "choice_data_list": [
+        "¿Te sientes bien?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Ngh... Sí, solo no me siento... muy... con ganas\nde hacerlo..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Mi cuerpo se siente pesado como una roca...\nGuardemos las zanahorias para otra ocasión."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Probablemente se deba a que corrió demasiadas\ncarreras seguidas. Parece que sería mejor\nreorganizar su calendario de carreras."
+    }
+  ]
+}

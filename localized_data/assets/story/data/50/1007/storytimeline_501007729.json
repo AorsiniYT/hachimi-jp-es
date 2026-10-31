@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gold Ship",
+      "text": "¡Nooo! ¡Esa cayó en un mar de lava!",
+      "choice_data_list": [
+        "¡No sabía que las apuestas eran tan altas!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Viste su cara? Tan estoica, hasta el mismo\nfinal...",
+      "choice_data_list": [
+        "Bueno, es un peluche..."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Jeje... El resto de nosotros, los supervivientes,\nsolo tendremos que aguantar y seguir viviendo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bueno, eso fue decepcionante."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy es el día en que los estudiantes obtienen sus\ntiempos de carrera medidos oficialmente. Todos\nestán rebosantes de emoción, así como de ansiedad."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Jeje! ¡No esperaba menos! ♪"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Lo logré! ¡Superé mi tiempo! ¡Todo gracias a ti,\nEntrenador!"
+    },
+    {
+      "name": "Skilled Trainer A",
+      "text": "¡Sabía que podías lograrlo! ¡Sigue con el\nexcelente trabajo!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...",
+      "choice_data_list": [
+        "Hola. ¿Cómo te fue con tu tiempo?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Jeje! ♪ ¡Escucha y asómbrate! ¡Superé mi mejor\nmarca anterior!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "No es que sea una sorpresa ni nada. Yo<i>soy</i> siempre\nnúmero uno, después de todo!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Espera, eso no es lo que quería decir. Quiero\ndecir...",
+      "choice_data_list": [
+        "Todo ese entrenamiento valió la pena."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Sabes, Entrenador... Q-quiero decir, obviamente,\nsoy perfecta y todo, pero..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Supongo que digo... No fue <i>todo</i> gracias a mí, así\nque...",
+      "choice_data_list": [
+        "(Déjala que encuentre las palabras por sí misma.)"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Gaaaaah! ¡No importa! ¡No es nada!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Solo... ¡sigue con el buen trabajo, ¿eh?! ¡T-tú\nmejor no aflojes!"
+    }
+  ]
+}

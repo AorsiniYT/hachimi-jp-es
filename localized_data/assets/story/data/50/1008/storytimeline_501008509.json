@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Vodka parece estar luchando mucho con el\nentrenamiento de hoy..."
+    },
+    {
+      "name": "Vodka",
+      "text": "<i>Uuugh...</i> ¡Demonios! Mi cuerpo no me responde."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿En serio me estoy agotando por <i>esto?</i> ¡Cómo puedo\nser tan patética?!",
+      "choice_data_list": [
+        "¿Qué tal si tomamos un descanso?",
+        "¿Qué tal si tomamos un descanso?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Qué?! ¿Por qué haría algo tan débil como eso?!\nTodavía tengo más..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Pum!</i>"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Wah?! ¿M-me caí? ¿Qué me pasa?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Parece <i>realmente</i> cansada. Deberíamos\nprobablemente reducir la cantidad de carreras que\nhacemos."
+    }
+  ]
+}

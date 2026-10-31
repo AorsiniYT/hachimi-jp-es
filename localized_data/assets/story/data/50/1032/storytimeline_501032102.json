@@ -1,0 +1,213 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "A partir de este año, Agnes Tachyon y yo estaremos\ncompitiendo en carreras de categoría superior.",
+      "color_text_info_list": [
+        "carreras de categoría superior"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decidimos visitar el santuario el Día de Año Nuevo\npara ofrecer nuestras oraciones."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todavía no le he dicho a Agnes Tachyon que, para\nel próximo año, he planeado una agenda ambiciosa\ncon el objetivo de dominar las carreras G1 de\nmedia distancia y el Gran Premio.",
+      "choice_data_list": [
+        "(¡Quizás de esta manera pueda ayudarla a superar\nsus límites!)"
+      ],
+      "color_text_info_list": [
+        "Gran Premio"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Por qué estabas deseando tan fervientemente?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tenía la intención de discutir esto con ella en\npersona más tarde. Pero como preguntó, revelo los\ndetalles de mi oración."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Je, je, je. ¿Así que ahora vamos a dominar las\ncarreras G1 de media distancia y el Gran Premio?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Eso incluiría el Osaka Hai, el Takarazuka Kinen,\nel Tenno Sho de otoño y el Arima Kinen...",
+      "color_text_info_list": [
+        "Osaka Hai",
+        "Arima Kinen"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Eres un conejillo de indias codicioso. ¿Podrías\nestar poniendo demasiada fe en los dioses?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "O más bien, esta es la primera vez que escucho\nsobre esta agenda de carreras.",
+      "choice_data_list": [
+        "(¿No se negará, verdad?)",
+        "(¿No se negará, verdad?)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me preparo para su respuesta."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Muy bien! ¡No es una mala idea!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agnes Tachyon sonríe con emoción."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Je, je! El Plan A salió bien, así que debemos ir\na la offensiva este año. ¡Para que nuestros\nesfuerzos no sean en vano!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Te aseguro que lo haré con todo lo que tengo a mi\ndisposición. ¡Puedes considerar tu deseo\nrealizado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al escuchar una declaración tan audaz de Agnes\nTachyon, mi mente no puede evitar volver a hace un\naño."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Qué tenemos aquí? \"La Triple Corona Clásica.\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es nuestra meta para este año."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es nuestra meta para este año."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Como he estado diciendo, no puedo garantizar si\nrealmente correré o no."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Comparada con antes, su respuesta ahora es casi\nimpensable.",
+      "choice_data_list": [
+        "Has cambiado.",
+        "Has cambiado."
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Deja de ser tan sentimental. Cientos de miles de\nmillones de nuestras células mueren y renacen a\ndiario; naturalmente, también cambiamos."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...Aunque no es que no entienda lo que quieres\ndecir."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "El año pasado estuvo lleno de giros y vueltas—un\naño para recordar con seguridad.",
+      "choice_data_list": [
+        "Sí... Fue duro.",
+        "Sí... Fue duro."
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Dejemos el pasado atrás. Ahora que hemos terminado\nnuestra visita de Año Nuevo al santuario,\n¿volvemos?",
+      "choice_data_list": [
+        "¿Tienes experimentos que hacer?",
+        "¿Tienes experimentos que hacer?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No, entrenamiento.",
+      "choice_data_list": [
+        "¿¡Qué?!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "No es frecuente que nuestros intereses estén\ncompletamente alineados, así que pensé en\naprovecharlo al máximo."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿No estás de acuerdo?",
+      "choice_data_list": [
+        "Hoy es feriado, deberíamos tomarlo con calma.",
+        "¡Saquemos papeles de la suerte!",
+        "Sí, ¡volvamos y entrenemos!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Tomarlo con calma, dices. Hmm, eso es un poco\ninesperado."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Pero supongo, dormir durante las vacaciones de Año\nNuevo no suena tan mal."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Como es Año Nuevo, ¿qué te parece si intentamos\nencontrar una hamaca en oferta?",
+      "choice_data_list": [
+        "¿Una hamaca?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Oh, ¿no lo sabías? El balanceo de una hamaca está\ndemostrado que tiene un efecto positivo para\nayudar a uno a desestresarse."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más tarde, vamos de compras para hamacas a la\ntienda de bricolaje y rápidamente las ponemos a\nbuen uso."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "<i>Zzz...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "De cualquier manera, este año parece que será\najetreado."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Papeles de la suerte, ¿eh? Inesperado, pero\nintrigante."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Tengo curiosidad por ver cómo las marcas en un\nsimple trozo de papel podrían afectar los cambios\nmentales en mi conejillo de indias."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ah, sí. A través de esto, puedo estudiar hasta qué\npunto pones tu fe en lo divino."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rechazo educadamente su encuesta repentina. De\ncualquier manera, este año parece que será\najetreado."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Ahora sí estamos hablando!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Tenemos mucho que hacer. El año pasado fue uno\najetreado lleno de giros y vueltas."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Este año será uno de grandes avances hacia el\néxito!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con toda la emoción detrás de su sonrisa, no puedo\nevitar asentir de igual manera. ¡Este año parece\nque será ajetreado!"
+    }
+  ]
+}

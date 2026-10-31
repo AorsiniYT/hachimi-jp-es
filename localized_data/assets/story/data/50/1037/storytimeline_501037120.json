@@ -1,0 +1,144 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Tengo que grabar la imagen de Eishin Flash\ncorriendo en mi mente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Silenciosamente empiezo a hacerlo mientras el\ncampamento de verano final comienza, pero..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...",
+      "choice_data_list": [
+        "Tomemos un descanso de diez minutos."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Claro. Tengo una pregunta, sin embargo..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Entrenador, ¿me estás viendo?",
+      "choice_data_list": [
+        "Por supuesto. Soy tu entrenador, ¿no es así?",
+        "Por supuesto. Soy tu entrenador, ¿no es así?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No, no en ese sentido. Hay claramente algo\nmolestándote."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Si algo te preocupa, por favor dímelo como es."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así como así, ella me ha visto completamente."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Deseas grabar la imagen de mí corriendo en tu\nmemoria? ¿Pero por qué?",
+      "choice_data_list": [
+        "Porque me gusta la forma en que corres.",
+        "Porque me gusta la forma en que corres."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La imagen de ella corriendo fue lo que me hizo\nquerer ser su entrenador en primer lugar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le digo cómo verla correr me hizo querer apoyarla."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Pero por qué es eso?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No creo que mi estilo de carrera sea\nparticularmente destacado comparado con el de\ncualquier otro.",
+      "choice_data_list": [
+        "No estoy segura yo mismo.",
+        "No estoy segura yo mismo."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿No sabes la razón?",
+      "choice_data_list": [
+        "Llámalo intuición."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Intuición, ¿eh?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Has llegado lejos solo con un sentimiento sin\nfundamento, ¿no es así?",
+      "choice_data_list": [
+        "Pero mi intuición era correcta."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todo lo que he sentido en este viaje con ella solo\nme ha reafirmado que convertirme en su entrenador\nese día fue mi propia decisión \"correcta\".",
+      "choice_data_list": [
+        "Fuiste brillante en el Osaka Hai y el Spring Tenno\nSho.",
+        "Fuiste brillante en el Osaka Hai y el Spring Tenno\nSho."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No estoy segura de cuán válida es esa declaración,\npero... Estoy segura de que corrí bien en ellas."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Podría haberme desmoronado completamente por mi\ncuenta. Fue gracias a ti que pude ver mi\ncalendario hasta el final.",
+      "choice_data_list": [
+        "Eso no es verdad.",
+        "Eso no es verdad."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...?",
+      "choice_data_list": [
+        "Hemos llegado hasta aquí en el camino correcto\n<i>juntos.</i>"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿No es demasiado pronto para decir tal cosa?\nHablas como si todo estuviera llegando a su fin—"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Ah.",
+      "choice_data_list": [
+        "...Volvamos al entrenamiento."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "...Gracias."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Hacer un calendario es crear un final definitivo\npara algo."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Eso se decide desde el principio. Entonces, ¿por\nqué yo..."
+    }
+  ]
+}

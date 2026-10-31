@@ -1,0 +1,294 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Hoy es el Festival de Fans de Primavera, un evento\nen el que las Uma musume compiten en varias\npruebas para entretener a sus seguidores.",
+      "choice_data_list": [
+        "(¡Sí, Sky no está aquí!)"
+      ]
+    },
+    {
+      "text": "Eso no es nada fuera de lo ordinario, así que\ncalmadamente salgo a revisar los lugares\nhabituales de Seiun Sky, cuando..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "<i>Bostezo...</i>",
+      "choice_data_list": [
+        "(¡Ahí está! ¿Pero quién es ese con ella?)"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Mira lo que tenemos aquí... Sky, esto es un\ncomportamiento inaceptable."
+    },
+    {
+      "text": "King Halo también está aquí. No puedo evitar\nencontrar extraño que una estudiante bien portada\ncomo ella esté en el techo."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Tranquila, nadie puede verme. Además, ¿no estás\ncompitiendo, King?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿No es mucho más inaceptable para una dama proper\ncomo tú hacer novillos?"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡No estoy haciendo novillos! ...Solo estoy tomando\nun descanso."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Tú <i>dices</i> eso, pero te escapaste por completo,\n¿verdad? No te culpo. Ser acosada por reporteros\npreguntando, \"¿Por qué esta decisión insana?\" no\nsuena divertido."
+    },
+    {
+      "name": "King Halo",
+      "text": "...!"
+    },
+    {
+      "text": "King Halo ha estado corriendo en carreras de milla\ny sprint últimamente, y sé que la prensa está\nansiosa por descubrir qué causó su repentino\ncambio de rumbo."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Así que, ¿por qué el cambio de opinión? ¿Qué tal\nuna exclusiva para el Sky Tribune?"
+    },
+    {
+      "name": "King Halo",
+      "text": "..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Eh... ¿Qué pasa con la mirada enojada?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Ya me lo dijiste? ¿O dije algo—"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡No! No tiene nada que ver contigo."
+    },
+    {
+      "name": "King Halo",
+      "text": "Simplemente reconsideré mi camino... el <i>camino </i>que\ndebo seguir."
+    },
+    {
+      "name": "King Halo",
+      "text": "No estoy huyendo de la prensa. No siento\narrepentimiento ni ningún sentido de inferioridad\npor mi decisión."
+    },
+    {
+      "name": "King Halo",
+      "text": "Es solo que... en este momento estoy un poco..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Un poco?"
+    },
+    {
+      "name": "King Halo",
+      "text": "...No es nada. Me voy."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Quédate justo donde estás y observa cómo manejo a\nla prensa a mi manera de primera clase!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Perdón, perdón—bromeo demasiado. No tienes que\nirte."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Veinte minutos."
+    },
+    {
+      "name": "King Halo",
+      "text": "¿Qué?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Tengo que aparecer de todos modos, así que iré a\nser la ídolo de todos durante unos veinte minutos."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Solo mantén tus ojos en mí. Vas a estar mordiendo\ntu pañuelo cuando veas cómo manejo a la multitud."
+    },
+    {
+      "name": "King Halo",
+      "text": "...!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oh, y cuando hayas tenido suficiente, solo diles\nque has tenido suficiente."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Eso es lo que siempre hago."
+    },
+    {
+      "name": "King Halo",
+      "text": "Espera un momento—"
+    },
+    {
+      "name": "King Halo",
+      "text": "...Qué absurdo. No voy a manejar las cosas como lo\nhaces tú."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oh, hey, Entrenador. Haciendo un poco de\nespionaje, veo. Tsk-tsk.",
+      "choice_data_list": [
+        "Ustedes dos se llevan bastante bien.",
+        "Ustedes dos se llevan bastante bien."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "No, no es así. No hay mucho con lo que otras\npersonas puedan ayudarte."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Al final, la única persona en la que puedes\nconfiar... eres tú mismo."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡De todos modos! ¡Tengo que ir a trabajar a la\nmultitud!",
+      "choice_data_list": [
+        "¿Trabajar a la multitud? ¿Tú?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Sí. Hablando de eso, tengo un favor que pedir."
+    },
+    {
+      "text": "Seiun Sky me pide que reúna tantos fans y\nreporteros como pueda. Y luego..."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Seiun Sky! ¿Tienes una estrategia preparada para\nel próximo Tenno Sho de primavera?!"
+    },
+    {
+      "name": "Reportero B",
+      "text": "¡Cuéntanos tu estrategia como exclusiva! ¡Te\nintercambiaremos información sobre algunos lugares\nde pesca ocultos!"
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Eres tan linda, Sei! ♪ ¡Hazte una foto con\nnosotras las chicas!"
+    },
+    {
+      "name": "Fan B",
+      "text": "¡Oye, yo estaba aquí primero! Sei, ¡déjame\nadoptarte!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Whoa, esto es un caos!",
+      "choice_data_list": [
+        "¿Traje demasiada gente?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "No, esto es <i>exactamente</i> lo que pedí. Solo tengo\nque intentar manejarlos a todos."
+    },
+    {
+      "name": "Fans",
+      "text": "¡Seiun Sky! ¡Eres adorable! ¿Puedo acariciarte la\ncabeza?!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "No estoy segura de estar hecha para esto.\nNya-ha-ha..."
+    },
+    {
+      "text": "Sky de alguna manera logra hablar con cada\nadmirador y reportero... pero termina bastante\nagotada."
+    },
+    {
+      "name": "Fans",
+      "text": "¡Eres tan linda, Sei! ♪ ¡Hazte una foto con\nnosotras las chicas!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Hehe. Buen trabajo, Entrenador. ♪ ¡Sabía que\nharías un gran trabajo reuniendo a todos!",
+      "choice_data_list": [
+        "¿Qué estás planeando?",
+        "¿Qué estás planeando?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Solo tendrás que esperar y ver."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Eh, reportero de atrás? ¿Preguntaste sobre mi\nestrategia para el Tenno Sho de primavera, verdad?"
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Sí! ¿¡Vas a decírnoslo en serio?!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Hmm, bueno... Supongo que depende de lo que yo\nobtenga a cambio."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¿Q-quieres compensación?! ¡Pero no tengo—"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Escuchen, admiradores! ¡Es hora de ir a dormir\nuna siesta en el patio!"
+    },
+    {
+      "name": "Fans",
+      "text": "¡Woooo! ¡No puedo esperar a ver tu cara cuando\nduermas! ♪"
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡E-está bien! ¡Está bien! ¡Puedo intercambiar\ninformación contigo!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Sí?"
+    },
+    {
+      "name": "Reportera A",
+      "text": "Se trata del Tenno Sho de primavera de este año...\nSegún cierta fuente, Special Week <i>está... murmur,\nmurmur.</i>"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ya veo... Esa es información jugosa. ♪"
+    },
+    {
+      "name": "Reportera A",
+      "text": "Bueno, entonces, sobre tu estrategia..."
+    },
+    {
+      "name": "Fan B",
+      "text": "¡Sei, ya vamos! Puedes descansar tu cabeza en mi\nregazo."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ah, lo siento por esto, pero ¡tengo que irme!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Después de todo, este es el Festival de\nAdmiradores. Eso significa que mis admiradores\nvienen primero."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¿¡Eh?! ¡Pero yo te di esa información!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oye, no prometí nada. Dije que <i>dependería de lo\nque </i>consiguiera, ¿recuerdas?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Te daré una entrevista exclusiva después de la\ncarrera, así lo compensaremos entonces. ☆"
+    },
+    {
+      "name": "Reportera A",
+      "text": "P-pero eso... Bueno, el Tenno Sho de primavera es\nenorme, así que si ofreces una entrevista\ndespués... eso podría funcionar."
+    },
+    {
+      "text": "Después de alcanzar este milagroso compromiso,\nSeiun Sky logra conseguir algo de tiempo para una\nsiesta disfrazándolo como un evento de\nadmiradores."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy marca la tercera carrera de los Clásicos y la\ndecidora de si Teio puede convertirse en campeona\nde la Triple Corona—el Kikuka Sho."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Uf... ¡Mi corazón está latiendo a mil!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Todos mis admiradores están viéndome. Todos están\nesperando a ver si puedo conseguir la Triple\nCorona."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Uf... Me pregunto si así se sintió Prez.",
+      "choice_data_list": [
+        "Estoy segura de que estaba tan asustada que lloró."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡¿Qué?! Prez nunca tiene miedo y nunca, nunca\nllora!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Seguro que para ella fue pan comido! Como,<i>fiu</i> y\nse acabó!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "...Bien. También tengo que recomponerme."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Voy a ser la Monarca que supera incluso al\nEmperador, después de todo!",
+      "choice_data_list": [
+        "¡Vuelve como campeón de la Triple Corona!",
+        "¡Vuelve como campeón de la Triple Corona!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Sí! ¡Allá voy! La estrella de esta carrera no es\notra que yo, la gran y poderosa Teio!"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy es el día que Special Week y yo acordamos para\nhacer algún entrenamiento fuera de la academia. O,\nbueno, ese era el plan..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Haa... Haa...",
+      "choice_data_list": [
+        "¿Qué pasa? Pareces estar fuera de ti.",
+        "¿Qué pasa? Pareces estar fuera de ti."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Eh? ¿Y-yo? Pero me siento bien"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡T-tenemos que seguir adelante! ¡Vamos a darlo\ntodo hoy"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sospecho que algo está pasando con Special Week,\npero lo dejo por el momento para enfocarme en su\nentrenamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Luego..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Uf! ♪ Otro día, otra gran sesión de\nentrenamiento. Me siento como si pudiera correr\notro rato"
+    },
+    {
+      "name": "Special Week",
+      "text": "Oh, tengo una idea. Entrenador, ¿qué tal si corro\nde regreso? Será como entrenar un poco más"
+    },
+    {
+      "name": "Niño",
+      "text": "¡Mamá! ¡Quiero una croqueta! ¡La <i>quiero</i>!"
+    },
+    {
+      "name": "Madre",
+      "text": "Si comes ahora, no tendrás espacio para la cena.\nVamos a casa, cariño"
+    },
+    {
+      "name": "Special Week",
+      "text": "Ah...",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Eh? Oh, no es nada. Solo me recordó a mi propia\nmamá, eso es todo"
+    },
+    {
+      "name": "Special Week",
+      "text": "Yo también solía molestarla y recibía regañinas\npor ello",
+      "choice_data_list": [
+        "¿La extrañas?",
+        "¿La extrañas?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Por supuesto que sí. Pero... está muy lejos. No\npuedo simplemente ir a verla cuando quiera"
+    },
+    {
+      "name": "Special Week",
+      "text": "Ayer hablamos por teléfono, aunque"
+    },
+    {
+      "name": "Special Week",
+      "text": "Me contó sobre la vaca de nuestro vecino y cómo\ntuvo un nuevo ternero. También habló sobre\nnuestras zanahorias y cómo están creciendo muy\ngrandes"
+    },
+    {
+      "name": "Special Week",
+      "text": "Hablamos mucho, y bien... Me hizo extrañar mi\nhogar, así que le dije que extrañaba su estofado\nde zanahoria"
+    },
+    {
+      "name": "Special Week",
+      "text": "Me preguntó si me sentía mal y si estaba bien. Me\ndijo que no me esforzara demasiado. Sonaba muy\npreocupada"
+    },
+    {
+      "name": "Special Week",
+      "text": "Quiero hacer que Mamá y mi madre estén orgullosas,\npero solo causo preocupación...",
+      "choice_data_list": [
+        "Así que por eso estás fuera de ti hoy",
+        "Así que por eso estás fuera de ti hoy"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Sí... <i>Suspiro...</i> Ojalá estuviera aquí ahora..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Entonces podría decirle en persona que es un poco\nsolitario, pero sigo haciendo mi mejor esfuerzo"
+    },
+    {
+      "name": "Special Week",
+      "text": "Oh... ¡T-tontería mía! No debería hablar de esto\ncontigo. No quiero causarte más problemas de los\nque ya tengo"
+    },
+    {
+      "name": "Special Week",
+      "text": "De todos modos, apresurémonos y regresemos a la\nacademia. Espera, ¿qué es eso!",
+      "choice_data_list": [
+        "¿Qué es qué?",
+        "¿Qué es qué?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Allí... en la librería. Suzuka está en la portada\nde esa revista"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decidimos desviarnos y parar en la librería para\ncomprar una copia de la revista en cuestión"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Guau! ¿No es esta revista super famosa? Incluso\nla he visto en mi hogar en Hokkaido"
+    },
+    {
+      "name": "Special Week",
+      "text": "Suzuka es increíble, ¿no? Siempre está corriendo\nen una carrera u otra"
+    },
+    {
+      "name": "Special Week",
+      "text": "Hm, necesito dejar de estar triste y trabajar lo\nsuficiente para estar en la portada de las\nrevistas",
+      "choice_data_list": [
+        "Eso también le mostraría a tu mamá lo bien que\nestás haciendo",
+        "Eso también le mostraría a tu mamá lo bien que\nestás haciendo"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Eh? ¿Qué sería? Oh, espera, entiendo"
+    },
+    {
+      "name": "Special Week",
+      "text": "Si llego a la portada de una revista, podré\nmostrarle a mi mamá que estoy bien por mi cuenta"
+    },
+    {
+      "name": "Special Week",
+      "text": "Seguro que la haría feliz",
+      "choice_data_list": [
+        "Ese es el espíritu",
+        "Ese es el espíritu"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Sí. Gracias, Entrenador"
+    },
+    {
+      "name": "Special Week",
+      "text": "Puede que no haya vastos pastos aquí para correr,\ny mis campos de zanahorias favoritos pueden\nfaltar, pero..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Voy a intentar con todas mis fuerzas. Haré lo que\nsea para convertirme en la mejor versión de mí\nmisma"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Special Week mira solemnemente al cielo de la\ntarde. Su complexión es de tristeza, pero sus ojos\ncuentan una historia diferente: la chica no es\nnada si no determinada"
+    }
+  ]
+}

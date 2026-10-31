@@ -1,0 +1,90 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Oguri Cap parece estar en dolor durante el\nentrenamiento, así que la llevo a la enfermería."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...\"Tómalo con calma por unos días\", ¿eh? Pensé\nque podría aguantar el dolor, pero mi mala\ndecisión ha vuelto para morderme...",
+      "choice_data_list": [
+        "Así que sabías que estabas lesionada.",
+        "Así que sabías que estabas lesionada."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Lo siento. No quería ocultártelo. Solo pensé\nque podía manejarlo."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "No quería dejar de correr por una lesión menor.",
+      "choice_data_list": [
+        "No nos apresuremos. Tómalo con calma por ahora.",
+        "¡Entonces sana rápido y a correr!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿No estás enojado conmigo?",
+      "choice_data_list": [
+        "No. Entiendo cuánto amas correr."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Gracias... Sí, correr lo significa todo para mí.",
+      "choice_data_list": [
+        "Entonces deberías enfocarte en tu recuperación."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Entendido. Quiero volver a la pista pronto..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siendo precavido, decido darle a Oguri Cap una\núltima tarea para el día: descansar."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Sí, buena idea."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Quiero volver a correr lo antes posible..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Pero espera."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "El médico me dijo que tomara las cosas con calma.\nHmm, ¿a quién se supone que debo hacer caso?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mi intento de animar a Oguri termina\nconfundiéndola y en última instancia prolonga su\ntiempo de recuperación..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Sana rápido? Eso significa que no hay tiempo que\nperder. Bien—sé qué hacer.",
+      "choice_data_list": [
+        "¿Cuál es el plan?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Solo necesito usar el, eh, efecto plabeco... para\nconvencerme de que estoy bien. Alguien que conocí\nen el bosque me lo contó todo una vez."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Me estoy recuperando rápido para correr... Me\nestoy recuperando rápido para correr... Me estoy\nrecuperando rápido, y <i>sí</i> volveré a correr pronto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esta estrategia parece funcionar de maravilla, ya\nque al día siguiente, Oguri Cap aparece en el\nentrenamiento como nueva."
+    }
+  ]
+}

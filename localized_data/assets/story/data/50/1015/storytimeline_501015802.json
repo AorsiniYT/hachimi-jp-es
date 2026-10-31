@@ -1,0 +1,200 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, estoy trabajando en mi escritorio,\ncuando..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡E-e-em! ¡P-p-por favor ayúdenme! Es Opera O...\n¡Hay algo terriblemente mal con ella!",
+      "choice_data_list": [
+        "¿T-terriblemente mal?!"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "<i>Suspiro...</i>"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Urgh... No creo haberla visto nunca sin<i>no</i> sonreír!\n¡Lo que sea que esté pasando, no puede ser bueno!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tiene razón. Incluso desde lejos, es evidente que\nT.M. Opera O está lejos de ser ella misma.",
+      "choice_data_list": [
+        "No puede ser... ¿Podría estar <i>deprimida?</i>"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Bajo la quietud de un cielo invernal diviso\nestrellas brillando sobre el gallardo Señor",
+      "choice_data_list": [
+        "(¿Está recitando algún tipo de poema?)"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "...Mmm."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Q-qué está diciendo? Ahora estoy aún más\nconfundido..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ay! No sirve de nada... Deseo emanar serenidad, y\nsin embargo mi hermosa forma—envuelta en\nultramar—solo me trae alegría!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Así que... Se fue a cambiarse, pero se ve igual de\npreocupada que antes! ¡Ohhh, qué está pasando,\nOpera O?!",
+      "choice_data_list": [
+        "¿Supones que su estado de ánimo tiene algo que ver\ncon ese atuendo?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿¡Qué!? ¡No puede ser!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Hm? Oh, eres tú, Doto. Pensé que escuché tu voz.\n¡Y tienes a mi entrenador cortés contigo!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Eeek! ¡Lo siento mucho! ¡No quería entrometerme!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ja ja ja! ¿Por qué disculparse? ¡Es completamente\nnatural que te sientas atraído por este nuevo\nencanto mío!",
+      "choice_data_list": [
+        "¿Nuevo encanto?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Pues, hablo de este lado hasta ahora invisible de\nmí misma, sacado a la luz por este atuendo hasta\nahora invisible!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Soy radiante como el sol, es verdad. Pero, ¿no soy\ntambién hermosa, y por tanto, rebosante de serena\ny valiente gracia?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Así es! ¡Contemplas el profundo color aguamarina\nde un amanecer mientras adorna el cielo de Año\nNuevo!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿El cielo invernal del día de Año Nuevo? E-e-es\ntan profundo! ¡Así es Opera O!",
+      "choice_data_list": [
+        "Así que eso es lo que está pasando...",
+        "Así que eso es lo que está pasando..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le pregunto si está tratando de buscar un nuevo\nlado de sí misma que se adapte a su nuevo atuendo,\ny ella asiente."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Rápida como siempre! De hecho, estaba buscando\nprecisamente eso..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Y en medio de mi búsqueda, ¿quién aparece sino tú,\nDoto! ¡Esto no es mera casualidad, estoy segura!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Siempre estás envuelta en un aura azul... y creo\nque aprovecharé esta oportunidad para aprender de\ntu valiente y melancólica presencia!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿¡Qué!? ¿Y-yo?! N-no estoy segura de qué puedo\nhacer, ¡pero me alegra poder ayudar!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Supongo que tú también estás dispuesta a ayudar.\nBueno, Entrenador? ¿Por dónde debo empezar?",
+      "choice_data_list": [
+        "Podrías intentar imitar a Doto.",
+        "¿Por qué no observarla de cerca?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Imitación? ¡Ya veo! Puedo encarnar su espíritu\nprimero imitando sus movimientos! ¡Con mis\ntalentos de actriz, esto no tomará nada de tiempo!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "...! Bueno, ¿qué piensas?"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡O-o-oh cielos! Umm, bueno..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Creo que tu expresión melancólica se ve algo\nasí... ¡esto! ¡Ngh! Necesito hacerla más\ndesgarradora, más hermosa..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Más... ¡Más azul!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tras algunas pruebas y errores, T.M. Opera O\nparece haber aprendido algo de cómo Meisho Doto se\ncomporta."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Hm... En ese caso, me gustaría ver a\nDoto—rebosante de gallardía y melancolía—en un\nestado más natural."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Un estado más natural... Así que solo necesito\nactuar normal? E-e-está bien, ¡puedo hacerlo!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Así es! Aprecio tu cooperación. No te preocupes\npor mi presencia—¡te observaré desde las sombras\ncomo un fantasma anónimo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, encuentro a T.M. Opera O\nobservando a Meisho Doto con secreto afectado."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ah... ¡Soy el fantasma del Señor! Aquí estoy, un\nángel de las sombras, para contemplarte\nclandestinamente!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Whaaaaagh! ¡Otra vez?! ¡E-estar siendo observada\nasí me pone nerviosa!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Ugh!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Doto! ¿Estás bien?! Uf, parece que no estás\nherida."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Pero qué inspirador... La forma en que caíste y\ngritaste... ¡Eso fue verdaderamente magnífico! ¡Me\nhas enseñado mucho!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "U-uh... ¡Esto es más de lo que puedo soportar!\n¡Aaah!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Jeje, ¡un esfuerzo inútil! ¡No se puede escapar de\nun espectro!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Meisho Doto se encuentra acechada por\nvarios días..."
+    }
+  ]
+}

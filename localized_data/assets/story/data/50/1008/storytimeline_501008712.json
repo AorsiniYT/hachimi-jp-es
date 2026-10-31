@@ -1,0 +1,52 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Vodka no se presentó al entrenamiento, así que\nestoy buscándola..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Aughhh! ¡Casi lo logro!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Supongo que tomé la curva un poco <i>demasiado</i>\nrápido.Tengo que frenar más la próxima vez.",
+      "choice_data_list": [
+        "Eso estuvo cerca, ¿eh?",
+        "Eso estuvo cerca, ¿eh?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Sí, ha pasado un tiempo desde que jugué un juego\nde motocicletas. Fue divertido, pero quiero darme\nprisa y volver a lo real—"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Entrenador?! ¿Qué estás haciendo aquí?!",
+      "choice_data_list": [
+        "Es hora de entrenar."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Qué?"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Augh!"
+    },
+    {
+      "name": "Vodka",
+      "text": "L-lo siento, Entrenador. Estaba a punto de\nestablecer un nuevo récord y perdí la noción del\ntiempo..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Seré más cuidadosa la próxima vez! ¡Nos vemos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vodka intenta escapar, pero la atrapo en el último\nsegundo y le doy una buena regañina."
+    }
+  ]
+}

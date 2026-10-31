@@ -1,0 +1,310 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Los primeros tres años de la carrera de cada\ncorredora son increíblemente importantes. Durante\nesos años, Rice Shower ha logrado hazañas\nincreíbles."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gente de todas partes ha elogiado sus esfuerzos."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...¿U-una ceremonia de premios?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Así es! Después de todo, ayudaste a que ocurriera\nel Takarazuka Kinen."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Tanta gente en la URA quiere celebrarte realizando\nuna ceremonia en tu honor.",
+      "choice_data_list": [
+        "¡Eso es increíble!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "M-Me alegra escucharlo, pero..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Por todos los medios, por favor, honra la\nceremonia con tu presencia."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "El personal de los hipódromos de Hanshin y Kyoto\ntambién espera verte allí."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Oh... Ellos son los que hicieron todo lo posible\ncuando pedí ayuda.",
+      "choice_data_list": [
+        "Deberías ir a verlos."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Tienes razón. Tengo que agradecerles en persona."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, Rice Shower y yo visitamos el\nhipódromo de Hanshin juntos."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "H-hay tanta gente... Y ni siquiera es un día de\ncarrera..."
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Wow, miren, es Rice! ¡Ooooh, es tan linda!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Rice! ¡Qué gusto verte!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿¡Eh?! ¿¡Qué?!"
+    },
+    {
+      "name": "Personal A",
+      "text": "¡Cuánto tiempo sin verlos, a los dos!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "M-me alegra verlos de nuevo! Pero, um... ¿qué está\npasando?"
+    },
+    {
+      "name": "Personal A",
+      "text": "¿Esto? Bueno, el plan original era solo una\ncelebración con el personal, pero..."
+    },
+    {
+      "name": "Espectador C",
+      "text": "¡Rice! ¡Mira por aquí!"
+    },
+    {
+      "name": "Personal A",
+      "text": "Como puedes ver, había montones de fans que\ntambién querían verte.",
+      "choice_data_list": [
+        "Tiene sentido. Todos te adoran.",
+        "Tiene sentido. Todos te adoran."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿¡Eh?! ¿A-amor?"
+    },
+    {
+      "name": "Personal A",
+      "text": "Sí, exactamente. Así que cambiamos los planes y\nmovimos algunos hilos."
+    },
+    {
+      "name": "Personal A",
+      "text": "Como resultado, la ceremonia de premios ahora está\nabierta al público en general."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ya veo... Entonces toda esta gente... ¿vino a\nverme?"
+    },
+    {
+      "name": "Personal A",
+      "text": "Así es... Por cierto, ¿podemos pedirte que hagas\nlo que no pudiste hacer la última vez?"
+    },
+    {
+      "name": "Personal A",
+      "text": "¿Aquí, frente a toda la gente emocionada por\nverte?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...¡Sí, por supuesto!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Eh, um... Hola a todos."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Soy Ri—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Chiiiiill!</i>"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "J-ja... lo siento. El micrófono está un poco..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Lo siento. Espero no haber lastimado sus oídos."
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡No se preocupen! ¡Estamos bien!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "G-gracias. Ummm, bueno..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Me gustaría agradecer a todos por venir aquí para\nvermeme hoy."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Nunca había visto algo así antes, y... estoy muy\nfeliz."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Tan, tan feliz... <i>Snif...</i>"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡No llores!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "C-claro! Lo siento... No lloraré."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Porque hoy, quiero poder mirarlos a todos a los\nojos mientras les hablo."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Solía estar muy sola. Estaba atrapada\nacurrucada en un lugar oscuro, siempre escondida."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pero... ya no estoy sola."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Es gracias a todos ustedes que puedo pararme aquí."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Me trajeron luz, y me dieron un lugar al que\npertenecer..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Gracias, desde el fondo de mi corazón!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Personal A",
+      "text": "Ahora pasaremos a presentar el certificado de\nnuestro agradecimiento así como el premio. ¡Por\nfavor, dirijan su atención a la pantalla!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Hola a todos! ¡Hola, Rice!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Saludos."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Vamos, Bourbon! ¡No seas tímida!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "He analizado el guión a fondo. Tú eres la única\nque se supone debe hablar."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Está bieeen! ¡No te preocupes por el guión!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡De todos modos, hay montones de fans de Rice aquí\ntambién!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Los datos indican que los planes para una placa\nconmemorativa también están en marcha."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Oye, hey! No arruines la sorpresa, Bourbon!\n¡Shhh! ¡Shhh!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "El tiempo de transmisión ha terminado. De vuelta\ncontigo, Hanshin."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Qué, se acabó el tiempo?! ¡Adiós, Rice!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Jeje. Lo siento... Dije que no lloraría,\npero..."
+    },
+    {
+      "name": "Personal A",
+      "text": "Señorita Rice, ¿hay algo que le gustaría agregar?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Todos... Voy a seguir esforzándome, así que..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Por favor... por favor, sigan apoyándome!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En el autobús de regreso a casa..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>*Bostezo*...</i> Eso fue divertido... No pensé que hoy\nsería tan memorable."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Gracias, Hermano Mayor. Gracias a ti..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Gracias, Hermana Mayor. Gracias a ti..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pude...",
+      "choice_data_list": [
+        "Lo has hecho muy bien, Rice."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Jeje... Sí... <i>Snif...</i>"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Siempre fui tan inútil, pero ahora me he\nconvertido en una rosa azul."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "A diferencia del libro, sé que cosas malas aún\nprobablemente sucederán a veces."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pero el deseo de esta rosa azul es seguir\nfloreciendo y llevar felicidad a todos, por\nsiempre."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Junto a mi persona favorita en todo el mundo."
+    }
+  ]
+}

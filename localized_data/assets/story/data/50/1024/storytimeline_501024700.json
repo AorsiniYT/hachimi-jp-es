@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es la mañana después de un día libre, y veo a\nMayano Top Gun. La llamo por su nombre, pero..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Vaya! ¡Entrenador?!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Detente! ¡Cierra los ojos! ¡No mires para acá!",
+      "choice_data_list": [
+        "¿Q-qué pasa?!",
+        "¿Q-qué pasa?!"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "<i>Urgh...</i> Ayer estaba practicando ponerme maquillaje\ny antes de darme cuenta, el sol ya estaba\narriba..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Mis ojos están tan oscuros que parezco un panda!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Waaah! ¡No estás permitido a verme así!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que no descansó lo suficiente en su día\nlibre..."
+    }
+  ]
+}

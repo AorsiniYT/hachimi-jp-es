@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy es el primer día del campamento de verano.\nComenzaremos una rutina más rigurosa para mejorar\naún más el rendimiento."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Puedo escuchar el sonido de las olas\nestrellándose... El océano está tan cerca."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Fortalecerse en medio de la naturaleza—realmente\nevoca la imagen de un entrenamiento ascético.\nJeje.",
+      "choice_data_list": [
+        "Pareces entusiasta.",
+        "Pareces entusiasta."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Sí, hay mucho que preparar para el Kikuka Sho y,\nantes de eso, el Kobe Shimbun Hai."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ahora, basta de charla ociosa. ¡Comencemos el\nentrenamiento de inmediato!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mejiro McQueen y yo comenzamos entusiastamente\nnuestro entrenamiento de campamento de verano."
+    }
+  ]
+}

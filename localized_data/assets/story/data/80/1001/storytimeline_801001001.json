@@ -1,0 +1,82 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras doblo una esquina..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Oh no, oh no, oh no! ¡C-cuidado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Crac!</i>"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Lo siento mucho! Iba tan apurada que—"
+    },
+    {
+      "name": "Special Week",
+      "text": "Ah, ¡cierto! Perdón, pero hice una promesa, así\nque me voy a—",
+      "choice_data_list": [
+        "¿Una promesa?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Se me olvidó por completo que le prometí correr\ncon mi amiga, así que ahora voy corriendo para\nallá...",
+      "choice_data_list": [
+        "Entonces, probablemente deberías guardar esa\nenergía para la carrera.",
+        "Entonces, probablemente deberías guardar esa\nenergía para la carrera.",
+        "Más te vale darte prisa, entonces."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Se me olvidó por completo que le prometí correr\ncon mi amiga, así que ahora voy corriendo para\nallá...",
+      "choice_data_list": [
+        "Entonces, probablemente deberías guardar esa\nenergía para la carrera.",
+        "Entonces, probablemente deberías guardar esa\nenergía para la carrera.",
+        "Más te vale darte prisa, entonces."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Sí... ¡Es un buen punto!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Si doy todo ahora, no tendré energía cuando sea la\nhora de la carrera real con mi amiga!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Muy bien, solo trotaré lentamente por el pasillo\npara recuperar mis fuerzas!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Gracias por el consejo!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Entendido! Gracias, y perdón por chocar contigo!\n¡Adiós!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Special Week sale corriendo de nuevo en pánico,\nsin embargo..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Uh-oh! ¡Fuera de mi camino!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Crac!</i>"
+    }
+  ]
+}

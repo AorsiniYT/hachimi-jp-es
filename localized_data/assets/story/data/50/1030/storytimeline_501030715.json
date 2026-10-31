@@ -1,0 +1,118 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Rice Shower ha terminado el entrenamiento del día."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Oh, ¿no te vas a casa?",
+      "choice_data_list": [
+        "Tengo que hacer algunos preparativos para el\nentrenamiento de mañana."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Oh, ¿no te vas a casa?",
+      "choice_data_list": [
+        "Tengo que hacer algunos preparativos para el\nentrenamiento de mañana."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Quieres decir que aún estás trabajando... ¿por mi\nculpa?",
+      "choice_data_list": [
+        "Vete a casa y descansa."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Quieres decir que aún estás trabajando... ¿por mi\nculpa?",
+      "choice_data_list": [
+        "Vete a casa y descansa."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Está bien, entiendo. Nos vemos mañana\nentonces..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Está bien, entiendo. Nos vemos mañana\nentonces..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Termino mis preparativos para la sesión de\nentrenamiento de mañana y empiezo a dirigirme a\ncasa. Es cuando veo a Rice Shower corriendo en la\npista."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Haa... Haa...</i> Más, más... ¡Tienes que esforzarte\nmás, Rice!",
+      "choice_data_list": [
+        "¿Estás entrenando por tu cuenta?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Oh... Big Brother. Me encontraste..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Oh... Big Sister. Me encontraste..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ya que trabajas tan duro por mí, yo también tengo\nque seguir esforzándome.",
+      "choice_data_list": [
+        "Entonces, entrenemos juntos por un rato.",
+        "Solo tu preocupación ya es suficiente para mí."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ya que trabajas tan duro por mí, yo también tengo\nque seguir esforzándome.",
+      "choice_data_list": [
+        "Entonces, entrenemos juntos por un rato.",
+        "Solo tu preocupación ya es suficiente para mí."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Está bien... ¡Gracias!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Está bien... ¡Gracias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vigilo a Rice Shower mientras hace su\nentrenamiento adicional."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pero eso no es suficiente... Quiero serte de\nalguna utilidad.",
+      "choice_data_list": [
+        "Bueno, será bastante solitario caminar a casa\nsola..."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pero eso no es suficiente... Quiero serte de\nalguna utilidad.",
+      "choice_data_list": [
+        "Bueno, seguro será solitario caminar a casa\nsolo..."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Oh... Entonces, ¿por qué no voy contigo—¡ah!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Tengo que ir a cambiarme primero, pero si esperas\naquí, ¡volveré en un santiamén!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rice Shower eventualmente regresa, y nos dirigimos\nde vuelta a casa."
+    }
+  ]
+}

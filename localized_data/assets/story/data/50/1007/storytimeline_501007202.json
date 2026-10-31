@@ -1,0 +1,64 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy es el Satsuki Sho, la primera carrera de los\nClásicos."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Maldiciones por doquier! ¡Oh, pobre de mí! ¡Pobre\nde <i>mí!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Y Gold Ship está fuera de sí por alguna razón."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Por qué?! ¿Por qué tiene que ser así?!",
+      "choice_data_list": [
+        "¿Q-qué pasa?!",
+        "¿Q-qué pasa?!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Cómo te atreves a preguntármelo? ¡Hay solo una\nrazón por la que estaría tan angustiada!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡La carrera de hoy es el <i>Satsuki</i> Sho!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Pero no tiene sentido! \"Satsuki\" es \"mayo\"en el\ncalendario japonés antiguo, ¡y ahora es <i>abril</i>!",
+      "choice_data_list": [
+        "Oh... entiendo."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡La osadía! ¡El desprecio! ¿Cómo se atreven a\ndespreciar a abril?!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Alguna vez se detuvieron a considerar los\nsentimientos de abril?!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Te digo, no lo toleraré. ¡Ganaré la carrera de hoy\npor el bien de abril, no importa lo que cueste!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Y cuando lo haga, ¡la renombraré a \"Uzuki Sho\"\npara que coincida con el antiguo calendario\njaponés!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lo cierto es que el Satsuki Sho originalmente se\nllevó a cabo en mayo... pero Gold Ship se marcha\nantes de que pueda explicar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En cualquier caso, ella está muy motivada. ¡Estoy\nsegura de que la carrera de hoy saldrá bien!\nProbablemente."
+    }
+  ]
+}

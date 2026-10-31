@@ -1,0 +1,246 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, me llaman a la oficina de la directora. No\nme dicen por qué, solo que mi presencia es\nnecesaria para \"ayudar a hacer de la URA Finale un\néxito\"."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras entro..."
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "Ah... Entrenador <username>! ¡Justo como pensé!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Emergencia...! Los dos, les ruego, ¡ayúdenme!"
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "¿Eh? P-por favor cálmate, Directora! Primero que\nnada, ¿podrías decirnos qué está pasando?"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Lamentable... Incluso después de hacer ese gran\nanuncio y pedirle a los medios que promocionen la\nURA Finale..."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Desafortunadamente... ¡La URA Finale aún no es\nampliamente conocida entre el público en general!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Así pues! Debemos encontrar alguna forma de\ncomunicar su atractivo y generar emoción!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Debemos tener una carrera llena de fans\nsonrientes! ¡Ese es el escenario en el que todas\nlas Umamusume deben brillar!"
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "Entiendo cómo te sientes, Directora."
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "Me encantaría ayudarte a encontrar una solución...\npero ¿qué podríamos hacer?"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Excelente pregunta! ¡Es por eso que he pedido que\nvengan dos entrenadores excepcionales aquí!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Deseo que participen en un evento dirigido a\npromocionar la URA Finale y a las trabajadoras\nUmamusume que esperan participar en ella..."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡El Festival Conmemorativo de la URA Finale!"
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "E-entiendo... Entonces, ¿en qué consistirá este\nfestival?"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Bueno, esa es la cosa... Estaba tan ocupada\npreparándolo que nuestro calendario de eventos en\nel momento es..."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Inexistente!"
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "¿¡Qué?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para empezar, juntamos nuestras cabezas y\ndiscutimos qué tipo de evento queremos realizar."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Disculpas! Te estoy causando tantos problemas..."
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "Ahaha... Esto fue definitivamente una sorpresa,\npero no voy a rendirme con el evento."
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "Meek tiene puesto su corazón en convertirse en la\nprimera Campeona de la Final."
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "¡No puedo permitir que sus esfuerzos se\ndesperdicien!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como entrenador de otra Umamusume que está\ntrabajando igual de duro, me siento igual.",
+      "choice_data_list": [
+        "¡Yo también ayudo!",
+        "¡Yo también ayudo!"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Gratitud! ¡Gracias, desde el fondo de mi corazón!\n¡Sabía que no me defraudarías!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡A los negocios! ¿Qué crees que debería involucrar\nel evento?"
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "Hmm... Si buscamos atraer asistentes, paneles\nhechos por las Umamusume y mini-conciertos suelen\nser las opciones usuales...",
+      "choice_data_list": [
+        "Pero eso es mucho pedirles...",
+        "Pero eso es mucho pedirles..."
+      ]
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "Lo es. Para mencionar, esto es cuando necesitan\nestar enfocándose en el entrenamiento.",
+      "choice_data_list": [
+        "¿Hay algo que podamos hacer solo nosotros dos?",
+        "¿Hay algo que podamos hacer solo nosotros dos?"
+      ]
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "¿Solo nosotros? Seguro que no..."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Eureka! ¡Tengo una idea!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Queremos transmitir lo duro que nuestras Umamusume\nestán trabajando para clasificar para la URA\nFinale, ¿sí?"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Entonces hay algo que ustedes dos—de hecho, <i>solo</i>\nustedes dos—pueden hacer!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El día del festival..."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Vaya, Entrenador <username> y Entrenadora Kiryuin! ¡Buenos\ndías!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Tranquilos, el evento de hoy va a recibir\ncobertura extensa en Twinkle Monthly."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Aunque, si no les importa preguntar, ¿dónde están\nsus entrenadas? Estaba seguro de que estarían\naquí..."
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "Me temo que hoy solo somos nosotros dos, pero no\nte preocupes. ¡No te decepcionarás!"
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "Hoy, queremos contarles sobre las corredoras que\nestán trabajando duro para ganar un lugar en la\nURA Finale."
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "Como los entrenadores que las observan desde la\nlínea lateral, podemos compartir un lado de la\nhistoria que nadie—ni siquiera nuestras\nentrenadas—puede compartir.",
+      "choice_data_list": [
+        "¡Haremos lo mejor que podamos en su nombre!"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¿Oh? Vaya, eso es..."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Eso es simplemente increíble!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Poner a tus entrenadas trabajadoras primero,\nincluso en este evento... Qué devoción!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "Entiendo... Las Umamusume también necesitan\ndescanso, así que ¡estás trabajando duro en su\nlugar!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "No solo nos están dando un vistazo tentador, nunca\nantes visto, de los esfuerzos manchados de sudor\nde sus vidas diarias..."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Pero está claro que harían cualquier cosa por sus\nentrenadas! ¡No puedo esperar a ver los encuentros\ncon fans, programas de entrevista y\nmini-conciertos que harán en su nombre!",
+      "choice_data_list": [
+        "Espera, ¿qué?"
+      ]
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡No digas más! ¡Haré que nuestros lectores\nentiendan completamente lo profunda que es tu\ndedicación!"
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Lo sé! ¿Por qué no soy el anfitrión? ¡Cuando se\ntrata de calentar a una multitud, soy un\nprofesional!"
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "¿Eh? ¿Qué?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Antes de que nos demos cuenta..."
+    },
+    {
+      "name": "Reporter Otonashi",
+      "text": "¡Espero que estén viendo, todos! A continuación es\nel mini-concierto de nuestras dos entrenadoras! ♪"
+    },
+    {
+      "name": "Entrenadora Kiryuin",
+      "text": "Urgh... ¡Umapyoi! ¡Umapyoi!",
+      "choice_data_list": [
+        "¡U-Umapyoi! ¡Umapyoi!"
+      ]
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Ah ha ha! ¡Buena suerte, entrenadoras!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "Realmente se están poniendo en los zapatos de sus\nUmamusume... ¡Me gusta su espíritu!"
+    },
+    {
+      "name": "Espectador C",
+      "text": "¡La Final URA, eh? ¡Tal vez le eche un vistazo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El evento se desvía un poco del guion, pero\nlogramos correr la voz sobre la Final URA."
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Special Week ha encontrado el éxito tanto en el\nDerby japonés como en la primavera Tenno Sho."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su ascenso está comenzando a hacer olas en toda la\nacademia."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Genial!"
+    },
+    {
+      "name": "Joven Umamusume A",
+      "text": "¿Quién rayos? ¿Spe se ha vuelto aún más rápida?"
+    },
+    {
+      "name": "Joven Umamusume B",
+      "text": "Y hay un montón de corredoras realmente fuertes en\nel mismo año que Spe..."
+    },
+    {
+      "name": "Joven Umamusume B",
+      "text": "Ultimamente, es como si estuviera por encima de\ntodas las demás.",
+      "choice_data_list": [
+        "(Spe... Has llegado realmente lejos!)",
+        "(Spe... Has llegado realmente lejos!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras tanto, sin embargo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Uoooooh!</i>"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Jejeje, ¡yo! ¡Soy! ¡El número uno!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "<i>¡Gasp!</i> Ella es tan rápida, ¿cómo puede estar tan\nadelante de todos los demás?"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¿Es esto lo que puede hacer alguien que ha corrido\nen el extranjero? No hay forma de que podamos\nseguirle el ritmo."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Con un cabello castaño oscuro y una máscara roja,\nes el Pájaro Fantasma.",
+      "color_text_info_list": [
+        "Pájaro Fantasma"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Es el más fuerte del mundo, ¡El Condor Pasa!\nDescendiendo una vez más sobre los terrenos de la\nAcademia Tracen."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Ahora, es hora de empezar la fiesta mientras\napunto a la Copa de Japón. ¡Vamos!",
+      "color_text_info_list": [
+        "Copa de Japón"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Condor Pasa es una Umamusume extremadamente\ntalentosa que ha corrido en carreras\ninternacionales."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras la estoy observando..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Uf..."
+    },
+    {
+      "name": "Umamusume C",
+      "text": "<i>Haa... Haa...</i> No hay forma... Ella ni siquiera\nestá jadeando después de un scrimmage de 1.600\nmetros."
+    },
+    {
+      "name": "Umamusume D",
+      "text": "<i>Haa... Haa...</i> ¡Incluso rompió el récord de la\npista!"
+    },
+    {
+      "name": "Umamusume C",
+      "text": "No es de extrañar que la llamen la Bestia. Es un\nterror allí.",
+      "color_text_info_list": [
+        "Bestia"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Caramba... Jeje, parece que un apodo bastante\ndramático está flotando alrededor."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Grass Wonder, sus habilidades increíbles la han\nconvertido en un nombre familiar desde su año\njunior.",
+      "color_text_info_list": [
+        "junior"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un muro formidable se alza en el camino de Special\nWeek mientras apunta a convertirse en la número\nuno."
+    },
+    {
+      "name": "Special Week",
+      "text": "Uf... Eso es todo por hoy, Entrenador.\nProbablemente debería empezar a relajarme y—"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Hola, Spe. ¿Puedo hablar contigo?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¿El? ¿Qué pasa?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Jejeje, bueno..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Te desafío! ¡A ti!"
+    },
+    {
+      "name": "Special Week",
+      "text": "..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Escuché sobre lo que hiciste en el Derby japonés y\nla primavera Tenno Sho..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Eres tan, <i>tan</i> increíble. ¡Incluso yo me\nimpresioné!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Pero no te dejaré ser la más fuerte."
+    },
+    {
+      "name": "Special Week",
+      "text": "La más fuerte..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Sí, el número uno."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Ambas estamos apuntando a ser la mejor Umamusume\nde Japón."
+    },
+    {
+      "name": "Special Week",
+      "text": "...Eso es cierto."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Es por eso que no puedo dártelo! ¡No<i>lo</i> daré! ¡No\nvoy a perder!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Lo resolveremos en la Copa de Japón."
+    },
+    {
+      "name": "Special Week",
+      "text": "El..."
+    },
+    {
+      "name": "Special Week",
+      "text": "...Entendido. Enfrentémonos en la Copa de Japón."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Special Week acepta el desafío del Pájaro\nFantasma, El Condor Pasa."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Spe... Veo. Así que finalmente vas a correr contra\nEl..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "..."
+    }
+  ]
+}

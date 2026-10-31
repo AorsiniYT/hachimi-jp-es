@@ -1,0 +1,37 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de su día libre, saludo a Winning Ticket\nen la plaza central..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "<i>Bostezo...</i> Oh, hola, Entrenador... buenos días...",
+      "choice_data_list": [
+        "Pareces cansada. ¿Qué hiciste ayer?",
+        "Pareces cansada. ¿Qué hiciste ayer?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Bueno, disfruté mi día libre tanto como pude. Y\ntenía muuuuchas cosas que quería hacer..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Así que hice todas esas cosas en un solo día!\nLeer manga, ver películas, comer comida rica,\nsalir en bicicleta... ¡todo!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Fue tan divertido. Pero luego..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Antes de darme cuenta, ya era mañana otra\nvez...<i>Bostezo...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Ticket disfrutó mucho su día libre...\ntanto que no pegó ojo."
+    }
+  ]
+}

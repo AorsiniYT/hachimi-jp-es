@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "King Halo",
+      "text": "¡Ha llegado el rey!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Ahora es el momento de emocionar a todos en el\npaddock y ofrecer un espectáculo para el público."
+    },
+    {
+      "name": "King Halo",
+      "text": "Jeje, todo en un día de trabajo para una Umamusume\nde primera.",
+      "choice_data_list": [
+        "¡Intentemos quedar en primer lugar!"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Así es!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Dicho esto, ¡habría quedado en primero incluso sin\nintentarlo!"
+    }
+  ]
+}

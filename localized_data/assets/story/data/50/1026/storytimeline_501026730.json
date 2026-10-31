@@ -1,0 +1,34 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mihono Bourbon",
+      "text": "\"Gran botín\" registrado. Un resultado asombroso.\nMuchas gracias, Entrenador.",
+      "choice_data_list": [
+        "Podría haber ganado demasiadas."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "No es un problema. Puedo guardar las muñecas extra\ncomo decoración en mi habitación."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Y además...",
+      "choice_data_list": [
+        "¿Sí?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Cuando miro estas muñecas, detecto una cálida\nsensación en lo profundo de mi pecho."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "En resumen, se podría decir que tienen un efecto\nestabilizador en mi bienestar mental."
+    },
+    {
+      "text": "¡No podría haber salido mejor!"
+    }
+  ]
+}

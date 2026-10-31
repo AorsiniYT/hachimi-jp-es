@@ -1,0 +1,227 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras entrenamos para el Tenno Sho de\notoño..."
+    },
+    {
+      "name": "Fotógrafa",
+      "text": "¡Es Narita Brian! Aunque, algo en su expresión\nparece diferente..."
+    },
+    {
+      "name": "Reportera",
+      "text": "¡Está tan cerca de romper el récord de más\nvictorias en G1! ¡Pensar que una corredora así\nnacería en nuestra generación!"
+    },
+    {
+      "name": "Periodista",
+      "text": "¡Espera un segundo! ¿¡De dónde escuchaste eso?!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Ugh, qué ruidoso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El entrenamiento de hoy está abierto al público,\nasí que las gradas están llenas de tanto fans como\nprensa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La prensa especialmente parece inquieta. Estamos\ncaptando más de sus charlas de lo habitual."
+    },
+    {
+      "name": "Reportera A",
+      "text": "...¿Espera, de verdad?!"
+    },
+    {
+      "name": "Reportero B",
+      "text": "Sí, parece que sí. Cuando escuché eso, no pude\nevitar estar de acuerdo en que Brian lo tiene en\nla bolsa."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿De qué estás hablando?"
+    },
+    {
+      "name": "Prensa",
+      "text": "¡Agh!",
+      "choice_data_list": [
+        "L-lo siento..."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hm... Por lo que entiendo, es sobre el próximo\nTenno Sho de otoño."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Sí, estaré allí."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Oh! ¡Oguri Cap!"
+    },
+    {
+      "name": "Fans de Oguri",
+      "text": "¡Listos, y... Oguriiin!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "V-vamos... Es un poco vergonzoso que me llamen así\nen la escuela..."
+    },
+    {
+      "name": "Reportera C",
+      "text": "¿Q-qué está pasando? ¿Vamos a ver a todos los\ngrandes nombres juntos en el Tenno Sho de otoño?!"
+    },
+    {
+      "name": "Reportero B",
+      "text": "¡Tenemos que preguntarles! Por aquí, ¡Oguri Cap!\n¿Por qué decidiste entrar?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Porque quiero agregar el Tenno Sho de otoño a mi\nlista de logros."
+    },
+    {
+      "name": "Reportera A",
+      "text": "¿Y tú, Narita Brian?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Me dijeron que es una carrera esencial si quiero\nponerme más fuerte."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Eh...? Así que corres en ella por fuerza?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡En ese caso, definitivamente no perderé!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Qué fue lo que dijiste en la ceremonia de premios\nde la URA? Quieres una batalla por la cima,\n¿verdad?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿Y qué?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Uno de mis objetivos es ganar el Tenno Sho de\notoño también."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Como competidora y alguien que también busca\nfuerza, no lo entregaré."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Murmullos...</i>"
+    },
+    {
+      "name": "Reportera A",
+      "text": "¡Parece que Oguri Cap está declarando oficialmente\nuna rivalidad! ¿Esto significa desastre para\nBrian?"
+    },
+    {
+      "name": "Reportero B",
+      "text": "¡Está garantizado que será una carrera intensa!\n¡El Tenno Sho de otoño de este año seguro será\nsalvaje!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...No esperaba estar tan restringida.",
+      "choice_data_list": [
+        "Todos los ojos están en ti ahora."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Así que este es el Tenno Sho de otoño, ¿eh?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Oye, Entrenador. Además de este, ¿cuáles son las\notras carreras en la Triple Corona de Otoño\nSenior?",
+      "choice_data_list": [
+        "Aparte del Tenno Sho de otoño, está..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La Japan Cup y el Arima Kinen—ambas son carreras\nconsiderablemente famosas.",
+      "color_text_info_list": [
+        "Japan Cup"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Muy bien entonces, me gustaría que me inscribieras\nen esas también.",
+      "choice_data_list": [
+        "¿Quieres correr en todas?",
+        "¿Quieres correr en todas?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Sí."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Uno de mis objetivos es ganar el Tenno Sho de\notoño también."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Como competidora y alguien que también busca\nfuerza, no lo entregaré."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Je... A pesar de ser una jugadora tan grande, ella\naún solo se llama competidora."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Entonces quiero responder en consecuencia, no\nimporta lo que me espere allí."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Compensaré las deficiencias de hoy. El resto\ndepende de ti!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dicho esto, Narita Brian empieza a correr."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que ya no puede contenerse. Saco mi\ncronómetro para cronometrarla, cuando..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Oye. ¿Es verdad?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Brian realmente está lista para competir en la\nTriple Corona de Otoño Senior?",
+      "choice_data_list": [
+        "Ese es el plan."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Ya veo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Entonces podría no ser demasiado tarde para hacer\nel final del año...",
+      "choice_data_list": [
+        "¿No demasiado tarde para qué exactamente?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jaja, me refiero a mí mismo. Sinceramente les\ndeseo a ambos la mejor de las suertes."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Y si todo sale bien, será así para todos nosotros."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La Triple Corona de Otoño Senior está programada\npara comenzar con el Tenno Sho de otoño. Pero a la\nvuelta de la esquina, una gran perturbación se\nacerca."
+    }
+  ]
+}

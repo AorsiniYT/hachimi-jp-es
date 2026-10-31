@@ -1,0 +1,169 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡T.M. Opera O cruza la meta! Incluso bajo toda esa\npresión, ¡nunca cedió!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Acabamos de presenciar verdadera majestad aquí en\nYodo esta primavera!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Jeje, jejeje... ¡Jaa ha ha ha!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Me desempeñé de manera impresionante en el Tenno\nSho de primavera. ¡Nadie volverá a subestimarme!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Estaban viendo, predecesores? ¿Y tú, Meisho Doto?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Aquí estoy! ¡El trono del Soberano Centenario es\nmío para tomarlo!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Me viste, Entrenador?",
+      "choice_data_list": [
+        "¡Te vi claramente!"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Bien, no debes perder el ritmo. Te necesito como\nmi historiador para inmortalizar cada uno de mis\nlogros para las masas."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Grabar la totalidad de mi gloriosa forma en esos\nojos tuyos! ¡Jaa ha ha!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Grass, esa carrera suya..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sí. Su intensidad se ha vuelto más feroz que\nnunca."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ngh... Opera O es tan increíble... Da miedo."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Creo que podré cumplir mi promesa y correr en el\nTakarazuka Kinen, pero..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Tengo siquiera una oportunidad? Ohhh..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡No hay nada que temer, Doto!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿¡Yeeep!? ¿Qué estás haciendo aquí?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin la más mínima vacilación, Opera salta sobre la\nbarrera y hacia las gradas."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Soy fuerte. Por lo tanto, no necesitas temer."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Como la estrella que soy, solo trato con\nsentimientos directos como vienen, puros y\nsimples."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Tienes el deseo de correr contra mí, de cruzar\nespadas metafóricamente, ¿no es así?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Entonces acorázate ahora y enfréntame con toda tu\nfuerza en el Takarazuka Kinen."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Opera O... Realmente crees en mí..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Yo... ¡Sí! Aceptaré... ¡tu oferta!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Y ahí lo tienes, Entrenador! ¡Nuestra siguiente\ncarrera será el Takarazuka Kinen!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Aceptaré el desafío de Doto antes de que la\nbatalla contra la generación mayor comience en\nserio. ¡Jaa hah hah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ahora que ha dejado su huella en el Tenno Sho, es\nhora de prepararse para el Takarazuka Kinen."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pensé que todo iba bien, pero..."
+    },
+    {
+      "name": "Uma Musume Hábil A",
+      "text": "Esa T.M. Opera O seguro que hace lo que le da la\ngana."
+    },
+    {
+      "name": "Uma Musume Hábil B",
+      "text": "Sí, pensé que solo tenía suerte al principio...\npero ¿tal vez en realidad es una amenaza?",
+      "choice_data_list": [
+        "...?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "La verdadera batalla comienza ahora.",
+      "choice_data_list": [
+        "Grass Wonder..."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Todos los que no entendieron su fuerza la habían\ndescartado como arrogante hasta ahora."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Nadie puede negarlo más. Ella se ha asegurado de\neso."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Todos la tomarán en serio de aquí en adelante.",
+      "choice_data_list": [
+        "Eso significa que tiene más gente en su contra."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sí, ahora muchos corredores estarán ideando\nestrategias para vencerla."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Incluso podrían trabajar juntos para evitar que\ntermine primera."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Fue lo mismo para Spe, El y para mí."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Encontramos una manera de abrirnos paso y lo\nsuperamos."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "La pregunta ahora es si Opera O puede hacer lo\nmismo. Aquellos que se destacan se convierten en\nun gran objetivo."
+    }
+  ]
+}

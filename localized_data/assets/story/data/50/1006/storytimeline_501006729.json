@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Oguri Cap",
+      "text": "Ahhh... Es más difícil de lo que parece, ¿verdad?",
+      "choice_data_list": [
+        "Lo siento...",
+        "Lo siento..."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "No te preocupes. Estoy segura de que no lo habría\nhecho mejor."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Podía ver por tu expresión que estabas haciendo\ntodo lo posible."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Eso es más que suficiente para mí—con o sin\npeluche."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bueno, eso fue decepcionante."
+    }
+  ]
+}

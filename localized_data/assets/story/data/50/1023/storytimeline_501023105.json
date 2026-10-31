@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El campamento de verano ha llegado una vez más, y\neste año, nos enfocaremos en entrenar para el\npróximo Arima Kinen y el Tenno Sho de otoño."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuando le doy a Biwa Hayahide su horario de\nentrenamiento, ella asiente aprobando."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Esto es increíble. ¿Lograste encontrar toda esta\ninformación sobre el Tenno Sho de otoño?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Incluso incluiste datos sobre el Arima Kinen <i>y</i>\nlos tiempos pronosticados de Brian para el Kikuka\nSho!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Cuánto tiempo le dedicaste a esto? ¡Debió ser\nmucho trabajo!",
+      "choice_data_list": [
+        "¡Hey, lo que sea por ti!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Mmm..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Entonces, con el propósito de solidificar mi\necuación ganadora, acepto graciosamente tu apoyo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Trabajaré duro por el bien de ambas."
+    }
+  ]
+}

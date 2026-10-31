@@ -1,0 +1,162 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es Año Nuevo, y he traído a Winning Ticket para\nnuestra primera visita al santuario del año."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Espero poder dar lo mejor de mí y trabajar hacia\nmis metas con mi entrenador este año!",
+      "choice_data_list": [
+        "(Espero que Ticket siga siendo feliz y saludable\neste año.)"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Vale, la oración está hecha! ¡Voy a darlo todo y\ntener un año increíble!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Oh, cierto! Entrenador, ¿qué deseaste?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Ganar muchas carreras? ¿O ponerte más fuerte?!",
+      "choice_data_list": [
+        "Mmm..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin querer mentirle a Ticket, admito mi verdadero\ndeseo."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Para mí... ser feliz y saludable?!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "<i>Snif...</i> Estoy t-tan... conmovida..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Eso es muy amable... <i>Snif...</i> Hiciste un deseo...\npor míííí..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Voy a ir a rezar otra oración para desear también\npor tu salud!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Antes de que pueda detenerla, ella se une a la\nlarga fila para una segunda ronda de oraciones."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Muy bien! ¡También hice un deseo por tu salud!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Me siento <i>tan</i> emocionada ahora mismo!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Tienes que darme algo de entrenamiento que hacer!\nCorrer un maratón completo, arrastrar un neumático\ndel tamaño de una casa—lo que sea, ¡lo dominaré!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sería una lástima desperdiciar su entusiasmo, así\nque será mejor que se me ocurra una sugerencia...",
+      "choice_data_list": [
+        "¡Vamos a darlo todo relajándonos!",
+        "¡Vamos a darlo todo y sacar una fortuna de Año\nNuevo!",
+        "¡Vamos a darlo todo y aprender una nueva\nhabilidad!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Darlo todo... relajándonos?! Pero ¿cómo? ¿No\nvamos a practicar?",
+      "choice_data_list": [
+        "¡Descansemos hoy y recuperemos completamente\nnuestras fuerzas!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Oh, ya entiendo! ¡Entendido! ¡Voy a tomar una\nsiesta súper buena hoy!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Primero voy a correr de vuelta a mi habitación a\ntoda velocidad!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡WOOOO!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Antes de que pueda llamarla, ella sale corriendo\nhacia la academia..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En cualquier caso, estoy segura de que este va a\nser un año importante para ella."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Darlo todo sacando una fortuna? ¡Ja! ¡Déjalo en\nmis manos!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Gran fortuna, gran fortuna! ¡Vamos, gran fortuna!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y ella termina sacando una..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Whoooaaaah! ¡La tengo! ¡Saqué una \"gran fortuna\"!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En cualquier caso, estoy segura de que este va a\nser un año importante para ella!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Una nueva habilidad? ¡Jaja! ¡Suena genial!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "El único problema es... sabes, eh... ¿aprender?\nSoy... tipo no muy buena en eso."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Espera, no! ¡No puedo decir eso cuando acabo de\ndecidir que voy a esforzarme!",
+      "choice_data_list": [
+        "¡Ese es el espíritu!"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Sí! Vale, entonces primero lo primero..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Tengo que ir a la librería y darlo todo\nencontrando un buen libro de referencia!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Ta-DAAA! Si quiero darlo todo estudiando, será\nmejor que use un libro de texto que sea un poquito\ndifícil!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Veamos... \"Sobre los efectos de los factores\nambientales en las fibras musculares Tipo I y Tipo\nII: un análisis bio... mecánico...\""
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "<i>Bostezo...</i> Qué... sueño..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En cualquier caso, estoy segura de que este va a\nser un año importante para ella!"
+    }
+  ]
+}

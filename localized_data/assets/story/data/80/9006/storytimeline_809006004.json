@@ -1,0 +1,244 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, casualmente paso por la sala de juegos,\ncuando..."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Veo a alguien que no esperaba, absorto en un juego\nde baile. Su expresión es de total concentración\nmientras se mueve... pero su ritmo es pésimo."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "<i>Haa... Haa...</i> No puedo hacerlo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy tan sorprendido que no logro apartar la\nmirada a tiempo. Hacemos contacto visual..."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "...",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "...Antes de que digas algo, déjame hablar."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Me enorgullece poder hacer la mayoría de las\ntareas mejor que la persona promedio. Sin\nembargo..."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Hay una cosa en la que soy inepto: la actividad\nfísica."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Termino último en maratones, nunca he atrapado una\npelota en mi vida, e incluso tuve que hacer el\nexamen de la caja de saltar múltiples veces en\nclase de educación física."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Notas sobresalientes en todas las demás materias,\npero mis calificaciones en educación física fueron\ndesastrosas... Incluso ahora, me agoto después de\nun día fuera.",
+      "choice_data_list": [
+        "(¡No tenía idea!)"
+      ]
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Sin embargo, como entrenador, es vital que mi\nsalud física esté en un nivel respetable."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "El otro día, me pidieron que diera algunas clases\nde baile."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Pero no sé bailar, y mi agenda hace imposible que\ntome clases para prepararme..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con una postura digna, ella señala la pantalla que\nactualmente muestra un puntaje de combo grandioso\nde cero."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Así que he estado usando esta máquina en mi tiempo\nlibre para practicar.",
+      "choice_data_list": [
+        "Oh... vaya..."
+      ]
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Desafortunadamente, es mucho más difícil de lo que\nesperaba. <i>Suspiro...</i>"
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Tal vez debería comprar más libros de referencia.\nOh, pero mis estantes ya están rebosantes..."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Quizás simplemente no estoy hecho para bailar.\nDebe haber otra forma de mejorar..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es un verdadero shock ver a alguien tan capaz como\nella luchando tanto. Debe haber algún consejo que\npueda dar para ayudar...",
+      "choice_data_list": [
+        "¿Qué tal si primero construyes tu resistencia?",
+        "¡La persistencia es la clave! ¡Sigue intentándolo!",
+        "Lo siento, hoy estoy un poco apurado, así que..."
+      ]
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Tienes razón. La resistencia es esencial para\nactuar durante largos períodos de tiempo. Pasé por\nalto eso."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Es hora de trasladarme a un espacio más apropiado\npara entrenar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Curioso por lo que planea hacer, la sigo a su\npróximo destino."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Comenzaré con diez vueltas—no, mejor empezar con\ncinco!"
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella continúa trotando a paso de tortuga hasta que\ncae la noche."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "<i>Haa... Haa...</i> N-no puedo...",
+      "choice_data_list": [
+        "¡No te rindas! ¡Casi estás allí!"
+      ]
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "..."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "<i>Haa... Resoplido...</i>"
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "...Gracias por el ánimo. Me ayudó a esforzarme\nmás.",
+      "choice_data_list": [
+        "Lo siento, simplemente se me escapó."
+      ]
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Sé que no es un gran gesto, de ninguna manera,\npero por favor déjame invitarte a unos ramen."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos dirigimos a un restaurante de ramen y tomamos\nasiento."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "No había corrido en años. Se sintió bastante\nagradable."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Creo que tengo una comprensión ligeramente mejor\nde lo que nuestras corredoras ven todos los días."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Terminamos hablando de todo tipo de cosas durante\nla cena."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Estaba pensando en entrenar aquí, pero el clima\nparece que puede empeorar."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "No nos hará ningún bien resfriarnos... Terminemos\npor hoy."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "...Tienes razón. No puedo esperar ganar nada sin\ninvertir el esfuerzo."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "¡Este no es momento para autocompasión! Necesito\nconcentrarme en mejorar y nada más!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Cha-cha-cha, cha, cha!</i> ♪"
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "<i>Haa, resoplido...</i> Interesante... Si levanto el pie\nderecho cuando salto, entonces..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Cha-cha-cha, cha, cha!</i> ♪"
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Así que eso es lo que necesito hacer. Derecha,\nderecha, izquierda, giro... Vale."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su trabajo duro da frutos, y parece que lentamente\nle va cogiendo el truco. Unas horas después..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Cha-cha-cha, cha, chaaa!</i> ♪"
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "¡Muy bien!",
+      "choice_data_list": [
+        "¡Felicitaciones!"
+      ]
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Oh, gracias... Y, eh, perdón por hacer un\nescándalo... ¡Ahem!"
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "He progresado bastante, si digo yo mismo. Me\nalegra haber persistido."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Aprecio todas tus palabras de ánimo. Permíteme\ninvitarte a una bebida como agradecimiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vamos a un bar local donde ella me invita a una\nbebida. Luego, al salir..."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Aunque seamos entrenadores, creo que deberíamos\npoder bailar al menos las canciones de debut de\nnuestras corredoras."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Quizás podríamos incorporar lecciones de baile en\nlos talleres para entrenadores. Mmm..."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "No me di cuenta—disculpa por interrumpirte."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Nos vemos en la academia, entonces."
+    }
+  ]
+}

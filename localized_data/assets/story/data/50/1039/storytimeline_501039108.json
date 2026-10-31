@@ -1,0 +1,315 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy es el Festival de Primavera de Fans. Todos los\nasistentes disfrutan de los varios eventos que se\nestán llevando a cabo."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Guau! Hay tanta gente. Oh, si no es Scarlet.",
+      "color_text_info_list": [
+        "Scarlet"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Vodka?! ¿Viniste a ver el programa de entrevistas\nde la gira Tiara también?",
+      "color_text_info_list": [
+        "Vodka"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿El programa de entrevistas de la gira Tiara?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Creo que no. <i>Suspiro...</i> Está por empezar, así\nque cállate y mira si te vas a quedar. Me lo tomo\nen serio, así que no me interrumpas."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Qué? ¡Entonces <i>tú</i> asegúrate de no molestarme\ntampoco!"
+    },
+    {
+      "name": "Chica con Trenzas",
+      "text": "¡Por aquí, por aquí! ¡Podremos verla hablar desde\naquí!"
+    },
+    {
+      "name": "Chico Bronceado",
+      "text": "..."
+    },
+    {
+      "name": "Fan de la Umamusume de Cabello Castaño",
+      "text": "...Tch. ¿Por qué <i>ella</i> siempre está en los mismos\neventos?"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Todos, nos gustaría expresar nuestros más sinceros\nagradecimientos a todos por venir a ver nuestro\nprograma de entrevistas hoy."
+    },
+    {
+      "name": "Umamusume de Cabello Castaño",
+      "text": "..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Su apoyo significó mucho para mí el año pasado.\nComo una princesa, yo—"
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Sí, la Princesa lo hizo increíble el año pasado!\nAunque no es tan refinada como su nombre podría\nimplicar."
+    },
+    {
+      "name": "Fan de la Umamusume de Cabello Castaño",
+      "text": "<i>Suspiro...</i> Ahí va de nuevo hablando de princesas.\nEso es bastante egoísta—¿quiere acaparar el centro\nde atención para sí misma?"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "...",
+      "choice_data_list": [
+        "<i>¡Kawakami Princess!</i>"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "La palabra \"princesa\" trae a la mente muchas\ncualidades diferentes. Está la belleza, la\nnobleza, la sinceridad y mucho más."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Así que cuando cada una dice \"princesa\", creo que\ntodas tenemos cosas diferentes en mente. Y está\nbien. No <i>deberían</i> ser iguales."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ciertamente, estas diferencias a veces pueden\nllevarnos a lastimarnos unos a otros..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Pero aun así, quiero convertirme en la princesa\nque visualizo para mí misma."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Tengo muchos arrepentimientos, pero también mucho\nde lo que estar orgullosa. Por eso..."
+    },
+    {
+      "name": "Chica con Trenzas",
+      "text": "...¿Kawakami Princess?"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Yo..."
+    },
+    {
+      "name": "Chico Bronceado",
+      "text": "¡No llores!"
+    },
+    {
+      "name": "Chico Bronceado",
+      "text": "¡Para mí, eres la princesa más genial que existe!\n¡Quiero convertirme en una princesa como tú!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un alboroto comienza a surgir entre la audiencia.\nLa multitud se separa, formando un círculo\nalrededor de un joven niño... y una mujer."
+    },
+    {
+      "name": "Señora con Vestido",
+      "text": "¡Ken?! No me digas que aún albergas ese tonto\ndeseo de convertirte en princesa..."
+    },
+    {
+      "name": "Chico Bronceado",
+      "text": "Madre... Sé que me dijiste que era imposible y que\ndebería abandonar la idea..."
+    },
+    {
+      "name": "Chico Bronceado",
+      "text": "¡Pero no puedo cambiar cómo me siento! ¡Quiero ser\nuna princesa!"
+    },
+    {
+      "name": "Chico Bronceado",
+      "text": "¡Quiero ser exactamente como Kawakami Princess!\n¡Una princesa fresca, fuerte, deslumbrante!"
+    },
+    {
+      "name": "Señora con Vestido",
+      "text": "¡Al menos, seguro que deberías aspirar a ser un\npríncipe! Quiero decir, eres un...",
+      "choice_data_list": [
+        "¿Qué le parece eso, Kawakami Princess? ¿Es cierto?"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡No, no lo es! Si puede o no convertirse en\nprincesa depende completamente de su mentalidad y\nesfuerzo!"
+    },
+    {
+      "name": "Señora con Vestido",
+      "text": "¿Qué?!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Creo que una princesa es alguien que nunca se\nrinde. ¡Y cómo uno se convierte en esa princesa es\ndiferente para todos!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Así como mi visión difiere de la tuya, estoy\nsegura de que el niño tiene su propia idea de lo\nque significa ser una princesa.",
+      "choice_data_list": [
+        "Aquí no hay bien o mal."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Cierto. No nos corresponde decirle a otros qué\ncreer. Eso es decisión de ellos. En cambio,\nenfócate en quién <i>tú</i> quieres ser."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "De esa manera, cuando mires atrás a tu pasado, te\nsentirás orgulloso."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Orgulloso del hecho... de que lo hiciste todo tú\nmismo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "De repente, escucho el sonido de pasos\nacercándose..."
+    },
+    {
+      "name": "Umamusume de Cabello Castaño",
+      "text": "Yo... creo que ella tiene razón."
+    },
+    {
+      "name": "Fan de la Umamusume de Cabello Castaño",
+      "text": "¿Eh? T-tú eres..."
+    },
+    {
+      "name": "Umamusume de Cabello Castaño",
+      "text": "No pretenderé que no me molesta cuando habla de\nprincesas en eventos y entrevistas, pero ese es mi\nproblema, no el de ella. Ella es su propia\npersona, ¡y yo también!"
+    },
+    {
+      "name": "Umamusume de Cabello Castaño",
+      "text": "Para decir la verdad, ¡creo que eres increíble!\nPero yo creo que mi propio sueño es aún más\nincreíble."
+    },
+    {
+      "name": "Umamusume de Cabello Castaño",
+      "text": "¡Por eso no perderé nuestra próxima carrera!\nCuando compitamos, ¡veamos cuál de nosotras ha\ncrecido más!"
+    },
+    {
+      "name": "Fan de la Umamusume de Cabello Castaño",
+      "text": "...!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "...Con gusto. ¡Te enfrentaré de frente en\ncualquier carrera!"
+    },
+    {
+      "name": "Vodka",
+      "text": "..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Vaya... Las corredoras mayores son tan geniales!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "<i>Suspiro...</i> Habla de nervios. Siento que todo mi\ncuerpo se tensó.",
+      "choice_data_list": [
+        "Pero te mantuviste fiel a tu ideal de princesa.",
+        "Pero te mantuviste fiel a tu ideal de princesa."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Tienes razón, y no perderé de vista eso de nuevo."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "No puedo ser ignorante del daño que pueda causar a\notros, pero no tendré miedo. Continuaré por el\ncamino que he elegido."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Para convertirme en la princesa a la que aspiro...\nMe conduciré de una manera de la que pueda estar\norgullosa.",
+      "choice_data_list": [
+        "Estoy segura de que te convertirás en un modelo a\nseguir para otros, también.",
+        "Estoy segura de que te convertirás en un modelo a\nseguir para otros, también."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así como Princess Fighter inspiró a Kawakami\nPrincess, estoy segura de que ella seguirá\ninspirando a otros.",
+      "choice_data_list": [
+        "...Como lo hiciste por ese niño."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Hehe... Espero que tengas razón."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Grñ!</i>"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "...¡Ah!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Oh, vamos... ¿¡Por qué ahora?! ¿Cómo va a tomarme\nalguien en serio si mi estómago ruge como un\nleón?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque Kawakami Princess se lamenta de su estómago\nrugiente, estoy más que feliz de llevarla a los\ndiferentes puestos de comida para mostrar mi\naprecio por su esfuerzo y crecimiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "De repente, escucho el sonido de pasos\nacercándose..."
+    },
+    {
+      "name": "Chica con Trenzas",
+      "text": "¡Kawakami Princess, fuiste tan genial allá arriba!"
+    },
+    {
+      "name": "Chico Bronceado",
+      "text": "..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Awww, ¿estás disfrutando del festival? Incluso\ntienen un torneo de golpes por allí, ¿sabes? ♪"
+    },
+    {
+      "name": "Chica con Trenzas",
+      "text": "¡Guau, realmente?! ...Quiero decir, Ken, ¿hablaste\ncon tu mamá, verdad?"
+    },
+    {
+      "name": "Chico Bronceado",
+      "text": "Cállateee... De todos modos, mi mamá ya se\ndisculpó."
+    },
+    {
+      "name": "Chico Bronceado",
+      "text": "Ella se disculpó conmigo y me dio una palmada en\nla cabeza. Así que..."
+    },
+    {
+      "name": "Chico Bronceado",
+      "text": "¡Gracias, Princesa! ¡Luego!"
+    },
+    {
+      "name": "Chica con Trenzas",
+      "text": "¡Ah, espera! ¡Ken!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "...Oh, vaya."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Estoy segura de que los dos se convertirán en\nprincesas maravillosas algún día."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En ese momento, le echo un vistazo a Kawakami\nPrincess y veo los ojos de una princesa\nmaravillosa y genuina."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gold City",
+      "text": "Gan...",
+      "choice_data_list": [
+        "¡Felicitaciones!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...Algo no encaja, sin embargo. Como que\nsimplemente no <i>se siente</i> bien.",
+      "choice_data_list": [
+        "Aun así, esta victoria es tuya.",
+        "Aun así, esta victoria es tuya.",
+        "Quizás no tiene por qué.",
+        "Quizás no tiene por qué."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...Algo no encaja, sin embargo. Como que\nsimplemente no <i>se siente</i> bien.",
+      "choice_data_list": [
+        "Aun así, esta victoria es tuya.",
+        "Aun así, esta victoria es tuya.",
+        "Quizás no tiene por qué.",
+        "Quizás no tiene por qué."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...Tienes razón."
+    },
+    {
+      "name": "Gold City",
+      "text": "Gané con mi propia habilidad."
+    },
+    {
+      "name": "Gold City",
+      "text": "Antes, habría sido como \"¡Ja! ¡En tu cara!\" pero\nya no me siento así. Me <i>alegra</i> haber podido correr\nbien, aunque..."
+    },
+    {
+      "name": "Gold City",
+      "text": "..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero odio esta sensación incómoda."
+    },
+    {
+      "name": "Gold City",
+      "text": "Supongo que solo diré que estoy \"contenta\" y\npunto."
+    }
+  ]
+}

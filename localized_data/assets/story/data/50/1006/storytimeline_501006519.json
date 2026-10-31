@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Oguri Cap está parada en la azotea de la academia,\nmirando a lo lejos."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Oh, Entrenador.",
+      "choice_data_list": [
+        "¿Qué haces aquí arriba?",
+        "¿Qué haces aquí arriba?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Solo estaba pensando en mi ciudad natal. Me\npregunto cómo estará todos..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hmm... Esa nube se parece un poco a Shige."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Y esa otra me recuerda a Tome. Y esa de allá...\nestofado de carne... <i>Suspiro...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Oguri Cap no parece ser ella misma hoy. Supongo\nque tiene nostalgia de su hogar."
+    }
+  ]
+}

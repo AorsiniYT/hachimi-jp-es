@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Voy a la cafetería a almorzar, cuando..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Nooooo! ¿Qué he hechooo?!",
+      "choice_data_list": [
+        "¿Qué pasó?",
+        "¿Qué pasó?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Lo olvidé! La fuente de todo mi poder... mi\nespecial Salsa de la Vida!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "No puedo reunir mi energía súper picante sin\nella..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Se va toda la tarde... No voy a poder hacer nada."
+    }
+  ]
+}

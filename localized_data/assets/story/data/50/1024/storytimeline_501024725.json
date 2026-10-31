@@ -1,0 +1,56 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mayano Top Gun",
+      "text": "<i>Suspiro...</i>"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Supongo que así es como sopla el viento...",
+      "choice_data_list": [
+        "¡Ganaremos la próxima!"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "...?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Oh... ¡Sí! Perdón por no ganar."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Pero está bien. ¡Obtendré el primer lugar la\npróxima vez, justo como dijiste!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Quiero decir, lo tengo todo resuelto.",
+      "choice_data_list": [
+        "Asegúrate de divertirte más la próxima vez\ntambién.",
+        "Todavía puede haber algunas cosas que no hayas\nresuelto."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Ehehe... Gracias, Entrenador."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Tienes razón. Quiero divertirme corriendo."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "...¿Las hay? ¿En serio?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Bueno, supongo que significa que tengo que\nintentarlo aún más!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Ehehe. ¡Porque no hay diversión en perder todo el\ntiempo!"
+    }
+  ]
+}

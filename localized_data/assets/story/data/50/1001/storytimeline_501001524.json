@@ -1,0 +1,159 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estoy caminando por la ciudad en mi día libre,\ncuando escucho una voz alegre que llama desde un\nrestaurante chino que hay más adelante."
+    },
+    {
+      "name": "Dueño del Restaurante Chino",
+      "text": "¡Adelante, gente! ¡Nuestro gran concurso de comer\nestá a punto de comenzar!"
+    },
+    {
+      "name": "Dueño del Restaurante Chino",
+      "text": "¡Nuestras concursantes hambrientas están una vez\nmás<i>babeando</i> al pensar en apoderarse del trono hoy!"
+    },
+    {
+      "name": "Dueño del Restaurante Chino",
+      "text": "¡Presentando a nuestro campeón invicto por tres\nveces, el Bulldozer de Estómago de Hokkaido,\nSpecial Week!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡JAJAJA! ¡Esa soy yo, la Topadora! ¡Me encantan\nlos cuencos de arroz mapo! ¡OH SÍÍÍ!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¿E-eh?! ¡Entrenador, qué haces aquí?!",
+      "choice_data_list": [
+        "¿Cuándo te convertiste en la campeona reinante\naquí?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡E-esto no es lo que parece! ¡Esto simplemente...\nocurrió!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Ellos, eh, estaban teniendo un concurso de comer\ncuando pasé por aquí hace un rato..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Me dio curiosidad, así que me inscribí y terminé\nganando... Y desde entonces he estado defendiendo\nmi título más o menos...",
+      "choice_data_list": [
+        "Esto no es exactamente apropiado para la dieta de\nun atleta, ¿sabes?",
+        "Esto no es exactamente apropiado para la dieta de\nun atleta, ¿sabes?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Y-yo lo sé! Pero... ¡soy la campeona reinante!\n¡No puedo defraudar a la gente!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Vamos, campeona! ¡Muéstranos de qué estás hecha\nhoy!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Sí! ¡Okay! Um.. ¡Jajajaja! ¡Es hora de comer!\n¡SÍ!",
+      "choice_data_list": [
+        "¡Te estás emocionando mucho!",
+        "¡Te estás emocionando mucho!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "B-bueno, no, en realidad el dueño del restaurante\nme pidió que creara una persona divertida, así\nque..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Por favor, Entrenador! ¡Déjame participar en esta\núltima vez!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Renunciaré como campeona después de hoy, ¡lo\nprometo!",
+      "choice_data_list": [
+        "...Entonces será mejor que te retires con broche\nde oro.",
+        "Está bien, pero no te atiborres.",
+        "¡Actúa como toda una topadora!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Muchas gracias, Entrenador!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Escuchen, fans y amantes de la comida! Sé que es\nrepentino, pero después del concurso de hoy,\nrenunciaré como campeona!"
+    },
+    {
+      "name": "Espectador A",
+      "text": "¿¡Qué?! ¿Nos está tomando el pelo?!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Guau! ¡La campeona acaba de hablar normalmente!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Por eso hoy, voy a comer como si no hubiera un\nmañana y no dejaré espacio para arrepentimientos!\n¡SÍÍÍ!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Special Week gana el concurso de manera\nespectacular, renuncia a su posición, preservando\nasí su título como campeona invicta."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Entendido! ¡Haré lo posible por comer solo una\nporción de tamaño apropiado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Special Week hace lo mejor mientras controla su\napetito, pero con los otros participantes comiendo\ncon tanto entusiasmo..."
+    },
+    {
+      "name": "Special Week",
+      "text": "<i>Suspiro.</i> Perdí...",
+      "choice_data_list": [
+        "Supongo que realmente controlaste tu apetito...",
+        "Supongo que realmente controlaste tu apetito..."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Oh, no, mejor así, en realidad. Sabía que no podía\nseguir haciendo esto, pero tampoco me sentía capaz\nde detenerme..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Además, mi objetivo es convertirme en la mejor\ncorredora en todo Japón, no en la que más come!\n¡Volvamos al entrenamiento! ¡OH SÍÍÍ!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella ya no puede tener el título de campeona, pero\nno parece que su alter ego lleno de energía vaya a\nir a ninguna parte todavía."
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Eh? ¿Qué pasa, Entrenador?!",
+      "choice_data_list": [
+        "¡Porque tú eres... LA CAMPEONAAAA!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Q-qué? ¿Por qué hablas así?",
+      "choice_data_list": [
+        "¡Muéstranos de qué está hecho tu estómago,\ncampeona! ¡SÍÍÍ!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡E-entendido! ¡SÍÍÍ!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Jajajaja! ¡Y-yo soy la Topadora de Estómago!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Fiel a su seudónimo, Special Week arrasa con cada\nplato que le ponen frente a ella, y reclama la\nvictoria como campeona una vez más."
+    }
+  ]
+}

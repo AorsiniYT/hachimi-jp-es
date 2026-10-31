@@ -1,0 +1,56 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Una mañana en la entrada de la academia..."
+    },
+    {
+      "name": "Gold City",
+      "text": "<i>Bostezooo...</i>",
+      "choice_data_list": [
+        "Pareces cansada.",
+        "Pareces cansada."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Eh? Oh. Buenos días."
+    },
+    {
+      "name": "Gold City",
+      "text": "Estuve haciendo trabajo de modelaje hasta tarde\nanoche, así que naturalmente también llegué tarde\na casa... <i>Bostezooo.</i>"
+    },
+    {
+      "name": "Gold City",
+      "text": "Meh, no es como si fuera a llegar tarde, así que\nsupongo que me tomaré mi tiempo.",
+      "choice_data_list": [
+        "¿No empieza la clase pronto?",
+        "Sí, no tiene sentido apurarse.",
+        "Sí, no tiene sentido apurarse."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Eh? No, no hay forma—¡gah, tienes razón!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Parece que la hora en mi reloj despertador estaba\nmal... <i>Suspiro...</i> Supongo que será mejor que me dé\nprisa. Gracias, de todos modos."
+    },
+    {
+      "name": "Gold City",
+      "text": "Uh-huh. Es importante mantenerse siempre fresco y\ntranquilo—"
+    },
+    {
+      "text": "<i>¡Din-don, dan-don...!</i>"
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Es la campana de la escuela! Maldición,\nmaldición, maldición. Supongo que la hora en mi\nreloj despertador estaba mal."
+    },
+    {
+      "name": "Gold City",
+      "text": "Espera, pero aún podría lograrlo si corro. Bueno,\nnos vemos. ¡Tú también mejor no llegues tarde!"
+    }
+  ]
+}

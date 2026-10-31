@@ -1,0 +1,206 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Mejiro Ardan y yo estamos de regreso de un paseo\ncuando ella algo tímidamente propone algo."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Entrenador. Si no tienes prisa en particular\npor volver, ¿te interesaría un pequeño desvío?",
+      "choice_data_list": [
+        "Claro. ¿A dónde?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Eso es para que yo lo sepa y tú te lo imagines...\nJeje! Puede que no lo parezca, pero resulta que\nsoy toda una experta en desvíos."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Después de todo, desde que llegué a la academia,\nme he vuelto muy aficionada a salir a explorar\ndespués de clases.",
+      "choice_data_list": [
+        "...Ya veo."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Jeje... Disfrutarás adonde vamos, te lo aseguro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de un buen rato, terminamos en un famoso\nacuario. He oído tanto sobre este lugar pero nunca\nencontré el tiempo para venir a verlo por mí\nmismo."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Impresionante, ¿verdad? Tanques enormes, un túnel\nsubmarino, y una vibrante variedad de animales\nacuáticos...",
+      "choice_data_list": [
+        "Es hermoso.",
+        "Es hermoso."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¡Jeje! ...Debo admitir que solo recientemente\ndescubrí este lugar. Me topé con él en uno de mis\ndesvíos."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Solo entré por un capricho, pero la experiencia\nfue más mágica de lo que podría haber imaginado."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Como dicen, simplemente no lo sabrás hasta que\nvayas. Ese es el verdadero encanto del desvío.",
+      "choice_data_list": [
+        "Y-ya veo..."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Todavía hay tantas exhibiciones que deseo\nmostrarte. Ven, te guiaré."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No estoy segura de que ella haya sido tan\ninsistente antes. Me encuentro encantada por el\nambiente mientras vamos de tanque en tanque..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Y luego el siguiente es—oh?"
+    },
+    {
+      "name": "Niño pequeño",
+      "text": "Aw... No están aquí..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Se supone que una familia de orcas debería estar\nalojada aquí..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cierto, es un tanque masivo, pero no hay señal de\nellos en absoluto... ¿Quizás están descansando\nhacia la parte trasera?"
+    },
+    {
+      "name": "Niño pequeño",
+      "text": "Supongo que no veré ninguna orca hoy... Aw..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Jeje. Mira esto, Entrenador.",
+      "choice_data_list": [
+        "¿...?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Fiu.",
+      "choice_data_list": [
+        "...?!"
+      ]
+    },
+    {
+      "name": "Niño pequeño",
+      "text": "¿¡Eso fue una orca?! ¿¡Dónde está?!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Jejeje... ¿Dónde, verdad? ♪ Phwwwht! ♪"
+    },
+    {
+      "name": "Niño pequeño",
+      "text": "...¡¿Quién?! ¿Eso fuiste <i>tú?</i> ¡Santo cielo!",
+      "choice_data_list": [
+        "Eres realmente bueno en eso...",
+        "Eres realmente bueno en eso..."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Jeje... Cuando era niño, había un televisor en el\nhospital y casualmente vi un documental sobre\nllamadas de animales."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Pensé que si aprendía los ruidos, algún día podría\nconversar con animales yo mismo. Pasé bastante\ntiempo practicando en secreto."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Jeje... Aunque, es bastante embarazoso abrirme\nsobre esto ahora."
+    },
+    {
+      "name": "Niño pequeño",
+      "text": "...¡¿Whoa?! ¡Mira! ¡Una orca!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Orca bebé",
+      "text": "¿Fiu?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Está respondiendo a la llamada de Mejiro Ardan?\n...Mientras yo me pregunto eso, toda la manada\ntermina mirando hacia acá de manera confundida."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Vaya, esto es realmente algo... Qué sorpresa."
+    },
+    {
+      "name": "Niño pequeño",
+      "text": "¡Santo cielo! ¡Puedes <i>hablar</i> con orcas!\n...Oye,¡enséñame! ¡Enséñame!"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Jeje, sería un placer. Primero, para dar con el\nton correcto, necesitarás..."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Qué sorpresa tan maravillosa fue esa. Me pregunto\nqué tipo de mensaje les estaba transmitiendo a\ntravés de esas llamadas."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Pensar que un sueño de mi infancia se haría\nrealidad hoy... Jeje.",
+      "choice_data_list": [
+        "Fuiste adorable.",
+        "Los desvíos son divertidos."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Bueno, me siento un poco avergonzada pero... Jeje,\ngracias. ♪",
+      "choice_data_list": [
+        "¿Podrías hacer esa llamada de nuevo?"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¿Oh? ¿Aquí y ahora? Bueno, no estoy segura de que—",
+      "choice_data_list": [
+        "¡Otra vez!"
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "...Jeje. Entonces supongo que debo."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "¡Fiu! ♪"
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Jeje, ¿verdad? Sabía que te divertirías.",
+      "choice_data_list": [
+        "Lo hiciste divertido.",
+        "Lo hiciste divertido."
+      ]
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Me alegra. Qué sensación maravillosa es poder\ntransmitir lo especial que es algo, y compartirlo\ncon alguien."
+    },
+    {
+      "name": "Mejiro Ardan",
+      "text": "Jeje... Espero que podamos seguir encontrando\nmuchos más lugares maravillosos juntos."
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Riko Kashimoto",
+      "text": "Buenos días, Entrenador <username>."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Supuse que estarías aquí ya que no estabas en tu\nhabitación.",
+      "choice_data_list": [
+        "¿Algo mal?"
+      ]
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "¿Has hecho tu primera visita al santuario para el\naño nuevo? Si no, ¿te gustaría acompañarme?"
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Sé que es un poco tarde para una primera visita,\npero es mucho mejor que no ir en absoluto."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Es trabajo de un entrenador rezar por la seguridad\nde sus corredoras."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Debo hacer todo lo posible para evitar tener\nremordimientos más tarde.",
+      "choice_data_list": [
+        "¿Remordimientos?"
+      ]
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Sí... Como cuando deseas haber hecho algo\ndiferente o que algo hubiera salido de otra\nmanera."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Quiero prevenir que cosas lamentables sucedan,\ntanto como sea posible—tanto por el bien de mis\ncorredoras como por el mío."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Es una lección difícil que aprendí de mi pasado.",
+      "choice_data_list": [
+        "Debes haber aprendido algo importante."
+      ]
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Sí, pero no hay fin en el aprendizaje. Siempre\ndebemos esforzarnos por mejorar para nuestros\nestudiantes."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Para asegurar que todos los que desean correr\npuedan esforzarse hacia el futuro que desean..."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "No cometeré los mismos errores de nuevo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Veo una fuerte determinación en su mirada mientras\nmira hacia lo alto del cielo."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Y por eso debo agradecerte.",
+      "choice_data_list": [
+        "¿Por qué?"
+      ]
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Porque pude aprender tanto del enfoque honesto que\ntienes con tu aprendiz."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Aunque creo que a veces te aventuras demasiado\nlejos..."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Como compañero entrenador de Tracen, te advertiré\nsiempre que te excedas, ¿de acuerdo?",
+      "choice_data_list": [
+        "¡Gracias!"
+      ]
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "...Je."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "Bueno, brindo por un—"
+    },
+    {
+      "name": "Hombre con Cinta",
+      "text": "¡Oye, ustedes dos! ¿Quieren golpear un poco de\nmochi?"
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "¿Eh? ¿Nosotros?"
+    },
+    {
+      "name": "Hombre con Cinta",
+      "text": "¡Sí, ustedes dos! ¡Vamos, pueden comer lo que\nhacen, y nada supera al mochi recién hecho!"
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "P-pero yo... bueno...",
+      "choice_data_list": [
+        "¡Hagámoslo!"
+      ]
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "<i>Suspiro...</i> Muy bien. Supongo que no es común que\ntengamos una oportunidad como esta."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "...Me pregunto si podré siquiera levantar el mazo."
+    },
+    {
+      "name": "Riko Kashimoto",
+      "text": "¡Hrgh! ¡Urk! ¡Hnnnngh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La ayudo mientras ella blande el mazo con torpeza,\ny nos divertimos haciendo un poco de mochi juntos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo la sensación de que nuestra amistad solo\ncontinuará creciendo desde aquí."
+    }
+  ]
+}

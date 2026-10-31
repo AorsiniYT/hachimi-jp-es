@@ -1,0 +1,215 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estoy pasando por el estudio de baile para recoger\nalgo que dejé olvidado, cuando Tamamo Cross se\nacerca a mí."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Oye, ¿no tendrás un poco de tiempo libre? Si lo\ntienes, ¿te importaría venir y vernos practicar?",
+      "choice_data_list": [
+        "¡Entendido!"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Nosotros cuatro estamos ayudando a montar esta\ncasa embrujada con tema de momias como parte de un\nevento local."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "La idea es que los invitados y un cazador de\nmomias van a usar pistolas de juguete para\neliminar a las momias que se les acerquen."
+    },
+    {
+      "name": "Inari One",
+      "text": "Está totalmente sin guion, así que estamos\npracticando nuestra improvisación! Sabes, como la\nimprovisación."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Bueno, las momias están listas ahora, así que ¿te\nimportaría compartir tus impresiones después? El\ntema es \"momias decaídas\".",
+      "choice_data_list": [
+        "¡Entendido!"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Gracias! 'Kay, ¡mira de cerca!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Ughhhrrrrawwwrrrrr... El tesoro... es miiiiio..."
+    },
+    {
+      "name": "Inari One",
+      "text": "Gruhhh... Grrrahhh... ¡El festival ha llegaaaado!\n¡Te unirás al festival tambiénOOO!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Lamento... no haber podido cuidar... de más\npersonas... Alguien, por favor... ¡Déjenme\nconsentirlosss..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Y estoy decaído porque... tengo hambre. No he\ncomido... así que voy a venir y comerte."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Oh, querido!... Me pregunto si tienes hambre\nporque no has comido suficientes verduras. Déjame\nprepararte algo rapidito."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Gracias, Creek! Añade también un poco de arroz y\nsopa de miso. Oh, y no olvides hacer suficiente\npara repetir!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Jeje! Te haré tantas porciones como quieras. ♪\n¡Come hasta que estés completamente lleno! Oh,\nestoy tan contenta de cuidarte, Oguri."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Consigo toda tu cocina que quiera... Es como si\nestuviera en el cielo. <i>...Babeando.</i>"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Todas tus razones para estar decaído se van por\nla ventana! ¿Cómo es que todas son momias tan\namistosas?! ¡Ya ataquen a las personas!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "No te preocupes, estoy hambriento. ¡Aún tengo\nmucho espacio!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Ese no es el punto!"
+    },
+    {
+      "name": "Inari One",
+      "text": "¡Corten, corten! Tama, ¿cómo se supone que esto va\na funcionar cuando te sales del personaje y te\npones a bromear?!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "L-lo siento... Se me olvidó lo que estaba haciendo\naquí..."
+    },
+    {
+      "name": "Inari One",
+      "text": "Oye, tú. ¿Cómo nos fue? ¡Y no nos suavices!",
+      "choice_data_list": [
+        "¡Estuvo bastante gracioso!",
+        "No fue especialmente aterrador..."
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Esto es un desastre! ¡Las casas embrujadas no\nestán hechas para ser graciosas!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Sé que debería haberme mantenido en personaje,\n¡pero Oguri y Creek estuvieron demasiado\nridículos!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Bueno, me disculpo... Esa no fue mi intención en\nabsoluto..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Sí, bueno, a algunos les sale sin esfuerzo. De\ntodos modos, mira, tenemos que ponernos serios,\nya."
+    },
+    {
+      "name": "Inari One",
+      "text": "Tendremos un cazador para la versión real,\n¿verdad? Las cosas saldrán bien mientras el\ncazador se lo tome en serio."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Supongo que sí. ¿Quién interpreta al cazador de\nmomias?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Ese sería yo."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡¿Tú?!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡¿Por qué no lo dijiste?! ¡Y cómo es que estás\naquí pretendiendo ser una momia?!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pensé que un cazador de momias debería intentar\nentender cómo se sienten las momias... ¿Estoy\nequivocado?"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Aún podrás cazarlos si estás empatizando con\nellos? Caray. Esto no pinta nada bien."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Deberías ir a estudiar tu propio papel ahora. Haz\nalgo de investigación. Mira una película sobre un\ncazador o algo así."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Entendido. Siempre lo tienes todo bajo control,\nTama."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "En serio... Se suponía que esto sería terror, pero\nse ha convertido en una comedia improvisada."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Bueno, ¿por qué no usamos efectos escénicos\naterradores para hacerlo más inmersivo? Dicen que\nlos sonidos y las sensaciones pueden aumentar la\ntensión."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Oh! ¿Por qué no convertimos el evento en un\nfestival de terror completo? ¡Demos una vuelta por\nla academia por la noche para buscar inspiración\naterradora!"
+    },
+    {
+      "name": "Inari One",
+      "text": "E-esa no es una mala idea... pero ¡ni hablar! ¡No\npodemos simplemente quedarnos en la escuela hasta\nque oscurezca! ¿Sabes?",
+      "choice_data_list": [
+        "Debería estar bien si estoy contigo.",
+        "Debería estar bien si estoy contigo."
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "L-la academia sí que da miedo por la noche, ¿eh?\nApresurémonos y busquemos algo que podamos usar\npara el evento. Por ejemplo, ¿qué tal el eco de\nnuestros pasos?"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh, hablando de pasos, ¿has escuchado los rumores?\nDicen que una luz roja te persigue si corres por\nla academia por la noche."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿Por qué hablas de eso <i>ahora?!</i> ¡Eso no tiene nada\nque ver con el espectáculo!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "...Ay, Dios. ¿Tú... escuchas eso?"
+    },
+    {
+      "name": "???",
+      "text": "...eso... es... un... oso..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "N-no. No. ¡No, no, no, no! ¡No escucho nada!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Oh, una luz roja. Me pregunto si es de la que\nCreek hablaba?"
+    },
+    {
+      "name": "???",
+      "text": "...roja... hermosa... y... peligrosa...☆"
+    },
+    {
+      "name": "Tamamo y Inari",
+      "text": "¡YAAAAAHHHH!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "E-esto es demasiado! ¡Va a asustar a los niños!\nTenemos que suavizarlo!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Lo importante es que personas de todas las edades\npuedan divertirse! ¡Sigamos con la versión cómica!"
+    }
+  ]
+}

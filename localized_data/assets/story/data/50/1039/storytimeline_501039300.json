@@ -1,0 +1,51 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Sin darnos cuenta, ya es el último día del\ncampamento de verano."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Uf... Bueno... ¡Creo que fue un campamento de\nverano productivo!",
+      "choice_data_list": [
+        "...¿Por qué están todos sucios?",
+        "...¿Por qué están todos sucios?"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Porque intentaba enfrentarme uno contra uno con\nun oso!",
+      "choice_data_list": [
+        "¡¿Qué?!"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "El último día del campamento es el momento de\nponer a prueba tu progreso, ¿verdad? ¡Así que\nquería ver cuánto ha mejorado mi poder!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Pero desafortunadamente, no pude encontrar ningún\noso..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Intenté llamarlos, buscar entre la hierba,\narrancar raíces de árboles... Pero no pude\nencontrar ni uno solo...",
+      "choice_data_list": [
+        "¡Gracias a Dios por eso!"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¿E-Entrenador? ¿Por qué estás en el suelo? ¿Y por\nqué pareces tan pálido?"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡A-alguien llame una ambulancia! ¡No te mueras en\nmis brazos, Entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No corría riesgo de morir, pero la idea de\nKawakami Princess peleando con un oso era\ndemasiado horripilante. Le digo que no intente eso\nnunca más."
+    }
+  ]
+}

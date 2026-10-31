@@ -1,0 +1,272 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Narita Brian y yo nos dirigimos al distrito\ncomercial para comprar equipo un día después del\nentrenamiento."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿Qué está pasando por allá?"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben suerte con nuestra rifa de\nAño Nuevo! ¡El primer premio de este año es unas\nvacaciones en aguas termales para dos!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Los ganadores del primer premio reciben una\nhamburguesa de zanahoria deluxe, el segundo un\nfardo de zanahorias y el tercero una sola\nzanahoria."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡No dejes pasar esta oportunidad! ¡Consigue un\nboleto ahora y gira para tener la oportunidad de\nganar!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Así que es una rifa. Ahora que lo pienso, ¿no\nconseguiste un boleto antes?",
+      "choice_data_list": [
+        "¿Quieres intentarlo?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Bueno, no tiene sentido no usarlo, ¿verdad?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Bien."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Entrégamelo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Mi hermana siempre dice que soy buena girando el\ntambor. Solo mira."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le entrego el boleto de la rifa a una Narita Brian\nextrañamente confiada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella se acerca audazmente y gira la palanca de la\nmáquina de rifa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de la abertura\ndel tambor..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Santo cielo! ¡Tenemos una ganadora del primer\npremio! ¡Ven a recoger el boleto para tus\nvacaciones en aguas termales! ¡Felicitaciones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Oh... el primer premio.",
+      "choice_data_list": [
+        "¡Eso es increíble!",
+        "¡Eso es increíble!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Jaja, estás un poco demasiado feliz. Te ves igual\nque mi hermana."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Cada vez que ganaba un premio, ella aplaudía con\nlas manos y corría a recogerlo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Pero eso es historia antigua. De todos modos, te\ndaré el premio esta vez.",
+      "choice_data_list": [
+        "¿Por qué?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Por qué no? Tú fuiste la que consiguió el boleto\npara jugar en primer lugar."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Todo lo que hice fue girar la palanca. Si alguien\nmerece el premio, eres tú.",
+      "choice_data_list": [
+        "Pero te tomaste la molestia..."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Ja. Te lo estás tomando demasiado en serio."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Bien. Lo usaré cuando decida que sea el momento\nadecuado. ¿De acuerdo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Narita Brian termina tomando el boleto para\nlas vacaciones en aguas termales."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Recibes una hamburguesa\nde zanahoria de lujo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Hm... Otro premio que se ve delicioso."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Oh, tienes buen ojo! De hecho, el valor al por\nmenor de esta hamburguesa es... <i>murmullo,\nmurmullo.</i>"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡¿Qué?! ¿Estás loco, regalando algo tan\nextravagante como premio de rifa?!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "<i>...Haa.</i>"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Te recomiendo que la comas pronto. ¡Toda la comida\nes mejor cuando está fresca!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Apresurémonos a volver y empezar a cocinar,\nEntrenador."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Quién iba a pensar que podías conseguir carne como\nesta en una rifa..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Brian y yo volvemos a la escuela más rápido\nque de costumbre."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te vas a casa con un haz de\nzanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Oh, ganamos algo...",
+      "choice_data_list": [
+        "¡Buen trabajo!"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Nada mal, ¡conseguir el segundo premio y todo!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Vamos, no me elogies por algo como esto. Es\nvergonzoso.",
+      "choice_data_list": [
+        "¡Pero es impresionante!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Ya dije que lo dejaras. Ay..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Brian reparte las zanahorias conmigo, con\nun aspecto ligeramente avergonzado."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Mira nada más! ¡Has ganado el tercer premio!\n¡Aquí está tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Tercer lugar.",
+      "choice_data_list": [
+        "¡Ganar algo, sea lo que sea, sigue siendo suerte!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Hum."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Sí, supongo. Las rifas son así."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Al menos el premio es una zanahoria. Es buena\nsuerte conseguir algo que puedo comer."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Brian toma el premio. Aunque no es fanática\nde las verduras, parece que las zanahorias son una\nexcepción."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Oh, mala suerte! ¡Parece que sacaste un premio\nvacío! ¡Toma este paquete de pañuelos como premio\nde consolación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿Perdí?",
+      "choice_data_list": [
+        "Oye, así pasa."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Cierto. Jugar una rifa en la que no puedes perder\nsería aburrido."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Todo sucede por casualidad. No saber qué va a\npasar es exactamente lo que lo hace interesante."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Aunque, ganar aún habría sido mejor."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su cola cae desanimada y no se vuelve a animar\ndurante un rato después."
+    }
+  ]
+}

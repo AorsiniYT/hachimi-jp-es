@@ -1,0 +1,55 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Hishi Akebono",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Se sintió realmente bien!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "Me sentí tan relajada mientras corría, pero pude\npasar volando a tanta velocidad!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Todos a mi alrededor hervían de pasión, como\nlasaña recién salida del horno!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Me divertí mucho!",
+      "choice_data_list": [
+        "Corriste genial allí.",
+        "Corriste genial allí."
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Hehe! ♪ ¡Gracias!"
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Espero poder correr tan bien como hoy en el Mile\nCh.! ♪",
+      "color_text_info_list": [
+        "Mile Ch."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dado que no tuvo ningún problema corriendo una\ncarrera clasificada de 1,400 metros, dudo que\ntenga algún problema en el Mile Ch.",
+      "choice_data_list": [
+        "¡Nos queda un mes! ¡Hagámoslo contar!"
+      ]
+    },
+    {
+      "name": "Hishi Akebono",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lo siguiente para nosotros es el Mile Ch., el\nevento más grande de otoño donde los mejores se\nreúnen para correr!"
+    }
+  ]
+}

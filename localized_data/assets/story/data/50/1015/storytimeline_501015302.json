@@ -1,0 +1,351 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una tarde, T.M. Opera O y yo estamos caminando por\nel distrito comercial..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ah, Entrenador! Mira hacia adelante. Se ha\nreunido una multitud..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Crees que es un duelo? Si es así, debo\ninterceder. O tal vez... ¿debería entrar en la\nrefriega?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vamos a echar un vistazo. Justo como pensé, no hay\nningún duelo en curso."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Acérquense y prueben su suerte con nuestra rifa\nde Año Nuevo! El gran premio de este año es unas\nvacaciones en aguas termales para dos personas!",
+      "color_text_info_list": [
+        "vacaciones en aguas termales"
+      ]
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "Los ganadores del primer premio reciben una\nhamburguesa de zanahoria deluxe, el segundo un\nfardo de zanahorias y el tercero una sola\nzanahoria."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¿Y usted? ¡La diva de allí! ¿Quiere probar su\nsuerte?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Jaa, ja, ja! Supongo que no tengo opción ahora\nque me han señalado entre el público."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Una rifa? Qué divertido. Estoy absolutamente\nfascinada con este aparato giratorio que tienes\naquí."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Entrenador, saca ese boleto de tu bolsillo del\npecho. Y obviamente, usa solo los dedos índice y\ncorazón."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siempre es una actuación, incluso en la forma en\nque uno saca algo de un bolsillo... Saco el boleto\ncomo ella pide y se lo entrego al vendedor."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Es hora de comenzar el espectáculo, Entrenador.\nAgarra la palanca del aparato conmigo."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Por el momento de la verdad! ¡Giren, engranajes\ndel destino! ¡Jaaaaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ambos levantamos una mano al cielo y giramos la\nruleta de la rifa con la otra."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de la abertura de\nla ruleta..."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Santo cielo! ¡Tenemos un ganador del gran premio!\n¡Venga a recoger el cupón para sus vacaciones en\naguas termales! ¡Felicitaciones!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Oh! ¡'Tis un rayo de luz de los cielos!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡El gran premio! En efecto, incluso la Diosa de la\nSuerte está enamorada de la estrella que soy."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Jaa, ja, ja! ¡Aaah, ja, ja, jaaa!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Unas vacaciones en aguas termales? Qué delicioso.\nMe atrevería a partir en este instante, si tan\nsolo pudiera."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Pero, ay, no está en las cartas mientras yo aún\nrecorro el camino del Señor Supremo.",
+      "choice_data_list": [
+        "¿Vas a esperar?",
+        "¿Vas a esperar?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Sí. Mientras recorro este camino, no debería\nentretener otro."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ojalá las aguas termales vinieran a mí! ¿No\ndeberían acudir a mis pies en el momento en que\nlas llamo?",
+      "choice_data_list": [
+        "Las aguas termales... no se pueden mover."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿En serio? Son sorprendentemente poco\ncomplacientes."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Entonces no se puede hacer nada. Te confiaré el\nboleto por ahora."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ciérralo con cera usando el sello del rey y\nguárdalo hasta que llegue el momento apropiado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y ahora el boleto de vacaciones en aguas termales\nestá en mi posesión."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Je, je, je... ¿Puedes verlo? ¡Porque yo\ndefinitivamente sí puedo!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "En la cima del camino del Señor Supremo... ¡hay\nunas aguas termales! ¡Fluciendo libremente desde\nla misma tierra! ¡Jaa, ja, ja!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con unas vacaciones en aguas termales que esperar,\n¡la motivación de Opera O se dispara!"
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Parece que tenemos otro ganador del primer\npremio! ¡Felicitaciones! ¡Obtienes un filete de\nhamburguesa de zanahoria de lujo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ja, primer premio! La suerte ciertamente me ama.\n¡Incluso yo, una reina de reinas, estoy complacida\ncon esto!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Pero espera! ¿Podría ser?! ¡La espada santa ante\nnosotros no es otra que... Excaliburger!",
+      "choice_data_list": [
+        "¿Qué dices?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Contemplen! ¡Una sola zanahoria está clavada en\nla piedra de carne molida!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Solo uno digno de gobernar es capaz de extraerla."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Lo que significa que no tengo un momento que\nperder. ¡Debemos darnos prisa a la cocina!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Estoy preparada! ¿Estás listo, Entrenador?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Una vez que extraiga la zanahoria, debes decir las\npalabras de revelación. ¿Entendido?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Listo... <i>¡Pop!</i>",
+      "choice_data_list": [
+        "¡Oh! ¡Tú <i>eres</i> el verdadero rey!"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Contemplen mi gloria! ¡Jaa, ja, ja! <i>Mordisqueo,\nmordisqueo...</i>"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Esta espada santa... ¡está deliciosa! ¡Realmente\nun manjar para los paladares reales!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Opera O devora Excaliburger, contenta tanto con el\nsabor como con lo divertido que es comerlo."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Tenemos un ganador del segundo premio! ¡Es tu día\nde suerte! ¡Te llevas a casa un haz de zanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Hmn, segundo premio. Normalmente me va mejor que\nesto. Y aún así..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Míralos a todos! Con un poco de amor mía, serían\ngrandes regalos de aprecio para mis admiradores\nadornadores."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ah, perfecto. ¡Joven por allí, te otorgo una\nzanahoria."
+    },
+    {
+      "name": "Chico",
+      "text": "Guacala... Quédate. Odio las zanahorias."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Jaa, ja, ja! ¿Qué quieres decir? Esta no es una\nzanahoria cualquiera, sino un regalo amoroso de la\nque escribe."
+    },
+    {
+      "name": "Chico",
+      "text": "Ahora realmente no la quiero..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Joven! ¡Espera!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Cómo puede ser? ¡Ah! Ya entiendo. Con solo probar\nesta zanahoria, todos los demás alimentos\nquedarían insípidos."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ah! ¡No puedo resistir más! Entrenador, debemos\ncomernos todas las zanahorias nosotros mismos."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Un ballet de zanahorias, je t'aime! ¡Todos\nbailaremos el baile de las zanahorias juntos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos comemos las zanahorias mientras hacemos una\ncoreografía extraña. El sabor no es para escribir\nen casa, pero están buenas de todos modos."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Miren aquí! ¡Has ganado el tercer premio! ¡Aquí\ntienes tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Qué? ¿Una sola zanahoria?! ¡Cómo te atreves a\ninsultar a la realeza!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Qué tienes que decirte a ti misma, zanahoria?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella desahoga su ira con la zanahoria. Por\nsupuesto, no tiene respuesta."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "No me queda otra opción que cantar una balada de\ntristeza, reutilizando la zanahoria como\nmicrófono."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Son momentos como este en los que te enfurruñas en\ntus tristezas, te pones un manto diferente y\ncantas el blues. ¡Vamos, banda!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ahhh, sí! ¡Uh-huh! ¡Mhmmm!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Bienvenidos al reino de la zanahoriaaa! ¡Tú,\nsoldado de caroteno, un deux trois!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Opera O canta con desesperación, pero los niños\nalrededor de las tiendas parecen gustar de su\ncanción."
+    },
+    {
+      "name": "Empleado de rifa",
+      "text": "¡Ohhh, mala suerte! ¡Parece que sacaste un boleto\nvacío! ¡Toma este paquete de pañuelos como premio\nde consolación!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Oh, ay... Peor no puede ser. ¡La gran yo...\nreceptora de un premio de consolación?!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Pensar que recibiría nada más que un simple\npaquete de papel tisú..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Observa cómo digo \"papel <i>de seda</i>\" y no simplemente\n\"papel.\" El primero tiene un sonido más hermoso.",
+      "choice_data_list": [
+        "C-claro...",
+        "C-claro..."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Entrenador! ¡Emito un decreto real!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Toma este paquete de papel tisú y cámbialo por un\nboleto de vacaciones en aguas termales!",
+      "choice_data_list": [
+        "No hay manera de que aceptaran eso..."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "No escucharé tus quejas. La tragedia me ha\nalcanzado, y me he convertido en el rey loco, ¡el\nSeñor Furioso!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Si fallas, te confinaré en prisión en la\nConciergerie!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una mala suerte en el sorteo ha cambiado al rey.\nNo parece que nada vaya a mejorar su estado de\nánimo."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estamos teniendo una reunión para repasar el\nentrenamiento de hoy cuando..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Bueno, no diría que mi entrenamiento ha sido malo\núltimamente, pero...",
+      "choice_data_list": [
+        "¿Te pasa algo?",
+        "¿Te pasa algo?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Siento que estoy a punto de un avance, pero no\nlogro llegar..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El cuerpo de Special Week de repente se desmaya\nmientras dice esto..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡¿Q-qué?! ¿Dónde... estoy?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Fuuush...</i>"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡¿Qué demonios?! ¿Una pista?! No sé qué está\npasando..."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Y entran en la recta! ¡Todavía es Special Week la\nque lidera!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡¿Cómo es posible?! ¡Casi estoy en la línea de\nmeta!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¿Podrá Special Week mostrar su destreza hasta la\nmeta con sus rivales persiguiéndola?!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Caray! Si dices cosas así, voy a tener que seguir\ncorriendo!"
+    },
+    {
+      "name": "Special Week",
+      "text": "<i>Uf... uf... uf...</i>"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Y la ganadora es Special Week! ¡Ella cumple el\ntrabajo y la multitud puede irse a casa feliz!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Me pregunto qué carrera fue esa..."
+    },
+    {
+      "name": "Special Week",
+      "text": "No entiendo muy bien qué está pasando, pero eso\nfue divertido. La sensación de tener la línea de\nmeta a la vista... ¡Oh!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Eso es! ¡Finalmente sé la respuesta a lo que me\nha estado molestando tanto tiempo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Fuuush...</i>"
+    },
+    {
+      "name": "Special Week",
+      "text": "...¡Oye, Entrenador!",
+      "choice_data_list": [
+        "¡¿Qué pasó?! ¿Estás bien?!",
+        "¡¿Qué pasó?! ¿Estás bien?!"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Guau, todo ha vuelto a la normalidad!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡De todos modos, escúchame! ¡Tuve una revelación!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Finalmente descubrí cuándo debo hacer mi último\nesprint hacia la línea de meta!"
+    },
+    {
+      "name": "Special Week",
+      "text": "No sé cómo pasó. Tal vez sea solo porque me ha\nestado molestando por tanto tiempo..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Pero siento que mi entrenamiento va a ir mejor\nque nunca a partir de ahora!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La revelación parece haber desbloqueado parte del\npotencial oculto dentro de Special Week."
+    }
+  ]
+}

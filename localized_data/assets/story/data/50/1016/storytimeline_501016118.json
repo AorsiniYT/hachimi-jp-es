@@ -1,0 +1,198 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras entrenamos para el Tenno Sho de\notoño..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿Viste las noticias de esta mañana, Entrenador?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cada año por esta época, liberan una lista de\ntodos los que han anunciado su intención de correr\nen las carreras de la Triple Corona de Otoño\nSenior.",
+      "choice_data_list": [
+        "Ahora sabes contra quién te enfrentas en cada\ncarrera.",
+        "Ahora sabes contra quién te enfrentas en cada\ncarrera."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...No importa contra quién corra. Planeo tomar el\nprimer lugar independientemente."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Dicho esto, no soy tan engreída como para pasar\npor alto esta información."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "De ahora en adelante, debemos tener en cuenta a\nnuestros oponentes durante el entrenamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Reviso todos los materiales que tenemos a mano\npara formular una estrategia para manejar a los\nrivales de Narita Brian."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Según la lista, Hishi Amazon—que hizo una\npresentación feroz en el Arima Kinen—ha anunciado\nsu intención de correr en la Japan Cup."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin duda, será más fuerte ahora de lo que fue en\nel Arima Kinen."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y en cuanto al próximo Tenno Sho de otoño..."
+    },
+    {
+      "name": "Fellow Trainer",
+      "text": "Oye, ¡parece que este debería estar en la bolsa!\n¿Estás compitiendo contra esa Matikanetannhauser,\nverdad?",
+      "choice_data_list": [
+        "...Parece que sí."
+      ],
+      "color_text_info_list": [
+        "Matikanetannhauser"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Matikanetannhauser. Podrías decir que es\nalguien de la que la gente no puede dejar de\nhablar, en cierto sentido."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de tener fuerza amplia para ganar carreras\nG1, varios factores parecen alinearse siempre y\nprevenir que gane."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las estrellas parecían haberse alineado finalmente\npara ella en el Arima Kinen del año pasado..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero entonces aparentemente se enfermó justo antes\ny ni siquiera pudo correr."
+    },
+    {
+      "name": "Fellow Trainer",
+      "text": "Si eso es contra quién se enfrenta, Narita Brian\nno debería tener problema."
+    },
+    {
+      "name": "Fellow Trainer",
+      "text": "¿Estás corriendo en la Japan Cup, verdad? Si es\nasí, deberías concentrar tus esfuerzos en lidiar\ncon esa \"Reina de las Amazonas\" allí.",
+      "choice_data_list": [
+        "No podemos hacer eso..."
+      ]
+    },
+    {
+      "name": "Fellow Trainer",
+      "text": "Caray, eres demasiado cuadriculado. Te vas a\ncansar si no aprovechas lo que puedes."
+    },
+    {
+      "name": "Fellow Trainer",
+      "text": "Para no mencionar, ustedes dos parecen estar\nhaciendo un gran escándalo sobre esta \"batalla de\nhermanas\", pero la verdad es que los medios\nesperan que Biwa Hayahide dr—"
+    },
+    {
+      "name": "Fellow Trainer",
+      "text": "¡E-Eh! ¿¡A dónde vas?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En el curso de entrenamiento, Narita Brian acaba\nde terminar su calentamiento."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Estoy lista para ir en cualquier momento,\nEntrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Brian es una corredora que tiene un enfoque\nde frente para correr. Seguramente, el Tenno Sho\nde otoño no será la excepción...",
+      "choice_data_list": [
+        "¿Estás tomando en serio el Tenno Sho de otoño,\nverdad?",
+        "¿Estás tomando en serio el Tenno Sho de otoño,\nverdad?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Solo correr puede satisfacer este antojo en mi\ncorazón."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Y esta es la Serie Twinkle—no hay tiempo para\natajos."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No existe tal cosa como un oponente fácil, así que\nsiempre tomo mis carreras en serio.",
+      "choice_data_list": [
+        "(...Y eso es lo que hace que Brian sea Brian.)",
+        "(...Y eso es lo que hace que Brian sea Brian.)"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Oye, ¿qué pasa? No tenemos tiempo para sentarnos a\nperder."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Narita Brian corre ejercicios de\nentrenamiento repetidamente en preparación para el\nTenno Sho de otoño."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esa noche..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Esto es todo?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Brian!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿Hermana?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Por qué no estás usando tu uniforme? Hoy es un\ndía laborable."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...No hay entrenamiento hoy, así que voy a salir."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Por cierto, me enorgullece verte trabajar tan duro\ntodos los días."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No hables como si no tuviera nada que ver contigo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Planeo superarte, así que más te vale estar lista."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...Ya soy una de las muchas detrás de ti, mirando\ntu espalda."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Perdón?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Brian, solo sigue corriendo hacia adelante. Nunca\nmires atrás."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿Hermana?"
+    }
+  ]
+}

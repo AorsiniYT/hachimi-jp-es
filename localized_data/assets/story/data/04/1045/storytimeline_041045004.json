@@ -1,0 +1,200 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Ha llegado el día del partido de práctica contra\nel entrenador experimentado."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Me alegra que hayas venido hoy a apoyarme, Tamtam."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Eh! No hace falta que me acaricies la cabeza cada\nvez que me ves."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Pero de todos modos, por supuesto que vine. Hemos\nentrenado juntos todo este tiempo, así que mejor\nmuéstrame algunos resultados."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Lo haré!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Cómo te sientes, Entrenador? ¿Te sientes\nnervioso?",
+      "choice_data_list": [
+        "Debería ser yo quien te haga esa pregunta...",
+        "Debería ser yo quien te haga esa pregunta..."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Tú sabes mejor, pero no puedo evitar preocuparme\nun poco por ti."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Me siento genial, aunque, porque sé que estás\ndetrás de mí todo el tiempo."
+    },
+    {
+      "name": "First-rate Trainer",
+      "text": "Buenos días, Rookie y Super Creek. Parece que han\nhecho su entrenamiento según lo planeado."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Buenos días. Espero con interés la carrera de hoy."
+    },
+    {
+      "name": "First-rate Trainer",
+      "text": "Estás tomando esto muy casualmente. Supongo que\nesto significa que estás completamente listo para\nunirte a mi equipo.",
+      "choice_data_list": [
+        "Super Creek no va a perder."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh, cielos, ¿cuándo te volviste tan valiente? ♪"
+    },
+    {
+      "name": "First-rate Trainer",
+      "text": "Puedo ver que ustedes dos son cercanos, pero esa\nrelación termina hoy. Ya tengo listo el nuevo plan\nde entrenamiento para Super Creek."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con confianza inquebrantable, el entrenador\nexperimentado se aleja."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Ahora que hemos terminado de saludarnos, ¿por qué\nno nos preparamos nosotros también?"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Aunque la carrera de hoy no es oficial, me\naseguraré de obtener nuestra primera victoria.\nPiénsalo como un pequeño regalo de mi parte.",
+      "choice_data_list": [
+        "¡Tú puedes, Creek!",
+        "¡Tú puedes, Creek!"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Sí! ¡Voy a darlo todo! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, comienza la carrera entre Super Creek y la\ncorredora del entrenador experimentado."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Super Creek",
+      "text": "<i>Haa... Haa...</i> Como esperaba, es bastante rápida."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Pero no dejaré que se desperdicie el esfuerzo de\nmi entrenador y Tamtam."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Super Creek acelera a un ritmo vertiginoso a pesar\nde que solo es la primera mitad de la carrera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esto es como en las pruebas, pero de alguna manera\nestá corriendo aún más rápido."
+    },
+    {
+      "name": "First-rate Trainer",
+      "text": "No ha llegado ni a la mitad, pero ya está\nrompiendo en un sprint."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Na, tú solo no lo entiendes. Eso no es un sprint,\nes su estilo de correr. Siempre tuvo las\nhabilidades para hacer su debut cuando quisiera."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "La razón por la que no ha debutado todavía es\nporque su entrenador estaba cuidando de ella."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Dado que no está en gran forma en este momento."
+    },
+    {
+      "name": "First-rate Trainer",
+      "text": "¿¡Estás diciendo que <i>esto</i> no es su condición\nmáxima?!",
+      "choice_data_list": [
+        "¿¡En serio?!",
+        "¿¡En serio?!"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¿¡Qué diablos, no lo sabías?!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "No estuvo bien durante unos días desde que te\nconvertiste en su entrenador... Bueno, supongo que\nno lo sabrías, ya que no es el tipo de persona que\nle gusta preocupar a la gente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todo este tiempo, pensé que era mi incapacidad\ncomo entrenador novel para crear un plan de\nentrenamiento adecuado. No sabía que había estado\nluchando..."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "...Pero sí cambiaste su entrenamiento, ¿verdad? La\nhizo muy feliz. Me decía cómo crecías día a día."
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Al final, cualquier error que hayas cometido con\ntu plan no importa. Lo más importante es que te\nimporta ella."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero todavía no puedo escapar de la sensación\nmolesta de que ella ha estado cuidando de mí mucho\nmás de lo que he podido cuidar de ella.",
+      "choice_data_list": [
+        "Prometo que voy a ser el mejor y más confiable\nentrenador para ti.",
+        "Prometo que voy a ser el mejor y más confiable\nentrenador para ti."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Reuniendo todos mis sentimientos, grito con todas\nmis fuerzas a través del campo a Super Creek."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh, cielos, Entrenador. ♪"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Voy a ganar para poder seguir dándote toda la\natención que necesitas"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Fiel a su palabra, Super Creek termina muy por\ndelante de su oponente y gana"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un poco después..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh, estoy un poco nerviosa ahora que mi carrera de\ndebut se acerca",
+      "choice_data_list": [
+        "Yo también...",
+        "Yo también..."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh querido, no podemos tener eso ahora. Todo va a\nestar bien, Entrenador. Estás haciendo un gran\ntrabajo"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Una vez que debute, voy a traer a casa todos los\ntrofeos para nosotros. Voy a mostrarle a todos qué\nentrenador tan maravilloso eres"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Prometo cuidarte bien, ¿de acuerdo? ♪"
+    }
+  ]
+}

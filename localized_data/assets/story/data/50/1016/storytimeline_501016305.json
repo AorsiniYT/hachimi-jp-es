@@ -1,0 +1,143 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "¡Es Narita! ¡Narita va en la delantera! ¡Narita\nBrian ha cruzado la línea de meta!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los vítores y gritos de alegría sacuden el\nrecinto. Aunque solo es la primera carrera de la\nTriple Corona Clásica, hay un sentido sin\nprecedentes de excitación en el aire."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Skilled Trainer",
+      "text": "...¡Qué corredora tan increíble! ¡No puedo creer\nque sea nuestra competencia este año!"
+    },
+    {
+      "name": "Reportera",
+      "text": "Ella hizo que las otras corredoras parecieran\naficionadas. Simplemente está en un nivel\ncompletamente diferente..."
+    },
+    {
+      "name": "Fotógrafa",
+      "text": "No hay duda... ¡Ella va a ser la Campeona de la\nTriple Corona!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Me adelanto. Estaré en la sala de espera.",
+      "choice_data_list": [
+        "Sí, déjame esto a mí.",
+        "Sí, déjame esto a mí."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Bien."
+    },
+    {
+      "name": "Reportera",
+      "text": "¡Por favor espere! ¡Narita Brian! Al menos unas\npalabras, ¡por favor!",
+      "choice_data_list": [
+        "¡Disculpe! ¡Por aquí!"
+      ]
+    },
+    {
+      "name": "Fotógrafa",
+      "text": "E-espere un momento! ¡Una foto! ¡Solo una foto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Charla, charla.</i>"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Je."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Yo manejo a la prensa en la entrada para evitar\ncausar un alboroto en el túnel de corredoras.",
+      "choice_data_list": [
+        "...Hecho, al fin."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debería apresurarme e ir a Narita Brian. Ella\nprobablemente también quiera discutir nuestro\npróximo calendario."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Oye, ¿viste a esa corredora? Fue una total bestia\nen ese tramo final.",
+      "color_text_info_list": [
+        "bestia"
+      ]
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¿Te refieres a Brian, verdad? Me pregunto si ella\nestará en el Derby también. Acabo de enviarle un\nmensaje a mi entrenador para que hablemos de ello.",
+      "color_text_info_list": [
+        "Derby"
+      ]
+    },
+    {
+      "name": "Ambas",
+      "text": "<i>Suspiro...</i> Narita Brian..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al parecer, la carrera de hoy causó bastante\nimpacto—no solo en los espectadores y reporteros,\nsino en todos los presentes."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Te tomó bastante tiempo.",
+      "choice_data_list": [
+        "Perdón por hacerte esperar."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tch... No quería que te disculparas."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "El Japanese Derby estará aquí antes de que nos\ndemos cuenta, así que apresurémonos y hablemos.",
+      "color_text_info_list": [
+        "Japanese Derby"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Competiré contra las mismas corredoras que en el\nSatsuki Sho de hoy?",
+      "choice_data_list": [
+        "¿Quieres correr contra ellas de nuevo?",
+        "¿Quieres correr contra ellas de nuevo?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ja, ¿qué estás diciendo?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Por supuesto! No importa lo que otros puedan\ndecir, ni una sola persona miró hacia abajo\ndurante esa carrera."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "La exhilaración de esa carrera solo puede ser\nentendida por aquellos que estuvieron en el\ncésped. Esta es la Triple Corona Clásica—la\ncompetencia de mi generación."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Retiro lo que dije antes de la carrera. Voy a\ndisfrutar este año al máximo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En este momento, Narita Brian parece poseer una\npasión completamente aparte de las que la rodean."
+    }
+  ]
+}

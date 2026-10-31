@@ -1,0 +1,36 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Oguri Cap está hablando con una estudiante más\njoven durante un descanso del entrenamiento."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Muchas gracias, Oguri. ¡Hasta luego!",
+      "choice_data_list": [
+        "¿De qué se trataba?"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Ella quería algunos consejos de carrera."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Siempre he tenido dificultades para poner mis\npensamientos en palabras, pero últimamente, creo\nque lo he estado haciendo un poco mejor."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Probablemente por eso cada vez más personas vienen\na mí para pedir consejo."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Quizás he mejorado porque siempre escuchas con\natención lo que tengo que decir... Gracias."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La sonrisa tímida de Oguri Cap me recuerda una vez\nmás lo feliz que soy de ser su entrenador."
+    }
+  ]
+}

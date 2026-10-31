@@ -1,0 +1,211 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, me encuentro en posesión de una porción de\ncupcakes, cortesía de Tazuna."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me dirijo al salón de clases para darle uno a\nTokai Teio, cuando..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Oh?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Oye, Entrenador! ¿Qué pasa?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Resulta que Tokai Teio no es la única que sigue en\nel salón—Mejiro McQueen, Daiwa Scarlet y Vodka\ntambién están presentes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como están aquí, decido darles a cada una un\ncupcake también."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Oh! ¡Hay tantos sabores! ¿Cuál debería escoger? ♪\nOpciones, opciones...",
+      "choice_data_list": [
+        "Todos, adelante y sírvanse."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Por qué, gracias. Creo que tomaré el de castaña,\nentonces."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Estoy de humor para fresa. Gracias un montón."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Ese de chocolate tiene mi nombre escrito!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Qué?! ¡Pero yo iba a tomar ese!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Ah... Qué lástima. Quien duerme, pierde."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Heeey! ¡Estas magdalenas se suponía que eran para\n<i>mí!</i>",
+      "choice_data_list": [
+        "¿Por qué no lo partimos?",
+        "¿Por qué no peleas por él?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sugiero que Teio tome la mitad del pastelito de\nchocolate y la mitad del de vainilla que queda\n¡dos sabores por el precio de uno!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En el momento en que termino de explicar, los ojos\nde Tokai Teio brillan."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ya entiendo! ¡Eres muy inteligente, Entrenador!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Me parece bien. ¡La vainilla también se ve genial!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Yo también! ♪ ¡Vale, partámoslos!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Jeje! ¡Huelen tan bien! ♪"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Bueno, compartir es querer. Oye, McQueen, ¿quieres\ntambién partirla a medias?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Sí, vamos! ♪"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Oh. En realidad... McQueen, el tuyo también se ve\nrico. ♪"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Oye, ¿puedo probar un pedazo? ¿Solo un poquito?\n¿Por favor? ¿Por faaaavor?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Vale, vale! ¡Ay, por Dios! Pero solo un bocado,\n¿vale?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Yujuu! ♪ ¡Gracias!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Oye! ¡Eso no fue solo un bocado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tokai Teio está de excelente humor después de\nprobar los pastelitos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella va a entrenar con buen ánimo, y da todo de\nsí."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Oh, sí! ¡Luchemos por él!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Esperaba que dijeras eso! ¿Cómo vamos a resolver\nesto?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Qué tal una prueba sorpresa sobre la Presidenta!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Una qué?!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Nos hacemos preguntas sobre la Presidenta, y quien\nobtenga más respuestas correctas ¡gana!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Ni hablar! ¡No sé nada sobre ella!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Si vamos a hacer una prueba, debería ser sobre\nmotocicletas!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Quéeee? ¡Pero no sé nada sobre esas!",
+      "choice_data_list": [
+        "¿Qué tal una carrera, para que sea justo?"
+      ]
+    },
+    {
+      "name": "Ambas",
+      "text": "¡Eso es!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En el momento en que terminan de hablar, la pareja\nse precipita hacia la salida, ambos forcejeando\npor ser los primeros en salir."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ah... Perdón por Vodka. Ella puede ser, bueno, ya\nsabes."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Qué hacemos con estos pastelitos? Parece que esos\ndos los han olvidado por completo.",
+      "choice_data_list": [
+        "Yo los llevaré.",
+        "Yo los llevaré."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Gracias. ¡Buena suerte con esos dos!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "<i>Haa... Haa...</i> ¡Llegué primero!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Nooo! ¡Estuve aquí <i>días</i> antes!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de una carrera reñida, los dos no se ponen\nde acuerdo sobre quién llegó primero."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Continúan su competencia en todo tipo de\nenfrentamientos, pero terminan decidiendo con una\nronda de piedra, papel o tijeras."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Y, por supuesto, olvidaron por completo los\npastelitos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En cualquier caso, los enfrentamientos de hoy le\ndieron a Tokai Teio una gran experiencia."
+    }
+  ]
+}

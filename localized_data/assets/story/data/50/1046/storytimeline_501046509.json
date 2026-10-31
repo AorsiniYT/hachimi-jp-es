@@ -1,0 +1,30 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Durante el entrenamiento, Smart Falcon se acerca a\nmí sin aliento..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "<i>Haa... resuello...</i> Entrenador... ¿Qué...\ndebería... hacer?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Mi fatiga no se va ni un poco... ¡No hay manera de\nque pueda entrenar de manera linda así!",
+      "choice_data_list": [
+        "¿Entrenar... de manera linda?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Sí... Mis músculos necesitan ser lindos y\nsaludables si quiero ser la mejor ídolo."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Pero cuando estoy tan agotada, lo único que puedo\nhacer es entrenar cansada!"
+    },
+    {
+      "text": "Parece estar exhausta... Tal vez necesito revisar\nsu calendario de carreras."
+    }
+  ]
+}

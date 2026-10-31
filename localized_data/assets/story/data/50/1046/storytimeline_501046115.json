@@ -1,0 +1,270 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Smart Falcon ha decidido inscribirse en el Satsuki\nSho. Sin embargo, el camino por delante no es nada\nsuave..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "B-bueno, ¿qué opinas?",
+      "choice_data_list": [
+        "Bueno..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su aptitud representa un gran obstáculo. Tan\npronto como pisa el césped, su rendimiento\ndisminuye significativamente."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "<i>Suspiro...</i> No sirve, ¿eh?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Puedo notar que algo no está bien cuando corro.\nComo que simplemente no puedo darlo todo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No queda mucho tiempo antes del Satsuki Sho. O\nseguimos intentándolo y esperamos un milagro, o...",
+      "choice_data_list": [
+        "Necesitamos cambiar las cosas, en grande.",
+        "Necesitamos cambiar las cosas, en grande."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Un gran cambio..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Qué tal... ¡Sí! Creo que podría tener justo ¡la\ncosa! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...¡Guau, guau, guau! ♪ ¡Yay!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Vamos, Suzuka! ¡Tú también, Entrenador! No pongas\nesa expresión en blanco. Todos juntos ahora...\n¡Yay! ☆",
+      "choice_data_list": [
+        "¡Yay!"
+      ],
+      "color_text_info_list": [
+        "Suzuka"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Eh... ¿Yay?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Perdón, pero... ¿de qué se trata todo esto, Smart\nFalcon?",
+      "color_text_info_list": [
+        "Smart Falcon"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Te dije que me llamaras Falco! ☆ No seas tan\ntensa, ¡Suzuka! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Silence Suzuka ya ha logrado un gran exito en\ncésped. Su estilo dinámico y poderoso de fuga\ncautiva a todos los que la ven.",
+      "color_text_info_list": [
+        "Silence Suzuka"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La brillante idea de Smart Falcon parece\ninvolucrarla de alguna manera, pero aún no está\nclaro cómo esto está ayudando..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Eh... Pensé que querías que te diera algunos\nconsejos sobre correr en césped..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Así es! ☆ Muchas gracias por aceptar ayudar. ♪"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Me encanta la forma en que corres, Suzuka! Por\neso quiero que me enseñes!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Me alegra que te sientas así, pero... ¿por qué\nestamos en karaoke?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Antes de correr, también quiero algunos consejos\nsobre cantar de ti. ¡Ehe! ☆"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Q-qué?! No es como si fuera buena en can—",
+      "choice_data_list": [
+        "¡Aquí tienes tu micrófono!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿T-tú también?!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Muy bien, vamos! A-M-O-R, ¡amo a Suzuka! ☆"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Eh?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, después de pasar un tiempo aprendiendo (?)\na cantar de Silence Suzuka..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>Haa...</i> No puedo creer que me hayas hecho cantar\nseis canciones seguidas..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Jaja, gracias por cantar para nosotros! ♪ ¡Me\ntienes muyyy emocionada! ☆"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Por eso yo..."
+    },
+    {
+      "name": "Transeúnte A",
+      "text": "¡Guau! ¿No es esa Silence Suzuka?!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Transeúnte B",
+      "text": "¡Esa es! ¡Es Suzuka! ¡Oh, por Dios!"
+    },
+    {
+      "name": "Transeúnte C",
+      "text": "¡Suzuka, en persona! ¡Guau, es aún más linda en la\nvida real!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Antes de que nos demos cuenta..."
+    },
+    {
+      "name": "Fan de Suzuka A",
+      "text": "¡Vi tu última carrera! ¡Estuviste increíble, como\nsiempre!"
+    },
+    {
+      "name": "Fan de Suzuka B",
+      "text": "¡No puedo esperar a ver tu próxima carrera! Y,\neh... Todavía hace frío, ¡asegúrate de mantenerte\nabrigada!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Oh... Muchas gracias."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Guau, está completamente rodeada. Suzuka realmente\nes popular."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...Pero, es fácil entender por qué. Suzuka corre\nhermosamente, y canta hermosamente."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Me tiene fascinado. ¡Simplemente la amo!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Apuesto a que todos se sienten energizados solo\ncon mirarla."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Quiero ser así también..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Silence Suzuka probablemente se acerca a lo que\nSmart Falcon tiene en mente cuando imagina una\nUmadol top.",
+      "choice_data_list": [
+        "Tienes lo que se necesita, Falco."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Jeje, ¡gracias! Yo también lo creo."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Pero no puedo quedarme en la línea lateral\nsoñando!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Tengo que hacerlo realidad con mis propias\npiernas!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Hola, fans de Suzuka! ☆"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Soy la Umadol de la que todos hablan, Falco! ¡Y\nvoy a correr en el Satsuki Sho! ♪"
+    },
+    {
+      "name": "Fan de Suzuka A",
+      "text": "\"¿Falco\"? No creo haber escuchado de ti..."
+    },
+    {
+      "name": "Fan de Suzuka B",
+      "text": "Pero si vas a correr en el Satsuki Sho, debes ser\nbastante buena... supongo."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Bueno, ¿por qué no lo descubren con sus propios\nojos? ☆ ¡Nos vemos en el hipódromo!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡También actúo en la calle, así que pásate cuando\nquieras! ♪"
+    },
+    {
+      "name": "Fan de Suzuka C",
+      "text": "Bueno, parece interesante. Tal vez investigue\nsobre ella..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...Jeje. Realmente es algo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, Silence Suzuka le da a Smart\nFalcon algunos consejos de carrera de vuelta en la\nacademia."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>Uf...</i>"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Guau! Es tan increíble. ¡Voy a ser justo como\nella!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Inspirada por el canto y la carrera de Silence\nSuzuka, Smart Falcon mira al Satsuki Sho con un\nespíritu renovado."
+    }
+  ]
+}

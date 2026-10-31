@@ -1,0 +1,24 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Las semifinales están aquí! La competencia es tan\nfiera, que puedo sentir la presión desde aquí."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Entrenador... ¿Cómo te sientes?",
+      "choice_data_list": [
+        "Creo que va a ganar."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Genial! ¡Ve a por ellos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El URA Finale... Por fin, las semifinales están a\npunto de comenzar!"
+    }
+  ]
+}

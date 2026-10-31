@@ -1,0 +1,53 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es hora de los Clásicos de primavera. El\nentrenamiento intenso queda descartado por ahora,\npero..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Woooo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Derby Japonés. Incapaces de resistir esta\noportunidad única en la vida, apuntamos a las\nestrellas. ¿Y el resultado?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "<i>Haa... Resuello...</i>"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...Fuiste sabio al no forzar la victoria. Dicho\nesto, creo que podríamos haber omitido esta\ncarrera completamente."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Entrenador, necesito que te esfuerces tanto con tu\ntratamiento como ella se esforzó en sí misma.\nVamos a administrar suplementos 3a, 8b y 6d_2 en\nese orden.",
+      "choice_data_list": [
+        "¡Entendido!",
+        "¡Entendido!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Necesitarás tres días de descanso. Pero dado que\nhemos reducido tu entrenamiento, estoy segura de\nque estarás bien."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Lo siento, Tachyon..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ja, ja, es un poco tarde para disculpas, ¿no\ncrees?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Todos perseguimos aquello que sabemos que es\ninalcanzable. Personas, Umamusume, todos nosotros."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de brindarle el mejor cuidado posterior\nposible, Manhattan Cafe se recupera sin problemas\ngraves y mantenemos la esperanza para la temporada\nde otoño."
+    }
+  ]
+}

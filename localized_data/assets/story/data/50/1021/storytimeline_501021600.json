@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Me encanta la sensación que tengo antes de una\ncarrera! Es electrizante, ¡como si me hubiera\nalcanzado un rayo!",
+      "choice_data_list": [
+        "¿Te sientes nerviosa?"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Bueno, sí. Pero estos nervios son justo lo\nnecesario para añadirle emoción!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "No puedes abrirte camino a la fuerza hacia la\nvictoria. ¡Tienes que correr con la cabeza fría!",
+      "choice_data_list": [
+        "¡Sé que puedes con esto!",
+        "¡Sé que puedes con esto!"
+      ]
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "Jeje, ¡por supuesto! ¡Mantén tus expectativas\naltas hoy!"
+    },
+    {
+      "name": "Tamamo Cross",
+      "text": "¡Quédate quieto y nos vemos luego! ¡Estás a punto\nde ver lo que White Lightning puede <i>realmente</i>\nhacer!"
+    }
+  ]
+}

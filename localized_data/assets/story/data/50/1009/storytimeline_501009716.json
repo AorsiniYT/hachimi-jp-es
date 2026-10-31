@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Durante el almuerzo, veo a Daiwa Scarlet luciendo\nagitada."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡No puedo creerlo! Ugh... ¡Esto no tiene sentido!\n¡Ni siquiera como tanto!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Entonces, ¿por qué mi uniforme se siente tan\najustado? ¡Entrenador! ¡Necesito hacer algo de\nentrenamiento, ya!",
+      "choice_data_list": [
+        "¡Es hora de quemar esas calorías!"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Grrrrrr! ¡Ese es el plan, cerebro de zanahoria!\n¡No lo digas en voz alta!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de ejercitarse furiosamente—en ambos\nsentidos de la palabra— Daiwa Scarlet regresa\nexitosamente a su peso habitual."
+    }
+  ]
+}

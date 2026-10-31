@@ -1,0 +1,184 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de haber visto un partido de práctica\njuntos, Mayano Top Gun y yo nos dirigimos a casa,\ncuando..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Oye, Maya! ¿Viniste a la carrera para apoyarme?!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Sí! Buen esfuerzo ahí afuera, Urara. ☆"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ehehe, gracias!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Hoy fue súper divertido! Puede que haya quedado\nen último lugar, pero igual corrí mucho. ♪"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Qué genial! ¡Eres tan positiva! ¡Yo siempre me\nenfurruño cuando pierdo! ☆"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Creo que las carreras son divertidas pase lo que\npase! ¡Solo amo correr!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Pero... ¡ganar es realmente difícil! ¿Cómo lo\nhaces?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Yo?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí! ¡Siempre eres súper rápida—como un jet!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Creo que si fuera tan rápida como tú, también\nganaría!",
+      "choice_data_list": [
+        "¿Qué te parece si te unes a nuestras prácticas?"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Buena idea! ☆"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Si practicas conmigo, estoy segura de que ganarás\nla próxima vez!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Bienvenido a la Serie de Conferencias Especiales\nde Maya y el Entrenador! ☆ ¡Serás nuestro único y\nexclusivo estudiante para hoy! ♪"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí, sí! ¡Urara, reportándose para el deber!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡No hay tiempo que perder! ¡Comencemos! Primero,\nuna pregunta para el Entrenador! ☆"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Qué necesita Urara para ganar?",
+      "choice_data_list": [
+        "¡Resistencia para evitar que se agote!",
+        "¡Un truco para adelantar a sus rivales!"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Eso es! ☆ ¡Esperaría nada menos de mi entrenador!\n♪"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Ahem! Ahora entonces, ¡Haru Urara!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Para decirlo simplemente... ¡te quedaste\ncompletamente sin combustible en pleno vuelo en tu\núltima carrera!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Totalmente! Fue muy divertido, pero estaba súper\nagotada!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Si puedes mejorar tu resistencia, deberías ser\ncapaz de correr sin agotarte. ☆"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Tiene sentido! ¡Eres tan inteligente, Maya! ♪"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Enfría tus motores por un segundo! ¡Hoy soy tu\nprofesora, así que llámame Señorita Maya!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí, Señorita Maya!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, el entrenamiento de Haru Urara con la\n<i>Señorita</i>Mayano Top Gun comienza."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Guau! ☆ ¿¡Estás leyendo mi mente?! ¡Estaba\npensando lo mismo! ♪"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Oye, Urara, ¿cómo sueles correr?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Normalmente? ¡Solo corro con todo lo que tengo!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Hmm, ya veo... ¿Hay algo con lo que estés teniendo\nproblemas?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Eh, es que no puedo adelantar! ¡Siempre pienso que\nchocaré con alguien y empiezo a entrar en pánico!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Oho! ¡Ya veo!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Intentemos esto. La próxima vez que corras, solo\nmira hacia adelante."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Sigue mirando hacia adelante, y luego cuando nadie\nesté en frente de ti..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Eso es cuando avanzas a toda velocidad! ☆"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Entendido! ¡Lo intentaré! ♪"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Oye, nunca adivinarás qué! ¡Pasé a alguien!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Yay, lo hiciste! ¡Pasaste a alguien—"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "<i>¿Alguien? </i>¿Solo una persona?!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ehehe! Seguiré pasando a personas una por una\n¡hasta que quede primera! ♪"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Qué bien! Si sigues así, definitivamente llegarás\na primero algún día!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que ayudar a Haru Urara ha sido una\nexperiencia positiva para Mayano Top Gun."
+    }
+  ]
+}

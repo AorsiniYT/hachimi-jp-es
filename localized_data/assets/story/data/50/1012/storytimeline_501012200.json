@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Finalmente ha llegado el día de la carrera debut\nde Hishi Amazon."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Arrrghhh!",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Todo está empezando a calar—mi increíble uno\ncontra uno en la Twinkle Series está sucediendo\n<i>hoy!</i>"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Cómo se supone que <i>no</i> vaya a gritar y vociferar\npor eso?!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Si hubiera un día para tomar las cosas en serio,\nsería hoy."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "No puedo tener un mal comienzo, o si no todos\npensarán que soy algún tipo de debilucho! ¿Verdad,\nTeach?",
+      "choice_data_list": [
+        "¡Verdad!",
+        "¡Verdad!"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Jeje, ¡me gusta tu respuesta! Muy bien, ¡vamos!"
+    }
+  ]
+}

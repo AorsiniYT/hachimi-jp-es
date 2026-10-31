@@ -1,0 +1,79 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Sin previo aviso, somos llamados a la acción."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Anuncio! ¡La Summer Sprint Series comenzará\npronto!",
+      "color_text_info_list": [
+        "Summer Sprint Series"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Hurra! ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Pero también corrí el año pasado. ¿Por qué el\nanuncio especial?"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Explicación! Si tienes un buen desempeño en la\nSummer Sprint Series, sucederá algo bueno...\n¡posiblemente!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Oh? ¿Qué clase de cosa buena?"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Naturalmente, eso es confidencial!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Awww. Eso no es suficiente para motivarme."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Por supuesto, no es obligatorio! Puedes asistir\nal campamento de verano normalmente o correr en\notras carreras!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Eso es todo! ¡Por favor, piénsalo!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Y eso es lo que dijo. Me pregunto qué debería\nhacer...",
+      "choice_data_list": [
+        "Si <i>sí</i> quieres correr, entonces..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sugiero el Hakodate Sprint Stakes a finales de\njunio, el Keeneland Cup a finales de agosto y el\nCentaur Stakes a finales de septiembre.",
+      "color_text_info_list": [
+        "Keeneland Cup",
+        "Centaur Stakes"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella ha corrido en el Hakodate Sprint Stakes\nantes, y si queremos tiempo entre carreras para\ndescansar y prepararnos, estas tres son nuestra\nmejor opción."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hm... Eso suena divertido... pero en realidad no\nme importa. ¡Te dejaré decidir!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hm... Eso suena divertido... pero en realidad no\nme importa. ¡Te dejaré decidir!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que tendré que pensar mucho tiempo y con\ncuidado si es la decisión correcta correr en la\nSerie de Sprint de Verano."
+    }
+  ]
+}

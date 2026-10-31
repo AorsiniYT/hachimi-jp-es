@@ -1,0 +1,45 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy son los Sprinters Stakes, la segunda carrera\nG1 de velocidad en nuestra lista."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Esta carrera es solo de 1,200 metros, ¡apenas\nmenos de una milla!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Lo que significa que puedo olvidarme de las\nprecauciones y afullar el acelerador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Además, la empinada colina justo antes de la línea\nde meta del Hipódromo Nakayama requiere mucha\npotencia. Lo que significa...",
+      "choice_data_list": [
+        "¡Esta es la carrera perfecta para mostrar tus\nhabilidades!",
+        "¡Esta es la carrera perfecta para mostrar tus\nhabilidades!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Muy bien! ¡Esto es mío!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Cuando se trata de poder y velocidad, soy la\nmejor por aquí! ¡Te lo probaré!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Así que más te vale empezar a planear una fiesta,\nEntrenador!",
+      "choice_data_list": [
+        "¡Sal ahí y gánatela!",
+        "¡Sal ahí y gánatela!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Por supuesto! ¡Volveré en un santiamén!"
+    }
+  ]
+}

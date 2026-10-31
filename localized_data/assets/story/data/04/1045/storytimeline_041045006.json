@@ -1,0 +1,176 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Ha pasado un tiempo desde que he tenido un día\nlibre, así que decido ir de compras para algunas\ncosas esenciales. Me encuentro con una cara\nfamiliar en el centro comercial."
+    },
+    {
+      "name": "Niña A",
+      "text": "<i>Sollozo, sollozo...</i>"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Allí, allí. Estoy segura de que fue aterrador,\n¿verdad? Pero todo va a estar bien ahora."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Espera aquí un segundo, ¿de acuerdo? Voy a...\numm...",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Entrenador. Tiempo perfecto — parece que esta\npequeña se perdió."
+    },
+    {
+      "name": "Super Creek",
+      "text": "La encontré llorando en la esquina sola y traté de\npreguntarle qué pasa..."
+    },
+    {
+      "name": "Niña A",
+      "text": "<i>Sollozo, sollozo...</i>"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Ay, ¿fue aterrador estar sola? Allí, allí. Está\nbien ahora.",
+      "choice_data_list": [
+        "¿Dónde están tus padres?",
+        "¿Dónde están tus padres?"
+      ]
+    },
+    {
+      "name": "Niña A",
+      "text": "...",
+      "choice_data_list": [
+        "¿Te separaste?"
+      ]
+    },
+    {
+      "name": "Niña A",
+      "text": "Umm... yo... no sé... ¡uuuaaaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Maldición, no debería haber hecho esa pregunta.\nAhora está llorando.",
+      "choice_data_list": [
+        "¡Lo siento!",
+        "¡Lo siento!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rápidamente saco mi pañuelo del bolsillo y limpio\nla cara de la niña."
+    },
+    {
+      "name": "Niña A",
+      "text": "<i>Sollozo, sollozo...</i>"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Ay, Entrenador. Muchas gracias."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Tu cara está toda limpia ahora. ¿No es agradable?\nAsí que dime... ¿estabas comprando?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La pequeña asiente con la cabeza."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Ves? ¿Qué querías comprar?"
+    },
+    {
+      "name": "Niña A",
+      "text": "Quería... una Varita Mágica... porque Papá y Mamá\ndijeron... que me la comprarían..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Bueno, ¿no es agradable? Debes haber estado\nemocionada. ¿Eso significa que viniste aquí con\nPapá y Mamá?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La pequeña asiente de nuevo. No hay duda de que\nestá perdida. Me detengo, pensando en lo mejor que\nhacer en esta situación...",
+      "choice_data_list": [
+        "Iré al mostrador de información y dejaré que el\npersonal sepa."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Sí, por favor hazlo. Me quedaré aquí con ella."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al acercarme al mostrador, veo a un esposo y una\nesposa parados allí, con caras llenas de\npreocupación. Deben ser los padres de la niña."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Entrenador, muchísimas gracias por tu ayuda hoy.\nMe alegra que la pequeña haya podido reunirse con\nsus padres.",
+      "choice_data_list": [
+        "No hice nada en realidad...",
+        "No hice nada en realidad..."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "No, de verdad. Está orgulloso de ti mismo — fuiste\nde gran ayuda."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Hasta que llegaste, no sabía qué iba a hacer. No\npodía simplemente irme con la niña, así que pensé\nen pedir ayuda..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Pero no había personal cerca tampoco.\nHonestamente, me sentí atascado."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Así que cuando llegaste, fue un gran alivio. Me\nalegró mucho verte.",
+      "choice_data_list": [
+        "Pero hice que la pobre niña llorara..."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Jajaja, tal vez no estaría mal aprender un poco\nmás sobre cómo manejar a los pequeños."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Pero de verdad... me sentí seguro con tu\npresencia."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Agradecí tenerte conmigo, así que no te\nmenosprecies.",
+      "choice_data_list": [
+        "Supongo que me he vuelto un poco más confiable\nentonces."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Claro!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "Y no te olvidaste de tu pañuelo esta vez. ¡Bien\nhecho! ♪",
+      "choice_data_list": [
+        "...Lo estás haciendo de nuevo."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Jajaja, no puedo evitarlo aunque lo intente. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque nuestra dinámica no ha cambiado mucho,\nsiento que pude ganar más la confianza de Super\nCreek hoy."
+    },
+    {
+      "name": "Super Creek",
+      "text": "(Me alegra poder confiar en ti, Entrenador.)"
+    }
+  ]
+}

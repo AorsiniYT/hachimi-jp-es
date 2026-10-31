@@ -1,0 +1,181 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Fan A",
+      "text": "¡Guau! ¡Quedó en primer lugar otra vez!"
+    },
+    {
+      "name": "Admirador A de Falco",
+      "text": "¡Yeeeaaah! ¡Eres la mejor, Falco! ¡La mejor Umadol\nque existe!"
+    },
+    {
+      "name": "Fan B",
+      "text": "¡Podría ganar todas las carreras!"
+    },
+    {
+      "name": "Admirador A de Falco",
+      "text": "¡Wujuu! ¡Vaaaa, Falcooooo!"
+    },
+    {
+      "name": "Espectadores A y B",
+      "text": "¡Vaaaa, Falco!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...",
+      "choice_data_list": [
+        "¡La multitud está enloqueciendo!",
+        "¡La multitud está enloqueciendo!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Oh... Sí."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Pero no es suficiente. No se siente como ese\ndía..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Debe haber una manera de hacer los conciertos aún\nmejores...",
+      "choice_data_list": [
+        "¿No estás feliz?",
+        "¿No estás feliz?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Qué quieres decir?",
+      "choice_data_list": [
+        "Tu cara está bastante seria."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Oh."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Bueno..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Ah! Es que, no puedo permitirme relajarme aún."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Todavía hay más carreras por ahí que tengo que\nganar!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Lo siguiente es el JBC Classic. Me imagino que los\nrivales van a empezar a aparecer buscando\nderrotarme pronto."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Pero no caeré sin luchar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tan pronto como dice eso, aparece un visitante\ninesperado."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "E-espera, ¿no eres tú..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿La presidenta del consejo estudiantil?!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Smart Falcon, por favor disculpa la intromisión.\nSé que acabas de terminar de correr."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es Symboli Rudolf, la presidenta del consejo\nestudiantil de la Academia Tracen. Con la\nimpresionante cifra de siete coronas en su haber,\nciertamente pasará a la historia.",
+      "color_text_info_list": [
+        "Academia Tracen"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Eh, ¿hay algún problema? No estoy en problemas...\n¿o sí?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Se trata de que repartí volantes desde la azotea?\nO ¿de actuar en la sala de profesores? Oh no, ni\nsiquiera sé por dónde empezar..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Jaja, no hay necesidad de preocuparse. De hecho,\nestoy aquí para aplaudir tus esfuerzos."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Primero, me gustaría darte mis felicitaciones.\nSeguido de... mi más sincera apreciación."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Como presidenta del consejo estudiantil, he sido\ninformada de tu creciente popularidad."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "El mundo de las carreras ha estado revolucionado\ndesde que hiciste tu anuncio. Asistencia,\nparticipación... Todas las cifras han ido en\naumento."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Como alguien que desea profundamente la\nprosperidad de todas las Umamusume, y como una\nUmamusume yo misma..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Me gustaría expresar mi más sincero agradecimiento\npor todo tu trabajo duro. Espero con ansias aún\nmás actuaciones excepcionales."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Y-yo haré lo mejor posible!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "No puedo creerlo... La presidenta en persona me\nagradeció personalmente...",
+      "choice_data_list": [
+        "Esa es prueba de lo exitosa que has sido."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Eh... Supongo que sí."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Si es así, eso solo significa más trabajo para mí.\n¡Quiero cumplir con sus expectativas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Smart Falcon está rebosante de positividad después\nde recibir los cumplidos de Symboli Rudolf."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Pero no es suficiente. No se siente para nada como\nese día..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La carrera la ha dejado un poco demasiado alterada\npara mi gusto, pero ahora no es el momento de\naguar las cosas. Con eso en mente...",
+      "choice_data_list": [
+        "¡Ganemos el JBC Classic a continuación!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Eso ni se diga! ☆ ¡No tengo otra opción!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Voy a darlo todo! ¡Wooo! ☆"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Guau! ¿Cómo conseguiste tantos?",
+      "choice_data_list": [
+        "¡No fue nada!",
+        "¡No fue nada!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Jeje. Spe va a estar tan sorprendida. Muchas\ngracias, Entrenador."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Ya que ganaste tantos, ¿por qué no te quedas uno\npara ti?",
+      "choice_data_list": [
+        "¡Buena idea! Adelante y elige uno para ti también.",
+        "¡Buena idea! Adelante y elige uno para ti también."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Jeje. Gracias. ¡Ahora ambos tenemos peluches muy\nlindos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡No pudo haber salido mejor!"
+    }
+  ]
+}

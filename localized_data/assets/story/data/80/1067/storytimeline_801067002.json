@@ -1,0 +1,108 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Al pasar por el gimnasio, veo a Satono Diamond y a\nKitasan Black discutiendo sobre algo."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡No lo hagas, Dia! ¡No es seguro!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "¡No hay de qué preocuparse! ¡Estaré bien!",
+      "choice_data_list": [
+        "¿Cuál parece ser el problema?"
+      ]
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Oh, gracias a Dios que estás aquí! Por favor,\ntienes que ayudarme a detenerla!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me dicen que la cinta del gimnasio tiene una\nconfiguración \"lunática\" que es tan difícil, que\nnadie ha logrado conquistarla."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Satono Diamond, rebosante de curiosidad\ndesenfrenada, aparentemente está decidida a ser la\nprimera en lograrlo."
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Si ninguna Umamusume ha podido correr a esa\nvelocidad, eso debe significar que es\nextremadamente peligroso!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Kita, por favor no intentes detenerme. Sabes cómo\nsoy."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "No es divertido sacar conclusiones sobre algo sin\nantes probarlo."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "¡No fallaré en este intento! ¡Lo juro!",
+      "choice_data_list": [
+        "¡Bueno, inténtalo!",
+        "Primero veamos qué tan rápido es realmente."
+      ]
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Jeje, gracias. Aprecio tus palabras de ánimo."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Sé que puedo hacerlo. Solo mira y verás."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella ajusta la velocidad a lunática, y la máquina\nempieza a emitir un sonido agudo de zumbido\nmientras la cinta comienza a girar a velocidad\ncegadora!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Guau!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "¡Así que así de rápido es...! No puedo esperar\npara probarlo. ¡Allá voy!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Dia, nooo! ¡No lo hagas! ¡Es demasiado peligroso!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "De alguna manera logramos detener a la entusiasta\nSatono Diamond antes de que haga algo imprudente."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Hum... Bien. Dado que es una entrenadora la que\nsugiere precaución, supongo que esto requiere\ninvestigación previa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella ajusta la velocidad a lunática, y la máquina\nempieza a emitir un sonido agudo de zumbido\nmientras la cinta comienza a girar a velocidad\ncegadora!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡Te lo dije, Dia! ¡Es demasiado peligroso! No\npuedes empezar a correr a esa velocidad sin\nninguna preparación!"
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "Sí, tienes razón... Entonces simplemente tendré\nque trabajar para lograrlo."
+    },
+    {
+      "name": "Satono Diamond",
+      "text": "¡Comenzaré con la bicicleta estática en la\ndificultad \"catástrofe\" más alta!"
+    },
+    {
+      "name": "Kitasan Black",
+      "text": "¡N-noooo! ¡Nadie ha podido hacer esa tampoco!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "De alguna manera logramos detener a la entusiasta\nSatono Diamond antes de que haga algo imprudente."
+    }
+  ]
+}

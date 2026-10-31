@@ -1,0 +1,41 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Silence Suzuka",
+      "text": "<i>Ufff...</i>"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Era como si estuviera atrapado en una caja."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Todo a mi alrededor estaba oscuro, y no podía ver\nnada. Así no es como quiero correr.",
+      "choice_data_list": [
+        "La próxima vez, vamos a escapar de esa caja.",
+        "¿Te dan ganas de rendirte?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Sí. La próxima vez, correré a mi manera."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Nunca más cederé el liderato."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No. Para nada."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Todo lo contrario, en realidad. No me permitiré\nrumiar sin parar."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Quiero volver a la pista lo antes posible... La\npróxima vez, voy a estar en la delantera."
+    }
+  ]
+}

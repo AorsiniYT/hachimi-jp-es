@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Narita Brian",
+      "text": "...Así que esto es lo que es un fracaso total.",
+      "choice_data_list": [
+        "¡Rayos!..."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Tch! No estés tan desanimado."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Estoy bastante seguro de que te dije desde el\nprincipio que no me interesan los peluches, de\ntodas formas."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Vamos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bueno, eso fue decepcionante."
+    }
+  ]
+}

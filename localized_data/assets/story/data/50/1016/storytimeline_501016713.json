@@ -1,0 +1,97 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Narita Brian sufre una lesión menor durante la\npráctica."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Esto ni siquiera es un rasguño."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Te preocupas demasiado.",
+      "choice_data_list": [
+        "¿Segura que estás bien?",
+        "¿Quieres continuar la práctica?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Te preocupas demasiado.",
+      "choice_data_list": [
+        "¿Segura que estás bien?",
+        "¿Quieres continuar la práctica?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Como ya dije, estoy bi—"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Uf...",
+      "choice_data_list": [
+        "Aquí, déjame curarte eso.",
+        "Aquí, déjame curarte eso."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¡Tch! ¿Qué eres, mi madre?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con su entrenamiento interrumpido, Narita Brian no\npuede ocultar su decepción."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Sí, puedo empezar de nuevo en un segundo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Para curar algo así solo se necesita un poco de\nsaliva y—"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...!",
+      "choice_data_list": [
+        "Duele, ¿verdad?",
+        "Duele, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Maldición. Y ya tengo poco tiempo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡No hay tiempo para descansar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Brian intenta continuar a pesar de su\nlesión, pero la convenzo suavemente para que haga\nuna pausa en su entrenamiento."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Por supuesto. Nunca planeé detenerme.",
+      "choice_data_list": [
+        "Muy bien, al menos déjame curarte.",
+        "Muy bien, al menos déjame curarte."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Está bien. ...¡Ay!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Pero tan pronto como termines de vendarme, voy a\ncorrer. ¿Entendido?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que el tratamiento adecuado ayudó. Ella\ncontinúa entrenando después sin problemas."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras se preparaba para ir a casa\ndespués de entrenar..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Um, Entrenador?",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Mira. Las estrellas son tan bonitas."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "La brisa es tan refrescante, y no hay nadie más en\nla pista."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Así que... Um..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Estaría bien si continuara corriendo un poco?",
+      "choice_data_list": [
+        "Ve a disfrutar del paisaje nocturno.",
+        "Está bastante cerca del toque de queda, ¿sabes?",
+        "Está bastante cerca del toque de queda, ¿sabes?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Estaría bien si continuara corriendo un poco?",
+      "choice_data_list": [
+        "Ve a disfrutar del paisaje nocturno.",
+        "Está bastante cerca del toque de queda, ¿sabes?",
+        "Está bastante cerca del toque de queda, ¿sabes?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡C-claro!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Una vista tan maravillosa... ¿Cómo no iba a\nhacerlo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Silence Suzuka pasa el resto de su tiempo\ndisponible corriendo alrededor de la pista bajo el\ncielo estrellado."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Eh? ¿Y-ya es esa hora?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Tendré que correr a casa—Oh, bueno, supongo que de\ntodos modos puedo correr..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Silence Suzuka se apresura a volver a los\ndormitorios."
+    }
+  ]
+}

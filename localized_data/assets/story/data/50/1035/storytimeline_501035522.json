@@ -1,0 +1,44 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Winning Ticket parece estar preocupada por algo..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Mmmm... Mi piel se siente tan seca."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Cómo pasó esto? Oye, Entrenador, ¿qué crees?",
+      "choice_data_list": [
+        "¿Quizás no estás obteniendo suficiente nutrición?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Je, ¡como mucho! Si no como suficiente, no puedo\nestar en mi máxima fuerza!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Últimamente, también me han gustado mucho los\naperitivos dulces! ¡Son sabrosos y dan mucha\nenergía—nada los supera!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Con dulces súper, el entrenamiento va súper bien!\n¡Creo!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Ayer también comí cosas dulces con mi desayuno,\nalmuerzo <i>y</i> cena! ¡Un super atracón!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Entonces, ¿por qué mi piel está tan áspera?\n<i>Suspiro...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Winning Ticket no parece darse cuenta, pero el\ndesequilibrio en su ingesta de alimentos es\nprobablemente la causa de su piel en mal estado..."
+    }
+  ]
+}

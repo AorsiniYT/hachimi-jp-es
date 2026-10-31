@@ -1,0 +1,236 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es una hermosa tarde."
+    },
+    {
+      "name": "Monólogo",
+      "text": "De repente, tengo el impulso de ir de compras a\nalgún lugar al que no he ido antes. Sin embargo,\nen el camino, me pierdo completamente..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Disculpa. Lo siento por molestar."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Serías por casualidad un entrenador de la\nAcademia Tracen?",
+      "choice_data_list": [
+        "Sí, lo soy. ¿Por qué lo preguntas?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ah, lo sabía. Creo que te he visto en la escuela\nvarias veces. Reconocí tu rostro."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Por cierto, pareces tener algunas dificultades.\n¿Qué te preocupa?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agradecida por la preocupación de Grass Wonder,\nexplico que es mi primera vez en el área y me he\nperdido."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Eso es un verdadero aprieto!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Si no te importa, me gustaría guiarte hasta la\nescuela.",
+      "choice_data_list": [
+        "¿De verdad?",
+        "¿De verdad?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Por supuesto. Iba de regreso y, como dicen,\n\"Ningún camino es largo con buena compañía.\" ♪"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "A menudo vengo por aquí para comprar artículos\npara mi hobby, así que conozco el área. Déjame\nencargarme de todo."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Vamos en camino?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Acepto la generosa oferta del estudiante y\ncaminamos a un ritmo relajado hacia la academia."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Uf... Estamos casi allí. Tracen está a solo una\ncorta distancia de aquí."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh, el sol ya está poniéndose. Debo haber caminado\ndemasiado lentamente... Perdón.",
+      "choice_data_list": [
+        "No hay problema. Pude disfrutar del paisaje en el\ncamino."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Es así? Debes apreciar la naturaleza efímera de\nlas cosas."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "...Cuando llega la noche, el cielo sigue siendo\nhermoso, con sus tonos rojizos cambiando\nconstantemente."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Puedo seguir mirando para siempre... Tengo miedo\nde que eso me mantuvo a un ritmo tan lento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras Grass Wonder expresa estas reflexiones,\nnos detenemos y miramos juntos al cielo. Pero de\nrepente..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Gorgoteo...</i>"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh, ¿podría ser?",
+      "choice_data_list": [
+        "Lo siento, eso arruinó el momento...",
+        "Lo siento, eso arruinó el momento..."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hehe, no te <i>preocupes. Fue un </i>largo camino. Debes\nestar hambriento."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Aquí tengo justo lo que necesitas. ¿Puedo\nmolestarte un poco más de tu tiempo?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Si lo deseas, me gustaría agradecerte realizando\nuna Nodate.",
+      "choice_data_list": [
+        "¿Una Nodate?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sí, una ceremonia del té al aire libre. Es la\nelegante tradición de disfrutar del té mientras se\nsiente el cálido sol y el aire fresco."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "La ceremonia del té es uno de mis hobbies. Hice el\nlargo viaje hoy para pedir té matcha y dulces en\nmi tienda favorita."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Tengo todos los artículos necesarios conmigo. ¿Qué\ndices?",
+      "choice_data_list": [
+        "Me encantaría."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Maravilloso. ♪ Entonces prepararé todo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Grass Wonder realiza la ceremonia y disfrutamos de\nun delicioso té y dulces finos."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Cómo estuvo?",
+      "choice_data_list": [
+        "Fue delicioso. Gracias."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Jajaja, me alegra saber eso. ♪"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "La maravilla y el gozo del té radican en su\ncapacidad para satisfacer tanto el cuerpo como el\nalma.",
+      "choice_data_list": [
+        "¿Has estudiado la ceremonia del té durante mucho\ntiempo?",
+        "¿Has estudiado la ceremonia del té durante mucho\ntiempo?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sí, desde que era niña."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ceremonia del té, arreglo de flores, caligrafía,\ndanza japonesa... Y un poco de polea naginata\ntambién.",
+      "choice_data_list": [
+        "¡Eso es increíble!",
+        "¡Eso es increíble!"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Jaja, son solo hobbies míos en los que me deleito\nenormemente."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Nací en América, pero a ambos padres les encanta\nJapón."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Me explicaron la elegancia de la cultura japonesa\ncon frecuencia... Así que naturalmente me interesé\npor ella."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Había instructores excelentes en mi hogar, así que\nle pedí a mis padres que me dejaran aprender todo\nlo que pudiera.",
+      "choice_data_list": [
+        "Debes amar realmente la cultura japonesa.",
+        "Debes amar realmente la cultura japonesa."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sí, eso hago."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Debo muchas lecciones importantes a ella, desde la\ncortesía y la sinceridad, hasta la consideración\npor los demás."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Aunque, por supuesto, todavía tengo mucho que\naprender."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Entreno todos los días para ser educada y\nrefinada, para llegar un día al ideal japonés de\nYamato Nadeshiko."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh... Lo siento. He estado hablando y hablando\nsobre mí misma."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Vamos a regresar a la academia. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de despedirnos, regreso a mi habitación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Grass Wonder, la estudiante educada y refinada. Me\npregunto qué puede correr como una corredora que\nsirve ceremonias de té y sonríe tan pacíficamente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No sabía que mi respuesta llegaría mucho antes de\nlo esperado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"Aviso a todos los entrenadores sobre las próximas\npruebas.\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "Recibo un correo electrónico con la lista de\nparticipantes, y el nombre de Grass Wonder llama\ninmediatamente mi atención."
+    }
+  ]
+}

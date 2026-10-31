@@ -1,0 +1,282 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Ha pasado algún tiempo desde el anuncio de la URA\nFinale."
+    },
+    {
+      "name": "Vodka",
+      "text": "El Campeón de la Final, ¿eh? ¡Ah sí, eso es\nhablar!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Me pregunto a qué carrera debería ir... ¿Media\ndistancia? ¿O quizás incluso la milla?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Más te vale que sea la milla... por tu propio\nbien."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Voy a por la carrera de media distancia, y\nsiempre soy número uno! ♪"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡¿Qué?! ¡Eso es declaración de guerra!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Eso lo decide todo! ¡Yo también voy por media!\n¡Aclaremos esto de una vez por todas, Scarlet!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Bah! ¡A ver!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Ohohohoho! El primer campeón de la URA Finale...\nVerdaderamente, un título digno de un corredor de\nprimera como yo, King Halo!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Ven, Sky! ¡Te concederé el honor de correr\nconmigo! ¡Únete a mí para otra ronda de carrera en\npareja!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Sí, sí, ya voy... Vaya, eres muy buena mandando a\nla gente."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Aunque... supongo que esta es mi oportunidad para\nverificar algunas cosas, así que... lo que sea."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La emoción se está extendiendo entre las Umamusume\nmientras se preparan para la URA Finale.",
+      "choice_data_list": [
+        "(¡Yo también tengo que dar lo mejor de mí!)",
+        "(¡Yo también tengo que dar lo mejor de mí!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras renuevo mi determinación..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡VRRROOOOM!</i>"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Kyaaaaah!",
+      "choice_data_list": [
+        "¿¡Eso fue Tazuna?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Salgo corriendo en dirección al ruido para ver qué\nestá pasando."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿Quién...? ¿Dónde...? ¿Por qué...?"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡¿Qué es esta máquina enorme?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Llego a la pista de tierra para encontrar a Tazuna\nen pánico..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡VRRROOOOM!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...y lo que parece ser un vehículo enorme\nproduciendo un ruido explosivo.",
+      "choice_data_list": [
+        "¿Qué diablos está pasando?"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Jajajaja! ¿Gritando de alegría, Tazuna? ¡Te\nentiendo completamente!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¿Oho?"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Serendipia! Pero si no es ¡Entrenador <username>!",
+      "choice_data_list": [
+        "Eh... Hola."
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Qué fortuito! Eres justo la persona con la que\nquería hablar. Con respecto a—"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Espera un momento, Directora!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Antes de que sigas, por favor explica este enorme\nartefacto!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Disculpas! Me he adelantado."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Je, je, je. ¡Escucha y alucina!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Restauración! Pistas de tierra como nuevas en un\ninstante. ¡Ajustes! Afina la cantidad de arena\nnecesaria según tus especificaciones exactas."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Contemplad! La cima de la tecnología de\nmantenimiento de hipódromos... el Ready-Paver Mk.\nIII!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¿La cima de la tecnología de mantenimiento de\nhipódromos? ¡No me digas que volviste a usar tu\ndinero de bolsillo!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Por supuesto! Cuando se trata de proporcionar un\nentorno de entrenamiento seguro para nuestras\npreciosas Umamusume, ¡no escatimaré en gastos!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Cualquier precio que pague por tal objetivo es\ntrivial! ¡Trivial, digo!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ese es un sentimiento maravilloso, pero ¿no puedes\nhacer las cosas con moderación?!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Oh, querido... ¿Dónde vamos a poner algo tan\nenorme?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡VRRROOOOM!</i>"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Lamento que hayas tenido que ver esto, Entrenador.",
+      "choice_data_list": [
+        "Está, eh... Está bien."
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Disculpas! Y permíteme decir..."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Saludos! Ha pasado demasiado tiempo, Entrenador <username>!\nCreo que la última vez que hablamos fue durante\ntus días de entrenamiento!",
+      "choice_data_list": [
+        "Es un placer verte de nuevo."
+      ],
+      "color_text_info_list": [
+        "★★★"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¿Oho? ¿Qué es eso? Ese brillo en tus ojos... ¡Esa\nes una mirada que apoyo!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Tenía razón! ¡Sabía que eras alguien a quien\nhabía que vigilar!",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Tenía razón! ¡Sabía que eras alguien a quien\nhabía que vigilar!",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Jeje. La Directora Akikawa te tiene el ojo puesto\ndesde hace tiempo.",
+      "choice_data_list": [
+        "¿En mí?",
+        "¿En mí?"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Así es! Desde que mi madre era directora de la\nacademia, he visto a muchos entrenadores pasar por\nestas puertas."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Así pues! Por la forma en que te comportas y cómo\ninteractúas con tu entrenanda, puedo decir..."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Convicción! Como entrenador, ¡te convertirás en\nun pilar firme para apoyar los sueños de tu\nUmamusume!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Yo me siento igual. Por eso hemos querido hablar\ncontigo desde hace tiempo..."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Así es! ¡Nos encantaría que tú y tu entrenada nos\nayuden a hacer de la URA Finale un éxito!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Naturalmente, todo depende de la presencia de\naquellos que llevan las esperanzas y sueños de sus\nfans sobre sus hombros..."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Es decir, si la carrera ha de tener éxito, debemos\ntener Umamusume estrella participando.",
+      "choice_data_list": [
+        "\"Umamusume estrella\", ¿eh..."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "La mejor y única forma de ganar fans es participar\nen carreras.",
+      "color_text_info_list": [
+        "La mejor y única forma de ganar fans",
+        "participar en carreras"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Pero si puedes acumular un gran número de\nvictorias y reunir suficiente apoyo...",
+      "color_text_info_list": [
+        "acumular un gran número de victorias"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Éxito! ¡El camino para convertirte en una\nUmamusume estrella se abrirá ante ti!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Ánimo! ¡Sigue adelante junto con tu entrenada!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Esperamos verla correr hacia convertirse en la\nprimera Campeona de la Final!",
+      "choice_data_list": [
+        "¡Haremos lo mejor que podamos!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La pasión de la Directora Akikawa renueva mi\nemoción por la URA Finale."
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Diciembre ha llegado..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y las fiestas están a veinticinco días."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Entrenador. Hay algo que deseo que veas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella sostiene emocionada una caja delgada y plana\nhacia mí. Hay una escena festiva en su tapa.",
+      "choice_data_list": [
+        "¿Qué es esto?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Un calendario de adviento. ¿Has oído hablar de\nellos antes?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Diciembre es un mes importante para muchas\npersonas en Alemania, con todo tipo de\nfestividades ocurriendo. Contar los días es una de\nellas."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Las pequeñas puertas están etiquetadas con una\nfecha, y una debe abrirse cada día hasta la gran\ncelebración al final del mes."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "En cuanto al contenido... Por favor, abre la\npuerta de hoy y compruébalo por ti mismo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hago lo que ella pide y abro la solapa, revelando\nun pequeño paquete dorado en su interior."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Eso tiene chocolate en su interior. Hay dulces\npara veinticinco días dentro de este calendario.",
+      "choice_data_list": [
+        "¡Guau!",
+        "¡Guau!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Impresionante, lo sé. Poder ver lo que hay dentro\ncada día es bastante emocionante."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Estaría muy feliz si este calendario de adviento\nte diera algo pequeño que esperar cada día.",
+      "choice_data_list": [
+        "¡Deberíamos abrir estos juntos!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No podemos. No hay suficientes dulces para ambos.\nHice esto específicamente para ti.",
+      "choice_data_list": [
+        "¡¿Tú <i>hiciste</i> esto?!",
+        "¡¿Tú <i>hiciste</i> esto?!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Los chocolates y dulces en el interior, sí. Cada\nuno es único.",
+      "choice_data_list": [
+        "Pusiste tanto trabajo en esto...",
+        "Pusiste tanto trabajo en esto..."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Es porque es una época especial del año."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Aunque esa no es la única razón.",
+      "choice_data_list": [
+        "Déjame ayudarte con algo también.",
+        "Déjame ayudarte con algo también."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No, está bien. Mi plan para las fiestas se puso en\nmarcha hace tres meses, así que no hay necesidad\nde ayudarme."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "También prepararé comida y pastel. Espero que lo\nestés esperando con ansias."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sé que ella dijo que no necesitaba ayuda, pero aún\nme siento mal por no hacer nada a cambio. Debería\nconseguirle un regalo, al menos."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Recibí la misma guirnalda. El mensaje adjunto era\ndiferente, sin embargo."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "\"Que la alegría que sentiste en tu debut continúe\na lo largo de tu carrera de carreras.\" Esa es la\nbendición con la que está imbuida la mía."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Faltan veinticinco días para la gran celebración.\nSaco mi teléfono para buscar clases de\nmanualidades a las que pueda asistir entre turnos\nen el trabajo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eishin Flash sigue trabajando diligentemente\ndurante todo el mes a medida que se acerca el gran\ndía."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Golpe!</i>"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Hora de comenzar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eishin Flash arrastra un árbol masivo que mide\nfácilmente más de dos metros de altura como si\nfuera un palillo de dientes.",
+      "choice_data_list": [
+        "¿Empezar con qué, exactamente?",
+        "¿Empezar con qué, exactamente?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Pude conseguir un abeto de Nordmann, que intento\nempezar a decorar inmediatamente."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Será un gran centro de mesa para el veinticinco,\nasí que por favor espera con ansias."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Ah, Entrenador. ¿Has abierto la puerta de hoy del\ncalendario de adviento?",
+      "choice_data_list": [
+        "¡Sí, conseguí algunos dulces gomosos!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "En forma de ositos de peluche, ¿sí? Me divertí\nmucho preparándolos ya que las oportunidades de\nhacer dulces gomosos son escasas."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Ahora debes disculparme. Todavía tengo trabajo que\nhacer."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En otro día..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Un ganso de cinco kilogramos, por favor. Lo\nrecogeré el mismo día."
+    },
+    {
+      "name": "Butcher",
+      "text": "¡Lo tengo! ¡Conseguiré el mejor que pueda solo\npara ti!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Gracias."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Lo siguiente es el supermercado. Necesito cuatro\nkilogramos de papas, cuatro repollos morados, dos\nkilogramos de manzanas..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, la vigililo mientras equilibra los\npreparativos de las fiestas y su entrenamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Diciembre se acerca a su fin. Eishin Flash y yo\nabrimos juntos la última puerta del calendario de\nadviento.",
+      "choice_data_list": [
+        "¿Un abeto?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Así es. Es delicioso y dulce ya que está hecho de\nmazapán."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Con eso, todas las puertas han sido abiertas. Bien\nhecho.",
+      "choice_data_list": [
+        "¡Gracias! ¡Fue muy divertido!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Me alegro. También disfruté tu informe cada mañana\nantes de nuestras sesiones de entrenamiento."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Ahora, con respecto a nuestro horario para la\nfiesta..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Hablararemos de ello mientras compartimos una\ncomida. Eso es todo.",
+      "choice_data_list": [
+        "¿Eso es todo?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me sorprende lo poco detallado que está el\nhorario, especialmente considerando lo mucho que\nella trabajó para preparar todo."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sí, eso es todo. Solo preparé comida y decoración."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Ahora mismo traigo la comida.",
+      "choice_data_list": [
+        "Espera, un momento."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿...?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Esto es... una guirnalda?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le doy a Eishin Flash la guirnalda que armé con\ntanto esfuerzo durante el último mes.",
+      "choice_data_list": [
+        "No es mucho comparado con el de tus padres,\npero..."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Entrenador, ¿hiciste esto a mano?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Solo para mí?",
+      "choice_data_list": [
+        "Sí. Lo hice con la esperanza de que siempre seas\nfeliz, Flash."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Oh..."
+    },
+    {
+      "name": "Padre de Flash",
+      "text": "Que siempre encuentres felicidad dondequiera que\nla vida te lleve..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡...!",
+      "choice_data_list": [
+        "¡¿Flash?!"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿E-eh?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Disculpa. E-estoy tan abrumado de alegría..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Esta festividad está pensada para pasar en familia\ny ocupa un lugar especial en mi corazón."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sin embargo, el año pasado no tuve la tranquilidad\nmental para celebrarlo adecuadamente."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Y... no creía tener a nadie con quien celebrarlo."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Pensé que sería mejor omitirlo si pensar en mi\nfamilia solo me haría sentir solo..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Pero en realidad, hubo alguien que me cuidó como\nfamilia todo el tiempo."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Por eso organicé una fiesta este año. Quería\ncelebrarlo adecuadamente y usarlo para agradecer a\nesa persona especial."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Y aún así, soy yo quien recibió un regalo\nmaravilloso en el proceso.",
+      "choice_data_list": [
+        "Tú me has dado mucho más.",
+        "Tú me has dado mucho más."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No, eres tú quien—"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Jejé. A este ritmo no habrá fin. Los platos se\nestán enfriando, así que ¿por qué no comenzamos la\nfiesta?"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Qué te gustaría primero? También hay carpa, si\nquieres.",
+      "choice_data_list": [
+        "¿Carpa?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Anticipé esa reacción. Esto se llama 'carpa azul'\ny es un plato estacional encantador."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Parece que la carpa no es un ingrediente común en\nJapón. Falcon se sorprendió mucho cuando yo..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Era bastante inocente y creía que Papá Noel\nexistía sin lugar a dudas."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Así que hice un plan para atraparlo y lo puse en\nmarcha... Pero al final solo logré pillar a mis\npadres completamente desprevenidos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eishin Flash me cuenta aún más historias mientras\ndisfruto de su cocina."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de ver cuánto ama Eishin Flash la\ntemporada festiva, quise encontrar otra manera de\nhacerla aún más especial para ella."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, mientras disfrutamos de la comida y\ncharlamos juntos..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Hola, hola! ♪"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Hola, ustedes dos! ¡Felices Fiestas! ♪"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¿Falcon? ¿Qué haces aquí?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡No soy solo yo! ¡Adelante, todos!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Felices Fiestas, Flash! ♪"
+    },
+    {
+      "name": "Tosen Jordan",
+      "text": "¡Felices Fiestas! ¡Guau, mira toda esta comida!\n¡Tengo que tomarle una foto!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Curren, Jordan. Y todos los demás... No los\nesperaba a todos."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ah, solo para aclarar, no estamos aquí para\narruinar su fiesta tranquila ni nada."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Pero! ¡Sí queremos que experimentes las fiestas\nde fin de año ruidosas y alborotadas que nos gusta\nhacer en Japón! ☆",
+      "choice_data_list": [
+        "Yo los invité.",
+        "Yo los invité."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eishin Flash podría haber pensado que no tenía a\nnadie con quien pasar las fiestas el año pasado,\npero esa creencia suya ya no es cierta.",
+      "choice_data_list": [
+        "Tienes montones de amigos.",
+        "Tienes montones de amigos."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "¡...!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Tienes razón... Parece que sí."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Me alegra estar aquí en esta academia ahora,\npasando las fiestas contigo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Se ve como una niña con su sonrisa brillante y\nradiante."
+    }
+  ]
+}

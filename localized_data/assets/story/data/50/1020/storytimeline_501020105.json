@@ -1,0 +1,55 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Este es el inicio del segundo campamento de verano\nde Seiun Sky."
+    },
+    {
+      "text": "Habiendo llegado temprano para ayudar al personal\nde la academia, me dirijo a encontrarla en la\nparada de autobús."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Por el amor de Dios, Sky! ¡Despierta de una vez!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "King... Solo llévame al campamento, por faaaavor."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Absolutamente no! ¡Ahora ponte derecha!",
+      "choice_data_list": [
+        "Gracias por traerla aquí."
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Oh, no es nada. Más importante, ¿está bien?"
+    },
+    {
+      "name": "King Halo",
+      "text": "Ella estuvo así todo el camino. No hay ni un ápice\nde motivación en ella."
+    },
+    {
+      "text": "Es cierto que Sky puede ser lenta, pero trabajar\nduro mientras finge que no tiene motivación es su\nespecialidad.",
+      "choice_data_list": [
+        "Cuando se trata de entrenamiento, ella se esfuerza\nmucho."
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Bueno, me alegra escuchar eso, pero—"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Kiiing, dame un paseo a caballito riiiiido."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Te dije, no!"
+    },
+    {
+      "text": "Con un vago sentido de inquietud, el campamento de\nverano comienza..."
+    }
+  ]
+}

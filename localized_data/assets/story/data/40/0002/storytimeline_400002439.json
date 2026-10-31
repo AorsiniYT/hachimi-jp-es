@@ -1,0 +1,32 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Ganamos la Copa Unity. No solo eso, la dura lucha\nque nuestro equipo libró ayudó a abrir los ojos de\nRiko Kashimoto y a salvarla a ella y a su equipo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El director Akikawa nos felicita por nuestro éxito\ny nos da un vale para un BBQ de zanahorias."
+    },
+    {
+      "name": "Monólogo",
+      "text": "También nos da una recompensa acorde con el nombre\nde nuestro equipo, Equipo Zanahoria."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "Obtuviste: itemname"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Riko Kashimoto y sus estudiantes se unen a\nnosotros mientras las festividades se\nintensifican. Me saluda, esta vez como entrenadora\ny con emoción por el futuro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El camino se extiende ante nosotros. <chrname> y yo\nprometemos seguir dando lo mejor de nosotros."
+    }
+  ]
+}

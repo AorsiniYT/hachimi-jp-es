@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Durante mi viaje a la ciudad, veo a Meisho Doto\nbajando la cabeza apenada ante la estatua de\nbronce frente a la estación."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Lo siento mucho por eso! ¿Tienes alguna herida?\n¿Tus ropas están manchadas?",
+      "choice_data_list": [
+        "¿Qué estás haciendo?",
+        "¿Qué estás haciendo?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Entrenador! Entonces, eh, estaba caminando, y...\nmis piernas empezaron a sentirse entumecidas, y\nluego tropecé, y ¡choqué contra esta persona!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "El choque fue bastante fuerte. Mira qué pálida\nestá su cara... Eh, ¿huh?"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Esto es una es-estatua de bronce? ¿Me estoy\ndisculpando ante una estatua de bronce? ¡Pero por\nqué?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Meisho Doto parece estar lidiando con mucho\ncansancio... Tal vez quiera replantear su\ncalendario de carreras."
+    }
+  ]
+}

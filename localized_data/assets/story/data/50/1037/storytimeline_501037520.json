@@ -1,0 +1,236 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Después de entrenar, regreso a mi oficina\ncuando..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Oye! ¡Baja de ese árbol! Si alguien te ve—"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "El, ¿ese pájaro te está acechando de nuevo?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡¿Qué?! ¡¿F-Flash?!",
+      "choice_data_list": [
+        "Espera... ¿La está acechando un <i>pájaro?</i>"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Bueno, he notado que ese pájaro suele estar cerca\nde El, y por lo que he oído..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Jaja! Guau, es muy raro, ¿verdad? Después de\ntodo,¿por qué un cóndor se fijaría en la pequeña\n<i>yo?</i>"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Pero la gente se asustará si lo ve merodeando, así\nque ¡vamos, tú! ¡Vuelve a la residencia—"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Eh, quiero decir... ¡V-vuelve al bosque! He\nintentado que se vaya un millón de veces, pero...",
+      "choice_data_list": [
+        "Pero no te escucha, supongo?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Entiendo la situación ahora. Tengo una idea."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eishin Flash se acerca al árbol donde el pájaro\nestá posado."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Escúchame, pájaro sin nombre. Este no es tu hogar."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No hay esperanza de comida, y los de aquí\nintentarán alejarte... Solo encontrarás\ndificultades aquí."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "No deseamos que sufras tal destino."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como si estuviera conmovido en el núcleo por las\npalabras de Eishin, el pájaro suelta un llanto\ndesgarrador."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Sabía que estarías de acuerdo. Ahora, vuela...\n¡Vuela a donde estarás verdaderamente seguro!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Aleteo, aleteo, aleteo!</i>"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿¡¿Qué?! ¡Se ha volado a su nido! ¡Grité y grité,\npero ni siquiera se movió por mí!",
+      "choice_data_list": [
+        "Ese fue un discurso muy convincente.",
+        "Ese fue un discurso muy convincente."
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Gracias. Mis padres me enseñaron que todos los\nanimales tienen corazón."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Dijeron que es mejor razonar con ellos que\nregañarlos. Además..."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Tuve la sensación de que sería fácil transmitir\nmis pensamientos a ese pájaro, y que escucharía lo\nque dijera."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Oooh! ¡Suenas como si supieras mucho sobre cómo\ntransmitir tus sentimientos a los demás!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Flash, tienes que enseñarme tus secretos! ¡Nunca\nsé cuándo me encontraré con Ma—eh, mi admirador\nemplumado de nuevo, después de todo!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Claro. No me importaría, pero no estoy segura de\npoder explicar cómo lo hago.",
+      "choice_data_list": [
+        "¿Por qué no la dejas observarte por un día?",
+        "¿Por qué no le das algunos consejos?"
+      ]
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Muy bien. Te agregaré a la agenda de mañana."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Buenos días. Permíteme repasar la agenda de hoy\ncontigo."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Llegamos a la pista en cinco minutos y diez\nsegundos. Después de veinte minutos y cincuenta\nsegundos de calentamiento, debería haber viento en\ncontra justo cuando empecemos a correr vueltas."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Por lo tanto, será posible duplicar las\ncondiciones de la recta final en las que no habrá\nrefugio del viento."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡No solo has planeado todo hasta el segundo, sino\nque incluso has pensado en los patrones del clima!\n¡Hablando de ser preciso!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Eso concluye nuestra carrera. Reubicémonos en el\ngimnasio en cinco minutos y hagamos dominadas en\nel rack de potencia durante veintitrés minutos."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Guau... ¿Cómo sigues tan llena de energía después\nde todo ese sprint?!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿¡Qué?! ¡¿Realmente estás comiendo natto?! ¡Eso es\nla peor pesadilla de un estudiante de intercambio!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "El almuerzo es combustible para las actividades de\nla tarde. Consumir nutrición amplia es una\n<i>necesidad.</i> Sin excepciones."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Condor Pasa continúa observando a Eishin Flash\ndurante el resto del día."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Uf... Y con el rack de potencia terminado... eso\nconcluye el entrenamiento de hoy."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡No puedo creer que así sea un día en tu vida!",
+      "choice_data_list": [
+        "¿Cómo fue?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Todo fue tan increíble! La forma en que ella\nprograma, su régimen de entrenamiento, su gestión\nde nutrición... ¡Todo me deja sin palabras!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Pero apuesto a que Mambo quedó realmente\nimpresionado por lo estoico y perfecta que eres,\n¡por eso te escuchó!",
+      "choice_data_list": [
+        "¿Quién es Mambo?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Urk! Eh, em... Sí, ¿quién <i>es</i> Mambo?¡Jaja! ¿Qué es\nun \"mambo\", acaso?¿verdad? ¡Jajaja!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que El Condor Pasa aprendió bastantes cosas\nhoy."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Hm... Creo que tengo una, entonces."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Creo que necesitas transmitir tus sentimientos con\namor."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿A-amor?!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Para tener una conversación sincera con otro,\ndebes enfrentar a la otra parte como un igual."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Es necesario valorar y respetar a tu compañero, y\nhablar <i>con</i> ellos en lugar de <i>a</i> ellos."
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Y cuando se trata de respetar y valorar a tu\ncompañero de conversación, debes tener—"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Amor!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Pensándolo bien, todo lo que hice fue decirle \"no\"\ny nunca intenté escuchar lo que tenía que decir..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Muy bien, ¡intentaré ser más amoroso para poder\nmantener a Mambo feliz y saludable!",
+      "choice_data_list": [
+        "¿Quién es Mambo?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Agh! ¡Uhhh! Eh, eh!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Sabes, como el baile m-mambo! ¡Voy a intentar\nrazonar con ese cóndor con tanto amor y pasión\ncomo un baile de mambo!"
+    },
+    {
+      "name": "Eishin Flash",
+      "text": "Una mentalidad maravillosa. Te deseo la mejor de\nlas suertes abriendo una línea de comunicación con\nese pájaro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que El Condor Pasa aprendió bastantes cosas\nhoy."
+    }
+  ]
+}

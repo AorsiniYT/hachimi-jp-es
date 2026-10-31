@@ -1,0 +1,61 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras tomo un descanso en el parque..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "El truco para correr rápido... El truco... Nunca\nhe intentado realmente usar algún truco mientras\ncorro, pero..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me encuentro con Silence Suzuka vagando en un\nbucle hacia la izquierda, absorta en sus\npensamientos."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Oh! L-lo siento por bloquear tu... Espera, ¿dónde\nestoy?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Ay Dios mío... Es una cosa perderse en mis\npensamientos, pero no puedo creer que me haya\nperdido y vagueado tan lejos de nuevo."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Y lo que es más, no tengo nada que mostrar por\nello..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "No quiero decepcionar a la chica que me pidió\nayuda, pero no puedo pensar en nada... Por favor,\n¿qué debería hacer?",
+      "choice_data_list": [
+        "¿Por qué no hacer carrera en pareja con ella?",
+        "Quizás el truco está escondido en ese bucle hacia\nla izquierda en el que estás."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Carrera en pareja? Ah, ya veo..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Si no puedo <i>decirle</i> lo que debe hacer, yo puedo\nsimplemente <i>mostrárselo</i>."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Muchas gracias por el consejo. Intentaré pedirle\nque corra conmigo de inmediato."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Eh? ¿El truco está en mi bucle hacia la\nizquierda? ¿E-en serio?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Ese pensamiento ni siquiera se me había ocurrido,\npero supongo que siempre termino haciendo esto..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Vale, le diré esto. Solo espero que la ayude."
+    }
+  ]
+}

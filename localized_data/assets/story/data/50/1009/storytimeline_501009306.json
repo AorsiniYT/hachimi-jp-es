@@ -1,0 +1,29 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Nooo! ¡Estuve <i>tan</i> cerca!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Estoy tan enojada! ¿Cómo permití que Vodka me\nganara?!",
+      "choice_data_list": [
+        "Nos desquitaremos en el Oka Sho.",
+        "Nos desquitaremos en el Oka Sho."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Hum! ¡Obviamente! ¡Ese era mi plan desde el\nprincipio!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ella cree que es mejor que yo. ¡Le voy a demostrar\nlo equivocada que está!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Voy a ganar la próxima vez seguro! <i>Voy a</i>ser\nnúmero uno!"
+    }
+  ]
+}

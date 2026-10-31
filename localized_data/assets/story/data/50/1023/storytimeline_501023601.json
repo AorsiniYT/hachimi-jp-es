@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Biwa Hayahide",
+      "text": "Si tomo en consideración el clima de hoy, la\nvelocidad del viento y la humedad... Sí, esto\ndebería funcionar."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Perdón por hacerte esperar. He hecho algunas\nrevisiones a mis cálculos.",
+      "choice_data_list": [
+        "¿Te sientes confiada?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Je... Es una pregunta tonta."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Cuanto más refinada es una teoría, más simple se\nvuelve. Mantén tus ojos en mí, Entrenador."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Te mostraré el resultado definitivo de mis\ncálculos—victoria total!"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Haa... Haa...</i>",
+      "choice_data_list": [
+        "Corriste con todo el corazón.",
+        "Corriste con todo el corazón."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Yo... tenía que... ganar."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ella se ha vuelto aún más fuerte. Si hubiera\npuesto un solo pie mal, habría perdido.",
+      "choice_data_list": [
+        "Tomaste la decisión correcta."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hmph. Tomé la decisión <i>obvia</i>."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Oye, Entrenador."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Ese fue realmente mi mejor desempeño? ¿Fue\nsuficiente para demostrar que soy número uno—que\nnunca perdería contra Vodka?",
+      "choice_data_list": [
+        "¿Qué crees?",
+        "¿Qué crees?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡No puedes responder una pregunta con otra\npregunta! Ugh..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Todavía no estoy satisfecha. Esa es mi respuesta."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Vamos, decidamos nuestro próximo objetivo. Quiero\nmantener este impulso."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Qué tal la Queen Elizabeth II Cup?",
+      "color_text_info_list": [
+        "Queen Elizabeth II Cup"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Vodka!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Hoy, quería vencerte más de lo que quería\nconseguir el primer lugar."
+    },
+    {
+      "name": "Vodka",
+      "text": "Perder no es mi estilo. Así que te veré en la\nsiguiente carrera."
+    },
+    {
+      "name": "Vodka",
+      "text": "La Copa Queen Elizabeth II está a la vuelta de la\nesquina. Te estaré esperando allí."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "La Copa Queen Elizabeth II...",
+      "choice_data_list": [
+        "¿Deberíamos inscribirnos?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Absolutamente."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Y además la venceré en esa carrera también!"
+    }
+  ]
+}

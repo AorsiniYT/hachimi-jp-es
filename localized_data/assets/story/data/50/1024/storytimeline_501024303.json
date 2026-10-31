@@ -1,0 +1,73 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Con eso, Mayano Top Gun ha debutado con éxito."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Hmmm... Mmm..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Hmm?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ha estado actuando extraña por un rato...",
+      "choice_data_list": [
+        "¿Sucede algo?",
+        "¿Sucede algo?"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Hm... No sucede realmente nada... ¡Es solo que\nterminó!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿¡Ya está?! ¿Mi debut realmente terminó? ¿Así\nnomás?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "No me estás ocultando nada, ¿verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella dice eso, pero una carrera de debut es algo\nque solo se puede vivir una vez."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Estás seguro?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No parece satisfecha en lo más mínimo.",
+      "choice_data_list": [
+        "¿Deberíamos correr en más carreras?",
+        "¿Deberíamos correr en más carreras?"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Hmmm..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "...Sí, hagámoslo."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Quiero decir, finalmente debuté. He llegado hasta\naquí."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "La Serie Twinkle..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Es algo que se supone debe hacerte sentir\nexcitado... hacerte brillar."
+    }
+  ]
+}

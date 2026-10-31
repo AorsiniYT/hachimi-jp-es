@@ -1,0 +1,140 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Finalmente, ha llegado el día del Kikuka Sho."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Esta vez no dejaré que Bourbon se aleje."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "La seguiré hasta el final... Y entonces..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Voy</i> a alcanzarla.",
+      "choice_data_list": [
+        "Tú puedes."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Gracias. ¡Me voy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los recuerdos del Japanese Derby vienen a mi mente\ninesperadamente."
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Bourbon! ¡Bourbon!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Escucha esa multitud! Los vítores de los\nemocionados por ver nacer a una campeona resuenan\npor todo el recinto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero ahora ella también tiene gente que la anima.\nCada voz gritando su nombre debería servir para\nreforzar su confianza."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Wooooo!"
+    },
+    {
+      "name": "Espectador A",
+      "text": "¡Vamos, Rice! ¡Puedes vencer a Bourbon!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡El momento que todos han estado esperando ha\nllegado! ¿Quién se llevará la gloria en el Kikuka\nSho de este año?"
+    },
+    {
+      "name": "Locutor",
+      "text": "¿Mihono Bourbon, el Cohete Castaño? ¿O Rice\nShower, la Resistente Negra? ¡Este será un\nenfrentamiento para la historia!",
+      "color_text_info_list": [
+        "Resistente Negra"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Tú puedes, Rice! ¡Corre como nunca!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "T-tú puedes..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡No es suficiente! ¡Una vez más, tan fuerte como\npuedas!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡TÚ PUEDES HACERLO, RICE!",
+      "choice_data_list": [
+        "(¿Qué es esto?)"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Hey, miren! ¡Es la entrenadora de Rice! ¡Hola!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "H-hola!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es Haru Urara y Zenno Rob Roy. Si recuerdo bien,\nRob Roy es la compañera de cuarto de Rice Shower.",
+      "choice_data_list": [
+        "¿Qué están haciendo aquí?",
+        "¿Qué están haciendo aquí?"
+      ],
+      "color_text_info_list": [
+        "Zenno Rob Roy"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ehehe! Estamos aquí para apoyar a Rice,\n¡obviamente! ¿Verdad, Rob Roy?",
+      "color_text_info_list": [
+        "Rob Roy"
+      ]
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "¡S-sí! Después de todo, ella se ha estado\nesforzando tanto últimamente..."
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Pensamos que lo agradecería si viniéramos al\nhipódromo a apoyarla."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Y eso es lo que estamos haciendo!"
+    },
+    {
+      "name": "Zenno Rob Roy",
+      "text": "Me preocupa que nuestras voces no puedan llegar\nhasta ella, pero igual la vamos a animar con todas\nnuestras fuerzas!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Totalmente! ¡Una vez más! Listos... ¡ahora!"
+    },
+    {
+      "name": "Urara y Rob Roy",
+      "text": "¡Tú puedes, Rice! ¡Tú puedes, Rice!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, el Kikuka Sho comienza en medio de un\nrugido de voces animando."
+    }
+  ]
+}

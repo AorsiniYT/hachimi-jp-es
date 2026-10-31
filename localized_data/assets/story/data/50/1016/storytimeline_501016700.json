@@ -1,0 +1,27 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "El descanso terminó y voy de regreso a la oficina,\ncuando..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "<i>Bostezo...</i> Uf...",
+      "choice_data_list": [
+        "¿Te acostaste tarde anoche?",
+        "¿Te acostaste tarde anoche?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Estaba entrenando, y antes de darme cuenta,\nsalió el sol. Eso es todo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "<i>Bostezo...</i> ...Quizás suba a la azotea y... eche\nuna siesta..."
+    },
+    {
+      "text": "Parece que Narita Brian estaba perdiendo sueño\ndurante el descanso en lugar de descansar..."
+    }
+  ]
+}

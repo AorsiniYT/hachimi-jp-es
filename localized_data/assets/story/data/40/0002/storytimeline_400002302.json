@@ -1,0 +1,102 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, durante un descanso del entrenamiento en\nequipo..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Hola, Entrenador. Tengo un pequeño favor que\npedirte."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Me encanta, encanto, <i>encanto</i> este equipo!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Es por eso que esperaba que pudiéramos tomar una\nfoto de todos juntos y enviarla a mi familia."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Estoy segura de que a ellos les encantará verme a\nmí y a mi equipo juntos.",
+      "choice_data_list": [
+        "¿Quieres que te tome una foto, entonces!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "No, no. Tú también tienes que estar en ella."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Podemos usar el temporizador de la cámara de mi\nteléfono. De esa manera, todos podemos estar en la\nfoto.",
+      "choice_data_list": [
+        "¿Estás seguro de que quieres que esté en la foto?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Claro que sí, lo estoy. No es una foto de equipo\nsin ti, Entrenador.",
+      "choice_data_list": [
+        "¡Genial!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así que nos preparamos para una sesión de fotos\nimprovisada."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Hmm, aquí está un poco inclinado, pero..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Haz lo mejor que puedas, pequeño teléfono\ninteligente. Son solo diez segundos."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Genial! Reúnanse, todos. Sonrisas grandes.\n¡Vamos!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Tres, dos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Clonk!</i>"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Ay, caramba. Mi teléfono se ha caído."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Click!</i>"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Uf... Probablemente solo haya tomado una foto\nborrosa del cielo..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "...Oh. Ajája.",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Mira, Entrenador. Saqué una foto genial."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En la pantalla se muestra a Taiki Shuttle\ncorriendo hacia su teléfono con la mano extendida\ny el equipo riendo detrás de ella. Es una foto\nmaravillosa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy segura de que todos recordaremos este\nmomento con cariño."
+    }
+  ]
+}

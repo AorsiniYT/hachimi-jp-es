@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Por fin, el debut de Special Week está a solo\nmomentos."
+    },
+    {
+      "name": "Special Week",
+      "text": "...",
+      "choice_data_list": [
+        "¿Spe? ¿Estás bien?",
+        "¿Spe? ¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Uau! Oh, l-lo siento! Solo estoy un poco\nimpresionada por la atmósfera aquí."
+    },
+    {
+      "name": "Special Week",
+      "text": "Pero ahora no es el momento para ponerse nerviosa,\n¿verdad?"
+    },
+    {
+      "name": "Special Week",
+      "text": "...¡Vale! ¡Allá voy!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Voy a dar mi primer paso hacia convertirme en la\nmejor Umamusume de todo Japón!"
+    }
+  ]
+}

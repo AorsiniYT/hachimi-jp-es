@@ -1,0 +1,25 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tokai Teio",
+      "text": "¡Llegas tarde, Entrenador! Estaba a punto de ir a\nbuscarte!",
+      "choice_data_list": [
+        "¿Teio? Llegas temprano.",
+        "¿Teio? Llegas temprano."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Jeje. Qué buena aprendiz, ¿verdad? Increíble,\n¿verdad? ¡Vamos, llévame con elogios!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Dormí bien anoche, ¡así que me levanté temprano\nhoy!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Así que estoy lista para el entrenamiento de hoy!\nVamos, ¡vamos! ♪"
+    }
+  ]
+}

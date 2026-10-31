@@ -1,0 +1,80 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Ahora que el entrenamiento terminó, es hora de esa\nrecompensa especial... ¡Por favor!",
+      "choice_data_list": [
+        "¿Qué recompensa de nuevo?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Lo vi en mi sesión de adivinación de la mañana!\n\"Un transbordador lleno de brillo.\" Eso solo puede\nsignificar—"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oye! ¿Me llamaste?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Eh? ¿Taiki Shuttle? Oh, no, no, no! Yo estaba—"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Espera... ¿Podría esto significar que Taiki es el\ntransbordador que trae el brillo?!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oho! ¿Así que quieres algo brillante, ¿eh?\nEntonces, ¡tengo justo lo que necesitas!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "(¡Genial! Taiki es de EE. UU., así que apuesto a\nque es una gran alcancía llena de dólares de\nplata!)"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Ven a correr en pareja conmigo! Tu piel brillará\nmuy bien con el sudor que te haré producir! ♪"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Quieres que vayamos a correr en pareja? Supongo\nque sería una forma de crear una abundancia de\nbrillo..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Oh, ¡jaja! Me encantaría, pero necesito el permiso\nde mi entrenador primero..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Qué debo hacer? ¿Correr con Taiki... o tienes una\nrecompensa para mí?",
+      "choice_data_list": [
+        "¡Ve a correr!",
+        "Supongo que puedo preparar algo..."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Argh! ¡Tenía la intuición de que dirías eso!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Yeehaw! ¡Vamos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Matikanefukukitaru pone todo su empeño en su\nentrenamiento extra."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Sííí! ¡Trabajé súper duro hoy, después de todo!\nEntonces, ¿qué tipo de recompensa brillante tienes\npara mí? ♪"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Ahora, espera un maldito minuto! ¿No dijiste que\nibas a \"llenar a Taiki Shuttle de brillo\"?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cumplo con las expectativas de ambos dándoles dos\nbrillantes... latas de jugo."
+    }
+  ]
+}

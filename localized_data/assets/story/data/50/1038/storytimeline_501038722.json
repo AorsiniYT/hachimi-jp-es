@@ -1,0 +1,58 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, antes del entrenamiento..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Oye, Hermano? ¿Me acariciarás la cabeza por mí?",
+      "choice_data_list": [
+        "¿Qué?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Oye, Hermana? ¿Me acariciarás la cabeza por mí?",
+      "choice_data_list": [
+        "¿Qué?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Vamos! ¡Hazlo ya!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me fastidia hasta que accedo a acariciarle la\ncabeza."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...",
+      "choice_data_list": [
+        "¿Así?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Sí... Solo un poco más."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Mi mamá siempre hacía esto para que se me quitara\nel dolor de cabeza."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Así que por favor... solo un poco más."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Así que por favor... solo un poco más."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Curren Chan está luchando con una\nmigraña."
+    }
+  ]
+}

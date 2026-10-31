@@ -1,0 +1,149 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Multitud",
+      "text": "<i>¡UUUU!</i>"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Haa... Haa...</i> ¿Cómo... estuvo eso..."
+    },
+    {
+      "name": "Fotógrafa",
+      "text": "¡Scarlet! ¡Por aquí!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hehe... ¡Muy bien! ¡Te daré mi sonrisa más\nencantadora! ♪",
+      "choice_data_list": [
+        "Todos los ojos están puestos en ti.",
+        "Todos los ojos están puestos en ti."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Ja! Como debe ser. ¿Quién más merece este tipo de\natención?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Lo siguiente es mi concierto. Aunque, todavía\nestoy agotada...",
+      "choice_data_list": [
+        "Pero todos te están esperando."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hehe, supongo que es verdad. Hoy robé el\nprotagonismo."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Pero recuerda, se necesitará mucho más para\nsatisfacerme."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Cuando digo que voy a ser número uno, apunto mucho\nmás alto que esto."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Incluso cuando el otoño termina, el invierno pasa,\ny paso de los Clásicos a mi último año—mis\nsentimientos nunca cambiarán.",
+      "color_text_info_list": [
+        "último año"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "En el Osaka Hai la próxima primavera, la primera\ncarrera G1 de distancia media de categoría\nsenior... Voy a eclipsar a todos.",
+      "choice_data_list": [
+        "Creo que es un objetivo maravilloso.",
+        "Creo que es un objetivo maravilloso."
+      ],
+      "color_text_info_list": [
+        "Osaka Hai"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Jeje. Bueno, es más fácil decirlo que hacerlo.Pero\n<i>haré</i> realidad mis sueños!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Hablando de eso, ¿grabaste mi presentación de hoy?\nQuiero analizarla en cuanto regresemos."
+    },
+    {
+      "name": "Vodka",
+      "text": "Maldita sea. La estudiante modelo está en otro\nnivel, ¿eh?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Vodka?! ¿Por qué <i>tú</i> estás aquí? ¿No deberías\nestar descansando?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "No se supone que debo correr, seguro, pero se me\npermite salir."
+    },
+    {
+      "name": "Vodka",
+      "text": "De todos modos, hay algo que quiero decir. Es\nsobre la forma en que corriste hoy..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿Qué pasa con eso?"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Caray, fue un desastre! Tú estabas como<i>\"Jadeando,\nresoplando...</i> ¡No puedo seguir!\""
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Dis-<i>culpe</i>?! ¡No era cierto! Estás imaginando\ncosas!"
+    },
+    {
+      "name": "Personal",
+      "text": "¿Daiwa Scarlet? Disculpe, pero el concierto está a\npunto de comenzar..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Oh! ¡Claro! ¡Ya voy!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Bah! ¡Apúrate y despeja! Esta es <i>mi</i>sala de\nespera, lo sabes!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Sí, sí. Te escucho alto y claro."
+    },
+    {
+      "name": "Vodka",
+      "text": "..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Qué estoy haciendo? Vine hasta aquí y ni siquiera\npude decirlo. Hombre, que patético..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Son solo unas pocas palabras, además. \"Te viste\nmuy genial allí afuera.\"",
+      "choice_data_list": [
+        "¿Quieres que se lo diga?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Augh! Mierda, ¡has estado aquí todo el tiempo?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Gaaah! ¡Maldita sea! ¡Me voy! ¡Y mejor no le\ndigas lo que dije!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vodka sale corriendo de la habitación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decido guardar lo que dijo como secreto."
+    }
+  ]
+}

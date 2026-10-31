@@ -1,0 +1,28 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Super Creek",
+      "text": "<i>Suspiro...</i> Me siento un poco... raro...",
+      "choice_data_list": [
+        "Creek, no te ves muy bien..."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Oh, no quise preocuparte. Estoy bien. No es nada,\nde verdad."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Solo siento que me canso más fácilmente\núltimamente..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Oh, no es tu culpa! Probablemente solo me he\nestado esforzando un poco demasiado."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque Super Creek está sonriendo, algo está muy\nclaramente mal. Debería hacer algunos ajustes a su\ncalendario de carreras."
+    }
+  ]
+}

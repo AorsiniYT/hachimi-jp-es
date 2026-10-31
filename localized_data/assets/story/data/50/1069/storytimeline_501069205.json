@@ -1,0 +1,102 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El Yasuda Kinen ha llegado. Sakura Chiyono O y yo\nhemos estado entrenando tan duro como hemos podido\nsin forzar demasiado su cuerpo.",
+      "choice_data_list": [
+        "Todo lo que podemos hacer ahora es..."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Muy bien, eso es todo. También he revisado mis\ntacos."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Pero quizás debería revisarlos de nuevo...",
+      "choice_data_list": [
+        "¿Quieres revisarlos juntos?"
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¿¡Eh!? Eh, em..."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Si lo ofreces, entonces... Sí, por favor."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Uf! Gracias por hacer eso por mí."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Ahora mi ropa y mis tacos están listos! ¡Anoche\ntambién dormí como un tronco!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡No tengo nada de qué preocuparme! ¡Voy a salir y\nganar esta carrera G1!",
+      "choice_data_list": [
+        "Seguro que estás muy entusiasmada.",
+        "Seguro que estás muy entusiasmada."
+      ]
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Por supuesto que lo estoy!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "Esta es mi oportunidad para mostrar cuánto he\nmejorado con todo mi entrenamiento."
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "¡Sé que aún estoy en medio de mi período de\ncrecimiento!"
+    },
+    {
+      "name": "Sakura Chiyono O",
+      "text": "No importa si estoy o no en mi mejor momento. ¡Voy\na mostrarle a todos lo lejos que he llegado!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Es hora del Yasuda Kinen! Las Umamusume más\nrápidas se han reunido aquí para enfrentarse en\nesta carrera de 1,600 metros!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Tú puedes, Bamboo!"
+    },
+    {
+      "name": "Espectador A",
+      "text": "Espera un segundo, ¿no es esa Super Creek? ¿Por\nqué ella está animando a Bamboo Memory?",
+      "color_text_info_list": [
+        "Bamboo Memory"
+      ]
+    },
+    {
+      "name": "Espectador B",
+      "text": "Oh, ¿no lo sabías? En realidad son bastante\ncercanas."
+    },
+    {
+      "name": "Espectador B",
+      "text": "Al parecer, Super Creek fue quien animó a Bamboo a\ncorrer en césped."
+    },
+    {
+      "name": "Espectador B",
+      "text": "Creek le dijo que sería igual de buena aquí, y\ntenía razón. ¡Así que aquí estamos ahora!"
+    },
+    {
+      "name": "Espectador A",
+      "text": "Wow, eso es algo. Si una corredora increíble como\nCreek la está animando, eso debe significar que\nBamboo Memory también es bastante sólida."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Jeje. Así es."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Bamboo es bastante poderosa. ♪"
+    }
+  ]
+}

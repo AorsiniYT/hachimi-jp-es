@@ -1,0 +1,25 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ahh...",
+      "choice_data_list": [
+        "Lo siento, no pude ganar.",
+        "Lo siento, no pude ganar."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Por favor, no te preocupes. Es una lástima, sin\nembargo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "A-asi que lo que cuenta es la intención. Realmente\naprecio el intento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bueno, eso fue decepcionante."
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "T.M. Opera O está buscando una rival antes de que\nllegue el Satsuki Sho. Sin embargo..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ay, cómo puede ser esto? ¿Por qué nadie asume el\npapel de mi rival?!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Los adversarios dignos son vitales para una buena\nópera! De verdad, ¿nadie quiere convertirse en mi\nConde Friedrich e intentar derrotarme?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Qué razón hay para negarse? \"Morir de vergüenza\",\nme dicen, pero ese es el precio de enfrentarse a\nmi brillo!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Es incomprensible! ¿No estás de acuerdo,\nEntrenador?",
+      "choice_data_list": [
+        "Eh, sí, claro!",
+        "Eh, sí, claro!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hago lo posible por sonar convincente, pero estoy\nsegura que todos simplemente no quieren lidiar con\nOpera O."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Opera O... Eh, lo siento..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿En serio, Doto? ¿Sin suerte?"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Intenté hablar con todos los que podrían correr en\nel Satsuki Sho... para pedirles que fueran tu\nrival, pero..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Todos eran tan intimidantes... No me atreví a\nhablar."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡¿Qué?! ¡Te rendiste antes de extender la\ninvitación?! La humildad no es <i>tan</i> virtuosa, Doto!",
+      "choice_data_list": [
+        "Las cosas se ven feas..."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Espera, Entrenador. Una Umamusume con la habilidad\npara entrar al Satsuki Sho aún queda."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Pero por alguna razón, no puedo encontrar a dicha\ncandidata. ¿Por qué no muestra su rostro?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Allá... Salí sin problemas. Ahora, mientras\ntodavía es temprano..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "...?!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "...!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡O-oooh! ¡Finalmente!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Eres a quien he estado buscando! Además..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Eres la fanática devota que asistió a mi cena\nespectáculo en mi última fiesta de fin de año!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "S-se serio... Solo pasaba por aquí..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Me ha llegado el rumor. Aparentemente, es casi\nseguro que correrás en el Satsuki Sho, ¿sí?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Perfecto! ¿Te gustaría saltarte tres niveles de\nfan y convertirte en mi rival?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Eres la única capaz de asumir el papel de mi\nadversaria, o hermosa Admire Vega!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "No diría que soy hermosa..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡De alguna manera me siento conectada a ti! Por\neso debo de alguna manera saldar esta cuenta!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Uy. Lo único que haces es presionar y fastidiar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Opera O no ceja en la presión."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ahora, para conferir el honor de ser seleccionada\ncomo mi rival."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Lee mis labios... N-O. Ahora déjame en paz."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ah, ya veo, querida rival mía. O, ma rivale, si\nprefieres francés."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Me da igual, y no lo haré de ninguna manera."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Eh... Opera O? Creo que Ayabe podría estar seria.",
+      "color_text_info_list": [
+        "Ayabe"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Jajaja, ¿a qué te refieres, Doto? Seguro que solo\nobservas con tus ojos."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ciérralos—y tápate los oídos también. Extiende tu\n<i>corazón.</i> Entonces quedará claro como el día que\nella está extasiada."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "¡O podrías simplemente escucharme!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Admire Vega no logra hacerse entender por Opera O,\nquien insiste en que la conversación vaya en una\ndirección."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Pero... ¿por qué no lo entiendes? Podrías decir\neso y aquello, pero al final del día, igual\ncorrerás en el Satsuki Sho."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "En ese caso, estarás corriendo contra mí. ¿Eso no\nte convierte ya en mi rival?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "O... ¿podría ser? ¿Planeas retirarte?"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Yo, bueno... Ngh..."
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Voy... a correr. Tengo mi propia meta que persigo."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ah, espléndido! ¡Entonces, de hecho, tenemos una\nrivalidad!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Que sea fructífera, querida Admire Vega—no...\n¡Ayabe!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Haaah ja ja ja!"
+    },
+    {
+      "name": "Admire Vega",
+      "text": "Ngh... La evité por tanto tiempo... solo para ser\natrapada al final."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así es como Admire Vega es, a regañadientes,\nelegida como la rival para el Satsuki Sho."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Habiendo obtenido la competencia que quería, ¡la\nmotivación de T.M. Opera O se dispara!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Tu habilidad para torcer el brazo es asombrosa,\nOpera O..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Pero... me pregunto si fuiste muy lejos."
+    }
+  ]
+}

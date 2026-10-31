@@ -1,0 +1,101 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Espectador A",
+      "text": "¡Tu forma de correr es increíble, Hot Rod!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "¡Gracias por darnos una carrera tan divertida!\n¡Ven a Fukushima de nuevo algún día!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Gracias por tu apoyo! ¡El paisaje alrededor de la\npista es hermoso! ¡Definitivamente volveré!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Maruzensky tiene una gran carrera durante el\ncampamento de verano."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Guau, ya está oscureciendo..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Me hubiera encanto pasar la noche allí, pero\ntuvimos que volver al campamento."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Sin embargo, disfruté mucho la carrera! ¡El\nentrenamiento de verano realmente ha dado frutos!",
+      "choice_data_list": [
+        "¡Fue una gran carrera! ¡Sin defectos!",
+        "¡Fue una gran carrera! ¡Sin defectos!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Jeje, gracias. Me pregunto si todos los demás\ntambién lo pasaron bien."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Oh, Maruzensky!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oye, Spe."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Bienvenido de vuelta! Espera, quiero decir,\n¿cuándo fuiste a Fukushima?!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Cuando te vi en la transmisión en vivo, pensé ¡que\ndebías tener un gemelo!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Jeje! Me alegra haberte sorprendido! Aunque,\nestoy bastante segura de que mi nombre estaba en\nla lista de corredoras..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Ehehe, supongo que me lo perdí."
+    },
+    {
+      "name": "Special Week",
+      "text": "En serio, ¡estaba pegada a la pantalla! Cuando\ncruzaste la línea de meta, ¡todos estaban tan\nexcitados!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Estuve tan motivada al verlo que incluso hice un\npoco de entrenamiento justo después!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Guau, ¿en serio?!",
+      "choice_data_list": [
+        "Suena como que aún inspiras a la gente.",
+        "Suena como que aún inspiras a la gente."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Eso hace que todo el trabajo duro valga la pena!\n♪"
+    },
+    {
+      "name": "Special Week",
+      "text": "Um, por cierto, organicé una fiesta de celebración\npara ti con Grass y los demás!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Queremos escuchar todo sobre la carrera de ti y\nde tu entrenador!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Eres la mejor! ¡Por supuesto que me encantaría\nser parte de ello!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, la carrera de mitad de campamento resulta\nser tanto un gran resultado para nosotros como una\npoderosa motivación para otros."
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "La Princesa Kawakami logra obtener un gran\nresultado en la Victoria Mile."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras espero en el túnel de corredoras a que\nregrese..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Kawakami parecía haberse divertido. Lo noté\ndurante la carrera también.",
+      "choice_data_list": [
+        "Estaba corriendo como ella misma otra vez.",
+        "Estaba corriendo como ella misma otra vez."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...Je."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Bueno, eso era de esperar. ¡Ella sí recibió un\nempujón en la dirección correcta de tu servidora!",
+      "choice_data_list": [
+        "¿Un empujón?"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Sí, un empujón! ¿Qué hay que dudar? ¿No has\nestado prestando atención?"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Le señalé totalmente las deficiencias a Kawakami!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Es mi rol como corredora más experimentada! ¡Hice\nmi debut antes que ella, sabes?",
+      "choice_data_list": [
+        "Así que estabas preocupada por ella.",
+        "Así que estabas preocupada por ella."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Grrr! ¿Qué te pasa?! ¡Deberías mostrarme mucha\nmás gratitud!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Empieza con un \"gracias\" al menos! Luego puedes\ninvitarme a un jugo delicioso."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Oh, vaya—¡Entrenador! Y Sweep también está aquí."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Hehe. ♪ ¡En realidad me voy! No olvides que\ntambién me debes agradecimiento, Kawakami."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Vaya... ¡Sweep se veía mucho más animada de lo\nhabitual!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Hehe, no me sorprende realmente, aunque. La\ncarrera de hoy fue..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Realmente divertida, después de todo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después del concierto, regresamos a la academia."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "...Entrenador, ¿te quedarías conmigo un poco más\nesta noche?",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "No es nada. Solo..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Vamos! ¡Por aquí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Kawakami Princess sale corriendo al instante,\nobligándome a perseguirla hasta el edificio de la\nescuela."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Guau! ¡Las estrellas son tan bonitas!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Estamos tan arriba. Da miedo hasta pensar en lo\nque pasaría si me caigo.",
+      "choice_data_list": [
+        "Ten cuidado.",
+        "Ten cuidado."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Lo seeee."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Kawakami me ha llevado a la azotea de la escuela.\nMiro la hora: el edificio de la escuela cerrará\npronto."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Oye, Entrenador. Los primeros tres años que una\nUmamusume y su entrenador pasan juntos son\nrealmente importantes, ¿verdad?",
+      "choice_data_list": [
+        "Eso es lo que dicen.",
+        "Eso es lo que dicen."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los primeros tres años... Si una Umamusume no ha\nlogrado un récord satisfactorio al final del\ntercer año después de su debut..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hay una buena probabilidad de que esto lleve a que\nse separe de su entrenador."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "...¡No hay manera de que eso nos pase! Quiero\ndecir, ¡ya hemos llegado tan lejos juntos!",
+      "choice_data_list": [
+        "Esperemos que no.",
+        "Esperemos que no."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "...Hmph. Acabas de fallar tu prueba de Entrenador\nLegendario."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "No solo esperes. Tienes que decir que esto\n<i>definitivamente</i> no será el final."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "No solo esperes. Tienes que decir que esto\n<i>definitivamente</i> no será el final."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "En mi año júnior, me dijiste que si quería\nconvertirme en princesa, necesitaba concentrarme\nen acostumbrarme a las carreras antes de entrar en\ncarreras G1."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "En mi año clásico, continuaste guiándome incluso\ncuando estaba perdida y no sabía qué hacer."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Eres la persona que me ayudó a aprender lo que\nrealmente significa ser yo misma. ¡Eres mi\ncompañero definitivo!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Por eso yo..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Quiero seguir corriendo por este camino juntos."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Si alguna vez tenemos que decir adiós, no debería\nser hasta dentro de mucho, mucho tiempo.",
+      "choice_data_list": [
+        "Entonces me convertiré en tu Entrenador\nLegendario.",
+        "Entonces me convertiré en tu Entrenador\nLegendario."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Por supuesto! ¡Y me convertiré en tu Princesa\nLegendaria!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ahora, si queremos que eso pase, será mejor que\nproduzcamos resultados realmente asombrosos en\nestos últimos seis meses.",
+      "choice_data_list": [
+        "¿Por qué no empezamos apuntando al Takarazuka\nKinen?"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Oh, el Grand Prix de primavera?! ¡El concurso de\nconcursos que cierra la temporada G1 de primavera!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Recibido! ¡Siento que la experiencia será un paso\nesencial para mí mientras avanzo por mi camino de\nprincesa!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡Ahora, corramos salvajemente!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Kawakami Princess y yo decidimos establecer\nel Takarazuka Kinen como su próximo objetivo."
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Volvemos directamente a nuestro entrenamiento\nregular después del campamento de verano. Como\nparte de eso, decidimos organizar una carrera de\npráctica."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Entonces, ¿contra quién corro hoy?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Hiii, Hayahide! ¿Estás tan emocionada por correr\ncomo yo?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Boleto?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Espera, ¿estás segura de que quieres que corra\ncontra ella? No creo que revelar mis estrategias\njusto antes del Kikuka Sho sea una buena idea.",
+      "choice_data_list": [
+        "Organicé esto porque tengo la sensación de que no\nestás lista."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Entonces estás diciendo que sabes lo que le falta\na la ecuación en la que me he volcado?",
+      "choice_data_list": [
+        "Bueno..."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Lo siento. Lo entiendo. Esta carrera está diseñada\npara ayudarme con eso."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Me prepararé. Y <i>no</i> voy a perder."
+    },
+    {
+      "text": "La carrera entre Winning Ticket y Biwa Hayahide\ncomienza."
+    },
+    {
+      "text": "Las cosas se ponen interesantes en la recta, justo\ndespués de la cuarta curva..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "<i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(He sacado una buena ventaja sobre Ticket. Su\nvelocidad de esprint preocupa, pero según nuestros\ndatos, debería estar bien con esta ventaja tan\ngrande.)"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Ngh! ¡RAAAH!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(¿Ya está cargando hacia adelante? ¡Qué rápido!\nPero esa velocidad no es sostenible. Se quedará\nsin resistencia en 200 metros!)"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(No voy a dejar que su apuesta temeraria me\nsacuda, sin embargo. Mientras mantenga este ritmo\ny esprint en la recta final...)"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡RAAAGGGHHH!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿¡Qué!?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(Todavía voy liderando. Mantén la calma. Solo 300\nmetros para llegar. Puedo mantener esta ventaja. Y\nuna vez que se quede sin fuerzas—)",
+      "choice_data_list": [
+        "Necesitas pasar a la ofensiva, Hayahide."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ngh, incluso si quisiera—"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Hrrrngh... ¡Waaagh! ¡Yo... VOY A... GANAR!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "(No puede ser... ¿Cómo... cómo estás a mi lado?\n¿Ahora estás adelante?)"
+    },
+    {
+      "text": "Winning Ticket adelanta a Biwa Hayahide y vuela\nhacia la línea de meta."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "<i>Haa... Haa...</i> ¿¡Cómo!? ¿Cómo pude haber...",
+      "choice_data_list": [
+        "¿Por qué no pasaste a la ofensiva?",
+        "¿Por qué no pasaste a la ofensiva?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ugh..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Pheeew! ¡Esa estuvo buena! ¿Quieres volver a\ncorrer? ¡Sé lo mucho que duele perder!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Pero a mí también me gusta mucho ganar, así que no\nte voy a regalar la victoria!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Creo que es suficiente, salvaje."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Oye, Taishin!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Déjala trabajar a su propio ritmo. Si aún tienes\nenergía de sobra, ¿por qué no sales a correr\nconmigo?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Pero..."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "¡Vamos, vámonos! Luego, Hayahide."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "..."
+    },
+    {
+      "text": "Después de que ella termina su enfriamiento, le\nentrego una bebida a Biwa Hayahide."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Recuerdas cómo me dijiste que necesitaba pasar a\nla ofensiva durante la carrera?",
+      "choice_data_list": [
+        "Sí.",
+        "Sí."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Finalmente lo entendí."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No es que no pasara a la ofensiva. Es que estaba\ndemasiado ocupada jugando a la defensiva. Esa es\nla diferencia entre ellos y yo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Estaba tratando de no perder.",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ahora que lo pienso, siempre estoy jugando a lo\nseguro. Ellos invariablemente dicen que quieren\nganar, pero yo solo pienso en no querer perder."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Incluso la ecuación ganadora en la que he estado\ntrabajando desde que era joven..."
+    },
+    {
+      "name": "Niño",
+      "text": "¡Guau! ¡Brian es incluso más rápido que Hayahide!"
+    },
+    {
+      "name": "Padre",
+      "text": "¡Realmente lo es! Brian es tan asombrosa. Podría\nopacar a su hermana mayor!"
+    },
+    {
+      "name": "Hayahide de joven",
+      "text": "<i>Haa... Haa...</i> ¡No me descarten...! Voy a\nponerme... mucho más rápido! Seré... la más rápida\nque alguien haya visto!"
+    },
+    {
+      "name": "Hayahide de joven",
+      "text": "Seré lo suficientemente rápido... para vencer a\nBrian algún día!"
+    },
+    {
+      "text": "<i>¡Choque!</i>"
+    },
+    {
+      "name": "Brian de joven",
+      "text": "¿¡Hermana!?"
+    },
+    {
+      "name": "Hayahide de joven",
+      "text": "Yo... perdí de nuevo... <i>Snif... snif...</i>"
+    },
+    {
+      "name": "Hayahide de joven",
+      "text": "¡Ganaré la próxima vez! Inventaré una ecuación\npara ganar para que nunca pierda contra nadie.\n¡Especialmente no contra ella..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Toda la razón por la que comencé a trabajar en mi\necuación ganadora fue porque no quería perder."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Irónico, ¿verdad?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No es de extrañar que Ticket y Taishin siempre\nexcedan los parámetros de mis pequeños cálculos.\nPor supuesto que lo hacen."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Siempre están a la ofensiva—dispuestas a hacer lo\nque sea por una oportunidad de victoria porque\nestán tratando de <i>ganar.</i>"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Su forma de pensar difiere de la mía en un nivel\nfundamental. Simplemente no hay forma de que mi\necuación pueda competir con ellos."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Qué estúpido de mi parte llamarla \"ecuación\nganadora\" cuando todo lo que he estado haciendo es\ncalcular cómo no perder!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Por qué me tomó tanto tiempo darme cuenta? ¿Cuál\nes el punto ahora?!",
+      "choice_data_list": [
+        "Los errores son oportunidades de aprendizaje.\nPuedes arreglarlo ahora que te has dado cuenta de\nlo que está mal."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...!"
+    },
+    {
+      "text": "Si Biwa Hayahide fuera el tipo de Umamusume que\nabandona sus sueños por algo así..."
+    },
+    {
+      "text": "Entonces se habría rendido hace mucho tiempo\ncuando se lastimó tratando de alcanzar a su\nhermana."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Eso puede ser cierto, pero tendremos que empezar\nde nuevo desde cero."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Establecí la ecuación sobre una base incorrecta, y\nahora tengo que desecharla y reconstruir todo\ndesde cero."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "No queda mucho tiempo hasta el Kikuka Sho. Si\nhacemos esto, va a ocupar mucho de tu tiempo\ntambién.",
+      "choice_data_list": [
+        "¿Quieres ganar el Kikuka Sho, verdad?",
+        "¿Quieres ganar el Kikuka Sho, verdad?"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "...!",
+      "choice_data_list": [
+        "Si es así, estoy aquí para ayudar."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Eres... Eres un idiota..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Pero soy un idiota aún mayor, por eso estoy\naceptando tu oferta."
+    },
+    {
+      "text": "Reanudamos el entrenamiento de inmediato para\nreformular su fórmula ganadora."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Ah! Hayahide, ¡de verdad viniste!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¿Ticket? ¿Qué haces aquí?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Jeje! Taishin dijo que seguro aparecerías si\n¡esperábamos! ¿Verdad, Taishin?"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Quizás <i>tú</i> estabas esperando. Te estaba dejando\ntomar un descanso para que pudiéramos salir a\ncorrer."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Taishin! ¡Eres tan malo!"
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Lo que sea."
+    },
+    {
+      "name": "Narita Taishin",
+      "text": "Voy a salir a correr. Únete si quieres. O no lo\nhagas.",
+      "choice_data_list": [
+        "¿Ustedes dos están aquí para animar a Hayahide?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Jeje! ¡Sí! Podemos ser rivales, pero somos amigos\nante todo!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Sabes que siempre puedes hablar con nosotros si\ntienes algo en mente, ¿verdad, Hayahide?",
+      "choice_data_list": [
+        "Tienes buenos amigos.",
+        "Tienes buenos amigos."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Sí... Parece que he tenido una mentalidad\ndemasiado cerrada. Tendré que hacer algo al\nrespecto."
+    },
+    {
+      "text": "Biwa Hayahide trota hacia la pista después de sus\namigos."
+    }
+  ]
+}

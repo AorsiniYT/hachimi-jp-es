@@ -1,0 +1,256 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Kawakami Princess completa el Kinko Sho."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "<i>Haa... Haa...</i> ¡Haaah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella enfocó todo su cuerpo en enfatizar la belleza\nen su forma de correr..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero para mí, se veía incómoda y restringida."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "<i>Haa... Resuello...</i> <i>Haa... Haa...</i>"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "(Mi cuerpo se siente... lento. ¿Siempre fue así\ndespués de una carrera?)"
+    },
+    {
+      "name": "Espectadores",
+      "text": "¡Así se hace, Princess! ¡Esa es nuestra heroína!"
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Oye, danos otra de tus geniales declaraciones!"
+    },
+    {
+      "name": "Fan B",
+      "text": "¡Di que los aplastarás a todos!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ehm, pero..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "(Palabras como esas atacan a otros, así que no\ndebería usarlas. No son lo que una reina debería\ndecir.)"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ah... ehm..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "(¿Eh? ¿Cómo se supone que debo comportarme después\nde una carrera de nuevo?)"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "(¿Dirigirme a mis fans? Pero no soy la única\nestrella aquí. ¿Qué haría una reina? Ummm...)"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "(¿Qué haría Princesa Luchadora en esta situación?)"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "(¿Qué debería... hacer?)"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Ja... jaja... jeje..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Kawakami Princess suelta una risa forzada, pero su\nexpresión preocupada hace parecer que está a punto\nde llorar...",
+      "choice_data_list": [
+        "¡Princesa!"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Alto!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Esa risa fue super incómoda! ¡No estás actuando\ncomo tú en absoluto!"
+    },
+    {
+      "name": "Miembro del personal",
+      "text": "¡¿Qué?! ¡Oye, no puedes bajar aquí! ¡Por favor\nregresa a tu asiento inmediatamente!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡No! ¡No me muevo! ¡No hasta que Kawakami escuche\nlo que tengo que decir!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Sweep..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡¿Por qué pones esa cara?! ¡Estás siendo débil!\n¡Estás actuando super débil, Kawakami!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡¿Qué pasó con todo eso de ser fiel a ti misma y\nmantener tu dignidad?! Porque esto no es..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Esto no es como tú en absoluto! ¡No eres Kawakami\nahora mismo!"
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡Devuélveme a la vieja Kawakami! ¡A la Kawakami\nque me importa!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "...!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¿P-por qué debes decir estas cosas egoístas?! ¡Soy\nuna princesa, así que debo conducirme con\ndignidad!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¡¿A ti también te disgustaría?! Si el ganador de\nla carrera es alguien a quien no puedes respetar,\nentonces..."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "¡¿Por qué debería importarme?! ¡No me hace ninguna\ndiferencia!"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Bueno... aunque no te moleste <i>a ti...</i>otras\npersonas podrían no sentir lo mismo...",
+      "choice_data_list": [
+        "¿Puedo hablar contigo un momento?"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "...Entrenador."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...",
+      "choice_data_list": [
+        "Conducirse con dignidad es algo admirable.",
+        "Conducirse con dignidad es algo admirable."
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "...",
+      "choice_data_list": [
+        "Pero creo que ser fiel a ti misma es igual de\nadmirable.",
+        "Pero creo que ser fiel a ti misma es igual de\nadmirable."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Entonces, ¿estás diciendo que ambas formas son\ncorrectas? Entonces... ¿cómo?"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "¿Qué se supone que... debo hacer?",
+      "choice_data_list": [
+        "Piensa una vez más sobre cómo se ve tu yo ideal.",
+        "Piensa una vez más sobre cómo se ve tu yo ideal."
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "...¿Mi yo ideal?"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "Bueno, yo..."
+    },
+    {
+      "name": "Miembro del personal",
+      "text": "¡Oye! ¡Apúrate y despeja de aquí! ¡Tenemos otra\ncarrera hoy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ahuyentados por uno de los miembros del personal,\nnos vamos de la pista."
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Voy a entrar en la Victoria Mile, así que\nasegúrate de entrar también. Y más te vale tenerlo\ntodo junto para entonces.",
+      "color_text_info_list": [
+        "Victoria Mile"
+      ]
+    },
+    {
+      "name": "Sweep Tosho",
+      "text": "Te diré una cosa ahora mismo. La Kawakami que yo\nconozco nunca se quedaría quieta y aguantaría todo\neste desprecio sin hacer nada al respecto."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "..."
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "La Victoria Mile...",
+      "choice_data_list": [
+        "¿Vas a entrar?"
+      ]
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin duda se siente conflictiva."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella no entiende la diferencia entre simplemente\nser ella misma y ser egoísta, entre ser digna y\ncontenerse."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Está perdiendo de vista cómo su yo ideal—la\nprincesa que desea convertirse—debería actuar."
+    },
+    {
+      "name": "Monitor",
+      "text": "¡Las cosas se están calentando en el Chukyo\nRacecourse este mes! ¡Pronto será hora del\nelectrizante concurso de primavera—el\nTakamatsunomiya Kinen!",
+      "color_text_info_list": [
+        "Takamatsunomiya Kinen"
+      ]
+    },
+    {
+      "name": "Monitor",
+      "text": "¡Con la Umamusume que se llama a sí misma de\nprimera entrando en la refriega, quién se\nconvertirá en la reina del esprint?!"
+    },
+    {
+      "name": "Monitor",
+      "text": "¡También realizaremos un evento de Princesa\nLuchadora! Los padres que traigan a sus hijos\nrecibirán ¡merchandising gratis! ♪"
+    },
+    {
+      "name": "Kawakami Princess",
+      "text": "...Ah."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nuestra próxima parada es la Victoria Mile, donde\nestoy segura que Kawakami Princess redescubrirá su\nyo ideal."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como su entrenador, debo guiarla por el mejor\ncamino."
+    }
+  ]
+}

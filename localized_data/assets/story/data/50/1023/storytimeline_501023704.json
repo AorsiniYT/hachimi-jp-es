@@ -1,0 +1,226 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Biwa Hayahide se vuelve hacia mí en el camino a\ncasa un día."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Entrenador, ¿te importa si pasamos por ese café de\nnuevo?",
+      "choice_data_list": [
+        "Por supuesto que no. De todas formas, tenemos\ntiempo.",
+        "Por supuesto que no. De todas formas, tenemos\ntiempo."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Gracias. Hay algo que quiero decirle al dueño."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hola. Espero no estar molestándote, pero me\ngustaría hablar contigo sobre algo. No como\ncliente, sino en general."
+    },
+    {
+      "name": "Dueña de café",
+      "text": "Eres tú de nuevo. Claro... ¿Qué es?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "La última vez que estuve aquí, no pude comunicar\nmi punto muy bien."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Mi fracaso al hacerlo me ha estado molestando\ndesde entonces, así que quería intentar\nconvencerte una vez más."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Esta vez, he preparado una presentación!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Primero, permíteme presentarte algunos datos\nactuales."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tu clientela tiende a ser un poco mayor, y los\nclientes suelen venir solos o en parejas."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Su propósito principal al visitar es leer,\nestudiar o trabajar. En general, son adultos\nsolitarios que buscan usar su tiempo de manera\neficiente."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Deberías aprovechar esto y crear un espacio para\nque tu clientela principal se relaje!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Hay algunas cosas que puedes hacer para\ntransformar este espacio en una especie de joya\noculta y atraer a un público mayor."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Por ejemplo, puedes atenuar las luces y decorar\nel espacio con paneles de madera y muebles\nantiguos!"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Y eso concluye mi presentación! ¿Qué opinas?"
+    },
+    {
+      "text": "Al final de su charla, Biwa Hayahide está tan sin\naliento de emoción como después de terminar una\ncarrera reñida."
+    },
+    {
+      "name": "Dueña de café",
+      "text": "Yo... No sé qué decir. Me halaga que haya alguien\nahí afuera que se preocupe tanto por mi tienda."
+    },
+    {
+      "name": "Dueña de café",
+      "text": "Pero, ¿por qué te <i>importa</i> tanto?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "La primera razón es simplemente porque me gusta\neste café y vengo a menudo."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "La segunda es, bueno..."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Porque creo firmemente que la lógica aplicada\npuede superar al talento natural."
+    },
+    {
+      "text": "Los ojos de Biwa Hayahide brillan con firme\nconvicción. Sus palabras resuenan con su enfoque\nsincero de la vida.",
+      "choice_data_list": [
+        "(¡Esta es su verdadera fuerza!)"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Cuando me contaste por primera vez sobre tu\nsituación, me vi en tu historia."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "También sé cómo es sentirse abrumado por una\ncompetencia que parece invencible."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Pero no importa cuán fuerte sea un oponente,\nsiempre hay una manera de superar las\nprobabilidades."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Lo creo sinceramente, y quiero que tú también lo\ncreas."
+    },
+    {
+      "name": "Dueña de café",
+      "text": "Guau. Yo..."
+    },
+    {
+      "name": "Dueña de café",
+      "text": "Gracias. Creo que pensaré más en el destino de\neste lugar."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Uf... Me alegra haber podido presentar mi idea\nantes de que el café cerrara para siempre.",
+      "choice_data_list": [
+        "Fuiste muy persuasiva.",
+        "Fuiste muy persuasiva.",
+        "Eso realmente resonó con él.",
+        "Eso realmente resonó con él.",
+        "¡Hasta yo me siento motivado ahora!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Uf... Me alegra haber podido presentar mi idea\nantes de que el café cerrara para siempre.",
+      "choice_data_list": [
+        "Fuiste muy persuasiva.",
+        "Fuiste muy persuasiva.",
+        "Eso realmente resonó con él.",
+        "Eso realmente resonó con él.",
+        "¡Hasta yo me siento motivado ahora!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Mmm... Supongo que todo el razonamiento y la\nteorización que hago a diario resultaron útiles."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Espero no haber sonado demasiado prepotente, sin\nembargo. Después de todo, todo lo que he aprendido\nfue mediante ensayo y error."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Pero entiendo lo desalentador que puede ser\nenfrentar probabilidades tan difíciles, y no\nquiero que el dueño se rinda tan fácilmente."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Realmente espero haber podido comunicar eso."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jaja... ¿No crees que estaba siendo demasiado\ninsistente?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Es difícil para mí controlar mis sentimientos\ncuando se trata de cosas de las que soy\napasionado."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Ni siquiera planeé hacer una presentación,\noriginalmente. Simplemente sucedió...",
+      "choice_data_list": [
+        "¡Eso estuvo bastante bien para algo que ni\nsiquiera planeaste!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "¡Jeje! Gracias."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Me alegra haberlo hecho. Creo que me ayudó a\ncomunicar mi punto más claramente."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Mmm... ¿De verdad lo crees?"
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Me alegra saber que mi lógica pudo motivar a\notros."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Tengo bastante confianza en mis habilidades\nanalíticas, así que avísame si alguna vez las\nnecesitas."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Puedo examinar cualquier problema tuyo desde\ndiferentes ángulos y analizarlo para ti."
+    },
+    {
+      "text": "Varios días pasan desde que Biwa Hayahide y yo\nsalimos juntos por última vez.",
+      "choice_data_list": [
+        "Me pregunto qué pasó con ese café.",
+        "Me pregunto qué pasó con ese café."
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Todavía está abierto y en funcionamiento, por\nsupuesto. Mira."
+    },
+    {
+      "text": "Espío por la ventana y veo que ha sido remodelado\npara sentirse más íntimo. Hay varios clientes\ndentro relajándose."
+    },
+    {
+      "text": "Todos están tomando café tranquilamente o leyendo\nlibros. Se ve muy acogedor incluso desde afuera.",
+      "choice_data_list": [
+        "¡El dueño realmente tomó tu consejo en serio!",
+        "¡El dueño realmente tomó tu consejo en serio!"
+      ]
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "De hecho. Estoy tan contento."
+    },
+    {
+      "text": "Se ve tan genuinamente feliz que no puedo evitar\nsentirme de la misma manera."
+    }
+  ]
+}

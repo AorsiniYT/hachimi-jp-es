@@ -1,0 +1,55 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Nice Nature",
+      "text": "Entrenador..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Nunca podría llamarme a mí misma la más rápida, o\nla número uno, pero..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Se me permitirá si gano el Tenno Sho de otoño...\n¿verdad?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Entonces, puedo decir que soy la mejor en media\ndistancia, ¿verdad?",
+      "choice_data_list": [
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Tenno Sho de otoño es una carrera G1 de media\ndistancia rica en tradición y prestigio. Ganar\nesto hará de Nature una corredora de primera clase\ntanto en nombre como en realidad.",
+      "color_text_info_list": [
+        "G1"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "...Está bien."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Lo haré... ¡g-ganaré! ¡Sí!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Sí, eso es... ¡lo dije, ahora no hay vuelta atrás!",
+      "choice_data_list": [
+        "¡Gana esta carrera!",
+        "¡Gana esta carrera!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "N-n-no... no..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡No necesitas decírmelo dos veces!"
+    }
+  ]
+}

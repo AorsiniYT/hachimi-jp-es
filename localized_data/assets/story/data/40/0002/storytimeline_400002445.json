@@ -1,0 +1,63 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Finalmente he reunido suficientes miembros para\nformar un equipo y ahora podemos participar en la\nCopa de la Unidad."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nuestro nivel de entrenamiento aumentará según\nnuestra clasificación en la Copa de la Unidad, así\nque espero ganar tantas carreras como sea posible."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero primero, necesito decidir un nombre para el\nequipo. Puedo elegir entre los nombres que los\ndemás sugirieron y el que se me ocurrió, Equipo\nZanahoria."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Vamos a nombrar a nuestro equipo...",
+      "choice_data_list": [
+        "Saltarines Felices, como sugirió Taiki",
+        "Corredores Soleados, como sugirió Fukukitaru",
+        "Pudín de Zanahoria, como sugirió Urara",
+        "Floración Azul, como sugirió Rice",
+        "Equipo Zanahoria"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lleno nuestro nombre en el formulario como\n\"Saltarines Felices\". ¡Eso lo hace oficial!",
+      "color_text_info_list": [
+        "Saltarines Felices"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lleno nuestro nombre en el formulario como\n\"Corredores Soleados\". ¡Eso lo hace oficial!",
+      "color_text_info_list": [
+        "Corredores Soleados"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lleno nuestro nombre en el formulario como \"Pudín\nde Zanahoria\". ¡Eso lo hace oficial!",
+      "color_text_info_list": [
+        "Pudín de Zanahoria"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lleno nuestro nombre en el formulario como\n\"Floración Azul\". ¡Eso lo hace oficial!",
+      "color_text_info_list": [
+        "Floración Azul"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lleno nuestro nombre en el formulario como \"Equipo\nZanahoria\". ¡Eso lo hace oficial!",
+      "color_text_info_list": [
+        "Equipo Zanahoria"
+      ]
+    }
+  ]
+}

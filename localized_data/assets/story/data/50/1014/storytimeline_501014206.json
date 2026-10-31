@@ -1,0 +1,96 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Es esto! Desde el principio, <i>¡este era mi\n</i>escenario de sueño! ¡Mi puerta de entrada al\nmundo!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡La Japan Cup! ¡Hola a todos!"
+    },
+    {
+      "name": "Fans",
+      "text": "¡Yeeeaaah!"
+    },
+    {
+      "name": "Fan A",
+      "text": "¿Es esa El Condor Pasa?!"
+    },
+    {
+      "name": "Fan B",
+      "text": "¡¿Qué está haciendo en las gradas?! ¡¿Vino aquí\npara vernos?! ¡Eso es increíble!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Condor Pasa siempre tiene en mente a los fans.\nCamina entre ellos chocando los cinco."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos dirigimos a la pista, respondiendo a los\nánimos de ambos lados todo el tiempo."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Ahora que estamos aquí, finalmente lo entiendo."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Sé por qué no pude venir aquí en mi año clásico.",
+      "choice_data_list": [
+        "¿Y por qué es eso?"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Me faltaba tanto. ¡Habilidades, confianza y la\nmotivación para entretener a todos!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Pero las cosas son diferentes ahora!",
+      "choice_data_list": [
+        "¡No hay manera de que pierdas!",
+        "¡No hay manera de que pierdas!"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Bueno. Eso es exactamente correcto. Pertenezco a\neste escenario ahora."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Voy un año atrasada en mi sueño... ¡pero usaré ese\ntiempo para hacer esta victoria un millón de veces\nmás heroica!"
+    },
+    {
+      "name": "Special Week",
+      "text": "El, la carrera de hoy es exactamente como el\nDerby—2,400 metros en el Tokyo Racecourse."
+    },
+    {
+      "name": "Special Week",
+      "text": "Pero esta vez, yo... yo..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Sí, no importa qué, ¡estoy segura de que va a ser\nincreíble!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ambas somos mucho más fuertes ahora! ¡Y mira a\ntodos nuestros admiradores!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Así es! ¡Hice todo lo posible en el Derby..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Pero quiero que hoy sea aún mejor! ¡Quiero\nvencerte y convertirme en la mejor de Japón!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Lo mismo te digo! ¡Estoy tan emocionada de correr\ncontra la nueva y más fuerte tú!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Esto no es solo una carrera—es un duelo entre tú y\nyo! ¡<i>Tú</i> eres mi Copa Japón!"
+    }
+  ]
+}

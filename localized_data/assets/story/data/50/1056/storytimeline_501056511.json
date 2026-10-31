@@ -1,0 +1,183 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Matikanefukukitaru corre hacia mí, ¡radiante de\nentusiasmo!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Hora de la adivinación inversa! ¡La hora\nfinalmente ha llegado, Entrenador!",
+      "choice_data_list": [
+        "¿Qué es la adivinación inversa?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Soy yo normalmente la que hace la adivinación,\n¿verdad? ¡Pero esta vez, traigo una oportunidad\ntan increíble que te va a volar la cabeza!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Quiero que me cuentes <i>mi</i> futuro."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Por favor, hazme el honor! ¿Cómo crees que mi\ncarrera de esta tarde resultará?",
+      "choice_data_list": [
+        "Esto es un poco repentino..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Predecir el futuro no está en mi repertorio, pero\nantes de que pueda decir algo..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Creo..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Tuve una visión del futuro de Fukukitaru..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Salto cuando una voz prácticamente se materializa\na nuestro lado."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿¡Qué?! ¡Oh, Manhattan Cafe!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Siempre enigmática y misteriosa... ¿Caminas por el\nlímite entre este mundo y el siguiente incluso\nahora?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Y acabas de decir que tuviste una visión? ¿Y esa\nvisión era sobre mi futuro?"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Erm... Bueno, más o menos..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Apareciste en mi sueño anoche..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿¡Yo?!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Entonces, ¿qué viste? Seguramente un sueño de\nalguien tan misteriosa como tú me dará algún tipo\nde pista."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Sea lo que sea, me encantaría escucharlo!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "...Está bien."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Bueno, estábamos en el entrenamiento de hoy... y\ntú...",
+      "choice_data_list": [
+        "¡Espera!",
+        "¡Espera!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tengo un mal presentimiento sobre esto. Llevo a\nManhattan Cafe a un lado para hablar con ella en\nprivado."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Fukukitaru quedó en último lugar en mi sueño..."
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Ella fue tragada por una sombra misteriosa que la\nperseguía por detrás..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sabía que sería malo... ¿Cómo le damos la noticia?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Hey! Entrenadorrr. Cafeee. No pueden guardarse\ntodos los detalles para ustedes."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Cuéntenme! ¿Qué me pasó en su sueño?",
+      "choice_data_list": [
+        "Quedaste en último lugar.",
+        "Arrasaste con la competencia."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿¡Q-qué acabas de decir?! ¿Es verdad, Cafe?!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Terminé en último lugar?! ¿Como que ni siquiera\ntuve una oportunidad?! ¡Ni siquiera una\noportunidad de... de... el chupacabra?!"
+    },
+    {
+      "name": "Manhattan Cafe",
+      "text": "Sí... fuiste atrapada por una sombra negra... Te\natrapó por detrás..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Ni hablar! Pero considerando que es <i>tu</i>sueño, debe\nhaber algo de verdad en ello..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Si me atrapa el chupacabra, se acabó para mí..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más tarde, en el entrenamiento..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Quítate de en medio! ¡De ninguna manera voy a\ndejar que me trague!"
+    },
+    {
+      "name": "Líder",
+      "text": "¿¡E-eh?! ¡Fukukitaru?! ¿Qué te tiene tan\nagitada..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Más te vale correr rápido, o el chupacabra\ntambién te tragará! ¡Esa bestia chupasangre!"
+    },
+    {
+      "name": "Líder",
+      "text": "¿¡Qué?! ¿¡De qué estás hablando?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella está empezando a presionar a la corredora que\nva en cabeza. Parece que su ansiedad le está dando\nun impulso."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿¡Gané?! ¡Y no solo eso, arrasé con todos?!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Gran fortuna debe estar llegando, ¡garantizado\npor Cafe!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Si ese es el caso, no veo razón para no volverme\nloca. ¡Ya no tengo nada que temer!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Vamos, a por la victoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Terminé mintiéndole, pero la fe completa de\nMatikanefukukitaru en el presagio la empodera para\nasegurar una gran victoria."
+    }
+  ]
+}

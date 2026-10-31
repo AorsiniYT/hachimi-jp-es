@@ -1,0 +1,67 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "King Halo",
+      "text": "Hum. Mis resultados fueron suficientes. Sin\nembargo..."
+    },
+    {
+      "name": "Reportero Ocupado",
+      "text": "Oye, ¿quién es el siguiente para la entrevista?\n¿Dónde está el horario?"
+    },
+    {
+      "name": "Asistente Ocupado",
+      "text": "Si recuerdo correctamente, la corredora esperada\npara ser Umamusume del año está en otro lugar..."
+    },
+    {
+      "name": "Reportero Ocupado",
+      "text": "¡Esa senior! ¡Entonces apresurémonos y salgamos de\naquí! ¡Agarren todo el equipo, rápido!",
+      "color_text_info_list": [
+        "senior"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Esto fue solo una carrera junior. Todos consideran\nesto como una etapa temprana."
+    },
+    {
+      "name": "King Halo",
+      "text": "Lo importante es cómo actuamos de aquí en\nadelante, y cómo nos distinguimos en carreras\nfuturas."
+    },
+    {
+      "name": "King Halo",
+      "text": "Vamos en la dirección correcta, Entrenador. Como\nuna Umamusume de primera, no me desviaré del\ncamino que tengo por delante."
+    },
+    {
+      "name": "King Halo",
+      "text": "Mantengamos la vista en el tour de la Triple\nCorona."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los corredores solo tienen una oportunidad de\nparticipar en el tour de la Triple Corona, una\nserie compuesta por la Satsuki Sho, el Japanese\nDerby y la Kikuka Sho.",
+      "color_text_info_list": [
+        "Satsuki Sho"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Va sin decir, pero muchas Umamusume sueñan con\nlograr la victoria allí, así que la competencia\nseguramente será feroz.",
+      "choice_data_list": [
+        "Si estás preparada, entonces hagámoslo.",
+        "Si estás preparada, entonces hagámoslo."
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "...Hum. Una declaración tonta."
+    },
+    {
+      "name": "King Halo",
+      "text": "He estado preparada para ello mucho antes de\nsiquiera venir a esta academia."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y con eso, está decidido. Nuestro próximo objetivo\nserá la primera carrera del tour de la Triple\nCorona: la Satsuki Sho."
+    }
+  ]
+}

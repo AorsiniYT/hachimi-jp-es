@@ -1,0 +1,40 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estoy a punto de sentarme en mi escritorio y hacer\nalgo de trabajo, cuando..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Desde debajo del escritorio sale... Redoble de\ntambores, por favor! ☆"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Mayano Top Gun! ¡Sorpresa!",
+      "choice_data_list": [
+        "¡Me asustaste!"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Je. Quería pasar el rato contigo, así que he\nestado esperando."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Nada enciende mis motores últimamente, ni siquiera\ncorrer o pasar el rato con mis amigos..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Hmm... Incluso ahora, apenas están ronroneando..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "<i>Suspiro...</i> Quizás mis motores están rotos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que aún se siente cansada. De ahora en\nadelante, probablemente debería reevaluar su\ncalendario de carreras para asegurar su mejor\ndesempeño."
+    }
+  ]
+}

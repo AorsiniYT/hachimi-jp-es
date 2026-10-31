@@ -1,0 +1,74 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Agnes Tachyon termina el Kikuka Sho con resultados\nfavorables."
+    },
+    {
+      "name": "Fan A",
+      "text": "Debo admitir, Agnes Tachyon se desempeñó mejor de\nlo que pensé."
+    },
+    {
+      "name": "Fan B",
+      "text": "Sí, corrió con todo su corazón. ¿Realmente es una\nniña problemática como dicen?"
+    },
+    {
+      "name": "Reportera A",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El esprint completo de Agnes Tachyon ha inspirado\nun cambio de corazón en quienes la observan."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...Je, je."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Jaja... ¡JAJAJA! ¡Nada mal! ¡Para nada mal!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Por fin... finalmente!",
+      "choice_data_list": [
+        "¿Tachyon?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Oh, Entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su sonrisa es tan brillante que inconscientemente\ndoy un paso atrás.",
+      "choice_data_list": [
+        "¡E-eesa fue una gran carrera!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Sí, yo también lo creo! Ojalá pudiera copiar la\nmemoria de mi mente y guardarla en algún lugar."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "De cualquier manera, esto es solo el comienzo.",
+      "choice_data_list": [
+        "¿El comienzo?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ah, cierto. Es hora de que cumpla mi promesa\ncontigo."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Una vez que estés listo, reunámonos en tu oficina.\nTengo algo que decirte."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su expresión parece inusualmente seria."
+    }
+  ]
+}

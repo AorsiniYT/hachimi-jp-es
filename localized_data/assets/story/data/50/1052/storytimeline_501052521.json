@@ -1,0 +1,35 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Haru Urara",
+      "text": "<i>Bostezoooo...</i> Tengo tanto sueño.",
+      "choice_data_list": [
+        "¿No estás durmiendo lo suficiente?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Sí. Me quedé despierta hasta tarde anoche. Pero\nnunca apareció..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Quizás el fantasma es solo tímido?",
+      "choice_data_list": [
+        "¡F-fantasma?!"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Sí. Quería hacerme amiga y correr juntos. Parece\nque sería muy divertido."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "O sea... 'Porque flota, ¿sabes? Yo pensé que iría\n<i>fwoosh,</i> o algo. Ah bueno... <i>Bostezo...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Haru Urara parece tener dificultades para\nconciliar el sueño. Eso es motivo de preocupación."
+    }
+  ]
+}

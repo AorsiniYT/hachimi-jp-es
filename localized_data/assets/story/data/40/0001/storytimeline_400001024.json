@@ -1,0 +1,242 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, paso junto a los campos, cuando..."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Brillante! ¡Tu piel tiene un brillo muy lustroso!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Elegante! También tienes una superficie agradable\ny firme. ¡Refleja una crianza adecuada!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¿Oh? ¡Qué coincidencia! Bienvenida, ¡bienvenida!",
+      "choice_data_list": [
+        "Ehm... ¿Qué estás haciendo aquí?"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Excelente pregunta! ¡Solo estaba elogiando a\nestas magníficas zanahorias por sus atributos!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Escuchen bien! Deseo crear un ambiente cómodo\npara todos los estudiantes de esta academia.\n¡Naturalmente, las zanahorias de alta calidad son\nesenciales!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Requiero zanahorias con alto valor\nnutricional—zanahorias que harán agua la boca...\nEn otras palabras, zanahorias cultivadas con amor!",
+      "choice_data_list": [
+        "Ya... veo.",
+        "Ya... veo."
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Indiscutible! Las zanahorias crecen mejor cuando\nse les da amor y aliento, ¡igual que las\nUmamusume!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Y la esencia del amor es el respeto y la\ndeterminación! Requiere la perspicacia para ver la\nverdadera naturaleza de alguien, y los medios para\ntratarlos con dignidad!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Velar por ellos hasta el final, pase lo que pase!\n¡Alabarlos y empujarlos a su máximo potencial!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "<i>Eso</i> es amor. Pero quizás se necesite un ejemplo\nmás concreto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La Directora Akikawa se agacha y saca una\nzanahoria."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Cruj!</i>"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Así!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Delicioso! Este sabor es la marca de una\nzanahoria bien cultivada. ¡La recompensa del\njardinero concienzudo!",
+      "choice_data_list": [
+        "(¡E-ella se la comió!)",
+        "(¡E-ella se la comió!)"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Mi visión! Quiero ver a cada Umamusume madurar\ntan seguramente como estas zanahorias."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Hasta ese día, haré todo lo que pueda para\nayudarlas en su camino!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La analogía de la Directora Akikawa es un poco\ndifícil de seguir, pero no hay duda de su pasión."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Aliento! ¡Crezcan, mis zanahorias! ¡Crezcan\nfuertes y robustas para alcanzar el cielo!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Solo entonces se convertirán en alimento de alta\ncalidad para nuestras Umamusume! ¡Ahora es el\nmomento de crecer, zanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Está más claro que el día que la Directora Akikawa\nse preocupa sinceramente por sus estudiantes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y esa sinceridad es algo en lo que creo firmemente\nmerece respeto. Lo que me lleva a decir...",
+      "choice_data_list": [
+        "¿Quieres que te ayude con el trabajo del campo?"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Impactante! ¡Qué sorpresa tan inesperada!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Muy bien! Si estás dispuesto a ayudar, ¡me\nencantaría!",
+      "choice_data_list": [
+        "Comenzaré arando el campo."
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Gracias! ¡Los estudiantes y las zanahorias\ndependen de ti!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gracias a mi entrenamiento diario con <chrname>, he estado\nganando músculo recientemente. El poder brota\ndesde dentro de mí, y aró el campo con facilidad.",
+      "color_text_info_list": [
+        "ganando músculo",
+        "El poder brota desde dentro de mí"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Progreso! ¡Espléndido trabajo! ¡Oh, haz allí a\ncontinuación! ¡Y este lugar por aquí!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Maravilloso! Ahora los campos están listos para\nsembrar nuevas semillas."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Buen trabajo, en verdad! ¿Cómo podré agradecerte?",
+      "choice_data_list": [
+        "¿Podría tener algo de equipo de entrenamiento\nnuevo?",
+        "¿Podría tener algunas de esas zanahorias?"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Firmado y sellado! ¡Te presento <i>estos!</i>"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Estos zapatos de entrenamiento de vanguardia\nfueron desarrollados utilizando ingeniería de\nUmamusume."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Así que! Los he bautizado como... ¡Tracen Academy\nCleats! ¡Supervisé todo el proceso de diseño yo\nmisma, desde la planificación hasta la\nsupervisión!",
+      "choice_data_list": [
+        "¡Muchas gracias!"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡No hay necesidad de agradecerme! ¡Los mejores\nresultados requieren el mejor equipo!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Estos zapatos servirán como las \"zanahorias\"\nperfectas para criar a un buen corredor."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Expectativas! ¡Por favor, sigue criando a tu\nUmamusume con amor y cuidado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La Directora Akikawa irradia un entusiasmo\npalpable. Le daré estos zapatos a <chrname> enseguida."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cada aspecto de estos zapatos rebosa con el amor\nde la Directora Akikawa por las Umamusume a su\ncargo, hasta en su misma estructura."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los dos casi podemos escuchar gritos de\n\"¡Aliento!\" cada vez que mi entrenada ejerce\npresión en su talón. Nos motiva a ambas a entrenar\nmás duro que nunca!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Entendido! ¡Entonces ven, únete a mí para alabar\nestas magníficas zanahorias!",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Tú allí! ¡Qué magníficamente grande eres! ¡Has\ncrecido grande y fuerte como un árbol!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Tu turno! ¡Dales el elogio que se merecen!",
+      "choice_data_list": [
+        "¡Mira qué naranja eres! ¡Debes ser nutritiva!",
+        "¡Mira qué naranja eres! ¡Debes ser nutritiva!"
+      ]
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Espléndido! ¡Maravilloso! ¡Qué cumplido!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡En verdad, mi academia produce solo los mejores\nentrenadores!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Convicción! ¡Has hecho que estas zanahorias sean\naún más deliciosas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste: <itemname>",
+      "color_text_info_list": [
+        "<itemname>"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más tarde, un gran volumen de zanahorias llega a\nmi puerta—un regalo de la Directora Akikawa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Reúno a <chrname> y a algunos amigos que pasan, y\norganizamos una lujosa fiesta de zanahorias."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de disfrutar a fondo las zanahorias, <chrname>\ntiene montones de energía para entrenar!"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estoy esperando a Mejiro Ryan. Ella aún no ha\nllegado al entrenamiento..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Lo siento, Entrenador! No quería faltar al\nentrenamiento."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Me quedé conversando con uno de los estudiantes\nmás jóvenes, y..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras considero cómo responder a la disculpa de\nRyan, otra Umamusume entra a la habitación."
+    },
+    {
+      "name": "Umamusume más joven A",
+      "text": "Disculpe... Por favor, no se enoje con Ryan. ¡Fue\ntoda mi culpa!"
+    },
+    {
+      "name": "Umamusume más joven A",
+      "text": "Pensé que ella no tenía entrenamiento hoy, así que\nle pedí consejo sobre mi dieta."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Oh! No tenías que venir. ¡Yo puedo manejarlo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Ryan está tratando de proteger a esta\nchica.",
+      "choice_data_list": [
+        "Intenta ser más cuidadoso la próxima vez."
+      ]
+    },
+    {
+      "name": "Umamusume más joven A",
+      "text": "E-entonces, ¿está bien? Oh, qué alivio."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Lo siento. Gracias por entender, Entrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hoy he aprendido que Ryan es muy querida por las\nestudiantes más jóvenes."
+    }
+  ]
+}

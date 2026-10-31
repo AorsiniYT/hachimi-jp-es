@@ -1,0 +1,155 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Dado que el primer objetivo de Oguri Cap es darse\na conocer y ganar más popularidad, decidimos\ninscribirnos en muchas carreras diferentes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Llegamos a un hipódromo que alberga una carrera\nespecial de exhibición, cuando..."
+    },
+    {
+      "name": "Yone",
+      "text": "¡Oye, Oguri! ¡Cuánto tiempo!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿¡Eh?! ¿Qué están haciendo ustedes aquí?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sigo la línea de visión de Oguri Cap para\nencontrar un grupo de personas agitando y animando\nemocionadas."
+    },
+    {
+      "name": "Shige",
+      "text": "Jeje, ¡pareces haber tenido el shock de tu vida!\n¡Parece que nuestra sorpresa fue un gran éxito!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡No puedo creerlo! Pensé que me había equivocado y\nhabía regresado a casa por error.",
+      "choice_data_list": [
+        "¿Esta gente..."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¡Oh, perdón! Olvidé presentarte. Esta gente es\ntoda de mi pueblo natal."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Déjame presentarte a todos. Esta es mi\nentrenadora, y..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella me presenta brevemente, y ellos me saludan\nmuy calurosamente. La gente del pueblo natal de\nOguri Cap es tan amable como ella siempre los hace\nser."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Ustedes vinieron todo este camino solo para\nverme? Es un viaje tan largo..."
+    },
+    {
+      "name": "Take",
+      "text": "¡Vamos! ¡Nuestra Oguri finalmente ha debutado! De\nninguna manera podríamos quedarnos en casa en el\ncampo cruzados de brazos!"
+    },
+    {
+      "name": "Tome",
+      "text": "¡Todos queríamos verte dar lo mejor de ti en una\ncarrera central, así que vinimos a animarte!"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Muchas gracias a todos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras la gente de su pueblo natal se turna para\nexpresar su apoyo, una sonrisa gradualmente\naparece en el rostro de Oguri Cap. Y entonces..."
+    },
+    {
+      "name": "Espectador A",
+      "text": "Oye, ¿no es esa Oguri Cap allá? Escuché que\nabsolutamente nadie tenía oportunidad contra ella\nen Kasamatsu."
+    },
+    {
+      "name": "Espectador B",
+      "text": "Sí, pero eso fue en <i>Kasamatsu.</i> La Twinkle Series\nestá en una liga completamente diferente."
+    },
+    {
+      "name": "Espectador B",
+      "text": "De todos modos, ¿quién crees que va a estar en la\npróxima carrera? ¡Tengo mis esperanzas en Tamamo\nCross!"
+    },
+    {
+      "name": "Espectador A",
+      "text": "Nah, ¡tiene que ser Super Creek! Quiero decir,\nella es...",
+      "color_text_info_list": [
+        "Super Creek"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Bueno, entonces, tengo que ir a prepararme."
+    },
+    {
+      "name": "Shige",
+      "text": "E-está bien... Pero espera un minuto, Oguri.\n¿Estás bien?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "¿Hm? ¿Bien con qué?"
+    },
+    {
+      "name": "Tome",
+      "text": "Mientras estés bien, eso es lo que importa,\npero..."
+    },
+    {
+      "name": "Tome",
+      "text": "Eres más que bienvenida a volver a casa si las\ncosas se ponen demasiado difíciles aquí, ¿me oyes?"
+    },
+    {
+      "name": "Take",
+      "text": "¡Siempre seremos tus seguidores más ruidosos!\n¡Asegúrate de escucharnos a nosotros y a nadie\nmás, ¿verdad?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "E-está bien... ¿Gracias? Hoy es solo una carrera\nde exhibición, así que espero que ustedes\ndisfruten."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una vez que los amigos del pueblo natal de Oguri\nCap nos despiden, noto que ella aún se ve\nperpleja—como si no entendiera por qué estaban tan\npreocupados por ella."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Explico que probablemente escucharon algunos\ncomentarios descuidados de los otros espectadores."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Oh... Así que por eso estaban preocupados por mí."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "La gente pensará lo que quiera, así que\nsimplemente ignoro la negatividad."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hm... Pero supongo que está haciendo que todos los\ndemás se sientan inquietos.",
+      "choice_data_list": [
+        "¡Si ganas, no habrá nada de qué preocuparse más!",
+        "¡Si ganas, no habrá nada de qué preocuparse más!"
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "...Es cierto. Otra razón para que yo entre en\nmuchas carreras."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Me aseguraré de que todos en esta ciudad me\nreconozcan—lo prometo."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pero primero, tengo que ganar esta carrera y\nhacerle saber a todos que estoy bien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Fiel a su palabra, Oguri Cap se adelanta en el\nrecta final y, con una victoria asombrosa, les\nmuestra a sus seguidores del pueblo natal la\nverdadera medida de su habilidad."
+    }
+  ]
+}

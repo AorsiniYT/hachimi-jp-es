@@ -1,0 +1,33 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Agnes Tachyon",
+      "text": "<i>Suspiro...</i> ¡Dame un respiro!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "El consejero me dio una charla de tres horas.",
+      "choice_data_list": [
+        "¿Qué hiciste?",
+        "¿Qué hiciste?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Estaba conduciendo un experimento. Nada especial."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Cometí un pequeño error y terminé rompiendo todas\nlas ventanas del salón."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Estaba vacío, así que nadie resultó herido ni\nnada. No entiendo por qué tuvieron que enojarse\ntanto."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "<i>Suspiro...</i> Solo estaba prestando atención a\nmedias, y sin embargo estoy agotado."
+    }
+  ]
+}

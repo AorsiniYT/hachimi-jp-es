@@ -1,0 +1,287 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Estamos en medio del entrenamiento para el Kikuka\nSho, y Narita Brian está casi lista, cuando..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...",
+      "choice_data_list": [
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Tenemos nuestra reunión después, ¿verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La he notado mirando al cielo cada tanto en medio\ndel entrenamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lo ha estado haciendo más y más a menudo a medida\nque pasan los días, y el Kikuka Sho está a menos\nde un mes. Incluso el verano volviéndose otoño no\nparece cambiar nada para ella.",
+      "choice_data_list": [
+        "(No podemos seguir así...)"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "No es común que me visites. Supongo que esto es\nsobre lo que discutimos en el campamento de\nverano?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Y Brian, escucho, finalmente ha vuelto a la\nnormalidad."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Sin embargo, incluso si eliminas tus\narrepentimientos del verano, solo pueden ser\nreemplazados con nuevos arrepentimientos."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Además, el Kikuka Sho se acerca. Aún así, ¿deseas\nuna carrera de práctica?",
+      "choice_data_list": [
+        "Es necesario precisamente porque el Kikuka Sho\nestá cerca."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...Pensar que ha llegado el día en que me\nencuentro siendo pedido para ayudar a un oponente."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡De ninguna manera! ¡La presidenta realmente está\nparticipando en esta carrera de práctica?! ¿Y\ncontra—"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¡Así es! ¡Brian! Aunque, ¿no estuvo en el hospital\nrecientemente?"
+    },
+    {
+      "name": "New Trainer",
+      "text": "<i>Suspiro...</i> Esto normalmente sería un\nemparejamiento soñado, pero ¿es esto realmente lo\nmejor para ella ahora?"
+    },
+    {
+      "name": "Skilled Trainer",
+      "text": "Ella acaba de recuperarse y ya se enfrenta al\nEmperador. Vaya, está llena de sorpresas."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Entrenador... ¿Estás seguro?",
+      "choice_data_list": [
+        "Creo que deberías hacer esto al menos una vez."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...!",
+      "choice_data_list": [
+        "Sin arrepentimientos, ¿vale?",
+        "Sin arrepentimientos, ¿vale?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Sí, lo aprecio. Y... lo siento."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Debí haber confiado en ti más desde el principio."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Eres mi entrenador, después de todo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Muy bien entonces, Rudolf. ¡La victoria será mía!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "\"Cuando el tigre ruge, el viento mismo se\nlevanta.\" Entonces haré lo mismo."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...Que ninguno de nosotros se contenga nada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Clonc!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Brian despega con gran fuerza tan pronto\ncomo comienza la carrera. Symboli Rudolf, sin\nembargo, tiene un inicio impresionante propio."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Cuál de ellas saldrá victoriosa? El público\nobserva con el aliento contenido hasta que, por\nfin..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Narita Brian pierde por un cuello."
+    },
+    {
+      "name": "New Trainer",
+      "text": "...Considerando su salud recientemente, realmente\ndio una buena pelea."
+    },
+    {
+      "name": "Skilled Trainer",
+      "text": "¡Incluso en perfecta salud, correr contra Symboli\nRudolf es toda una prueba!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Fue una carrera increíble! ¡La presidenta es\ndemasiado fuerte!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Todos los espectadores se han ido.",
+      "choice_data_list": [
+        "La carrera terminó, después de todo.",
+        "La carrera terminó, después de todo."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Sí..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...",
+      "choice_data_list": [
+        "¿Cómo te sentiste?"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Siento que me di cuenta de mi propia arrogancia.\nIncluso un diferencia de un cuello es un margen\nfirme."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Aún no puedo alcanzarla, incluso ahora."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No puedo sacar de mi cabeza todas las\noportunidades que perdí aquel verano."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Si hubiera podido correr, entonces pensé que sería\ncapaz de..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "O tal vez he estado sobreestimando mi propia\nhabilidad para ganar."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...La realidad es que perdí. Fui débil. No tengo\ncontrol sobre mí misma y no puedo medir\ncompletamente mis propias habilidades."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Lo notaste, ¿verdad? Por eso me hiciste correr en\nuna carrera como esta.",
+      "choice_data_list": [
+        "En realidad, pensé que podrías ganar.",
+        "En realidad, pensé que podrías ganar."
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¿Qué?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Pfff... ¡Jajaja! ¡Idiota! ¡Supongo que eso nos\nhace a los dos!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Déjame correr una vez más."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Este dolor... Esta hambre... Es abrumador.",
+      "choice_data_list": [
+        "¡Volvámonos más fuertes juntos!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Sí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, Narita Brian sale a la pista."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella es más fuerte de lo que era en la primavera y\nel verano. Nada detendrá su progreso."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Rudolf."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...Brian."
+    },
+    {
+      "name": "Los Dos",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Gracias por ayer."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Si quieres agradecerme, pásate por la oficina del\nconsejo estudiantil de vez en cuando."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Cuando llegue el momento."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Hmm. Bueno, espero que llegue pronto."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Además, al fin pude experimentar tu verdadera\nfuerza."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Pero no pienses que este es mi límite."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ambos vamos a alcanzar mayores alturas. La próxima\nvez que corramos... No perderé."
+    },
+    {
+      "name": "Espectadores",
+      "text": "<i>Charla, charla...</i>"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...¿Es así?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Entonces... hasta que \"llegue el momento\", como\ndijiste."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...¡Pff!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La noticia del desafío de Narita Brian al\nEmperador pronto se extiende por toda la escuela."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "La lesión de Super Creek ha sido completamente\ntratada."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Entrenador..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Hum... Me vas a hacer sonrojar si sigues mirándome\nasí.",
+      "choice_data_list": [
+        "Deja de fingir que estás bien."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡No estoy fingiendo! Si solo me quedo quieta,\nentonces no es na—",
+      "choice_data_list": [
+        "<i>Mirar</i>"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Ahí vas mirando de nuevo. Deja de molestarme!\n¡Hum!"
+    },
+    {
+      "name": "Super Creek",
+      "text": "...En serio, duele, pero no es nada de qué\npreocuparse."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Estoy siendo seria... ¿vale?",
+      "choice_data_list": [
+        "Aún estoy preocupado.",
+        "Lloraré si descubro que mientes, ¿me oyes?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Estoy siendo seria... ¿vale?",
+      "choice_data_list": [
+        "Aún estoy preocupado.",
+        "Lloraré si descubro que mientes, ¿me oyes?"
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "...Ya veo. Bueno, no querría hacerte preocupar."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Muy bien entonces. Odio aprovecharme de tu bondad,\npero solo esta vez..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Crees que podrías quedarte conmigo hasta que esté\nmejor? Lo siento mucho..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Super Creek sonríe a través del dolor para que yo\nno me preocupe."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¿Oh? Bueno, eso no está bien."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Lo siento, Entrenador. Duele mucho de verdad."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Gah, qué hago? No quiero que tengas problemas por\nmi culpa..."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Ugh! P-pero duele..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de calmar a la agitada Super Creek, me\ntomo mi tiempo para atender su lesión."
+    },
+    {
+      "name": "Super Creek",
+      "text": "¡Dios mío! Jeje, tonto Entrenador."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Si te hago llorar, simplemente tendré que asumir\nmi error y consolarte."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Te daré un <i>grandeeee</i> abrazo, y luego... Oh,\ncierto. Eso significa que tengo que mejorar\nrápido."
+    },
+    {
+      "name": "Super Creek",
+      "text": "...Eres tan lindo, Entrenador. ¡Gracias por todo!\n♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le doy a Super Creek el cuidado que necesita, y\nella me acaricia la cabeza felizmente."
+    }
+  ]
+}

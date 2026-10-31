@@ -1,0 +1,25 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Super Creek",
+      "text": "Vaya, estuviste tan cerca.",
+      "choice_data_list": [
+        "Lo siento...",
+        "Lo siento..."
+      ]
+    },
+    {
+      "name": "Super Creek",
+      "text": "Allá, allá. ¡Está bien! No te lo tomes a pecho."
+    },
+    {
+      "name": "Super Creek",
+      "text": "Todos tienen sus días malos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Bueno, eso fue decepcionante."
+    }
+  ]
+}

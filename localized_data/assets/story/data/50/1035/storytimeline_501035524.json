@@ -1,0 +1,270 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Winning Ticket",
+      "text": "¡Hola, Entrenador! ¿También estás comprando algo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras compraba unos pasteles, veo a Winning\nTicket y a Yukino Bijin.",
+      "choice_data_list": [
+        "Sí, tú también?",
+        "Sí, tú también?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Claro! Yuki y yo vinimos a buscar pasteles\nfotogénicos para el 'gram'!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Jeje, lo siento, Tickezo solo me acompaña."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Cuando le dije qué pasteles quería, sugirió que\nviniéramos juntas."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Porque si a Yuki le interesan, tienen que ser\nbuenos!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Vamos, busquemos pasteles que queden bien en\nfoto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, decidimos ir de compras juntas. Sin\nembargo, cuanto más adentro entramos..."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Guau, esto sí que es un punto caliente de\npasteles... ¡Hay mucha gente!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "La tienda que queremos está... Oh no, está hasta\natrás... ¿Qué hacemos?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ufff... Oh, ¡ya sé!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "El otro día, Hayahide dijo: \"Si piensas\nlógicamente, nada es imposible\". ¡Así que pensemos\nlógicamente!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Lógicamente? ¿Cómo hacemos eso?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Eh... Um... ¡Bueno!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ummm... Ufff...",
+      "choice_data_list": [
+        "¿Tal vez idear una estrategia?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Sí! Eso es... ¡una estrategia!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Pero ¿cómo? ¿Qué hacemos, Entrenador?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estudiando a la multitud, puedo pensar en unos\ncuantos métodos...",
+      "choice_data_list": [
+        "Intentemos colarnos lo más rápido que podamos.",
+        "Mantengamosnos al tanto del flujo de la gente y\nmovernos con él.",
+        "Esperemos a que la multitud se disperse."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Allá vamos! ¡Apresurémonos y pasemos rápidamente\npor todos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nos abrimos paso donde hay una apertura, pero la\ndensa multitud no nos permite avanzar mucho."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Ugh, no siento que nos estemos abriendo paso en\nabsoluto.",
+      "choice_data_list": [
+        "Concuerdo.",
+        "Concuerdo."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Yuki, Entrenador, por aquí! ¡Doblamos la esquina!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Encontré la tienda! ¿Es esta, verdad?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Hm... Sí, ¡esa es! ¡Voy a comprar unos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Winning Ticket mostró una velocidad sorprendente\nabriéndose paso, así que le pregunto cómo lo\nhizo..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Hmm, ¿tal vez porque es como cuando estoy\ncorriendo una carrera?",
+      "choice_data_list": [
+        "¿A qué te refieres?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Como, durante una carrera cuando pienso: \"Bueno,\n¡hora de acelerar!\""
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "No importa cuán lleno esté el frente, ¡pongo toda\nmi energía en ese empujón!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Winning Ticket tiene un buen truco bajo\nla manga para avanzar en situaciones apretadas."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Los conseguiste? ¡Guau! ¡Pasteles!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Por supuesto! ♪ ¡Todo gracias a las dos!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Oh, ya sé, ¿qué tal si después nos los comemos\njuntas? ¡Solo tengo que devolverles el favor! ♪"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Podemos? ¡Ay, Yuki, eres tan... tan amable!\n<i>¡Sollozos!</i>"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Allá vamos! ¡Sigamos el flujo y vaaamos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Moviéndonos con la multitud, avanzamos recto,\nluego empezamos a curvar, perdiendo gradualmente\nde vista nuestro destino."
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¿Eh? ¿Dónde estaba esa tienda otra vez... ¿Por\naquí? ¿O por allá?",
+      "choice_data_list": [
+        "B-bueno, eh..."
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Ustedes dos, por aquí! ¡Miren, ese es el letrero\nde la tienda!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Oh, ¡lo es! ¡Voy a comprar unos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Winning Ticket pudo moverse entre la multitud sin\nperder su sentido de la dirección, así que le\npregunto cómo lo hizo."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Hmm, ¿tal vez es como cuando estoy corriendo una\ncarrera?",
+      "choice_data_list": [
+        "¿A qué te refieres?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Durante una carrera, más o menos tienes que\ndecidir por ti misma cuál es el momento crítico\npara moverte."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Es raro, pero cuando sucede, ya no me siento\nperdida y puedo simplemente avanzar rápidamente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Winning Ticket tiene un buen truco bajo\nla manga para aprovechar al máximo los momentos\ncríticos."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Los conseguiste? ¡Guau! ¡Pasteles!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Por supuesto! ♪ ¡Todo gracias a las dos!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Oh, ya sé, ¿qué tal si después nos los comemos\njuntas? ¡Solo tengo que devolverles el favor! ♪"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Podemos? ¡Ay, Yuki, eres tan... tan amable!\n<i>¡Sollozos!</i>"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Entendido! Si esperamos un rato, habrá menos\ngente, y podremos llegar súper fácil."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oye, Yuki, los que quieres son los pasteles\nfotogénicos, ¿verdad?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Pero, um, ¿qué significa 'fotogénico'?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Jordan también dice eso todo el tiempo, así que\nsiempre me he preguntado qué significa... ¿Como,\npasteles que le gustarían a tu Abuela? ¿Quizás?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Apenas lo sé yo, ¡pero las chicas de la ciudad lo\nusan cuando algo se ve genial en las redes\nsociales!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Genial, huh? Ah, entonces cuando se ve bien en\nfotos, ¿es 'fotogénico'? ¡Ya veo! Yuki, ¡eres tan\nlista!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras charlan, la multitud lentamente empieza a\ndispersarse."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Miren, se está vaciando! ¿Quizás este es el\nmomento adecuado para comprar tus pasteles?"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Sí! ¡Voy a comprar unos!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Los conseguiste? ¡Guau! ¡Pasteles!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "¡Por supuesto! ♪ ¡Todo gracias a las dos!"
+    },
+    {
+      "name": "Yukino Bijin",
+      "text": "Oh, ya sé, ¿qué tal si después nos los comemos\njuntas? ¡Solo tengo que devolverles el favor! ♪"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¿Podemos? ¡Ay, Yuki, eres tan... tan amable!\n<i>¡Sollozos!</i>"
+    }
+  ]
+}

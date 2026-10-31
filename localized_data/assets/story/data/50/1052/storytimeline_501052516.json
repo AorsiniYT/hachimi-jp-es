@@ -1,0 +1,116 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una temprana tarde, me dirijo a mi oficina,\ncuando..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Grass! ¡Escuché que le ganaste a Spe!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ah... Bueno, esa carrera fue, eh... de una\ndiferente categoría, ya ves...",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Je je je! ¡Así que nos escuchaste! ¡Hay esta\ncompetencia genial en el distrito comercial! Se\nllama..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡El \"¡Reto al Legendario Special Week! ★ El\nDesafío de Comer Ramen de Montones de Fideos\"!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¿Escuchaste eso? ¡Ahora están llamando a Spe\nlegendario! ¡¿No suena increíble?!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Y adivina qué! ¡Le pregunté al dueño de la tienda\nde ramen y hay dos cupos disponibles!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Así que ambos deberíamos inscribirnos, Grass!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Pero Urara... ¿De verdad podrías terminar una\ncomida así? Siempre comes menos que yo en el\nalmuerzo."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Estará bien! ¡Solo saltaré el desayuno!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hmm, la pregunta es si realmente es tan simple..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Sí, ahora que lo pienso... Estamos hablando de\nconvertirnos en <i>leyendas</i> aquí. Así que, por mucho\nque me duela decirlo..."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Tendré que saltar mi helado de zanahoria también!\n¡Lo sacrificaré todo para vencer a Spe!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Urara...",
+      "choice_data_list": [
+        "¡Mejor vencerla en una carrera!",
+        "¡Tenemos que aceptar este desafío!"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Eso es! Correr es mucho más emocionante que solo\natiborrarse de comida."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Jojó... ¡Eso es cierto!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "El ramen llenaría mi barriga, pero correr llena mi\n<i>alma!</i>"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Perfecto! ¡Me convertiré en una legendaria\ncorriendo en su lugar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con la ayuda de Grass Wonder, Haru Urara apenas\nevita un estómago lleno en exceso y un dolor de\nbarriga."
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Sí! ¡Voy a convertirme en una leyenda! ¡La\nLegendaria Urara!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Vaya, qué fuerte determinación tienes! Espero que\nambos den una buena pelea, entonces.",
+      "choice_data_list": [
+        "¿\"Ambos\"?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿No acabas de exclamar \"¡<i>Nosotros</i> debemos aceptar\neste desafío!\"? ¡Bueno, tienes todo mi apoyo!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Guau! ¿Tú también vas a intentarlo, Entrenador?\n¡Hurra!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Ambos demos lo mejor de nosotros! ¡Entonces\nseremos leyendas juntos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Descubrimos que la \"legendaria\" Spe es un oponente\nbastante feroz. Cuando todo está dicho y hecho, yo\ndecido tomar un descanso de incluso mirar ramen\ndurante las próximas semanas..."
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Symboli Rudolf y sus compañeros estudiantes se\nestán quedando en una instalación costera para el\ncampamento de entrenamiento de verano."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Uf... Eso es todo por el régimen de entrenamiento\nde hoy."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "El campamento acaba de comenzar, así que más vale\nprevenir que lamentar. Debería ir a dar un paseo\npara enfriarme.",
+      "choice_data_list": [
+        "¿Qué tal si vamos a explorar un poco, entonces?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Jaja, ciertamente haces una oferta tentadora. Muy\nbien entonces—podría usar la compañía."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "La mente también necesita descansos, después de\ntodo. Debería haber un café costero cerca, si\ntienes tanta hambre como yo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Terminamos el entrenamiento de Symboli Rudolf y\nvamos a almorzar. Luego, más tarde esa noche..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Oh, buenas noches, Entrenador. ¿Trabajando en tu\ntiempo libre? Eres realmente dedicado.",
+      "choice_data_list": [
+        "¿Qué te trae por aquí?",
+        "¿Qué te trae por aquí?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Estaba haciendo un patrullaje ligero del\ncampamento. ...Quizás tengo demasiado tiempo\nlibre."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Aunque, supongo que es algo bueno que no haya\nproblemas que exijan mi atención..."
+    },
+    {
+      "name": "???",
+      "text": "Aaaaaah!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿¡Q-qué fue ese grito?!",
+      "choice_data_list": [
+        "¡Alguien podría estar en problemas!"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¡Vamos! ¡Ruego que nada esté mal!"
+    },
+    {
+      "name": "???",
+      "text": "Aaaaaah!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¡Los gritos vienen de más de una dirección! ¿Qué\ndiablos está pasando?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "<i>Haa... Haa...</i> Ese último grito vino de por aquí...",
+      "choice_data_list": [
+        "Pero no hay nadie alrededor.",
+        "Pero no hay nadie alrededor."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "No entiendo. Estoy segura de que escuché a alguien\naquí hace un momento..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Por favor... estén a salvo, todos."
+    },
+    {
+      "name": "Umamusume",
+      "text": "<i>¡Bwaaaah!</i>"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿¡Qué?!"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¿¡Eh? ¡Whoa! ¿P-presidenta?! Lo siento\nmucho—¡pensé que eras una compañera de clase!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¡Lo sentimos mucho, mucho, mucho! Un grupo de\nnosotros estábamos bromeando, tratando de\nasustarnos unos a otros. Ni siquiera sé por dónde\nempezar a disculparme..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Se estaban asustando unos a otros? ...Entonces,\n¿nadie está herido o en peligro?"
+    },
+    {
+      "name": "Umamusume",
+      "text": "No..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¡Jaja! ¡Qué alivio! Si nada más, ciertamente\nhicieron un gran trabajo de asustar a <i>mí!</i>"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "E-em... ¿Presidenta Rudolf?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Jajaja... Ah, no es nada. Estoy feliz de que estén\naprovechando su tiempo juntos."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Mis disculpas por interrumpir su juego. Por favor,\ncontinúen."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Eh? ¿Hay algo malo? Todos parecen bastante sin\npalabras...",
+      "choice_data_list": [
+        "Quizás pensaron que iban a recibir una regañina.",
+        "Quizás pensaron que iban a recibir una regañina."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Una regañina? Pero no han hecho nada malo. Este\nes su propio tiempo libre—¿por qué no deberían\nusarlo como crean conveniente?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Todos somos estudiantes. Hay más en nuestras vidas\nque carreras y entrenamiento, y los tiempos que\npasamos juntos servirán como un trampolín vital\npara el futuro."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Además, cada día de nuestras vidas viene solo una\nvez. Durante un evento especial como este\ncampamento, ¿quién no querría hacer recuerdos\ndivertidos para recordar?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Incluso yo... Jaja. Sí, estaría mintiendo si\nafirmara que no disfruto estos pequeños momentos\ncotidianos.",
+      "choice_data_list": [
+        "Entonces, ¿por qué no preguntas si puedes unirte a\nellos?"
+      ]
+    },
+    {
+      "name": "Umamusume",
+      "text": "¿¡Eh?!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Jaja. Vamos, vamos. Sabes que no puedo imponerme\nasí."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "No le hagan caso a las palabras de mi entrenador,\ntodos. Tenemos un largo campamento por delante,\nasí que deberían aprovechar esta oportunidad para\nrecargar energías—"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "E-em! ¿Presidenta Rudolf?"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Si está bien contigo... ¿Te gustaría, sabes,\nunirte a nosotros?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...¿Estás segura?"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡S-sí! ¡Solo si no es molestia, ¿no?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Molestia? Ni lo pienses. Jeje... ¡Me encantaría\nunirme a ustedes!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Equipo Alfa, reporten."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Sí, señora! Los preparativos están completos, y\n¡todos están en posición!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Excelente. Luego, Equipo Bravo, diríjanse al área\nde ensayo. Manténganse alerta por cualquier\npeligro acechante."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Una vez que localicen un lugar ideal, escóndanse.\nSaben qué hacer después, ¿correcto?"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¡Sí! ¡Saltamos y damos un buen susto a los otros!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Excelente. Buena suerte, y asustemos para\ndivertirnos."
+    },
+    {
+      "name": "Umamusume",
+      "text": "¡Recibido!",
+      "choice_data_list": [
+        "Realmente te estás metiendo en esto.",
+        "Realmente te estás metiendo en esto."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Eso es realmente tan sorprendente? Quiero que\neste concurso de sustos sea un éxito rotundo."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Sería una lástima si no pusiéramos nuestro mejor\nesfuerzo para los participantes. Un esfuerzo en\nequipo maximizará el factor de miedo.",
+      "choice_data_list": [
+        "Me alegra que te estés divirtiendo.",
+        "Me alegra que te estés divirtiendo."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Jaja... Sabes, tienes razón. Nunca me he divertido\ntanto en un campamento de entrenamiento antes."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Así comienza un evento que pasará a la historia\ncomo el concurso de sustos más emocionante del\ncampamento."
+    }
+  ]
+}
